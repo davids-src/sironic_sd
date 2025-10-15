@@ -69,12 +69,14 @@ export default function RolunkPage() {
           <div className="mx-auto max-w-3xl">
             <h2 className="text-3xl font-bold mb-6">A SIRONIC küldetése</h2>
             <p className="text-lg text-muted-foreground leading-relaxed mb-6">
-              Tudjuk, hogy egy kisvállalkozásnál vagy középvállalatnál az IT-nak egyszerűen működnie kell.
-              Nincs idő a szerverhibákkal, a lassú hálózattal vagy az adatbiztonsági résekkel bajlódni.
+            A <b className="text-red font-bold">Sironic Rendszerház</b> egy olyan informatikai vállalkozás, amely nemcsak rendszereket épít, hanem bizalmat is.
+            Hiszünk abban, hogy az informatika akkor értékes igazán, ha megkönnyíti az emberek életét, és nem bonyolítja azt.
+            Ezért minden megoldásunk mögött egy egyszerű gondolat áll: a technológia érted dolgozik, nem ellened.
             </p>
             <p className="text-lg text-muted-foreground leading-relaxed mb-6">
-              Ezért hoztuk létre a SIRONIC-ot: hogy vállalkozások profi IT hátteret kapjanak anélkül, hogy
-              saját informatikust kellene alkalmazniuk vagy drága rendszereket kellene kiépíteniük.
+            Cégünk története több év szakmai tapasztalatból, rengeteg ügyfélvisszajelzésből és még több elhivatottságból született.
+            Kezdetben kisvállalkozásoknak segítettünk eligazodni az IT világában, ma pedig már komplett infrastruktúrákat, felhőalapú szolgáltatásokat és testreszabott fejlesztéseket valósítunk meg.
+            Mindezt úgy, hogy közben megőriztük azt, ami az elejétől jellemző ránk: emberközpontúság, rugalmasság és technológiai precizitás.
             </p>
             <p className="text-lg text-muted-foreground leading-relaxed">
               Mi vagyunk az a partner, akire rá lehet bízni a rendszert, és aki akkor is ott van, amikor
