@@ -56,6 +56,10 @@ const whyChooseUs = [
   'Proaktív működés: Mi előre gondolkodunk, nem akkor lépünk, amikor már baj van.',
   'Átlátható költségek: Nincsenek rejtett díjak, fix havidíjas karbantartás vagy eseti megoldások.',
   'Valódi emberi kommunikáció: Nálunk nincs "ticket-dzsungel" – mindig elérsz minket.',
+  'Teljes körű IT üzemeltetés: Rendszereid stabil és gyors működéséért folyamatosan dolgozunk – kevesebb leállás, nagyobb hatékonyság, biztonságos háttérrel.',
+  'Korszerű IT biztonság: Adatvédelem és hálózati biztonság modern tűzfalakkal, mentési megoldásokkal és hozzáférés-kezeléssel – az adatbiztonság nálunk alap, nem extra.',
+  'Webfejlesztés és digitális jelenlét: Professzionális, reszponzív weboldalak és egyedi rendszerek, amelyek növelik céged online láthatóságát és bevonzák az ügyfeleket.',
+  'Felhőalapú megoldások és hosting: Gyors, biztonságos és skálázható tárhelyszolgáltatás weboldaladhoz, levelezésedhez és adatmentéseidhez – mindig elérhető, mindig stabil.',
 ];
 
 const testimonials = [
@@ -155,11 +159,11 @@ export default function Home() {
               Miért válassz minket?
             </h2>
           </div>
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-6 max-w-4xl mx-auto">
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-6 max-w-6xl mx-auto">
             {whyChooseUs.map((reason, index) => (
               <div key={index} className="flex gap-3 items-start">
                 <CheckCircle className="h-6 w-6 text-brand-red flex-shrink-0 mt-0.5" />
-                <p className="text-lg">{reason}</p>
+                <p className="text-base leading-relaxed">{reason}</p>
               </div>
             ))}
           </div>

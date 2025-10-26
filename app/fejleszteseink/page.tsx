@@ -61,10 +61,10 @@ const caseStudies = [
     features: ['Ticket rendszer', 'Valós idejű státusz', 'Dokumentáció', 'Előzmények nyilvántartása'],
   },
   {
-    title: 'AssetTrack',
-    subtitle: 'Eszközkezelő rendszer vállalatoknak',
-    description: 'Nyilvántartás, karbantartási napló és riportok egy platformon.',
-    features: ['Eszköz nyilvántartás', 'Karbantartási napló', 'Riport generálás', 'QR kód alapú azonosítás'],
+    title: 'CRM Pro',
+    subtitle: 'Egyedi fejlesztésű ügyfélkezelő rendszer vállalatoknak',
+    description: 'Személyre szabott CRM megoldás, amely egyszerűsíti az értékesítést, a kapcsolattartást és az ügyféladat-kezelést.',
+    features: ['Testreszabható modulok és jogosultságkezelés', 'Értékesítési folyamatok automatizálása', 'Integráció meglévő rendszerekkel (ERP, e-mail, weboldal)', 'Valós idejű riportok és teljesítménymutatók'],
   },
 ];
 
