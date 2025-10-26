@@ -53,6 +53,7 @@ export const localBusinessSchema = {
   '@context': 'https://schema.org',
   '@type': 'LocalBusiness',
   name: 'SIRONIC Rendszerház',
+  description: 'Professzionális IT szolgáltatások Budapesten: rendszerüzemeltetés, hálózatépítés, IT biztonság, webfejlesztés, IT oktatás és vállalati tudásfejlesztés.',
   image: 'https://sironic.hu/images/logo.png',
   '@id': 'https://sironic.hu',
   url: 'https://sironic.hu',
@@ -77,4 +78,51 @@ export const localBusinessSchema = {
     },
   ],
   priceRange: '$$',
+  areaServed: {
+    '@type': 'GeoCircle',
+    geoMidpoint: {
+      '@type': 'GeoCoordinates',
+      latitude: 47.4979,
+      longitude: 19.0402,
+    },
+    geoRadius: '50000',
+  },
+  hasOfferCatalog: {
+    '@type': 'OfferCatalog',
+    name: 'IT szolgáltatások',
+    itemListElement: [
+      {
+        '@type': 'Offer',
+        itemOffered: {
+          '@type': 'Service',
+          name: 'Rendszerüzemeltetés és IT karbantartás',
+          description: 'Folyamatos monitoring, karbantartás és hibaelhárítás',
+        },
+      },
+      {
+        '@type': 'Offer',
+        itemOffered: {
+          '@type': 'Service',
+          name: 'IT oktatás és tudásfejlesztés',
+          description: 'Személyre szabott IT oktatások és biztonságtudatossági tréningek',
+        },
+      },
+      {
+        '@type': 'Offer',
+        itemOffered: {
+          '@type': 'Service',
+          name: 'Hálózatépítés és fejlesztés',
+          description: 'Hálózattervezés, kiépítés és optimalizálás',
+        },
+      },
+      {
+        '@type': 'Offer',
+        itemOffered: {
+          '@type': 'Service',
+          name: 'IT biztonság és adatvédelem',
+          description: 'Tűzfal konfiguráció, biztonsági mentések, GDPR megfelelés',
+        },
+      },
+    ],
+  },
 };

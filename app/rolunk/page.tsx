@@ -6,7 +6,8 @@ import type { Metadata } from 'next';
 export const metadata: Metadata = {
   title: 'Rólunk - SIRONIC Rendszerház',
   description:
-    '10+ év tapasztalat IT rendszerek tervezésében és üzemeltetésében. Proaktív, megbízható partner kis- és középvállalkozásoknak.',
+    'A SIRONIC Rendszerház a COVID-időszakban indult. Stabilitást, biztonságot és nyugalmat adunk a működéshez. Rendszerüzemeltetés, hálózatépítés, IT biztonság és oktatás.',
+  keywords: ['SIRONIC története', 'IT karbantartás Budapest', 'rendszerüzemeltetés', 'informatikai szolgáltatások', 'IT oktatás', 'adatbiztonság', 'hálózatépítés'],
 };
 
 const values = [
@@ -46,10 +47,14 @@ export default function RolunkPage() {
             <h1 className="text-4xl font-bold tracking-tight sm:text-5xl mb-6">
               Rólunk
             </h1>
+            <p className="text-lg text-muted-foreground leading-relaxed mb-6">
+              A SIRONIC Rendszerház a COVID-időszakban indult, amikor minden vállalkozásnak újra kellett gondolnia az informatikai működését. Azóta folyamatosan fejlődünk, és naprakészen követjük az IT világ gyors változásait – mert hisszük, hogy a technológia nem teher, hanem előny lehet minden cég számára.
+            </p>
+            <p className="text-lg text-muted-foreground leading-relaxed mb-6">
+              Célunk, hogy a kis- és középvállalkozásoknak ne kelljen az informatikai problémákkal küzdeniük. Mi nemcsak rendszereket tartunk karban – <strong className="text-foreground">stabilitást, biztonságot és nyugalmat adunk a működéshez</strong>.
+            </p>
             <p className="text-lg text-muted-foreground leading-relaxed">
-              A SIRONIC Rendszerház több mint egy évtizede segít vállalkozásoknak abban, hogy az IT ne
-              legyen probléma, hanem megoldás. Mi nem csak rendszereket tartunk karban – nyugalmat adunk a
-              működéshez.
+              Legyen szó <strong className="text-foreground">rendszerüzemeltetésről, hálózatépítésről, adatbiztonságról vagy webfejlesztésről</strong>, nálunk minden IT-megoldás egy kézben van – gyorsan, átláthatóan, emberi nyelven.
             </p>
           </div>
         </div>
@@ -69,18 +74,19 @@ export default function RolunkPage() {
           <div className="mx-auto max-w-3xl">
             <h2 className="text-3xl font-bold mb-6">A SIRONIC küldetése</h2>
             <p className="text-lg text-muted-foreground leading-relaxed mb-6">
-            A <b className="text-red font-bold">Sironic Rendszerház</b> egy olyan informatikai vállalkozás, amely nemcsak rendszereket épít, hanem bizalmat is.
-            Hiszünk abban, hogy az informatika akkor értékes igazán, ha megkönnyíti az emberek életét, és nem bonyolítja azt.
-            Ezért minden megoldásunk mögött egy egyszerű gondolat áll: a technológia érted dolgozik, nem ellened.
+              Tudjuk, hogy egy kis- vagy középvállalkozás számára az informatika nem lehet akadály – egyszerűen működnie kell, minden nap, hibamentesen. Egy leállás, egy lassú hálózat vagy egy elavult biztonsági beállítás ma már komoly veszteséget okozhat.
             </p>
             <p className="text-lg text-muted-foreground leading-relaxed mb-6">
-            Cégünk története több év szakmai tapasztalatból, rengeteg ügyfélvisszajelzésből és még több elhivatottságból született.
-            Kezdetben kisvállalkozásoknak segítettünk eligazodni az IT világában, ma pedig már komplett infrastruktúrákat, felhőalapú szolgáltatásokat és testreszabott fejlesztéseket valósítunk meg.
-            Mindezt úgy, hogy közben megőriztük azt, ami az elejétől jellemző ránk: emberközpontúság, rugalmasság és technológiai precizitás.
+              Ezért hoztuk létre a <strong className="text-foreground">SIRONIC Rendszerházat</strong>: hogy minden cég számára elérhetővé tegyük a <strong className="text-foreground">profi, mégis megfizethető IT hátteret</strong>. Nem kell saját rendszergazdát alkalmaznod, nem kell bonyolult vagy költséges infrastruktúrát építened – mi gondoskodunk mindenről.
+            </p>
+            <p className="text-lg text-muted-foreground leading-relaxed mb-6">
+              Szolgáltatásaink lefedik a teljes informatikai működést: <strong className="text-foreground">rendszerüzemeltetés, hálózatépítés, adatmentés, IT biztonság, tűzfalkezelés, webfejlesztés és IT oktatás</strong>. Mindig az aktuális technológiákhoz igazodunk, így ügyfeleink biztosak lehetnek benne, hogy vállalkozásuk informatikai rendszerei naprakészek és biztonságosak.
+            </p>
+            <p className="text-lg text-muted-foreground leading-relaxed mb-6">
+              <strong className="text-foreground">A SIRONIC nem csak IT-t biztosít – hanem nyugalmat, kiszámíthatóságot és támogatást</strong>. Mi azok vagyunk, akiket bármikor elérhetsz, ha gond van – és gyakran előbb megoldjuk, minthogy észrevennéd.
             </p>
             <p className="text-lg text-muted-foreground leading-relaxed">
-              Mi vagyunk az a partner, akire rá lehet bízni a rendszert, és aki akkor is ott van, amikor
-              kell – gyorsan, érthetően, megbízhatóan.
+              Minden ügyfelünket partnerként kezeljük, nem csak karbantartjuk a rendszereiket, hanem hosszú távon gondoskodunk a működésükről.
             </p>
           </div>
         </div>

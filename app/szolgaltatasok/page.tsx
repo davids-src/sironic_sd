@@ -1,14 +1,14 @@
 import { ServiceCard } from '@/components/ServiceCard';
 import { Button } from '@/components/ui/button';
-import { Server, Network, Shield, Code, CheckCircle, ArrowRight, ShoppingCart, Cloud, Wrench } from 'lucide-react';
+import { Server, Network, Shield, Code, CheckCircle, ArrowRight, ShoppingCart, Cloud, Wrench, GraduationCap } from 'lucide-react';
 import Link from 'next/link';
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
   title: 'Szolgáltatásaink - SIRONIC Rendszerház',
   description:
-    'Rendszerüzemeltetés, hálózatépítés, IT biztonság, webfejlesztés, IT kereskedelem, hosting és szerviz - teljes körű IT megoldások kis- és középvállalkozásoknak.',
-  keywords: ['IT szolgáltatás', 'rendszerüzemeltetés', 'hálózatépítés', 'IT biztonság', 'webfejlesztés', 'IT kereskedelem', 'IT eszköz értékesítés', 'hosting szolgáltatás', 'webtárhely', 'szerver bérlés', 'számítógép javítás', 'laptop szerviz', 'helyszíni szerviz'],
+    'Rendszerüzemeltetés, hálózatépítés, IT biztonság, webfejlesztés, IT kereskedelem, hosting, szerviz és IT oktatás - teljes körű IT megoldások kis- és középvállalkozásoknak.',
+  keywords: ['IT szolgáltatás', 'rendszerüzemeltetés', 'hálózatépítés', 'IT biztonság', 'webfejlesztés', 'IT kereskedelem', 'IT eszköz értékesítés', 'hosting szolgáltatás', 'webtárhely', 'szerver bérlés', 'számítógép javítás', 'laptop szerviz', 'helyszíni szerviz', 'IT oktatás', 'informatikai képzés', 'biztonságtudatosság', 'digitális tréning', 'vállalati tudásfejlesztés'],
 };
 
 const services = [
@@ -94,6 +94,18 @@ const services = [
       'Postai beküldés lehetősége',
       'Átlátható árajánlat javítás előtt',
       'Gyors javítási idő',
+    ],
+  },
+  {
+    title: 'IT oktatás és tudásfejlesztés',
+    description:
+      'Fejleszd csapatod digitális tudását! Személyre szabott IT oktatásokat, biztonságtudatossági tréningeket és rendszerszintű tudásfejlesztést kínálunk, hogy a munkatársak magabiztosan használják a modern eszközöket és szoftvereket. A biztonságos működés az információnál kezdődik.',
+    icon: GraduationCap,
+    features: [
+      'Személyre szabott IT oktatások',
+      'Biztonságtudatossági tréningek',
+      'Szoftver- és eszközhasználati képzések',
+      'Vállalati tudásfejlesztési programok',
     ],
   },
 ];

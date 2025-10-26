@@ -11,13 +11,13 @@ export const metadata: Metadata = {
   metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL || 'https://sironic.hu'),
   title: 'SIRONIC Rendszerház - IT megoldások vállalkozásoknak',
   description:
-    'Teljes körű IT megoldások kis- és középvállalkozásoknak: karbantartás, hálózatépítés, adatbiztonság, webfejlesztés, IT kereskedelem, hosting és szerviz.',
-  keywords: ['IT szolgáltatás', 'rendszerüzemeltetés', 'hálózatépítés', 'IT biztonság', 'webfejlesztés', 'IT kereskedelem', 'IT eszköz értékesítés', 'hosting szolgáltatás', 'webtárhely', 'szerver bérlés', 'számítógép javítás', 'laptop szerviz', 'helyszíni szerviz', 'Budapest'],
+    'Teljes körű IT megoldások kis- és középvállalkozásoknak: karbantartás, hálózatépítés, adatbiztonság, webfejlesztés, IT oktatás, kereskedelem, hosting és szerviz.',
+  keywords: ['IT szolgáltatás', 'rendszerüzemeltetés', 'hálózatépítés', 'IT biztonság', 'webfejlesztés', 'IT oktatás', 'informatikai képzés', 'biztonságtudatosság', 'digitális tréning', 'IT kereskedelem', 'IT eszköz értékesítés', 'hosting szolgáltatás', 'webtárhely', 'szerver bérlés', 'számítógép javítás', 'laptop szerviz', 'helyszíni szerviz', 'Budapest'],
   authors: [{ name: 'SIRONIC Rendszerház' }],
   openGraph: {
     title: 'SIRONIC Rendszerház - IT megoldások vállalkozásoknak',
     description:
-      'Teljes körű IT megoldások kis- és középvállalkozásoknak: karbantartás, hálózatépítés, adatbiztonság, webfejlesztés, IT kereskedelem, hosting és szerviz.',
+      'Teljes körű IT megoldások kis- és középvállalkozásoknak: karbantartás, hálózatépítés, adatbiztonság, webfejlesztés, IT oktatás, kereskedelem, hosting és szerviz.',
     type: 'website',
     locale: 'hu_HU',
   },

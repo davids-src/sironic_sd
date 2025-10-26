@@ -61,15 +61,27 @@ const whyChooseUs = [
 const testimonials = [
   {
     quote:
-      'A Sironic óta nem kellett egyetlen napot sem a leállásokkal töltenünk. Az IT-ról végre nem nekünk kell gondoskodnunk.',
-    author: 'Kovács András',
-    company: 'MetalPlus Kft.',
+      'A SIRONIC csapatával végre nyugodtan alszunk: az informatikai rendszereink stabilan, gyorsan és biztonságosan működnek. Ha probléma merül fel, azonnal reagálnak, és mindent elmagyaráznak érthetően – nem IT-nyelven. Ritka az ilyen megbízható partner az informatika világában.',
+    author: 'Kovács Gábor, ügyvezető',
+    company: 'Cég1',
   },
   {
     quote:
-      'Gyors reakció, profi hozzáállás, érthető magyarázatok. Olyan partner, akire tényleg rá lehet bízni a rendszert.',
-    author: 'Nagy Ágnes',
-    company: 'StudioLine Bt.',
+      'Korábban állandó gondjaink voltak a számítógépekkel és a hálózattal, de amióta a SIRONIC-ra bíztuk az IT-t, minden gördülékenyen megy. Gyorsan segítenek, bármilyen hibáról is legyen szó, és mindig találunk náluk megoldást. Pont ilyen támogatásra van szüksége minden cégnek.',
+    author: 'Tóth Péter, ügyvezető',
+    company: 'Cég2',
+  },
+  {
+    quote:
+      'A SIRONIC egy modern, átlátható és mobilbarát weboldalt készített számunkra, ami nemcsak jól néz ki, de ügyfeleink is könnyen megtalálnak minket online. Azóta a karbantartást is ők végzik – minden frissítés és módosítás gyorsan, precízen történik. Teljes körű, profi szolgáltatást kaptunk.',
+    author: 'Nagy Ágnes, marketingvezető',
+    company: 'Cég3',
+  },
+  {
+    quote:
+      'Egy letisztult, gyors és modern weboldalt szerettünk volna – a SIRONIC pontosan ezt szállította. Profi csapat, figyelnek a részletekre, és mindig van egy jó ötletük, amivel még jobbá teszik az eredményt. Az új oldalunk tökéletesen tükrözi a cégünk arculatát.',
+    author: 'Farkas Dóra, tulajdonos',
+    company: 'Cég4',
   },
 ];
 
@@ -161,7 +173,7 @@ export default function Home() {
               Mit mondanak ügyfeleink?
             </h2>
           </div>
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-5xl mx-auto">
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-6xl mx-auto">
             {testimonials.map((testimonial, index) => (
               <Testimonial
                 key={index}
