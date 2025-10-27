@@ -3,7 +3,7 @@ import { Card, CardContent } from './ui/card';
 
 interface TestimonialProps {
   quote: string;
-  author: string;
+  author?: string;
   company: string;
 }
 
@@ -17,8 +17,9 @@ export function Testimonial({ quote, author, company }: TestimonialProps) {
         </blockquote>
         <footer className="text-sm">
           <cite className="not-italic">
-            <strong className="font-semibold">{author}</strong>
-            <span className="text-muted-foreground"> — {company}</span>
+            {author && <strong className="font-semibold">{author}</strong>}
+            {author && <span className="text-muted-foreground"> — </span>}
+            <span className="text-muted-foreground">{company}</span>
           </cite>
         </footer>
       </CardContent>

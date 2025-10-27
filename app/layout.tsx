@@ -4,6 +4,7 @@ import { Inter } from 'next/font/google';
 import { Header } from '@/components/Header';
 import { Footer } from '@/components/Footer';
 import { SkipToContent } from '@/components/SkipToContent';
+import { GoogleAnalytics } from '@/components/GoogleAnalytics';
 
 const inter = Inter({ subsets: ['latin'], variable: '--font-inter' });
 
@@ -12,7 +13,7 @@ export const metadata: Metadata = {
   title: 'SIRONIC Rendszerház - IT megoldások vállalkozásoknak',
   description:
     'Teljes körű IT megoldások kis- és középvállalkozásoknak: karbantartás, hálózatépítés, adatbiztonság, webfejlesztés, IT oktatás, kereskedelem, hosting és szerviz.',
-  keywords: ['IT szolgáltatás', 'rendszerüzemeltetés', 'hálózatépítés', 'IT biztonság', 'webfejlesztés', 'IT oktatás', 'informatikai képzés', 'biztonságtudatosság', 'digitális tréning', 'IT kereskedelem', 'IT eszköz értékesítés', 'hosting szolgáltatás', 'webtárhely', 'szerver bérlés', 'számítógép javítás', 'laptop szerviz', 'helyszíni szerviz', 'Budapest'],
+  keywords: ['IT szolgáltatás', 'rendszerüzemeltetés', 'hálózatépítés', 'IT biztonság', 'webfejlesztés', 'IT oktatás', 'informatikai képzés', 'biztonságtudatosság', 'digitális tréning', 'IT kereskedelem', 'IT eszköz értékesítés', 'hosting szolgáltatás', 'webtárhely', 'szerver bérlés', 'számítógép javítás', 'laptop szerviz', 'helyszíni szerviz', 'Székesfehérvár'],
   authors: [{ name: 'SIRONIC Rendszerház' }],
   openGraph: {
     title: 'SIRONIC Rendszerház - IT megoldások vállalkozásoknak',
@@ -28,6 +29,8 @@ export default function RootLayout({
 }: {
   children: React.ReactNode;
 }) {
+  const gaId = process.env.NEXT_PUBLIC_GA_ID;
+
   return (
     <html lang="hu" suppressHydrationWarning>
       <head>
@@ -35,6 +38,7 @@ export default function RootLayout({
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
       </head>
       <body className={inter.className}>
+        <GoogleAnalytics gaId={gaId || ''} />
         <SkipToContent />
         <Header />
         <main id="main-content">{children}</main>

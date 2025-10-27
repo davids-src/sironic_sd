@@ -75,7 +75,7 @@ export default function KapcsolatPage() {
                   </div>
                   <div>
                     <h3 className="font-semibold mb-1">Székhely</h3>
-                    <p className="text-muted-foreground">Budapest</p>
+                    <p className="text-muted-foreground">Székesfehérvár</p>
                   </div>
                 </div>
 

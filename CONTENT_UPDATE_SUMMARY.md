@@ -69,7 +69,7 @@ Replaced existing testimonials with four authentic, detailed customer reviews:
 #### Structured Data Updates (`/utils/seo.ts`)
 Enhanced `localBusinessSchema` with:
 - Detailed service description
-- Area served (50km radius from Budapest)
+- Area served (50km radius from Székesfehérvár)
 - Complete offer catalog including:
   - Rendszerüzemeltetés és IT karbantartás
   - **IT oktatás és tudásfejlesztés** (NEW)
@@ -105,7 +105,7 @@ Enhanced `localBusinessSchema` with:
 
 ### Target Keywords Now Included:
 - IT karbantartás kisvállalatoknak
-- Informatikai szolgáltatások Budapest
+- Informatikai szolgáltatások Székesfehérvár
 - IT oktatás ✨ NEW
 - Informatikai képzés ✨ NEW
 - Biztonságtudatosság ✨ NEW

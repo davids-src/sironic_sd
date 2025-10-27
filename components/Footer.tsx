@@ -2,6 +2,7 @@
 
 import Link from 'next/link';
 import { Mail, Phone, MapPin } from 'lucide-react';
+import { trackPhoneClick, trackEmailClick } from '@/lib/analytics';
 
 export function Footer() {
   const footerLinks = [
@@ -28,6 +29,7 @@ export function Footer() {
               <Mail className="h-4 w-4 text-brand-red" aria-hidden="true" />
               <a
                 href="mailto:hello@sironic.hu"
+                onClick={trackEmailClick}
                 className="hover:text-brand-red transition-colors focus:outline-none focus:ring-2 focus:ring-brand-red rounded-sm"
               >
                 hello@sironic.hu
@@ -37,6 +39,7 @@ export function Footer() {
               <Phone className="h-4 w-4 text-brand-red" aria-hidden="true" />
               <a
                 href="tel:+36702735532"
+                onClick={trackPhoneClick}
                 className="hover:text-brand-red transition-colors focus:outline-none focus:ring-2 focus:ring-brand-red rounded-sm"
               >
                 +36 70 273 5532
@@ -44,7 +47,7 @@ export function Footer() {
             </div>
             <div className="flex items-center gap-2 text-sm">
               <MapPin className="h-4 w-4 text-brand-red" aria-hidden="true" />
-              <span>Budapest</span>
+              <span>Székesfehérvár</span>
             </div>
           </div>
 

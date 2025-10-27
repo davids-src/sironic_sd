@@ -28,10 +28,10 @@ The SIRONIC Rendszerház website has been successfully updated to include three 
 
 ### 3. Szerviz és javítás – helyszínen vagy postán
 **Icon:** Wrench (Lucide)
-**Description:** Fast and reliable repair of computers, laptops, servers, and network devices. On-site service in Budapest or postal send-in option with transparent quotes.
+**Description:** Fast and reliable repair of computers, laptops, servers, and network devices. On-site service in Székesfehérvár or postal send-in option with transparent quotes.
 
 **Features:**
-- Helyszíni szerviz (Budapest és környéke)
+- Helyszíni szerviz (Székesfehérvár és környéke)
 - Postai beküldés lehetősége
 - Átlátható árajánlat javítás előtt
 - Gyors javítási idő

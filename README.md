@@ -213,7 +213,16 @@ npm run lint
 
 ## 📧 Email Integráció (SendGrid)
 
-A contact form jelenleg csak console-ra írja az üzeneteket. SendGrid integráció aktiválásához:
+A contact form jelenleg **Discord webhook**-on keresztül küldi az értesítéseket. Az üzenetek egy szép embed formátumban jelennek meg a Discord csatornában.
+
+### Discord Webhook Beállítás
+A webhook URL már be van állítva az `app/api/contact/route.ts` fájlban:
+```typescript
+const DISCORD_WEBHOOK_URL = 'https://discord.com/api/webhooks/1432008314912374836/...';
+```
+
+### SendGrid Integráció (Opcionális)
+Ha email értesítéseket is szeretnél:
 
 1. Regisztrálj a [SendGrid](https://sendgrid.com)-re
 2. Hozz létre API Key-t

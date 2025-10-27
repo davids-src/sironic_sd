@@ -55,7 +55,7 @@ const caseStudies = [
     features: ['Biztonságos fájlmegosztás', 'Csoportos naptár', 'Dokumentum együttműködés', 'Mobil hozzáférés'],
   },
   {
-    title: 'IT Partner Portal',
+    title: 'Partner Portal',
     subtitle: 'Ügyfélszolgálati és karbantartási felület',
     description: 'Átlátható hibabejelentés és státuszkövetés.',
     features: ['Ticket rendszer', 'Valós idejű státusz', 'Dokumentáció', 'Előzmények nyilvántartása'],

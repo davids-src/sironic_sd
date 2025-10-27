@@ -52,7 +52,7 @@ const services = [
 ];
 
 const whyChooseUs = [
-  'Megbízhatóság: 10+ év tapasztalat rendszerek tervezésében és üzemeltetésében.',
+  'Megbízhatóság: 5+ év tapasztalat rendszerek tervezésében és üzemeltetésében.',
   'Proaktív működés: Mi előre gondolkodunk, nem akkor lépünk, amikor már baj van.',
   'Átlátható költségek: Nincsenek rejtett díjak, fix havidíjas karbantartás vagy eseti megoldások.',
   'Valódi emberi kommunikáció: Nálunk nincs "ticket-dzsungel" – mindig elérsz minket.',
@@ -66,25 +66,21 @@ const testimonials = [
   {
     quote:
       'A SIRONIC csapatával végre nyugodtan alszunk: az informatikai rendszereink stabilan, gyorsan és biztonságosan működnek. Ha probléma merül fel, azonnal reagálnak, és mindent elmagyaráznak érthetően – nem IT-nyelven. Ritka az ilyen megbízható partner az informatika világában.',
-    author: 'Kovács Gábor, ügyvezető',
     company: 'Cég1',
   },
   {
     quote:
       'Korábban állandó gondjaink voltak a számítógépekkel és a hálózattal, de amióta a SIRONIC-ra bíztuk az IT-t, minden gördülékenyen megy. Gyorsan segítenek, bármilyen hibáról is legyen szó, és mindig találunk náluk megoldást. Pont ilyen támogatásra van szüksége minden cégnek.',
-    author: 'Tóth Péter, ügyvezető',
     company: 'Cég2',
   },
   {
     quote:
       'A SIRONIC egy modern, átlátható és mobilbarát weboldalt készített számunkra, ami nemcsak jól néz ki, de ügyfeleink is könnyen megtalálnak minket online. Azóta a karbantartást is ők végzik – minden frissítés és módosítás gyorsan, precízen történik. Teljes körű, profi szolgáltatást kaptunk.',
-    author: 'Nagy Ágnes, marketingvezető',
     company: 'Cég3',
   },
   {
     quote:
       'Egy letisztult, gyors és modern weboldalt szerettünk volna – a SIRONIC pontosan ezt szállította. Profi csapat, figyelnek a részletekre, és mindig van egy jó ötletük, amivel még jobbá teszik az eredményt. Az új oldalunk tökéletesen tükrözi a cégünk arculatát.',
-    author: 'Farkas Dóra, tulajdonos',
     company: 'Cég4',
   },
 ];
@@ -182,7 +178,6 @@ export default function Home() {
               <Testimonial
                 key={index}
                 quote={testimonial.quote}
-                author={testimonial.author}
                 company={testimonial.company}
               />
             ))}

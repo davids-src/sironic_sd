@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: 'Rólunk - SIRONIC Rendszerház',
   description:
     'A SIRONIC Rendszerház a COVID-időszakban indult. Stabilitást, biztonságot és nyugalmat adunk a működéshez. Rendszerüzemeltetés, hálózatépítés, IT biztonság és oktatás.',
-  keywords: ['SIRONIC története', 'IT karbantartás Budapest', 'rendszerüzemeltetés', 'informatikai szolgáltatások', 'IT oktatás', 'adatbiztonság', 'hálózatépítés'],
+  keywords: ['SIRONIC története', 'IT karbantartás Székesfehérvár', 'rendszerüzemeltetés', 'informatikai szolgáltatások', 'IT oktatás', 'adatbiztonság', 'hálózatépítés'],
 };
 
 const values = [
@@ -32,7 +32,7 @@ const values = [
 ];
 
 const stats = [
-  { value: '10+', label: 'Év tapasztalat' },
+  { value: '5+', label: 'Év tapasztalat' },
   { value: '100+', label: 'Elégedett ügyfél' },
   { value: '24/7', label: 'Elérhetőség' },
   { value: '99.9%', label: 'Rendelkezésre állás' },

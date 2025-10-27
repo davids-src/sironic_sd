@@ -87,10 +87,10 @@ const services = [
   {
     title: 'Szerviz és javítás – helyszínen vagy postán',
     description:
-      'Számítógépek, laptopok, szerverek és hálózati eszközök gyors és megbízható javítása. Helyszíni kiszállás Budapesten és környékén, vagy eszközök postai úton történő beküldése. Minden javítást bevizsgálással kezdünk, árajánlat után csak a jóváhagyásod alapján dolgozunk. Célunk, hogy minél előbb újra működjön a rendszered.',
+      'Számítógépek, laptopok, szerverek és hálózati eszközök gyors és megbízható javítása. Helyszíni kiszállás Székesfehérváron és környékén, vagy eszközök postai úton történő beküldése. Minden javítást bevizsgálással kezdünk, árajánlat után csak a jóváhagyásod alapján dolgozunk. Célunk, hogy minél előbb újra működjön a rendszered.',
     icon: Wrench,
     features: [
-      'Helyszíni szerviz (Budapest és környéke)',
+      'Helyszíni szerviz (Székesfehérvár és környéke)',
       'Postai beküldés lehetősége',
       'Átlátható árajánlat javítás előtt',
       'Gyors javítási idő',

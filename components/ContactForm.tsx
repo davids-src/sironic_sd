@@ -7,6 +7,7 @@ import { Input } from './ui/input';
 import { Label } from './ui/label';
 import { Textarea } from './ui/textarea';
 import { Loader2, CheckCircle2 } from 'lucide-react';
+import { trackContactFormSubmission } from '@/lib/analytics';
 
 export function ContactForm() {
   const searchParams = useSearchParams();
@@ -54,6 +55,8 @@ export function ContactForm() {
         setSubmitSuccess(true);
         setFormData({ name: '', email: '', message: '', honeypot: '' });
         setTimeout(() => setSubmitSuccess(false), 5000);
+        // Track successful form submission
+        trackContactFormSubmission('contact');
       }
     } catch (error) {
       setErrors({ general: 'Hálózati hiba történt. Kérjük, próbáld újra később.' });

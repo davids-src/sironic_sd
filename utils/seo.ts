@@ -43,7 +43,7 @@ export const organizationSchema = {
   },
   address: {
     '@type': 'PostalAddress',
-    addressLocality: 'Budapest',
+    addressLocality: 'Székesfehérvár',
     addressCountry: 'HU',
   },
   sameAs: [],
@@ -53,7 +53,7 @@ export const localBusinessSchema = {
   '@context': 'https://schema.org',
   '@type': 'LocalBusiness',
   name: 'SIRONIC Rendszerház',
-  description: 'Professzionális IT szolgáltatások Budapesten: rendszerüzemeltetés, hálózatépítés, IT biztonság, webfejlesztés, IT oktatás és vállalati tudásfejlesztés.',
+  description: 'Professzionális IT szolgáltatások Székesfehérváron: rendszerüzemeltetés, hálózatépítés, IT biztonság, webfejlesztés, IT oktatás és vállalati tudásfejlesztés.',
   image: 'https://sironic.hu/images/logo.png',
   '@id': 'https://sironic.hu',
   url: 'https://sironic.hu',
@@ -61,7 +61,7 @@ export const localBusinessSchema = {
   email: 'hello@sironic.hu',
   address: {
     '@type': 'PostalAddress',
-    addressLocality: 'Budapest',
+    addressLocality: 'Székesfehérvár',
     addressCountry: 'HU',
   },
   geo: {

@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     'Sironic termékek',
     'TDarts',
     'Cloud Suite',
-    'IT Partner Portal',
+    'Partner Portal',
     'vállalati szoftverek',
     'folyamatkezelő rendszer',
     'privát felhő',

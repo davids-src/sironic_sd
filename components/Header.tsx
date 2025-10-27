@@ -25,21 +25,11 @@ export function Header() {
       <nav className="mx-auto flex max-w-7xl items-center justify-between p-4 lg:px-8" aria-label="Global">
         <div className="flex lg:flex-1">
           <Link href="/" className="-m-1.5 p-1.5 flex items-center gap-2">
-            <svg
-              width="40"
-              height="40"
-              viewBox="0 0 40 40"
-              fill="none"
-              xmlns="http://www.w3.org/2000/svg"
-              aria-label="SIRONIC logo"
-            >
-              <rect width="40" height="40" rx="8" fill="#D32F2F" />
-              <path
-                d="M12 28V14h4c2.2 0 4 1.8 4 4 0 1.1-.4 2.1-1.2 2.8.8.7 1.2 1.7 1.2 2.8 0 2.2-1.8 4-4 4h-4zm2-8h2c1.1 0 2-.9 2-2s-.9-2-2-2h-2v4zm0 6h2c1.1 0 2-.9 2-2s-.9-2-2-2h-2v4z"
-                fill="#757575"
-              />
-              <circle cx="28" cy="21" r="6" fill="#757575" opacity="0.8" />
-            </svg>
+            <img 
+              src="/logo_rgb.svg" 
+              alt="SIRONIC" 
+              className="h-8 w-8 flex-shrink-0"
+            />
             <span className="text-xl font-bold">SIRONIC</span>
           </Link>
         </div>
