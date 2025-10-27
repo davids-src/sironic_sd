@@ -37,7 +37,7 @@
    Optional (for email functionality):
    ```
    SENDGRID_API_KEY=SG.xxxxxxxxxxxxxxxxxxxxx
-   CONTACT_RECIPIENT_EMAIL=info@sironic.hu
+   CONTACT_RECIPIENT_EMAIL=hello@sironic.hu
    ```
 
    Optional (for analytics):
@@ -163,7 +163,7 @@ TTL: 3600
 ## Email Setup (SendGrid)
 
 1. Sign up at [sendgrid.com](https://sendgrid.com)
-2. Verify sender email (info@sironic.hu)
+2. Verify sender email (hello@sironic.hu)
 3. Create API key with "Mail Send" permissions
 4. Add to environment variables: `SENDGRID_API_KEY`
 5. Uncomment SendGrid code in `/app/api/contact/route.ts`
@@ -195,8 +195,8 @@ TTL: 3600
 ## Support
 
 Issues or questions?
-- Email: info@sironic.hu
-- Phone: +36 30 123 4567
+- Email: hello@sironic.hu
+- Phone: +36 70 273 5532
 
 ---
 

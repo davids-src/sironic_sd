@@ -85,7 +85,7 @@ NEXT_PUBLIC_SUPABASE_ANON_KEY=your_supabase_key
 
 # SendGrid email integráció (opcionális)
 SENDGRID_API_KEY=your_sendgrid_api_key
-CONTACT_RECIPIENT_EMAIL=info@sironic.hu
+CONTACT_RECIPIENT_EMAIL=hello@sironic.hu
 
 # Analytics (opcionális)
 NEXT_PUBLIC_GA_ID=G-XXXXXXXXXX
@@ -125,7 +125,7 @@ A Vercel Project Settings > Environment Variables menüpontban add meg:
 
 - `NEXT_PUBLIC_SITE_URL` - pl. `https://sironic.hu`
 - `SENDGRID_API_KEY` - (opcionális, email küldéshez)
-- `CONTACT_RECIPIENT_EMAIL` - pl. `info@sironic.hu`
+- `CONTACT_RECIPIENT_EMAIL` - pl. `hello@sironic.hu`
 - `NEXT_PUBLIC_GA_ID` - (opcionális, Google Analytics)
 - `NEXT_PUBLIC_META_PIXEL_ID` - (opcionális, Meta Pixel)
 
@@ -218,7 +218,7 @@ A contact form jelenleg csak console-ra írja az üzeneteket. SendGrid integrác
 1. Regisztrálj a [SendGrid](https://sendgrid.com)-re
 2. Hozz létre API Key-t
 3. Állítsd be környezeti változóként: `SENDGRID_API_KEY=your_key`
-4. Adj meg címzettet: `CONTACT_RECIPIENT_EMAIL=info@sironic.hu`
+4. Adj meg címzettet: `CONTACT_RECIPIENT_EMAIL=hello@sironic.hu`
 5. Kommenteld ki a SendGrid kódot az `app/api/contact/route.ts`-ben
 
 ## 🎯 Funkciók
@@ -275,8 +275,8 @@ Ez a projekt a SIRONIC Rendszerház tulajdona. Minden jog fenntartva.
 ## 🤝 Támogatás
 
 Kérdések vagy problémák esetén:
-- Email: info@sironic.hu
-- Telefon: +36 30 123 4567
+- Email: hello@sironic.hu
+- Telefon: +36 70 273 5532
 
 ---
 

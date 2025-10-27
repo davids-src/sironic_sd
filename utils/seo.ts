@@ -36,9 +36,9 @@ export const organizationSchema = {
   logo: 'https://sironic.hu/images/logo.png',
   contactPoint: {
     '@type': 'ContactPoint',
-    telephone: '+36-30-123-4567',
+    telephone: '+36-70-273-5532',
     contactType: 'customer service',
-    email: 'info@sironic.hu',
+    email: 'hello@sironic.hu',
     availableLanguage: ['Hungarian'],
   },
   address: {
@@ -57,8 +57,8 @@ export const localBusinessSchema = {
   image: 'https://sironic.hu/images/logo.png',
   '@id': 'https://sironic.hu',
   url: 'https://sironic.hu',
-  telephone: '+36-30-123-4567',
-  email: 'info@sironic.hu',
+  telephone: '+36-70-273-5532',
+  email: 'hello@sironic.hu',
   address: {
     '@type': 'PostalAddress',
     addressLocality: 'Budapest',

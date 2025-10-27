@@ -6,7 +6,7 @@ import type { Metadata } from 'next';
 export const metadata: Metadata = {
   title: 'Kapcsolat - SIRONIC Rendszerház',
   description:
-    'Lépj kapcsolatba velünk! Kérj ingyenes IT konzultációt és ajánlatot. E-mail: info@sironic.hu, Tel: +36 30 123 4567',
+    'Lépj kapcsolatba velünk! Kérj ingyenes IT konzultációt és ajánlatot. E-mail: hello@sironic.hu, Tel: +36 70 273 5532',
 };
 
 export default function KapcsolatPage() {
@@ -46,10 +46,10 @@ export default function KapcsolatPage() {
                   <div>
                     <h3 className="font-semibold mb-1">E-mail</h3>
                     <a
-                      href="mailto:info@sironic.hu"
+                      href="mailto:hello@sironic.hu"
                       className="text-muted-foreground hover:text-brand-red transition-colors"
                     >
-                      info@sironic.hu
+                      hello@sironic.hu
                     </a>
                   </div>
                 </div>
@@ -61,10 +61,10 @@ export default function KapcsolatPage() {
                   <div>
                     <h3 className="font-semibold mb-1">Telefon</h3>
                     <a
-                      href="tel:+36301234567"
+                      href="tel:+36702735532"
                       className="text-muted-foreground hover:text-brand-red transition-colors"
                     >
-                      +36 30 123 4567
+                      +36 70 273 5532
                     </a>
                   </div>
                 </div>

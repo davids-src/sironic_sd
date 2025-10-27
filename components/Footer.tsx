@@ -27,19 +27,19 @@ export function Footer() {
             <div className="flex items-center gap-2 text-sm mb-2">
               <Mail className="h-4 w-4 text-brand-red" aria-hidden="true" />
               <a
-                href="mailto:info@sironic.hu"
+                href="mailto:hello@sironic.hu"
                 className="hover:text-brand-red transition-colors focus:outline-none focus:ring-2 focus:ring-brand-red rounded-sm"
               >
-                info@sironic.hu
+                hello@sironic.hu
               </a>
             </div>
             <div className="flex items-center gap-2 text-sm mb-2">
               <Phone className="h-4 w-4 text-brand-red" aria-hidden="true" />
               <a
-                href="tel:+36301234567"
+                href="tel:+36702735532"
                 className="hover:text-brand-red transition-colors focus:outline-none focus:ring-2 focus:ring-brand-red rounded-sm"
               >
-                +36 30 123 4567
+                +36 70 273 5532
               </a>
             </div>
             <div className="flex items-center gap-2 text-sm">

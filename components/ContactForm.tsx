@@ -180,8 +180,8 @@ export function ContactForm() {
       <noscript>
         <p className="text-sm text-muted-foreground">
           JavaScript nélkül is elküldheted az üzenetet:{' '}
-          <a href="mailto:info@sironic.hu" className="text-brand-red hover:underline">
-            info@sironic.hu
+          <a href="mailto:hello@sironic.hu" className="text-brand-red hover:underline">
+            hello@sironic.hu
           </a>
         </p>
       </noscript>
