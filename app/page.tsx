@@ -1,10 +1,12 @@
 import { Hero } from '@/components/Hero';
 import { ServiceCard } from '@/components/ServiceCard';
 import { Testimonial } from '@/components/Testimonial';
+import { FaqSection } from '@/components/FaqSection';
 import { Button } from '@/components/ui/button';
 import { Server, Network, Shield, Code, CheckCircle, ShoppingCart, Cloud, Wrench, ArrowRight } from 'lucide-react';
 import Link from 'next/link';
 import { organizationSchema, localBusinessSchema } from '@/utils/seo';
+import { faqSchema } from '@/utils/faqSchema';
 
 const services = [
   {
@@ -114,6 +116,10 @@ export default function Home() {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(localBusinessSchema) }}
       />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
+      />
 
       <Hero />
 
@@ -205,6 +211,8 @@ export default function Home() {
           </div>
         </div>
       </section>
+
+      <FaqSection />
 
       <section className="py-16 lg:py-24 bg-brand-red text-white">
         <div className="mx-auto max-w-4xl px-4 lg:px-8 text-center">

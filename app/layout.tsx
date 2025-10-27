@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   title: 'SIRONIC Rendszerház - IT megoldások vállalkozásoknak',
   description:
     'Teljes körű IT megoldások kis- és középvállalkozásoknak: karbantartás, hálózatépítés, adatbiztonság, webfejlesztés, IT oktatás, kereskedelem, hosting és szerviz.',
-  keywords: ['IT szolgáltatás', 'rendszerüzemeltetés', 'hálózatépítés', 'IT biztonság', 'webfejlesztés', 'IT oktatás', 'informatikai képzés', 'biztonságtudatosság', 'digitális tréning', 'IT kereskedelem', 'IT eszköz értékesítés', 'hosting szolgáltatás', 'webtárhely', 'szerver bérlés', 'számítógép javítás', 'laptop szerviz', 'helyszíni szerviz', 'Székesfehérvár'],
+  keywords: ['IT szolgáltatás', 'rendszerüzemeltetés', 'rendszergazda', 'hálózatépítés', 'IT biztonság', 'webfejlesztés', 'CRM fejlesztés', 'IT oktatás', 'informatikai képzés', 'biztonságtudatosság', 'digitális tréning', 'IT kereskedelem', 'IT eszköz értékesítés', 'hosting szolgáltatás', 'webtárhely', 'szerver bérlés', 'számítógép javítás', 'laptop szerviz', 'helyszíni szerviz', 'adatbiztonság', 'karbantartás', 'Székesfehérvár'],
   authors: [{ name: 'SIRONIC Rendszerház' }],
   openGraph: {
     title: 'SIRONIC Rendszerház - IT megoldások vállalkozásoknak',
