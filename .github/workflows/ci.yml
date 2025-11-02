@@ -23,5 +23,10 @@ jobs:
         uses: docker/build-push-action@v6
         with:
           context: .
+          file: ./Dockerfile
           push: true
-          tags: ghcr.io/${{ github.repository_owner }}/sironic-web-sd:latest
+          tags: |
+            ghcr.io/${{ github.repository_owner }}/Sironic_SD_Vegleges:latest
+            ghcr.io/${{ github.repository_owner }}/Sironic_SD_Vegleges:${{ github.sha }}
+          cache-from: type=gha
+          cache-to: type=gha,mode=max
