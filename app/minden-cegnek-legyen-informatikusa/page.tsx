@@ -7,7 +7,8 @@ import {
   CalendarCheck,
   ArrowRight,
   CheckCircle,
-  Sparkles
+  Sparkles,
+  ChevronDown
 } from 'lucide-react';
 import Link from 'next/link';
 import type { Metadata } from 'next';
@@ -156,6 +157,12 @@ export default function MindenCegnekPage() {
                 havidíjából!
               </span>
             </p>
+          </div>
+
+          {/* Scroll indicator */}
+          <div className="mt-12 flex flex-col items-center justify-center animate-bounce">
+            <p className="text-sm text-gray-400 mb-2">Görgess lejjebb a további információkhoz</p>
+            <ChevronDown className="h-6 w-6 text-gray-400" aria-hidden="true" />
           </div>
         </div>
       </section>

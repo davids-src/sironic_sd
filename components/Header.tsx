@@ -43,7 +43,7 @@ export function Header() {
             {mobileMenuOpen ? <X className="h-6 w-6" /> : <Menu className="h-6 w-6" />}
           </Button>
         </div>
-        <div className="hidden lg:flex lg:gap-x-8 lg:items-center">
+        <div className="hidden lg:flex lg:flex-1 lg:justify-center lg:items-center lg:gap-x-8">
           {navigation.map((item) => (
             <Link
               key={item.name}
@@ -53,6 +53,8 @@ export function Header() {
               {item.name}
             </Link>
           ))}
+        </div>
+        <div className="hidden lg:flex lg:flex-1 lg:justify-end lg:items-center lg:gap-4">
           <ThemeToggle />
           <Button asChild className="bg-brand-red hover:bg-brand-red/90">
             <Link href="/kapcsolat">Kérj ajánlatot</Link>
