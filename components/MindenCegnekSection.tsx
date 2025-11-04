@@ -80,7 +80,7 @@ export function MindenCegnekSection() {
               variant="outline"
               className="bg-white/10 hover:bg-white/20 text-white border-white/30 hover:border-white/50 backdrop-blur-sm w-full sm:w-auto"
             >
-              <Link href="#minden-cegnek-legyen-informatikusa">Tudj meg többet</Link>
+              <Link href="minden-cegnek-legyen-informatikusa">Tudj meg többet</Link>
             </Button>
           </div>
         </div>
