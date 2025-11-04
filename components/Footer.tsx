@@ -8,6 +8,7 @@ export function Footer() {
   const footerLinks = [
     { name: 'Szolgáltatások', href: '/szolgaltatasok' },
     { name: 'Termékeink', href: '/termekeink' },
+    { name: 'Minden cégnek legyen informatikusa', href: '/minden-cegnek-legyen-informatikusa' },
     { name: 'Árak', href: '/arak' },
     { name: 'Rólunk', href: '/rolunk' },
     { name: 'Blog', href: '/blog' },

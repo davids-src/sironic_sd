@@ -1,7 +1,8 @@
 import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle } from './ui/card';
 import { Button } from './ui/button';
-import { ExternalLink, CheckCircle } from 'lucide-react';
+import { ExternalLink, CheckCircle, ArrowRight } from 'lucide-react';
 import * as LucideIcons from 'lucide-react';
+import Link from 'next/link';
 import { Product } from '@/lib/products';
 
 interface ProductCardProps {
@@ -41,16 +42,39 @@ export function ProductCard({ product }: ProductCardProps) {
       </CardContent>
       {product.link && (
         <CardFooter>
-          <Button
-            asChild
-            variant="outline"
-            className="w-full group-hover:border-brand-red group-hover:text-brand-red"
-          >
-            <a href={product.link} target="_blank" rel="noopener noreferrer">
-              Tudj meg többet
-              <ExternalLink className="ml-2 h-4 w-4" />
-            </a>
-          </Button>
+          {product.id === 'minden-cegnek-legyen-informatikusa' ? (
+            <Button
+              asChild
+              className="w-full bg-brand-red hover:bg-brand-red/90 text-white"
+            >
+              <Link href="/minden-cegnek-legyen-informatikusa">
+                Tudj meg többet róla
+                <ArrowRight className="ml-2 h-4 w-4" />
+              </Link>
+            </Button>
+          ) : product.link.startsWith('http') ? (
+            <Button
+              asChild
+              variant="outline"
+              className="w-full group-hover:border-brand-red group-hover:text-brand-red"
+            >
+              <a href={product.link} target="_blank" rel="noopener noreferrer">
+                Tudj meg többet
+                <ExternalLink className="ml-2 h-4 w-4" />
+              </a>
+            </Button>
+          ) : (
+            <Button
+              asChild
+              variant="outline"
+              className="w-full group-hover:border-brand-red group-hover:text-brand-red"
+            >
+              <Link href={product.link}>
+                Tudj meg többet
+                <ArrowRight className="ml-2 h-4 w-4" />
+              </Link>
+            </Button>
+          )}
         </CardFooter>
       )}
     </Card>

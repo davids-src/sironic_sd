@@ -52,7 +52,7 @@ export const products: Product[] = [
       'Biztonsági mentések és frissítések',
       'Személyes, magyar nyelvű támogatás',
     ],
-    link: '/kapcsolat?subject=Minden%20cégnek%20legyen%20informatikusa',
+    link: '/minden-cegnek-legyen-informatikusa',
     icon: 'Briefcase',
   },
   {

@@ -16,6 +16,7 @@ export function ContactForm() {
   const [formData, setFormData] = useState({
     name: '',
     email: '',
+    service: '',
     message: subject ? `Tárgy: ${subject}\n\n` : '',
     honeypot: '',
   });
@@ -23,7 +24,7 @@ export function ContactForm() {
   const [isSubmitting, setIsSubmitting] = useState(false);
   const [submitSuccess, setSubmitSuccess] = useState(false);
 
-  const handleChange = (e: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement>) => {
+  const handleChange = (e: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement | HTMLSelectElement>) => {
     const { name, value } = e.target;
     setFormData((prev) => ({ ...prev, [name]: value }));
     if (errors[name]) {
@@ -53,7 +54,7 @@ export function ContactForm() {
         }
       } else {
         setSubmitSuccess(true);
-        setFormData({ name: '', email: '', message: '', honeypot: '' });
+        setFormData({ name: '', email: '', service: '', message: '', honeypot: '' });
         setTimeout(() => setSubmitSuccess(false), 5000);
         // Track successful form submission
         trackContactFormSubmission('contact');
@@ -109,6 +110,41 @@ export function ContactForm() {
         {errors.email && (
           <p id="email-error" className="text-sm text-destructive" role="alert">
             {errors.email}
+          </p>
+        )}
+      </div>
+
+      <div className="space-y-2">
+        <Label htmlFor="service">
+          Melyik szolgáltatás iránt érdeklődsz? <span className="text-destructive">*</span>
+        </Label>
+        <select
+          id="service"
+          name="service"
+          value={formData.service}
+          onChange={handleChange}
+          required
+          aria-required="true"
+          aria-invalid={!!errors.service}
+          aria-describedby={errors.service ? 'service-error' : undefined}
+          className={`flex h-10 w-full rounded-md border border-input bg-background px-3 py-2 text-sm ring-offset-background file:border-0 file:bg-transparent file:text-sm file:font-medium placeholder:text-muted-foreground focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:cursor-not-allowed disabled:opacity-50 ${
+            errors.service ? 'border-destructive' : ''
+          }`}
+        >
+          <option value="">Válassz egy szolgáltatást</option>
+          <option value="Minden cégnek legyen informatikusa">Minden cégnek legyen informatikusa</option>
+          <option value="Rendszerüzemeltetés és IT karbantartás">Rendszerüzemeltetés és IT karbantartás</option>
+          <option value="Hálózatépítés és fejlesztés">Hálózatépítés és fejlesztés</option>
+          <option value="IT biztonság és adatvédelem">IT biztonság és adatvédelem</option>
+          <option value="Weboldal- és rendszerfejlesztés">Weboldal- és rendszerfejlesztés</option>
+          <option value="Kereskedelem – IT eszközök és szoftverek egy kézből">Kereskedelem – IT eszközök és szoftverek</option>
+          <option value="Hosting és felhőmegoldások">Hosting és felhőmegoldások</option>
+          <option value="Szerviz és javítás – helyszínen vagy postán">Szerviz és javítás</option>
+          <option value="IT oktatás és tudásfejlesztés">IT oktatás és tudásfejlesztés</option>
+        </select>
+        {errors.service && (
+          <p id="service-error" className="text-sm text-destructive" role="alert">
+            {errors.service}
           </p>
         )}
       </div>
