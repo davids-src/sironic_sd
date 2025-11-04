@@ -79,6 +79,9 @@ cp .env.example .env
 Szerkeszd meg a `.env` fájlt:
 
 ```env
+# Discord webhook (opcionális, kapcsolati űrlap értesítésekhez)
+DISCORD_WEBHOOK_URL=https://discord.com/api/webhooks/YOUR_WEBHOOK_ID/YOUR_WEBHOOK_TOKEN
+
 # Supabase (opcionális, jövőbeli funkciókhoz)
 NEXT_PUBLIC_SUPABASE_URL=your_supabase_url
 NEXT_PUBLIC_SUPABASE_ANON_KEY=your_supabase_key
@@ -124,6 +127,7 @@ npm start
 A Vercel Project Settings > Environment Variables menüpontban add meg:
 
 - `NEXT_PUBLIC_SITE_URL` - pl. `https://sironic.hu`
+- `DISCORD_WEBHOOK_URL` - (opcionális, Discord értesítésekhez a kapcsolati űrlapról)
 - `SENDGRID_API_KEY` - (opcionális, email küldéshez)
 - `CONTACT_RECIPIENT_EMAIL` - pl. `hello@sironic.hu`
 - `NEXT_PUBLIC_GA_ID` - (opcionális, Google Analytics)

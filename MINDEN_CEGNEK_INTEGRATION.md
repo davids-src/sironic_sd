@@ -14,7 +14,7 @@ Successfully integrated the "Minden cégnek legyen informatikusa" project across
 **Features:**
 - Dark gradient background with decorative elements
 - Prominent emoji title 🖥️
-- December 31 promo badge with 10% discount
+- 2026 február 1 promo badge with 10% discount
 - Dual CTA buttons (primary + secondary)
 - Fully responsive design
 

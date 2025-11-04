@@ -130,7 +130,101 @@ export async function POST(request: NextRequest) {
   }
 }
 
-export async function GET() {
+export async function GET(request: NextRequest) {
+  // Test endpoint to check Discord webhook configuration
+  const test = request.nextUrl.searchParams.get('test');
+  
+  if (test === 'discord') {
+    const webhookUrl = process.env.DISCORD_WEBHOOK_URL;
+    
+    if (!webhookUrl) {
+      return NextResponse.json(
+        {
+          status: 'error',
+          message: 'Discord webhook URL nincs beállítva',
+          webhookConfigured: false,
+        },
+        { status: 200 }
+      );
+    }
+
+    // Try to send a test message
+    try {
+      const testEmbed = {
+        title: '🧪 Discord Webhook Teszt',
+        description: 'Ez egy teszt üzenet a SIRONIC weboldalról.',
+        color: 0xff0000,
+        fields: [
+          {
+            name: '⏰ Időpont',
+            value: `<t:${Math.floor(Date.now() / 1000)}:F>`,
+            inline: true,
+          },
+          {
+            name: '✅ Státusz',
+            value: 'Webhook működik!',
+            inline: true,
+          },
+        ],
+        footer: {
+          text: 'SIRONIC Rendszerház - Webhook Teszt',
+        },
+        timestamp: new Date().toISOString(),
+      };
+
+      const response = await fetch(webhookUrl, {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({
+          username: 'SIRONIC Weboldal',
+          avatar_url: 'https://sironic.hu/logo_rgb.svg',
+          embeds: [testEmbed],
+        }),
+      });
+
+      if (!response.ok) {
+        const errorText = await response.text();
+        return NextResponse.json(
+          {
+            status: 'error',
+            message: 'Discord webhook hiba történt',
+            webhookConfigured: true,
+            webhookUrl: webhookUrl.substring(0, 30) + '...', // Only show first 30 chars for security
+            error: {
+              status: response.status,
+              statusText: response.statusText,
+              details: errorText.substring(0, 200),
+            },
+          },
+          { status: 200 }
+        );
+      }
+
+      return NextResponse.json(
+        {
+          status: 'success',
+          message: 'Discord webhook sikeresen működik!',
+          webhookConfigured: true,
+          webhookUrl: webhookUrl.substring(0, 30) + '...', // Only show first 30 chars for security
+        },
+        { status: 200 }
+      );
+    } catch (error: any) {
+      return NextResponse.json(
+        {
+          status: 'error',
+          message: 'Discord webhook hiba történt',
+          webhookConfigured: true,
+          webhookUrl: webhookUrl.substring(0, 30) + '...',
+          error: error.message || 'Ismeretlen hiba',
+        },
+        { status: 200 }
+      );
+    }
+  }
+
   return NextResponse.json(
     { message: 'Method not allowed' },
     { status: 405 }

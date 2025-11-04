@@ -151,7 +151,7 @@ export default function MindenCegnekPage() {
                 🎁
               </span>
               <span>
-                <strong>December 31-ig</strong> minden előzetes konzultációt kérő partnerünknek{' '}
+                <strong>2026 február 1-re</strong> minden előzetes konzultációt kérő partnerünknek{' '}
                 <strong className="text-red-300">10% kedvezményt</strong> adunk az első 3 hónap
                 havidíjából!
               </span>
