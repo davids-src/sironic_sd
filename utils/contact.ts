@@ -1,6 +1,7 @@
 export interface ContactFormData {
   name: string;
   email: string;
+  service: string;
   message: string;
   honeypot?: string;
 }
@@ -24,6 +25,10 @@ export function validateContactForm(data: ContactFormData): ValidationResult {
 
   if (!data.message || data.message.trim().length < 10) {
     errors.message = 'Az üzenet legalább 10 karakter hosszú kell legyen';
+  }
+
+  if (!data.service || data.service.trim().length === 0) {
+    errors.service = 'Válassz egy szolgáltatást';
   }
 
   if (data.honeypot && data.honeypot.trim().length > 0) {

@@ -2,11 +2,12 @@ import { NextRequest, NextResponse } from 'next/server';
 import { validateContactForm, sanitizeInput, ContactFormData } from '@/utils/contact';
 import { rateLimit } from '@/utils/rateLimit';
 
-const DISCORD_WEBHOOK_URL = process.env.DISCORD_WEBHOOK_URL || '';
+const DISCORD_WEBHOOK_URL = process.env.DISCORD_WEBHOOK_URL || 'https://discord.com/api/webhooks/1435287913402208468/N1uRR3hpu9P7kIi3uXJEi7aq2jRsS96r4nYIQiL-MM7ZTy1xtJpyNYgRt3ZVRObOSU5i';
 
 async function sendDiscordNotification(data: {
   name: string;
   email: string;
+  service: string;
   message: string;
   timestamp: string;
 }) {
@@ -22,6 +23,11 @@ async function sendDiscordNotification(data: {
       {
         name: '📧 Email',
         value: data.email,
+        inline: true,
+      },
+      {
+        name: '🛠️ Szolgáltatás',
+        value: data.service,
         inline: true,
       },
       {
@@ -54,7 +60,7 @@ async function sendDiscordNotification(data: {
       },
       body: JSON.stringify({
         username: 'SIRONIC Weboldal',
-        avatar_url: 'https://sironic.hu/images/logo.png',
+        avatar_url: 'https://sironic.hu/logo_rgb.svg',
         embeds: [embed],
       }),
     });
@@ -96,6 +102,7 @@ export async function POST(request: NextRequest) {
     const sanitizedData = {
       name: sanitizeInput(body.name),
       email: sanitizeInput(body.email),
+      service: sanitizeInput(body.service),
       message: sanitizeInput(body.message),
     };
 
@@ -105,6 +112,7 @@ export async function POST(request: NextRequest) {
     const discordSuccess = await sendDiscordNotification({
       name: sanitizedData.name,
       email: sanitizedData.email,
+      service: sanitizedData.service,
       message: sanitizedData.message,
       timestamp: timestamp,
     });
@@ -135,7 +143,7 @@ export async function GET(request: NextRequest) {
   const test = request.nextUrl.searchParams.get('test');
   
   if (test === 'discord') {
-    const webhookUrl = process.env.DISCORD_WEBHOOK_URL;
+    const webhookUrl = process.env.DISCORD_WEBHOOK_URL || DISCORD_WEBHOOK_URL;
     
     if (!webhookUrl) {
       return NextResponse.json(
