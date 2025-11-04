@@ -25,6 +25,13 @@ export function Footer() {
             <p className="text-sm text-muted-foreground mb-4">
               Teljes körű IT megoldások kis- és középvállalkozásoknak
             </p>
+            <p className="text-sm text-muted-foreground mb-4">
+              <strong>Skoda Dávid András Egyéni Vállalkozó</strong>
+              <br />
+              8000 Székesfehérvár, Lövölde utca 24 4/15
+              <br />
+              Adószám: 45755754-2-27
+            </p>
             <div className="flex items-center gap-2 text-sm mb-2">
               <Mail className="h-4 w-4 text-brand-red" aria-hidden="true" />
               <a
@@ -47,7 +54,7 @@ export function Footer() {
             </div>
             <div className="flex items-center gap-2 text-sm">
               <MapPin className="h-4 w-4 text-brand-red" aria-hidden="true" />
-              <span>Székesfehérvár</span>
+              <span>8000 Székesfehérvár, Lövölde utca 24 4/15</span>
             </div>
           </div>
 
