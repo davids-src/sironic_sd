@@ -13,6 +13,24 @@ export const metadata: Metadata = {
 
 const pricingPackages = [
   {
+    emoji: '💼',
+    title: 'Minden cégnek legyen informatikusa',
+    price: '39.000 Ft/hó-tól',
+    description: 'Teljes körű IT üzemeltetés havidíjas konstrukcióban – mintha saját informatikusod lenne.',
+    features: [
+      'Folyamatos rendszermonitorozás és karbantartás',
+      'Gyors beavatkozás hiba esetén',
+      'Infrastruktúra-fejlesztési tanácsadás',
+      'Biztonsági mentések és frissítések kezelése',
+      'Személyes, magyar nyelvű IT támogatás',
+    ],
+    badge: '🎁 December 31-ig 10% kedvezmény az első 3 hónap havidíjából előzetes konzultáció esetén!',
+    icon: Briefcase,
+    ctaText: 'Kérj előzetes konzultációt',
+    ctaLink: '/kapcsolat?subject=Minden%20cégnek%20legyen%20informatikusa',
+    highlighted: true,
+  },
+  {
     emoji: '🧩',
     title: 'Rendszerüzemeltetés és IT karbantartás',
     price: '29.000 Ft/hó-tól',
@@ -23,11 +41,11 @@ const pricingPackages = [
       'Szerver- és hálózatfelügyelet',
       'Proaktív működés és biztonsági frissítések',
     ],
-    badge: 'Kis- és középvállalatok kedvence',
+    badge: null,
     icon: Server,
     ctaText: 'Kérj ajánlatot',
     ctaLink: '/kapcsolat?subject=Rendszerüzemeltetés',
-    highlighted: true,
+    highlighted: false,
   },
   {
     emoji: '🌐',

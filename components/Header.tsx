@@ -12,7 +12,6 @@ export function Header() {
   const navigation = [
     { name: 'Főoldal', href: '/' },
     { name: 'Szolgáltatások', href: '/szolgaltatasok' },
-    { name: 'Fejlesztéseink', href: '/fejleszteseink' },
     { name: 'Termékeink', href: '/termekeink' },
     { name: 'Árak', href: '/arak' },
     { name: 'Rólunk', href: '/rolunk' },

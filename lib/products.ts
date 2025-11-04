@@ -41,6 +41,21 @@ export interface Product {
 
 export const products: Product[] = [
   {
+    id: 'minden-cegnek-legyen-informatikusa',
+    name: '🧩 Minden cégnek legyen informatikusa',
+    description:
+      'Költséghatékony, infrastruktúrára optimalizált IT szolgáltatás, amellyel a vállalkozásod úgy működik, mintha saját informatikusa lenne – csak fix havidíjért.',
+    features: [
+      'Folyamatos rendszermonitorozás',
+      'Proaktív karbantartás és beavatkozás',
+      'Infrastruktúra-fejlesztési tanácsadás',
+      'Biztonsági mentések és frissítések',
+      'Személyes, magyar nyelvű támogatás',
+    ],
+    link: '/kapcsolat?subject=Minden%20cégnek%20legyen%20informatikusa',
+    icon: 'Briefcase',
+  },
+  {
     id: 'tdarts',
     name: 'TDarts',
     description:
@@ -79,5 +94,19 @@ export const products: Product[] = [
     ],
     link: null,
     icon: 'Users',
+  },
+  {
+    id: 'crm-pro',
+    name: 'CRM Pro',
+    description:
+      'Egyedi fejlesztésű ügyfélkezelő rendszer, amely átláthatóvá teszi az értékesítési folyamatokat és automatizálja az adminisztrációt.',
+    features: [
+      'Testreszabható modulok',
+      'Értékesítési automatizálás',
+      'ERP/e-mail/weboldal integráció',
+      'Valós idejű riportok',
+    ],
+    link: '/kapcsolat?subject=CRM%20Pro',
+    icon: 'BarChart3',
   },
 ];

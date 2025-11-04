@@ -2,6 +2,7 @@ import { Hero } from '@/components/Hero';
 import { ServiceCard } from '@/components/ServiceCard';
 import { Testimonial } from '@/components/Testimonial';
 import { FaqSection } from '@/components/FaqSection';
+import { MindenCegnekSection } from '@/components/MindenCegnekSection';
 import { Button } from '@/components/ui/button';
 import { Server, Network, Shield, Code, CheckCircle, ShoppingCart, Cloud, Wrench, ArrowRight } from 'lucide-react';
 import Link from 'next/link';
@@ -211,6 +212,8 @@ export default function Home() {
           </div>
         </div>
       </section>
+
+      <MindenCegnekSection />
 
       <FaqSection />
 

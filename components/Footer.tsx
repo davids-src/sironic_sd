@@ -7,7 +7,6 @@ import { trackPhoneClick, trackEmailClick } from '@/lib/analytics';
 export function Footer() {
   const footerLinks = [
     { name: 'Szolgáltatások', href: '/szolgaltatasok' },
-    { name: 'Fejlesztéseink', href: '/fejleszteseink' },
     { name: 'Termékeink', href: '/termekeink' },
     { name: 'Árak', href: '/arak' },
     { name: 'Rólunk', href: '/rolunk' },
