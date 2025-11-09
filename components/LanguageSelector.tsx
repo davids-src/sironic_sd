@@ -1,6 +1,6 @@
 'use client';
 
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import { usePathname, useRouter } from 'next/navigation';
 import { Button } from './ui/button';
 import { ChevronDown, Globe } from 'lucide-react';
@@ -30,15 +30,35 @@ export function LanguageSelector() {
   const pathname = usePathname();
   const router = useRouter();
 
+  // Detect current locale from pathname
+  useEffect(() => {
+    const pathLocale = locales.find(loc => pathname.startsWith(`/${loc}`));
+    if (pathLocale) {
+      setCurrentLocale(pathLocale);
+    }
+  }, [pathname]);
+
   const switchLocale = (newLocale: Locale) => {
-    setCurrentLocale(newLocale);
     setIsOpen(false);
 
     // Save to cookie for persistence
     document.cookie = `NEXT_LOCALE=${newLocale}; path=/; max-age=31536000; SameSite=Lax`;
 
-    // For now, just show alert - full implementation requires middleware
-    alert(`Nyelvváltás ${localeNames[newLocale]} nyelvre hamarosan elérhető lesz.\n\nA teljes többnyelvű funkció implementálásához kövesse a MULTILINGUAL_IMPLEMENTATION_GUIDE.md útmutatót.`);
+    // Remove current locale prefix and add new one
+    const segments = pathname.split('/').filter(Boolean);
+    const currentPathLocale = locales.find(loc => segments[0] === loc);
+
+    let newPath;
+    if (currentPathLocale) {
+      // Replace existing locale
+      segments[0] = newLocale;
+      newPath = `/${segments.join('/')}`;
+    } else {
+      // Add locale prefix
+      newPath = `/${newLocale}${pathname}`;
+    }
+
+    router.push(newPath);
   };
 
   return (
