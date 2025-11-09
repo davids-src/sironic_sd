@@ -1,19 +1,23 @@
 'use client';
 
 import Link from 'next/link';
+import { useParams } from 'next/navigation';
 import { Mail, Phone, MapPin } from 'lucide-react';
 import { trackPhoneClick, trackEmailClick } from '@/lib/analytics';
+import { useTranslation } from '@/hooks/useTranslation';
 
 export function Footer() {
+  const { t } = useTranslation();
+  const params = useParams();
+  const locale = (params?.locale as string) || 'hu';
+
   const footerLinks = [
-    { name: 'Szolgáltatások', href: '/szolgaltatasok' },
-    { name: 'Termékeink', href: '/termekeink' },
-    { name: 'Minden cégnek legyen informatikusa', href: '/minden-cegnek-legyen-informatikusa' },
-    { name: 'Árak', href: '/arak' },
-    { name: 'Rólunk', href: '/rolunk' },
-    { name: 'Blog', href: '/blog' },
-    { name: 'Kapcsolat', href: '/kapcsolat' },
-    { name: 'Adatkezelési tájékoztató', href: '/adatkezeles' },
+    { nameKey: 'nav.services', href: `/${locale}/szolgaltatasok` },
+    { nameKey: 'nav.products', href: `/${locale}/termekeink` },
+    { nameKey: 'nav.pricing', href: `/${locale}/arak` },
+    { nameKey: 'nav.about', href: `/${locale}/rolunk` },
+    { nameKey: 'nav.blog', href: '/blog' },
+    { nameKey: 'nav.contact', href: `/${locale}/kapcsolat` },
   ];
 
   return (
@@ -21,16 +25,16 @@ export function Footer() {
       <div className="mx-auto max-w-7xl px-4 py-12 lg:px-8">
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           <div>
-            <h3 className="text-lg font-semibold mb-4">SIRONIC Rendszerház</h3>
+            <h3 className="text-lg font-semibold mb-4">{t('footer.companyName')}</h3>
             <p className="text-sm text-muted-foreground mb-4">
-              Teljes körű IT megoldások kis- és középvállalkozásoknak
+              {t('footer.tagline')}
             </p>
             <p className="text-sm text-muted-foreground mb-4">
-              <strong>Skoda Dávid András Egyéni Vállalkozó</strong>
+              <strong>{t('footer.legalName')}</strong>
               <br />
-              8000 Székesfehérvár, Lövölde utca 24 4/15
+              {t('footer.address')}
               <br />
-              Adószám: 45755754-2-27
+              {t('footer.taxNumber')}
             </p>
             <div className="flex items-center gap-2 text-sm mb-2">
               <Mail className="h-4 w-4 text-brand-red" aria-hidden="true" />
@@ -54,20 +58,20 @@ export function Footer() {
             </div>
             <div className="flex items-center gap-2 text-sm">
               <MapPin className="h-4 w-4 text-brand-red" aria-hidden="true" />
-              <span>8000 Székesfehérvár, Lövölde utca 24 4/15</span>
+              <span>{t('footer.address')}</span>
             </div>
           </div>
 
           <div>
-            <h3 className="text-lg font-semibold mb-4">Linkek</h3>
+            <h3 className="text-lg font-semibold mb-4">{t('footer.links')}</h3>
             <ul className="space-y-2">
               {footerLinks.map((link) => (
-                <li key={link.name}>
+                <li key={link.nameKey}>
                   <Link
                     href={link.href}
                     className="text-sm text-muted-foreground hover:text-brand-red transition-colors focus:outline-none focus:ring-2 focus:ring-brand-red rounded-sm"
                   >
-                    {link.name}
+                    {t(link.nameKey)}
                   </Link>
                 </li>
               ))}
@@ -75,27 +79,15 @@ export function Footer() {
           </div>
 
           <div>
-            <h3 className="text-lg font-semibold mb-4">Nyitvatartás</h3>
-            <p className="text-sm text-muted-foreground">
-              Hétfő – Péntek
-              <br />
-              8:00 – 17:00
+            <h3 className="text-lg font-semibold mb-4">{t('footer.hours')}</h3>
+            <p className="text-sm text-muted-foreground whitespace-pre-line">
+              {t('footer.hoursValue')}
             </p>
-            <button
-              className="mt-4 text-sm text-muted-foreground hover:text-brand-red transition-colors focus:outline-none focus:ring-2 focus:ring-brand-red rounded-sm"
-              onClick={() => {
-                if (typeof window !== 'undefined' && (window as any).cookieConsent) {
-                  (window as any).cookieConsent.show();
-                }
-              }}
-            >
-              Süti beállítások
-            </button>
           </div>
         </div>
 
-        <div className="mt-8 border-t pt-8 text-center text-sm text-muted-foreground">
-          <p>&copy; {new Date().getFullYear()} SIRONIC Rendszerház. Minden jog fenntartva.</p>
+        <div className="mt-8 pt-8 border-t text-center text-sm text-muted-foreground">
+          <p>{t('footer.copyright').replace('{year}', new Date().getFullYear().toString())}</p>
         </div>
       </div>
     </footer>

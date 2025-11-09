@@ -30,7 +30,7 @@ export function useTranslation() {
     loadMessages();
   }, [locale]);
 
-  const t = (key: string, fallback?: string): string => {
+  const t = (key: string, fallback?: any): any => {
     const keys = key.split('.');
     let value = messages;
 
@@ -38,11 +38,11 @@ export function useTranslation() {
       if (value && typeof value === 'object' && k in value) {
         value = value[k];
       } else {
-        return fallback || key;
+        return fallback !== undefined ? fallback : key;
       }
     }
 
-    return typeof value === 'string' ? value : fallback || key;
+    return value !== undefined ? value : (fallback !== undefined ? fallback : key);
   };
 
   return { t, locale, isLoading };
