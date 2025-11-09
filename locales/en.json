@@ -1,0 +1,180 @@
+{
+  "meta": {
+    "siteTitle": "SIRONIC IT Solutions",
+    "siteDescription": "Comprehensive IT solutions for small and medium-sized businesses in Székesfehérvár",
+    "companyName": "SIRONIC IT Solutions"
+  },
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "products": "Products",
+    "pricing": "Pricing",
+    "about": "About Us",
+    "blog": "Blog",
+    "contact": "Contact",
+    "ctaButton": "Request a Quote"
+  },
+  "hero": {
+    "badge": "New Service",
+    "title": "IT solutions that work like your own in-house team",
+    "subtitle": "Professional IT infrastructure management, rapid maintenance and dedicated support for small and medium-sized businesses.",
+    "cta": "Free Consultation",
+    "learnMore": "Learn More"
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "Comprehensive IT solutions to accelerate your business growth",
+    "viewAll": "View All Services",
+    "systemOperation": {
+      "title": "System Management & IT Maintenance",
+      "description": "Stable, secure and fast operations – we continuously monitor your systems before anything goes wrong. Less downtime, greater efficiency."
+    },
+    "networking": {
+      "title": "Network Design & Development",
+      "description": "We design, deploy and optimize your company's network infrastructure to ensure every device connects reliably, quickly and securely."
+    },
+    "security": {
+      "title": "IT Security & Data Protection",
+      "description": "Protect your business data! Modern firewalls, secure backups, access control – with us, data security isn't an extra, it's standard."
+    },
+    "development": {
+      "title": "Website & Software Development",
+      "description": "We create professional, responsive websites and custom software solutions to make your company stand out online."
+    },
+    "commerce": {
+      "title": "IT Equipment & Software Supply",
+      "description": "Everything you need for office operations – computers, monitors, printers, servers and software licenses, all from one trusted source."
+    },
+    "hosting": {
+      "title": "Hosting & Cloud Solutions",
+      "description": "Stable, fast and secure hosting for websites, email and data backup. Web hosting, dedicated servers and cloud-based storage."
+    },
+    "repair": {
+      "title": "Repair & Maintenance Services",
+      "description": "Fast and reliable repair of computers, laptops and servers, either on-site or via mail-in service. Transparent quotes and quick turnaround."
+    }
+  },
+  "mindenCegnek": {
+    "badge": "Monthly IT Support",
+    "title": "Every Company Deserves an IT Department",
+    "subtitle": "IT solutions as if you had your own IT team",
+    "description": "You don't need to hire a full-time IT specialist to have stable, secure and fast systems. SIRONIC's monthly subscription works as if we're part of your company – but you only pay for what you actually need.",
+    "features": {
+      "costEffective": "Cost-effective, infrastructure-optimized IT support – flexible, reliable and transparent.",
+      "discount": "Until December 31st, every partner requesting a consultation receives a 10% discount on the first 3 months!"
+    },
+    "cta": {
+      "consultation": "Request a Consultation",
+      "learnMore": "Learn More"
+    }
+  },
+  "whyChooseUs": {
+    "title": "Why Choose Us?",
+    "reasons": [
+      "Reliability: 5+ years of experience in designing and managing IT systems.",
+      "Proactive approach: We think ahead – we act before problems arise, not after.",
+      "Transparent pricing: No hidden fees, fixed monthly maintenance or one-time solutions.",
+      "Genuine human communication: No endless ticket queues – you can always reach us directly.",
+      "Comprehensive IT operations: We continuously work to keep your systems stable and fast – less downtime, greater efficiency, secure infrastructure.",
+      "Modern IT security: Data protection and network security with cutting-edge firewalls, backup solutions and access management – security is standard, not optional.",
+      "Web development and digital presence: Professional, responsive websites and custom systems that increase your online visibility and attract customers.",
+      "Cloud-based solutions and hosting: Fast, secure and scalable hosting for your websites, email and data backups – always accessible, always stable."
+    ]
+  },
+  "testimonials": {
+    "title": "What Our Clients Say",
+    "items": [
+      {
+        "quote": "With the SIRONIC team, we finally sleep soundly: our IT systems run stably, quickly and securely. When issues arise, they respond immediately and explain everything in plain language – no tech jargon. It's rare to find such a reliable partner in the IT world.",
+        "company": "Pervector Ltd."
+      },
+      {
+        "quote": "We used to have constant issues with computers and the network, but since we entrusted SIRONIC with our IT, everything runs smoothly. They help quickly, regardless of the problem, and we always find solutions with them. This is exactly the kind of support every company needs.",
+        "company": "Bocskai Alba Flexum Ltd."
+      },
+      {
+        "quote": "SIRONIC created a modern, clean and mobile-friendly website for us that not only looks great, but helps our clients find us online easily. They've handled maintenance ever since – every update and modification happens quickly and precisely. We received comprehensive, professional service.",
+        "company": "Bull & U Ltd."
+      },
+      {
+        "quote": "We wanted a clean, fast and modern website – SIRONIC delivered exactly that. Professional team, attention to detail, and they always have great ideas to make the result even better. Our new website perfectly reflects our company's identity.",
+        "company": "Regia Dental Ltd."
+      }
+    ]
+  },
+  "workProcess": {
+    "title": "How We Work",
+    "steps": [
+      {
+        "step": "1",
+        "title": "Initial Contact",
+        "description": "Send us a message or request a free consultation."
+      },
+      {
+        "step": "2",
+        "title": "IT Assessment",
+        "description": "We review your needs and provide expert recommendations."
+      },
+      {
+        "step": "3",
+        "title": "Custom Proposal",
+        "description": "We create a tailored solution designed for your business."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Frequently Asked Questions"
+  },
+  "finalCta": {
+    "title": "Ready for Worry-Free IT?",
+    "description": "Request a free consultation and let's find the best solution for your business together.",
+    "button": "Request a Quote Now"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Have questions or want a free consultation? Get in touch with us, and we'll respond promptly!",
+    "form": {
+      "title": "Send a Message",
+      "name": "Name",
+      "email": "Email",
+      "service": "Which service are you interested in?",
+      "servicePlaceholder": "Select a service",
+      "message": "Message",
+      "submit": "Send",
+      "submitting": "Sending...",
+      "required": "*",
+      "success": "Your message has been sent successfully! We'll contact you shortly.",
+      "error": "An error occurred while sending your message",
+      "noscript": "You can also send your message via email:"
+    },
+    "info": {
+      "title": "Contact Information",
+      "email": "Email",
+      "phone": "Phone",
+      "location": "Location",
+      "hours": "Business Hours",
+      "hoursValue": "Monday – Friday\n8:00 AM – 5:00 PM",
+      "quickResponse": "Quick Response",
+      "quickResponseText": "We typically respond to all inquiries within 24 hours on business days. For urgent matters, please call us!"
+    }
+  },
+  "footer": {
+    "companyName": "SIRONIC IT Solutions",
+    "tagline": "Comprehensive IT solutions for small and medium-sized businesses",
+    "legalName": "Skoda Dávid András Sole Proprietorship",
+    "address": "8000 Székesfehérvár, Lövölde utca 24 4/15",
+    "taxNumber": "Tax ID: 45755754-2-27",
+    "links": "Quick Links",
+    "hours": "Business Hours",
+    "hoursValue": "Monday – Friday\n8:00 AM – 5:00 PM",
+    "cookieSettings": "Cookie Settings",
+    "copyright": "© {year} SIRONIC IT Solutions. All rights reserved."
+  },
+  "common": {
+    "readMore": "Read More",
+    "learnMore": "Learn More About It",
+    "getQuote": "Request a Quote",
+    "contactUs": "Contact",
+    "loading": "Loading..."
+  }
+}

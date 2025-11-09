@@ -1,0 +1,180 @@
+{
+  "meta": {
+    "siteTitle": "SIRONIC IT Rendszerház",
+    "siteDescription": "Teljes körű IT megoldások kis- és középvállalkozásoknak Székesfehérváron",
+    "companyName": "SIRONIC Rendszerház"
+  },
+  "nav": {
+    "home": "Főoldal",
+    "services": "Szolgáltatások",
+    "products": "Termékeink",
+    "pricing": "Árak",
+    "about": "Rólunk",
+    "blog": "Blog",
+    "contact": "Kapcsolat",
+    "ctaButton": "Kérj ajánlatot"
+  },
+  "hero": {
+    "badge": "Új szolgáltatás",
+    "title": "IT megoldás, mintha saját csapatod lenne",
+    "subtitle": "IT megoldás, mintha saját csapatod lenne – profi rendszerüzemeltetés, gyors karbantartás és személyes támogatás kis- és középvállalkozásoknak.",
+    "cta": "Ingyenes konzultáció",
+    "learnMore": "Tudj meg többet"
+  },
+  "services": {
+    "title": "Szolgáltatásaink",
+    "subtitle": "Teljes körű IT megoldások vállalkozásod növekedéséhez",
+    "viewAll": "Minden szolgáltatásunk",
+    "systemOperation": {
+      "title": "Rendszerüzemeltetés és IT karbantartás",
+      "description": "Stabil, biztonságos és gyors működés – mi folyamatosan figyeljük rendszereidet, mielőtt bármi gond lenne. Kevesebb leállás, több hatékonyság."
+    },
+    "networking": {
+      "title": "Hálózatépítés és fejlesztés",
+      "description": "Megtervezzük, kiépítjük és optimalizáljuk céged hálózatát, hogy minden eszköz megbízhatóan, gyorsan és biztonságosan kapcsolódjon."
+    },
+    "security": {
+      "title": "IT biztonság és adatvédelem",
+      "description": "Védd vállalkozásod adatait! Korszerű tűzfalak, biztonsági mentések, hozzáféréskezelés – az adatbiztonság nálunk nem extra, hanem alap."
+    },
+    "development": {
+      "title": "Weboldal- és rendszerfejlesztés",
+      "description": "Professzionális, reszponzív weboldalakat és egyedi szoftvermegoldásokat készítünk, hogy céged online is kiemelkedjen."
+    },
+    "commerce": {
+      "title": "Kereskedelem – IT eszközök és szoftverek",
+      "description": "Nálunk mindent beszerezhetsz, ami az irodai működéshez szükséges – számítógépek, monitorok, nyomtatók, szerverek és szoftverlicencek."
+    },
+    "hosting": {
+      "title": "Hosting és felhőmegoldások",
+      "description": "Stabil, gyors és biztonságos tárhelymegoldások weboldalakhoz, levelezéshez és adatmentéshez. Webtárhely, szerver bérlés és felhő alapú mentés."
+    },
+    "repair": {
+      "title": "Szerviz és javítás",
+      "description": "Számítógépek, laptopok és szerverek gyors és megbízható javítása helyszínen vagy postai beküldéssel. Átlátható árajánlat és gyors javítás."
+    }
+  },
+  "mindenCegnek": {
+    "badge": "Havidíjas IT támogatás",
+    "title": "Minden cégnek legyen informatikusa",
+    "subtitle": "IT megoldás, mintha saját IT-sod lenne",
+    "description": "Nem kell saját informatikust alkalmaznod ahhoz, hogy stabil, biztonságos és gyors rendszereid legyenek. A SIRONIC havidíjas konstrukciója úgy működik, mintha a Te cégednél dolgozna – de csak annyit fizetsz, amennyire ténylegesen szükség van.",
+    "features": {
+      "costEffective": "Költséghatékony, infrastruktúrára optimalizált IT támogatás – rugalmasan, megbízhatóan, átláthatóan.",
+      "discount": "December 31-ig minden előzetes konzultációt kérő partnerünknek 10% kedvezményt adunk az első 3 hónap havidíjából!"
+    },
+    "cta": {
+      "consultation": "Kérj előzetes konzultációt",
+      "learnMore": "Tudj meg többet"
+    }
+  },
+  "whyChooseUs": {
+    "title": "Miért válassz minket?",
+    "reasons": [
+      "Megbízhatóság: 5+ év tapasztalat rendszerek tervezésében és üzemeltetésében.",
+      "Proaktív működés: Mi előre gondolkodunk, nem akkor lépünk, amikor már baj van.",
+      "Átlátható költségek: Nincsenek rejtett díjak, fix havidíjas karbantartás vagy eseti megoldások.",
+      "Valódi emberi kommunikáció: Nálunk nincs \"ticket-dzsungel\" – mindig elérsz minket.",
+      "Teljes körű IT üzemeltetés: Rendszereid stabil és gyors működéséért folyamatosan dolgozunk – kevesebb leállás, nagyobb hatékonyság, biztonságos háttérrel.",
+      "Korszerű IT biztonság: Adatvédelem és hálózati biztonság modern tűzfalakkal, mentési megoldásokkal és hozzáférés-kezeléssel – az adatbiztonság nálunk alap, nem extra.",
+      "Webfejlesztés és digitális jelenlét: Professzionális, reszponzív weboldalak és egyedi rendszerek, amelyek növelik céged online láthatóságát és bevonzák az ügyfeleket.",
+      "Felhőalapú megoldások és hosting: Gyors, biztonságos és skálázható tárhelyszolgáltatás weboldaladhoz, levelezésedhez és adatmentéseidhez – mindig elérhető, mindig stabil."
+    ]
+  },
+  "testimonials": {
+    "title": "Mit mondanak ügyfeleink?",
+    "items": [
+      {
+        "quote": "A SIRONIC csapatával végre nyugodtan alszunk: az informatikai rendszereink stabilan, gyorsan és biztonságosan működnek. Ha probléma merül fel, azonnal reagálnak, és mindent elmagyaráznak érthetően – nem IT-nyelven. Ritka az ilyen megbízható partner az informatika világában.",
+        "company": "Pervector Zrt."
+      },
+      {
+        "quote": "Korábban állandó gondjaink voltak a számítógépekkel és a hálózattal, de amióta a SIRONIC-ra bíztuk az IT-t, minden gördülékenyen megy. Gyorsan segítenek, bármilyen hibáról is legyen szó, és mindig találunk náluk megoldást. Pont ilyen támogatásra van szüksége minden cégnek.",
+        "company": "Bocskai Alba Flexum Kft."
+      },
+      {
+        "quote": "A SIRONIC egy modern, átlátható és mobilbarát weboldalt készített számunkra, ami nemcsak jól néz ki, de ügyfeleink is könnyen megtalálnak minket online. Azóta a karbantartást is ők végzik – minden frissítés és módosítás gyorsan, precízen történik. Teljes körű, profi szolgáltatást kaptunk.",
+        "company": "Bull & U Kft."
+      },
+      {
+        "quote": "Egy letisztult, gyors és modern weboldalt szerettünk volna – a SIRONIC pontosan ezt szállította. Profi csapat, figyelnek a részletekre, és mindig van egy jó ötletük, amivel még jobbá teszik az eredményt. Az új oldalunk tökéletesen tükrözi a cégünk arculatát.",
+        "company": "Regia Dental Kft."
+      }
+    ]
+  },
+  "workProcess": {
+    "title": "Hogyan dolgozunk?",
+    "steps": [
+      {
+        "step": "1",
+        "title": "Kapcsolatfelvétel",
+        "description": "Küldj üzenetet vagy kérj ingyenes konzultációt."
+      },
+      {
+        "step": "2",
+        "title": "IT állapotfelmérés",
+        "description": "Megnézzük, miben tudunk segíteni, és javaslatot adunk."
+      },
+      {
+        "step": "3",
+        "title": "Egyedi ajánlat",
+        "description": "Személyre szabott megoldást készítünk céged igényeihez."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Gyakran ismételt kérdések"
+  },
+  "finalCta": {
+    "title": "Készen állsz a gondtalan IT-re?",
+    "description": "Kérj ingyenes konzultációt, és találjuk meg együtt a legjobb megoldást vállalkozásod számára.",
+    "button": "Kérj ajánlatot most"
+  },
+  "contact": {
+    "title": "Kapcsolat",
+    "subtitle": "Van kérdésed vagy szeretnél ingyenes konzultációt? Vedd fel velünk a kapcsolatot, és hamarosan válaszolunk!",
+    "form": {
+      "title": "Küldj üzenetet",
+      "name": "Név",
+      "email": "E-mail",
+      "service": "Melyik szolgáltatás iránt érdeklődsz?",
+      "servicePlaceholder": "Válassz egy szolgáltatást",
+      "message": "Üzenet",
+      "submit": "Küldés",
+      "submitting": "Küldés...",
+      "required": "*",
+      "success": "Üzeneted sikeresen elküldve! Hamarosan felvesszük veled a kapcsolatot.",
+      "error": "Hiba történt az üzenet küldése során",
+      "noscript": "JavaScript nélkül is elküldheted az üzenetet:"
+    },
+    "info": {
+      "title": "Elérhetőségeink",
+      "email": "E-mail",
+      "phone": "Telefon",
+      "location": "Székhely",
+      "hours": "Nyitvatartás",
+      "hoursValue": "Hétfő – Péntek\n8:00 – 17:00",
+      "quickResponse": "Gyors válasz",
+      "quickResponseText": "Általában 24 órán belül válaszolunk minden megkeresésre munkanapokon. Sürgős esetben hívj minket telefonon!"
+    }
+  },
+  "footer": {
+    "companyName": "SIRONIC Rendszerház",
+    "tagline": "Teljes körű IT megoldások kis- és középvállalkozásoknak",
+    "legalName": "Skoda Dávid András Egyéni Vállalkozó",
+    "address": "8000 Székesfehérvár, Lövölde utca 24 4/15",
+    "taxNumber": "Adószám: 45755754-2-27",
+    "links": "Linkek",
+    "hours": "Nyitvatartás",
+    "hoursValue": "Hétfő – Péntek\n8:00 – 17:00",
+    "cookieSettings": "Süti beállítások",
+    "copyright": "© {year} SIRONIC Rendszerház. Minden jog fenntartva."
+  },
+  "common": {
+    "readMore": "Tudj meg többet",
+    "learnMore": "Tudj meg többet róla",
+    "getQuote": "Kérj ajánlatot",
+    "contactUs": "Kapcsolat",
+    "loading": "Betöltés..."
+  }
+}
