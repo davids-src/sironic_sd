@@ -1,7 +1,7 @@
 'use client';
 
 import { useState, useEffect } from 'react';
-import { usePathname, useRouter } from 'next/navigation';
+import { usePathname, useRouter, useParams } from 'next/navigation';
 import { Button } from './ui/button';
 import { ChevronDown, Globe } from 'lucide-react';
 
@@ -26,30 +26,25 @@ const localeFlags: Record<Locale, string> = {
 
 export function LanguageSelector() {
   const [isOpen, setIsOpen] = useState(false);
-  const [currentLocale, setCurrentLocale] = useState<Locale>('hu');
+  const pathname = usePathname();
   const router = useRouter();
+  const params = useParams();
 
-  // Load locale from cookie on mount
-  useEffect(() => {
-    const cookieLocale = document.cookie
-      .split('; ')
-      .find(row => row.startsWith('NEXT_LOCALE='))
-      ?.split('=')[1] as Locale | undefined;
-
-    if (cookieLocale && locales.includes(cookieLocale)) {
-      setCurrentLocale(cookieLocale);
-    }
-  }, []);
+  const currentLocale = (params?.locale as Locale) || 'hu';
 
   const switchLocale = (newLocale: Locale) => {
     setIsOpen(false);
-    setCurrentLocale(newLocale);
 
     // Save to cookie for persistence
     document.cookie = `NEXT_LOCALE=${newLocale}; path=/; max-age=31536000; SameSite=Lax`;
 
-    // Reload page to apply new locale
-    window.location.reload();
+    // Get current path without locale
+    const segments = pathname.split('/').filter(Boolean);
+    const pathWithoutLocale = segments.slice(1).join('/');
+
+    // Navigate to new locale
+    const newPath = `/${newLocale}${pathWithoutLocale ? `/${pathWithoutLocale}` : ''}`;
+    router.push(newPath);
   };
 
   return (

@@ -2,6 +2,7 @@
 
 import { useState } from 'react';
 import Link from 'next/link';
+import { useParams } from 'next/navigation';
 import { Menu, X } from 'lucide-react';
 import { Button } from './ui/button';
 import { ThemeToggle } from './ThemeToggle';
@@ -10,26 +11,35 @@ import { useTranslation } from '@/hooks/useTranslation';
 
 export function Header() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
-  const { t } = useTranslation();
+  const { t, locale } = useTranslation();
+  const params = useParams();
+  const currentLocale = (params?.locale as string) || 'hu';
+
+  const getLocalizedHref = (path: string) => {
+    if (path === '/blog') {
+      return '/blog';
+    }
+    return `/${currentLocale}${path}`;
+  };
 
   const navigation = [
-    { nameKey: 'nav.home', href: '/' },
-    { nameKey: 'nav.services', href: '/szolgaltatasok' },
-    { nameKey: 'nav.products', href: '/termekeink' },
-    { nameKey: 'nav.pricing', href: '/arak' },
-    { nameKey: 'nav.about', href: '/rolunk' },
+    { nameKey: 'nav.home', href: getLocalizedHref('/') },
+    { nameKey: 'nav.services', href: getLocalizedHref('/szolgaltatasok') },
+    { nameKey: 'nav.products', href: getLocalizedHref('/termekeink') },
+    { nameKey: 'nav.pricing', href: getLocalizedHref('/arak') },
+    { nameKey: 'nav.about', href: getLocalizedHref('/rolunk') },
     { nameKey: 'nav.blog', href: '/blog' },
-    { nameKey: 'nav.contact', href: '/kapcsolat' },
+    { nameKey: 'nav.contact', href: getLocalizedHref('/kapcsolat') },
   ];
 
   return (
     <header className="sticky top-0 z-50 w-full border-b bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60">
       <nav className="mx-auto flex max-w-7xl items-center justify-between p-4 lg:px-8" aria-label="Global">
         <div className="flex lg:flex-1">
-          <Link href="/" className="-m-1.5 p-1.5 flex items-center gap-2">
-            <img 
-              src="/logo_rgb.svg" 
-              alt="SIRONIC" 
+          <Link href={getLocalizedHref('/')} className="-m-1.5 p-1.5 flex items-center gap-2">
+            <img
+              src="/logo_rgb.svg"
+              alt="SIRONIC"
               className="h-8 w-8 flex-shrink-0"
             />
             <span className="text-xl font-bold">SIRONIC</span>
@@ -62,7 +72,7 @@ export function Header() {
           <LanguageSelector />
           <ThemeToggle />
           <Button asChild className="bg-brand-red hover:bg-brand-red/90">
-            <Link href="/kapcsolat">{t('nav.ctaButton')}</Link>
+            <Link href={getLocalizedHref('/kapcsolat')}>{t('nav.ctaButton')}</Link>
           </Button>
         </div>
       </nav>
@@ -80,7 +90,7 @@ export function Header() {
               </Link>
             ))}
             <Button asChild className="w-full bg-brand-red hover:bg-brand-red/90 mt-2">
-              <Link href="/kapcsolat" onClick={() => setMobileMenuOpen(false)}>
+              <Link href={getLocalizedHref('/kapcsolat')} onClick={() => setMobileMenuOpen(false)}>
                 {t('nav.ctaButton')}
               </Link>
             </Button>
