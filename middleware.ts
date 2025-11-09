@@ -1,33 +1,9 @@
 import { NextResponse } from 'next/server';
 import type { NextRequest } from 'next/server';
 
+// Only Hungarian is active, but translations remain in code for future use
 const locales = ['hu', 'en', 'de', 'sk', 'ro'];
 const defaultLocale = 'hu';
-
-function getLocale(request: NextRequest): string {
-  const localeCookie = request.cookies.get('NEXT_LOCALE')?.value;
-  if (localeCookie && locales.includes(localeCookie)) {
-    return localeCookie;
-  }
-
-  const acceptLanguage = request.headers.get('accept-language');
-  if (acceptLanguage) {
-    const preferredLocale = acceptLanguage
-      .split(',')
-      .map(lang => lang.split(';')[0].trim().toLowerCase())
-      .find(lang => {
-        const mainLang = lang.split('-')[0];
-        return locales.includes(mainLang);
-      });
-
-    if (preferredLocale) {
-      const mainLang = preferredLocale.split('-')[0];
-      return mainLang;
-    }
-  }
-
-  return defaultLocale;
-}
 
 export function middleware(request: NextRequest) {
   const { pathname } = request.nextUrl;
@@ -58,10 +34,8 @@ export function middleware(request: NextRequest) {
     return NextResponse.next();
   }
 
-  // Redirect to locale-prefixed URL
-  const locale = getLocale(request);
-  const newUrl = new URL(`/${locale}${pathname}`, request.url);
-
+  // Always redirect to /hu/ (Hungarian only for now)
+  const newUrl = new URL(`/hu${pathname}`, request.url);
   return NextResponse.redirect(newUrl);
 }
 
