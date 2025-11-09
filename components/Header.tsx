@@ -5,6 +5,7 @@ import Link from 'next/link';
 import { Menu, X } from 'lucide-react';
 import { Button } from './ui/button';
 import { ThemeToggle } from './ThemeToggle';
+import { LanguageSelector } from './LanguageSelector';
 
 export function Header() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
@@ -33,6 +34,7 @@ export function Header() {
           </Link>
         </div>
         <div className="flex lg:hidden gap-2">
+          <LanguageSelector />
           <ThemeToggle />
           <Button
             variant="ghost"
@@ -55,6 +57,7 @@ export function Header() {
           ))}
         </div>
         <div className="hidden lg:flex lg:flex-1 lg:justify-end lg:items-center lg:gap-4">
+          <LanguageSelector />
           <ThemeToggle />
           <Button asChild className="bg-brand-red hover:bg-brand-red/90">
             <Link href="/kapcsolat">Kérj ajánlatot</Link>
