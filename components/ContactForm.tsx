@@ -8,8 +8,10 @@ import { Label } from './ui/label';
 import { Textarea } from './ui/textarea';
 import { Loader2, CheckCircle2 } from 'lucide-react';
 import { trackContactFormSubmission } from '@/lib/analytics';
+import { useTranslation } from '@/hooks/useTranslation';
 
 export function ContactForm() {
+  const { t } = useTranslation();
   const searchParams = useSearchParams();
   const subject = searchParams.get('subject');
 
@@ -17,9 +19,15 @@ export function ContactForm() {
     name: '',
     email: '',
     service: '',
-    message: subject ? `Tárgy: ${subject}\n\n` : '',
+    message: '',
     honeypot: '',
   });
+
+  useEffect(() => {
+    if (subject) {
+      setFormData(prev => ({ ...prev, message: `Tárgy: ${subject}\n\n` }));
+    }
+  }, [subject]);
   const [errors, setErrors] = useState<{ [key: string]: string }>({});
   const [isSubmitting, setIsSubmitting] = useState(false);
   const [submitSuccess, setSubmitSuccess] = useState(false);
@@ -50,7 +58,7 @@ export function ContactForm() {
         if (data.errors) {
           setErrors(data.errors);
         } else {
-          setErrors({ general: data.message || 'Hiba történt az üzenet küldése során' });
+          setErrors({ general: data.message || t('contact.form.error') });
         }
       } else {
         setSubmitSuccess(true);

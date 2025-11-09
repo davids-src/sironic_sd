@@ -175,6 +175,89 @@
     "learnMore": "Tudj meg többet róla",
     "getQuote": "Kérj ajánlatot",
     "contactUs": "Kapcsolat",
-    "loading": "Betöltés..."
+    "loading": "Betöltés...",
+    "whatYouGet": "Amit kapsz:"
+  },
+  "servicesPage": {
+    "title": "Szolgáltatásaink",
+    "subtitle": "Komplett IT megoldások, amelyekkel vállalkozásod biztonságban és hatékonyan működhet. Fix havidíjas karbantartástól az egyedi fejlesztésekig – minden egy helyen.",
+    "cta": {
+      "title": "Érdekel valamelyik szolgáltatásunk?",
+      "subtitle": "Kérj ingyenes konzultációt, és találjuk meg együtt a legjobb megoldást vállalkozásod számára.",
+      "requestQuote": "Kérj ajánlatot most",
+      "reportService": "Szervizigény bejelentése"
+    },
+    "details": {
+      "systemOperation": {
+        "features": [
+          "Proaktív monitoring és karbantartás",
+          "Gyors hibaelhárítás",
+          "Rendszeres biztonsági frissítések",
+          "Teljesítmény-optimalizálás"
+        ]
+      },
+      "networking": {
+        "features": [
+          "Hálózattervezés és kiépítés",
+          "WiFi hálózatok optimalizálása",
+          "VPN és távoli hozzáférés",
+          "Hálózatbiztonság"
+        ]
+      },
+      "security": {
+        "features": [
+          "Tűzfal konfiguráció és management",
+          "Automatikus biztonsági mentések",
+          "Adatvédelmi szabályozás (GDPR)",
+          "Vírus- és malware védelem"
+        ]
+      },
+      "development": {
+        "features": [
+          "Modern, reszponzív weboldalak",
+          "E-commerce megoldások",
+          "Egyedi szoftverek fejlesztése",
+          "SEO optimalizálás"
+        ]
+      },
+      "commerce": {
+        "description": "Nálunk mindent beszerezhetsz, ami az irodai működéshez szükséges – számítógépek, monitorok, nyomtatók, szerverek, hálózati eszközök és szoftverlicencek. Megbízható márkákkal dolgozunk, és segítünk a legjobb ár-érték arány kiválasztásában. Akár új eszközökre, akár bővítésre van szükséged, mi gondoskodunk róla.",
+        "features": [
+          "Számítógépek, laptopok és szerverek",
+          "Hálózati eszközök és perifériák",
+          "Szoftverlicencek beszerzése",
+          "Tanácsadás az eszközválasztásban"
+        ]
+      },
+      "hosting": {
+        "description": "Stabil, gyors és biztonságos tárhelymegoldásokat kínálunk weboldalakhoz, levelezéshez és adatmentéshez. Saját szerverparkunkon vagy megbízható nemzetközi partnereinken keresztül biztosítjuk, hogy adataid mindig elérhetők és védettek legyenek.",
+        "features": [
+          "Webtárhely és domain regisztráció",
+          "E-mail hosting",
+          "Felhő alapú mentés és fájlmegosztás",
+          "Szerver bérlés és menedzsment"
+        ]
+      },
+      "repair": {
+        "title": "Szerviz és javítás – helyszínen vagy postán",
+        "description": "Számítógépek, laptopok, szerverek és hálózati eszközök gyors és megbízható javítása. Helyszíni kiszállás Székesfehérváron és környékén, vagy eszközök postai úton történő beküldése. Minden javítást bevizsgálással kezdünk, árajánlat után csak a jóváhagyásod alapján dolgozunk. Célunk, hogy minél előbb újra működjön a rendszered.",
+        "features": [
+          "Helyszíni szerviz (Székesfehérvár és környéke)",
+          "Postai beküldés lehetősége",
+          "Átlátható árajánlat javítás előtt",
+          "Gyors javítási idő"
+        ]
+      },
+      "training": {
+        "title": "IT oktatás és tudásfejlesztés",
+        "description": "Fejleszd csapatod digitális tudását! Személyre szabott IT oktatásokat, biztonságtudatossági tréningeket és rendszerszintű tudásfejlesztést kínálunk, hogy a munkatársak magabiztosan használják a modern eszközöket és szoftvereket. A biztonságos működés az információnál kezdődik.",
+        "features": [
+          "Személyre szabott IT oktatások",
+          "Biztonságtudatossági tréningek",
+          "Szoftver- és eszközhasználati képzések",
+          "Vállalati tudásfejlesztési programok"
+        ]
+      }
+    }
   }
 }
