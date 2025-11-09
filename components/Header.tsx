@@ -2,36 +2,24 @@
 
 import { useState } from 'react';
 import Link from 'next/link';
-import { usePathname } from 'next/navigation';
 import { Menu, X } from 'lucide-react';
 import { Button } from './ui/button';
 import { ThemeToggle } from './ThemeToggle';
 import { LanguageSelector } from './LanguageSelector';
 import { useTranslation } from '@/hooks/useTranslation';
-import { getLocaleFromPathname } from '@/lib/i18n';
 
 export function Header() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
   const { t } = useTranslation();
-  const pathname = usePathname();
-  const locale = getLocaleFromPathname(pathname);
-
-  const getLocalizedHref = (path: string) => {
-    // Blog stays without locale prefix (Hungarian only)
-    if (path === '/blog') {
-      return '/blog';
-    }
-    return `/${locale}${path}`;
-  };
 
   const navigation = [
-    { nameKey: 'nav.home', href: getLocalizedHref('/') },
-    { nameKey: 'nav.services', href: getLocalizedHref('/szolgaltatasok') },
-    { nameKey: 'nav.products', href: getLocalizedHref('/termekeink') },
-    { nameKey: 'nav.pricing', href: getLocalizedHref('/arak') },
-    { nameKey: 'nav.about', href: getLocalizedHref('/rolunk') },
+    { nameKey: 'nav.home', href: '/' },
+    { nameKey: 'nav.services', href: '/szolgaltatasok' },
+    { nameKey: 'nav.products', href: '/termekeink' },
+    { nameKey: 'nav.pricing', href: '/arak' },
+    { nameKey: 'nav.about', href: '/rolunk' },
     { nameKey: 'nav.blog', href: '/blog' },
-    { nameKey: 'nav.contact', href: getLocalizedHref('/kapcsolat') },
+    { nameKey: 'nav.contact', href: '/kapcsolat' },
   ];
 
   return (
@@ -74,7 +62,7 @@ export function Header() {
           <LanguageSelector />
           <ThemeToggle />
           <Button asChild className="bg-brand-red hover:bg-brand-red/90">
-            <Link href={getLocalizedHref('/kapcsolat')}>{t('nav.ctaButton')}</Link>
+            <Link href="/kapcsolat">{t('nav.ctaButton')}</Link>
           </Button>
         </div>
       </nav>
@@ -92,7 +80,7 @@ export function Header() {
               </Link>
             ))}
             <Button asChild className="w-full bg-brand-red hover:bg-brand-red/90 mt-2">
-              <Link href={getLocalizedHref('/kapcsolat')} onClick={() => setMobileMenuOpen(false)}>
+              <Link href="/kapcsolat" onClick={() => setMobileMenuOpen(false)}>
                 {t('nav.ctaButton')}
               </Link>
             </Button>

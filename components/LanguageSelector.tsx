@@ -27,38 +27,29 @@ const localeFlags: Record<Locale, string> = {
 export function LanguageSelector() {
   const [isOpen, setIsOpen] = useState(false);
   const [currentLocale, setCurrentLocale] = useState<Locale>('hu');
-  const pathname = usePathname();
   const router = useRouter();
 
-  // Detect current locale from pathname
+  // Load locale from cookie on mount
   useEffect(() => {
-    const pathLocale = locales.find(loc => pathname.startsWith(`/${loc}`));
-    if (pathLocale) {
-      setCurrentLocale(pathLocale);
+    const cookieLocale = document.cookie
+      .split('; ')
+      .find(row => row.startsWith('NEXT_LOCALE='))
+      ?.split('=')[1] as Locale | undefined;
+
+    if (cookieLocale && locales.includes(cookieLocale)) {
+      setCurrentLocale(cookieLocale);
     }
-  }, [pathname]);
+  }, []);
 
   const switchLocale = (newLocale: Locale) => {
     setIsOpen(false);
+    setCurrentLocale(newLocale);
 
     // Save to cookie for persistence
     document.cookie = `NEXT_LOCALE=${newLocale}; path=/; max-age=31536000; SameSite=Lax`;
 
-    // Remove current locale prefix and add new one
-    const segments = pathname.split('/').filter(Boolean);
-    const currentPathLocale = locales.find(loc => segments[0] === loc);
-
-    let newPath;
-    if (currentPathLocale) {
-      // Replace existing locale
-      segments[0] = newLocale;
-      newPath = `/${segments.join('/')}`;
-    } else {
-      // Add locale prefix
-      newPath = `/${newLocale}${pathname}`;
-    }
-
-    router.push(newPath);
+    // Reload page to apply new locale
+    window.location.reload();
   };
 
   return (

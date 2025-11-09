@@ -1,19 +1,34 @@
 'use client';
 
-import { usePathname } from 'next/navigation';
 import { useState, useEffect } from 'react';
-import { getLocaleFromPathname } from '@/lib/i18n';
 import type { Locale } from '@/i18n';
+
+const locales = ['hu', 'en', 'de', 'sk', 'ro'] as const;
+
+// Get locale from cookie
+function getLocaleFromCookie(): Locale {
+  if (typeof window === 'undefined') return 'hu';
+
+  const cookieLocale = document.cookie
+    .split('; ')
+    .find(row => row.startsWith('NEXT_LOCALE='))
+    ?.split('=')[1] as Locale | undefined;
+
+  if (cookieLocale && locales.includes(cookieLocale)) {
+    return cookieLocale;
+  }
+
+  return 'hu';
+}
 
 // Simple hook for client-side translations
 export function useTranslation() {
-  const pathname = usePathname();
   const [messages, setMessages] = useState<any>({});
   const [locale, setLocale] = useState<Locale>('hu');
   const [isLoading, setIsLoading] = useState(true);
 
   useEffect(() => {
-    const currentLocale = getLocaleFromPathname(pathname);
+    const currentLocale = getLocaleFromCookie();
     setLocale(currentLocale);
 
     // Load messages for current locale
@@ -30,7 +45,7 @@ export function useTranslation() {
           setIsLoading(false);
         });
       });
-  }, [pathname]);
+  }, []);
 
   const t = (key: string, fallback?: string): string => {
     const keys = key.split('.');
