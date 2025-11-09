@@ -259,5 +259,100 @@
         ]
       }
     }
+  },
+  "productsPage": {
+    "breadcrumb": {
+      "home": "Főoldal",
+      "products": "Termékeink"
+    },
+    "title": "Termékeink – a Sironic technológia valós megoldásokban",
+    "subtitle": "Belső fejlesztéseinket valós igények hívták életre – ezek a rendszerek ma már több vállalkozás működését támogatják. Nézd meg, hogyan segíthetnek a Te cégednek is.",
+    "noProducts": "Jelenleg nincsenek megjeleníthető termékek. Hamarosan bővül a kínálatunk!",
+    "cta": {
+      "title": "Érdekel valamelyik termékünk?",
+      "subtitle": "Lépj kapcsolatba velünk, és megmutatjuk, hogyan illeszthetőek a rendszereink a vállalkozásod működésébe. Minden termékünket a valós üzleti igények alapján fejlesztettük.",
+      "consultation": "Kérj konzultációt",
+      "services": "Szolgáltatásaink"
+    },
+    "whyChoose": {
+      "title": "Miért válaszd a Sironic termékeit?",
+      "reasons": [
+        {
+          "title": "Valós problémákra készült megoldások",
+          "description": "Minden termékünk a gyakorlatban tesztelt, működő vállalkozásoknál bizonyított."
+        },
+        {
+          "title": "Magyar nyelvű támogatás",
+          "description": "Közvetlenül elérsz minket, nincs nyelvi barrier vagy automatizált válaszrendszer."
+        },
+        {
+          "title": "Folyamatos fejlesztés",
+          "description": "Rendszeresen bővítjük és fejlesztjük termékeink funkcióit az ügyfelek visszajelzései alapján."
+        },
+        {
+          "title": "Testreszabási lehetőségek",
+          "description": "A termékeinket az igényeid szerint tudjuk személyre szabni és integrálni a meglévő rendszereidbe."
+        }
+      ]
+    }
+  },
+  "aboutPage": {
+    "title": "Rólunk",
+    "intro": [
+      "A SIRONIC Rendszerház a COVID-időszakban indult, amikor minden vállalkozásnak újra kellett gondolnia az informatikai működését. Azóta folyamatosan fejlődünk, és naprakészen követjük az IT világ gyors változásait – mert hisszük, hogy a technológia nem teher, hanem előny lehet minden cég számára.",
+      "Célunk, hogy a kis- és középvállalkozásoknak ne kelljen az informatikai problémákkal küzdeniük. Mi nemcsak rendszereket tartunk karban – stabilitást, biztonságot és nyugalmat adunk a működéshez.",
+      "Legyen szó rendszerüzemeltetésről, hálózatépítésről, adatbiztonságról vagy webfejlesztésről, nálunk minden IT-megoldás egy kézben van – gyorsan, átláthatóan, emberi nyelven."
+    ],
+    "stats": [
+      { "value": "5+", "label": "Év tapasztalat" },
+      { "value": "100+", "label": "Elégedett ügyfél" },
+      { "value": "24/7", "label": "Elérhetőség" },
+      { "value": "99.9%", "label": "Rendelkezésre állás" }
+    ],
+    "mission": {
+      "title": "A SIRONIC küldetése",
+      "paragraphs": [
+        "Tudjuk, hogy egy kis- vagy középvállalkozás számára az informatika nem lehet akadály – egyszerűen működnie kell, minden nap, hibamentesen. Egy leállás, egy lassú hálózat vagy egy elavult biztonsági beállítás ma már komoly veszteséget okozhat.",
+        "Ezért hoztuk létre a SIRONIC Rendszerházat: hogy minden cég számára elérhetővé tegyük a profi, mégis megfizethető IT hátteret. Nem kell saját rendszergazdát alkalmaznod, nem kell bonyolult vagy költséges infrastruktúrát építened – mi gondoskodunk mindenről.",
+        "Szolgáltatásaink lefedik a teljes informatikai működést: rendszerüzemeltetés, hálózatépítés, adatmentés, IT biztonság, tűzfalkezelés, webfejlesztés és IT oktatás. Mindig az aktuális technológiákhoz igazodunk, így ügyfeleink biztosak lehetnek benne, hogy vállalkozásuk informatikai rendszerei naprakészek és biztonságosak.",
+        "A SIRONIC nem csak IT-t biztosít – hanem nyugalmat, kiszámíthatóságot és támogatást. Mi azok vagyunk, akiket bármikor elérhetsz, ha gond van – és gyakran előbb megoldjuk, minthogy észrevennéd.",
+        "Minden ügyfelünket partnerként kezeljük, nem csak karbantartjuk a rendszereiket, hanem hosszú távon gondoskodunk a működésükről."
+      ]
+    },
+    "values": {
+      "title": "Miért dolgozz velünk?",
+      "items": [
+        {
+          "title": "Proaktív hozzáállás",
+          "description": "Nem akkor lépünk, amikor már baj van. Folyamatosan monitorozzuk rendszereidet, hogy megelőzzük a problémákat."
+        },
+        {
+          "title": "Emberi kommunikáció",
+          "description": "Nálunk nincs \"ticket-dzsungel\". Igazi emberekkel beszélsz, akik értik a problémádat és gyorsan segítenek."
+        },
+        {
+          "title": "Átláthatóság",
+          "description": "Fix havidíjas karbantartás vagy eseti megoldások – nincsenek rejtett díjak, mindig tudod, mire számíthatsz."
+        }
+      ]
+    },
+    "howWeWork": {
+      "title": "Hogyan dolgozunk?",
+      "steps": [
+        "Meghallgatjuk az igényeidet és felmérjük a jelenlegi IT rendszeredet",
+        "Javaslatot adunk, mi lenne a legjobb megoldás számodra",
+        "Beállítjuk, optimalizáljuk és figyeljük a rendszeredet",
+        "Folyamatos támogatást nyújtunk, amikor csak szükséged van ránk"
+      ]
+    },
+    "finalCta": {
+      "title": "Légy te is partnereink között!",
+      "subtitle": "Kérj ingyenes konzultációt, és találjuk meg együtt a legjobb IT megoldást vállalkozásod számára.",
+      "button": "Vegyük fel a kapcsolatot"
+    }
+  },
+  "pricingPage": {
+    "title": "Áraink",
+    "subtitle": "Egyedi ajánlatokat készítünk vállalkozásod igényei szerint. Nincs két egyforma cég – ezért a díjainkat is mindig a Te infrastruktúrádhoz és igényeidhez igazítjuk."
   }
 }
