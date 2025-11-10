@@ -24,7 +24,7 @@ const pricingPackages = [
       'Biztonsági mentések és frissítések kezelése',
       'Személyes, magyar nyelvű IT támogatás',
     ],
-    badge: '🎁 2026 február 1-ig 10% kedvezmény az első 3 hónap havidíjából előzetes konzultáció esetén!',
+    badge: '🎁 2026 Február 1-ig érvényes 10% kedvezmény az első 3 hónap havidíjából előzetes konzultáció esetén!',
     icon: Briefcase,
     ctaText: 'Kérj előzetes konzultációt',
     ctaLink: '/kapcsolat?subject=Minden%20cégnek%20legyen%20informatikusa',
