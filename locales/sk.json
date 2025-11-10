@@ -1,0 +1,180 @@
+{
+  "meta": {
+    "siteTitle": "SIRONIC IT Riešenia",
+    "siteDescription": "Komplexné IT riešenia pre malé a stredné podniky v Székesfehérvári",
+    "companyName": "SIRONIC IT Riešenia"
+  },
+  "nav": {
+    "home": "Domov",
+    "services": "Služby",
+    "products": "Produkty",
+    "pricing": "Cenník",
+    "about": "O nás",
+    "blog": "Blog",
+    "contact": "Kontakt",
+    "ctaButton": "Požiadať o ponuku"
+  },
+  "hero": {
+    "badge": "Nová služba",
+    "title": "IT riešenia, akoby ste mali vlastný tím",
+    "subtitle": "Profesionálna správa IT infraštruktúry, rýchla údržba a osobná podpora pre malé a stredné podniky.",
+    "cta": "Bezplatná konzultácia",
+    "learnMore": "Zistiť viac"
+  },
+  "services": {
+    "title": "Naše služby",
+    "subtitle": "Komplexné IT riešenia pre rast Vášho podnikania",
+    "viewAll": "Zobraziť všetky služby",
+    "systemOperation": {
+      "title": "Správa systémov & IT údržba",
+      "description": "Stabilná, bezpečná a rýchla prevádzka – priebežne monitorujeme Vaše systémy skôr, ako sa objavia problémy. Menej prestojov, vyššia efektivita."
+    },
+    "networking": {
+      "title": "Návrh a vývoj sietí",
+      "description": "Navrhujeme, implementujeme a optimalizujeme sieťovú infraštruktúru Vašej spoločnosti, aby sa každé zariadenie pripájalo spoľahlivo, rýchlo a bezpečne."
+    },
+    "security": {
+      "title": "IT bezpečnosť & ochrana údajov",
+      "description": "Chráňte údaje Vašej firmy! Moderné firewally, bezpečné zálohy, správa prístupov – u nás je bezpečnosť údajov štandardom, nie možnosťou navyše."
+    },
+    "development": {
+      "title": "Vývoj webových stránok & softvéru",
+      "description": "Vytvárame profesionálne, responzívne webové stránky a softvérové riešenia na mieru, aby Vaša firma vynikla online."
+    },
+    "commerce": {
+      "title": "Dodávka IT zariadení & softvéru",
+      "description": "Všetko, čo potrebujete pre prevádzku kancelárie – počítače, monitory, tlačiarne, servery a softvérové licencie, všetko z jedného zdroja."
+    },
+    "hosting": {
+      "title": "Hosting & cloudové riešenia",
+      "description": "Stabilný, rýchly a bezpečný hosting pre webové stránky, e-mail a zálohovanie údajov. Webhosting, dedikované servery a cloudové úložisko."
+    },
+    "repair": {
+      "title": "Opravárenský & servisný servis",
+      "description": "Rýchla a spoľahlivá oprava počítačov, notebookov a serverov, či už na mieste alebo zaslaním poštou. Transparentné cenové ponuky a rýchle vybavenie."
+    }
+  },
+  "mindenCegnek": {
+    "badge": "Mesačná IT podpora",
+    "title": "Každá firma si zaslúži IT oddelenie",
+    "subtitle": "IT riešenia, akoby ste mali vlastný IT tím",
+    "description": "Nemusíte zamestnávať IT špecialistu na plný úväzok, aby ste mali stabilné, bezpečné a rýchle systémy. Mesačný predplatný model SIRONIC funguje, ako keby sme boli súčasťou Vašej firmy – ale platíte len za to, čo skutočne potrebujete.",
+    "features": {
+      "costEffective": "Nákladovo efektívna, na infraštruktúru optimalizovaná IT podpora – flexibilná, spoľahlivá a transparentná.",
+      "discount": "Do 31. decembra získa každý partner požadujúci konzultáciu 10% zľavu na prvé 3 mesiace!"
+    },
+    "cta": {
+      "consultation": "Požiadať o konzultáciu",
+      "learnMore": "Zistiť viac"
+    }
+  },
+  "whyChooseUs": {
+    "title": "Prečo si vybrať nás?",
+    "reasons": [
+      "Spoľahlivosť: Viac ako 5 rokov skúseností s navrhovaním a správou IT systémov.",
+      "Proaktívny prístup: Myslíme dopredu – konáme skôr, ako sa objavia problémy, nie až potom.",
+      "Transparentné ceny: Žiadne skryté poplatky, pevná mesačná údržba alebo riešenia na mieru.",
+      "Skutočná ľudská komunikácia: Žiadne nekonečné rady s tikketmi – vždy nás môžete kontaktovať priamo.",
+      "Komplexná prevádzka IT: Priebežne pracujeme na tom, aby Vaše systémy fungovali stabilne a rýchlo – menej prestojov, vyššia efektivita, bezpečná infraštruktúra.",
+      "Moderná IT bezpečnosť: Ochrana údajov a bezpečnosť siete s najmodernejšími firewalmi, zálohovacími riešeniami a správou prístupov – bezpečnosť je u nás štandard, nie možnosť navyše.",
+      "Vývoj webových stránok a digitálna prítomnosť: Profesionálne, responzívne webové stránky a systémy na mieru, ktoré zvyšujú Vašu online viditeľnosť a priťahujú zákazníkov.",
+      "Cloudové riešenia a hosting: Rýchly, bezpečný a škálovateľný hosting pre Vaše webové stránky, e-maily a zálohy údajov – vždy dostupný, vždy stabilný."
+    ]
+  },
+  "testimonials": {
+    "title": "Čo hovoria naši klienti",
+    "items": [
+      {
+        "quote": "S tímom SIRONIC konečne spíme pokojne: naše IT systémy fungujú stabilne, rýchlo a bezpečne. Keď sa vyskytnú problémy, reagujú okamžite a všetko vysvetľujú zrozumiteľným jazykom – žiadny technický žargón. Takého spoľahlivého partnera v IT svete sa nájde len zriedka.",
+        "company": "Pervector s.r.o."
+      },
+      {
+        "quote": "Predtým sme mali neustále problémy s počítačmi a sieťou, ale odvtedy, ako sme SIRONIC zverili naše IT, všetko funguje hladko. Rýchlo pomáhajú bez ohľadu na problém a vždy s nimi nájdeme riešenia. Práve takúto podporu potrebuje každá firma.",
+        "company": "Bocskai Alba Flexum s.r.o."
+      },
+      {
+        "quote": "SIRONIC pre nás vytvoril modernú, prehľadnú a mobilnú webovú stránku, ktorá nielen skvelo vyzerá, ale pomáha našim klientom nás ľahko nájsť online. Od tej doby sa starajú o údržbu – každá aktualizácia a úprava prebieha rýchlo a presne. Dostali sme komplexnú, profesionálnu službu.",
+        "company": "Bull & U s.r.o."
+      },
+      {
+        "quote": "Chceli sme čistú, rýchlu a modernú webovú stránku – SIRONIC dodal presne to. Profesionálny tím, pozornosť k detailom a vždy majú skvelé nápady na to, aby bol výsledok ešte lepší. Naša nová webová stránka dokonale odráža identitu našej firmy.",
+        "company": "Regia Dental s.r.o."
+      }
+    ]
+  },
+  "workProcess": {
+    "title": "Ako pracujeme",
+    "steps": [
+      {
+        "step": "1",
+        "title": "Prvý kontakt",
+        "description": "Pošlite nám správu alebo požiadajte o bezplatnú konzultáciu."
+      },
+      {
+        "step": "2",
+        "title": "IT analýza",
+        "description": "Preskúmame Vaše potreby a poskytneme odborné odporúčania."
+      },
+      {
+        "step": "3",
+        "title": "Ponuka na mieru",
+        "description": "Vytvoríme riešenie šité na mieru Vášmu podnikaniu."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Často kladené otázky"
+  },
+  "finalCta": {
+    "title": "Pripravení na bezstarostné IT?",
+    "description": "Požiadajte o bezplatnú konzultáciu a spoločne nájdeme najlepšie riešenie pre Vaše podnikanie.",
+    "button": "Požiadať o ponuku teraz"
+  },
+  "contact": {
+    "title": "Kontakt",
+    "subtitle": "Máte otázky alebo chcete bezplatnú konzultáciu? Kontaktujte nás, rýchlo odpovieme!",
+    "form": {
+      "title": "Poslať správu",
+      "name": "Meno",
+      "email": "E-mail",
+      "service": "O ktorú službu máte záujem?",
+      "servicePlaceholder": "Vyberte službu",
+      "message": "Správa",
+      "submit": "Odoslať",
+      "submitting": "Odosiela sa...",
+      "required": "*",
+      "success": "Vaša správa bola úspešne odoslaná! Čoskoro Vás budeme kontaktovať.",
+      "error": "Pri odosielaní správy došlo k chybe",
+      "noscript": "Svoju správu môžete poslať aj e-mailom:"
+    },
+    "info": {
+      "title": "Kontaktné informácie",
+      "email": "E-mail",
+      "phone": "Telefón",
+      "location": "Umiestnenie",
+      "hours": "Pracovné hodiny",
+      "hoursValue": "Pondelok – Piatok\n8:00 – 17:00",
+      "quickResponse": "Rýchla odpoveď",
+      "quickResponseText": "Obvykle odpovedáme na všetky otázky do 24 hodín v pracovných dňoch. V prípade naliehavosti nás prosím zavolajte!"
+    }
+  },
+  "footer": {
+    "companyName": "SIRONIC IT Riešenia",
+    "tagline": "Komplexné IT riešenia pre malé a stredné podniky",
+    "legalName": "Skoda Dávid András Živnostník",
+    "address": "8000 Székesfehérvár, Lövölde utca 24 4/15",
+    "taxNumber": "DIČ: 45755754-2-27",
+    "links": "Rýchly prístup",
+    "hours": "Pracovné hodiny",
+    "hoursValue": "Pondelok – Piatok\n8:00 – 17:00",
+    "cookieSettings": "Nastavenia cookies",
+    "copyright": "© {year} SIRONIC IT Riešenia. Všetky práva vyhradené."
+  },
+  "common": {
+    "readMore": "Čítať viac",
+    "learnMore": "Zistiť o tom viac",
+    "getQuote": "Požiadať o ponuku",
+    "contactUs": "Kontakt",
+    "loading": "Načítava sa..."
+  }
+}

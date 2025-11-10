@@ -6,14 +6,12 @@ import { trackPhoneClick, trackEmailClick } from '@/lib/analytics';
 
 export function Footer() {
   const footerLinks = [
-    { name: 'Szolgáltatások', href: '/szolgaltatasok' },
-    { name: 'Termékeink', href: '/termekeink' },
-    { name: 'Minden cégnek legyen informatikusa', href: '/minden-cegnek-legyen-informatikusa' },
-    { name: 'Árak', href: '/arak' },
-    { name: 'Rólunk', href: '/rolunk' },
+    { name: 'Szolgáltatások', href: '/hu/szolgaltatasok' },
+    { name: 'Termékeink', href: '/hu/termekeink' },
+    { name: 'Árak', href: '/hu/arak' },
+    { name: 'Rólunk', href: '/hu/rolunk' },
     { name: 'Blog', href: '/blog' },
-    { name: 'Kapcsolat', href: '/kapcsolat' },
-    { name: 'Adatkezelési tájékoztató', href: '/adatkezeles' },
+    { name: 'Kapcsolat', href: '/hu/kapcsolat' },
   ];
 
   return (
@@ -24,6 +22,13 @@ export function Footer() {
             <h3 className="text-lg font-semibold mb-4">SIRONIC Rendszerház</h3>
             <p className="text-sm text-muted-foreground mb-4">
               Teljes körű IT megoldások kis- és középvállalkozásoknak
+            </p>
+            <p className="text-sm text-muted-foreground mb-4">
+              <strong>Skoda Dávid András Egyéni Vállalkozó</strong>
+              <br />
+              8000 Székesfehérvár, Lövölde utca 24 4/15
+              <br />
+              Adószám: 45755754-2-27
             </p>
             <div className="flex items-center gap-2 text-sm mb-2">
               <Mail className="h-4 w-4 text-brand-red" aria-hidden="true" />
@@ -47,7 +52,7 @@ export function Footer() {
             </div>
             <div className="flex items-center gap-2 text-sm">
               <MapPin className="h-4 w-4 text-brand-red" aria-hidden="true" />
-              <span>Székesfehérvár</span>
+              <span>8000 Székesfehérvár, Lövölde utca 24 4/15</span>
             </div>
           </div>
 
@@ -69,26 +74,14 @@ export function Footer() {
 
           <div>
             <h3 className="text-lg font-semibold mb-4">Nyitvatartás</h3>
-            <p className="text-sm text-muted-foreground">
-              Hétfő – Péntek
-              <br />
-              8:00 – 17:00
+            <p className="text-sm text-muted-foreground whitespace-pre-line">
+              Hétfő – Péntek{'\n'}8:00 – 17:00
             </p>
-            <button
-              className="mt-4 text-sm text-muted-foreground hover:text-brand-red transition-colors focus:outline-none focus:ring-2 focus:ring-brand-red rounded-sm"
-              onClick={() => {
-                if (typeof window !== 'undefined' && (window as any).cookieConsent) {
-                  (window as any).cookieConsent.show();
-                }
-              }}
-            >
-              Süti beállítások
-            </button>
           </div>
         </div>
 
-        <div className="mt-8 border-t pt-8 text-center text-sm text-muted-foreground">
-          <p>&copy; {new Date().getFullYear()} SIRONIC Rendszerház. Minden jog fenntartva.</p>
+        <div className="mt-8 pt-8 border-t text-center text-sm text-muted-foreground">
+          <p>© {new Date().getFullYear()} SIRONIC Rendszerház. Minden jog fenntartva.</p>
         </div>
       </div>
     </footer>

@@ -34,6 +34,11 @@
    NEXT_PUBLIC_SITE_URL=https://sironic.hu
    ```
 
+   Optional (for Discord notifications):
+   ```
+   DISCORD_WEBHOOK_URL=https://discord.com/api/webhooks/YOUR_WEBHOOK_ID/YOUR_WEBHOOK_TOKEN
+   ```
+
    Optional (for email functionality):
    ```
    SENDGRID_API_KEY=SG.xxxxxxxxxxxxxxxxxxxxx

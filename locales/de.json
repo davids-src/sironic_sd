@@ -1,0 +1,180 @@
+{
+  "meta": {
+    "siteTitle": "SIRONIC IT-Systemhaus",
+    "siteDescription": "Umfassende IT-Lösungen für kleine und mittelständische Unternehmen in Székesfehérvár",
+    "companyName": "SIRONIC IT-Systemhaus"
+  },
+  "nav": {
+    "home": "Startseite",
+    "services": "Dienstleistungen",
+    "products": "Produkte",
+    "pricing": "Preise",
+    "about": "Über uns",
+    "blog": "Blog",
+    "contact": "Kontakt",
+    "ctaButton": "Angebot anfordern"
+  },
+  "hero": {
+    "badge": "Neuer Service",
+    "title": "IT-Lösungen, als hätten Sie Ihr eigenes Team",
+    "subtitle": "Professionelles IT-Infrastrukturmanagement, schnelle Wartung und persönliche Unterstützung für kleine und mittelständische Unternehmen.",
+    "cta": "Kostenlose Beratung",
+    "learnMore": "Mehr erfahren"
+  },
+  "services": {
+    "title": "Unsere Dienstleistungen",
+    "subtitle": "Umfassende IT-Lösungen für das Wachstum Ihres Unternehmens",
+    "viewAll": "Alle Dienstleistungen ansehen",
+    "systemOperation": {
+      "title": "Systemverwaltung & IT-Wartung",
+      "description": "Stabiler, sicherer und schneller Betrieb – wir überwachen Ihre Systeme kontinuierlich, bevor Probleme entstehen. Weniger Ausfallzeiten, höhere Effizienz."
+    },
+    "networking": {
+      "title": "Netzwerkplanung & -entwicklung",
+      "description": "Wir planen, implementieren und optimieren die Netzwerkinfrastruktur Ihres Unternehmens, damit jedes Gerät zuverlässig, schnell und sicher verbunden ist."
+    },
+    "security": {
+      "title": "IT-Sicherheit & Datenschutz",
+      "description": "Schützen Sie Ihre Unternehmensdaten! Moderne Firewalls, sichere Backups, Zugriffskontrolle – Datensicherheit ist bei uns Standard, nicht optional."
+    },
+    "development": {
+      "title": "Website- & Softwareentwicklung",
+      "description": "Wir erstellen professionelle, responsive Websites und maßgeschneiderte Softwarelösungen, damit Ihr Unternehmen online hervorsticht."
+    },
+    "commerce": {
+      "title": "IT-Ausstattung & Software-Beschaffung",
+      "description": "Alles, was Sie für den Bürobetrieb benötigen – Computer, Monitore, Drucker, Server und Softwarelizenzen, alles aus einer Hand."
+    },
+    "hosting": {
+      "title": "Hosting & Cloud-Lösungen",
+      "description": "Stabiles, schnelles und sicheres Hosting für Websites, E-Mail und Datensicherung. Webhosting, dedizierte Server und Cloud-Speicher."
+    },
+    "repair": {
+      "title": "Reparatur & Wartungsservice",
+      "description": "Schnelle und zuverlässige Reparatur von Computern, Laptops und Servern, entweder vor Ort oder per Einsendung. Transparente Kostenvoranschläge und schnelle Bearbeitung."
+    }
+  },
+  "mindenCegnek": {
+    "badge": "Monatlicher IT-Support",
+    "title": "Jedes Unternehmen verdient eine IT-Abteilung",
+    "subtitle": "IT-Lösungen, als hätten Sie Ihr eigenes IT-Team",
+    "description": "Sie müssen keinen Vollzeit-IT-Spezialisten einstellen, um stabile, sichere und schnelle Systeme zu haben. SIRONICs monatliches Abo funktioniert, als wären wir Teil Ihres Unternehmens – Sie zahlen aber nur für das, was Sie tatsächlich benötigen.",
+    "features": {
+      "costEffective": "Kosteneffiziente, infrastrukturoptimierte IT-Unterstützung – flexibel, zuverlässig und transparent.",
+      "discount": "Bis zum 31. Dezember erhalten alle Partner, die eine Beratung anfordern, 10% Rabatt auf die ersten 3 Monate!"
+    },
+    "cta": {
+      "consultation": "Beratung anfordern",
+      "learnMore": "Mehr erfahren"
+    }
+  },
+  "whyChooseUs": {
+    "title": "Warum uns wählen?",
+    "reasons": [
+      "Zuverlässigkeit: Über 5 Jahre Erfahrung in der Planung und Verwaltung von IT-Systemen.",
+      "Proaktiver Ansatz: Wir denken voraus – wir handeln, bevor Probleme entstehen, nicht danach.",
+      "Transparente Preisgestaltung: Keine versteckten Gebühren, feste monatliche Wartung oder einmalige Lösungen.",
+      "Echte menschliche Kommunikation: Keine endlosen Ticket-Warteschlangen – Sie erreichen uns immer direkt.",
+      "Umfassender IT-Betrieb: Wir arbeiten kontinuierlich daran, Ihre Systeme stabil und schnell zu halten – weniger Ausfallzeiten, höhere Effizienz, sichere Infrastruktur.",
+      "Moderne IT-Sicherheit: Datenschutz und Netzwerksicherheit mit modernsten Firewalls, Backup-Lösungen und Zugriffsverwaltung – Sicherheit ist Standard, nicht optional.",
+      "Webentwicklung und digitale Präsenz: Professionelle, responsive Websites und individuelle Systeme, die Ihre Online-Sichtbarkeit erhöhen und Kunden anziehen.",
+      "Cloud-basierte Lösungen und Hosting: Schnelles, sicheres und skalierbares Hosting für Ihre Websites, E-Mails und Datensicherungen – immer erreichbar, immer stabil."
+    ]
+  },
+  "testimonials": {
+    "title": "Was unsere Kunden sagen",
+    "items": [
+      {
+        "quote": "Mit dem SIRONIC-Team schlafen wir endlich ruhig: Unsere IT-Systeme laufen stabil, schnell und sicher. Bei Problemen reagieren sie sofort und erklären alles in verständlicher Sprache – kein Fachjargon. Solch einen zuverlässigen Partner in der IT-Welt zu finden, ist selten.",
+        "company": "Pervector GmbH"
+      },
+      {
+        "quote": "Früher hatten wir ständig Probleme mit Computern und dem Netzwerk, aber seit wir SIRONIC mit unserer IT betraut haben, läuft alles reibungslos. Sie helfen schnell, unabhängig vom Problem, und wir finden immer Lösungen mit ihnen. Genau diese Art von Support braucht jedes Unternehmen.",
+        "company": "Bocskai Alba Flexum GmbH"
+      },
+      {
+        "quote": "SIRONIC hat eine moderne, übersichtliche und mobilfreundliche Website für uns erstellt, die nicht nur großartig aussieht, sondern unseren Kunden hilft, uns online leicht zu finden. Sie kümmern sich seitdem um die Wartung – jedes Update und jede Änderung erfolgt schnell und präzise. Wir haben umfassenden, professionellen Service erhalten.",
+        "company": "Bull & U GmbH"
+      },
+      {
+        "quote": "Wir wollten eine klare, schnelle und moderne Website – SIRONIC hat genau das geliefert. Professionelles Team, Liebe zum Detail, und sie haben immer großartige Ideen, um das Ergebnis noch besser zu machen. Unsere neue Website spiegelt perfekt die Identität unseres Unternehmens wider.",
+        "company": "Regia Dental GmbH"
+      }
+    ]
+  },
+  "workProcess": {
+    "title": "Wie wir arbeiten",
+    "steps": [
+      {
+        "step": "1",
+        "title": "Erstkontakt",
+        "description": "Senden Sie uns eine Nachricht oder fordern Sie eine kostenlose Beratung an."
+      },
+      {
+        "step": "2",
+        "title": "IT-Bewertung",
+        "description": "Wir prüfen Ihre Anforderungen und geben fachkundige Empfehlungen."
+      },
+      {
+        "step": "3",
+        "title": "Individuelles Angebot",
+        "description": "Wir erstellen eine maßgeschneiderte Lösung für Ihr Unternehmen."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Häufig gestellte Fragen"
+  },
+  "finalCta": {
+    "title": "Bereit für sorgenfreie IT?",
+    "description": "Fordern Sie eine kostenlose Beratung an und lassen Sie uns gemeinsam die beste Lösung für Ihr Unternehmen finden.",
+    "button": "Jetzt Angebot anfordern"
+  },
+  "contact": {
+    "title": "Kontakt",
+    "subtitle": "Haben Sie Fragen oder möchten Sie eine kostenlose Beratung? Kontaktieren Sie uns, wir antworten umgehend!",
+    "form": {
+      "title": "Nachricht senden",
+      "name": "Name",
+      "email": "E-Mail",
+      "service": "Welcher Service interessiert Sie?",
+      "servicePlaceholder": "Wählen Sie einen Service",
+      "message": "Nachricht",
+      "submit": "Senden",
+      "submitting": "Wird gesendet...",
+      "required": "*",
+      "success": "Ihre Nachricht wurde erfolgreich gesendet! Wir melden uns in Kürze bei Ihnen.",
+      "error": "Beim Senden Ihrer Nachricht ist ein Fehler aufgetreten",
+      "noscript": "Sie können Ihre Nachricht auch per E-Mail senden:"
+    },
+    "info": {
+      "title": "Kontaktinformationen",
+      "email": "E-Mail",
+      "phone": "Telefon",
+      "location": "Standort",
+      "hours": "Öffnungszeiten",
+      "hoursValue": "Montag – Freitag\n8:00 – 17:00 Uhr",
+      "quickResponse": "Schnelle Antwort",
+      "quickResponseText": "Wir antworten in der Regel innerhalb von 24 Stunden an Werktagen auf alle Anfragen. Bei dringenden Angelegenheiten rufen Sie uns bitte an!"
+    }
+  },
+  "footer": {
+    "companyName": "SIRONIC IT-Systemhaus",
+    "tagline": "Umfassende IT-Lösungen für kleine und mittelständische Unternehmen",
+    "legalName": "Skoda Dávid András Einzelunternehmen",
+    "address": "8000 Székesfehérvár, Lövölde utca 24 4/15",
+    "taxNumber": "Steuernummer: 45755754-2-27",
+    "links": "Schnellzugriff",
+    "hours": "Öffnungszeiten",
+    "hoursValue": "Montag – Freitag\n8:00 – 17:00 Uhr",
+    "cookieSettings": "Cookie-Einstellungen",
+    "copyright": "© {year} SIRONIC IT-Systemhaus. Alle Rechte vorbehalten."
+  },
+  "common": {
+    "readMore": "Mehr lesen",
+    "learnMore": "Mehr darüber erfahren",
+    "getQuote": "Angebot anfordern",
+    "contactUs": "Kontakt",
+    "loading": "Laden..."
+  }
+}

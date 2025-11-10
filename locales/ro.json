@@ -1,0 +1,180 @@
+{
+  "meta": {
+    "siteTitle": "SIRONIC Soluții IT",
+    "siteDescription": "Soluții IT complete pentru întreprinderi mici și mijlocii în Székesfehérvár",
+    "companyName": "SIRONIC Soluții IT"
+  },
+  "nav": {
+    "home": "Acasă",
+    "services": "Servicii",
+    "products": "Produse",
+    "pricing": "Prețuri",
+    "about": "Despre noi",
+    "blog": "Blog",
+    "contact": "Contact",
+    "ctaButton": "Solicitați o ofertă"
+  },
+  "hero": {
+    "badge": "Serviciu nou",
+    "title": "Soluții IT ca și cum ați avea propria echipă",
+    "subtitle": "Management profesionist al infrastructurii IT, întreținere rapidă și asistență dedicată pentru întreprinderi mici și mijlocii.",
+    "cta": "Consultare gratuită",
+    "learnMore": "Aflați mai multe"
+  },
+  "services": {
+    "title": "Serviciile noastre",
+    "subtitle": "Soluții IT complete pentru creșterea afacerii dumneavoastră",
+    "viewAll": "Vezi toate serviciile",
+    "systemOperation": {
+      "title": "Administrare sisteme & Întreținere IT",
+      "description": "Funcționare stabilă, sigură și rapidă – monitorizăm continuu sistemele dumneavoastră înainte ca problemele să apară. Mai puține întreruperi, eficiență mai mare."
+    },
+    "networking": {
+      "title": "Proiectare și dezvoltare rețele",
+      "description": "Proiectăm, implementăm și optimizăm infrastructura de rețea a companiei dumneavoastră pentru ca fiecare dispozitiv să se conecteze fiabil, rapid și sigur."
+    },
+    "security": {
+      "title": "Securitate IT & Protecția datelor",
+      "description": "Protejați-vă datele companiei! Firewall-uri moderne, backup-uri securizate, control al accesului – la noi securitatea datelor este standard, nu opțională."
+    },
+    "development": {
+      "title": "Dezvoltare website & Software",
+      "description": "Creăm site-uri web profesionale, responsive și soluții software personalizate pentru ca firma dumneavoastră să se remarce online."
+    },
+    "commerce": {
+      "title": "Furnizare echipamente IT & Software",
+      "description": "Tot ce aveți nevoie pentru funcționarea biroului – calculatoare, monitoare, imprimante, servere și licențe software, totul dintr-o singură sursă."
+    },
+    "hosting": {
+      "title": "Hosting & Soluții cloud",
+      "description": "Hosting stabil, rapid și sigur pentru site-uri web, e-mail și backup de date. Web hosting, servere dedicate și stocare în cloud."
+    },
+    "repair": {
+      "title": "Servicii de reparații & Întreținere",
+      "description": "Repararea rapidă și fiabilă a calculatoarelor, laptopurilor și serverelor, fie la fața locului, fie prin expediere poștală. Oferte transparente și finalizare rapidă."
+    }
+  },
+  "mindenCegnek": {
+    "badge": "Suport IT lunar",
+    "title": "Fiecare companie merită un departament IT",
+    "subtitle": "Soluții IT ca și cum ați avea propria echipă IT",
+    "description": "Nu trebuie să angajați un specialist IT cu normă întreagă pentru a avea sisteme stabile, sigure și rapide. Modelul de abonament lunar SIRONIC funcționează ca și cum am face parte din compania dumneavoastră – dar plătiți doar pentru ceea ce aveți cu adevărat nevoie.",
+    "features": {
+      "costEffective": "Suport IT eficient din punct de vedere al costurilor, optimizat pentru infrastructură – flexibil, fiabil și transparent.",
+      "discount": "Până la 31 decembrie, fiecare partener care solicită o consultație primește o reducere de 10% pentru primele 3 luni!"
+    },
+    "cta": {
+      "consultation": "Solicitați o consultație",
+      "learnMore": "Aflați mai multe"
+    }
+  },
+  "whyChooseUs": {
+    "title": "De ce să ne alegeți?",
+    "reasons": [
+      "Fiabilitate: Peste 5 ani de experiență în proiectarea și administrarea sistemelor IT.",
+      "Abordare proactivă: Gândim în avans – acționăm înainte ca problemele să apară, nu după.",
+      "Prețuri transparente: Fără taxe ascunse, întreținere lunară fixă sau soluții personalizate.",
+      "Comunicare umană autentică: Fără cozi nesfârșite de tichete – ne puteți contacta întotdeauna direct.",
+      "Operațiuni IT complete: Lucrăm continuu pentru a menține sistemele dumneavoastră stabile și rapide – mai puține întreruperi, eficiență mai mare, infrastructură sigură.",
+      "Securitate IT modernă: Protecția datelor și securitatea rețelei cu cele mai moderne firewall-uri, soluții de backup și gestionarea accesului – securitatea este standard, nu opțională.",
+      "Dezvoltare web și prezență digitală: Site-uri web profesionale, responsive și sisteme personalizate care cresc vizibilitatea dumneavoastră online și atrag clienți.",
+      "Soluții cloud și hosting: Hosting rapid, sigur și scalabil pentru site-urile web, e-mailurile și backup-urile de date – întotdeauna accesibil, întotdeauna stabil."
+    ]
+  },
+  "testimonials": {
+    "title": "Ce spun clienții noștri",
+    "items": [
+      {
+        "quote": "Cu echipa SIRONIC dormim în sfârșit liniștit: sistemele noastre IT funcționează stabil, rapid și sigur. Când apar probleme, răspund imediat și explică totul într-un limbaj clar – fără jargon tehnic. Este rar să găsești un partener atât de fiabil în lumea IT.",
+        "company": "Pervector S.R.L."
+      },
+      {
+        "quote": "Aveam probleme constante cu calculatoarele și rețeaua, dar de când am încredințat SIRONIC cu IT-ul nostru, totul funcționează fără probleme. Ajută rapid, indiferent de problemă, și găsim întotdeauna soluții cu ei. Exact acest tip de suport are nevoie fiecare companie.",
+        "company": "Bocskai Alba Flexum S.R.L."
+      },
+      {
+        "quote": "SIRONIC a creat pentru noi un site web modern, curat și prietenos cu dispozitivele mobile care nu doar arată grozav, ci îi ajută pe clienții noștri să ne găsească ușor online. De atunci se ocupă de întreținere – fiecare actualizare și modificare se întâmplă rapid și precis. Am primit servicii complete și profesionale.",
+        "company": "Bull & U S.R.L."
+      },
+      {
+        "quote": "Am dorit un site web curat, rapid și modern – SIRONIC a livrat exact asta. Echipă profesionistă, atenție la detalii și au întotdeauna idei grozave pentru a face rezultatul și mai bun. Noul nostru site web reflectă perfect identitatea companiei noastre.",
+        "company": "Regia Dental S.R.L."
+      }
+    ]
+  },
+  "workProcess": {
+    "title": "Cum lucrăm",
+    "steps": [
+      {
+        "step": "1",
+        "title": "Contact inițial",
+        "description": "Trimiteți-ne un mesaj sau solicitați o consultație gratuită."
+      },
+      {
+        "step": "2",
+        "title": "Evaluare IT",
+        "description": "Examinăm nevoile dumneavoastră și oferim recomandări de specialitate."
+      },
+      {
+        "step": "3",
+        "title": "Ofertă personalizată",
+        "description": "Creăm o soluție personalizată pentru afacerea dumneavoastră."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Întrebări frecvente"
+  },
+  "finalCta": {
+    "title": "Pregătit pentru IT fără griji?",
+    "description": "Solicitați o consultație gratuită și să găsim împreună cea mai bună soluție pentru afacerea dumneavoastră.",
+    "button": "Solicitați o ofertă acum"
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Aveți întrebări sau doriți o consultație gratuită? Contactați-ne și vă vom răspunde prompt!",
+    "form": {
+      "title": "Trimiteți un mesaj",
+      "name": "Nume",
+      "email": "E-mail",
+      "service": "La ce serviciu sunteți interesat?",
+      "servicePlaceholder": "Selectați un serviciu",
+      "message": "Mesaj",
+      "submit": "Trimite",
+      "submitting": "Se trimite...",
+      "required": "*",
+      "success": "Mesajul dumneavoastră a fost trimis cu succes! Vă vom contacta în curând.",
+      "error": "A apărut o eroare la trimiterea mesajului",
+      "noscript": "Puteți trimite și mesajul prin e-mail:"
+    },
+    "info": {
+      "title": "Informații de contact",
+      "email": "E-mail",
+      "phone": "Telefon",
+      "location": "Locație",
+      "hours": "Program de lucru",
+      "hoursValue": "Luni – Vineri\n8:00 – 17:00",
+      "quickResponse": "Răspuns rapid",
+      "quickResponseText": "De obicei răspundem la toate întrebările în 24 de ore în zilele lucrătoare. Pentru probleme urgente, vă rugăm să ne sunați!"
+    }
+  },
+  "footer": {
+    "companyName": "SIRONIC Soluții IT",
+    "tagline": "Soluții IT complete pentru întreprinderi mici și mijlocii",
+    "legalName": "Skoda Dávid András Întreprinzător individual",
+    "address": "8000 Székesfehérvár, Lövölde utca 24 4/15",
+    "taxNumber": "CUI: 45755754-2-27",
+    "links": "Acces rapid",
+    "hours": "Program de lucru",
+    "hoursValue": "Luni – Vineri\n8:00 – 17:00",
+    "cookieSettings": "Setări cookie-uri",
+    "copyright": "© {year} SIRONIC Soluții IT. Toate drepturile rezervate."
+  },
+  "common": {
+    "readMore": "Citește mai mult",
+    "learnMore": "Aflați mai multe despre asta",
+    "getQuote": "Solicitați o ofertă",
+    "contactUs": "Contact",
+    "loading": "Se încarcă..."
+  }
+}

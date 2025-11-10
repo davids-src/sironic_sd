@@ -29,7 +29,7 @@ export default function RootLayout({
 }: {
   children: React.ReactNode;
 }) {
-  const gaId = process.env.NEXT_PUBLIC_GA_ID;
+  const gaId = process.env.NEXT_PUBLIC_GA_ID || 'G-EJN6TFZ7WH';
 
   return (
     <html lang="hu" suppressHydrationWarning>
@@ -38,7 +38,7 @@ export default function RootLayout({
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
       </head>
       <body className={inter.className}>
-        <GoogleAnalytics gaId={gaId || ''} />
+        <GoogleAnalytics gaId={gaId} />
         <SkipToContent />
         <Header />
         <main id="main-content">{children}</main>

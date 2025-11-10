@@ -10,23 +10,23 @@ export function Header() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
 
   const navigation = [
-    { name: 'Főoldal', href: '/' },
-    { name: 'Szolgáltatások', href: '/szolgaltatasok' },
-    { name: 'Termékeink', href: '/termekeink' },
-    { name: 'Árak', href: '/arak' },
-    { name: 'Rólunk', href: '/rolunk' },
+    { name: 'Főoldal', href: '/hu' },
+    { name: 'Szolgáltatások', href: '/hu/szolgaltatasok' },
+    { name: 'Termékeink', href: '/hu/termekeink' },
+    { name: 'Árak', href: '/hu/arak' },
+    { name: 'Rólunk', href: '/hu/rolunk' },
     { name: 'Blog', href: '/blog' },
-    { name: 'Kapcsolat', href: '/kapcsolat' },
+    { name: 'Kapcsolat', href: '/hu/kapcsolat' },
   ];
 
   return (
     <header className="sticky top-0 z-50 w-full border-b bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60">
       <nav className="mx-auto flex max-w-7xl items-center justify-between p-4 lg:px-8" aria-label="Global">
         <div className="flex lg:flex-1">
-          <Link href="/" className="-m-1.5 p-1.5 flex items-center gap-2">
-            <img 
-              src="/logo_rgb.svg" 
-              alt="SIRONIC" 
+          <Link href="/hu" className="-m-1.5 p-1.5 flex items-center gap-2">
+            <img
+              src="/logo_rgb.svg"
+              alt="SIRONIC"
               className="h-8 w-8 flex-shrink-0"
             />
             <span className="text-xl font-bold">SIRONIC</span>
@@ -43,7 +43,7 @@ export function Header() {
             {mobileMenuOpen ? <X className="h-6 w-6" /> : <Menu className="h-6 w-6" />}
           </Button>
         </div>
-        <div className="hidden lg:flex lg:gap-x-8 lg:items-center">
+        <div className="hidden lg:flex lg:flex-1 lg:justify-center lg:items-center lg:gap-x-8">
           {navigation.map((item) => (
             <Link
               key={item.name}
@@ -53,30 +53,34 @@ export function Header() {
               {item.name}
             </Link>
           ))}
+        </div>
+        <div className="hidden lg:flex lg:flex-1 lg:justify-end lg:items-center lg:gap-4">
           <ThemeToggle />
           <Button asChild className="bg-brand-red hover:bg-brand-red/90">
-            <Link href="/kapcsolat">Kérj ajánlatot</Link>
+            <Link href="/hu/kapcsolat">Kérj ajánlatot</Link>
           </Button>
         </div>
       </nav>
       {mobileMenuOpen && (
         <div className="lg:hidden border-t">
-          <div className="space-y-1 px-4 py-4">
+          <div className="space-y-1 px-4 pb-3 pt-2">
             {navigation.map((item) => (
               <Link
                 key={item.name}
                 href={item.href}
-                className="block rounded-lg px-3 py-2 text-base font-semibold leading-7 hover:bg-accent transition-colors focus:outline-none focus:ring-2 focus:ring-brand-red"
+                className="block rounded-lg px-3 py-2 text-base font-semibold leading-7 hover:bg-accent"
                 onClick={() => setMobileMenuOpen(false)}
               >
                 {item.name}
               </Link>
             ))}
-            <Button asChild className="w-full bg-brand-red hover:bg-brand-red/90 mt-2">
-              <Link href="/kapcsolat" onClick={() => setMobileMenuOpen(false)}>
-                Kérj ajánlatot
-              </Link>
-            </Button>
+            <div className="pt-2">
+              <Button asChild className="w-full bg-brand-red hover:bg-brand-red/90">
+                <Link href="/hu/kapcsolat" onClick={() => setMobileMenuOpen(false)}>
+                  Kérj ajánlatot
+                </Link>
+              </Button>
+            </div>
           </div>
         </div>
       )}
