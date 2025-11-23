@@ -304,10 +304,22 @@
       "Legyen szó rendszerüzemeltetésről, hálózatépítésről, adatbiztonságról vagy webfejlesztésről, nálunk minden IT-megoldás egy kézben van – gyorsan, átláthatóan, emberi nyelven."
     ],
     "stats": [
-      { "value": "5+", "label": "Év tapasztalat" },
-      { "value": "100+", "label": "Elégedett ügyfél" },
-      { "value": "24/7", "label": "Elérhetőség" },
-      { "value": "99.9%", "label": "Rendelkezésre állás" }
+      {
+        "value": "5+",
+        "label": "Év tapasztalat"
+      },
+      {
+        "value": "100+",
+        "label": "Elégedett ügyfél"
+      },
+      {
+        "value": "24/7",
+        "label": "Elérhetőség"
+      },
+      {
+        "value": "99.9%",
+        "label": "Rendelkezésre állás"
+      }
     ],
     "mission": {
       "title": "A SIRONIC küldetése",
@@ -353,6 +365,207 @@
   },
   "pricingPage": {
     "title": "Áraink",
-    "subtitle": "Egyedi ajánlatokat készítünk vállalkozásod igényei szerint. Nincs két egyforma cég – ezért a díjainkat is mindig a Te infrastruktúrádhoz és igényeidhez igazítjuk."
+    "subtitle": "Egyedi ajánlatokat készítünk vállalkozásod igényei szerint. Nincs két egyforma cég – ezért a díjainkat is mindig a Te infrastruktúrádhoz és igényeidhez igazítjuk.",
+    "heroTitle": "Átlátható árak – tisztán, érthetően",
+    "heroDescription": "Nálunk nincsenek rejtett költségek. Szolgáltatásainkat úgy alakítottuk ki, hogy minden vállalkozás megtalálja a számára megfelelő megoldást – legyen szó karbantartásról, fejlesztésről vagy szervizről.",
+    "packages": {
+      "mindenCegnek": {
+        "title": "Minden cégnek legyen informatikusa",
+        "price": "39.000 Ft/hó-tól",
+        "description": "Teljes körű IT üzemeltetés havidíjas konstrukcióban – mintha saját informatikusod lenne.",
+        "features": [
+          "Folyamatos rendszermonitorozás és karbantartás",
+          "Gyors beavatkozás hiba esetén",
+          "Infrastruktúra-fejlesztési tanácsadás",
+          "Biztonsági mentések és frissítések kezelése",
+          "Személyes, magyar nyelvű IT támogatás"
+        ],
+        "badge": "🎁 2026 Február 1-ig érvényes 10% kedvezmény az első 3 hónap havidíjából előzetes konzultáció esetén!",
+        "ctaText": "Kérj előzetes konzultációt"
+      },
+      "systemOperation": {
+        "title": "Rendszerüzemeltetés és IT karbantartás",
+        "price": "29.000 Ft/hó-tól",
+        "description": "Folyamatos felügyelet és zavartalan működés.",
+        "features": [
+          "Rendszeres karbantartás és monitorozás",
+          "Gyors hibaelhárítás és helyreállítás",
+          "Szerver- és hálózatfelügyelet",
+          "Proaktív működés és biztonsági frissítések"
+        ],
+        "ctaText": "Kérj ajánlatot"
+      },
+      "networking": {
+        "title": "Hálózatépítés és fejlesztés",
+        "price": "45.000 Ft-tól / projekt",
+        "description": "Megbízható, biztonságos hálózati infrastruktúra tervezése és kivitelezése.",
+        "features": [
+          "Teljes hálózattervezés és kiépítés",
+          "Router, switch, Wi-Fi konfigurálás",
+          "Hálózati optimalizálás és karbantartás",
+          "Gyors, stabil és biztonságos adatkapcsolat"
+        ],
+        "ctaText": "Kérj ajánlatot"
+      },
+      "security": {
+        "title": "IT biztonság és adatvédelem",
+        "price": "59.000 Ft-tól",
+        "description": "Védd vállalkozásod adatait korszerű megoldásokkal.",
+        "features": [
+          "Tűzfal beállítás és hálózati biztonság",
+          "Biztonsági mentés és helyreállítás",
+          "Hozzáférés-kezelés, titkosítás",
+          "GDPR-kompatibilis adatvédelem"
+        ],
+        "ctaText": "Kérj ajánlatot"
+      },
+      "development": {
+        "title": "Weboldal- és rendszerfejlesztés",
+        "price": "250.000 Ft-tól (egyszeri díj)",
+        "description": "Professzionális, egyedi fejlesztések a céged digitális növekedéséért.",
+        "features": [
+          "Reszponzív weboldalak és portálok",
+          "Egyedi szoftver megoldások",
+          "SEO és UX optimalizálás",
+          "Folyamatos támogatás és karbantartás"
+        ],
+        "ctaText": "Kérj ajánlatot"
+      },
+      "commerce": {
+        "title": "Kereskedelem – IT eszközök és szoftverek",
+        "price": "Egyedi ajánlat alapján",
+        "description": "Minden, ami a modern irodai működéshez kell.",
+        "features": [
+          "Számítógépek, monitorok, szerverek",
+          "Nyomtatók és hálózati eszközök",
+          "Szoftverlicencek és előfizetések",
+          "Komplett irodai infrastruktúra"
+        ],
+        "ctaText": "Kérj ajánlatot"
+      },
+      "hosting": {
+        "title": "Hosting és felhőmegoldások",
+        "price": "3.990 Ft/hó-tól",
+        "description": "Gyors, biztonságos és skálázható tárhely cégeknek.",
+        "features": [
+          "Web- és e-mail tárhely",
+          "Felhőalapú adatmentés",
+          "Magánfelhő szolgáltatás",
+          "Folyamatos rendelkezésre állás (99,9%)"
+        ],
+        "ctaText": "Kérj ajánlatot"
+      },
+      "crm": {
+        "title": "Egyedi CRM fejlesztés",
+        "price": "390.000 Ft-tól",
+        "description": "Személyre szabott ügyfélkezelő rendszer, ami növeli az értékesítési hatékonyságot.",
+        "features": [
+          "Moduláris felépítés, testreszabható funkciók",
+          "Integráció meglévő rendszerekkel (ERP, levelezés, weboldal)",
+          "Automatizált riportok és analitika",
+          "Felhasználóbarát kezelőfelület"
+        ],
+        "ctaText": "Kérj ajánlatot"
+      }
+    },
+    "customQuote": {
+      "title": "Egyedi igényeid vannak?",
+      "description": "Az árak irányárak, a pontos ajánlat minden esetben az igények alapján készül.\nKérj ingyenes konzultációt, és segítünk megtalálni a legjobb megoldást.",
+      "button": "Kérj ingyenes IT konzultációt"
+    },
+    "whyChoose": {
+      "title": "Miért választják a SIRONIC-ot?",
+      "description": "Ha egyik csomag sem illik tökéletesen, készítünk személyre szabott ajánlatot. Nincsenek két egyforma vállalkozás – nincsenek két egyforma megoldások sem.",
+      "reasons": [
+        {
+          "title": "Átlátható árak",
+          "description": "Nincsenek rejtett költségek"
+        },
+        {
+          "title": "Rugalmas díjcsomagok",
+          "description": "Havidíjas és eseti megoldások"
+        },
+        {
+          "title": "Gyors reagálás",
+          "description": "Azonnal segítünk, ha szükséges"
+        },
+        {
+          "title": "Hosszú távú támogatás",
+          "description": "Partnerként kezeljük ügyfeleinket"
+        }
+      ],
+      "button": "Kérj egyedi ajánlatot"
+    }
+  },
+  "mindenCegnekPage": {
+    "hero": {
+      "badge": "Havidíjas IT támogatás",
+      "title": "Minden cégnek legyen informatikusa",
+      "subtitle": "Mintha saját IT-sod lenne",
+      "description": "Egy szolgáltatás, ahol nem alkalmaznod kell egy informatikust – hanem kapsz egy teljes csapatot, aki a háttérben mindent naprakészen tart, figyel, karbantart, és csak akkor avatkozik be, amikor kell.",
+      "cta": "Kérj előzetes konzultációt",
+      "discount": "2026 Február 1-ig érvényes minden előzetes konzultációt kérő partnerünknek 10% kedvezményt adunk az első 3 hónap havidíjából!",
+      "scroll": "Görgess lejjebb a további információkhoz"
+    },
+    "whatYouGet": {
+      "title": "Mit kapsz pontosan?",
+      "subtitle": "Egy teljes körű IT megoldást, amely minden nap dolgozik érted – láthatatlanul, de hatékonyan.",
+      "features": {
+        "internet": {
+          "title": "Folyamatos internetelérés és stabil működés",
+          "description": "Gondoskodunk róla, hogy a céged hálózata mindig elérhető, stabil és biztonságos legyen – észrevétlenül, a háttérben."
+        },
+        "platform": {
+          "title": "Egyedi platform hibabejelentésre",
+          "description": "Saját felületet kapsz, ahol egyszerűen jelezheted a problémát vagy igényedet – mi azonnal reagálunk."
+        },
+        "monitoring": {
+          "title": "Folyamatos monitorozás és hibajavítás",
+          "description": "Figyeljük a szervereket, hálózatot, és rendszereket, hogy a hibákat már azelőtt kezeljük, mielőtt Te észrevennéd."
+        },
+        "cost": {
+          "title": "Költséghatékony, átlátható árstruktúra",
+          "description": "A fix havidíjon felül csak azért fizetsz, amivel ténylegesen foglalkozni kell – egy előre egyeztetett árlista alapján."
+        },
+        "reporting": {
+          "title": "Naprakész rendszerek, havi jelentés",
+          "description": "A rendszereket folyamatosan frissítjük, karbantartjuk, és minden hónap végén jelentést küldünk a teljesítésről és a rendszer állapotáról."
+        }
+      }
+    },
+    "benefits": {
+      "title": "Miért jó ez Neked?",
+      "subtitle": "Költséghatékony, átlátható és megbízható IT támogatás – anélkül, hogy saját IT osztályt kellene fenntartanod.",
+      "items": [
+        "Nem kell saját IT-st alkalmaznod – de van, aki figyel a rendszereidre",
+        "Fix havidíj, kiszámítható költségek",
+        "Gyors reagálási idő problémák esetén",
+        "Proaktív karbantartás és monitorozás",
+        "Magyar nyelvű, személyes támogatás",
+        "Havi riportok a rendszer állapotáról",
+        "Skálázható megoldás – ahogy a céged nő, mi is bővülünk",
+        "Nincs meglepetés számla – minden előre egyeztetett"
+      ]
+    },
+    "pricing": {
+      "title": "Hogyan működik az árképzés?",
+      "subtitle": "Egyszerű és átlátható konstrukció – fix havidíj plusz előre egyeztetett óradíj, ha szükség van rá.",
+      "fixed": {
+        "title": "Fix havidíj",
+        "price": "39.000 Ft/hó-tól",
+        "description": "Magában foglalja a monitorozást, alapkarbantartást, jelentést és támogatást."
+      },
+      "hourly": {
+        "title": "Plusz munkadíj",
+        "price": "Előre egyeztetett óradíj",
+        "description": "Csak akkor fizetsz, ha tényleges beavatkozásra vagy fejlesztésre van szükség."
+      },
+      "note": "Az árképzés függ a szerződés hosszától és a feladatok típusától. Kérj személyre szabott ajánlatot!"
+    },
+    "finalCta": {
+      "title": "Nem kell saját IT-s, csak egy megbízható partner",
+      "description": "Mi biztosítjuk a szakértelmet, a gyors reagálást és a stabil működést – Te pedig a cégedre koncentrálhatsz.",
+      "button": "Kérem az ajánlatot"
+    }
   }
 }

@@ -3,15 +3,18 @@
 import Link from 'next/link';
 import { Mail, Phone, MapPin } from 'lucide-react';
 import { trackPhoneClick, trackEmailClick } from '@/lib/analytics';
+import { useTranslation } from '@/hooks/useTranslation';
 
 export function Footer() {
+  const { t, locale } = useTranslation();
+
   const footerLinks = [
-    { name: 'Szolgáltatások', href: '/hu/szolgaltatasok' },
-    { name: 'Termékeink', href: '/hu/termekeink' },
-    { name: 'Árak', href: '/hu/arak' },
-    { name: 'Rólunk', href: '/hu/rolunk' },
-    { name: 'Blog', href: '/blog' },
-    { name: 'Kapcsolat', href: '/hu/kapcsolat' },
+    { name: t('nav.services'), href: `/${locale}/szolgaltatasok` },
+    { name: t('nav.products'), href: `/${locale}/termekeink` },
+    { name: t('nav.pricing'), href: `/${locale}/arak` },
+    { name: t('nav.about'), href: `/${locale}/rolunk` },
+    { name: t('nav.blog'), href: `/${locale}/blog` },
+    { name: t('nav.contact'), href: `/${locale}/kapcsolat` },
   ];
 
   return (
@@ -19,16 +22,16 @@ export function Footer() {
       <div className="mx-auto max-w-7xl px-4 py-12 lg:px-8">
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           <div>
-            <h3 className="text-lg font-semibold mb-4">SIRONIC Rendszerház</h3>
+            <h3 className="text-lg font-semibold mb-4">{t('footer.companyName')}</h3>
             <p className="text-sm text-muted-foreground mb-4">
-              Teljes körű IT megoldások kis- és középvállalkozásoknak
+              {t('footer.tagline')}
             </p>
             <p className="text-sm text-muted-foreground mb-4">
-              <strong>Skoda Dávid András Egyéni Vállalkozó</strong>
+              <strong>{t('footer.legalName')}</strong>
               <br />
-              8000 Székesfehérvár, Lövölde utca 24 4/15
+              {t('footer.address')}
               <br />
-              Adószám: 45755754-2-27
+              {t('footer.taxNumber')}
             </p>
             <div className="flex items-center gap-2 text-sm mb-2">
               <Mail className="h-4 w-4 text-brand-red" aria-hidden="true" />
@@ -52,12 +55,12 @@ export function Footer() {
             </div>
             <div className="flex items-center gap-2 text-sm">
               <MapPin className="h-4 w-4 text-brand-red" aria-hidden="true" />
-              <span>8000 Székesfehérvár, Lövölde utca 24 4/15</span>
+              <span>{t('footer.address')}</span>
             </div>
           </div>
 
           <div>
-            <h3 className="text-lg font-semibold mb-4">Linkek</h3>
+            <h3 className="text-lg font-semibold mb-4">{t('footer.links')}</h3>
             <ul className="space-y-2">
               {footerLinks.map((link) => (
                 <li key={link.name}>
@@ -73,15 +76,15 @@ export function Footer() {
           </div>
 
           <div>
-            <h3 className="text-lg font-semibold mb-4">Nyitvatartás</h3>
+            <h3 className="text-lg font-semibold mb-4">{t('footer.hours')}</h3>
             <p className="text-sm text-muted-foreground whitespace-pre-line">
-              Hétfő – Péntek{'\n'}8:00 – 17:00
+              {t('footer.hoursValue')}
             </p>
           </div>
         </div>
 
         <div className="mt-8 pt-8 border-t text-center text-sm text-muted-foreground">
-          <p>© {new Date().getFullYear()} SIRONIC Rendszerház. Minden jog fenntartva.</p>
+          <p>{t('footer.copyright').replace('{year}', new Date().getFullYear().toString())}</p>
         </div>
       </div>
     </footer>

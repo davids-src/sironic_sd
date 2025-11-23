@@ -175,6 +175,397 @@
     "learnMore": "Zistiť o tom viac",
     "getQuote": "Požiadať o ponuku",
     "contactUs": "Kontakt",
-    "loading": "Načítava sa..."
+    "loading": "Načítava sa...",
+    "whatYouGet": "Čo získate:"
+  },
+  "servicesPage": {
+    "title": "Naše služby",
+    "subtitle": "Komplexné IT riešenia, aby Vaše podnikanie fungovalo bezpečne a efektívne. Od údržby za fixný poplatok až po vývoj na mieru – všetko na jednom mieste.",
+    "cta": {
+      "title": "Máte záujem o niektorú z našich služieb?",
+      "subtitle": "Požiadajte o bezplatnú konzultáciu a spoločne nájdeme najlepšie riešenie pre Vaše podnikanie.",
+      "requestQuote": "Požiadať o ponuku teraz",
+      "reportService": "Nahlásiť servisný problém"
+    },
+    "details": {
+      "systemOperation": {
+        "features": [
+          "Proaktívne monitorovanie a údržba",
+          "Rýchle riešenie problémov",
+          "Pravidelné bezpečnostné aktualizácie",
+          "Optimalizácia výkonu"
+        ]
+      },
+      "networking": {
+        "features": [
+          "Návrh a implementácia siete",
+          "Optimalizácia WiFi siete",
+          "VPN a vzdialený prístup",
+          "Sieťová bezpečnosť"
+        ]
+      },
+      "security": {
+        "features": [
+          "Konfigurácia a správa firewallu",
+          "Automatické zálohovanie",
+          "Nariadenie o ochrane údajov (GDPR)",
+          "Ochrana pred vírusmi a malvérom"
+        ]
+      },
+      "development": {
+        "features": [
+          "Moderné, responzívne webové stránky",
+          "E-commerce riešenia",
+          "Vývoj softvéru na mieru",
+          "SEO optimalizácia"
+        ]
+      },
+      "commerce": {
+        "description": "U nás získate všetko potrebné pre prevádzku kancelárie – počítače, monitory, tlačiarne, servery, sieťové zariadenia a softvérové licencie. Spolupracujeme so spoľahlivými značkami a pomôžeme Vám vybrať najlepší pomer ceny a výkonu. Či už potrebujete nové vybavenie alebo upgrade, postaráme sa o to.",
+        "features": [
+          "Počítače, notebooky a servery",
+          "Sieťové zariadenia a periférie",
+          "Obstarávanie softvérových licencií",
+          "Poradenstvo pri výbere zariadení"
+        ]
+      },
+      "hosting": {
+        "description": "Ponúkame stabilné, rýchle a bezpečné hostingové riešenia pre webové stránky, e-mail a zálohovanie údajov. Zabezpečujeme, aby boli Vaše údaje vždy dostupné a chránené prostredníctvom nášho vlastného serverového parku alebo spoľahlivých medzinárodných partnerov.",
+        "features": [
+          "Webhosting a registrácia domén",
+          "E-mail hosting",
+          "Cloudové zálohovanie a zdieľanie súborov",
+          "Prenájom a správa serverov"
+        ]
+      },
+      "repair": {
+        "title": "Servis a oprava – na mieste alebo poštou",
+        "description": "Rýchla a spoľahlivá oprava počítačov, notebookov, serverov a sieťových zariadení. Servis na mieste v Székesfehérvári a okolí alebo zaslaním poštou. Každú opravu začíname diagnostikou a pracujeme až po Vašom schválení cenovej ponuky. Naším cieľom je čo najskôr sprevádzkovať Váš systém.",
+        "features": [
+          "Servis na mieste (Székesfehérvár a okolie)",
+          "Možnosť zaslania poštou",
+          "Transparentná cenová ponuka pred opravou",
+          "Rýchla doba opravy"
+        ]
+      },
+      "training": {
+        "title": "IT školenia a rozvoj vedomostí",
+        "description": "Rozvíjajte digitálne zručnosti svojho tímu! Ponúkame personalizované IT školenia, školenia o bezpečnostnom povedomí a rozvoj systémových vedomostí, aby zamestnanci mohli s istotou používať moderné zariadenia a softvér. Bezpečná prevádzka začína informáciami.",
+        "features": [
+          "Personalizované IT školenia",
+          "Školenia o bezpečnostnom povedomí",
+          "Školenia o používaní softvéru a zariadení",
+          "Firemné programy rozvoja vedomostí"
+        ]
+      }
+    }
+  },
+  "productsPage": {
+    "breadcrumb": {
+      "home": "Domov",
+      "products": "Produkty"
+    },
+    "title": "Naše produkty – Technológia Sironic v reálnych riešeniach",
+    "subtitle": "Náš interný vývoj vznikol z reálnych potrieb – tieto systémy dnes podporujú prevádzku viacerých firiem. Pozrite sa, ako môžu pomôcť aj Vašej firme.",
+    "noProducts": "Momentálne nie sú k dispozícii žiadne produkty. Náš výber sa čoskoro rozšíri!",
+    "cta": {
+      "title": "Máte záujem o niektorý z našich produktov?",
+      "subtitle": "Kontaktujte nás a ukážeme Vám, ako môžu naše systémy zapadnúť do Vašich obchodných operácií. Všetky naše produkty boli vyvinuté na základe reálnych obchodných potrieb.",
+      "consultation": "Požiadať o konzultáciu",
+      "services": "Naše služby"
+    },
+    "whyChoose": {
+      "title": "Prečo si vybrať produkty Sironic?",
+      "reasons": [
+        {
+          "title": "Riešenia pre reálne problémy",
+          "description": "Všetky naše produkty sú testované v praxi a osvedčené v prevádzkových firmách."
+        },
+        {
+          "title": "Podpora v maďarskom jazyku",
+          "description": "Môžete nás kontaktovať priamo, bez jazykovej bariéry alebo automatizovaných systémov odpovedí."
+        },
+        {
+          "title": "Neustály vývoj",
+          "description": "Pravidelne rozširujeme a vylepšujeme funkcie našich produktov na základe spätnej väzby od zákazníkov."
+        },
+        {
+          "title": "Možnosti prispôsobenia",
+          "description": "Naše produkty môžeme prispôsobiť Vašim potrebám a integrovať ich do Vašich existujúcich systémov."
+        }
+      ]
+    }
+  },
+  "aboutPage": {
+    "title": "O nás",
+    "intro": [
+      "SIRONIC IT Riešenia vznikli počas obdobia COVID, keď každá firma musela prehodnotiť svoje IT operácie. Odvtedy sa neustále vyvíjame a držíme krok s rýchlymi zmenami vo svete IT – pretože veríme, že technológia môže byť pre každú firmu výhodou, nie záťažou.",
+      "Naším cieľom je, aby malé a stredné podniky nemuseli bojovať s IT problémami. Nielenže udržiavame systémy – poskytujeme stabilitu, bezpečnosť a pokoj pre prevádzku.",
+      "Či už ide o správu systémov, budovanie sietí, bezpečnosť údajov alebo vývoj webových stránok, u nás získate každé IT riešenie z jednej ruky – rýchlo, transparentne a v ľudskej reči."
+    ],
+    "stats": [
+      {
+        "value": "5+",
+        "label": "Rokov skúseností"
+      },
+      {
+        "value": "100+",
+        "label": "Spokojných klientov"
+      },
+      {
+        "value": "24/7",
+        "label": "Dostupnosť"
+      },
+      {
+        "value": "99.9%",
+        "label": "Doba prevádzky"
+      }
+    ],
+    "mission": {
+      "title": "Misia SIRONIC",
+      "paragraphs": [
+        "Vieme, že pre malý alebo stredný podnik nesmie byť IT prekážkou – musí jednoducho fungovať, každý deň, bezchybne. Výpadok, pomalá sieť alebo zastarané bezpečnostné nastavenie môžu dnes spôsobiť vážne straty.",
+        "Preto sme vytvorili SIRONIC IT Riešenia: aby sme sprístupnili profesionálne a zároveň cenovo dostupné IT zázemie každej firme. Nemusíte zamestnávať vlastného správcu systému, nemusíte budovať zložitú alebo drahú infraštruktúru – my sa postaráme o všetko.",
+        "Naše služby pokrývajú celú IT prevádzku: správu systémov, budovanie sietí, zálohovanie údajov, IT bezpečnosť, správu firewallov, vývoj webových stránok a IT školenia. Vždy sa prispôsobujeme aktuálnym technológiám, takže naši klienti si môžu byť istí, že ich firemné IT systémy sú aktuálne a bezpečné.",
+        "SIRONIC poskytuje nielen IT – ale aj pokoj, predvídateľnosť a podporu. Sme tí, ktorých môžete kedykoľvek kontaktovať, ak sa vyskytne problém – a často ho vyriešime skôr, ako si ho vôbec všimnete.",
+        "Ku každému klientovi pristupujeme ako k partnerovi, nielenže udržiavame jeho systémy, ale dlhodobo sa staráme o jeho prevádzku."
+      ]
+    },
+    "values": {
+      "title": "Prečo s nami spolupracovať?",
+      "items": [
+        {
+          "title": "Proaktívny prístup",
+          "description": "Nekonáme až vtedy, keď sú problémy. Vaše systémy neustále monitorujeme, aby sme problémom predchádzali."
+        },
+        {
+          "title": "Ľudská komunikácia",
+          "description": "Žiadna 'džungľa tiketov'. Hovoríte so skutočnými ľuďmi, ktorí rozumejú Vášmu problému a rýchlo pomôžu."
+        },
+        {
+          "title": "Transparentnosť",
+          "description": "Pevná mesačná údržba alebo jednorazové riešenia – žiadne skryté poplatky, vždy viete, čo môžete očakávať."
+        }
+      ]
+    },
+    "howWeWork": {
+      "title": "Ako pracujeme?",
+      "steps": [
+        "Vypočujeme si Vaše potreby a posúdime Váš aktuálny IT systém",
+        "Poskytneme odporúčanie na najlepšie riešenie pre Vás",
+        "Nastavíme, optimalizujeme a monitorujeme Váš systém",
+        "Poskytujeme neustálu podporu, kedykoľvek nás potrebujete"
+      ]
+    },
+    "finalCta": {
+      "title": "Staňte sa jedným z našich partnerov!",
+      "subtitle": "Požiadajte o bezplatnú konzultáciu a spoločne nájdeme najlepšie IT riešenie pre Vaše podnikanie.",
+      "button": "Poďme sa skontaktovať"
+    }
+  },
+  "pricingPage": {
+    "title": "Cenník",
+    "subtitle": "Vytvárame individuálne ponuky na základe Vašich obchodných potrieb. Žiadne dve firmy nie sú rovnaké – preto naše poplatky vždy prispôsobujeme Vašej infraštruktúre a požiadavkám.",
+    "heroTitle": "Transparentné ceny – Jasné a jednoduché",
+    "heroDescription": "Žiadne skryté náklady. Naše služby sme navrhli tak, aby každá firma našla to správne riešenie – či už ide o údržbu, vývoj alebo opravu.",
+    "packages": {
+      "mindenCegnek": {
+        "title": "Každá firma si zaslúži IT oddelenie",
+        "price": "Od 39 000 HUF/mesiac",
+        "description": "Kompletná IT prevádzka v mesačnom predplatnom – ako keby ste mali vlastného IT špecialistu.",
+        "features": [
+          "Nepretržité monitorovanie a údržba systému",
+          "Rýchly zásah v prípade chyby",
+          "Poradenstvo v oblasti rozvoja infraštruktúry",
+          "Správa záloh a aktualizácií",
+          "Osobná IT podpora v maďarskom jazyku"
+        ],
+        "badge": "🎁 Platné do 1. februára 2026: 10% zľava na prvé 3 mesiace pri žiadosti o konzultáciu!",
+        "ctaText": "Požiadať o konzultáciu"
+      },
+      "systemOperation": {
+        "title": "Správa systémov & IT údržba",
+        "price": "Od 29 000 HUF/mesiac",
+        "description": "Nepretržitý dohľad a bezproblémová prevádzka.",
+        "features": [
+          "Pravidelná údržba a monitorovanie",
+          "Rýchle riešenie problémov a obnova",
+          "Dohľad nad servermi a sieťou",
+          "Proaktívna prevádzka a bezpečnostné aktualizácie"
+        ],
+        "ctaText": "Požiadať o ponuku"
+      },
+      "networking": {
+        "title": "Budovanie a vývoj sietí",
+        "price": "Od 45 000 HUF / projekt",
+        "description": "Spoľahlivý, bezpečný návrh a implementácia sieťovej infraštruktúry.",
+        "features": [
+          "Kompletný návrh a inštalácia siete",
+          "Konfigurácia routera, switchu, Wi-Fi",
+          "Optimalizácia a údržba siete",
+          "Rýchle, stabilné a bezpečné dátové pripojenie"
+        ],
+        "ctaText": "Požiadať o ponuku"
+      },
+      "security": {
+        "title": "IT bezpečnosť & ochrana údajov",
+        "price": "Od 59 000 HUF",
+        "description": "Chráňte údaje svojej firmy pomocou moderných riešení.",
+        "features": [
+          "Nastavenie firewallu a bezpečnosť siete",
+          "Zálohovanie a obnova",
+          "Správa prístupov, šifrovanie",
+          "Ochrana údajov v súlade s GDPR"
+        ],
+        "ctaText": "Požiadať o ponuku"
+      },
+      "development": {
+        "title": "Vývoj webových stránok & systémov",
+        "price": "Od 250 000 HUF (jednorazovo)",
+        "description": "Profesionálny, individuálny vývoj pre digitálny rast Vašej firmy.",
+        "features": [
+          "Responzívne webové stránky a portály",
+          "Softvérové riešenia na mieru",
+          "SEO a UX optimalizácia",
+          "Neustála podpora a údržba"
+        ],
+        "ctaText": "Požiadať o ponuku"
+      },
+      "commerce": {
+        "title": "Obchod – IT zariadenia & softvér",
+        "price": "Na základe individuálnej ponuky",
+        "description": "Všetko potrebné pre modernú prevádzku kancelárie.",
+        "features": [
+          "Počítače, monitory, servery",
+          "Tlačiarne a sieťové zariadenia",
+          "Softvérové licencie a predplatné",
+          "Kompletná kancelárska infraštruktúra"
+        ],
+        "ctaText": "Požiadať o ponuku"
+      },
+      "hosting": {
+        "title": "Hosting & cloudové riešenia",
+        "price": "Od 3 990 HUF/mesiac",
+        "description": "Rýchly, bezpečný a škálovateľný hosting pre firmy.",
+        "features": [
+          "Web a e-mail hosting",
+          "Cloudové zálohovanie",
+          "Služba privátneho cloudu",
+          "Nepretržitá dostupnosť (99,9%)"
+        ],
+        "ctaText": "Požiadať o ponuku"
+      },
+      "crm": {
+        "title": "Vývoj CRM na mieru",
+        "price": "Od 390 000 HUF",
+        "description": "Personalizovaný systém riadenia zákazníkov, ktorý zvyšuje efektivitu predaja.",
+        "features": [
+          "Modulárna štruktúra, prispôsobiteľné funkcie",
+          "Integrácia s existujúcimi systémami (ERP, e-mail, webstránka)",
+          "Automatizované reporty a analytika",
+          "Užívateľsky prívetivé rozhranie"
+        ],
+        "ctaText": "Požiadať o ponuku"
+      }
+    },
+    "customQuote": {
+      "title": "Máte jedinečné potreby?",
+      "description": "Ceny sú orientačné; presné ponuky sú vždy založené na požiadavkách.\nPožiadajte o bezplatnú konzultáciu a my Vám pomôžeme nájsť najlepšie riešenie.",
+      "button": "Požiadať o bezplatnú IT konzultáciu"
+    },
+    "whyChoose": {
+      "title": "Prečo si vybrať SIRONIC?",
+      "description": "Ak žiadny balík nevyhovuje dokonale, vytvoríme ponuku na mieru. Žiadne dve firmy nie sú rovnaké – a ani dve riešenia.",
+      "reasons": [
+        {
+          "title": "Transparentné ceny",
+          "description": "Žiadne skryté náklady"
+        },
+        {
+          "title": "Flexibilné balíky",
+          "description": "Mesačné a jednorazové riešenia"
+        },
+        {
+          "title": "Rýchla reakcia",
+          "description": "V prípade potreby pomôžeme okamžite"
+        },
+        {
+          "title": "Dlhodobá podpora",
+          "description": "Ku klientom pristupujeme ako k partnerom"
+        }
+      ],
+      "button": "Požiadať o individuálnu ponuku"
+    }
+  },
+  "mindenCegnekPage": {
+    "hero": {
+      "badge": "Mesačná IT podpora",
+      "title": "Každá firma si zaslúži IT oddelenie",
+      "subtitle": "Ako vlastný IT špecialista",
+      "description": "Služba, kde nemusíte zamestnávať IT špecialistu – namiesto toho získate kompletný tím, ktorý v pozadí udržiava všetko aktuálne, monitoruje, udržiava a zasahuje len vtedy, keď je to potrebné.",
+      "cta": "Požiadať o konzultáciu",
+      "discount": "Platné do 1. februára 2026: 10% zľava na prvé 3 mesiace pri žiadosti o konzultáciu!",
+      "scroll": "Posuňte sa nižšie pre viac informácií"
+    },
+    "whatYouGet": {
+      "title": "Čo presne získate?",
+      "subtitle": "Komplexné IT riešenie, ktoré pre Vás pracuje každý deň – neviditeľne, ale efektívne.",
+      "features": {
+        "internet": {
+          "title": "Nepretržitý prístup na internet a stabilná prevádzka",
+          "description": "Zabezpečujeme, aby bola Vaša firemná sieť vždy dostupná, stabilná a bezpečná – nepozorovane, v pozadí."
+        },
+        "platform": {
+          "title": "Jedinečná platforma na nahlasovanie chýb",
+          "description": "Získate vlastné rozhranie, kde môžete jednoducho nahlásiť problémy alebo požiadavky – reagujeme okamžite."
+        },
+        "monitoring": {
+          "title": "Nepretržité monitorovanie a riešenie problémov",
+          "description": "Monitorujeme servery, sieť a systémy, aby sme vyriešili chyby skôr, ako si ich vôbec všimnete."
+        },
+        "cost": {
+          "title": "Nákladovo efektívna, transparentná cenová štruktúra",
+          "description": "Nad rámec fixného mesačného poplatku platíte len za to, čo si skutočne vyžaduje pozornosť – na základe vopred dohodnutého cenníka."
+        },
+        "reporting": {
+          "title": "Aktuálne systémy, mesačná správa",
+          "description": "Systémy priebežne aktualizujeme a udržiavame a na konci každého mesiaca posielame správu o výkone a stave systému."
+        }
+      }
+    },
+    "benefits": {
+      "title": "Prečo je to pre Vás dobré?",
+      "subtitle": "Nákladovo efektívna, transparentná a spoľahlivá IT podpora – bez nutnosti udržiavať vlastné IT oddelenie.",
+      "items": [
+        "Nie je potrebné zamestnávať vlastný IT personál – ale niekto sleduje Vaše systémy",
+        "Fixný mesačný poplatok, predvídateľné náklady",
+        "Rýchla reakčná doba v prípade problémov",
+        "Proaktívna údržba a monitorovanie",
+        "Osobná podpora v maďarskom jazyku",
+        "Mesačné správy o stave systému",
+        "Škálovateľné riešenie – ako Vaša firma rastie, rastieme aj my",
+        "Žiadne prekvapivé účty – všetko vopred dohodnuté"
+      ]
+    },
+    "pricing": {
+      "title": "Ako funguje cenotvorba?",
+      "subtitle": "Jednoduchá a transparentná štruktúra – fixný mesačný poplatok plus vopred dohodnutá hodinová sadzba v prípade potreby.",
+      "fixed": {
+        "title": "Fixný mesačný poplatok",
+        "price": "Od 39 000 HUF/mesiac",
+        "description": "Zahŕňa monitorovanie, základnú údržbu, reporting a podporu."
+      },
+      "hourly": {
+        "title": "Plus pracovný poplatok",
+        "price": "Vopred dohodnutá hodinová sadzba",
+        "description": "Platíte len vtedy, ak je potrebný skutočný zásah alebo vývoj."
+      },
+      "note": "Cenotvorba závisí od dĺžky zmluvy a typov úloh. Požiadajte o individuálnu ponuku!"
+    },
+    "finalCta": {
+      "title": "Nepotrebujete vlastného IT špecialistu, len spoľahlivého partnera",
+      "description": "Poskytujeme odbornosť, rýchlu reakciu a stabilnú prevádzku – Vy sa môžete sústrediť na svoju firmu.",
+      "button": "Požiadať o ponuku"
+    }
   }
 }

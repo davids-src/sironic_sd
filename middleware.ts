@@ -20,11 +20,6 @@ export function middleware(request: NextRequest) {
     return NextResponse.next();
   }
 
-  // Blog stays without locale (Hungarian only)
-  if (pathname === '/blog' || pathname.startsWith('/blog/')) {
-    return NextResponse.next();
-  }
-
   // Check if pathname already has a locale
   const pathnameHasLocale = locales.some(
     locale => pathname.startsWith(`/${locale}/`) || pathname === `/${locale}`
@@ -34,8 +29,72 @@ export function middleware(request: NextRequest) {
     return NextResponse.next();
   }
 
-  // Always redirect to /hu/ (Hungarian only for now)
-  const newUrl = new URL(`/hu${pathname}`, request.url);
+  // Bot detection
+  const userAgent = request.headers.get('user-agent') || '';
+  const isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+
+  // If it's a bot, redirect to default locale to ensure consistent indexing
+  if (isBot) {
+    return NextResponse.redirect(new URL(`/${defaultLocale}${pathname}`, request.url));
+  }
+
+  // Check for saved locale in cookie
+  const savedLocale = request.cookies.get('NEXT_LOCALE')?.value;
+  if (savedLocale && locales.includes(savedLocale as any)) {
+    return NextResponse.redirect(new URL(`/${savedLocale}${pathname}`, request.url));
+  }
+
+  // GeoIP detection
+  const country = request.geo?.country ||
+    request.headers.get('x-vercel-ip-country') ||
+    request.headers.get('cf-ipcountry');
+
+  let targetLocale = defaultLocale;
+
+  if (country) {
+    switch (country.toUpperCase()) {
+      case 'DE': // Germany
+      case 'AT': // Austria
+      case 'CH': // Switzerland
+        targetLocale = 'de';
+        break;
+      case 'SK': // Slovakia
+        targetLocale = 'sk';
+        break;
+      case 'RO': // Romania
+        targetLocale = 'ro';
+        break;
+      case 'GB': // United Kingdom
+      case 'US': // USA
+      case 'CA': // Canada
+      case 'AU': // Australia
+        targetLocale = 'en';
+        break;
+      case 'HU': // Hungary
+        targetLocale = 'hu';
+        break;
+      default:
+        // Fallback to Accept-Language if GeoIP gives a country we don't have specific logic for
+        // but we might want to default to English for international visitors?
+        // For now, let's check Accept-Language
+        break;
+    }
+  }
+
+  // Accept-Language fallback if GeoIP didn't find a match or wasn't present
+  if (targetLocale === defaultLocale) {
+    const acceptLanguage = request.headers.get('accept-language');
+    if (acceptLanguage) {
+      // Simple check for primary language
+      if (acceptLanguage.includes('de')) targetLocale = 'de';
+      else if (acceptLanguage.includes('sk')) targetLocale = 'sk';
+      else if (acceptLanguage.includes('ro')) targetLocale = 'ro';
+      else if (acceptLanguage.includes('en')) targetLocale = 'en';
+      // hu is default
+    }
+  }
+
+  const newUrl = new URL(`/${targetLocale}${pathname}`, request.url);
   return NextResponse.redirect(newUrl);
 }
 

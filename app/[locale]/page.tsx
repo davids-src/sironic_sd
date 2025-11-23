@@ -73,7 +73,7 @@ export default function HomePage() {
             </p>
           </div>
           <div className="grid gap-8 md:grid-cols-2 lg:grid-cols-3">
-            {services.map((service, index) => (
+            {services.slice(0, 6).map((service, index) => (
               <ServiceCard
                 key={index}
                 title={service.title}

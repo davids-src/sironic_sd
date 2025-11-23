@@ -175,6 +175,397 @@
     "learnMore": "Learn More About It",
     "getQuote": "Request a Quote",
     "contactUs": "Contact",
-    "loading": "Loading..."
+    "loading": "Loading...",
+    "whatYouGet": "What you get:"
+  },
+  "servicesPage": {
+    "title": "Our Services",
+    "subtitle": "Complete IT solutions to keep your business secure and efficient. From fixed-fee maintenance to custom development – everything in one place.",
+    "cta": {
+      "title": "Interested in any of our services?",
+      "subtitle": "Request a free consultation and let's find the best solution for your business together.",
+      "requestQuote": "Request a Quote Now",
+      "reportService": "Report Service Issue"
+    },
+    "details": {
+      "systemOperation": {
+        "features": [
+          "Proactive monitoring and maintenance",
+          "Rapid troubleshooting",
+          "Regular security updates",
+          "Performance optimization"
+        ]
+      },
+      "networking": {
+        "features": [
+          "Network design and implementation",
+          "WiFi network optimization",
+          "VPN and remote access",
+          "Network security"
+        ]
+      },
+      "security": {
+        "features": [
+          "Firewall configuration and management",
+          "Automatic backups",
+          "Data protection regulation (GDPR)",
+          "Virus and malware protection"
+        ]
+      },
+      "development": {
+        "features": [
+          "Modern, responsive websites",
+          "E-commerce solutions",
+          "Custom software development",
+          "SEO optimization"
+        ]
+      },
+      "commerce": {
+        "description": "You can get everything needed for office operations from us – computers, monitors, printers, servers, network devices, and software licenses. We work with reliable brands and help you choose the best price-performance ratio. Whether you need new equipment or upgrades, we take care of it.",
+        "features": [
+          "Computers, laptops, and servers",
+          "Network devices and peripherals",
+          "Software license procurement",
+          "Equipment selection consulting"
+        ]
+      },
+      "hosting": {
+        "description": "We offer stable, fast, and secure hosting solutions for websites, email, and data backup. We ensure your data is always accessible and protected through our own server park or reliable international partners.",
+        "features": [
+          "Web hosting and domain registration",
+          "Email hosting",
+          "Cloud-based backup and file sharing",
+          "Server rental and management"
+        ]
+      },
+      "repair": {
+        "title": "Service and Repair – On-site or Mail-in",
+        "description": "Fast and reliable repair of computers, laptops, servers, and network devices. On-site service in Székesfehérvár and surroundings, or mail-in service. We start every repair with diagnostics, and only proceed after your approval of the quote. Our goal is to get your system back up and running as soon as possible.",
+        "features": [
+          "On-site service (Székesfehérvár and surroundings)",
+          "Mail-in option",
+          "Transparent quote before repair",
+          "Fast repair time"
+        ]
+      },
+      "training": {
+        "title": "IT Training and Knowledge Development",
+        "description": "Develop your team's digital skills! We offer personalized IT training, security awareness training, and system-level knowledge development so employees can confidently use modern devices and software. Secure operation starts with information.",
+        "features": [
+          "Personalized IT training",
+          "Security awareness training",
+          "Software and device usage training",
+          "Corporate knowledge development programs"
+        ]
+      }
+    }
+  },
+  "productsPage": {
+    "breadcrumb": {
+      "home": "Home",
+      "products": "Products"
+    },
+    "title": "Our Products – Sironic Technology in Real Solutions",
+    "subtitle": "Our internal developments were brought to life by real needs – these systems now support the operations of multiple businesses. See how they can help your company too.",
+    "noProducts": "There are currently no products to display. Our selection will expand soon!",
+    "cta": {
+      "title": "Interested in any of our products?",
+      "subtitle": "Contact us, and we'll show you how our systems can fit into your business operations. All our products were developed based on real business needs.",
+      "consultation": "Request Consultation",
+      "services": "Our Services"
+    },
+    "whyChoose": {
+      "title": "Why Choose Sironic Products?",
+      "reasons": [
+        {
+          "title": "Solutions for Real Problems",
+          "description": "All our products are tested in practice and proven at operating businesses."
+        },
+        {
+          "title": "Hungarian Language Support",
+          "description": "You can reach us directly, no language barrier or automated response systems."
+        },
+        {
+          "title": "Continuous Development",
+          "description": "We regularly expand and improve our product features based on customer feedback."
+        },
+        {
+          "title": "Customization Options",
+          "description": "We can customize our products to your needs and integrate them into your existing systems."
+        }
+      ]
+    }
+  },
+  "aboutPage": {
+    "title": "About Us",
+    "intro": [
+      "SIRONIC IT Solutions started during the COVID period when every business had to rethink its IT operations. Since then, we have been continuously evolving and keeping up with the rapid changes in the IT world – because we believe technology can be an advantage, not a burden, for every company.",
+      "Our goal is that small and medium-sized businesses shouldn't have to struggle with IT problems. We don't just maintain systems – we provide stability, security, and peace of mind for operations.",
+      "Whether it's system management, network building, data security, or web development, with us, every IT solution is in one hand – fast, transparent, and in human language."
+    ],
+    "stats": [
+      {
+        "value": "5+",
+        "label": "Years Experience"
+      },
+      {
+        "value": "100+",
+        "label": "Satisfied Clients"
+      },
+      {
+        "value": "24/7",
+        "label": "Availability"
+      },
+      {
+        "value": "99.9%",
+        "label": "Uptime"
+      }
+    ],
+    "mission": {
+      "title": "SIRONIC's Mission",
+      "paragraphs": [
+        "We know that for a small or medium-sized business, IT shouldn't be an obstacle – it just has to work, every day, flawlessly. A downtime, a slow network, or an outdated security setting can cause serious losses today.",
+        "That's why we created SIRONIC IT Solutions: to make professional yet affordable IT background available to every company. You don't need to hire your own system administrator, you don't need to build complex or expensive infrastructure – we take care of everything.",
+        "Our services cover the entire IT operation: system management, network building, data backup, IT security, firewall management, web development, and IT training. We always adapt to current technologies, so our clients can be sure their business IT systems are up-to-date and secure.",
+        "SIRONIC provides not just IT – but peace of mind, predictability, and support. We are the ones you can reach anytime if there's a problem – and often we solve it before you even notice.",
+        "We treat every client as a partner, not just maintaining their systems, but caring for their operations in the long term."
+      ]
+    },
+    "values": {
+      "title": "Why Work With Us?",
+      "items": [
+        {
+          "title": "Proactive Attitude",
+          "description": "We don't just act when there's trouble. We continuously monitor your systems to prevent problems."
+        },
+        {
+          "title": "Human Communication",
+          "description": "No 'ticket jungle' here. You talk to real people who understand your problem and help quickly."
+        },
+        {
+          "title": "Transparency",
+          "description": "Fixed monthly maintenance or one-time solutions – no hidden fees, you always know what to expect."
+        }
+      ]
+    },
+    "howWeWork": {
+      "title": "How We Work?",
+      "steps": [
+        "We listen to your needs and assess your current IT system",
+        "We provide a recommendation for the best solution for you",
+        "We set up, optimize, and monitor your system",
+        "We provide continuous support whenever you need us"
+      ]
+    },
+    "finalCta": {
+      "title": "Become One of Our Partners!",
+      "subtitle": "Request a free consultation, and let's find the best IT solution for your business together.",
+      "button": "Let's Get in Touch"
+    }
+  },
+  "pricingPage": {
+    "title": "Pricing",
+    "subtitle": "We create custom offers based on your business needs. No two companies are alike – so we always tailor our fees to your infrastructure and requirements.",
+    "heroTitle": "Transparent Pricing – Clear and Simple",
+    "heroDescription": "No hidden costs. We've designed our services so every business can find the right solution – whether it's maintenance, development, or repair.",
+    "packages": {
+      "mindenCegnek": {
+        "title": "Every Company Deserves an IT Department",
+        "price": "From 39,000 HUF/month",
+        "description": "Full IT operations in a monthly subscription – like having your own IT specialist.",
+        "features": [
+          "Continuous system monitoring and maintenance",
+          "Rapid intervention in case of error",
+          "Infrastructure development consulting",
+          "Backup and update management",
+          "Personal, Hungarian-speaking IT support"
+        ],
+        "badge": "🎁 Valid until Feb 1, 2026: 10% discount on first 3 months for consultation requests!",
+        "ctaText": "Request Consultation"
+      },
+      "systemOperation": {
+        "title": "System Operations & IT Maintenance",
+        "price": "From 29,000 HUF/month",
+        "description": "Continuous supervision and uninterrupted operation.",
+        "features": [
+          "Regular maintenance and monitoring",
+          "Rapid troubleshooting and recovery",
+          "Server and network supervision",
+          "Proactive operation and security updates"
+        ],
+        "ctaText": "Request Quote"
+      },
+      "networking": {
+        "title": "Network Building & Development",
+        "price": "From 45,000 HUF / project",
+        "description": "Reliable, secure network infrastructure design and implementation.",
+        "features": [
+          "Complete network design and installation",
+          "Router, switch, Wi-Fi configuration",
+          "Network optimization and maintenance",
+          "Fast, stable, and secure data connection"
+        ],
+        "ctaText": "Request Quote"
+      },
+      "security": {
+        "title": "IT Security & Data Protection",
+        "price": "From 59,000 HUF",
+        "description": "Protect your business data with modern solutions.",
+        "features": [
+          "Firewall setup and network security",
+          "Backup and recovery",
+          "Access management, encryption",
+          "GDPR-compliant data protection"
+        ],
+        "ctaText": "Request Quote"
+      },
+      "development": {
+        "title": "Website & System Development",
+        "price": "From 250,000 HUF (one-time)",
+        "description": "Professional, custom developments for your company's digital growth.",
+        "features": [
+          "Responsive websites and portals",
+          "Custom software solutions",
+          "SEO and UX optimization",
+          "Continuous support and maintenance"
+        ],
+        "ctaText": "Request Quote"
+      },
+      "commerce": {
+        "title": "Commerce – IT Equipment & Software",
+        "price": "Based on custom quote",
+        "description": "Everything needed for modern office operations.",
+        "features": [
+          "Computers, monitors, servers",
+          "Printers and network devices",
+          "Software licenses and subscriptions",
+          "Complete office infrastructure"
+        ],
+        "ctaText": "Request Quote"
+      },
+      "hosting": {
+        "title": "Hosting & Cloud Solutions",
+        "price": "From 3,990 HUF/month",
+        "description": "Fast, secure, and scalable hosting for companies.",
+        "features": [
+          "Web and email hosting",
+          "Cloud-based backup",
+          "Private cloud service",
+          "Continuous availability (99.9%)"
+        ],
+        "ctaText": "Request Quote"
+      },
+      "crm": {
+        "title": "Custom CRM Development",
+        "price": "From 390,000 HUF",
+        "description": "Personalized customer management system that increases sales efficiency.",
+        "features": [
+          "Modular structure, customizable functions",
+          "Integration with existing systems (ERP, email, website)",
+          "Automated reports and analytics",
+          "User-friendly interface"
+        ],
+        "ctaText": "Request Quote"
+      }
+    },
+    "customQuote": {
+      "title": "Have unique needs?",
+      "description": "Prices are indicative; exact quotes are always based on requirements.\nRequest a free consultation, and we'll help you find the best solution.",
+      "button": "Request Free IT Consultation"
+    },
+    "whyChoose": {
+      "title": "Why Choose SIRONIC?",
+      "description": "If no package fits perfectly, we'll create a custom offer. No two businesses are alike – and neither are two solutions.",
+      "reasons": [
+        {
+          "title": "Transparent Pricing",
+          "description": "No hidden costs"
+        },
+        {
+          "title": "Flexible Packages",
+          "description": "Monthly and one-time solutions"
+        },
+        {
+          "title": "Fast Response",
+          "description": "We help immediately if needed"
+        },
+        {
+          "title": "Long-term Support",
+          "description": "We treat clients as partners"
+        }
+      ],
+      "button": "Request Custom Quote"
+    }
+  },
+  "mindenCegnekPage": {
+    "hero": {
+      "badge": "Monthly IT Support",
+      "title": "Every Company Deserves an IT Department",
+      "subtitle": "Like having your own IT specialist",
+      "description": "A service where you don't need to hire an IT specialist – instead, you get a full team that keeps everything up to date in the background, monitors, maintains, and only intervenes when necessary.",
+      "cta": "Request Consultation",
+      "discount": "Valid until Feb 1, 2026: 10% discount on first 3 months for consultation requests!",
+      "scroll": "Scroll down for more info"
+    },
+    "whatYouGet": {
+      "title": "What exactly do you get?",
+      "subtitle": "A comprehensive IT solution that works for you every day – invisibly but effectively.",
+      "features": {
+        "internet": {
+          "title": "Continuous internet access and stable operation",
+          "description": "We ensure your company network is always available, stable, and secure – unnoticed, in the background."
+        },
+        "platform": {
+          "title": "Unique platform for error reporting",
+          "description": "You get your own interface where you can easily report problems or requests – we respond immediately."
+        },
+        "monitoring": {
+          "title": "Continuous monitoring and troubleshooting",
+          "description": "We monitor servers, network, and systems to handle errors before you even notice them."
+        },
+        "cost": {
+          "title": "Cost-effective, transparent pricing structure",
+          "description": "Beyond the fixed monthly fee, you only pay for what actually needs attention – based on a pre-agreed price list."
+        },
+        "reporting": {
+          "title": "Up-to-date systems, monthly report",
+          "description": "We continuously update and maintain systems, and send a report at the end of each month on performance and system status."
+        }
+      }
+    },
+    "benefits": {
+      "title": "Why is this good for you?",
+      "subtitle": "Cost-effective, transparent, and reliable IT support – without maintaining your own IT department.",
+      "items": [
+        "No need to hire your own IT staff – but someone is watching your systems",
+        "Fixed monthly fee, predictable costs",
+        "Fast response time in case of problems",
+        "Proactive maintenance and monitoring",
+        "Hungarian-speaking, personal support",
+        "Monthly reports on system status",
+        "Scalable solution – as your company grows, we expand too",
+        "No surprise bills – everything pre-agreed"
+      ]
+    },
+    "pricing": {
+      "title": "How does pricing work?",
+      "subtitle": "Simple and transparent structure – fixed monthly fee plus pre-agreed hourly rate if needed.",
+      "fixed": {
+        "title": "Fixed monthly fee",
+        "price": "From 39,000 HUF/month",
+        "description": "Includes monitoring, basic maintenance, reporting, and support."
+      },
+      "hourly": {
+        "title": "Plus labor fee",
+        "price": "Pre-agreed hourly rate",
+        "description": "You only pay if actual intervention or development is needed."
+      },
+      "note": "Pricing depends on contract length and task types. Request a custom quote!"
+    },
+    "finalCta": {
+      "title": "You don't need your own IT specialist, just a reliable partner",
+      "description": "We provide the expertise, fast response, and stable operation – you can focus on your company.",
+      "button": "Request Quote"
+    }
   }
 }

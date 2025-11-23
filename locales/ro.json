@@ -175,6 +175,397 @@
     "learnMore": "Aflați mai multe despre asta",
     "getQuote": "Solicitați o ofertă",
     "contactUs": "Contact",
-    "loading": "Se încarcă..."
+    "loading": "Se încarcă...",
+    "whatYouGet": "Ce primești:"
+  },
+  "servicesPage": {
+    "title": "Serviciile noastre",
+    "subtitle": "Soluții IT complete pentru ca afacerea dumneavoastră să funcționeze sigur și eficient. De la întreținere cu tarif fix la dezvoltare personalizată – totul într-un singur loc.",
+    "cta": {
+      "title": "Sunteți interesat de vreunul dintre serviciile noastre?",
+      "subtitle": "Solicitați o consultație gratuită și să găsim împreună cea mai bună soluție pentru afacerea dumneavoastră.",
+      "requestQuote": "Solicitați o ofertă acum",
+      "reportService": "Raportați o problemă de service"
+    },
+    "details": {
+      "systemOperation": {
+        "features": [
+          "Monitorizare și întreținere proactivă",
+          "Depanare rapidă",
+          "Actualizări regulate de securitate",
+          "Optimizarea performanței"
+        ]
+      },
+      "networking": {
+        "features": [
+          "Proiectare și implementare rețea",
+          "Optimizare rețea WiFi",
+          "VPN și acces la distanță",
+          "Securitate rețea"
+        ]
+      },
+      "security": {
+        "features": [
+          "Configurare și gestionare firewall",
+          "Backup-uri automate",
+          "Regulamentul privind protecția datelor (GDPR)",
+          "Protecție împotriva virușilor și malware-ului"
+        ]
+      },
+      "development": {
+        "features": [
+          "Site-uri web moderne, responsive",
+          "Soluții e-commerce",
+          "Dezvoltare software personalizat",
+          "Optimizare SEO"
+        ]
+      },
+      "commerce": {
+        "description": "Puteți obține tot ce aveți nevoie pentru funcționarea biroului de la noi – calculatoare, monitoare, imprimante, servere, dispozitive de rețea și licențe software. Lucrăm cu mărci de încredere și vă ajutăm să alegeți cel mai bun raport preț-performanță. Fie că aveți nevoie de echipamente noi sau de upgrade-uri, ne ocupăm noi.",
+        "features": [
+          "Calculatoare, laptopuri și servere",
+          "Dispozitive de rețea și periferice",
+          "Achiziționare licențe software",
+          "Consultanță în alegerea echipamentelor"
+        ]
+      },
+      "hosting": {
+        "description": "Oferim soluții de hosting stabile, rapide și sigure pentru site-uri web, e-mail și backup de date. Asigurăm că datele dumneavoastră sunt întotdeauna accesibile și protejate prin propriul nostru parc de servere sau parteneri internaționali de încredere.",
+        "features": [
+          "Web hosting și înregistrare domenii",
+          "E-mail hosting",
+          "Backup bazat pe cloud și partajare fișiere",
+          "Închiriere și gestionare servere"
+        ]
+      },
+      "repair": {
+        "title": "Service și reparații – La fața locului sau prin poștă",
+        "description": "Repararea rapidă și fiabilă a calculatoarelor, laptopurilor, serverelor și dispozitivelor de rețea. Service la fața locului în Székesfehérvár și împrejurimi, sau prin expediere poștală. Începem fiecare reparație cu diagnosticare și lucrăm doar după aprobarea ofertei de către dumneavoastră. Scopul nostru este să vă repunem sistemul în funcțiune cât mai curând posibil.",
+        "features": [
+          "Service la fața locului (Székesfehérvár și împrejurimi)",
+          "Opțiune de expediere prin poștă",
+          "Ofertă transparentă înainte de reparație",
+          "Timp rapid de reparație"
+        ]
+      },
+      "training": {
+        "title": "Instruire IT și dezvoltare cunoștințe",
+        "description": "Dezvoltați abilitățile digitale ale echipei dumneavoastră! Oferim instruire IT personalizată, instruire privind conștientizarea securității și dezvoltarea cunoștințelor la nivel de sistem, astfel încât angajații să poată utiliza cu încredere dispozitivele și software-ul modern. Funcționarea sigură începe cu informația.",
+        "features": [
+          "Instruire IT personalizată",
+          "Instruire privind conștientizarea securității",
+          "Instruire utilizare software și dispozitive",
+          "Programe corporative de dezvoltare a cunoștințelor"
+        ]
+      }
+    }
+  },
+  "productsPage": {
+    "breadcrumb": {
+      "home": "Acasă",
+      "products": "Produse"
+    },
+    "title": "Produsele noastre – Tehnologia Sironic în soluții reale",
+    "subtitle": "Dezvoltările noastre interne au luat naștere din nevoi reale – aceste sisteme susțin astăzi funcționarea mai multor afaceri. Vedeți cum pot ajuta și compania dumneavoastră.",
+    "noProducts": "Momentan nu există produse de afișat. Selecția noastră se va extinde în curând!",
+    "cta": {
+      "title": "Sunteți interesat de vreunul dintre produsele noastre?",
+      "subtitle": "Contactați-ne și vă vom arăta cum se pot integra sistemele noastre în operațiunile afacerii dumneavoastră. Toate produsele noastre au fost dezvoltate pe baza nevoilor reale de afaceri.",
+      "consultation": "Solicitați consultație",
+      "services": "Serviciile noastre"
+    },
+    "whyChoose": {
+      "title": "De ce să alegeți produsele Sironic?",
+      "reasons": [
+        {
+          "title": "Soluții pentru probleme reale",
+          "description": "Toate produsele noastre sunt testate în practică și dovedite la companii operaționale."
+        },
+        {
+          "title": "Suport în limba maghiară",
+          "description": "Ne puteți contacta direct, fără barieră lingvistică sau sisteme automate de răspuns."
+        },
+        {
+          "title": "Dezvoltare continuă",
+          "description": "Extindem și îmbunătățim regulat funcțiile produselor noastre pe baza feedback-ului clienților."
+        },
+        {
+          "title": "Opțiuni de personalizare",
+          "description": "Putem personaliza produsele noastre conform nevoilor dumneavoastră și le putem integra în sistemele existente."
+        }
+      ]
+    }
+  },
+  "aboutPage": {
+    "title": "Despre noi",
+    "intro": [
+      "SIRONIC Soluții IT a început în perioada COVID, când fiecare afacere a trebuit să își regândească operațiunile IT. De atunci, evoluăm continuu și ținem pasul cu schimbările rapide din lumea IT – pentru că credem că tehnologia poate fi un avantaj, nu o povară, pentru fiecare companie.",
+      "Scopul nostru este ca întreprinderile mici și mijlocii să nu trebuiască să se lupte cu probleme IT. Nu doar întreținem sisteme – oferim stabilitate, securitate și liniște sufletească pentru operațiuni.",
+      "Fie că este vorba de administrarea sistemelor, construirea rețelelor, securitatea datelor sau dezvoltarea web, la noi obțineți fiecare soluție IT dintr-o singură sursă – rapid, transparent și pe înțelesul tuturor."
+    ],
+    "stats": [
+      {
+        "value": "5+",
+        "label": "Ani de experiență"
+      },
+      {
+        "value": "100+",
+        "label": "Clienți mulțumiți"
+      },
+      {
+        "value": "24/7",
+        "label": "Disponibilitate"
+      },
+      {
+        "value": "99.9%",
+        "label": "Timp de funcționare"
+      }
+    ],
+    "mission": {
+      "title": "Misiunea SIRONIC",
+      "paragraphs": [
+        "Știm că pentru o întreprindere mică sau mijlocie, IT-ul nu ar trebui să fie un obstacol – trebuie pur și simplu să funcționeze, în fiecare zi, fără greșeală. O întrerupere, o rețea lentă sau o setare de securitate învechită pot cauza pierderi serioase astăzi.",
+        "De aceea am creat SIRONIC Soluții IT: pentru a face disponibil un fundal IT profesional, dar accesibil, fiecărei companii. Nu trebuie să angajați propriul administrator de sistem, nu trebuie să construiți o infrastructură complexă sau costisitoare – ne ocupăm noi de tot.",
+        "Serviciile noastre acoperă întreaga operațiune IT: administrarea sistemelor, construirea rețelelor, backup-ul datelor, securitatea IT, gestionarea firewall-urilor, dezvoltarea web și instruirea IT. Ne adaptăm întotdeauna la tehnologiile actuale, astfel încât clienții noștri pot fi siguri că sistemele lor IT de afaceri sunt actualizate și sigure.",
+        "SIRONIC oferă nu doar IT – ci și liniște sufletească, predictibilitate și suport. Suntem cei pe care îi puteți contacta oricând dacă apare o problemă – și adesea o rezolvăm înainte să observați.",
+        "Tratăm fiecare client ca pe un partener, nu doar întreținându-le sistemele, ci având grijă de operațiunile lor pe termen lung."
+      ]
+    },
+    "values": {
+      "title": "De ce să lucrați cu noi?",
+      "items": [
+        {
+          "title": "Atitudine proactivă",
+          "description": "Nu acționăm doar când sunt probleme. Monitorizăm continuu sistemele dumneavoastră pentru a preveni problemele."
+        },
+        {
+          "title": "Comunicare umană",
+          "description": "Fără 'junglă de tichete' aici. Vorbiți cu oameni reali care vă înțeleg problema și ajută rapid."
+        },
+        {
+          "title": "Transparență",
+          "description": "Întreținere lunară fixă sau soluții unice – fără taxe ascunse, știți întotdeauna la ce să vă așteptați."
+        }
+      ]
+    },
+    "howWeWork": {
+      "title": "Cum lucrăm?",
+      "steps": [
+        "Vă ascultăm nevoile și evaluăm sistemul IT actual",
+        "Oferim o recomandare pentru cea mai bună soluție pentru dumneavoastră",
+        "Configurăm, optimizăm și monitorizăm sistemul dumneavoastră",
+        "Oferim suport continuu oricând aveți nevoie de noi"
+      ]
+    },
+    "finalCta": {
+      "title": "Deveniți unul dintre partenerii noștri!",
+      "subtitle": "Solicitați o consultație gratuită și să găsim împreună cea mai bună soluție IT pentru afacerea dumneavoastră.",
+      "button": "Haideți să luăm legătura"
+    }
+  },
+  "pricingPage": {
+    "title": "Prețuri",
+    "subtitle": "Creăm oferte personalizate bazate pe nevoile afacerii dumneavoastră. Nu există două companii la fel – așa că ne adaptăm întotdeauna taxele la infrastructura și cerințele dumneavoastră.",
+    "heroTitle": "Prețuri transparente – Clare și simple",
+    "heroDescription": "Fără costuri ascunse. Am conceput serviciile noastre astfel încât fiecare companie să găsească soluția potrivită – fie că este vorba de întreținere, dezvoltare sau reparații.",
+    "packages": {
+      "mindenCegnek": {
+        "title": "Fiecare companie merită un departament IT",
+        "price": "De la 39.000 HUF/lună",
+        "description": "Operațiuni IT complete într-un abonament lunar – ca și cum ați avea propriul specialist IT.",
+        "features": [
+          "Monitorizare și întreținere continuă a sistemului",
+          "Intervenție rapidă în caz de eroare",
+          "Consultanță dezvoltare infrastructură",
+          "Gestionare backup și actualizări",
+          "Suport IT personal, în limba maghiară"
+        ],
+        "badge": "🎁 Valabil până la 1 feb. 2026: 10% reducere pentru primele 3 luni la solicitările de consultanță!",
+        "ctaText": "Solicitați consultație"
+      },
+      "systemOperation": {
+        "title": "Administrare sisteme & Întreținere IT",
+        "price": "De la 29.000 HUF/lună",
+        "description": "Supraveghere continuă și funcționare neîntreruptă.",
+        "features": [
+          "Întreținere și monitorizare regulată",
+          "Depanare și recuperare rapidă",
+          "Supraveghere servere și rețea",
+          "Funcționare proactivă și actualizări de securitate"
+        ],
+        "ctaText": "Solicitați o ofertă"
+      },
+      "networking": {
+        "title": "Construire și dezvoltare rețele",
+        "price": "De la 45.000 HUF / proiect",
+        "description": "Proiectare și implementare fiabilă și sigură a infrastructurii de rețea.",
+        "features": [
+          "Proiectare și instalare completă a rețelei",
+          "Configurare router, switch, Wi-Fi",
+          "Optimizare și întreținere rețea",
+          "Conexiune de date rapidă, stabilă și sigură"
+        ],
+        "ctaText": "Solicitați o ofertă"
+      },
+      "security": {
+        "title": "Securitate IT & Protecția datelor",
+        "price": "De la 59.000 HUF",
+        "description": "Protejați-vă datele companiei cu soluții moderne.",
+        "features": [
+          "Configurare firewall și securitate rețea",
+          "Backup și recuperare",
+          "Gestionare acces, criptare",
+          "Protecția datelor conform GDPR"
+        ],
+        "ctaText": "Solicitați o ofertă"
+      },
+      "development": {
+        "title": "Dezvoltare website & sisteme",
+        "price": "De la 250.000 HUF (o singură dată)",
+        "description": "Dezvoltări profesionale, personalizate pentru creșterea digitală a companiei dumneavoastră.",
+        "features": [
+          "Site-uri web și portaluri responsive",
+          "Soluții software personalizate",
+          "Optimizare SEO și UX",
+          "Suport și întreținere continuă"
+        ],
+        "ctaText": "Solicitați o ofertă"
+      },
+      "commerce": {
+        "title": "Comerț – Echipamente IT & Software",
+        "price": "Pe baza ofertei personalizate",
+        "description": "Tot ce este necesar pentru funcționarea modernă a biroului.",
+        "features": [
+          "Calculatoare, monitoare, servere",
+          "Imprimante și dispozitive de rețea",
+          "Licențe software și abonamente",
+          "Infrastructură completă de birou"
+        ],
+        "ctaText": "Solicitați o ofertă"
+      },
+      "hosting": {
+        "title": "Hosting & Soluții cloud",
+        "price": "De la 3.990 HUF/lună",
+        "description": "Hosting rapid, sigur și scalabil pentru companii.",
+        "features": [
+          "Web și e-mail hosting",
+          "Backup bazat pe cloud",
+          "Serviciu cloud privat",
+          "Disponibilitate continuă (99,9%)"
+        ],
+        "ctaText": "Solicitați o ofertă"
+      },
+      "crm": {
+        "title": "Dezvoltare CRM personalizat",
+        "price": "De la 390.000 HUF",
+        "description": "Sistem personalizat de gestionare a clienților care crește eficiența vânzărilor.",
+        "features": [
+          "Structură modulară, funcții personalizabile",
+          "Integrare cu sisteme existente (ERP, e-mail, site web)",
+          "Rapoarte și analize automate",
+          "Interfață prietenoasă"
+        ],
+        "ctaText": "Solicitați o ofertă"
+      }
+    },
+    "customQuote": {
+      "title": "Aveți nevoi unice?",
+      "description": "Prețurile sunt orientative; ofertele exacte se bazează întotdeauna pe cerințe.\nSolicitați o consultație gratuită și vă vom ajuta să găsiți cea mai bună soluție.",
+      "button": "Solicitați consultanță IT gratuită"
+    },
+    "whyChoose": {
+      "title": "De ce să alegeți SIRONIC?",
+      "description": "Dacă niciun pachet nu se potrivește perfect, vom crea o ofertă personalizată. Nu există două companii la fel – și nici două soluții.",
+      "reasons": [
+        {
+          "title": "Prețuri transparente",
+          "description": "Fără costuri ascunse"
+        },
+        {
+          "title": "Pachete flexibile",
+          "description": "Soluții lunare și unice"
+        },
+        {
+          "title": "Răspuns rapid",
+          "description": "Ajutăm imediat dacă este necesar"
+        },
+        {
+          "title": "Suport pe termen lung",
+          "description": "Tratăm clienții ca parteneri"
+        }
+      ],
+      "button": "Solicitați ofertă personalizată"
+    }
+  },
+  "mindenCegnekPage": {
+    "hero": {
+      "badge": "Suport IT lunar",
+      "title": "Fiecare companie merită un departament IT",
+      "subtitle": "Ca propriul specialist IT",
+      "description": "Un serviciu unde nu trebuie să angajați un specialist IT – în schimb, primiți o echipă completă care menține totul actualizat în fundal, monitorizează, întreține și intervine doar când este necesar.",
+      "cta": "Solicitați consultație",
+      "discount": "Valabil până la 1 feb. 2026: 10% reducere pentru primele 3 luni la solicitările de consultanță!",
+      "scroll": "Derulați în jos pentru mai multe informații"
+    },
+    "whatYouGet": {
+      "title": "Ce primiți exact?",
+      "subtitle": "O soluție IT completă care lucrează pentru dumneavoastră în fiecare zi – invizibil, dar eficient.",
+      "features": {
+        "internet": {
+          "title": "Acces continuu la internet și funcționare stabilă",
+          "description": "Asigurăm că rețeaua companiei dumneavoastră este întotdeauna disponibilă, stabilă și sigură – neobservat, în fundal."
+        },
+        "platform": {
+          "title": "Platformă unică pentru raportarea erorilor",
+          "description": "Primiți propria interfață unde puteți raporta ușor probleme sau cereri – răspundem imediat."
+        },
+        "monitoring": {
+          "title": "Monitorizare continuă și depanare",
+          "description": "Monitorizăm serverele, rețeaua și sistemele pentru a gestiona erorile înainte să le observați."
+        },
+        "cost": {
+          "title": "Structură de preț eficientă și transparentă",
+          "description": "Dincolo de taxa lunară fixă, plătiți doar pentru ceea ce necesită atenție – pe baza unei liste de prețuri convenite în prealabil."
+        },
+        "reporting": {
+          "title": "Sisteme actualizate, raport lunar",
+          "description": "Actualizăm și întreținem continuu sistemele și trimitem un raport la sfârșitul fiecărei luni despre performanță și starea sistemului."
+        }
+      }
+    },
+    "benefits": {
+      "title": "De ce este bine pentru dumneavoastră?",
+      "subtitle": "Suport IT eficient din punct de vedere al costurilor, transparent și fiabil – fără a întreține propriul departament IT.",
+      "items": [
+        "Nu este nevoie să angajați propriul personal IT – dar cineva vă urmărește sistemele",
+        "Taxă lunară fixă, costuri previzibile",
+        "Timp de răspuns rapid în caz de probleme",
+        "Întreținere și monitorizare proactivă",
+        "Suport personal, în limba maghiară",
+        "Rapoarte lunare despre starea sistemului",
+        "Soluție scalabilă – pe măsură ce compania crește, creștem și noi",
+        "Fără facturi surpriză – totul convenit în prealabil"
+      ]
+    },
+    "pricing": {
+      "title": "Cum funcționează prețurile?",
+      "subtitle": "Structură simplă și transparentă – taxă lunară fixă plus tarif orar convenit în prealabil dacă este necesar.",
+      "fixed": {
+        "title": "Taxă lunară fixă",
+        "price": "De la 39.000 HUF/lună",
+        "description": "Include monitorizare, întreținere de bază, raportare și suport."
+      },
+      "hourly": {
+        "title": "Plus tarif de muncă",
+        "price": "Tarif orar convenit în prealabil",
+        "description": "Plătiți doar dacă este necesară o intervenție sau dezvoltare reală."
+      },
+      "note": "Prețurile depind de durata contractului și tipurile de sarcini. Solicitați o ofertă personalizată!"
+    },
+    "finalCta": {
+      "title": "Nu aveți nevoie de propriul specialist IT, doar de un partener de încredere",
+      "description": "Oferim expertiza, răspunsul rapid și funcționarea stabilă – dumneavoastră vă puteți concentra pe afacere.",
+      "button": "Solicitați ofertă"
+    }
   }
 }

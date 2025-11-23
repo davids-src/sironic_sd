@@ -5,25 +5,28 @@ import Link from 'next/link';
 import { Menu, X } from 'lucide-react';
 import { Button } from './ui/button';
 import { ThemeToggle } from './ThemeToggle';
+import { LanguageSwitcher } from './LanguageSwitcher';
+import { useTranslation } from '@/hooks/useTranslation';
 
 export function Header() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
+  const { t, locale } = useTranslation();
 
   const navigation = [
-    { name: 'Főoldal', href: '/hu' },
-    { name: 'Szolgáltatások', href: '/hu/szolgaltatasok' },
-    { name: 'Termékeink', href: '/hu/termekeink' },
-    { name: 'Árak', href: '/hu/arak' },
-    { name: 'Rólunk', href: '/hu/rolunk' },
-    { name: 'Blog', href: '/blog' },
-    { name: 'Kapcsolat', href: '/hu/kapcsolat' },
+    { name: t('nav.home'), href: `/${locale}` },
+    { name: t('nav.services'), href: `/${locale}/szolgaltatasok` },
+    { name: t('nav.products'), href: `/${locale}/termekeink` },
+    { name: t('nav.pricing'), href: `/${locale}/arak` },
+    { name: t('nav.about'), href: `/${locale}/rolunk` },
+    { name: t('nav.blog'), href: `/${locale}/blog` },
+    { name: t('nav.contact'), href: `/${locale}/kapcsolat` },
   ];
 
   return (
     <header className="sticky top-0 z-50 w-full border-b bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60">
       <nav className="mx-auto flex max-w-7xl items-center justify-between p-4 lg:px-8" aria-label="Global">
         <div className="flex lg:flex-1">
-          <Link href="/hu" className="-m-1.5 p-1.5 flex items-center gap-2">
+          <Link href={`/${locale}`} className="-m-1.5 p-1.5 flex items-center gap-2">
             <img
               src="/logo_rgb.svg"
               alt="SIRONIC"
@@ -33,6 +36,7 @@ export function Header() {
           </Link>
         </div>
         <div className="flex lg:hidden gap-2">
+          <LanguageSwitcher />
           <ThemeToggle />
           <Button
             variant="ghost"
@@ -55,29 +59,30 @@ export function Header() {
           ))}
         </div>
         <div className="hidden lg:flex lg:flex-1 lg:justify-end lg:items-center lg:gap-4">
+          <LanguageSwitcher />
           <ThemeToggle />
           <Button asChild className="bg-brand-red hover:bg-brand-red/90">
-            <Link href="/hu/kapcsolat">Kérj ajánlatot</Link>
+            <Link href={`/${locale}/kapcsolat`}>{t('nav.ctaButton')}</Link>
           </Button>
         </div>
       </nav>
       {mobileMenuOpen && (
         <div className="lg:hidden border-t">
-          <div className="space-y-1 px-4 pb-3 pt-2">
+          <div className="space-y-1 px-4 pb-3 pt-2 flex flex-col items-center">
             {navigation.map((item) => (
               <Link
                 key={item.name}
                 href={item.href}
-                className="block rounded-lg px-3 py-2 text-base font-semibold leading-7 hover:bg-accent"
+                className="block rounded-lg px-3 py-2 text-base font-semibold leading-7 hover:bg-accent text-center w-full"
                 onClick={() => setMobileMenuOpen(false)}
               >
                 {item.name}
               </Link>
             ))}
-            <div className="pt-2">
+            <div className="pt-2 w-full max-w-xs">
               <Button asChild className="w-full bg-brand-red hover:bg-brand-red/90">
-                <Link href="/hu/kapcsolat" onClick={() => setMobileMenuOpen(false)}>
-                  Kérj ajánlatot
+                <Link href={`/${locale}/kapcsolat`} onClick={() => setMobileMenuOpen(false)}>
+                  {t('nav.ctaButton')}
                 </Link>
               </Button>
             </div>

@@ -1,68 +1,37 @@
 import { MetadataRoute } from 'next';
+import { locales } from '@/i18n';
+
+const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://sironic.hu';
+
+// Define the static routes of the application
+const routes = [
+  '',
+  'rolunk',
+  'szolgaltatasok',
+  'termekeink',
+  'kapcsolat',
+  'arak',
+  'minden-cegnek-legyen-informatikusa',
+  'blog',
+];
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = 'https://sironic.hu';
+  const allRoutes: MetadataRoute.Sitemap = [];
 
-  const blogPosts = [
-    'hogyan-vedd-meg-ceged-adatait',
-    'mikor-erdemes-it-karbantartasi-szerzodest-kotni',
-    '5-tipp-a-gyorsabb-es-biztonsagosabb-halozatert',
-  ];
+  routes.forEach((route) => {
+    locales.forEach((locale) => {
+      const url = route === ''
+        ? `${baseUrl}/${locale}`
+        : `${baseUrl}/${locale}/${route}`;
 
-  return [
-    {
-      url: baseUrl,
-      lastModified: new Date(),
-      changeFrequency: 'weekly',
-      priority: 1,
-    },
-    {
-      url: `${baseUrl}/szolgaltatasok`,
-      lastModified: new Date(),
-      changeFrequency: 'monthly',
-      priority: 0.9,
-    },
-    {
-      url: `${baseUrl}/fejleszteseink`,
-      lastModified: new Date(),
-      changeFrequency: 'monthly',
-      priority: 0.8,
-    },
-    {
-      url: `${baseUrl}/termekeink`,
-      lastModified: new Date(),
-      changeFrequency: 'monthly',
-      priority: 0.8,
-    },
-    {
-      url: `${baseUrl}/arak`,
-      lastModified: new Date(),
-      changeFrequency: 'monthly',
-      priority: 0.9,
-    },
-    {
-      url: `${baseUrl}/rolunk`,
-      lastModified: new Date(),
-      changeFrequency: 'monthly',
-      priority: 0.8,
-    },
-    {
-      url: `${baseUrl}/blog`,
-      lastModified: new Date(),
-      changeFrequency: 'weekly',
-      priority: 0.7,
-    },
-    {
-      url: `${baseUrl}/kapcsolat`,
-      lastModified: new Date(),
-      changeFrequency: 'monthly',
-      priority: 0.9,
-    },
-    ...blogPosts.map((slug) => ({
-      url: `${baseUrl}/blog/${slug}`,
-      lastModified: new Date(),
-      changeFrequency: 'monthly' as const,
-      priority: 0.6,
-    })),
-  ];
+      allRoutes.push({
+        url,
+        lastModified: new Date(),
+        changeFrequency: 'weekly',
+        priority: route === '' ? 1 : 0.8,
+      });
+    });
+  });
+
+  return allRoutes;
 }
