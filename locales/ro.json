@@ -364,14 +364,12 @@
     }
   },
   "pricingPage": {
-    "title": "Prețuri",
-    "subtitle": "Creăm oferte personalizate bazate pe nevoile afacerii dumneavoastră. Nu există două companii la fel – așa că ne adaptăm întotdeauna taxele la infrastructura și cerințele dumneavoastră.",
-    "heroTitle": "Prețuri transparente – Clare și simple",
-    "heroDescription": "Fără costuri ascunse. Am conceput serviciile noastre astfel încât fiecare companie să găsească soluția potrivită – fie că este vorba de întreținere, dezvoltare sau reparații.",
+    "title": "Prețuri și Pachete",
+    "subtitle": "Costuri transparente pentru suport IT profesional",
     "packages": {
       "mindenCegnek": {
         "title": "Fiecare companie merită un departament IT",
-        "price": "De la 39.000 HUF/lună",
+        "price": "de la 600 RON/lună",
         "description": "Operațiuni IT complete într-un abonament lunar – ca și cum ați avea propriul specialist IT.",
         "features": [
           "Monitorizare și întreținere continuă a sistemului",
@@ -385,7 +383,7 @@
       },
       "systemOperation": {
         "title": "Administrare sisteme & Întreținere IT",
-        "price": "De la 29.000 HUF/lună",
+        "price": "de la 500 RON/lună",
         "description": "Supraveghere continuă și funcționare neîntreruptă.",
         "features": [
           "Întreținere și monitorizare regulată",
@@ -397,7 +395,7 @@
       },
       "networking": {
         "title": "Construire și dezvoltare rețele",
-        "price": "De la 45.000 HUF / proiect",
+        "price": "de la 700 RON / proiect",
         "description": "Proiectare și implementare fiabilă și sigură a infrastructurii de rețea.",
         "features": [
           "Proiectare și instalare completă a rețelei",
@@ -409,7 +407,7 @@
       },
       "security": {
         "title": "Securitate IT & Protecția datelor",
-        "price": "De la 59.000 HUF",
+        "price": "de la 900 RON",
         "description": "Protejați-vă datele companiei cu soluții moderne.",
         "features": [
           "Configurare firewall și securitate rețea",
@@ -421,7 +419,7 @@
       },
       "development": {
         "title": "Dezvoltare website & sisteme",
-        "price": "De la 250.000 HUF (o singură dată)",
+        "price": "de la 4.000 RON (o singură dată)",
         "description": "Dezvoltări profesionale, personalizate pentru creșterea digitală a companiei dumneavoastră.",
         "features": [
           "Site-uri web și portaluri responsive",
@@ -445,10 +443,10 @@
       },
       "hosting": {
         "title": "Hosting & Soluții cloud",
-        "price": "De la 3.990 HUF/lună",
+        "price": "de la 60 RON/lună",
         "description": "Hosting rapid, sigur și scalabil pentru companii.",
         "features": [
-          "Web și e-mail hosting",
+          "Web- și e-mail hosting",
           "Backup bazat pe cloud",
           "Serviciu cloud privat",
           "Disponibilitate continuă (99,9%)"
@@ -457,7 +455,7 @@
       },
       "crm": {
         "title": "Dezvoltare CRM personalizat",
-        "price": "De la 390.000 HUF",
+        "price": "de la 6.000 RON",
         "description": "Sistem personalizat de gestionare a clienților care crește eficiența vânzărilor.",
         "features": [
           "Structură modulară, funcții personalizabile",
@@ -469,13 +467,13 @@
       }
     },
     "customQuote": {
-      "title": "Aveți nevoi unice?",
-      "description": "Prețurile sunt orientative; ofertele exacte se bazează întotdeauna pe cerințe.\nSolicitați o consultație gratuită și vă vom ajuta să găsiți cea mai bună soluție.",
-      "button": "Solicitați consultanță IT gratuită"
+      "title": "Ai cerințe speciale?",
+      "description": "Prețurile sunt orientative. Oferta exactă se bazează întotdeauna pe nevoile tale specifice.\nSolicită o consultanță gratuită și te vom ajuta să găsești cea mai bună soluție.",
+      "button": "Solicită consultanță IT gratuită"
     },
     "whyChoose": {
-      "title": "De ce să alegeți SIRONIC?",
-      "description": "Dacă niciun pachet nu se potrivește perfect, vom crea o ofertă personalizată. Nu există două companii la fel – și nici două soluții.",
+      "title": "De ce să alegi SIRONIC?",
+      "description": "Dacă niciun pachet nu se potrivește perfect, creăm o ofertă personalizată. Nu există două companii la fel – nici două soluții la fel.",
       "reasons": [
         {
           "title": "Prețuri transparente",
@@ -483,89 +481,89 @@
         },
         {
           "title": "Pachete flexibile",
-          "description": "Soluții lunare și unice"
+          "description": "Soluții lunare și pe proiect"
         },
         {
-          "title": "Răspuns rapid",
-          "description": "Ajutăm imediat dacă este necesar"
+          "title": "Reacție rapidă",
+          "description": "Ajutăm imediat când este nevoie"
         },
         {
-          "title": "Suport pe termen lung",
-          "description": "Tratăm clienții ca parteneri"
+          "title": "Parteneriat pe termen lung",
+          "description": "Ne tratăm clienții ca parteneri"
         }
       ],
-      "button": "Solicitați ofertă personalizată"
+      "button": "Solicită ofertă personalizată"
     }
   },
   "mindenCegnekPage": {
     "hero": {
       "badge": "Suport IT lunar",
-      "title": "Fiecare companie merită un departament IT",
-      "subtitle": "Ca propriul specialist IT",
-      "description": "Un serviciu unde nu trebuie să angajați un specialist IT – în schimb, primiți o echipă completă care menține totul actualizat în fundal, monitorizează, întreține și intervine doar când este necesar.",
-      "cta": "Solicitați consultație",
-      "discount": "Valabil până la 1 feb. 2026: 10% reducere pentru primele 3 luni la solicitările de consultanță!",
-      "scroll": "Derulați în jos pentru mai multe informații"
+      "title": "Fiecare companie are nevoie de un expert IT",
+      "subtitle": "Ca și cum ai avea propriul angajat IT",
+      "description": "Un serviciu prin care nu trebuie să angajezi un informatician – ci primești o echipă întreagă care menține totul actualizat în fundal, monitorizează, întreține și intervine doar când este necesar.",
+      "cta": "Solicită discuție preliminară",
+      "discount": "Valabil până la 1 februarie 2026: 10% reducere la primele 3 taxe lunare pentru toți partenerii care solicită o discuție preliminară!",
+      "scroll": "Derulează pentru mai multe informații"
     },
     "whatYouGet": {
-      "title": "Ce primiți exact?",
-      "subtitle": "O soluție IT completă care lucrează pentru dumneavoastră în fiecare zi – invizibil, dar eficient.",
+      "title": "Ce primești exact?",
+      "subtitle": "O soluție IT completă care lucrează pentru tine în fiecare zi – invizibil, dar eficient.",
       "features": {
         "internet": {
-          "title": "Acces continuu la internet și funcționare stabilă",
-          "description": "Asigurăm că rețeaua companiei dumneavoastră este întotdeauna disponibilă, stabilă și sigură – neobservat, în fundal."
+          "title": "Internet continuu și funcționare stabilă",
+          "description": "Ne asigurăm că rețeaua companiei tale este mereu disponibilă, stabilă și sigură – neobservat, în fundal."
         },
         "platform": {
           "title": "Platformă unică pentru raportarea erorilor",
-          "description": "Primiți propria interfață unde puteți raporta ușor probleme sau cereri – răspundem imediat."
+          "description": "Primești propriul acces pentru a raporta simplu probleme sau cerințe – reacționăm imediat."
         },
         "monitoring": {
-          "title": "Monitorizare continuă și depanare",
-          "description": "Monitorizăm serverele, rețeaua și sistemele pentru a gestiona erorile înainte să le observați."
+          "title": "Monitorizare continuă și remediere",
+          "description": "Monitorizăm serverele, rețelele și sistemele pentru a remedia erorile înainte să le observi."
         },
         "cost": {
           "title": "Structură de preț eficientă și transparentă",
-          "description": "Dincolo de taxa lunară fixă, plătiți doar pentru ceea ce necesită atenție – pe baza unei liste de prețuri convenite în prealabil."
+          "description": "Pe lângă taxa lunară fixă, plătești doar pentru ce necesită efectiv atenție – pe baza unei liste de prețuri convenite în prealabil."
         },
         "reporting": {
           "title": "Sisteme actualizate, raport lunar",
-          "description": "Actualizăm și întreținem continuu sistemele și trimitem un raport la sfârșitul fiecărei luni despre performanță și starea sistemului."
+          "description": "Menținem sistemele constant actualizate și trimitem la sfârșitul lunii un raport despre performanță și starea sistemului."
         }
       }
     },
     "benefits": {
-      "title": "De ce este bine pentru dumneavoastră?",
-      "subtitle": "Suport IT eficient din punct de vedere al costurilor, transparent și fiabil – fără a întreține propriul departament IT.",
+      "title": "De ce merită pentru tine?",
+      "subtitle": "Suport IT eficient, transparent și fiabil – fără a fi nevoie să menții propriul departament IT.",
       "items": [
-        "Nu este nevoie să angajați propriul personal IT – dar cineva vă urmărește sistemele",
+        "Nu trebuie să angajezi propriul IT-ist – dar cineva are grijă de sistemele tale",
         "Taxă lunară fixă, costuri previzibile",
-        "Timp de răspuns rapid în caz de probleme",
-        "Întreținere și monitorizare proactivă",
-        "Suport personal, în limba maghiară",
+        "Timp de reacție rapid la probleme",
+        "Mentenanță proactivă și monitorizare",
+        "Suport personal",
         "Rapoarte lunare despre starea sistemului",
-        "Soluție scalabilă – pe măsură ce compania crește, creștem și noi",
+        "Soluție scalabilă – creștem odată cu compania ta",
         "Fără facturi surpriză – totul convenit în prealabil"
       ]
     },
     "pricing": {
       "title": "Cum funcționează prețurile?",
-      "subtitle": "Structură simplă și transparentă – taxă lunară fixă plus tarif orar convenit în prealabil dacă este necesar.",
+      "subtitle": "Construcție simplă și transparentă – taxă lunară fixă plus tarif orar convenit în prealabil la nevoie.",
       "fixed": {
         "title": "Taxă lunară fixă",
-        "price": "De la 39.000 HUF/lună",
-        "description": "Include monitorizare, întreținere de bază, raportare și suport."
+        "price": "de la 600 RON/lună",
+        "description": "Include monitorizare, mentenanță de bază, rapoarte și suport."
       },
       "hourly": {
-        "title": "Plus tarif de muncă",
+        "title": "Costuri suplimentare de muncă",
         "price": "Tarif orar convenit în prealabil",
-        "description": "Plătiți doar dacă este necesară o intervenție sau dezvoltare reală."
+        "description": "Plătești doar dacă este necesară o intervenție sau o dezvoltare reală."
       },
-      "note": "Prețurile depind de durata contractului și tipurile de sarcini. Solicitați o ofertă personalizată!"
+      "note": "Prețurile depind de durata contractului și tipul sarcinilor. Solicită o ofertă personalizată!"
     },
     "finalCta": {
-      "title": "Nu aveți nevoie de propriul specialist IT, doar de un partener de încredere",
-      "description": "Oferim expertiza, răspunsul rapid și funcționarea stabilă – dumneavoastră vă puteți concentra pe afacere.",
-      "button": "Solicitați ofertă"
+      "title": "Nu ai nevoie de propriul IT-ist, doar de un partener de încredere",
+      "description": "Noi oferim expertiza, reacția rapidă și funcționarea stabilă – tu te poți concentra pe afacerea ta.",
+      "button": "Solicită ofertă"
     }
   }
 }

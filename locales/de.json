@@ -364,29 +364,29 @@
     }
   },
   "pricingPage": {
-    "title": "Preise",
-    "subtitle": "Wir erstellen individuelle Angebote basierend auf Ihren Geschäftsanforderungen. Kein Unternehmen gleicht dem anderen – deshalb passen wir unsere Gebühren immer an Ihre Infrastruktur und Anforderungen an.",
+    "title": "Preise & Pakete",
+    "subtitle": "Transparente Kosten für professionelle IT-Betreuung",
     "heroTitle": "Transparente Preise – Klar und Einfach",
     "heroDescription": "Keine versteckten Kosten. Wir haben unsere Dienstleistungen so konzipiert, dass jedes Unternehmen die richtige Lösung findet – sei es Wartung, Entwicklung oder Reparatur.",
     "packages": {
       "mindenCegnek": {
         "title": "Jedes Unternehmen verdient eine IT-Abteilung",
-        "price": "Ab 39.000 HUF/Monat",
-        "description": "Vollständiger IT-Betrieb im monatlichen Abonnement – wie ein eigener IT-Spezialist.",
+        "price": "ab 150 €/Monat",
+        "description": "Vollständiger IT-Betrieb im monatlichen Abonnement – als hätten Sie Ihren eigenen IT-Spezialisten.",
         "features": [
           "Kontinuierliche Systemüberwachung und Wartung",
           "Schnelles Eingreifen bei Fehlern",
           "Beratung zur Infrastrukturentwicklung",
           "Backup- und Update-Management",
-          "Persönlicher, ungarischsprachiger IT-Support"
+          "Persönlicher IT-Support"
         ],
         "badge": "🎁 Gültig bis 1. Feb. 2026: 10% Rabatt auf die ersten 3 Monate bei Beratungsanfragen!",
         "ctaText": "Beratung anfordern"
       },
       "systemOperation": {
         "title": "Systembetrieb & IT-Wartung",
-        "price": "Ab 29.000 HUF/Monat",
-        "description": "Kontinuierliche Überwachung und unterbrechungsfreier Betrieb.",
+        "price": "ab 120 €/Monat",
+        "description": "Kontinuierliche Überwachung und störungsfreier Betrieb.",
         "features": [
           "Regelmäßige Wartung und Überwachung",
           "Schnelle Fehlerbehebung und Wiederherstellung",
@@ -396,21 +396,21 @@
         "ctaText": "Angebot anfordern"
       },
       "networking": {
-        "title": "Netzwerkaufbau & -entwicklung",
-        "price": "Ab 45.000 HUF / Projekt",
+        "title": "Netzwerkaufbau & Entwicklung",
+        "price": "ab 180 € / Projekt",
         "description": "Zuverlässige, sichere Planung und Implementierung von Netzwerkinfrastrukturen.",
         "features": [
-          "Komplette Netzwerkplanung und -installation",
-          "Router-, Switch-, WLAN-Konfiguration",
-          "Netzwerkoptimierung und -wartung",
+          "Komplette Netzwerkplanung und Installation",
+          "Router, Switch, WLAN-Konfiguration",
+          "Netzwerkoptimierung und Wartung",
           "Schnelle, stabile und sichere Datenverbindung"
         ],
         "ctaText": "Angebot anfordern"
       },
       "security": {
         "title": "IT-Sicherheit & Datenschutz",
-        "price": "Ab 59.000 HUF",
-        "description": "Schützen Sie Ihre Geschäftsdaten mit modernen Lösungen.",
+        "price": "ab 240 €",
+        "description": "Schützen Sie Ihre Unternehmensdaten mit modernen Lösungen.",
         "features": [
           "Firewall-Einrichtung und Netzwerksicherheit",
           "Backup und Wiederherstellung",
@@ -420,20 +420,20 @@
         "ctaText": "Angebot anfordern"
       },
       "development": {
-        "title": "Website- & Systementwicklung",
-        "price": "Ab 250.000 HUF (einmalig)",
+        "title": "Webseiten- & Systementwicklung",
+        "price": "ab 1.000 € (einmalig)",
         "description": "Professionelle, individuelle Entwicklungen für das digitale Wachstum Ihres Unternehmens.",
         "features": [
-          "Responsive Websites und Portale",
+          "Responsive Webseiten und Portale",
           "Individuelle Softwarelösungen",
           "SEO- und UX-Optimierung",
-          "Kontinuierliche Unterstützung und Wartung"
+          "Laufender Support und Wartung"
         ],
         "ctaText": "Angebot anfordern"
       },
       "commerce": {
         "title": "Handel – IT-Geräte & Software",
-        "price": "Basierend auf individuellem Angebot",
+        "price": "Auf Anfrage",
         "description": "Alles, was für den modernen Bürobetrieb benötigt wird.",
         "features": [
           "Computer, Monitore, Server",
@@ -445,7 +445,7 @@
       },
       "hosting": {
         "title": "Hosting & Cloud-Lösungen",
-        "price": "Ab 3.990 HUF/Monat",
+        "price": "ab 15 €/Monat",
         "description": "Schnelles, sicheres und skalierbares Hosting für Unternehmen.",
         "features": [
           "Web- und E-Mail-Hosting",
@@ -457,11 +457,11 @@
       },
       "crm": {
         "title": "Individuelle CRM-Entwicklung",
-        "price": "Ab 390.000 HUF",
-        "description": "Personalisiertes Kundenmanagementsystem, das die Vertriebseffizienz steigert.",
+        "price": "ab 1.500 €",
+        "description": "Personalisiertes Kundenmanagementsystem zur Steigerung der Vertriebseffizienz.",
         "features": [
-          "Modulare Struktur, anpassbare Funktionen",
-          "Integration mit bestehenden Systemen (ERP, E-Mail, Website)",
+          "Modularer Aufbau, anpassbare Funktionen",
+          "Integration in bestehende Systeme (ERP, E-Mail, Webseite)",
           "Automatisierte Berichte und Analysen",
           "Benutzerfreundliche Oberfläche"
         ],
@@ -470,12 +470,12 @@
     },
     "customQuote": {
       "title": "Haben Sie spezielle Anforderungen?",
-      "description": "Preise sind Richtwerte; genaue Angebote basieren immer auf Anforderungen.\nFordern Sie eine kostenlose Beratung an, und wir helfen Ihnen, die beste Lösung zu finden.",
+      "description": "Die Preise sind Richtwerte. Das genaue Angebot basiert immer auf Ihren spezifischen Bedürfnissen.\nFordern Sie eine kostenlose Beratung an, und wir finden die beste Lösung für Sie.",
       "button": "Kostenlose IT-Beratung anfordern"
     },
     "whyChoose": {
       "title": "Warum SIRONIC wählen?",
-      "description": "Wenn kein Paket perfekt passt, erstellen wir ein individuelles Angebot. Kein Unternehmen gleicht dem anderen – und auch keine zwei Lösungen.",
+      "description": "Wenn keines der Pakete perfekt passt, erstellen wir ein individuelles Angebot. Keine zwei Unternehmen sind gleich – keine zwei Lösungen sind gleich.",
       "reasons": [
         {
           "title": "Transparente Preise",
@@ -483,15 +483,15 @@
         },
         {
           "title": "Flexible Pakete",
-          "description": "Monatliche und einmalige Lösungen"
+          "description": "Monatliche und projektbezogene Lösungen"
         },
         {
           "title": "Schnelle Reaktion",
           "description": "Wir helfen sofort, wenn nötig"
         },
         {
-          "title": "Langfristige Unterstützung",
-          "description": "Wir behandeln Kunden als Partner"
+          "title": "Langfristige Partnerschaft",
+          "description": "Wir behandeln unsere Kunden als Partner"
         }
       ],
       "button": "Individuelles Angebot anfordern"
@@ -500,71 +500,71 @@
   "mindenCegnekPage": {
     "hero": {
       "badge": "Monatlicher IT-Support",
-      "title": "Jedes Unternehmen verdient eine IT-Abteilung",
-      "subtitle": "Wie ein eigener IT-Spezialist",
-      "description": "Ein Service, bei dem Sie keinen IT-Spezialisten einstellen müssen – stattdessen erhalten Sie ein komplettes Team, das im Hintergrund alles auf dem neuesten Stand hält, überwacht, wartet und nur eingreift, wenn es nötig ist.",
-      "cta": "Beratung anfordern",
-      "discount": "Gültig bis 1. Feb. 2026: 10% Rabatt auf die ersten 3 Monate bei Beratungsanfragen!",
-      "scroll": "Scrollen Sie nach unten für mehr Infos"
+      "title": "Jedes Unternehmen braucht einen IT-Experten",
+      "subtitle": "Als hätten Sie Ihren eigenen IT-Mitarbeiter",
+      "description": "Ein Service, bei dem Sie keinen Informatiker einstellen müssen – sondern ein ganzes Team erhalten, das im Hintergrund alles aktuell hält, überwacht, wartet und nur eingreift, wenn es nötig ist.",
+      "cta": "Vorgespräch vereinbaren",
+      "discount": "Gültig bis 1. Februar 2026: 10% Rabatt auf die ersten 3 Monatsgebühren für alle Partner, die ein Vorgespräch anfordern!",
+      "scroll": "Scrollen Sie für weitere Informationen"
     },
     "whatYouGet": {
-      "title": "Was genau erhalten Sie?",
+      "title": "Was bekommen Sie genau?",
       "subtitle": "Eine umfassende IT-Lösung, die jeden Tag für Sie arbeitet – unsichtbar, aber effektiv.",
       "features": {
         "internet": {
-          "title": "Kontinuierlicher Internetzugang und stabiler Betrieb",
+          "title": "Stabiles Internet und Netzwerk",
           "description": "Wir sorgen dafür, dass Ihr Firmennetzwerk immer verfügbar, stabil und sicher ist – unbemerkt im Hintergrund."
         },
         "platform": {
-          "title": "Einzigartige Plattform für Fehlermeldungen",
-          "description": "Sie erhalten eine eigene Oberfläche, auf der Sie Probleme oder Anfragen einfach melden können – wir reagieren sofort."
+          "title": "Eigene Plattform für Fehlermeldungen",
+          "description": "Sie erhalten einen eigenen Zugang, um Probleme oder Wünsche einfach zu melden – wir reagieren sofort."
         },
         "monitoring": {
-          "title": "Kontinuierliche Überwachung und Fehlerbehebung",
-          "description": "Wir überwachen Server, Netzwerke und Systeme, um Fehler zu beheben, bevor Sie sie überhaupt bemerken."
+          "title": "Kontinuierliche Überwachung",
+          "description": "Wir überwachen Server, Netzwerke und Systeme, um Fehler zu beheben, bevor Sie sie bemerken."
         },
         "cost": {
-          "title": "Kosteneffiziente, transparente Preisstruktur",
-          "description": "Über die feste monatliche Gebühr hinaus zahlen Sie nur für das, was tatsächlich Aufmerksamkeit erfordert – basierend auf einer vorab vereinbarten Preisliste."
+          "title": "Kosteneffiziente, transparente Struktur",
+          "description": "Neben der fixen Monatspauschale zahlen Sie nur für das, was tatsächlich bearbeitet werden muss – basierend auf einer vorab vereinbarten Preisliste."
         },
         "reporting": {
           "title": "Aktuelle Systeme, monatlicher Bericht",
-          "description": "Wir aktualisieren und warten Systeme kontinuierlich und senden am Ende jedes Monats einen Bericht über Leistung und Systemstatus."
+          "description": "Wir halten die Systeme ständig aktuell und senden am Monatsende einen Bericht über die Leistung und den Systemstatus."
         }
       }
     },
     "benefits": {
-      "title": "Warum ist das gut für Sie?",
-      "subtitle": "Kosteneffiziente, transparente und zuverlässige IT-Unterstützung – ohne eigene IT-Abteilung unterhalten zu müssen.",
+      "title": "Warum lohnt sich das für Sie?",
+      "subtitle": "Kosteneffizienter, transparenter und zuverlässiger IT-Support – ohne eigene IT-Abteilung.",
       "items": [
-        "Keine Notwendigkeit, eigenes IT-Personal einzustellen – aber jemand überwacht Ihre Systeme",
-        "Feste monatliche Gebühr, vorhersehbare Kosten",
+        "Kein eigener IT-Mitarbeiter nötig – aber jemand achtet auf Ihre Systeme",
+        "Fixe Monatspauschale, kalkulierbare Kosten",
         "Schnelle Reaktionszeit bei Problemen",
         "Proaktive Wartung und Überwachung",
-        "Ungarischsprachiger, persönlicher Support",
+        "Persönlicher Support",
         "Monatliche Berichte über den Systemstatus",
-        "Skalierbare Lösung – wenn Ihr Unternehmen wächst, wachsen wir mit",
+        "Skalierbare Lösung – wir wachsen mit Ihrem Unternehmen",
         "Keine Überraschungsrechnungen – alles vorab vereinbart"
       ]
     },
     "pricing": {
       "title": "Wie funktioniert die Preisgestaltung?",
-      "subtitle": "Einfache und transparente Struktur – feste monatliche Gebühr plus vorab vereinbarter Stundensatz bei Bedarf.",
+      "subtitle": "Einfache und transparente Konstruktion – fixe Monatspauschale plus vorab vereinbarter Stundensatz bei Bedarf.",
       "fixed": {
-        "title": "Feste monatliche Gebühr",
-        "price": "Ab 39.000 HUF/Monat",
-        "description": "Beinhaltet Überwachung, grundlegende Wartung, Berichterstattung und Support."
+        "title": "Fixe Monatspauschale",
+        "price": "ab 150 €/Monat",
+        "description": "Beinhaltet Überwachung, Basiswartung, Berichte und Support."
       },
       "hourly": {
-        "title": "Zuzüglich Arbeitsgebühr",
+        "title": "Zusätzliche Arbeitskosten",
         "price": "Vorab vereinbarter Stundensatz",
         "description": "Sie zahlen nur, wenn tatsächlich ein Eingriff oder eine Entwicklung erforderlich ist."
       },
-      "note": "Die Preisgestaltung hängt von der Vertragsdauer und den Aufgabentypen ab. Fordern Sie ein individuelles Angebot an!"
+      "note": "Die Preisgestaltung hängt von der Vertragslaufzeit und der Art der Aufgaben ab. Fordern Sie ein individuelles Angebot an!"
     },
     "finalCta": {
-      "title": "Sie brauchen keinen eigenen IT-Spezialisten, nur einen zuverlässigen Partner",
-      "description": "Wir bieten das Fachwissen, die schnelle Reaktion und den stabilen Betrieb – Sie können sich auf Ihr Unternehmen konzentrieren.",
+      "title": "Kein eigener IT-ler nötig, nur ein zuverlässiger Partner",
+      "description": "Wir bieten Fachwissen, schnelle Reaktion und stabilen Betrieb – damit Sie sich auf Ihr Geschäft konzentrieren können.",
       "button": "Angebot anfordern"
     }
   }

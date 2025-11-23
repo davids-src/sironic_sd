@@ -371,7 +371,7 @@
     "packages": {
       "mindenCegnek": {
         "title": "Every Company Deserves an IT Department",
-        "price": "From 39,000 HUF/month",
+        "price": "from 150 €/month",
         "description": "Full IT operations in a monthly subscription – like having your own IT specialist.",
         "features": [
           "Continuous system monitoring and maintenance",
@@ -385,7 +385,7 @@
       },
       "systemOperation": {
         "title": "System Operations & IT Maintenance",
-        "price": "From 29,000 HUF/month",
+        "price": "from 120 €/month",
         "description": "Continuous supervision and uninterrupted operation.",
         "features": [
           "Regular maintenance and monitoring",
@@ -397,7 +397,7 @@
       },
       "networking": {
         "title": "Network Building & Development",
-        "price": "From 45,000 HUF / project",
+        "price": "from 180 € / project",
         "description": "Reliable, secure network infrastructure design and implementation.",
         "features": [
           "Complete network design and installation",
@@ -409,7 +409,7 @@
       },
       "security": {
         "title": "IT Security & Data Protection",
-        "price": "From 59,000 HUF",
+        "price": "from 240 €",
         "description": "Protect your business data with modern solutions.",
         "features": [
           "Firewall setup and network security",
@@ -421,7 +421,7 @@
       },
       "development": {
         "title": "Website & System Development",
-        "price": "From 250,000 HUF (one-time)",
+        "price": "from 1,000 € (one-time)",
         "description": "Professional, custom developments for your company's digital growth.",
         "features": [
           "Responsive websites and portals",
@@ -445,7 +445,7 @@
       },
       "hosting": {
         "title": "Hosting & Cloud Solutions",
-        "price": "From 3,990 HUF/month",
+        "price": "from 15 €/month",
         "description": "Fast, secure, and scalable hosting for companies.",
         "features": [
           "Web and email hosting",
@@ -457,7 +457,7 @@
       },
       "crm": {
         "title": "Custom CRM Development",
-        "price": "From 390,000 HUF",
+        "price": "from 1,500 €",
         "description": "Personalized customer management system that increases sales efficiency.",
         "features": [
           "Modular structure, customizable functions",
@@ -552,7 +552,7 @@
       "subtitle": "Simple and transparent structure – fixed monthly fee plus pre-agreed hourly rate if needed.",
       "fixed": {
         "title": "Fixed monthly fee",
-        "price": "From 39,000 HUF/month",
+        "price": "from 150 €/month",
         "description": "Includes monitoring, basic maintenance, reporting, and support."
       },
       "hourly": {

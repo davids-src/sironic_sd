@@ -371,21 +371,21 @@
     "packages": {
       "mindenCegnek": {
         "title": "Každá firma si zaslúži IT oddelenie",
-        "price": "Od 39 000 HUF/mesiac",
+        "price": "od 120 €/mesiac",
         "description": "Kompletná IT prevádzka v mesačnom predplatnom – ako keby ste mali vlastného IT špecialistu.",
         "features": [
           "Nepretržité monitorovanie a údržba systému",
           "Rýchly zásah v prípade chyby",
           "Poradenstvo v oblasti rozvoja infraštruktúry",
           "Správa záloh a aktualizácií",
-          "Osobná IT podpora v maďarskom jazyku"
+          "Osobná IT podpora"
         ],
         "badge": "🎁 Platné do 1. februára 2026: 10% zľava na prvé 3 mesiace pri žiadosti o konzultáciu!",
         "ctaText": "Požiadať o konzultáciu"
       },
       "systemOperation": {
-        "title": "Správa systémov & IT údržba",
-        "price": "Od 29 000 HUF/mesiac",
+        "title": "Správa systémov a IT údržba",
+        "price": "od 120 €/mesiac",
         "description": "Nepretržitý dohľad a bezproblémová prevádzka.",
         "features": [
           "Pravidelná údržba a monitorovanie",
@@ -393,79 +393,79 @@
           "Dohľad nad servermi a sieťou",
           "Proaktívna prevádzka a bezpečnostné aktualizácie"
         ],
-        "ctaText": "Požiadať o ponuku"
+        "ctaText": "Požiadať o cenovú ponuku"
       },
       "networking": {
-        "title": "Budovanie a vývoj sietí",
-        "price": "Od 45 000 HUF / projekt",
+        "title": "Budovanie a rozvoj sietí",
+        "price": "od 180 € / projekt",
         "description": "Spoľahlivý, bezpečný návrh a implementácia sieťovej infraštruktúry.",
         "features": [
           "Kompletný návrh a inštalácia siete",
-          "Konfigurácia routera, switchu, Wi-Fi",
+          "Konfigurácia routerov, switchov, Wi-Fi",
           "Optimalizácia a údržba siete",
           "Rýchle, stabilné a bezpečné dátové pripojenie"
         ],
-        "ctaText": "Požiadať o ponuku"
+        "ctaText": "Požiadať o cenovú ponuku"
       },
       "security": {
-        "title": "IT bezpečnosť & ochrana údajov",
-        "price": "Od 59 000 HUF",
-        "description": "Chráňte údaje svojej firmy pomocou moderných riešení.",
+        "title": "IT bezpečnosť a ochrana údajov",
+        "price": "od 240 €",
+        "description": "Chráňte svoje firemné údaje modernými riešeniami.",
         "features": [
           "Nastavenie firewallu a bezpečnosť siete",
           "Zálohovanie a obnova",
           "Správa prístupov, šifrovanie",
           "Ochrana údajov v súlade s GDPR"
         ],
-        "ctaText": "Požiadať o ponuku"
+        "ctaText": "Požiadať o cenovú ponuku"
       },
       "development": {
-        "title": "Vývoj webových stránok & systémov",
-        "price": "Od 250 000 HUF (jednorazovo)",
-        "description": "Profesionálny, individuálny vývoj pre digitálny rast Vašej firmy.",
+        "title": "Vývoj webových stránok a systémov",
+        "price": "od 1.000 € (jednorazovo)",
+        "description": "Profesionálny vývoj na mieru pre digitálny rast vašej firmy.",
         "features": [
           "Responzívne webové stránky a portály",
           "Softvérové riešenia na mieru",
           "SEO a UX optimalizácia",
-          "Neustála podpora a údržba"
+          "Nepretržitá podpora a údržba"
         ],
-        "ctaText": "Požiadať o ponuku"
+        "ctaText": "Požiadať o cenovú ponuku"
       },
       "commerce": {
-        "title": "Obchod – IT zariadenia & softvér",
-        "price": "Na základe individuálnej ponuky",
-        "description": "Všetko potrebné pre modernú prevádzku kancelárie.",
+        "title": "Obchod – IT vybavenie a softvér",
+        "price": "Na základe ponuky",
+        "description": "Všetko, čo je potrebné pre modernú kancelársku prevádzku.",
         "features": [
           "Počítače, monitory, servery",
           "Tlačiarne a sieťové zariadenia",
           "Softvérové licencie a predplatné",
           "Kompletná kancelárska infraštruktúra"
         ],
-        "ctaText": "Požiadať o ponuku"
+        "ctaText": "Požiadať o cenovú ponuku"
       },
       "hosting": {
-        "title": "Hosting & cloudové riešenia",
-        "price": "Od 3 990 HUF/mesiac",
+        "title": "Hosting a cloudové riešenia",
+        "price": "od 15 €/mesiac",
         "description": "Rýchly, bezpečný a škálovateľný hosting pre firmy.",
         "features": [
           "Web a e-mail hosting",
           "Cloudové zálohovanie",
-          "Služba privátneho cloudu",
+          "Súkromná cloudová služba",
           "Nepretržitá dostupnosť (99,9%)"
         ],
-        "ctaText": "Požiadať o ponuku"
+        "ctaText": "Požiadať o cenovú ponuku"
       },
       "crm": {
         "title": "Vývoj CRM na mieru",
-        "price": "Od 390 000 HUF",
+        "price": "od 1.500 €",
         "description": "Personalizovaný systém riadenia zákazníkov, ktorý zvyšuje efektivitu predaja.",
         "features": [
           "Modulárna štruktúra, prispôsobiteľné funkcie",
-          "Integrácia s existujúcimi systémami (ERP, e-mail, webstránka)",
-          "Automatizované reporty a analytika",
+          "Integrácia s existujúcimi systémami (ERP, e-mail, web)",
+          "Automatizované reporty a analýzy",
           "Užívateľsky prívetivé rozhranie"
         ],
-        "ctaText": "Požiadať o ponuku"
+        "ctaText": "Požiadať o cenovú ponuku"
       }
     },
     "customQuote": {
@@ -549,23 +549,23 @@
     },
     "pricing": {
       "title": "Ako funguje cenotvorba?",
-      "subtitle": "Jednoduchá a transparentná štruktúra – fixný mesačný poplatok plus vopred dohodnutá hodinová sadzba v prípade potreby.",
+      "subtitle": "Jednoduchá a transparentná konštrukcia – fixný mesačný poplatok plus vopred dohodnutá hodinová sadzba v prípade potreby.",
       "fixed": {
         "title": "Fixný mesačný poplatok",
-        "price": "Od 39 000 HUF/mesiac",
-        "description": "Zahŕňa monitorovanie, základnú údržbu, reporting a podporu."
+        "price": "od 120 €/mesiac",
+        "description": "Zahŕňa monitoring, základnú údržbu, reporty a podporu."
       },
       "hourly": {
-        "title": "Plus pracovný poplatok",
-        "price": "Vopred dohodnutá hodinová sadzba",
-        "description": "Platíte len vtedy, ak je potrebný skutočný zásah alebo vývoj."
+        "title": "Dodatočné práce",
+        "price": "Vopred dohodnutá sadzba",
+        "description": "Platíte len vtedy, ak je skutočne potrebný zásah alebo vývoj."
       },
-      "note": "Cenotvorba závisí od dĺžky zmluvy a typov úloh. Požiadajte o individuálnu ponuku!"
+      "note": "Cenotvorba závisí od dĺžky zmluvy a typu úloh. Vyžiadajte si individuálnu ponuku!"
     },
     "finalCta": {
-      "title": "Nepotrebujete vlastného IT špecialistu, len spoľahlivého partnera",
-      "description": "Poskytujeme odbornosť, rýchlu reakciu a stabilnú prevádzku – Vy sa môžete sústrediť na svoju firmu.",
-      "button": "Požiadať o ponuku"
+      "title": "Nepotrebujete vlastného IT-čkara, len spoľahlivého partnera",
+      "description": "My zabezpečíme odbornosť, rýchlu reakciu a stabilnú prevádzku – vy sa môžete sústrediť na svoje podnikanie.",
+      "button": "Vyžiadať ponuku"
     }
   }
 }
