@@ -6,6 +6,7 @@ import { Testimonial } from '@/components/Testimonial';
 import { FaqSection } from '@/components/FaqSection';
 import { MindenCegnekSection } from '@/components/MindenCegnekSection';
 import { CustomDevelopmentSection } from '@/components/CustomDevelopmentSection';
+import { ItTrainingSection } from '@/components/ItTrainingSection';
 import { Button } from '@/components/ui/button';
 import { Server, Network, Shield, Code, CheckCircle, ShoppingCart, Cloud, Wrench, ArrowRight } from 'lucide-react';
 import Link from 'next/link';
@@ -95,6 +96,8 @@ export default function HomePage() {
       </section>
 
       <CustomDevelopmentSection />
+
+      <ItTrainingSection />
 
       <MindenCegnekSection />
 

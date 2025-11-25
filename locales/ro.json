@@ -758,5 +758,245 @@
       "description": "Haideți să discutăm nevoile dumneavoastră și să creăm împreună o aplicație care crește cu adevărat eficiența afacerii dumneavoastră.",
       "button": "Solicitați o consultație gratuită"
     }
+  },
+  "itTraining": {
+    "badge": "Educație și formare IT",
+    "title": "Educație IT și dezvoltarea competențelor digitale corporative",
+    "subtitle": "Dezvoltați competențele digitale ale echipei dumneavoastră",
+    "description": "Oferim training IT personalizat, programe de conștientizare a securității și dezvoltarea cunoștințelor la nivel de sistem pentru ca angajații să poată utiliza cu încredere instrumentele și software-ul modern. Operațiunile sigure încep cu informarea.",
+    "cards": {
+      "personalized": {
+        "title": "Training IT personalizat",
+        "description": "Programe de formare personalizate pentru a dezvolta cunoștințele digitale ale echipei dumneavoastră. Abilități practice care pot fi aplicate imediat în munca zilnică."
+      },
+      "security": {
+        "title": "Training de conștientizare a securității",
+        "description": "Fundamentele securității cibernetice și formarea în protecția datelor. Învățați echipa cum să protejeze datele și sistemele companiei dumneavoastră."
+      },
+      "software": {
+        "title": "Cursuri de utilizare software și hardware",
+        "description": "Utilizarea eficientă a Microsoft 365, Google Workspace și instrumentelor de birou. Creșteți productivitatea prin stăpânirea instrumentelor potrivite."
+      },
+      "corporate": {
+        "title": "Programe de dezvoltare a cunoștințelor corporative",
+        "description": "Dezvoltarea pe termen lung a competențelor digitale. Programe de formare continuă care țin pasul cu schimbările tehnologice."
+      }
+    },
+    "languageNote": "Sesiunile de formare sunt disponibile în prezent numai în limba maghiară, atât online, cât și la fața locului.",
+    "cta": {
+      "main": "Solicitați ofertă pentru training",
+      "learnMore": "Aflați mai multe"
+    }
+  },
+  "itTrainingPage": {
+    "breadcrumb": {
+      "home": "Főoldal",
+      "training": "IT oktatás"
+    },
+    "hero": {
+      "title": "Educație IT și dezvoltarea competențelor digitale corporative",
+      "subtitle": "Dezvoltați abilitățile digitale ale echipei dumneavoastră prin training profesional",
+      "description": "A SIRONIC nemcsak IT-rendszereket üzemeltet – fejlesztjük is a munkatársak digitális tudását. Személyre szabott képzéseinkkel a céged csapata magabiztosan használja a modern eszközöket, és tisztában van a biztonsági kockázatokkal.",
+      "cta": "Kérj ingyenes konzultációt",
+      "scrollDown": "Görgess lejjebb a részletekért"
+    },
+    "intro": {
+      "title": "Miért fontos a vállalati IT oktatás?",
+      "content": [
+        "A legjobb IT-infrastruktúra sem elég, ha a munkatársak nem tudják hatékonyan használni. A rossz eszközismeret, a biztonsági tudatosság hiánya és az elavult munkafolyamatok csökkentik a produktivitást és növelik a kockázatokat.",
+        "A SIRONIC IT oktatási programjaival a csapatod naprakész ismereteket szerez, magabiztosabban dolgozik, és tudatosan védi a vállalati adatokat. Minden képzésünk gyakorlatias, személyre szabott és közvetlenül alkalmazható a napi munkában."
+      ]
+    },
+    "services": {
+      "title": "Milyen képzéseket kínálunk?",
+      "subtitle": "Gyakorlatias, üzletközpontú oktatások minden szinten",
+      "items": [
+        {
+          "title": "Személyre szabott IT oktatások",
+          "description": "Egyedi tananyag és tempó a csapatod igényei szerint. Kezdő felhasználóktól a haladó felhasználókig – minden képzés a Te vállalkozásod valós igényeihez igazodik. Gyakorlati példákkal, valós helyzetekből tanulva.",
+          "topics": [
+            "Windows és macOS alapismeretek",
+            "Fájlkezelés és mappastruktúra",
+            "Adatmentés és helyreállítás",
+            "Perifériák és nyomtatók használata",
+            "Gyors billentyűparancsok és produktivitási tippek"
+          ]
+        },
+        {
+          "title": "Biztonságtudatossági tréningek",
+          "description": "A legtöbb adatvédelmi incidens emberi hibából történik – e-mail-alapú csalások, gyenge jelszavak, adathalászat. Képzéseinkkel a munkatársak felismerik és elkerülik a kockázatokat.",
+          "topics": [
+            "Adathalász e-mailek és csalások felismerése",
+            "Biztonságos jelszókezelés és 2FA használata",
+            "Adatvédelmi alapelvek (GDPR) gyakorlatban",
+            "Biztonságos fájlmegosztás és levelezés",
+            "Eszközbiztonság: laptop, telefon, távmunka"
+          ]
+        },
+        {
+          "title": "Szoftver- és eszközhasználati képzések",
+          "description": "A modern irodai munka szoftveres eszközökön alapul – de sokszor a lehetőségek töredékét használjuk ki. Tanítjuk a hatékony munkavégzés eszközeit és módszereit.",
+          "topics": [
+            "Microsoft 365: Word, Excel, PowerPoint, Outlook, Teams",
+            "Google Workspace: Docs, Sheets, Drive, Meet",
+            "Kollaborációs eszközök: Slack, Notion, Trello, Asana",
+            "Videókonferencia eszközök használata",
+            "Felhőalapú fájlmegosztás és szinkronizálás"
+          ]
+        },
+        {
+          "title": "Vállalati tudásfejlesztési programok",
+          "description": "Hosszú távú, folyamatos képzési programok, amelyek biztosítják, hogy a csapat mindig naprakész legyen. Céges tudásbázis építése és rendszeres fejlesztés.",
+          "topics": [
+            "Egyedi tananyagok és útmutatók készítése",
+            "Folyamatos online támogatás és Q&A szekciók",
+            "Rendszeres technológiai frissítő tréningek",
+            "Új munkatársak IT onboarding képzése",
+            "Specifikus céges rendszerek oktatása"
+          ]
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Miért éri meg vállalati IT képzésbe fektetni?",
+      "subtitle": "Konkrét előnyök, amelyek mérhető eredményt hoznak",
+      "list": [
+        "Magasabb produktivitás – a munkatársak gyorsabban és hatékonyabban dolgoznak",
+        "Kevesebb IT-hiba és helpdesk hívás – csökken a technikai támogatás terhelése",
+        "Biztonságosabb működés – tudatos munkatársak védik az adatokat",
+        "Jobb eszközkihasználás – a szoftverek és rendszerek teljes potenciálja",
+        "Magabiztosabb csapat – nem félnek az új technológiáktól",
+        "Gyorsabb alkalmazkodás – új eszközök bevezetése gördülékenyebb",
+        "Versenyképesség – digitálisan képzett csapat modernebb vállalkozást jelent"
+      ]
+    },
+    "targetGroups": {
+      "title": "Kiknek ajánljuk?",
+      "subtitle": "Minden vállalkozásnak, ahol digitális eszközökkel dolgoznak",
+      "groups": [
+        {
+          "title": "Irodai dolgozók",
+          "description": "Akik napi szinten használnak számítógépet, e-mailt, Office programokat."
+        },
+        {
+          "title": "Vezetők és menedzserek",
+          "description": "Akiknek döntéshozatalhoz, riportokhoz és kommunikációhoz kell a digitális eszközismeret."
+        },
+        {
+          "title": "Nem-informatikus kollégák",
+          "description": "Akiknek a technológia csak eszköz, de megfelelő tudás nélkül akadály."
+        },
+        {
+          "title": "Távmunkában dolgozók",
+          "description": "Akiknek a biztonságos és hatékony otthoni munkavégzéshez kell támogatás."
+        },
+        {
+          "title": "Új belépők",
+          "description": "Akiknek onboarding részeként meg kell ismerniük a vállalati IT-rendszereket."
+        }
+      ]
+    },
+    "delivery": {
+      "title": "Hogyan zajlanak a képzések?",
+      "subtitle": "Rugalmas oktatási formák – Te választod, melyik illik legjobban",
+      "methods": [
+        {
+          "title": "Helyszíni oktatás",
+          "description": "Kimegyünk a céges irodába, és helyben tartjuk a tréninget. Személyes, interaktív, azonnali gyakorlati példákkal a saját rendszereiteken."
+        },
+        {
+          "title": "Online távoktatás",
+          "description": "Videókonferencia platformon keresztül élőben tartott képzések. Rugalmas időbeosztás, nincs utazás, de ugyanolyan hatékony, mint a helyszíni forma."
+        },
+        {
+          "title": "Hibrid modell",
+          "description": "Kombináljuk a kettőt: helyszíni kick-off, majd online folytatás. A legjobb mindkét világból."
+        }
+      ],
+      "languageNote": "Sesiunile de formare sunt disponibile în prezent numai în limba maghiară, atât online, cât și la fața locului."
+    },
+    "topics": {
+      "title": "Konkrét témák, amiket oktatunk",
+      "subtitle": "Gyakorlatias tudás, amit azonnal alkalmazhatsz",
+      "list": [
+        "Microsoft 365 használata (Word, Excel, PowerPoint, Outlook, OneDrive, Teams)",
+        "Google Workspace eszközök (Gmail, Drive, Docs, Sheets, Meet)",
+        "Biztonságos jelszókezelés és két-faktoros hitelesítés",
+        "Adathalász e-mailek és online csalások felismerése",
+        "Biztonságos fájlmegosztás és felhőtárolás",
+        "Videokonferencia eszközök professzionális használata",
+        "Hatékony e-mail menedzsment és postaláda szervezés",
+        "Projektek és feladatok kezelése (Trello, Asana, Notion)",
+        "Windows és macOS alapfunkciók és tippek",
+        "Irodai eszközök: nyomtatók, szkennerek, multimédia"
+      ]
+    },
+    "methodology": {
+      "title": "Hogyan dolgozunk?",
+      "subtitle": "Strukturált oktatási folyamat – lépésről lépésre",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Igényfelmérés",
+          "description": "Megismerjük a csapatot, a jelenlegi tudásszintet és a céges folyamatokat. Tisztázzuk, milyen területeken van szükség fejlesztésre."
+        },
+        {
+          "number": "2",
+          "title": "Egyedi tananyag készítése",
+          "description": "Személyre szabott oktatási terv és tananyag, amely illeszkedik a vállalkozásod eszközeihez és munkafolyamataihoz."
+        },
+        {
+          "number": "3",
+          "title": "Képzés lebonyolítása",
+          "description": "Interaktív, gyakorlatias oktatás élőben – kérdések, válaszok, valós példák a saját környezetetekben."
+        },
+        {
+          "number": "4",
+          "title": "Utókövetés és támogatás",
+          "description": "Képzés után is elérhető vagyunk – kérdések, ismétlések, további segítség. Biztosítjuk, hogy a tudás valóban beépüljön a napi rutinba."
+        }
+      ]
+    },
+    "faq": {
+      "title": "Gyakran ismételt kérdések",
+      "items": [
+        {
+          "question": "Mennyi időt vesz igénybe egy képzés?",
+          "answer": "A képzés hossza az igényektől függ. Egy egyszeri workshop 2-4 óra, míg egy átfogó vállalati program több héten át, több alkalom lehet. Minden esetben egyeztetjük az időkeretet."
+        },
+        {
+          "question": "Hány főnek tartható egyszerre a tréning?",
+          "answer": "Ideális létszám 5-15 fő között van, hogy minden résztvevő kapjon elég figyelmet. Nagyobb csoportok esetén több turnusban vagy párhuzamos csoportokban is megtartható."
+        },
+        {
+          "question": "Kell előzetes IT tudás a résztvevőknek?",
+          "answer": "Nem! A képzéseket a résztvevők jelenlegi tudásszintjéhez igazítjuk – kezdőtől haladóig. Előtte felmérjük, ki milyen szinten áll."
+        },
+        {
+          "question": "Kapnak a résztvevők tananyagot, jegyzetet?",
+          "answer": "Igen! Minden képzés után digitális formában megkapják az anyagot, prezentációkat, gyakorlati útmutatókat – így bármikor visszanézhetik."
+        },
+        {
+          "question": "Milyen nyelven zajlanak a képzések?",
+          "answer": "Jelenleg az oktatások kizárólag magyar nyelven érhetők el, online vagy helyszíni formában."
+        },
+        {
+          "question": "Mennyibe kerül egy vállalati IT képzés?",
+          "answer": "A díjszabás egyedi ajánlat alapján történik – függ a résztvevők számától, a témáktól, és az oktatás időtartamától. Kérj ajánlatot, és egyeztetünk!"
+        }
+      ]
+    },
+    "pricing": {
+      "title": "Mennyibe kerül egy IT képzés?",
+      "subtitle": "Egyedi ajánlatot készítünk – minden cég más igényekkel rendelkezik",
+      "description": "A képzések ára függ a résztvevők számától, a képzés időtartamától, a témáktól és a helyszíntől (online/offline). Átlagosan egy 4 órás workshop 80.000 Ft-tól indul kis csoportoknak, míg egy hosszabb, folyamatos fejlesztési program havidíjas konstrukcióban is elérhető.",
+      "process": "Kérj ingyenes konzultációt, felmérjük az igényeket, és részletes, átlátható ajánlatot készítünk.",
+      "cta": "Kérj ajánlatot most"
+    },
+    "finalCta": {
+      "title": "Indítsuk el a csapatod digitális fejlesztését!",
+      "description": "Kérj ingyenes konzultációt, és találjuk meg együtt, milyen IT képzésekkel fejlesztheted a vállalkozásod hatékonyságát és biztonságát.",
+      "button": "Kérek ajánlatot IT képzésre"
+    }
   }
 }
