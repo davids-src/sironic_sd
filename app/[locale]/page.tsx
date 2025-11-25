@@ -5,6 +5,7 @@ import { ServiceCard } from '@/components/ServiceCard';
 import { Testimonial } from '@/components/Testimonial';
 import { FaqSection } from '@/components/FaqSection';
 import { MindenCegnekSection } from '@/components/MindenCegnekSection';
+import { CustomDevelopmentSection } from '@/components/CustomDevelopmentSection';
 import { Button } from '@/components/ui/button';
 import { Server, Network, Shield, Code, CheckCircle, ShoppingCart, Cloud, Wrench, ArrowRight } from 'lucide-react';
 import Link from 'next/link';
@@ -92,6 +93,8 @@ export default function HomePage() {
           </div>
         </div>
       </section>
+
+      <CustomDevelopmentSection />
 
       <MindenCegnekSection />
 

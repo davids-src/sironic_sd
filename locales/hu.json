@@ -54,6 +54,30 @@
       "description": "Számítógépek, laptopok és szerverek gyors és megbízható javítása helyszínen vagy postai beküldéssel. Átlátható árajánlat és gyors javítás."
     }
   },
+  "customDevelopment": {
+    "badge": "Egyedi szoftverfejlesztés",
+    "title": "Egyedi alkalmazásfejlesztés vállalkozásodnak",
+    "subtitle": "Skálázható, biztonságos és üzletközpontú szoftverek",
+    "description": "A SIRONIC csapata teljes körű egyedi alkalmazásfejlesztést kínál vállalkozásod számára. Webapplikációktól a Windows asztali szoftvereken át a mobil alkalmazásokig – minden megoldásunk az üzleti igényeidre szabott, modern technológiákkal készül.",
+    "cards": {
+      "webApps": {
+        "title": "Egyedi webalkalmazás fejlesztés",
+        "description": "TailScript és React alapú vállalati webalkalmazások. Skálázható, gyors és felhasználóbarát megoldások komplex üzleti folyamatokhoz."
+      },
+      "desktop": {
+        "title": "Windows asztali szoftverek",
+        "description": "Natív Windows alkalmazások fejlesztése modern technológiákkal. Hatékony, gyors és megbízható szoftverek irodai környezetbe."
+      },
+      "mobile": {
+        "title": "Mobil alkalmazás fejlesztés",
+        "description": "Android és iOS alkalmazások készítése. Modern, intuitív mobilmegoldások, amelyek minden eszközön tökéletesen működnek."
+      }
+    },
+    "cta": {
+      "main": "Kérj ajánlatot egyedi fejlesztésre",
+      "learnMore": "Tudj meg többet"
+    }
+  },
   "mindenCegnek": {
     "badge": "Havidíjas IT támogatás",
     "title": "Minden cégnek legyen informatikusa",
@@ -566,6 +590,173 @@
       "title": "Nem kell saját IT-s, csak egy megbízható partner",
       "description": "Mi biztosítjuk a szakértelmet, a gyors reagálást és a stabil működést – Te pedig a cégedre koncentrálhatsz.",
       "button": "Kérem az ajánlatot"
+    }
+  },
+  "customDevelopmentPage": {
+    "breadcrumb": {
+      "home": "Főoldal",
+      "customDevelopment": "Egyedi alkalmazásfejlesztés"
+    },
+    "hero": {
+      "title": "Egyedi alkalmazásfejlesztés",
+      "subtitle": "Modern, skálázható és üzletközpontú szoftvermegoldások a Te vállalkozásod igényeire szabva",
+      "description": "Több mint weboldalkészítés – komplex alkalmazásokat fejlesztünk, amelyek valódi értéket teremtenek cégednek. TailScript-alapú és React-alapú webalkalmazásoktól a natív Windows szoftvereken át az Android és iOS mobilalkalmazásokig.",
+      "cta": "Kérj ingyenes konzultációt",
+      "scrollDown": "Görgess lejjebb a részletekért"
+    },
+    "what": {
+      "title": "Mit fejlesztünk?",
+      "subtitle": "Teljes körű egyedi szoftvermegoldások a legmodernebb technológiákkal",
+      "items": [
+        {
+          "title": "TailScript-alapú webalkalmazások",
+          "description": "Gyors, modern és hatékony webes rendszerek TailScript technológiával. Skálázható megoldások komplex üzleti folyamatokhoz, amelyek gördülékenyen működnek minden böngészőben."
+        },
+        {
+          "title": "React vállalati alkalmazások",
+          "description": "Enterprise-szintű webalkalmazások React és Next.js-sel. Intuitív felhasználói felület, gyors betöltés, SEO-optimalizált szerkezet – minden, ami a modern üzleti alkalmazásokhoz szükséges."
+        },
+        {
+          "title": "Windows asztali szoftverek",
+          "description": "Natív Windows alkalmazások fejlesztése .NET és modern C# technológiákkal. Gyors, megbízható desktop megoldások, amelyek zökkenőmentesen integrálódnak a vállalati környezetbe."
+        },
+        {
+          "title": "Mobil alkalmazás fejlesztés – Android + iOS",
+          "description": "Natív és cross-platform mobilalkalmazások React Native-vel és Flutter-rel. Egy kódbázis, két platform – gyors fejlesztés, kiváló felhasználói élmény mindkét operációs rendszeren."
+        }
+      ]
+    },
+    "whyChoose": {
+      "title": "Miért válaszd a SIRONIC-ot egyedi fejlesztésre?",
+      "subtitle": "Nem csak kódolunk – partnerei vagyunk az üzleti céljaid elérésében",
+      "reasons": [
+        {
+          "title": "Valódi üzleti megértés",
+          "description": "Nem csak programozók vagyunk – értjük az üzleti folyamatokat. Minden fejlesztés az igényeidre szabott, hogy valódi értéket teremtsen."
+        },
+        {
+          "title": "Modern technológiák",
+          "description": "React, Next.js, TailScript, .NET, React Native – a legkorszerűbb eszközökkel dolgozunk, amelyek gyorsak, biztonságosak és jövőállóak."
+        },
+        {
+          "title": "Hosszú távú partnerség",
+          "description": "Nem állunk meg a fejlesztésnél. Folyamatos támogatást, karbantartást és továbbfejlesztést biztosítunk – a szoftver mindig lépést tart az üzleti igényeiddel."
+        },
+        {
+          "title": "Átlátható kommunikáció",
+          "description": "Magyar nyelvű, közvetlen kapcsolattartás. Nincs nyelvi akadály, nincsenek félreértések – mindig tudod, hol tart a projekt."
+        },
+        {
+          "title": "Biztonság és megbízhatóság",
+          "description": "Minden alkalmazásunk biztonságos adatkezeléssel, GDPR-kompatibilis struktúrával és stabil működéssel készül."
+        },
+        {
+          "title": "Skálázhatóság",
+          "description": "A rendszereinket úgy tervezzük, hogy együtt nőjenek a vállalkozásoddal – ne kelljen újraírni, amikor bővülsz."
+        }
+      ]
+    },
+    "technologies": {
+      "title": "Milyen technológiákkal dolgozunk?",
+      "subtitle": "A legmodernebb és legmegbízhatóbb eszközök a piacról",
+      "list": [
+        "React & Next.js – modern, SEO-barát webalkalmazások",
+        "TailScript – gyors és skálázható webes rendszerek",
+        "TypeScript – típusbiztos, hibamentes kód",
+        "Node.js & Express – erős backend megoldások",
+        ".NET & C# – natív Windows szoftverek",
+        "React Native & Flutter – cross-platform mobilalkalmazások",
+        "Tailwind CSS – modern, reszponzív dizájn",
+        "PostgreSQL, MySQL – megbízható adatbázis-kezelés",
+        "Docker & Cloud – skálázható és biztonságos infrastruktúra"
+      ]
+    },
+    "process": {
+      "title": "Hogyan dolgozunk?",
+      "subtitle": "Átlátható, strukturált fejlesztési folyamat – lépésről lépésre",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Igényfelmérés és konzultáció",
+          "description": "Megismerjük az üzleti céljaidat, az elvárásaidat és a jelenlegi rendszereidet. Tisztázzuk, pontosan mit szeretnél elérni a szoftverrel."
+        },
+        {
+          "number": "2",
+          "title": "UX/UI tervezés és struktúraépítés",
+          "description": "Megtervezzük a felhasználói élményt és a felületet. Wireframe-ek, designok és interakciós tervek – hogy pontosan tudjuk, mit építünk."
+        },
+        {
+          "number": "3",
+          "title": "Fejlesztés és folyamatos egyeztetés",
+          "description": "A tényleges kódolás. Folyamatosan kommunikálunk, bemutatjuk az előrehaladást, és reagálunk az igényeidre – így nincs meglepetés az átadáskor."
+        },
+        {
+          "number": "4",
+          "title": "Tesztelés és minőségbiztosítás",
+          "description": "Alapos tesztelés minden eszközön és böngészőben. Teljesítmény-, biztonsági és funkcionalitási tesztek – hogy minden hibamentesen működjön."
+        },
+        {
+          "number": "5",
+          "title": "Éles indítás és képzés",
+          "description": "A szoftver élesítése és a felhasználók betanítása. Minden dokumentációt és támogatást megkapsz a zökkenőmentes használathoz."
+        },
+        {
+          "number": "6",
+          "title": "Karbantartás és továbbfejlesztés",
+          "description": "Folyamatos támogatás, hibajavítás és továbbfejlesztés. A szoftver mindig naprakész marad és lépést tart az igényeiddel."
+        }
+      ]
+    },
+    "useCases": {
+      "title": "Mire jó egy egyedi alkalmazás?",
+      "subtitle": "Valós üzleti problémák, melyeket egyedi szoftverrel oldunk meg",
+      "examples": [
+        "CRM és ügyfélkezelő rendszerek – tartsd kézben az ügyfeleidet",
+        "Készletkezelő és logisztikai szoftverek – automatizált raktárkezelés",
+        "Belső vállalati portálok – minden adat egy helyen",
+        "E-commerce és webshop fejlesztés – online értékesítési csatornák",
+        "Projektmenedzsment eszközök – csapatmunka és feladatkövetés",
+        "Automatizált riportok és adminisztráció – időt spórolsz",
+        "Integráció meglévő rendszerekkel – ERP, számlázó, CRM összekapcsolása",
+        "Mobilalkalmazások – ügyfelek és munkatársak kezében"
+      ]
+    },
+    "pricing": {
+      "title": "Mennyibe kerül egy egyedi alkalmazás?",
+      "subtitle": "Minden projekt egyedi – az árat mindig az igények alapján állapítjuk meg",
+      "description": "Az egyedi alkalmazásfejlesztés ára a projekt komplexitásától, a funkcionalitástól és az időigénytől függ. Kis alkalmazásoknál 500.000 Ft-tól, nagyobb vállalati rendszereknél több millió forint is lehet – de minden esetben egyedi ajánlatot készítünk.",
+      "process": "Ingyenes konzultáción felmérjük az igényeidet, megbeszéljük a lehetőségeket, és átlátható, fix árajánlatot adunk a teljes projektre.",
+      "cta": "Kérj ingyenes ajánlatot"
+    },
+    "faq": {
+      "title": "Gyakran ismételt kérdések",
+      "items": [
+        {
+          "question": "Mennyi idő egy egyedi alkalmazás fejlesztése?",
+          "answer": "A projekt méretétől függ – egy egyszerűbb webalkalmazás 4-8 hét, míg egy komplex vállalati rendszer akár 3-6 hónapot is igénybe vehet. Az ajánlatban mindig egyeztetjük a határidőt."
+        },
+        {
+          "question": "Tudtok integrálni meglévő rendszerekkel?",
+          "answer": "Igen! Rendszeresen integrálunk ERP-kkel, CRM-ekkel, számlázó rendszerekkel és más külső API-kkal. Az egyedi fejlesztés egyik legnagyobb előnye épp ez."
+        },
+        {
+          "question": "Ki lesz a tulajdonos a forráskódnak?",
+          "answer": "A projektet követően a forráskód teljes egészében a te tulajdonodba kerül – nincsenek rejtett licencdíjak vagy függőségek."
+        },
+        {
+          "question": "Mi van a karbantartással és a további fejlesztésekkel?",
+          "answer": "Átadás után is támogatást nyújtunk: hibajavítás, frissítések, továbbfejlesztések – választható havidíjas vagy eseti megoldásokkal."
+        },
+        {
+          "question": "Milyen garanciát kaptok az alkalmazásra?",
+          "answer": "Átadás után 6 hónap garancia van a hibákra – minden funkcionális problémát díjmentesen javítunk ebben az időszakban."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Készen állsz egy egyedi szoftvermegoldásra?",
+      "description": "Beszéljük meg az igényeidet, és készítsünk együtt egy olyan alkalmazást, amely valóban növeli a vállalkozásod hatékonyságát.",
+      "button": "Kérek ingyenes konzultációt"
     }
   }
 }

@@ -567,5 +567,196 @@
       "description": "My zabezpečíme odbornosť, rýchlu reakciu a stabilnú prevádzku – vy sa môžete sústrediť na svoje podnikanie.",
       "button": "Vyžiadať ponuku"
     }
+  },
+  "customDevelopment": {
+    "badge": "Vývoj vlastného softvéru",
+    "title": "Vývoj vlastných aplikácií pre Vašu firmu",
+    "subtitle": "Škálovateľný, bezpečný a obchodne zameraný softvér",
+    "description": "Tím SIRONIC ponúka komplexný vývoj vlastných aplikácií pre Vaše podnikanie. Od webových aplikácií cez desktopový softvér pre Windows až po mobilné aplikácie – všetky riešenia prispôsobené Vašim obchodným potrebám s modernými technológiami.",
+    "cards": {
+      "webApps": {
+        "title": "Vývoj vlastných webových aplikácií",
+        "description": "Podnikové webové aplikácie založené na TailScript a React. Škálovateľné, rýchle a užívateľsky prívetivé riešenia pre komplexné obchodné procesy."
+      },
+      "desktop": {
+        "title": "Desktopový softvér pre Windows",
+        "description": "Vývoj natívnych Windows aplikácií s modernými technológiami. Efektívny, rýchly a spoľahlivý softvér pre kancelárske prostredie."
+      },
+      "mobile": {
+        "title": "Vývoj mobilných aplikácií",
+        "description": "Vývoj Android a iOS aplikácií. Moderné, intuitívne mobilné riešenia, ktoré dokonale fungujú na každom zariadení."
+      }
+    },
+    "cta": {
+      "main": "Požiadať o ponuku na vlastný vývoj",
+      "learnMore": "Zistiť viac"
+    }
+  },
+  "customDevelopmentPage": {
+    "breadcrumb": {
+      "home": "Home",
+      "customDevelopment": "Custom Application Development"
+    },
+    "hero": {
+      "title": "Vývoj vlastných aplikácií",
+      "subtitle": "Moderné, škálovateľné a obchodne zamerané softvérové riešenia prispôsobené Vašim obchodným potrebám",
+      "description": "More than just website creation – we develop complex applications that create real value for your company. From TailScript and React-based web applications to native Windows software and Android/iOS mobile apps.",
+      "cta": "Request Free Consultation",
+      "scrollDown": "Scroll down for details"
+    },
+    "what": {
+      "title": "What Do We Develop?",
+      "subtitle": "Comprehensive custom software solutions with cutting-edge technologies",
+      "items": [
+        {
+          "title": "TailScript-based Web Applications",
+          "description": "Fast, modern and efficient web systems with TailScript technology. Scalable solutions for complex business processes that work smoothly in every browser."
+        },
+        {
+          "title": "React Enterprise Applications",
+          "description": "Enterprise-level web applications with React and Next.js. Intuitive user interface, fast loading, SEO-optimized structure – everything needed for modern business applications."
+        },
+        {
+          "title": "Windows Desktop Software",
+          "description": "Native Windows application development with .NET and modern C# technologies. Fast, reliable desktop solutions that integrate seamlessly into corporate environments."
+        },
+        {
+          "title": "Mobile App Development – Android + iOS",
+          "description": "Native and cross-platform mobile applications with React Native and Flutter. One codebase, two platforms – rapid development, excellent user experience on both operating systems."
+        }
+      ]
+    },
+    "whyChoose": {
+      "title": "Why Choose SIRONIC for Custom Development?",
+      "subtitle": "We don't just code – we're partners in achieving your business goals",
+      "reasons": [
+        {
+          "title": "Real Business Understanding",
+          "description": "We're not just programmers – we understand business processes. Every development is tailored to your needs to create real value."
+        },
+        {
+          "title": "Modern Technologies",
+          "description": "React, Next.js, TailScript, .NET, React Native – we work with the most advanced tools that are fast, secure and future-proof."
+        },
+        {
+          "title": "Long-term Partnership",
+          "description": "We don't stop at development. We provide ongoing support, maintenance and further development – the software always keeps pace with your business needs."
+        },
+        {
+          "title": "Transparent Communication",
+          "description": "Hungarian-speaking, direct communication. No language barrier, no misunderstandings – you always know where the project stands."
+        },
+        {
+          "title": "Security and Reliability",
+          "description": "All our applications are built with secure data handling, GDPR-compliant structure and stable operation."
+        },
+        {
+          "title": "Scalability",
+          "description": "We design our systems to grow with your business – no need to rewrite when you expand."
+        }
+      ]
+    },
+    "technologies": {
+      "title": "What Technologies Do We Use?",
+      "subtitle": "The most modern and reliable tools on the market",
+      "list": [
+        "React & Next.js – modern, SEO-friendly web applications",
+        "TailScript – fast and scalable web systems",
+        "TypeScript – type-safe, error-free code",
+        "Node.js & Express – robust backend solutions",
+        ".NET & C# – native Windows software",
+        "React Native & Flutter – cross-platform mobile applications",
+        "Tailwind CSS – modern, responsive design",
+        "PostgreSQL, MySQL – reliable database management",
+        "Docker & Cloud – scalable and secure infrastructure"
+      ]
+    },
+    "process": {
+      "title": "How Do We Work?",
+      "subtitle": "Transparent, structured development process – step by step",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Requirements Analysis and Consultation",
+          "description": "We learn about your business goals, expectations and current systems. We clarify exactly what you want to achieve with the software."
+        },
+        {
+          "number": "2",
+          "title": "UX/UI Design and Structure Building",
+          "description": "We design the user experience and interface. Wireframes, designs and interaction plans – so we know exactly what we're building."
+        },
+        {
+          "number": "3",
+          "title": "Development and Continuous Coordination",
+          "description": "The actual coding. We communicate continuously, show progress, and respond to your needs – so there are no surprises at delivery."
+        },
+        {
+          "number": "4",
+          "title": "Testing and Quality Assurance",
+          "description": "Thorough testing on every device and browser. Performance, security and functionality tests – to ensure everything works flawlessly."
+        },
+        {
+          "number": "5",
+          "title": "Live Launch and Training",
+          "description": "Software deployment and user training. You get all documentation and support for smooth operation."
+        },
+        {
+          "number": "6",
+          "title": "Maintenance and Further Development",
+          "description": "Ongoing support, bug fixes and further development. The software always stays up-to-date and keeps pace with your needs."
+        }
+      ]
+    },
+    "useCases": {
+      "title": "What Is a Custom Application Good For?",
+      "subtitle": "Real business problems we solve with custom software",
+      "examples": [
+        "CRM and customer management systems – keep your clients under control",
+        "Inventory and logistics software – automated warehouse management",
+        "Internal company portals – all data in one place",
+        "E-commerce and webshop development – online sales channels",
+        "Project management tools – teamwork and task tracking",
+        "Automated reports and administration – save time",
+        "Integration with existing systems – ERP, invoicing, CRM connection",
+        "Mobile applications – in the hands of customers and employees"
+      ]
+    },
+    "pricing": {
+      "title": "How Much Does a Custom Application Cost?",
+      "subtitle": "Every project is unique – pricing is always based on requirements",
+      "description": "The price of custom application development depends on project complexity, functionality and time requirements. Small applications start from €2,000, larger enterprise systems can cost tens of thousands – but we always prepare a custom quote.",
+      "process": "In a free consultation, we assess your needs, discuss possibilities, and provide a transparent, fixed quote for the entire project.",
+      "cta": "Request Free Quote"
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "items": [
+        {
+          "question": "How long does custom application development take?",
+          "answer": "It depends on project size – a simpler web application takes 4-8 weeks, while a complex enterprise system can take 3-6 months. We always agree on deadlines in the quote."
+        },
+        {
+          "question": "Can you integrate with existing systems?",
+          "answer": "Yes! We regularly integrate with ERPs, CRMs, invoicing systems and other external APIs. This is one of the biggest advantages of custom development."
+        },
+        {
+          "question": "Who owns the source code?",
+          "answer": "After the project, the source code becomes your complete property – no hidden license fees or dependencies."
+        },
+        {
+          "question": "What about maintenance and further development?",
+          "answer": "We provide support after delivery: bug fixes, updates, further development – with optional monthly or one-time solutions."
+        },
+        {
+          "question": "What warranty do we get on the application?",
+          "answer": "There's a 6-month warranty on bugs after delivery – we fix all functional problems free of charge during this period."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Ready for a Custom Software Solution?",
+      "description": "Let's discuss your needs and create an application together that truly increases your business efficiency.",
+      "button": "Request Free Consultation"
+    }
   }
 }
