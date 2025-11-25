@@ -2,7 +2,106 @@
   "meta": {
     "siteTitle": "SIRONIC IT-Systemhaus",
     "siteDescription": "Umfassende IT-Lösungen für kleine und mittelständische Unternehmen in Székesfehérvár",
-    "companyName": "SIRONIC IT-Systemhaus"
+    "companyName": "SIRONIC IT-Systemhaus",
+    "keywords": [
+      "IT-Dienstleistungen",
+      "Systemverwaltung",
+      "Netzwerkaufbau",
+      "IT-Sicherheit",
+      "Webentwicklung",
+      "CRM-Entwicklung",
+      "IT-Schulung",
+      "Cybersicherheitstraining",
+      "digitale Kompetenzen",
+      "IT-Ausstattung",
+      "Hosting-Dienste",
+      "Webhosting",
+      "Server-Vermietung",
+      "Computerreparatur",
+      "Laptop-Service",
+      "Vor-Ort-Support",
+      "Datensicherheit",
+      "Wartung",
+      "Székesfehérvár",
+      "Ungarn"
+    ],
+    "ogImage": "/og/home-de.jpg",
+    "pages": {
+      "services": {
+        "title": "Unsere Dienstleistungen - SIRONIC IT-Systemhaus",
+        "description": "Komplette IT-Dienstleistungen: Systemverwaltung, Netzwerkaufbau, IT-Sicherheit, Webentwicklung, Hosting, Reparaturservice und IT-Schulung in Székesfehérvár.",
+        "keywords": [
+          "IT-Dienstleistungen",
+          "Systemverwaltung",
+          "Netzwerk",
+          "IT-Sicherheit",
+          "Webentwicklung",
+          "Hosting",
+          "Reparatur",
+          "Székesfehérvár"
+        ],
+        "ogImage": "/og/services-de.jpg"
+      },
+      "about": {
+        "title": "Über uns - SIRONIC IT-Systemhaus",
+        "description": "Zuverlässiger IT-Partner mit über 5 Jahren Erfahrung. Proaktive Unterstützung, transparente Preise und menschliche Kommunikation - das ist SIRONIC.",
+        "keywords": [
+          "IT-Unternehmen",
+          "Székesfehérvár",
+          "zuverlässiger IT-Partner",
+          "Systemverwaltung",
+          "IT-Support"
+        ],
+        "ogImage": "/og/about-de.jpg"
+      },
+      "contact": {
+        "title": "Kontakt - SIRONIC IT-Systemhaus",
+        "description": "Kontaktieren Sie uns für eine kostenlose Beratung. E-Mail: hello@sironic.hu, Tel: +36 70 273 5532. Standort: Székesfehérvár, Ungarn.",
+        "keywords": [
+          "IT Kontakt",
+          "kostenlose Beratung",
+          "Székesfehérvár IT",
+          "hello@sironic.hu"
+        ],
+        "ogImage": "/og/contact-de.jpg"
+      },
+      "pricing": {
+        "title": "Preise - SIRONIC IT-Systemhaus",
+        "description": "Transparente IT-Preise mit festen monatlichen Plänen. Systemverwaltung ab 39.000 HUF/Monat. Individuelle Angebote nach Ihren Bedürfnissen.",
+        "keywords": [
+          "IT-Preise",
+          "monatliche IT-Unterstützung",
+          "Systemverwaltungskosten",
+          "IT-Kosten",
+          "Székesfehérvár"
+        ],
+        "ogImage": "/og/pricing-de.jpg"
+      },
+      "products": {
+        "title": "Unsere Produkte - SIRONIC IT-Systemhaus",
+        "description": "Maßgeschneiderte Softwarelösungen und IT-Produkte für kleine und mittelständische Unternehmen. Moderne, zuverlässige Anwendungen nach Ihren Anforderungen.",
+        "keywords": [
+          "IT-Produkte",
+          "individuelle Software",
+          "CRM-System",
+          "Webanwendung",
+          "Mobile App"
+        ],
+        "ogImage": "/og/products-de.jpg"
+      },
+      "blog": {
+        "title": "Blog - SIRONIC IT-Systemhaus",
+        "description": "IT-Tipps, Wissensdatenbank und Anleitungen für Unternehmen. Praktische Ratschläge zu IT-Sicherheit, Effizienz und Entwicklung.",
+        "keywords": [
+          "IT-Blog",
+          "IT-Tipps",
+          "IT-Sicherheit",
+          "Unternehmens-IT",
+          "Wissensdatenbank"
+        ],
+        "ogImage": "/og/blog-de.jpg"
+      }
+    }
   },
   "nav": {
     "home": "Startseite",
@@ -123,7 +222,49 @@
     ]
   },
   "faq": {
-    "title": "Häufig gestellte Fragen"
+    "title": "Häufig gestellte Fragen",
+    "items": [
+      {
+        "question": "Welche Unternehmen bedienen Sie?",
+        "answer": "SIRONIC ist auf kleine und mittlere Unternehmen spezialisiert, bietet aber auch Lösungen für größere Unternehmen an. Ob Systemadministration, Netzwerkaufbau oder Webentwicklung – wir finden die ideale IT-Lösung für jedes Unternehmen."
+      },
+      {
+        "question": "Wie unterscheidet sich SIRONIC von anderen IT-Dienstleistern?",
+        "answer": "Wir sind nicht nur 'Problemlöser' – wir überwachen Systeme proaktiv, verhindern Probleme und kommunizieren in verständlicher Sprache. Wir lassen IT kein Hindernis sein, sondern machen sie zum Wettbewerbsvorteil."
+      },
+      {
+        "question": "Wie schnell reagieren Sie auf eine Fehlermeldung?",
+        "answer": "Im Allgemeinen reagieren wir innerhalb von 1–4 Stunden, in dringenden Fällen sogar sofort. Für unsere Vertragspartner garantieren wir Reaktionszeiten."
+      },
+      {
+        "question": "Übernehmen Sie auch Vor-Ort-Einsätze oder nur Fernwartung?",
+        "answer": "Ja, beides! Wir beheben die meisten Fehler aus der Ferne, kommen aber bei Bedarf auch persönlich vorbei."
+      },
+      {
+        "question": "Erstellen Sie Websites auch komplett von Grund auf?",
+        "answer": "Natürlich. Wir entwickeln individuelle, responsive Websites mit modernen Technologien (Next.js, React, Tailwind) und sorgen dafür, dass die Seite schnell, sicher und suchmaschinenoptimiert ist."
+      },
+      {
+        "question": "Was ist CRM Pro und wie hilft es meinem Unternehmen?",
+        "answer": "CRM Pro ist ein individuell entwickeltes Kundenmanagementsystem, das Vertriebsprozesse transparent macht, die Verwaltung automatisiert und in bestehende Systeme integriert werden kann. Auch für kleinere Unternehmen erschwinglich."
+      },
+      {
+        "question": "Welche Sicherheitsmaßnahmen wenden Sie an?",
+        "answer": "Wir verwenden moderne Firewalls, Datensicherungslösungen, Verschlüsselung und Zugriffsverwaltung. Wir gestalten alle unsere Systeme DSGVO-konform, sodass Datensicherheit Standard ist."
+      },
+      {
+        "question": "In welcher Form kann man Sie beauftragen?",
+        "answer": "Wir arbeiten in zwei Hauptmodellen: Einzelauftrag (für gelegentliche Aufgaben) und monatlicher Wartungsvertrag (dauerhafter Betrieb und Support). Beide sind transparent und haben Festpreise."
+      },
+      {
+        "question": "Wie viel kostet die Entwicklung einer Website oder eines Systems?",
+        "answer": "Basis-Websites beginnen ab 250.000 HUF, während der Preis für individuelle Systeme oder CRM-Lösungen je nach Funktionalität festgelegt wird. Wir geben vor jedem Projekt ein genaues Preisangebot ab."
+      },
+      {
+        "question": "Warum lohnt es sich, Cloud-Lösungen zu wählen?",
+        "answer": "Die Cloud ist schnell, sicher und flexibel – kein eigener Server nötig, Daten sind immer verfügbar und Erweiterungen sind in Momenten möglich."
+      }
+    ]
   },
   "finalCta": {
     "title": "Bereit für sorgenfreie IT?",
@@ -145,7 +286,22 @@
       "required": "*",
       "success": "Ihre Nachricht wurde erfolgreich gesendet! Wir melden uns in Kürze bei Ihnen.",
       "error": "Beim Senden Ihrer Nachricht ist ein Fehler aufgetreten",
-      "noscript": "Sie können Ihre Nachricht auch per E-Mail senden:"
+      "noscript": "Sie können Ihre Nachricht auch per E-Mail senden:",
+      "options": {
+        "placeholder": "Wählen Sie eine Dienstleistung",
+        "mindenCegnek": "Jedes Unternehmen sollte einen IT-Spezialisten haben",
+        "systemOperation": "Systembetrieb und IT-Wartung",
+        "networking": "Netzwerkaufbau und -entwicklung",
+        "security": "IT-Sicherheit und Datenschutz",
+        "development": "Website- und Systementwicklung",
+        "commerce": "Handel – IT-Geräte und Software",
+        "hosting": "Hosting und Cloud-Lösungen",
+        "repair": "Service und Reparatur",
+        "training": "IT-Schulung und Wissensentwicklung"
+      },
+      "errors": {
+        "general": "Ein Netzwerkfehler ist aufgetreten. Bitte versuchen Sie es später erneut."
+      }
     },
     "info": {
       "title": "Kontaktinformationen",
@@ -761,242 +917,256 @@
   },
   "itTraining": {
     "badge": "IT-Schulung & Weiterbildung",
-    "title": "IT-Schulung und Unternehmenswissensentwicklung",
-    "subtitle": "Entwickeln Sie die digitalen Kompetenzen Ihres Teams",
-    "description": "Wir bieten personalisierte IT-Schulungen, Sicherheitsbewusstseinstrainings und systemweite Wissensentwicklung, damit Mitarbeiter moderne Werkzeuge und Software sicher nutzen können. Sicherer Betrieb beginnt mit Information.",
+    "title": "IT-Schulung & Unternehmenswissensentwicklung",
+    "subtitle": "Entwickeln Sie die digitalen Fähigkeiten Ihres Teams",
+    "description": "Wir bieten personalisierte IT-Schulungen, Workshops zum Sicherheitsbewusstsein und systembasierte Wissensentwicklung, damit Ihre Mitarbeiter moderne Tools und Software sicher nutzen können. Sicherer Betrieb beginnt mit Information.",
     "cards": {
       "personalized": {
         "title": "Personalisierte IT-Schulungen",
-        "description": "Maßgeschneiderte Schulungsprogramme zur Entwicklung des digitalen Wissens Ihres Teams. Praktische Kenntnisse, die sofort in der täglichen Arbeit angewendet werden können."
+        "description": "Individuelle Schulungsprogramme zur Entwicklung der digitalen Kompetenz Ihres Teams. Praktisches Wissen, das sofort im Arbeitsalltag angewendet werden kann."
       },
       "security": {
-        "title": "Sicherheitsbewusstseinstraining",
-        "description": "Cybersicherheitsgrundlagen und Datenschutzschulungen. Bringen Sie Ihrem Team bei, wie es die Daten und Systeme Ihres Unternehmens schützt."
+        "title": "Workshops zum Sicherheitsbewusstsein",
+        "description": "Grundlagen der Cybersicherheit und Datenschutzschulungen. Bringen Sie Ihrem Team bei, wie es Unternehmensdaten und -systeme effektiv schützt."
       },
       "software": {
-        "title": "Software- und Gerätenutzungskurse",
-        "description": "Effiziente Nutzung von Microsoft 365, Google Workspace und Bürowerkzeugen. Steigern Sie die Produktivität durch Beherrschung der richtigen Tools."
+        "title": "Software- & Gerätenutzungsschulungen",
+        "description": "Effiziente Nutzung von Microsoft 365, Google Workspace und Office-Tools. Steigern Sie die Produktivität durch die Beherrschung der richtigen Werkzeuge."
       },
       "corporate": {
-        "title": "Unternehmensweite Wissensentwicklungsprogramme",
-        "description": "Langfristige Entwicklung digitaler Kompetenzen. Kontinuierliche Schulungsprogramme, die mit technologischen Veränderungen Schritt halten."
+        "title": "Unternehmenswissensentwicklung",
+        "description": "Langfristige Entwicklung digitaler Kompetenzen. Kontinuierliche Bildungsprogramme, die mit technologischen Veränderungen Schritt halten."
       }
     },
-    "languageNote": "Die Schulungen sind derzeit nur auf Ungarisch verfügbar, sowohl online als auch vor Ort.",
+    "languageNote": "Die Schulungen sind derzeit nur in ungarischer Sprache verfügbar, entweder online oder vor Ort.",
     "cta": {
-      "main": "Schulungsangebot anfordern",
+      "main": "Angebot für Schulung anfordern",
       "learnMore": "Mehr erfahren"
     }
   },
   "itTrainingPage": {
+    "meta": {
+      "title": "IT-Schulung & Unternehmensweiterbildung | SIRONIC",
+      "description": "Praktische IT-Schulungen für Unternehmen: Sicherheitsbewusstsein, Softwarenutzung und digitale Kompetenzentwicklung. Verbessern Sie die Fähigkeiten Ihres Teams!",
+      "keywords": [
+        "IT-Schulung",
+        "Unternehmensschulung",
+        "Sicherheitsbewusstsein",
+        "digitale Kompetenz",
+        "Excel-Kurs",
+        "IT-Workshop"
+      ],
+      "ogTitle": "IT-Schulung & Unternehmensweiterbildung - SIRONIC",
+      "ogDescription": "Praktische IT-Schulungen für Unternehmen. Entwickeln Sie die digitalen Fähigkeiten Ihres Teams mit uns!"
+    },
     "breadcrumb": {
-      "home": "Főoldal",
-      "training": "IT oktatás"
+      "home": "Startseite",
+      "training": "IT-Schulung"
     },
     "hero": {
-      "title": "IT-Schulung und Unternehmenswissensentwicklung",
+      "title": "IT-Schulung & Unternehmenswissensentwicklung",
       "subtitle": "Entwickeln Sie die digitalen Fähigkeiten Ihres Teams mit professionellen Schulungen",
-      "description": "A SIRONIC nemcsak IT-rendszereket üzemeltet – fejlesztjük is a munkatársak digitális tudását. Személyre szabott képzéseinkkel a céged csapata magabiztosan használja a modern eszközöket, és tisztában van a biztonsági kockázatokkal.",
-      "cta": "Kérj ingyenes konzultációt",
-      "scrollDown": "Görgess lejjebb a részletekért"
+      "description": "SIRONIC betreibt nicht nur IT-Systeme – wir entwickeln auch das digitale Wissen Ihrer Mitarbeiter. Mit unseren personalisierten Schulungen nutzt Ihr Team moderne Tools selbstbewusst und ist sich der Sicherheitsrisiken bewusst.",
+      "cta": "Kostenlose Beratung anfordern",
+      "scrollDown": "Nach unten scrollen für Details"
     },
     "intro": {
-      "title": "Miért fontos a vállalati IT oktatás?",
+      "title": "Warum ist IT-Schulung im Unternehmen wichtig?",
       "content": [
-        "A legjobb IT-infrastruktúra sem elég, ha a munkatársak nem tudják hatékonyan használni. A rossz eszközismeret, a biztonsági tudatosság hiánya és az elavult munkafolyamatok csökkentik a produktivitást és növelik a kockázatokat.",
-        "A SIRONIC IT oktatási programjaival a csapatod naprakész ismereteket szerez, magabiztosabban dolgozik, és tudatosan védi a vállalati adatokat. Minden képzésünk gyakorlatias, személyre szabott és közvetlenül alkalmazható a napi munkában."
+        "Selbst die beste IT-Infrastruktur reicht nicht aus, wenn Mitarbeiter sie nicht effektiv nutzen können. Mangelnde Kenntnisse über Tools, fehlendes Sicherheitsbewusstsein und veraltete Arbeitsabläufe verringern die Produktivität und erhöhen die Risiken.",
+        "Mit den IT-Bildungsprogrammen von SIRONIC erhält Ihr Team aktuelles Wissen, arbeitet selbstbewusster und schützt Unternehmensdaten bewusst. Alle unsere Schulungen sind praxisnah, personalisiert und direkt im Arbeitsalltag anwendbar."
       ]
     },
     "services": {
-      "title": "Milyen képzéseket kínálunk?",
-      "subtitle": "Gyakorlatias, üzletközpontú oktatások minden szinten",
+      "title": "Welche Schulungen bieten wir an?",
+      "subtitle": "Praxisnahe, geschäftsorientierte Bildung auf jedem Niveau",
       "items": [
         {
-          "title": "Személyre szabott IT oktatások",
-          "description": "Egyedi tananyag és tempó a csapatod igényei szerint. Kezdő felhasználóktól a haladó felhasználókig – minden képzés a Te vállalkozásod valós igényeihez igazodik. Gyakorlati példákkal, valós helyzetekből tanulva.",
+          "title": "Personalisierte IT-Schulungen",
+          "description": "Individueller Lehrplan und Tempo nach den Bedürfnissen Ihres Teams. Vom Anfänger bis zum Fortgeschrittenen – jeder Kurs ist auf die realen Anforderungen Ihres Unternehmens zugeschnitten. Lernen durch praktische Beispiele und reale Situationen.",
           "topics": [
-            "Windows és macOS alapismeretek",
-            "Fájlkezelés és mappastruktúra",
-            "Adatmentés és helyreállítás",
-            "Perifériák és nyomtatók használata",
-            "Gyors billentyűparancsok és produktivitási tippek"
+            "Windows- und macOS-Grundlagen",
+            "Dateiverwaltung und Ordnerstruktur",
+            "Datensicherung und Wiederherstellung",
+            "Nutzung von Peripheriegeräten und Druckern",
+            "Schnelle Tastenkombinationen und Produktivitätstipps"
           ]
         },
         {
-          "title": "Biztonságtudatossági tréningek",
-          "description": "A legtöbb adatvédelmi incidens emberi hibából történik – e-mail-alapú csalások, gyenge jelszavak, adathalászat. Képzéseinkkel a munkatársak felismerik és elkerülik a kockázatokat.",
+          "title": "Workshops zum Sicherheitsbewusstsein",
+          "description": "Die meisten Datenschutzvorfälle geschehen durch menschliches Versagen – E-Mail-Betrug, schwache Passwörter, Phishing. Unsere Schulungen helfen Mitarbeitern, Risiken zu erkennen und zu vermeiden.",
           "topics": [
-            "Adathalász e-mailek és csalások felismerése",
-            "Biztonságos jelszókezelés és 2FA használata",
-            "Adatvédelmi alapelvek (GDPR) gyakorlatban",
-            "Biztonságos fájlmegosztás és levelezés",
-            "Eszközbiztonság: laptop, telefon, távmunka"
+            "Erkennen von Phishing-E-Mails und Betrug",
+            "Sichere Passwortverwaltung und 2FA-Nutzung",
+            "Datenschutzgrundsätze (DSGVO) in der Praxis",
+            "Sicheres Teilen von Dateien und E-Mail-Verkehr",
+            "Gerätesicherheit: Laptops, Telefone, Fernarbeit"
           ]
         },
         {
-          "title": "Szoftver- és eszközhasználati képzések",
-          "description": "A modern irodai munka szoftveres eszközökön alapul – de sokszor a lehetőségek töredékét használjuk ki. Tanítjuk a hatékony munkavégzés eszközeit és módszereit.",
+          "title": "Software- & Gerätenutzungsschulungen",
+          "description": "Moderne Büroarbeit basiert auf Software-Tools – aber oft nutzen wir nur einen Bruchteil ihres Potenzials. Wir lehren die Werkzeuge und Methoden für effizientes Arbeiten.",
           "topics": [
             "Microsoft 365: Word, Excel, PowerPoint, Outlook, Teams",
             "Google Workspace: Docs, Sheets, Drive, Meet",
-            "Kollaborációs eszközök: Slack, Notion, Trello, Asana",
-            "Videókonferencia eszközök használata",
-            "Felhőalapú fájlmegosztás és szinkronizálás"
+            "Kollaborations-Tools: Slack, Notion, Trello, Asana",
+            "Nutzung von Videokonferenz-Tools",
+            "Cloud-basiertes Teilen und Synchronisieren von Dateien"
           ]
         },
         {
-          "title": "Vállalati tudásfejlesztési programok",
-          "description": "Hosszú távú, folyamatos képzési programok, amelyek biztosítják, hogy a csapat mindig naprakész legyen. Céges tudásbázis építése és rendszeres fejlesztés.",
+          "title": "Unternehmenswissensentwicklung",
+          "description": "Langfristige, kontinuierliche Schulungsprogramme, die sicherstellen, dass das Team immer auf dem neuesten Stand ist. Aufbau einer Unternehmenswissensdatenbank und regelmäßige Weiterentwicklung.",
           "topics": [
-            "Egyedi tananyagok és útmutatók készítése",
-            "Folyamatos online támogatás és Q&A szekciók",
-            "Rendszeres technológiai frissítő tréningek",
-            "Új munkatársak IT onboarding képzése",
-            "Specifikus céges rendszerek oktatása"
+            "Erstellung individueller Lernmaterialien und Leitfäden",
+            "Kontinuierlicher Online-Support und Q&A-Sitzungen",
+            "Regelmäßige Technologie-Auffrischungsschulungen",
+            "IT-Onboarding-Schulung für neue Mitarbeiter",
+            "Schulung zu spezifischen Unternehmenssystemen"
           ]
         }
       ]
     },
     "benefits": {
-      "title": "Miért éri meg vállalati IT képzésbe fektetni?",
-      "subtitle": "Konkrét előnyök, amelyek mérhető eredményt hoznak",
+      "title": "Warum in IT-Schulung investieren?",
+      "subtitle": "Konkrete Vorteile, die messbare Ergebnisse bringen",
       "list": [
-        "Magasabb produktivitás – a munkatársak gyorsabban és hatékonyabban dolgoznak",
-        "Kevesebb IT-hiba és helpdesk hívás – csökken a technikai támogatás terhelése",
-        "Biztonságosabb működés – tudatos munkatársak védik az adatokat",
-        "Jobb eszközkihasználás – a szoftverek és rendszerek teljes potenciálja",
-        "Magabiztosabb csapat – nem félnek az új technológiáktól",
-        "Gyorsabb alkalmazkodás – új eszközök bevezetése gördülékenyebb",
-        "Versenyképesség – digitálisan képzett csapat modernebb vállalkozást jelent"
+        "Höhere Produktivität – Mitarbeiter arbeiten schneller und effektiver",
+        "Weniger IT-Fehler und Helpdesk-Anrufe – geringere Belastung des technischen Supports",
+        "Sichererer Betrieb – bewusste Mitarbeiter schützen Daten",
+        "Bessere Tool-Nutzung – volles Potenzial von Software und Systemen",
+        "Selbstbewussteres Team – keine Angst vor neuen Technologien",
+        "Schnellere Anpassung – reibungslosere Einführung neuer Tools",
+        "Wettbewerbsfähigkeit – ein digital kompetentes Team bedeutet ein moderneres Unternehmen"
       ]
     },
     "targetGroups": {
-      "title": "Kiknek ajánljuk?",
-      "subtitle": "Minden vállalkozásnak, ahol digitális eszközökkel dolgoznak",
+      "title": "Wem empfehlen wir es?",
+      "subtitle": "Für jedes Unternehmen, das mit digitalen Tools arbeitet",
       "groups": [
         {
-          "title": "Irodai dolgozók",
-          "description": "Akik napi szinten használnak számítógépet, e-mailt, Office programokat."
+          "title": "Büroangestellte",
+          "description": "Diejenigen, die täglich Computer, E-Mail und Office-Programme nutzen."
         },
         {
-          "title": "Vezetők és menedzserek",
-          "description": "Akiknek döntéshozatalhoz, riportokhoz és kommunikációhoz kell a digitális eszközismeret."
+          "title": "Führungskräfte und Manager",
+          "description": "Diejenigen, die Wissen über digitale Tools für Entscheidungsfindung, Berichterstattung und Kommunikation benötigen."
         },
         {
-          "title": "Nem-informatikus kollégák",
-          "description": "Akiknek a technológia csak eszköz, de megfelelő tudás nélkül akadály."
+          "title": "Nicht-IT-Kollegen",
+          "description": "Diejenigen, für die Technologie nur ein Werkzeug ist, aber ohne entsprechendes Wissen ein Hindernis darstellt."
         },
         {
-          "title": "Távmunkában dolgozók",
-          "description": "Akiknek a biztonságos és hatékony otthoni munkavégzéshez kell támogatás."
+          "title": "Remote-Mitarbeiter",
+          "description": "Diejenigen, die Unterstützung für sichere und effiziente Arbeit im Homeoffice benötigen."
         },
         {
-          "title": "Új belépők",
-          "description": "Akiknek onboarding részeként meg kell ismerniük a vállalati IT-rendszereket."
+          "title": "Neue Mitarbeiter",
+          "description": "Diejenigen, die im Rahmen des Onboardings Unternehmens-IT-Systeme kennenlernen müssen."
         }
       ]
     },
     "delivery": {
-      "title": "Hogyan zajlanak a képzések?",
-      "subtitle": "Rugalmas oktatási formák – Te választod, melyik illik legjobban",
+      "title": "Wie finden die Schulungen statt?",
+      "subtitle": "Flexible Bildungsformen – Sie wählen, was am besten passt",
       "methods": [
         {
-          "title": "Helyszíni oktatás",
-          "description": "Kimegyünk a céges irodába, és helyben tartjuk a tréninget. Személyes, interaktív, azonnali gyakorlati példákkal a saját rendszereiteken."
+          "title": "Vor-Ort-Schulung",
+          "description": "Wir kommen in Ihr Büro und halten die Schulung vor Ort ab. Persönlich, interaktiv, mit sofortigen praktischen Beispielen an Ihren eigenen Systemen."
         },
         {
-          "title": "Online távoktatás",
-          "description": "Videókonferencia platformon keresztül élőben tartott képzések. Rugalmas időbeosztás, nincs utazás, de ugyanolyan hatékony, mint a helyszíni forma."
+          "title": "Online-Fernschulung",
+          "description": "Live-Schulungssitzungen über Videokonferenzplattformen. Flexible Zeitplanung, keine Reise, aber genauso effektiv wie die Vor-Ort-Form."
         },
         {
-          "title": "Hibrid modell",
-          "description": "Kombináljuk a kettőt: helyszíni kick-off, majd online folytatás. A legjobb mindkét világból."
+          "title": "Hybrid-Modell",
+          "description": "Kombination aus beidem: Vor-Ort-Kick-off, dann Online-Fortsetzung. Das Beste aus beiden Welten."
         }
       ],
-      "languageNote": "Die Schulungen sind derzeit nur auf Ungarisch verfügbar, sowohl online als auch vor Ort."
+      "languageNote": "Die Schulungen sind derzeit nur in ungarischer Sprache verfügbar, entweder online oder vor Ort."
     },
     "topics": {
-      "title": "Konkrét témák, amiket oktatunk",
-      "subtitle": "Gyakorlatias tudás, amit azonnal alkalmazhatsz",
+      "title": "Spezifische Themen, die wir lehren",
+      "subtitle": "Praktisches Wissen, das Sie sofort anwenden können",
       "list": [
-        "Microsoft 365 használata (Word, Excel, PowerPoint, Outlook, OneDrive, Teams)",
-        "Google Workspace eszközök (Gmail, Drive, Docs, Sheets, Meet)",
-        "Biztonságos jelszókezelés és két-faktoros hitelesítés",
-        "Adathalász e-mailek és online csalások felismerése",
-        "Biztonságos fájlmegosztás és felhőtárolás",
-        "Videokonferencia eszközök professzionális használata",
-        "Hatékony e-mail menedzsment és postaláda szervezés",
-        "Projektek és feladatok kezelése (Trello, Asana, Notion)",
-        "Windows és macOS alapfunkciók és tippek",
-        "Irodai eszközök: nyomtatók, szkennerek, multimédia"
+        "Nutzung von Microsoft 365 (Word, Excel, PowerPoint, Outlook, OneDrive, Teams)",
+        "Google Workspace-Tools (Gmail, Drive, Docs, Sheets, Meet)",
+        "Sichere Passwortverwaltung und Zwei-Faktor-Authentifizierung",
+        "Erkennen von Phishing-E-Mails und Online-Betrug",
+        "Sicheres Teilen von Dateien und Cloud-Speicher",
+        "Professionelle Nutzung von Videokonferenz-Tools",
+        "Effizientes E-Mail-Management und Posteingangsorganisation",
+        "Projekt- und Aufgabenmanagement (Trello, Asana, Notion)",
+        "Windows- und macOS-Grundfunktionen und Tipps",
+        "Bürogeräte: Drucker, Scanner, Multimedia"
       ]
     },
     "methodology": {
-      "title": "Hogyan dolgozunk?",
-      "subtitle": "Strukturált oktatási folyamat – lépésről lépésre",
+      "title": "Wie arbeiten wir?",
+      "subtitle": "Strukturierter Bildungsprozess – Schritt für Schritt",
       "steps": [
         {
           "number": "1",
-          "title": "Igényfelmérés",
-          "description": "Megismerjük a csapatot, a jelenlegi tudásszintet és a céges folyamatokat. Tisztázzuk, milyen területeken van szükség fejlesztésre."
+          "title": "Bedarfsanalyse",
+          "description": "Wir lernen das Team, den aktuellen Wissensstand und die Unternehmensprozesse kennen. Wir klären, welche Bereiche Entwicklung benötigen."
         },
         {
           "number": "2",
-          "title": "Egyedi tananyag készítése",
-          "description": "Személyre szabott oktatási terv és tananyag, amely illeszkedik a vállalkozásod eszközeihez és munkafolyamataihoz."
+          "title": "Erstellung individueller Lehrpläne",
+          "description": "Personalisierter Bildungsplan und Material, das zu den Tools und Arbeitsabläufen Ihres Unternehmens passt."
         },
         {
           "number": "3",
-          "title": "Képzés lebonyolítása",
-          "description": "Interaktív, gyakorlatias oktatás élőben – kérdések, válaszok, valós példák a saját környezetetekben."
+          "title": "Durchführung der Schulung",
+          "description": "Interaktive, praktische Live-Bildung – Fragen, Antworten, reale Beispiele in Ihrer eigenen Umgebung."
         },
         {
           "number": "4",
-          "title": "Utókövetés és támogatás",
-          "description": "Képzés után is elérhető vagyunk – kérdések, ismétlések, további segítség. Biztosítjuk, hogy a tudás valóban beépüljön a napi rutinba."
+          "title": "Nachbereitung und Support",
+          "description": "Wir sind auch nach der Schulung verfügbar – Fragen, Wiederholungen, weitere Hilfe. Wir stellen sicher, dass das Wissen wirklich in den Alltag integriert wird."
         }
       ]
     },
     "faq": {
-      "title": "Gyakran ismételt kérdések",
+      "title": "Häufig gestellte Fragen",
       "items": [
         {
-          "question": "Mennyi időt vesz igénybe egy képzés?",
-          "answer": "A képzés hossza az igényektől függ. Egy egyszeri workshop 2-4 óra, míg egy átfogó vállalati program több héten át, több alkalom lehet. Minden esetben egyeztetjük az időkeretet."
+          "question": "Wie lange dauert eine Schulung?",
+          "answer": "Die Dauer hängt von den Bedürfnissen ab. Ein einmaliger Workshop dauert 2-4 Stunden, während ein umfassendes Unternehmensprogramm mehrere Wochen mit mehreren Sitzungen umfassen kann. Wir vereinbaren immer den Zeitrahmen."
         },
         {
-          "question": "Hány főnek tartható egyszerre a tréning?",
-          "answer": "Ideális létszám 5-15 fő között van, hogy minden résztvevő kapjon elég figyelmet. Nagyobb csoportok esetén több turnusban vagy párhuzamos csoportokban is megtartható."
+          "question": "Wie viele Personen können gleichzeitig teilnehmen?",
+          "answer": "Die ideale Anzahl liegt zwischen 5-15 Personen, damit jeder genügend Aufmerksamkeit erhält. Für größere Gruppen können wir mehrere Schichten oder parallele Gruppen abhalten."
         },
         {
-          "question": "Kell előzetes IT tudás a résztvevőknek?",
-          "answer": "Nem! A képzéseket a résztvevők jelenlegi tudásszintjéhez igazítjuk – kezdőtől haladóig. Előtte felmérjük, ki milyen szinten áll."
+          "question": "Benötigen die Teilnehmer IT-Vorkenntnisse?",
+          "answer": "Nein! Wir passen die Schulung an den aktuellen Wissensstand der Teilnehmer an – vom Anfänger bis zum Fortgeschrittenen. Wir bewerten vorher, wo jeder steht."
         },
         {
-          "question": "Kapnak a résztvevők tananyagot, jegyzetet?",
-          "answer": "Igen! Minden képzés után digitális formában megkapják az anyagot, prezentációkat, gyakorlati útmutatókat – így bármikor visszanézhetik."
+          "question": "Erhalten die Teilnehmer Materialien oder Notizen?",
+          "answer": "Ja! Nach jeder Schulung erhalten sie das Material, Präsentationen und praktische Leitfäden in digitaler Form – damit sie diese jederzeit überprüfen können."
         },
         {
-          "question": "Milyen nyelven zajlanak a képzések?",
-          "answer": "Jelenleg az oktatások kizárólag magyar nyelven érhetők el, online vagy helyszíni formában."
+          "question": "In welcher Sprache werden die Schulungen abgehalten?",
+          "answer": "Derzeit sind die Schulungen ausschließlich in ungarischer Sprache verfügbar, entweder online oder vor Ort."
         },
         {
-          "question": "Mennyibe kerül egy vállalati IT képzés?",
-          "answer": "A díjszabás egyedi ajánlat alapján történik – függ a résztvevők számától, a témáktól, és az oktatás időtartamától. Kérj ajánlatot, és egyeztetünk!"
+          "question": "Wie viel kostet eine Unternehmens-IT-Schulung?",
+          "answer": "Die Preisgestaltung basiert auf einem individuellen Angebot – abhängig von der Anzahl der Teilnehmer, Themen und Dauer. Fordern Sie ein Angebot an, und wir besprechen es!"
         }
       ]
     },
     "pricing": {
-      "title": "Mennyibe kerül egy IT képzés?",
-      "subtitle": "Egyedi ajánlatot készítünk – minden cég más igényekkel rendelkezik",
-      "description": "A képzések ára függ a résztvevők számától, a képzés időtartamától, a témáktól és a helyszíntől (online/offline). Átlagosan egy 4 órás workshop 80.000 Ft-tól indul kis csoportoknak, míg egy hosszabb, folyamatos fejlesztési program havidíjas konstrukcióban is elérhető.",
-      "process": "Kérj ingyenes konzultációt, felmérjük az igényeket, és részletes, átlátható ajánlatot készítünk.",
-      "cta": "Kérj ajánlatot most"
+      "title": "Wie viel kostet eine IT-Schulung?",
+      "subtitle": "Wir erstellen individuelle Angebote – jedes Unternehmen hat andere Bedürfnisse",
+      "description": "Die Schulungspreise hängen von der Anzahl der Teilnehmer, Dauer, Themen und dem Ort (online/offline) ab. Im Durchschnitt beginnt ein 4-stündiger Workshop ab 200 € für kleine Gruppen, während ein längeres, kontinuierliches Entwicklungsprogramm im monatlichen Abonnementmodell verfügbar ist.",
+      "process": "Fordern Sie eine kostenlose Beratung an, wir bewerten den Bedarf und erstellen ein detailliertes, transparentes Angebot.",
+      "cta": "Angebot jetzt anfordern"
     },
     "finalCta": {
-      "title": "Indítsuk el a csapatod digitális fejlesztését!",
-      "description": "Kérj ingyenes konzultációt, és találjuk meg együtt, milyen IT képzésekkel fejlesztheted a vállalkozásod hatékonyságát és biztonságát.",
-      "button": "Kérek ajánlatot IT képzésre"
+      "title": "Starten Sie die digitale Entwicklung Ihres Teams!",
+      "description": "Fordern Sie eine kostenlose Beratung an, und lassen Sie uns gemeinsam herausfinden, welche IT-Schulungen Ihre Geschäftseffizienz und Sicherheit verbessern können.",
+      "button": "IT-Schulungsangebot anfordern"
     }
   }
 }

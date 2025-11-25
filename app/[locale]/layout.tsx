@@ -7,6 +7,8 @@ import { SkipToContent } from '@/components/SkipToContent';
 import { GoogleAnalytics } from '@/components/GoogleAnalytics';
 import { notFound } from 'next/navigation';
 import { locales } from '@/i18n';
+import HreflangTags from '@/components/HreflangTags';
+import { TranslationsProvider } from '@/components/TranslationsProvider';
 
 const inter = Inter({ subsets: ['latin'], variable: '--font-inter' });
 
@@ -19,17 +21,37 @@ export async function generateMetadata({ params }: { params: { locale: string } 
     messages = (await import(`@/locales/hu.json`)).default;
   }
 
+  const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://sironic.hu';
+
   return {
-    metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL || 'https://sironic.hu'),
+    metadataBase: new URL(baseUrl),
     title: messages.meta.siteTitle,
     description: messages.meta.siteDescription,
-    keywords: ['IT szolgáltatás', 'rendszerüzemeltetés', 'rendszergazda', 'hálózatépítés', 'IT biztonság', 'webfejlesztés', 'CRM fejlesztés', 'IT oktatás', 'informatikai képzés', 'biztonságtudatosság', 'digitális tréning', 'IT kereskedelem', 'IT eszköz értékesítés', 'hosting szolgáltatás', 'webtárhely', 'szerver bérlés', 'számítógép javítás', 'laptop szerviz', 'helyszíni szerviz', 'adatbiztonság', 'karbantartás', 'Székesfehérvár'],
+    keywords: messages.meta.keywords ?? [],
     authors: [{ name: messages.meta.companyName }],
+    alternates: {
+      canonical: `${baseUrl}/${locale}`,
+      languages: {
+        'hu': `${baseUrl}/hu`,
+        'en': `${baseUrl}/en`,
+        'de': `${baseUrl}/de`,
+        'sk': `${baseUrl}/sk`,
+        'ro': `${baseUrl}/ro`,
+        'x-default': baseUrl,
+      },
+    },
     openGraph: {
       title: messages.meta.siteTitle,
       description: messages.meta.siteDescription,
       type: 'website',
       locale: locale,
+      url: `${baseUrl}/${locale}`,
+      siteName: messages.meta.companyName,
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title: messages.meta.siteTitle,
+      description: messages.meta.siteDescription,
     },
   };
 }
@@ -37,10 +59,6 @@ export async function generateMetadata({ params }: { params: { locale: string } 
 export async function generateStaticParams() {
   return locales.map((locale) => ({ locale }));
 }
-
-import HreflangTags from '@/components/HreflangTags';
-
-import { TranslationsProvider } from '@/components/TranslationsProvider';
 
 export default async function RootLayout({
   children,
@@ -63,8 +81,6 @@ export default async function RootLayout({
   return (
     <html lang={locale}>
       <head>
-        <link rel="preconnect" href="https://fonts.googleapis.com" />
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
         <HreflangTags />
       </head>
       <body className={inter.className}>

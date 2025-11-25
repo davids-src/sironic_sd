@@ -12,6 +12,15 @@ const config: Config = {
       fontFamily: {
         sans: ['Inter', 'system-ui', 'sans-serif'],
       },
+      fontWeight: {
+        light: '300',
+        normal: '400',
+        medium: '500',
+        semibold: '600',
+        bold: '700',
+        extrabold: '800',
+        black: '900',
+      },
       backgroundImage: {
         'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',
         'gradient-conic':
@@ -26,6 +35,18 @@ const config: Config = {
         brand: {
           red: '#D32F2F',
           grey: '#757575',
+        },
+        success: {
+          DEFAULT: '#10B981', // Emerald-500
+          foreground: '#FFFFFF',
+        },
+        warning: {
+          DEFAULT: '#F59E0B', // Amber-500
+          foreground: '#FFFFFF',
+        },
+        info: {
+          DEFAULT: '#3B82F6', // Blue-500
+          foreground: '#FFFFFF',
         },
         background: 'hsl(var(--background))',
         foreground: 'hsl(var(--foreground))',
@@ -89,11 +110,36 @@ const config: Config = {
           '0%': { opacity: '0', transform: 'translateY(10px)' },
           '100%': { opacity: '1', transform: 'translateY(0)' },
         },
+        'slide-up': {
+          '0%': { opacity: '0', transform: 'translateY(20px)' },
+          '100%': { opacity: '1', transform: 'translateY(0)' },
+        },
+        'slide-in-left': {
+          '0%': { opacity: '0', transform: 'translateX(-20px)' },
+          '100%': { opacity: '1', transform: 'translateX(0)' },
+        },
+        'slide-in-right': {
+          '0%': { opacity: '0', transform: 'translateX(20px)' },
+          '100%': { opacity: '1', transform: 'translateX(0)' },
+        },
+        'scale-in': {
+          '0%': { opacity: '0', transform: 'scale(0.95)' },
+          '100%': { opacity: '1', transform: 'scale(1)' },
+        },
+        shimmer: {
+          '0%': { backgroundPosition: '-1000px 0' },
+          '100%': { backgroundPosition: '1000px 0' },
+        },
       },
       animation: {
         'accordion-down': 'accordion-down 0.2s ease-out',
         'accordion-up': 'accordion-up 0.2s ease-out',
         'fade-in': 'fade-in 0.6s ease-out',
+        'slide-up': 'slide-up 0.5s ease-out',
+        'slide-in-left': 'slide-in-left 0.5s ease-out',
+        'slide-in-right': 'slide-in-right 0.5s ease-out',
+        'scale-in': 'scale-in 0.3s ease-out',
+        shimmer: 'shimmer 2s infinite linear',
       },
     },
   },

@@ -2,7 +2,106 @@
   "meta": {
     "siteTitle": "SIRONIC IT Solutions",
     "siteDescription": "Comprehensive IT solutions for small and medium-sized businesses in Székesfehérvár",
-    "companyName": "SIRONIC IT Solutions"
+    "companyName": "SIRONIC IT Solutions",
+    "keywords": [
+      "IT services",
+      "system management",
+      "network setup",
+      "IT security",
+      "web development",
+      "CRM development",
+      "IT training",
+      "cybersecurity training",
+      "digital skills",
+      "IT equipment",
+      "hosting services",
+      "web hosting",
+      "server rental",
+      "computer repair",
+      "laptop service",
+      "on-site support",
+      "data security",
+      "maintenance",
+      "Székesfehérvár",
+      "Hungary"
+    ],
+    "ogImage": "/og/home-en.jpg",
+    "pages": {
+      "services": {
+        "title": "Our Services - SIRONIC IT Solutions",
+        "description": "Complete IT services: system management, network setup, IT security, web development, hosting, repair services, and IT training in Székesfehérvár, Hungary.",
+        "keywords": [
+          "IT services",
+          "system management",
+          "network infrastructure",
+          "IT security",
+          "web development",
+          "hosting",
+          "repair",
+          "Székesfehérvár"
+        ],
+        "ogImage": "/og/services-en.jpg"
+      },
+      "about": {
+        "title": "About Us - SIRONIC IT Solutions",
+        "description": "Reliable IT partner with 5+ years of experience. Proactive support, transparent pricing, and human communication - that's SIRONIC.",
+        "keywords": [
+          "IT company",
+          "Székesfehérvár",
+          "reliable IT partner",
+          "system management",
+          "IT support"
+        ],
+        "ogImage": "/og/about-en.jpg"
+      },
+      "contact": {
+        "title": "Contact - SIRONIC IT Solutions",
+        "description": "Get in touch for a free consultation. Email: hello@sironic.hu, Phone: +36 70 273 5532. Based in Székesfehérvár, Hungary.",
+        "keywords": [
+          "IT contact",
+          "free consultation",
+          "Székesfehérvár IT",
+          "hello@sironic.hu"
+        ],
+        "ogImage": "/og/contact-en.jpg"
+      },
+      "pricing": {
+        "title": "Pricing - SIRONIC IT Solutions",
+        "description": "Transparent IT pricing with fixed monthly plans. System management from HUF 39,000/month. Custom quotes tailored to your business needs.",
+        "keywords": [
+          "IT pricing",
+          "monthly IT support",
+          "system management cost",
+          "IT expenses",
+          "Székesfehérvár"
+        ],
+        "ogImage": "/og/pricing-en.jpg"
+      },
+      "products": {
+        "title": "Our Products - SIRONIC IT Solutions",
+        "description": "Custom software solutions and IT products for small and medium-sized businesses. Modern, reliable applications tailored to your needs.",
+        "keywords": [
+          "IT products",
+          "custom software",
+          "CRM system",
+          "web application",
+          "mobile app"
+        ],
+        "ogImage": "/og/products-en.jpg"
+      },
+      "blog": {
+        "title": "Blog - SIRONIC IT Solutions",
+        "description": "IT tips, knowledge base, and guides for businesses. Practical advice on IT security, efficiency, and development.",
+        "keywords": [
+          "IT blog",
+          "IT tips",
+          "IT security",
+          "business IT",
+          "knowledge base"
+        ],
+        "ogImage": "/og/blog-en.jpg"
+      }
+    }
   },
   "nav": {
     "home": "Home",
@@ -123,7 +222,49 @@
     ]
   },
   "faq": {
-    "title": "Frequently Asked Questions"
+    "title": "Frequently Asked Questions",
+    "items": [
+      {
+        "question": "What businesses do you serve?",
+        "answer": "SIRONIC specializes in small and medium-sized enterprises, but we also offer solutions for larger companies based on unique needs. Whether it's system administration support, network building, or web development – we find the ideal IT solution for every business."
+      },
+      {
+        "question": "How is SIRONIC different from other IT providers?",
+        "answer": "We are not just 'fixers' – we proactively monitor systems, prevent problems, and communicate in human language. We don't let IT be an obstacle, but rather forge a competitive advantage from it."
+      },
+      {
+        "question": "How fast do you react to an error report?",
+        "answer": "Generally, we react within 1–4 hours, in urgent cases even immediately. For our subscription partners, we provide guaranteed response times."
+      },
+      {
+        "question": "Do you undertake on-site visits or only provide remote support?",
+        "answer": "Yes, both! We resolve most errors remotely, but if necessary, we also go to the site personally."
+      },
+      {
+        "question": "Do you create websites completely from scratch?",
+        "answer": "Naturally. We develop unique, responsive websites with modern technologies (Next.js, React, Tailwind), and ensure the site is fast, secure, and search engine optimized."
+      },
+      {
+        "question": "What is CRM Pro and how does it help my business?",
+        "answer": "CRM Pro is a custom-developed customer management system that makes sales processes transparent, automates administration, and can be integrated with existing systems. Available in a price range accessible to smaller companies too."
+      },
+      {
+        "question": "What security measures do you apply?",
+        "answer": "We use modern firewalls, data backup solutions, encryption, and access management. We design all our systems to be GDPR-compliant, so data security is default."
+      },
+      {
+        "question": "In what form can we contract with you?",
+        "answer": "We work in two main constructions: ad-hoc assignment (for occasional tasks) and monthly maintenance contract (permanent operation and support). Both are transparent, with fixed pricing."
+      },
+      {
+        "question": "How much does website or system development cost?",
+        "answer": "Basic websites start from 250,000 HUF, while the price of unique systems or CRM solutions is determined depending on functionality. We give a precise price quote before every project."
+      },
+      {
+        "question": "Why is it worth choosing cloud-based solutions?",
+        "answer": "The cloud is fast, secure, and flexible – no need to maintain your own server, data is always available, and expansion can be solved in moments."
+      }
+    ]
   },
   "finalCta": {
     "title": "Ready for Worry-Free IT?",
@@ -145,7 +286,22 @@
       "required": "*",
       "success": "Your message has been sent successfully! We'll contact you shortly.",
       "error": "An error occurred while sending your message",
-      "noscript": "You can also send your message via email:"
+      "noscript": "You can also send your message via email:",
+      "options": {
+        "placeholder": "Select a service",
+        "mindenCegnek": "Every company should have an IT specialist",
+        "systemOperation": "System operation and IT maintenance",
+        "networking": "Network building and development",
+        "security": "IT security and data protection",
+        "development": "Website and system development",
+        "commerce": "Commerce – IT devices and software",
+        "hosting": "Hosting and cloud solutions",
+        "repair": "Service and repair",
+        "training": "IT education and knowledge development"
+      },
+      "errors": {
+        "general": "A network error occurred. Please try again later."
+      }
     },
     "info": {
       "title": "Contact Information",
@@ -761,242 +917,256 @@
   },
   "itTraining": {
     "badge": "IT Education & Training",
-    "title": "IT Education & Corporate Digital Skills Development",
-    "subtitle": "Develop Your Team's Digital Competencies",
-    "description": "We offer personalized IT training, security awareness programs, and system-level knowledge development so employees can confidently use modern tools and software. Secure operations start with information.",
+    "title": "IT Education & Corporate Knowledge Development",
+    "subtitle": "Develop Your Team's Digital Skills",
+    "description": "We offer personalized IT training, security awareness workshops, and system-level knowledge development to ensure your employees use modern tools and software with confidence. Secure operations start with information.",
     "cards": {
       "personalized": {
         "title": "Personalized IT Training",
-        "description": "Custom training programs to develop your team's digital knowledge. Practical skills that can be applied immediately in daily work."
+        "description": "Custom training programs to enhance your team's digital proficiency. Practical knowledge that can be immediately applied to daily tasks."
       },
       "security": {
         "title": "Security Awareness Training",
-        "description": "Cybersecurity basics and data protection training. Teach your team how to protect your company's data and systems."
+        "description": "Cybersecurity fundamentals and data protection workshops. Teach your team how to safeguard your company's data and systems effectively."
       },
       "software": {
-        "title": "Software & Hardware Usage Courses",
-        "description": "Efficient use of Microsoft 365, Google Workspace, and office tools. Increase productivity by mastering the right tools."
+        "title": "Software & Device Usage Training",
+        "description": "Efficient use of Microsoft 365, Google Workspace, and office tools. Boost productivity by mastering the right tools."
       },
       "corporate": {
         "title": "Corporate Knowledge Development Programs",
-        "description": "Long-term digital competency development. Continuous training programs that keep pace with technological changes."
+        "description": "Long-term digital competence development. Continuous education programs that keep pace with technological advancements."
       }
     },
-    "languageNote": "Training sessions are currently available only in Hungarian, both online and on-site.",
+    "languageNote": "Training sessions are currently available only in Hungarian, either online or on-site.",
     "cta": {
       "main": "Request Training Quote",
       "learnMore": "Learn More"
     }
   },
   "itTrainingPage": {
+    "meta": {
+      "title": "IT Education & Corporate Training | SIRONIC",
+      "description": "Practical IT training for companies: security awareness, software usage, and digital competence development. Upgrade your team's skills!",
+      "keywords": [
+        "IT training",
+        "corporate training",
+        "security awareness",
+        "digital competence",
+        "Excel course",
+        "IT workshop"
+      ],
+      "ogTitle": "IT Education & Corporate Training - SIRONIC",
+      "ogDescription": "Practical IT training for companies. Upgrade your team's digital skills with us!"
+    },
     "breadcrumb": {
-      "home": "Főoldal",
-      "training": "IT oktatás"
+      "home": "Home",
+      "training": "IT Education"
     },
     "hero": {
-      "title": "IT Education & Corporate Digital Skills Development",
+      "title": "IT Education & Corporate Knowledge Development",
       "subtitle": "Develop your team's digital skills with professional training",
-      "description": "SIRONIC doesn't just operate IT systems – we also develop employees' digital knowledge. With our personalized training, your company's team confidently uses modern tools and is aware of security risks.",
-      "cta": "Kérj ingyenes konzultációt",
-      "scrollDown": "Görgess lejjebb a részletekért"
+      "description": "SIRONIC doesn't just operate IT systems – we also develop your employees' digital knowledge. With our personalized training, your team will use modern tools confidently and be aware of security risks.",
+      "cta": "Request Free Consultation",
+      "scrollDown": "Scroll down for details"
     },
     "intro": {
-      "title": "Miért fontos a vállalati IT oktatás?",
+      "title": "Why is Corporate IT Education Important?",
       "content": [
-        "A legjobb IT-infrastruktúra sem elég, ha a munkatársak nem tudják hatékonyan használni. A rossz eszközismeret, a biztonsági tudatosság hiánya és az elavult munkafolyamatok csökkentik a produktivitást és növelik a kockázatokat.",
-        "A SIRONIC IT oktatási programjaival a csapatod naprakész ismereteket szerez, magabiztosabban dolgozik, és tudatosan védi a vállalati adatokat. Minden képzésünk gyakorlatias, személyre szabott és közvetlenül alkalmazható a napi munkában."
+        "Even the best IT infrastructure isn't enough if employees can't use it effectively. Poor tool knowledge, lack of security awareness, and outdated workflows reduce productivity and increase risks.",
+        "With SIRONIC's IT education programs, your team gains up-to-date knowledge, works more confidently, and consciously protects corporate data. All our training is practical, personalized, and directly applicable to daily work."
       ]
     },
     "services": {
-      "title": "Milyen képzéseket kínálunk?",
-      "subtitle": "Gyakorlatias, üzletközpontú oktatások minden szinten",
+      "title": "What Training Do We Offer?",
+      "subtitle": "Practical, business-focused education at every level",
       "items": [
         {
-          "title": "Személyre szabott IT oktatások",
-          "description": "Egyedi tananyag és tempó a csapatod igényei szerint. Kezdő felhasználóktól a haladó felhasználókig – minden képzés a Te vállalkozásod valós igényeihez igazodik. Gyakorlati példákkal, valós helyzetekből tanulva.",
+          "title": "Personalized IT Training",
+          "description": "Custom curriculum and pace according to your team's needs. From beginner to advanced users – every course is tailored to your business's real requirements. Learning through practical examples and real-life situations.",
           "topics": [
-            "Windows és macOS alapismeretek",
-            "Fájlkezelés és mappastruktúra",
-            "Adatmentés és helyreállítás",
-            "Perifériák és nyomtatók használata",
-            "Gyors billentyűparancsok és produktivitási tippek"
+            "Windows and macOS basics",
+            "File management and folder structure",
+            "Data backup and recovery",
+            "Using peripherals and printers",
+            "Quick keyboard shortcuts and productivity tips"
           ]
         },
         {
-          "title": "Biztonságtudatossági tréningek",
-          "description": "A legtöbb adatvédelmi incidens emberi hibából történik – e-mail-alapú csalások, gyenge jelszavak, adathalászat. Képzéseinkkel a munkatársak felismerik és elkerülik a kockázatokat.",
+          "title": "Security Awareness Training",
+          "description": "Most data protection incidents happen due to human error – email-based scams, weak passwords, phishing. Our training helps employees recognize and avoid risks.",
           "topics": [
-            "Adathalász e-mailek és csalások felismerése",
-            "Biztonságos jelszókezelés és 2FA használata",
-            "Adatvédelmi alapelvek (GDPR) gyakorlatban",
-            "Biztonságos fájlmegosztás és levelezés",
-            "Eszközbiztonság: laptop, telefon, távmunka"
+            "Recognizing phishing emails and scams",
+            "Secure password management and 2FA usage",
+            "Data protection principles (GDPR) in practice",
+            "Secure file sharing and emailing",
+            "Device security: laptops, phones, remote work"
           ]
         },
         {
-          "title": "Szoftver- és eszközhasználati képzések",
-          "description": "A modern irodai munka szoftveres eszközökön alapul – de sokszor a lehetőségek töredékét használjuk ki. Tanítjuk a hatékony munkavégzés eszközeit és módszereit.",
+          "title": "Software & Device Usage Training",
+          "description": "Modern office work relies on software tools – but often we only use a fraction of their potential. We teach the tools and methods for efficient work.",
           "topics": [
             "Microsoft 365: Word, Excel, PowerPoint, Outlook, Teams",
             "Google Workspace: Docs, Sheets, Drive, Meet",
-            "Kollaborációs eszközök: Slack, Notion, Trello, Asana",
-            "Videókonferencia eszközök használata",
-            "Felhőalapú fájlmegosztás és szinkronizálás"
+            "Collaboration tools: Slack, Notion, Trello, Asana",
+            "Using video conferencing tools",
+            "Cloud-based file sharing and synchronization"
           ]
         },
         {
-          "title": "Vállalati tudásfejlesztési programok",
-          "description": "Hosszú távú, folyamatos képzési programok, amelyek biztosítják, hogy a csapat mindig naprakész legyen. Céges tudásbázis építése és rendszeres fejlesztés.",
+          "title": "Corporate Knowledge Development Programs",
+          "description": "Long-term, continuous training programs ensuring the team is always up-to-date. Building a company knowledge base and regular development.",
           "topics": [
-            "Egyedi tananyagok és útmutatók készítése",
-            "Folyamatos online támogatás és Q&A szekciók",
-            "Rendszeres technológiai frissítő tréningek",
-            "Új munkatársak IT onboarding képzése",
-            "Specifikus céges rendszerek oktatása"
+            "Creating custom learning materials and guides",
+            "Continuous online support and Q&A sessions",
+            "Regular technology refresher training",
+            "IT onboarding training for new employees",
+            "Training on specific company systems"
           ]
         }
       ]
     },
     "benefits": {
-      "title": "Miért éri meg vállalati IT képzésbe fektetni?",
-      "subtitle": "Konkrét előnyök, amelyek mérhető eredményt hoznak",
+      "title": "Why Invest in Corporate IT Training?",
+      "subtitle": "Concrete benefits that bring measurable results",
       "list": [
-        "Magasabb produktivitás – a munkatársak gyorsabban és hatékonyabban dolgoznak",
-        "Kevesebb IT-hiba és helpdesk hívás – csökken a technikai támogatás terhelése",
-        "Biztonságosabb működés – tudatos munkatársak védik az adatokat",
-        "Jobb eszközkihasználás – a szoftverek és rendszerek teljes potenciálja",
-        "Magabiztosabb csapat – nem félnek az új technológiáktól",
-        "Gyorsabb alkalmazkodás – új eszközök bevezetése gördülékenyebb",
-        "Versenyképesség – digitálisan képzett csapat modernebb vállalkozást jelent"
+        "Higher productivity – employees work faster and more effectively",
+        "Fewer IT errors and helpdesk calls – reduced load on technical support",
+        "More secure operations – conscious employees protect data",
+        "Better tool utilization – full potential of software and systems",
+        "More confident team – no fear of new technologies",
+        "Faster adaptation – smoother introduction of new tools",
+        "Competitiveness – a digitally skilled team means a more modern business"
       ]
     },
     "targetGroups": {
-      "title": "Kiknek ajánljuk?",
-      "subtitle": "Minden vállalkozásnak, ahol digitális eszközökkel dolgoznak",
+      "title": "Who Do We Recommend It For?",
+      "subtitle": "For every business working with digital tools",
       "groups": [
         {
-          "title": "Irodai dolgozók",
-          "description": "Akik napi szinten használnak számítógépet, e-mailt, Office programokat."
+          "title": "Office Workers",
+          "description": "Those who use computers, email, and Office programs daily."
         },
         {
-          "title": "Vezetők és menedzserek",
-          "description": "Akiknek döntéshozatalhoz, riportokhoz és kommunikációhoz kell a digitális eszközismeret."
+          "title": "Leaders and Managers",
+          "description": "Those who need digital tool knowledge for decision-making, reporting, and communication."
         },
         {
-          "title": "Nem-informatikus kollégák",
-          "description": "Akiknek a technológia csak eszköz, de megfelelő tudás nélkül akadály."
+          "title": "Non-IT Colleagues",
+          "description": "Those for whom technology is just a tool, but a barrier without proper knowledge."
         },
         {
-          "title": "Távmunkában dolgozók",
-          "description": "Akiknek a biztonságos és hatékony otthoni munkavégzéshez kell támogatás."
+          "title": "Remote Workers",
+          "description": "Those who need support for secure and efficient home office work."
         },
         {
-          "title": "Új belépők",
-          "description": "Akiknek onboarding részeként meg kell ismerniük a vállalati IT-rendszereket."
+          "title": "New Hires",
+          "description": "Those who need to learn corporate IT systems as part of onboarding."
         }
       ]
     },
     "delivery": {
-      "title": "Hogyan zajlanak a képzések?",
-      "subtitle": "Rugalmas oktatási formák – Te választod, melyik illik legjobban",
+      "title": "How Is Training Delivered?",
+      "subtitle": "Flexible education forms – You choose what fits best",
       "methods": [
         {
-          "title": "Helyszíni oktatás",
-          "description": "Kimegyünk a céges irodába, és helyben tartjuk a tréninget. Személyes, interaktív, azonnali gyakorlati példákkal a saját rendszereiteken."
+          "title": "On-site Training",
+          "description": "We come to your office and hold the training on-site. Personal, interactive, with immediate practical examples on your own systems."
         },
         {
-          "title": "Online távoktatás",
-          "description": "Videókonferencia platformon keresztül élőben tartott képzések. Rugalmas időbeosztás, nincs utazás, de ugyanolyan hatékony, mint a helyszíni forma."
+          "title": "Online Remote Training",
+          "description": "Live training sessions via video conferencing platforms. Flexible scheduling, no travel, but just as effective as the on-site form."
         },
         {
-          "title": "Hibrid modell",
-          "description": "Kombináljuk a kettőt: helyszíni kick-off, majd online folytatás. A legjobb mindkét világból."
+          "title": "Hybrid Model",
+          "description": "Combining the two: on-site kick-off, then online continuation. The best of both worlds."
         }
       ],
-      "languageNote": "Training sessions are currently available only in Hungarian, both online and on-site."
+      "languageNote": "Training sessions are currently available only in Hungarian, either online or on-site."
     },
     "topics": {
-      "title": "Konkrét témák, amiket oktatunk",
-      "subtitle": "Gyakorlatias tudás, amit azonnal alkalmazhatsz",
+      "title": "Specific Topics We Teach",
+      "subtitle": "Practical knowledge you can apply immediately",
       "list": [
-        "Microsoft 365 használata (Word, Excel, PowerPoint, Outlook, OneDrive, Teams)",
-        "Google Workspace eszközök (Gmail, Drive, Docs, Sheets, Meet)",
-        "Biztonságos jelszókezelés és két-faktoros hitelesítés",
-        "Adathalász e-mailek és online csalások felismerése",
-        "Biztonságos fájlmegosztás és felhőtárolás",
-        "Videokonferencia eszközök professzionális használata",
-        "Hatékony e-mail menedzsment és postaláda szervezés",
-        "Projektek és feladatok kezelése (Trello, Asana, Notion)",
-        "Windows és macOS alapfunkciók és tippek",
-        "Irodai eszközök: nyomtatók, szkennerek, multimédia"
+        "Using Microsoft 365 (Word, Excel, PowerPoint, Outlook, OneDrive, Teams)",
+        "Google Workspace tools (Gmail, Drive, Docs, Sheets, Meet)",
+        "Secure password management and two-factor authentication",
+        "Recognizing phishing emails and online scams",
+        "Secure file sharing and cloud storage",
+        "Professional use of video conferencing tools",
+        "Efficient email management and inbox organization",
+        "Project and task management (Trello, Asana, Notion)",
+        "Windows and macOS basic functions and tips",
+        "Office devices: printers, scanners, multimedia"
       ]
     },
     "methodology": {
-      "title": "Hogyan dolgozunk?",
-      "subtitle": "Strukturált oktatási folyamat – lépésről lépésre",
+      "title": "How Do We Work?",
+      "subtitle": "Structured education process – step by step",
       "steps": [
         {
           "number": "1",
-          "title": "Igényfelmérés",
-          "description": "Megismerjük a csapatot, a jelenlegi tudásszintet és a céges folyamatokat. Tisztázzuk, milyen területeken van szükség fejlesztésre."
+          "title": "Needs Assessment",
+          "description": "We get to know the team, current knowledge levels, and company processes. We clarify which areas need development."
         },
         {
           "number": "2",
-          "title": "Egyedi tananyag készítése",
-          "description": "Személyre szabott oktatási terv és tananyag, amely illeszkedik a vállalkozásod eszközeihez és munkafolyamataihoz."
+          "title": "Creating Custom Curriculum",
+          "description": "Personalized education plan and material that fits your business's tools and workflows."
         },
         {
           "number": "3",
-          "title": "Képzés lebonyolítása",
-          "description": "Interaktív, gyakorlatias oktatás élőben – kérdések, válaszok, valós példák a saját környezetetekben."
+          "title": "Conducting Training",
+          "description": "Interactive, practical live education – questions, answers, real examples in your own environment."
         },
         {
           "number": "4",
-          "title": "Utókövetés és támogatás",
-          "description": "Képzés után is elérhető vagyunk – kérdések, ismétlések, további segítség. Biztosítjuk, hogy a tudás valóban beépüljön a napi rutinba."
+          "title": "Follow-up and Support",
+          "description": "We are available after training too – questions, revisions, further help. We ensure knowledge is truly integrated into the daily routine."
         }
       ]
     },
     "faq": {
-      "title": "Gyakran ismételt kérdések",
+      "title": "Frequently Asked Questions",
       "items": [
         {
-          "question": "Mennyi időt vesz igénybe egy képzés?",
-          "answer": "A képzés hossza az igényektől függ. Egy egyszeri workshop 2-4 óra, míg egy átfogó vállalati program több héten át, több alkalom lehet. Minden esetben egyeztetjük az időkeretet."
+          "question": "How long does a training session take?",
+          "answer": "The length depends on needs. A one-time workshop is 2-4 hours, while a comprehensive corporate program can span several weeks with multiple sessions. We always agree on the timeframe."
         },
         {
-          "question": "Hány főnek tartható egyszerre a tréning?",
-          "answer": "Ideális létszám 5-15 fő között van, hogy minden résztvevő kapjon elég figyelmet. Nagyobb csoportok esetén több turnusban vagy párhuzamos csoportokban is megtartható."
+          "question": "How many people can attend at once?",
+          "answer": "The ideal number is between 5-15 people so everyone gets enough attention. For larger groups, we can hold multiple shifts or parallel groups."
         },
         {
-          "question": "Kell előzetes IT tudás a résztvevőknek?",
-          "answer": "Nem! A képzéseket a résztvevők jelenlegi tudásszintjéhez igazítjuk – kezdőtől haladóig. Előtte felmérjük, ki milyen szinten áll."
+          "question": "Do participants need prior IT knowledge?",
+          "answer": "No! We adapt training to the participants' current knowledge level – from beginner to advanced. We assess where everyone stands beforehand."
         },
         {
-          "question": "Kapnak a résztvevők tananyagot, jegyzetet?",
-          "answer": "Igen! Minden képzés után digitális formában megkapják az anyagot, prezentációkat, gyakorlati útmutatókat – így bármikor visszanézhetik."
+          "question": "Do participants get materials or notes?",
+          "answer": "Yes! After every training, they receive the material, presentations, and practical guides in digital form – so they can review them anytime."
         },
         {
-          "question": "Milyen nyelven zajlanak a képzések?",
-          "answer": "Jelenleg az oktatások kizárólag magyar nyelven érhetők el, online vagy helyszíni formában."
+          "question": "In what language are the training sessions held?",
+          "answer": "Currently, training sessions are available exclusively in Hungarian, either online or on-site."
         },
         {
-          "question": "Mennyibe kerül egy vállalati IT képzés?",
-          "answer": "A díjszabás egyedi ajánlat alapján történik – függ a résztvevők számától, a témáktól, és az oktatás időtartamától. Kérj ajánlatot, és egyeztetünk!"
+          "question": "How much does corporate IT training cost?",
+          "answer": "Pricing is based on a custom quote – depending on the number of participants, topics, and duration. Request a quote, and we'll discuss it!"
         }
       ]
     },
     "pricing": {
-      "title": "Mennyibe kerül egy IT képzés?",
-      "subtitle": "Egyedi ajánlatot készítünk – minden cég más igényekkel rendelkezik",
-      "description": "A képzések ára függ a résztvevők számától, a képzés időtartamától, a témáktól és a helyszíntől (online/offline). Átlagosan egy 4 órás workshop 80.000 Ft-tól indul kis csoportoknak, míg egy hosszabb, folyamatos fejlesztési program havidíjas konstrukcióban is elérhető.",
-      "process": "Kérj ingyenes konzultációt, felmérjük az igényeket, és részletes, átlátható ajánlatot készítünk.",
-      "cta": "Kérj ajánlatot most"
+      "title": "How Much Does IT Training Cost?",
+      "subtitle": "We create custom offers – every company has different needs",
+      "description": "Training prices depend on the number of participants, duration, topics, and location (online/offline). On average, a 4-hour workshop starts from €200 for small groups, while a longer, continuous development program is available in a monthly subscription model.",
+      "process": "Request a free consultation, we'll assess needs, and prepare a detailed, transparent offer.",
+      "cta": "Request Quote Now"
     },
     "finalCta": {
-      "title": "Indítsuk el a csapatod digitális fejlesztését!",
-      "description": "Kérj ingyenes konzultációt, és találjuk meg együtt, milyen IT képzésekkel fejlesztheted a vállalkozásod hatékonyságát és biztonságát.",
-      "button": "Kérek ajánlatot IT képzésre"
+      "title": "Start Your Team's Digital Development!",
+      "description": "Request a free consultation, and let's find out together what IT training can improve your business efficiency and security.",
+      "button": "Request IT Training Quote"
     }
   }
 }

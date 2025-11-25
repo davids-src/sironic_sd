@@ -7,14 +7,29 @@ import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/com
 import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from '@/components/ui/accordion';
 import { CheckCircle, Code2, Smartphone, MonitorSmartphone, Zap, Shield, Users, MessageSquare, TrendingUp, Scale, ChevronDown } from 'lucide-react';
 import Link from 'next/link';
+import { FAQSchema } from '@/components/structured-data/FAQSchema';
+import { BreadcrumbSchema } from '@/components/structured-data/BreadcrumbSchema';
 
 export default function CustomDevelopmentPage() {
   const { t } = useTranslation();
   const params = useParams();
   const locale = (params?.locale as string) || 'hu';
+  const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://sironic.hu';
 
   const whatWeDoIcons = [Code2, Code2, MonitorSmartphone, Smartphone];
   const whyChooseUsIcons = [Users, Zap, TrendingUp, MessageSquare, Shield, Scale];
+
+  // Prepare FAQs for schema
+  const faqs = t('customDevelopmentPage.faq.items', []).map((item: any) => ({
+    question: item.question,
+    answer: item.answer
+  }));
+
+  // Prepare breadcrumbs for schema
+  const breadcrumbs = [
+    { name: t('customDevelopmentPage.breadcrumb.home'), url: `${baseUrl}/${locale}` },
+    { name: t('customDevelopmentPage.breadcrumb.customDevelopment'), url: `${baseUrl}/${locale}/egyedi-alkalmazas-fejlesztes` }
+  ];
 
   return (
     <div className="min-h-screen">
@@ -239,6 +254,10 @@ export default function CustomDevelopmentPage() {
           </Button>
         </div>
       </section>
+
+      {/* Structured Data */}
+      <FAQSchema faqs={faqs} />
+      <BreadcrumbSchema items={breadcrumbs} />
     </div>
   );
 }

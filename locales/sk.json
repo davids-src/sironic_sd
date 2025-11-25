@@ -2,7 +2,106 @@
   "meta": {
     "siteTitle": "SIRONIC IT Riešenia",
     "siteDescription": "Komplexné IT riešenia pre malé a stredné podniky v Székesfehérvári",
-    "companyName": "SIRONIC IT Riešenia"
+    "companyName": "SIRONIC IT Riešenia",
+    "keywords": [
+      "IT služby",
+      "správa systémov",
+      "sieťová infrastruktúra",
+      "IT bezpečnosť",
+      "webový vývoj",
+      "vývoj CRM",
+      "IT školenie",
+      "kybernetická bezpečnosť",
+      "digitálne zručnosti",
+      "IT zariadenia",
+      "hosting služby",
+      "webhosting",
+      "prenajem servera",
+      "oprava počítačov",
+      "laptop servis",
+      "miestna podpora",
+      "ochrana údajov",
+      "údržba",
+      "Székesfehérvár",
+      "Maďarsko"
+    ],
+    "ogImage": "/og/home-sk.jpg",
+    "pages": {
+      "services": {
+        "title": "Naše služby - SIRONIC IT Riešenia",
+        "description": "Kompletné IT služby: správa systémov, sieťová infrastruktúra, IT bezpečnosť, webový vývoj, hosting, servisné služby a IT školenie v Székesfehérváre.",
+        "keywords": [
+          "IT služby",
+          "správa systémov",
+          "sieť",
+          "IT bezpečnosť",
+          "webový vývoj",
+          "hosting",
+          "oprava",
+          "Székesfehérvár"
+        ],
+        "ogImage": "/og/services-sk.jpg"
+      },
+      "about": {
+        "title": "O nás - SIRONIC IT Riešenia",
+        "description": "Spoľahlivý IT partner s viac ako 5 rokmi skúsenosťí. Proaktívna podpora, transparentné ceny a ľudská komunikácia - to je SIRONIC.",
+        "keywords": [
+          "IT spoločnosť",
+          "Székesfehérvár",
+          "spoľahlivý IT partner",
+          "správa systémov",
+          "IT podpora"
+        ],
+        "ogImage": "/og/about-sk.jpg"
+      },
+      "contact": {
+        "title": "Kontakt - SIRONIC IT Riešenia",
+        "description": "Kontaktujte nás pre bezplatnú konzultáciu. Email: hello@sironic.hu, Tel: +36 70 273 5532. Székesfehérvár, Maďarsko.",
+        "keywords": [
+          "IT kontakt",
+          "bezplatná konzultácia",
+          "Székesfehérvár IT",
+          "hello@sironic.hu"
+        ],
+        "ogImage": "/og/contact-sk.jpg"
+      },
+      "pricing": {
+        "title": "Ceny - SIRONIC IT Riešenia",
+        "description": "Transparentné IT ceny s fixnými mesačnými plánmi. Správa systémov od 39 000 HUF/mesiac. Individuálne ponuky podľa vašich potrieb.",
+        "keywords": [
+          "IT ceny",
+          "mesačná IT podpora",
+          "náklady na správu systémov",
+          "IT výdavky",
+          "Székesfehérvár"
+        ],
+        "ogImage": "/og/pricing-sk.jpg"
+      },
+      "products": {
+        "title": "Naše produkty - SIRONIC IT Riešenia",
+        "description": "Riešenia softveru na mieru a IT produkty pre malé a stredné podniky. Moderné, spoľahlivé aplikácie prispôsobené vašim potreba. Moderím.",
+        "keywords": [
+          "IT produkty",
+          "vlastný softvér",
+          "CRM systém",
+          "webová aplikácia",
+          "mobilná aplikácia"
+        ],
+        "ogImage": "/og/products-sk.jpg"
+      },
+      "blog": {
+        "title": "Blog - SIRONIC IT Riešenia",
+        "description": "IT tipy, báza znalostí a príručky pre podniky. Praktické rady o IT bezpečnosti, efektívnosti a vývoji.",
+        "keywords": [
+          "IT blog",
+          "IT tipy",
+          "IT bezpečnosť",
+          "podnikové IT",
+          "báza znalostí"
+        ],
+        "ogImage": "/og/blog-sk.jpg"
+      }
+    }
   },
   "nav": {
     "home": "Domov",
@@ -123,7 +222,49 @@
     ]
   },
   "faq": {
-    "title": "Často kladené otázky"
+    "title": "Často kladené otázky",
+    "items": [
+      {
+        "question": "Akým firmám poskytujete služby?",
+        "answer": "SIRONIC sa špecializuje na malé a stredné podniky, ale ponúkame riešenia aj pre väčšie firmy na základe individuálnych potrieb. Či už ide o správu systémov, budovanie sietí alebo vývoj webu – nájdeme ideálne IT riešenie pre každé podnikanie."
+      },
+      {
+        "question": "V čom sa líši SIRONIC od iných poskytovateľov IT?",
+        "answer": "Nie sme len 'opravári' – proaktívne monitorujeme systémy, predchádzame problémom a komunikujeme ľudskou rečou. Nedovolíme, aby bolo IT prekážkou, ale robíme z neho konkurenčnú výhodu."
+      },
+      {
+        "question": "Ako rýchlo reagujete na nahlásenie chyby?",
+        "answer": "Všeobecne reagujeme do 1–4 hodín, v urgentných prípadoch aj okamžite. Pre našich zmluvných partnerov garantujeme reakčné časy."
+      },
+      {
+        "question": "Vykonávate aj výjazdy na miesto alebo len vzdialenú podporu?",
+        "answer": "Áno, oboje! Väčšinu chýb odstraňujeme na diaľku, ale ak je to potrebné, prídeme aj osobne."
+      },
+      {
+        "question": "Vytvárate webové stránky aj úplne od nuly?",
+        "answer": "Samozrejme. Vyvíjame jedinečné, responzívne webové stránky s modernými technológiami (Next.js, React, Tailwind) a staráme sa o to, aby bola stránka rýchla, bezpečná a optimalizovaná pre vyhľadávače."
+      },
+      {
+        "question": "Čo je CRM Pro a ako pomôže môjmu podnikaniu?",
+        "answer": "CRM Pro je individuálne vyvinutý systém na správu zákazníkov, ktorý sprehľadňuje predajné procesy, automatizuje administratívu a dá sa integrovať s existujúcimi systémami. Dostupný aj pre menšie firmy."
+      },
+      {
+        "question": "Aké bezpečnostné opatrenia používate?",
+        "answer": "Používame moderné firewally, riešenia na zálohovanie dát, šifrovanie a správu prístupov. Všetky naše systémy navrhujeme v súlade s GDPR, takže bezpečnosť dát je štandard."
+      },
+      {
+        "question": "Akou formou s vami možno spolupracovať?",
+        "answer": "Pracujeme v dvoch hlavných formách: jednorazová zákazka (pre občasné úlohy) a mesačná zmluva o údržbe (trvalá prevádzka a podpora). Obe sú transparentné, s fixnými cenami."
+      },
+      {
+        "question": "Koľko stojí vývoj webovej stránky alebo systému?",
+        "answer": "Základné webové stránky začínajú od 250 000 HUF, zatiaľ čo cena jedinečných systémov alebo CRM riešení sa určuje v závislosti od funkcionality. Pred každým projektom dávame presnú cenovú ponuku."
+      },
+      {
+        "question": "Prečo sa oplatí zvoliť cloudové riešenia?",
+        "answer": "Cloud je rýchly, bezpečný a flexibilný – nie je potrebné udržiavať vlastný server, dáta sú vždy dostupné a rozšírenie je možné vyriešiť v priebehu okamihu."
+      }
+    ]
   },
   "finalCta": {
     "title": "Pripravení na bezstarostné IT?",
@@ -145,7 +286,22 @@
       "required": "*",
       "success": "Vaša správa bola úspešne odoslaná! Čoskoro Vás budeme kontaktovať.",
       "error": "Pri odosielaní správy došlo k chybe",
-      "noscript": "Svoju správu môžete poslať aj e-mailom:"
+      "noscript": "Svoju správu môžete poslať aj e-mailom:",
+      "options": {
+        "placeholder": "Vyberte službu",
+        "mindenCegnek": "Každá firma by mala mať IT špecialistu",
+        "systemOperation": "Prevádzka systémov a IT údržba",
+        "networking": "Budovanie a rozvoj sietí",
+        "security": "IT bezpečnosť a ochrana údajov",
+        "development": "Vývoj webových stránok a systémov",
+        "commerce": "Obchod – IT zariadenia a softvér",
+        "hosting": "Hosting a cloudové riešenia",
+        "repair": "Servis a opravy",
+        "training": "IT školenia a rozvoj znalostí"
+      },
+      "errors": {
+        "general": "Vyskytla sa chyba siete. Skúste to prosím neskôr."
+      }
     },
     "info": {
       "title": "Kontaktné informácie",
@@ -761,25 +917,25 @@
   },
   "itTraining": {
     "badge": "IT vzdelávanie a školenie",
-    "title": "IT vzdelávanie a rozvoj firemných digitálnych zručností",
-    "subtitle": "Rozvíjajte digitálne kompetencie Vášho tímu",
-    "description": "Ponúkame personalizované IT školenia, programy povedomia o bezpečnosti a rozvoj znalostí na systémovej úrovni, aby zamestnanci mohli s dôverou používať moderné nástroje a softvér. Bezpečná prevádzka začína informáciami.",
+    "title": "IT vzdelávanie a rozvoj firemných vedomostí",
+    "subtitle": "Rozvíjajte digitálne zručnosti svojho tímu",
+    "description": "Ponúkame personalizované IT školenia, školenia o bezpečnostnom povedomí a rozvoj vedomostí na systémovej úrovni, aby zamestnanci mohli s istotou používať moderné nástroje a softvér. Bezpečná prevádzka začína informáciami.",
     "cards": {
       "personalized": {
         "title": "Personalizované IT školenia",
-        "description": "Vlastné školiace programy na rozvoj digitálnych znalostí Vášho tímu. Praktické zručnosti, ktoré možno okamžite použiť v každodennej práci."
+        "description": "Vlastné školiace programy na rozvoj digitálnych vedomostí Vášho tímu. Praktické zručnosti, ktoré možno okamžite použiť v každodennej práci."
       },
       "security": {
-        "title": "Školenie povedomia o bezpečnosti",
-        "description": "Základy kybernetickej bezpečnosti a školenie ochrany údajov. Naučte svoj tím, ako chrániť údaje a systémy Vašej spoločnosti."
+        "title": "Školenia o bezpečnostnom povedomí",
+        "description": "Základy kybernetickej bezpečnosti a školenia o ochrane údajov. Naučte svoj tím, ako chrániť údaje a systémy Vašej spoločnosti."
       },
       "software": {
-        "title": "Kurzy používania softvéru a hardvéru",
+        "title": "Školenia o používaní softvéru a zariadení",
         "description": "Efektívne používanie Microsoft 365, Google Workspace a kancelárskych nástrojov. Zvýšte produktivitu zvládnutím správnych nástrojov."
       },
       "corporate": {
-        "title": "Programy rozvoja firemných znalostí",
-        "description": "Dlhodobý rozvoj digitálnych kompetencií. Priebežné školiace programy, ktoré držia krok s technologickými zmenami."
+        "title": "Firemné programy rozvoja vedomostí",
+        "description": "Dlhodobý rozvoj digitálnych kompetencií. Priebežné vzdelávacie programy, ktoré držia krok s technologickými zmenami."
       }
     },
     "languageNote": "Školenia sú momentálne dostupné len v maďarskom jazyku, online aj na mieste.",
@@ -789,214 +945,228 @@
     }
   },
   "itTrainingPage": {
+    "meta": {
+      "title": "IT Vzdelávanie a Firemné Školenia | SIRONIC",
+      "description": "Praktické IT školenia pre firmy: bezpečnostné povedomie, používanie softvéru a rozvoj digitálnych kompetencií. Zlepšite zručnosti svojho tímu!",
+      "keywords": [
+        "IT školenie",
+        "firemné školenie",
+        "bezpečnostné povedomie",
+        "digitálna kompetencia",
+        "kurz Excel",
+        "IT workshop"
+      ],
+      "ogTitle": "IT Vzdelávanie a Firemné Školenia - SIRONIC",
+      "ogDescription": "Praktické IT školenia pre firmy. Rozvíjajte digitálne zručnosti svojho tímu s nami!"
+    },
     "breadcrumb": {
-      "home": "Főoldal",
-      "training": "IT oktatás"
+      "home": "Domov",
+      "training": "IT vzdelávanie"
     },
     "hero": {
-      "title": "IT vzdelávanie a rozvoj firemných digitálnych zručností",
-      "subtitle": "Rozvíjajte digitálne zručnosti Vášho tímu prostredníctvom profesionálneho školenia",
-      "description": "A SIRONIC nemcsak IT-rendszereket üzemeltet – fejlesztjük is a munkatársak digitális tudását. Személyre szabott képzéseinkkel a céged csapata magabiztosan használja a modern eszközöket, és tisztában van a biztonsági kockázatokkal.",
-      "cta": "Kérj ingyenes konzultációt",
-      "scrollDown": "Görgess lejjebb a részletekért"
+      "title": "IT vzdelávanie a rozvoj firemných vedomostí",
+      "subtitle": "Rozvíjajte digitálne zručnosti svojho tímu prostredníctvom profesionálneho školenia",
+      "description": "SIRONIC nielen prevádzkuje IT systémy – rozvíjame aj digitálne vedomosti Vašich zamestnancov. S našimi personalizovanými školeniami bude Váš tím používať moderné nástroje s istotou a bude si vedomý bezpečnostných rizík.",
+      "cta": "Požiadať o bezplatnú konzultáciu",
+      "scrollDown": "Posuňte sa nižšie pre podrobnosti"
     },
     "intro": {
-      "title": "Miért fontos a vállalati IT oktatás?",
+      "title": "Prečo je firemné IT vzdelávanie dôležité?",
       "content": [
-        "A legjobb IT-infrastruktúra sem elég, ha a munkatársak nem tudják hatékonyan használni. A rossz eszközismeret, a biztonsági tudatosság hiánya és az elavult munkafolyamatok csökkentik a produktivitást és növelik a kockázatokat.",
-        "A SIRONIC IT oktatási programjaival a csapatod naprakész ismereteket szerez, magabiztosabban dolgozik, és tudatosan védi a vállalati adatokat. Minden képzésünk gyakorlatias, személyre szabott és közvetlenül alkalmazható a napi munkában."
+        "Ani tá najlepšia IT infraštruktúra nestačí, ak ju zamestnanci nevedia efektívne využívať. Nedostatočná znalosť nástrojov, chýbajúce bezpečnostné povedomie a zastarané pracovné postupy znižujú produktivitu a zvyšujú riziká.",
+        "S IT vzdelávacími programami SIRONIC získa Váš tím aktuálne vedomosti, bude pracovať istejšie a vedome chrániť firemné údaje. Všetky naše školenia sú praktické, personalizované a priamo aplikovateľné v každodennej práci."
       ]
     },
     "services": {
-      "title": "Milyen képzéseket kínálunk?",
-      "subtitle": "Gyakorlatias, üzletközpontú oktatások minden szinten",
+      "title": "Aké školenia ponúkame?",
+      "subtitle": "Praktické, obchodne zamerané vzdelávanie na každej úrovni",
       "items": [
         {
-          "title": "Személyre szabott IT oktatások",
-          "description": "Egyedi tananyag és tempó a csapatod igényei szerint. Kezdő felhasználóktól a haladó felhasználókig – minden képzés a Te vállalkozásod valós igényeihez igazodik. Gyakorlati példákkal, valós helyzetekből tanulva.",
+          "title": "Personalizované IT školenia",
+          "description": "Vlastné učebné osnovy a tempo podľa potrieb Vášho tímu. Od začiatočníkov po pokročilých používateľov – každý kurz je prispôsobený skutočným požiadavkám Vašej firmy. Učenie prostredníctvom praktických príkladov a reálnych situácií.",
           "topics": [
-            "Windows és macOS alapismeretek",
-            "Fájlkezelés és mappastruktúra",
-            "Adatmentés és helyreállítás",
-            "Perifériák és nyomtatók használata",
-            "Gyors billentyűparancsok és produktivitási tippek"
+            "Základy Windows a macOS",
+            "Správa súborov a štruktúra priečinkov",
+            "Zálohovanie a obnova údajov",
+            "Používanie periférií a tlačiarní",
+            "Rýchle klávesové skratky a tipy na produktivitu"
           ]
         },
         {
-          "title": "Biztonságtudatossági tréningek",
-          "description": "A legtöbb adatvédelmi incidens emberi hibából történik – e-mail-alapú csalások, gyenge jelszavak, adathalászat. Képzéseinkkel a munkatársak felismerik és elkerülik a kockázatokat.",
+          "title": "Školenia o bezpečnostnom povedomí",
+          "description": "Väčšina incidentov ochrany údajov sa stáva kvôli ľudskej chybe – e-mailové podvody, slabé heslá, phishing. Naše školenia pomáhajú zamestnancom rozpoznať a vyhnúť sa rizikám.",
           "topics": [
-            "Adathalász e-mailek és csalások felismerése",
-            "Biztonságos jelszókezelés és 2FA használata",
-            "Adatvédelmi alapelvek (GDPR) gyakorlatban",
-            "Biztonságos fájlmegosztás és levelezés",
-            "Eszközbiztonság: laptop, telefon, távmunka"
+            "Rozpoznávanie phishingových e-mailov a podvodov",
+            "Bezpečná správa hesiel a používanie 2FA",
+            "Zásady ochrany údajov (GDPR) v praxi",
+            "Bezpečné zdieľanie súborov a e-mailová komunikácia",
+            "Bezpečnosť zariadení: notebooky, telefóny, práca na diaľku"
           ]
         },
         {
-          "title": "Szoftver- és eszközhasználati képzések",
-          "description": "A modern irodai munka szoftveres eszközökön alapul – de sokszor a lehetőségek töredékét használjuk ki. Tanítjuk a hatékony munkavégzés eszközeit és módszereit.",
+          "title": "Školenia o používaní softvéru a zariadení",
+          "description": "Moderná kancelárska práca je založená na softvérových nástrojoch – ale často využívame len zlomok ich potenciálu. Učíme nástroje a metódy pre efektívnu prácu.",
           "topics": [
             "Microsoft 365: Word, Excel, PowerPoint, Outlook, Teams",
             "Google Workspace: Docs, Sheets, Drive, Meet",
-            "Kollaborációs eszközök: Slack, Notion, Trello, Asana",
-            "Videókonferencia eszközök használata",
-            "Felhőalapú fájlmegosztás és szinkronizálás"
+            "Nástroje na spoluprácu: Slack, Notion, Trello, Asana",
+            "Používanie videokonferenčných nástrojov",
+            "Cloudové zdieľanie a synchronizácia súborov"
           ]
         },
         {
-          "title": "Vállalati tudásfejlesztési programok",
-          "description": "Hosszú távú, folyamatos képzési programok, amelyek biztosítják, hogy a csapat mindig naprakész legyen. Céges tudásbázis építése és rendszeres fejlesztés.",
+          "title": "Firemné programy rozvoja vedomostí",
+          "description": "Dlhodobé, priebežné školiace programy, ktoré zabezpečujú, že tím je vždy v obraze. Budovanie firemnej vedomostnej základne a pravidelný rozvoj.",
           "topics": [
-            "Egyedi tananyagok és útmutatók készítése",
-            "Folyamatos online támogatás és Q&A szekciók",
-            "Rendszeres technológiai frissítő tréningek",
-            "Új munkatársak IT onboarding képzése",
-            "Specifikus céges rendszerek oktatása"
+            "Vytváranie vlastných učebných materiálov a príručiek",
+            "Priebežná online podpora a Q&A relácie",
+            "Pravidelné technologické osviežovacie školenia",
+            "IT onboarding školenie pre nových zamestnancov",
+            "Školenie o špecifických firemných systémoch"
           ]
         }
       ]
     },
     "benefits": {
-      "title": "Miért éri meg vállalati IT képzésbe fektetni?",
-      "subtitle": "Konkrét előnyök, amelyek mérhető eredményt hoznak",
+      "title": "Prečo investovať do firemného IT vzdelávania?",
+      "subtitle": "Konkrétne výhody, ktoré prinášajú merateľné výsledky",
       "list": [
-        "Magasabb produktivitás – a munkatársak gyorsabban és hatékonyabban dolgoznak",
-        "Kevesebb IT-hiba és helpdesk hívás – csökken a technikai támogatás terhelése",
-        "Biztonságosabb működés – tudatos munkatársak védik az adatokat",
-        "Jobb eszközkihasználás – a szoftverek és rendszerek teljes potenciálja",
-        "Magabiztosabb csapat – nem félnek az új technológiáktól",
-        "Gyorsabb alkalmazkodás – új eszközök bevezetése gördülékenyebb",
-        "Versenyképesség – digitálisan képzett csapat modernebb vállalkozást jelent"
+        "Vyššia produktivita – zamestnanci pracujú rýchlejšie a efektívnejšie",
+        "Menej IT chýb a hovorov na helpdesk – znížená záťaž technickej podpory",
+        "Bezpečnejšia prevádzka – vedomí zamestnanci chránia údaje",
+        "Lepšie využitie nástrojov – plný potenciál softvéru a systémov",
+        "Sebavedomejší tím – žiadny strach z nových technológií",
+        "Rýchlejšia adaptácia – hladšie zavádzanie nových nástrojov",
+        "Konkurencieschopnosť – digitálne zručný tím znamená modernejšiu firmu"
       ]
     },
     "targetGroups": {
-      "title": "Kiknek ajánljuk?",
-      "subtitle": "Minden vállalkozásnak, ahol digitális eszközökkel dolgoznak",
+      "title": "Komu to odporúčame?",
+      "subtitle": "Pre každú firmu pracujúcu s digitálnymi nástrojmi",
       "groups": [
         {
-          "title": "Irodai dolgozók",
-          "description": "Akik napi szinten használnak számítógépet, e-mailt, Office programokat."
+          "title": "Kancelárski pracovníci",
+          "description": "Tí, ktorí denne používajú počítače, e-mail a Office programy."
         },
         {
-          "title": "Vezetők és menedzserek",
-          "description": "Akiknek döntéshozatalhoz, riportokhoz és kommunikációhoz kell a digitális eszközismeret."
+          "title": "Lídri a manažéri",
+          "description": "Tí, ktorí potrebujú znalosť digitálnych nástrojov pre rozhodovanie, reportovanie a komunikáciu."
         },
         {
-          "title": "Nem-informatikus kollégák",
-          "description": "Akiknek a technológia csak eszköz, de megfelelő tudás nélkül akadály."
+          "title": "Ne-IT kolegovia",
+          "description": "Tí, pre ktorých je technológia len nástrojom, ale bez náležitých vedomostí prekážkou."
         },
         {
-          "title": "Távmunkában dolgozók",
-          "description": "Akiknek a biztonságos és hatékony otthoni munkavégzéshez kell támogatás."
+          "title": "Pracovníci na diaľku",
+          "description": "Tí, ktorí potrebujú podporu pre bezpečnú a efektívnu prácu z domu."
         },
         {
-          "title": "Új belépők",
-          "description": "Akiknek onboarding részeként meg kell ismerniük a vállalati IT-rendszereket."
+          "title": "Noví zamestnanci",
+          "description": "Tí, ktorí sa potrebujú naučiť firemné IT systémy v rámci onboardingu."
         }
       ]
     },
     "delivery": {
-      "title": "Hogyan zajlanak a képzések?",
-      "subtitle": "Rugalmas oktatási formák – Te választod, melyik illik legjobban",
+      "title": "Ako prebiehajú školenia?",
+      "subtitle": "Flexibilné formy vzdelávania – Vy si vyberiete, čo sa najviac hodí",
       "methods": [
         {
-          "title": "Helyszíni oktatás",
-          "description": "Kimegyünk a céges irodába, és helyben tartjuk a tréninget. Személyes, interaktív, azonnali gyakorlati példákkal a saját rendszereiteken."
+          "title": "Školenie na mieste",
+          "description": "Prídeme do Vašej kancelárie a školenie uskutočníme na mieste. Osobné, interaktívne, s okamžitými praktickými príkladmi na Vašich vlastných systémoch."
         },
         {
-          "title": "Online távoktatás",
-          "description": "Videókonferencia platformon keresztül élőben tartott képzések. Rugalmas időbeosztás, nincs utazás, de ugyanolyan hatékony, mint a helyszíni forma."
+          "title": "Online školenie na diaľku",
+          "description": "Živé školenia cez videokonferenčné platformy. Flexibilný rozvrh, žiadne cestovanie, ale rovnako efektívne ako forma na mieste."
         },
         {
-          "title": "Hibrid modell",
-          "description": "Kombináljuk a kettőt: helyszíni kick-off, majd online folytatás. A legjobb mindkét világból."
+          "title": "Hybridný model",
+          "description": "Kombinácia oboch: kick-off na mieste, potom pokračovanie online. To najlepšie z oboch svetov."
         }
       ],
       "languageNote": "Školenia sú momentálne dostupné len v maďarskom jazyku, online aj na mieste."
     },
     "topics": {
-      "title": "Konkrét témák, amiket oktatunk",
-      "subtitle": "Gyakorlatias tudás, amit azonnal alkalmazhatsz",
+      "title": "Konkrétne témy, ktoré učíme",
+      "subtitle": "Praktické vedomosti, ktoré môžete okamžite použiť",
       "list": [
-        "Microsoft 365 használata (Word, Excel, PowerPoint, Outlook, OneDrive, Teams)",
-        "Google Workspace eszközök (Gmail, Drive, Docs, Sheets, Meet)",
-        "Biztonságos jelszókezelés és két-faktoros hitelesítés",
-        "Adathalász e-mailek és online csalások felismerése",
-        "Biztonságos fájlmegosztás és felhőtárolás",
-        "Videokonferencia eszközök professzionális használata",
-        "Hatékony e-mail menedzsment és postaláda szervezés",
-        "Projektek és feladatok kezelése (Trello, Asana, Notion)",
-        "Windows és macOS alapfunkciók és tippek",
-        "Irodai eszközök: nyomtatók, szkennerek, multimédia"
+        "Používanie Microsoft 365 (Word, Excel, PowerPoint, Outlook, OneDrive, Teams)",
+        "Nástroje Google Workspace (Gmail, Drive, Docs, Sheets, Meet)",
+        "Bezpečná správa hesiel a dvojfaktorová autentifikácia",
+        "Rozpoznávanie phishingových e-mailov a online podvodov",
+        "Bezpečné zdieľanie súborov a cloudové úložisko",
+        "Profesionálne používanie videokonferenčných nástrojov",
+        "Efektívna správa e-mailov a organizácia schránky",
+        "Riadenie projektov a úloh (Trello, Asana, Notion)",
+        "Základné funkcie a tipy pre Windows a macOS",
+        "Kancelárske zariadenia: tlačiarne, skenery, multimédiá"
       ]
     },
     "methodology": {
-      "title": "Hogyan dolgozunk?",
-      "subtitle": "Strukturált oktatási folyamat – lépésről lépésre",
+      "title": "Ako pracujeme?",
+      "subtitle": "Štruktúrovaný vzdelávací proces – krok za krokom",
       "steps": [
         {
           "number": "1",
-          "title": "Igényfelmérés",
-          "description": "Megismerjük a csapatot, a jelenlegi tudásszintet és a céges folyamatokat. Tisztázzuk, milyen területeken van szükség fejlesztésre."
+          "title": "Analýza potrieb",
+          "description": "Spoznáme tím, aktuálnu úroveň vedomostí a firemné procesy. Vyjasníme si, ktoré oblasti potrebujú rozvoj."
         },
         {
           "number": "2",
-          "title": "Egyedi tananyag készítése",
-          "description": "Személyre szabott oktatási terv és tananyag, amely illeszkedik a vállalkozásod eszközeihez és munkafolyamataihoz."
+          "title": "Vytvorenie vlastných učebných osnov",
+          "description": "Personalizovaný vzdelávací plán a materiál, ktorý vyhovuje nástrojom a pracovným postupom Vašej firmy."
         },
         {
           "number": "3",
-          "title": "Képzés lebonyolítása",
-          "description": "Interaktív, gyakorlatias oktatás élőben – kérdések, válaszok, valós példák a saját környezetetekben."
+          "title": "Realizácia školenia",
+          "description": "Interaktívne, praktické živé vzdelávanie – otázky, odpovede, reálne príklady vo Vašom vlastnom prostredí."
         },
         {
           "number": "4",
-          "title": "Utókövetés és támogatás",
-          "description": "Képzés után is elérhető vagyunk – kérdések, ismétlések, további segítség. Biztosítjuk, hogy a tudás valóban beépüljön a napi rutinba."
+          "title": "Následná starostlivosť a podpora",
+          "description": "Sme k dispozícii aj po školení – otázky, opakovania, ďalšia pomoc. Zabezpečujeme, aby sa vedomosti skutočne integrovali do každodennej rutiny."
         }
       ]
     },
     "faq": {
-      "title": "Gyakran ismételt kérdések",
+      "title": "Často kladené otázky",
       "items": [
         {
-          "question": "Mennyi időt vesz igénybe egy képzés?",
-          "answer": "A képzés hossza az igényektől függ. Egy egyszeri workshop 2-4 óra, míg egy átfogó vállalati program több héten át, több alkalom lehet. Minden esetben egyeztetjük az időkeretet."
+          "question": "Ako dlho trvá školenie?",
+          "answer": "Dĺžka závisí od potrieb. Jednorazový workshop trvá 2-4 hodiny, zatiaľ čo komplexný firemný program môže trvať niekoľko týždňov s viacerými stretnutiami. Vždy sa dohodneme na časovom rámci."
         },
         {
-          "question": "Hány főnek tartható egyszerre a tréning?",
-          "answer": "Ideális létszám 5-15 fő között van, hogy minden résztvevő kapjon elég figyelmet. Nagyobb csoportok esetén több turnusban vagy párhuzamos csoportokban is megtartható."
+          "question": "Koľko ľudí sa môže zúčastniť naraz?",
+          "answer": "Ideálny počet je medzi 5-15 ľuďmi, aby každý dostal dostatok pozornosti. Pre väčšie skupiny môžeme usporiadať viacero zmien alebo paralelné skupiny."
         },
         {
-          "question": "Kell előzetes IT tudás a résztvevőknek?",
-          "answer": "Nem! A képzéseket a résztvevők jelenlegi tudásszintjéhez igazítjuk – kezdőtől haladóig. Előtte felmérjük, ki milyen szinten áll."
+          "question": "Potrebujú účastníci predchádzajúce IT znalosti?",
+          "answer": "Nie! Školenie prispôsobujeme aktuálnej úrovni vedomostí účastníkov – od začiatočníkov po pokročilých. Vopred posúdime, kde sa kto nachádza."
         },
         {
-          "question": "Kapnak a résztvevők tananyagot, jegyzetet?",
-          "answer": "Igen! Minden képzés után digitális formában megkapják az anyagot, prezentációkat, gyakorlati útmutatókat – így bármikor visszanézhetik."
+          "question": "Dostanú účastníci materiály alebo poznámky?",
+          "answer": "Áno! Po každom školení dostanú materiál, prezentácie a praktické príručky v digitálnej forme – aby si ich mohli kedykoľvek pozrieť."
         },
         {
-          "question": "Milyen nyelven zajlanak a képzések?",
-          "answer": "Jelenleg az oktatások kizárólag magyar nyelven érhetők el, online vagy helyszíni formában."
+          "question": "V akom jazyku prebiehajú školenia?",
+          "answer": "Momentálne sú školenia dostupné výlučne v maďarskom jazyku, online alebo na mieste."
         },
         {
-          "question": "Mennyibe kerül egy vállalati IT képzés?",
-          "answer": "A díjszabás egyedi ajánlat alapján történik – függ a résztvevők számától, a témáktól, és az oktatás időtartamától. Kérj ajánlatot, és egyeztetünk!"
+          "question": "Koľko stojí firemné IT školenie?",
+          "answer": "Cenotvorba je založená na individuálnej ponuke – v závislosti od počtu účastníkov, tém a trvania. Požiadajte o ponuku a prediskutujeme to!"
         }
       ]
     },
     "pricing": {
-      "title": "Mennyibe kerül egy IT képzés?",
-      "subtitle": "Egyedi ajánlatot készítünk – minden cég más igényekkel rendelkezik",
-      "description": "A képzések ára függ a résztvevők számától, a képzés időtartamától, a témáktól és a helyszíntől (online/offline). Átlagosan egy 4 órás workshop 80.000 Ft-tól indul kis csoportoknak, míg egy hosszabb, folyamatos fejlesztési program havidíjas konstrukcióban is elérhető.",
-      "process": "Kérj ingyenes konzultációt, felmérjük az igényeket, és részletes, átlátható ajánlatot készítünk.",
-      "cta": "Kérj ajánlatot most"
+      "title": "Koľko stojí IT školenie?",
+      "subtitle": "Vytvárame individuálne ponuky – každá firma má iné potreby",
+      "description": "Ceny školení závisia od počtu účastníkov, trvania, tém a miesta (online/offline). V priemere 4-hodinový workshop začína od 200 € pre malé skupiny, zatiaľ čo dlhší, priebežný rozvojový program je dostupný v modeli mesačného predplatného.",
+      "process": "Požiadajte o bezplatnú konzultáciu, posúdime potreby a pripravíme podrobnú, transparentnú ponuku.",
+      "cta": "Požiadať o ponuku teraz"
     },
     "finalCta": {
-      "title": "Indítsuk el a csapatod digitális fejlesztését!",
-      "description": "Kérj ingyenes konzultációt, és találjuk meg együtt, milyen IT képzésekkel fejlesztheted a vállalkozásod hatékonyságát és biztonságát.",
-      "button": "Kérek ajánlatot IT képzésre"
+      "title": "Začnite digitálny rozvoj svojho tímu!",
+      "description": "Požiadajte o bezplatnú konzultáciu a spoločne zistíme, aké IT školenia môžu zlepšiť efektivitu a bezpečnosť Vašej firmy.",
+      "button": "Požiadať o ponuku na IT školenie"
     }
   }
 }

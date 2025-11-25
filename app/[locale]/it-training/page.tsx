@@ -5,7 +5,10 @@ import { useParams } from 'next/navigation';
 import { Button } from '@/components/ui/button';
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card';
 import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from '@/components/ui/accordion';
-import { CheckCircle, GraduationCap, Shield, Monitor, Users, Target, Zap, TrendingUp, BookOpen, Video, Home, ChevronDown, Info } from 'lucide-react';
+import {
+  CheckCircle, GraduationCap, Shield, Monitor, Users, Target, Zap, TrendingUp,
+  BookOpen, Video, Home, ChevronDown, Info, Sparkles, ArrowRight
+} from 'lucide-react';
 import Link from 'next/link';
 
 export default function ItTrainingPage() {
@@ -20,77 +23,107 @@ export default function ItTrainingPage() {
 
   return (
     <div className="min-h-screen">
-      <section className="relative py-24 bg-gradient-to-b from-brand-red/5 to-background">
-        <div className="mx-auto max-w-7xl px-6 lg:px-8">
-          <div className="mx-auto max-w-3xl text-center">
-            <h1 className="text-4xl font-bold tracking-tight sm:text-5xl lg:text-6xl mb-6">
+      {/* Hero Section - Enhanced */}
+      <section className="relative py-20 lg:py-32 bg-gradient-to-br from-brand-red/10 via-background to-background overflow-hidden">
+        {/* Background decorations */}
+        <div className="absolute inset-0 bg-grid-white/[0.02] pointer-events-none" aria-hidden="true" />
+        <div className="absolute top-0 right-0 w-96 h-96 bg-brand-red/10 rounded-full blur-3xl" aria-hidden="true" />
+        <div className="absolute bottom-0 left-0 w-96 h-96 bg-brand-red/5 rounded-full blur-3xl" aria-hidden="true" />
+
+        <div className="mx-auto max-w-7xl px-6 lg:px-8 relative z-10">
+          <div className="mx-auto max-w-4xl text-center">
+            {/* Breadcrumb */}
+            <nav className="flex justify-center mb-8" aria-label="Breadcrumb">
+              <ol className="inline-flex items-center space-x-2 text-sm text-muted-foreground">
+                <li>
+                  <Link href={`/${locale}`} className="hover:text-brand-red transition-colors">
+                    {t('itTrainingPage.breadcrumb.home')}
+                  </Link>
+                </li>
+                <li aria-hidden="true">/</li>
+                <li className="text-foreground font-medium">{t('itTrainingPage.breadcrumb.training')}</li>
+              </ol>
+            </nav>
+
+            <h1 className="text-4xl font-bold tracking-tight sm:text-5xl lg:text-6xl mb-6 bg-clip-text text-transparent bg-gradient-to-r from-foreground to-foreground/70 animate-fade-in">
               {t('itTrainingPage.hero.title')}
             </h1>
-            <p className="text-xl text-muted-foreground mb-4">
+            <p className="text-xl sm:text-2xl text-brand-red/90 font-medium mb-4 animate-fade-in">
               {t('itTrainingPage.hero.subtitle')}
             </p>
-            <p className="text-lg text-muted-foreground mb-8">
+            <p className="text-base sm:text-lg text-muted-foreground mb-10 leading-relaxed max-w-3xl mx-auto animate-fade-in">
               {t('itTrainingPage.hero.description')}
             </p>
-            <div className="flex flex-col sm:flex-row gap-4 justify-center">
-              <Button asChild size="lg" className="bg-brand-red hover:bg-brand-red/90">
+
+            <div className="flex flex-col sm:flex-row gap-4 justify-center mb-12 animate-fade-in">
+              <Button asChild size="lg" className="bg-brand-red hover:bg-brand-red/90 shadow-lg hover:shadow-xl transition-all duration-300 hover:scale-105 group">
                 <Link href={`/${locale}/kapcsolat`}>
                   {t('itTrainingPage.hero.cta')}
+                  <ArrowRight className="ml-2 h-5 w-5 transition-transform group-hover:translate-x-1" aria-hidden="true" />
                 </Link>
               </Button>
             </div>
-            <div className="mt-12 flex justify-center">
-              <ChevronDown className="h-8 w-8 text-muted-foreground animate-bounce" />
+
+            <div className="flex justify-center">
+              <ChevronDown className="h-8 w-8 text-muted-foreground animate-bounce" aria-hidden="true" />
             </div>
           </div>
         </div>
       </section>
 
-      <section className="py-24 bg-background">
+      {/* Introduction Section - Enhanced */}
+      <section className="py-16 lg:py-24 bg-background">
         <div className="mx-auto max-w-4xl px-6 lg:px-8">
-          <div className="text-center mb-16">
+          <div className="text-center mb-12">
             <h2 className="text-3xl font-bold tracking-tight sm:text-4xl mb-6">
               {t('itTrainingPage.intro.title')}
             </h2>
-            {t('itTrainingPage.intro.content', []).map((paragraph: string, index: number) => (
-              <p key={index} className="text-lg text-muted-foreground mb-4">
-                {paragraph}
-              </p>
-            ))}
+            <div className="space-y-4">
+              {t('itTrainingPage.intro.content', []).map((paragraph: string, index: number) => (
+                <p key={index} className="text-lg text-muted-foreground leading-relaxed">
+                  {paragraph}
+                </p>
+              ))}
+            </div>
           </div>
         </div>
       </section>
 
-      <section className="py-24 bg-gradient-to-b from-background to-accent/10">
+      {/* Services Section - Enhanced */}
+      <section className="py-16 lg:py-24 bg-gradient-to-b from-background to-accent/10">
         <div className="mx-auto max-w-7xl px-6 lg:px-8">
           <div className="mx-auto max-w-2xl text-center mb-16">
+            <div className="inline-flex items-center gap-2 rounded-full bg-brand-red/10 px-4 py-2 text-sm font-semibold text-brand-red mb-4">
+              <Sparkles className="h-4 w-4" aria-hidden="true" />
+              {t('itTrainingPage.services.subtitle')}
+            </div>
             <h2 className="text-3xl font-bold tracking-tight sm:text-4xl mb-4">
               {t('itTrainingPage.services.title')}
             </h2>
-            <p className="text-lg text-muted-foreground">
-              {t('itTrainingPage.services.subtitle')}
-            </p>
           </div>
-          <div className="space-y-8">
+          <div className="space-y-6">
             {t('itTrainingPage.services.items', []).map((item: any, index: number) => {
               const Icon = serviceIcons[index] || GraduationCap;
               return (
-                <Card key={index} className="transition-all duration-300 hover:shadow-lg">
+                <Card
+                  key={index}
+                  className="transition-all duration-300 hover:shadow-xl hover:scale-[1.02] border-accent/60 bg-background/50 backdrop-blur-sm"
+                >
                   <CardHeader>
                     <div className="flex items-start gap-4">
-                      <div className="inline-flex h-12 w-12 items-center justify-center rounded-lg bg-brand-red/10 flex-shrink-0">
-                        <Icon className="h-6 w-6 text-brand-red" />
+                      <div className="inline-flex h-14 w-14 items-center justify-center rounded-xl bg-gradient-to-br from-brand-red/20 to-brand-red/10 flex-shrink-0 shadow-sm">
+                        <Icon className="h-7 w-7 text-brand-red" aria-hidden="true" />
                       </div>
                       <div className="flex-1">
                         <CardTitle className="text-2xl mb-3">{item.title}</CardTitle>
-                        <CardDescription className="text-base leading-relaxed mb-4">
+                        <CardDescription className="text-base leading-relaxed mb-4 text-foreground/80">
                           {item.description}
                         </CardDescription>
                         {item.topics && item.topics.length > 0 && (
-                          <ul className="space-y-2">
+                          <ul className="grid gap-2 md:grid-cols-2">
                             {item.topics.map((topic: string, topicIndex: number) => (
                               <li key={topicIndex} className="flex gap-2 items-start text-sm text-muted-foreground">
-                                <CheckCircle className="h-4 w-4 text-brand-red flex-shrink-0 mt-0.5" />
+                                <CheckCircle className="h-4 w-4 text-brand-red flex-shrink-0 mt-0.5" aria-hidden="true" />
                                 <span>{topic}</span>
                               </li>
                             ))}
@@ -106,7 +139,8 @@ export default function ItTrainingPage() {
         </div>
       </section>
 
-      <section className="py-24 bg-background">
+      {/* Benefits Section - Enhanced */}
+      <section className="py-16 lg:py-24 bg-background">
         <div className="mx-auto max-w-7xl px-6 lg:px-8">
           <div className="mx-auto max-w-2xl text-center mb-16">
             <h2 className="text-3xl font-bold tracking-tight sm:text-4xl mb-4">
@@ -117,11 +151,14 @@ export default function ItTrainingPage() {
             </p>
           </div>
           <div className="mx-auto max-w-4xl">
-            <div className="space-y-4">
+            <div className="grid gap-4 md:grid-cols-2">
               {t('itTrainingPage.benefits.list', []).map((benefit: string, index: number) => (
-                <div key={index} className="flex gap-4 items-start p-6 bg-accent/30 rounded-lg hover:bg-accent/50 transition-colors">
-                  <CheckCircle className="h-6 w-6 text-brand-red flex-shrink-0 mt-1" />
-                  <p className="text-lg">{benefit}</p>
+                <div
+                  key={index}
+                  className="flex gap-4 items-start p-6 bg-gradient-to-br from-accent/40 to-accent/20 rounded-lg hover:from-accent/50 hover:to-accent/30 transition-all duration-300 hover:shadow-md border border-accent/40"
+                >
+                  <CheckCircle className="h-6 w-6 text-brand-red flex-shrink-0 mt-1" aria-hidden="true" />
+                  <p className="text-base leading-relaxed">{benefit}</p>
                 </div>
               ))}
             </div>
@@ -129,7 +166,8 @@ export default function ItTrainingPage() {
         </div>
       </section>
 
-      <section className="py-24 bg-gradient-to-b from-background to-accent/10">
+      {/* Target Groups Section - Enhanced */}
+      <section className="py-16 lg:py-24 bg-gradient-to-b from-background to-accent/10">
         <div className="mx-auto max-w-7xl px-6 lg:px-8">
           <div className="mx-auto max-w-2xl text-center mb-16">
             <h2 className="text-3xl font-bold tracking-tight sm:text-4xl mb-4">
@@ -139,16 +177,19 @@ export default function ItTrainingPage() {
               {t('itTrainingPage.targetGroups.subtitle')}
             </p>
           </div>
-          <div className="grid gap-8 md:grid-cols-2 lg:grid-cols-3">
+          <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-3">
             {t('itTrainingPage.targetGroups.groups', []).map((group: any, index: number) => {
               const Icon = targetGroupIcons[index] || Users;
               return (
-                <div key={index} className="flex flex-col gap-4 p-6 bg-background rounded-lg shadow-sm hover:shadow-md transition-shadow">
-                  <div className="inline-flex h-12 w-12 items-center justify-center rounded-lg bg-brand-red/10">
-                    <Icon className="h-6 w-6 text-brand-red" />
+                <div
+                  key={index}
+                  className="flex flex-col gap-4 p-6 bg-background rounded-xl shadow-sm hover:shadow-lg transition-all duration-300 hover:scale-105 border border-accent/40"
+                >
+                  <div className="inline-flex h-12 w-12 items-center justify-center rounded-lg bg-gradient-to-br from-brand-red/20 to-brand-red/10">
+                    <Icon className="h-6 w-6 text-brand-red" aria-hidden="true" />
                   </div>
                   <h3 className="text-xl font-semibold">{group.title}</h3>
-                  <p className="text-muted-foreground">{group.description}</p>
+                  <p className="text-muted-foreground leading-relaxed">{group.description}</p>
                 </div>
               );
             })}
@@ -156,7 +197,8 @@ export default function ItTrainingPage() {
         </div>
       </section>
 
-      <section className="py-24 bg-background">
+      {/* Delivery Methods Section - Enhanced */}
+      <section className="py-16 lg:py-24 bg-background">
         <div className="mx-auto max-w-7xl px-6 lg:px-8">
           <div className="mx-auto max-w-2xl text-center mb-16">
             <h2 className="text-3xl font-bold tracking-tight sm:text-4xl mb-4">
@@ -166,28 +208,32 @@ export default function ItTrainingPage() {
               {t('itTrainingPage.delivery.subtitle')}
             </p>
           </div>
-          <div className="grid gap-8 md:grid-cols-3 max-w-5xl mx-auto mb-8">
+          <div className="grid gap-8 md:grid-cols-3 max-w-5xl mx-auto mb-10">
             {t('itTrainingPage.delivery.methods', []).map((method: any, index: number) => {
               const Icon = deliveryIcons[index] || Video;
               return (
-                <div key={index} className="text-center p-6 bg-accent/30 rounded-lg">
-                  <div className="inline-flex items-center justify-center w-16 h-16 rounded-full bg-brand-red text-white mb-4">
-                    <Icon className="h-8 w-8" />
+                <div
+                  key={index}
+                  className="text-center p-8 bg-gradient-to-br from-accent/40 to-accent/20 rounded-xl hover:from-accent/50 hover:to-accent/30 transition-all duration-300 hover:shadow-lg border border-accent/40"
+                >
+                  <div className="inline-flex items-center justify-center w-16 h-16 rounded-full bg-brand-red text-white mb-6 shadow-lg">
+                    <Icon className="h-8 w-8" aria-hidden="true" />
                   </div>
                   <h3 className="text-xl font-semibold mb-3">{method.title}</h3>
-                  <p className="text-muted-foreground">{method.description}</p>
+                  <p className="text-muted-foreground leading-relaxed">{method.description}</p>
                 </div>
               );
             })}
           </div>
-          <div className="flex items-center justify-center gap-2 text-sm text-muted-foreground bg-accent/30 p-4 rounded-lg max-w-3xl mx-auto">
-            <Info className="h-4 w-4 flex-shrink-0 text-brand-red" />
-            <p className="text-center">{t('itTrainingPage.delivery.languageNote')}</p>
+          <div className="flex items-center justify-center gap-3 text-sm bg-accent/40 backdrop-blur-sm p-4 rounded-lg max-w-3xl mx-auto border border-accent/60 shadow-sm">
+            <Info className="h-5 w-5 flex-shrink-0 text-brand-red" aria-hidden="true" />
+            <p className="text-center text-foreground/90">{t('itTrainingPage.delivery.languageNote')}</p>
           </div>
         </div>
       </section>
 
-      <section className="py-24 bg-accent/10">
+      {/* Topics Section - Enhanced */}
+      <section className="py-16 lg:py-24 bg-accent/10">
         <div className="mx-auto max-w-7xl px-6 lg:px-8">
           <div className="mx-auto max-w-2xl text-center mb-16">
             <h2 className="text-3xl font-bold tracking-tight sm:text-4xl mb-4">
@@ -198,10 +244,13 @@ export default function ItTrainingPage() {
             </p>
           </div>
           <div className="mx-auto max-w-4xl">
-            <div className="grid gap-4 md:grid-cols-2">
+            <div className="grid gap-3 md:grid-cols-2">
               {t('itTrainingPage.topics.list', []).map((topic: string, index: number) => (
-                <div key={index} className="flex gap-3 items-start p-4 bg-background rounded-lg">
-                  <CheckCircle className="h-5 w-5 text-brand-red flex-shrink-0 mt-0.5" />
+                <div
+                  key={index}
+                  className="flex gap-3 items-start p-4 bg-background rounded-lg hover:shadow-md transition-all duration-200 border border-accent/40"
+                >
+                  <CheckCircle className="h-5 w-5 text-brand-red flex-shrink-0 mt-0.5" aria-hidden="true" />
                   <span className="text-base">{topic}</span>
                 </div>
               ))}
@@ -210,7 +259,8 @@ export default function ItTrainingPage() {
         </div>
       </section>
 
-      <section className="py-24 bg-background">
+      {/* Methodology Section - Enhanced */}
+      <section className="py-16 lg:py-24 bg-background">
         <div className="mx-auto max-w-7xl px-6 lg:px-8">
           <div className="mx-auto max-w-2xl text-center mb-16">
             <h2 className="text-3xl font-bold tracking-tight sm:text-4xl mb-4">
@@ -222,56 +272,37 @@ export default function ItTrainingPage() {
           </div>
           <div className="grid gap-8 md:grid-cols-2 lg:grid-cols-4">
             {t('itTrainingPage.methodology.steps', []).map((step: any, index: number) => (
-              <div key={index} className="text-center">
-                <div className="inline-flex items-center justify-center w-16 h-16 rounded-full bg-brand-red text-white text-2xl font-bold mb-4">
+              <div key={index} className="text-center group">
+                <div className="inline-flex items-center justify-center w-20 h-20 rounded-full bg-gradient-to-br from-brand-red to-brand-red/80 text-white text-3xl font-bold mb-6 shadow-lg group-hover:scale-110 transition-transform duration-300">
                   {step.number}
                 </div>
                 <h3 className="text-xl font-semibold mb-3">{step.title}</h3>
-                <p className="text-muted-foreground">{step.description}</p>
+                <p className="text-muted-foreground leading-relaxed">{step.description}</p>
               </div>
             ))}
           </div>
         </div>
       </section>
 
-      <section className="py-24 bg-accent/10">
-        <div className="mx-auto max-w-4xl px-6 lg:px-8">
-          <div className="text-center mb-16">
-            <h2 className="text-3xl font-bold tracking-tight sm:text-4xl mb-4">
-              {t('itTrainingPage.pricing.title')}
-            </h2>
-            <p className="text-lg text-muted-foreground mb-4">
-              {t('itTrainingPage.pricing.subtitle')}
-            </p>
-            <p className="text-base text-muted-foreground mb-6">
-              {t('itTrainingPage.pricing.description')}
-            </p>
-            <p className="text-base text-muted-foreground mb-8">
-              {t('itTrainingPage.pricing.process')}
-            </p>
-            <Button asChild size="lg" className="bg-brand-red hover:bg-brand-red/90">
-              <Link href={`/${locale}/kapcsolat`}>
-                {t('itTrainingPage.pricing.cta')}
-              </Link>
-            </Button>
-          </div>
-        </div>
-      </section>
-
-      <section className="py-24 bg-background">
+      {/* FAQ Section - Enhanced */}
+      <section className="py-16 lg:py-24 bg-gradient-to-b from-background to-accent/10">
         <div className="mx-auto max-w-4xl px-6 lg:px-8">
           <div className="text-center mb-16">
             <h2 className="text-3xl font-bold tracking-tight sm:text-4xl">
               {t('itTrainingPage.faq.title')}
             </h2>
           </div>
-          <Accordion type="single" collapsible className="w-full">
+          <Accordion type="single" collapsible className="w-full space-y-4">
             {t('itTrainingPage.faq.items', []).map((item: any, index: number) => (
-              <AccordionItem key={index} value={`item-${index}`}>
-                <AccordionTrigger className="text-left text-lg font-semibold">
+              <AccordionItem
+                key={index}
+                value={`item-${index}`}
+                className="border border-accent/40 rounded-lg px-6 bg-background/50 backdrop-blur-sm hover:shadow-md transition-all"
+              >
+                <AccordionTrigger className="text-left text-lg font-semibold hover:text-brand-red transition-colors">
                   {item.question}
                 </AccordionTrigger>
-                <AccordionContent className="text-base text-muted-foreground">
+                <AccordionContent className="text-base text-muted-foreground leading-relaxed pt-2">
                   {item.answer}
                 </AccordionContent>
               </AccordionItem>
@@ -280,21 +311,50 @@ export default function ItTrainingPage() {
         </div>
       </section>
 
-      <section className="py-24 bg-brand-red text-white">
-        <div className="mx-auto max-w-7xl px-6 lg:px-8 text-center">
-          <h2 className="text-3xl font-bold tracking-tight sm:text-4xl mb-4">
+      {/* Pricing Section - Enhanced */}
+      <section className="py-16 lg:py-24 bg-background">
+        <div className="mx-auto max-w-4xl px-6 lg:px-8">
+          <div className="text-center p-8 lg:p-12 bg-gradient-to-br from-accent/40 via-accent/20 to-background rounded-2xl border-2 border-accent/60 shadow-xl">
+            <h2 className="text-3xl font-bold tracking-tight sm:text-4xl mb-4">
+              {t('itTrainingPage.pricing.title')}
+            </h2>
+            <p className="text-lg text-muted-foreground mb-4">
+              {t('itTrainingPage.pricing.subtitle')}
+            </p>
+            <p className="text-base text-muted-foreground mb-6 leading-relaxed">
+              {t('itTrainingPage.pricing.description')}
+            </p>
+            <p className="text-base text-muted-foreground mb-8 leading-relaxed">
+              {t('itTrainingPage.pricing.process')}
+            </p>
+            <Button asChild size="lg" className="bg-brand-red hover:bg-brand-red/90 shadow-lg hover:shadow-xl transition-all duration-300 hover:scale-105 group">
+              <Link href={`/${locale}/kapcsolat`}>
+                {t('itTrainingPage.pricing.cta')}
+                <ArrowRight className="ml-2 h-5 w-5 transition-transform group-hover:translate-x-1" aria-hidden="true" />
+              </Link>
+            </Button>
+          </div>
+        </div>
+      </section>
+
+      {/* Final CTA Section - Enhanced */}
+      <section className="py-16 lg:py-24 bg-gradient-to-br from-brand-red via-brand-red/95 to-brand-red/90 text-white relative overflow-hidden">
+        <div className="absolute inset-0 bg-grid-white/[0.05] pointer-events-none" aria-hidden="true" />
+        <div className="mx-auto max-w-7xl px-6 lg:px-8 text-center relative z-10">
+          <h2 className="text-3xl font-bold tracking-tight sm:text-4xl lg:text-5xl mb-6">
             {t('itTrainingPage.finalCta.title')}
           </h2>
-          <p className="text-xl mb-8 text-white/90 max-w-2xl mx-auto">
+          <p className="text-xl mb-10 text-white/95 max-w-2xl mx-auto leading-relaxed">
             {t('itTrainingPage.finalCta.description')}
           </p>
           <Button
             asChild
             size="lg"
-            className="bg-white text-brand-red hover:bg-gray-100"
+            className="bg-white text-brand-red hover:bg-gray-100 shadow-xl hover:shadow-2xl transition-all duration-300 hover:scale-105 group"
           >
             <Link href={`/${locale}/kapcsolat`}>
               {t('itTrainingPage.finalCta.button')}
+              <ArrowRight className="ml-2 h-5 w-5 transition-transform group-hover:translate-x-1" aria-hidden="true" />
             </Link>
           </Button>
         </div>

@@ -68,25 +68,166 @@
     line-height: 1.5;
   }
 
-  h1, h2, h3, h4, h5, h6 {
+  /* Enhanced typography hierarchy */
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
     line-height: 1.2;
     font-weight: 700;
+    letter-spacing: -0.02em;
+  }
+
+  h1 {
+    @apply text-4xl sm:text-5xl lg:text-6xl;
+  }
+
+  h2 {
+    @apply text-3xl sm:text-4xl lg:text-5xl;
+  }
+
+  h3 {
+    @apply text-2xl sm:text-3xl;
   }
 
   p {
-    line-height: 1.5;
+    line-height: 1.6;
+  }
+
+  /* Smooth scroll behavior */
+  html {
+    scroll-behavior: smooth;
+  }
+
+  /* Respect reduced motion preference */
+  @media (prefers-reduced-motion: reduce) {
+
+    *,
+    *::before,
+    *::after {
+      animation-duration: 0.01ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.01ms !important;
+      scroll-behavior: auto !important;
+    }
   }
 }
 
 @layer utilities {
+
+  /* Grid pattern background */
   .bg-grid-pattern {
     background-image:
       linear-gradient(to right, hsl(var(--border)) 1px, transparent 1px),
       linear-gradient(to bottom, hsl(var(--border)) 1px, transparent 1px);
     background-size: 40px 40px;
   }
+
+  /* Grid pattern for dark backgrounds */
+  .bg-grid-white\/\[0\.02\] {
+    background-image:
+      linear-gradient(to right, rgba(255, 255, 255, 0.02) 1px, transparent 1px),
+      linear-gradient(to bottom, rgba(255, 255, 255, 0.02) 1px, transparent 1px);
+    background-size: 40px 40px;
+  }
+
+  .bg-grid-white\/\[0\.05\] {
+    background-image:
+      linear-gradient(to right, rgba(255, 255, 255, 0.05) 1px, transparent 1px),
+      linear-gradient(to bottom, rgba(255, 255, 255, 0.05) 1px, transparent 1px);
+    background-size: 40px 40px;
+  }
+
+  /* Skeleton loader */
+  .skeleton {
+    @apply animate-shimmer bg-gradient-to-r from-muted via-muted/50 to-muted;
+    background-size: 1000px 100%;
+  }
+
+  /* Enhanced card hover */
+  .card-hover {
+    @apply transition-all duration-300 hover:scale-[1.02] hover:shadow-xl;
+  }
+
+  /* Button press feedback */
+  .button-press {
+    @apply active:scale-95 transition-transform;
+  }
+
+  /* Futuristic glow effect */
+  .glow-red {
+    box-shadow: 0 0 20px rgba(211, 47, 47, 0.3),
+      0 0 40px rgba(211, 47, 47, 0.1);
+  }
+
+  .glow-red-hover:hover {
+    box-shadow: 0 0 25px rgba(211, 47, 47, 0.5),
+      0 0 50px rgba(211, 47, 47, 0.2);
+  }
+
+  /* Gradient text for tech headings */
+  .gradient-text {
+    @apply bg-clip-text text-transparent bg-gradient-to-r from-foreground via-brand-red to-foreground;
+  }
+
+  /* Tech-style border with gradient */
+  .tech-border {
+    position: relative;
+    border: 1px solid transparent;
+    background: linear-gradient(hsl(var(--background)), hsl(var(--background))) padding-box,
+      linear-gradient(135deg, rgba(211, 47, 47, 0.3), rgba(211, 47, 47, 0)) border-box;
+  }
+
+  /* Animated gradient background */
+  .tech-gradient-bg {
+    background: linear-gradient(135deg,
+        hsl(var(--background)) 0%,
+        hsl(var(--accent)) 50%,
+        hsl(var(--background)) 100%);
+    background-size: 200% 200%;
+    animation: gradient-shift 15s ease infinite;
+  }
+
+  @keyframes gradient-shift {
+
+    0%,
+    100% {
+      background-position: 0% 50%;
+    }
+
+    50% {
+      background-position: 100% 50%;
+    }
+  }
+
+  /* GPU-accelerated transitions for mobile */
+  .gpu-accelerated {
+    transform: translateZ(0);
+    will-change: transform;
+    backface-visibility: hidden;
+  }
+
+  /* Mobile-friendly hover (touch devices) */
+  @media (hover: hover) and (pointer: fine) {
+    .hover-lift:hover {
+      transform: translateY(-4px) translateZ(0);
+      box-shadow: 0 12px 24px rgba(0, 0, 0, 0.15);
+    }
+  }
+
+  /* Responsive glow - lighter on mobile for performance */
+  @media (max-width: 768px) {
+
+    .glow-red,
+    .glow-red-hover:hover {
+      box-shadow: 0 0 10px rgba(211, 47, 47, 0.2);
+    }
+  }
 }
 
+/* Screen reader only - accessibility */
 .sr-only {
   position: absolute;
   width: 1px;
@@ -97,4 +238,24 @@
   clip: rect(0, 0, 0, 0);
   white-space: nowrap;
   border-width: 0;
+}
+
+/* Focus visible states for accessibility */
+*:focus-visible {
+  @apply outline-2 outline-offset-2 outline-brand-red;
+}
+
+/* Better button focus states */
+button:focus-visible,
+a:focus-visible {
+  @apply outline-2 outline-offset-2 outline-brand-red;
+}
+
+/* Skip to content link for accessibility */
+.skip-to-content {
+  @apply sr-only;
+}
+
+.skip-to-content:focus {
+  @apply not-sr-only fixed top-4 left-4 z-50 bg-brand-red text-white px-4 py-2 rounded-md;
 }

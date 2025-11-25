@@ -2,64 +2,12 @@
 
 import { useState } from 'react';
 import { ChevronDown, MessageCircle } from 'lucide-react';
+import { useTranslation } from '@/hooks/useTranslation';
 
 interface FaqItem {
   question: string;
   answer: string;
 }
-
-const faqData: FaqItem[] = [
-  {
-    question: 'Milyen vállalkozásoknak nyújtanak szolgáltatást?',
-    answer:
-      'A SIRONIC kis- és középvállalatokra specializálódott, de egyedi igények alapján nagyobb cégeknek is kínálunk megoldásokat. Legyen szó rendszergazdai támogatásról, hálózatépítésről vagy webfejlesztésről – minden vállalkozásnak megtaláljuk az ideális IT megoldást.',
-  },
-  {
-    question: 'Miben különbözik a SIRONIC más IT szolgáltatóktól?',
-    answer:
-      'Mi nem csak „hibajavítók" vagyunk – proaktívan figyeljük a rendszereket, megelőzzük a problémákat, és emberi nyelven kommunikálunk. Nem hagyjuk, hogy az IT akadály legyen, inkább versenyelőnyt kovácsolunk belőle.',
-  },
-  {
-    question: 'Milyen gyorsan reagálnak egy hibabejelentésre?',
-    answer:
-      'Általános esetben 1–4 órán belül reagálunk, sürgős esetekben akár azonnal. Előfizetéses partnereink számára garantált reakcióidőt biztosítunk.',
-  },
-  {
-    question: 'Vállalnak helyszíni kiszállást is, vagy csak távoli támogatást nyújtanak?',
-    answer:
-      'Igen, mindkettőt! A legtöbb hibát távolról elhárítjuk, de ha szükséges, személyesen is kiszállunk a helyszínre.',
-  },
-  {
-    question: 'Készítenek weboldalt teljesen a nulláról is?',
-    answer:
-      'Természetesen. Egyedi, reszponzív weboldalakat fejlesztünk modern technológiákkal (Next.js, React, Tailwind), és gondoskodunk róla, hogy az oldal gyors, biztonságos és keresőoptimalizált legyen.',
-  },
-  {
-    question: 'Mi az a CRM Pro, és hogyan segíti a vállalkozásomat?',
-    answer:
-      'A CRM Pro egy egyedi fejlesztésű ügyfélkezelő rendszer, amely átláthatóvá teszi az értékesítési folyamatokat, automatizálja az adminisztrációt és integrálható meglévő rendszerekkel. Kisebb cégek számára is elérhető árkategóriában.',
-  },
-  {
-    question: 'Milyen biztonsági intézkedéseket alkalmaznak?',
-    answer:
-      'Modern tűzfalakat, adatmentési megoldásokat, titkosítást és hozzáférés-kezelést használunk. Minden rendszerünket GDPR-kompatibilisen alakítjuk ki, így az adatbiztonság alapértelmezett.',
-  },
-  {
-    question: 'Milyen formában lehet szerződni Önökkel?',
-    answer:
-      'Két fő konstrukcióban dolgozunk: eseti megbízás (alkalmi feladatokra) és havi karbantartási szerződés (állandó üzemeltetés és támogatás). Mindkettő átlátható, fix díjazású.',
-  },
-  {
-    question: 'Mennyibe kerül egy weboldal vagy rendszer fejlesztése?',
-    answer:
-      'Az alap weboldalak 250.000 Ft-tól indulnak, míg egyedi rendszerek vagy CRM megoldások ára a funkcionalitástól függően kerül meghatározásra. Minden projekt előtt pontos árajánlatot adunk.',
-  },
-  {
-    question: 'Miért érdemes felhőalapú megoldásokat választani?',
-    answer:
-      'A felhő gyors, biztonságos és rugalmas – nem kell saját szervert fenntartani, az adatok mindig elérhetők, és a bővítés pillanatok alatt megoldható.',
-  },
-];
 
 interface FaqItemComponentProps {
   item: FaqItem;
@@ -81,9 +29,8 @@ function FaqItemComponent({ item, index, isOpen, onToggle }: FaqItemComponentPro
           {item.question}
         </h3>
         <div
-          className={`flex-shrink-0 mt-1 transition-transform duration-300 ease-in-out ${
-            isOpen ? 'rotate-180' : 'rotate-0'
-          }`}
+          className={`flex-shrink-0 mt-1 transition-transform duration-300 ease-in-out ${isOpen ? 'rotate-180' : 'rotate-0'
+            }`}
         >
           <ChevronDown className="h-5 w-5 text-brand-red" aria-hidden="true" />
         </div>
@@ -92,9 +39,8 @@ function FaqItemComponent({ item, index, isOpen, onToggle }: FaqItemComponentPro
         id={`faq-answer-${index}`}
         role="region"
         aria-labelledby={`faq-question-${index}`}
-        className={`overflow-hidden transition-all duration-300 ease-in-out ${
-          isOpen ? 'max-h-96 opacity-100' : 'max-h-0 opacity-0'
-        }`}
+        className={`overflow-hidden transition-all duration-300 ease-in-out ${isOpen ? 'max-h-96 opacity-100' : 'max-h-0 opacity-0'
+          }`}
       >
         <div className="px-4 sm:px-6 pb-5 pt-2">
           <p className="text-sm sm:text-base text-muted-foreground leading-relaxed">{item.answer}</p>
@@ -105,11 +51,14 @@ function FaqItemComponent({ item, index, isOpen, onToggle }: FaqItemComponentPro
 }
 
 export function FaqSection() {
+  const { t } = useTranslation();
   const [openIndex, setOpenIndex] = useState<number | null>(null);
 
   const handleToggle = (index: number) => {
     setOpenIndex(openIndex === index ? null : index);
   };
+
+  const faqData: FaqItem[] = t('faq.items', []);
 
   return (
     <section id="faq" className="py-16 lg:py-24 bg-muted/30">
@@ -119,7 +68,7 @@ export function FaqSection() {
             <MessageCircle className="h-8 w-8 text-brand-red" aria-hidden="true" />
           </div>
           <h2 className="text-3xl font-bold tracking-tight sm:text-4xl mb-4">
-            Gyakran Ismételt Kérdések (FAQ)
+            {t('faq.title')}
           </h2>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
             Válaszok a leggyakoribb kérdésekre – ha további információra van szükséged, lépj velünk
@@ -129,7 +78,7 @@ export function FaqSection() {
 
         <div className="mx-auto max-w-3xl">
           <div className="bg-background rounded-lg shadow-sm border border-muted overflow-hidden">
-            {faqData.map((item, index) => (
+            {faqData.map((item: FaqItem, index: number) => (
               <FaqItemComponent
                 key={index}
                 item={item}

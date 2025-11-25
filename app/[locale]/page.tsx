@@ -7,6 +7,8 @@ import { FaqSection } from '@/components/FaqSection';
 import { MindenCegnekSection } from '@/components/MindenCegnekSection';
 import { CustomDevelopmentSection } from '@/components/CustomDevelopmentSection';
 import { ItTrainingSection } from '@/components/ItTrainingSection';
+import { OrganizationSchema } from '@/components/structured-data/OrganizationSchema';
+import { LocalBusinessSchema } from '@/components/structured-data/LocalBusinessSchema';
 import { Button } from '@/components/ui/button';
 import { Server, Network, Shield, Code, CheckCircle, ShoppingCart, Cloud, Wrench, ArrowRight } from 'lucide-react';
 import Link from 'next/link';
@@ -176,6 +178,10 @@ export default function HomePage() {
           </Button>
         </div>
       </section>
+
+      {/* Structured Data */}
+      <OrganizationSchema locale={locale} />
+      <LocalBusinessSchema locale={locale} />
     </>
   );
 }

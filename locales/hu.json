@@ -2,7 +2,108 @@
   "meta": {
     "siteTitle": "SIRONIC IT Rendszerház",
     "siteDescription": "Teljes körű IT megoldások kis- és középvállalkozásoknak Székesfehérváron",
-    "companyName": "SIRONIC Rendszerház"
+    "companyName": "SIRONIC Rendszerház",
+    "keywords": [
+      "IT szolgáltatás",
+      "rendszerüzemeltetés",
+      "rendszergazda",
+      "hálózatépítés",
+      "IT biztonság",
+      "webfejlesztés",
+      "CRM fejlesztés",
+      "IT oktatás",
+      "informatikai képzés",
+      "biztonságtudatosság",
+      "digitális tréning",
+      "IT kereskedelem",
+      "IT eszköz értékesítés",
+      "hosting szolgáltatás",
+      "webtárhely",
+      "szerver bérlés",
+      "számítógép javítás",
+      "laptop szerviz",
+      "helyszíni szerviz",
+      "adatbiztonság",
+      "karbantartás",
+      "Székesfehérvár"
+    ],
+    "ogImage": "/og/home-hu.jpg",
+    "pages": {
+      "services": {
+        "title": "Szolgáltatásaink - SIRONIC IT Rendszerház",
+        "description": "Teljes körű IT szolgáltatások: rendszerüzemeltetés, hálózatépítés, IT biztonság, webfejlesztés, hosting, szerviz és IT oktatás Székesfehérváron.",
+        "keywords": [
+          "IT szolgáltatások",
+          "rendszerüzemeltetés",
+          "hálózatépítés",
+          "IT biztonság",
+          "webfejlesztés",
+          "hosting",
+          "szerviz",
+          "Székesfehérvár"
+        ],
+        "ogImage": "/og/services-hu.jpg"
+      },
+      "about": {
+        "title": "Rólunk - SIRONIC IT Rendszerház",
+        "description": "Megbízható IT partner 5+ év tapasztalattal. Proaktív támogatás, átlátható árak és emberi kommunikáció - ez a SIRONIC Rendszerház.",
+        "keywords": [
+          "IT cég",
+          "Székesfehérvár",
+          "megbízható IT partner",
+          "rendszerüzemeltetés",
+          "IT támogatás"
+        ],
+        "ogImage": "/og/about-hu.jpg"
+      },
+      "contact": {
+        "title": "Kapcsolat - SIRONIC IT Rendszerház",
+        "description": "Vedd fel velünk a kapcsolatot ingyenes konzultációért. Email: hello@sironic.hu, Tel: +36 70 273 5532. Székesfehérvár.",
+        "keywords": [
+          "IT  kapcsolat",
+          "ingyenes konzultáció",
+          "Székesfehérvár IT",
+          "hello@sironic.hu"
+        ],
+        "ogImage": "/og/contact-hu.jpg"
+      },
+      "pricing": {
+        "title": "Áraink - SIRONIC IT Rendszerház",
+        "description": "Átlátható IT árak fix havidíjas konstrukcióval. Rendszerüzemeltetés 39.000 Ft/hó-tól. Egyedi ajánlatok vállalkozásod igényei szerint.",
+        "keywords": [
+          "IT árak",
+          "havidíjas IT",
+          "rendszerüzemeltetés ár",
+          "IT költségek",
+          "Székesfehérvár"
+        ],
+        "ogImage": "/og/pricing-hu.jpg"
+      },
+      "products": {
+        "title": "Termékeink - SIRONIC IT Rendszerház",
+        "description": "Egyedi szoftvermegoldások és IT termékek kis- és középvállalkozásoknak. Modern, megbízható alkalmazások a Te igényeidre szabva.",
+        "keywords": [
+          "IT termékek",
+          "egyedi szoftver",
+          "CRM rendszer",
+          "webalkalmazás",
+          "mobilalkalmazás"
+        ],
+        "ogImage": "/og/products-hu.jpg"
+      },
+      "blog": {
+        "title": "Blog - SIRONIC IT Rendszerház",
+        "description": "IT tippek, tudástár és útmutatók vállalkozásoknak. Gyakorlati tanácsok az informatikai biztonságról, hatékonyságról és fejlesztésekről.",
+        "keywords": [
+          "IT blog",
+          "informatikai tippek",
+          "IT biztonság",
+          "vállalati IT",
+          "tudástár"
+        ],
+        "ogImage": "/og/blog-hu.jpg"
+      }
+    }
   },
   "nav": {
     "home": "Főoldal",
@@ -147,7 +248,49 @@
     ]
   },
   "faq": {
-    "title": "Gyakran ismételt kérdések"
+    "title": "Gyakran ismételt kérdések",
+    "items": [
+      {
+        "question": "Milyen vállalkozásoknak nyújtanak szolgáltatást?",
+        "answer": "A SIRONIC kis- és középvállalatokra specializálódott, de egyedi igények alapján nagyobb cégeknek is kínálunk megoldásokat. Legyen szó rendszergazdai támogatásról, hálózatépítésről vagy webfejlesztésről – minden vállalkozásnak megtaláljuk az ideális IT megoldást."
+      },
+      {
+        "question": "Miben különbözik a SIRONIC más IT szolgáltatóktól?",
+        "answer": "Mi nem csak „hibajavítók\" vagyunk – proaktívan figyeljük a rendszereket, megelőzzük a problémákat, és emberi nyelven kommunikálunk. Nem hagyjuk, hogy az IT akadály legyen, inkább versenyelőnyt kovácsolunk belőle."
+      },
+      {
+        "question": "Milyen gyorsan reagálnak egy hibabejelentésre?",
+        "answer": "Általános esetben 1–4 órán belül reagálunk, sürgős esetekben akár azonnal. Előfizetéses partnereink számára garantált reakcióidőt biztosítunk."
+      },
+      {
+        "question": "Vállalnak helyszíni kiszállást is, vagy csak távoli támogatást nyújtanak?",
+        "answer": "Igen, mindkettőt! A legtöbb hibát távolról elhárítjuk, de ha szükséges, személyesen is kiszállunk a helyszínre."
+      },
+      {
+        "question": "Készítenek weboldalt teljesen a nulláról is?",
+        "answer": "Természetesen. Egyedi, reszponzív weboldalakat fejlesztünk modern technológiákkal (Next.js, React, Tailwind), és gondoskodunk róla, hogy az oldal gyors, biztonságos és keresőoptimalizált legyen."
+      },
+      {
+        "question": "Mi az a CRM Pro, és hogyan segíti a vállalkozásomat?",
+        "answer": "A CRM Pro egy egyedi fejlesztésű ügyfélkezelő rendszer, amely átláthatóvá teszi az értékesítési folyamatokat, automatizálja az adminisztrációt és integrálható meglévő rendszerekkel. Kisebb cégek számára is elérhető árkategóriában."
+      },
+      {
+        "question": "Milyen biztonsági intézkedéseket alkalmaznak?",
+        "answer": "Modern tűzfalakat, adatmentési megoldásokat, titkosítást és hozzáférés-kezelést használunk. Minden rendszerünket GDPR-kompatibilisen alakítjuk ki, így az adatbiztonság alapértelmezett."
+      },
+      {
+        "question": "Milyen formában lehet szerződni Önökkel?",
+        "answer": "Két fő konstrukcióban dolgozunk: eseti megbízás (alkalmi feladatokra) és havi karbantartási szerződés (állandó üzemeltetés és támogatás). Mindkettő átlátható, fix díjazású."
+      },
+      {
+        "question": "Mennyibe kerül egy weboldal vagy rendszer fejlesztése?",
+        "answer": "Az alap weboldalak 250.000 Ft-tól indulnak, míg egyedi rendszerek vagy CRM megoldások ára a funkcionalitástól függően kerül meghatározásra. Minden projekt előtt pontos árajánlatot adunk."
+      },
+      {
+        "question": "Miért érdemes felhőalapú megoldásokat választani?",
+        "answer": "A felhő gyors, biztonságos és rugalmas – nem kell saját szervert fenntartani, az adatok mindig elérhetők, és a bővítés pillanatok alatt megoldható."
+      }
+    ]
   },
   "finalCta": {
     "title": "Készen állsz a gondtalan IT-re?",
@@ -169,7 +312,22 @@
       "required": "*",
       "success": "Üzeneted sikeresen elküldve! Hamarosan felvesszük veled a kapcsolatot.",
       "error": "Hiba történt az üzenet küldése során",
-      "noscript": "JavaScript nélkül is elküldheted az üzenetet:"
+      "noscript": "JavaScript nélkül is elküldheted az üzenetet:",
+      "options": {
+        "placeholder": "Válassz egy szolgáltatást",
+        "mindenCegnek": "Minden cégnek legyen informatikusa",
+        "systemOperation": "Rendszerüzemeltetés és IT karbantartás",
+        "networking": "Hálózatépítés és fejlesztés",
+        "security": "IT biztonság és adatvédelem",
+        "development": "Weboldal- és rendszerfejlesztés",
+        "commerce": "Kereskedelem – IT eszközök és szoftverek",
+        "hosting": "Hosting és felhőmegoldások",
+        "repair": "Szerviz és javítás",
+        "training": "IT oktatás és tudásfejlesztés"
+      },
+      "errors": {
+        "general": "Hálózati hiba történt. Kérjük, próbáld újra később."
+      }
     },
     "info": {
       "title": "Elérhetőségeink",

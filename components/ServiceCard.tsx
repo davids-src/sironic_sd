@@ -9,16 +9,12 @@ interface ServiceCardProps {
 
 export function ServiceCard({ title, description, icon: Icon }: ServiceCardProps) {
   return (
-    <Card className="transition-all duration-300 hover:shadow-lg hover:scale-105 hover:border-brand-red/50 focus-within:ring-2 focus-within:ring-brand-red">
-      <CardHeader>
-        <div className="mb-4 inline-flex h-12 w-12 items-center justify-center rounded-lg bg-brand-red/10">
-          <Icon className="h-6 w-6 text-brand-red" aria-hidden="true" />
-        </div>
-        <CardTitle className="text-xl mb-2">{title}</CardTitle>
-      </CardHeader>
-      <CardContent>
-        <CardDescription className="text-base leading-relaxed">{description}</CardDescription>
-      </CardContent>
-    </Card>
+    <div className="group relative card-hover gpu-accelerated rounded-lg border bg-card p-6 text-card-foreground shadow-sm tech-border">
+      <div className="mb-4 inline-flex h-12 w-12 items-center justify-center rounded-lg bg-brand-red/10 transition-colors group-hover:bg-brand-red/20">
+        <Icon className="h-6 w-6 text-brand-red" />
+      </div>
+      <h3 className="mb-2 text-xl font-semibold tracking-tight">{title}</h3>
+      <p className="text-sm text-muted-foreground leading-relaxed">{description}</p>
+    </div>
   );
 }

@@ -2,7 +2,106 @@
   "meta": {
     "siteTitle": "SIRONIC Soluții IT",
     "siteDescription": "Soluții IT complete pentru întreprinderi mici și mijlocii în Székesfehérvár",
-    "companyName": "SIRONIC Soluții IT"
+    "companyName": "SIRONIC Soluții IT",
+    "keywords": [
+      "servicii IT",
+      "administrare sistem",
+      "rețea infrastructură",
+      "securitate IT",
+      "dezvoltare web",
+      "dezvoltare CRM",
+      "training IT",
+      "formare cibersecuritate",
+      "competențe digitale",
+      "echipament IT",
+      "servicii hosting",
+      "gazduire web",
+      "închiriere server",
+      "reparații calculator",
+      "service laptop",
+      "suport la fața locului",
+      "securitate date",
+      "întreținere",
+      "Székesfehérvár",
+      "Ungaria"
+    ],
+    "ogImage": "/og/home-ro.jpg",
+    "pages": {
+      "services": {
+        "title": "Serviciile noastre - SIRONIC Soluții IT",
+        "description": "Servicii IT complete: administrare sisteme, infrastructură rețea, securitate IT, dezvoltare web, hosting, service reparații și training IT în Székesfehérvár.",
+        "keywords": [
+          "servicii IT",
+          "administrare sisteme",
+          "rețea",
+          "securitate IT",
+          "dezvoltare web",
+          "hosting",
+          "reparații",
+          "Székesfehérvár"
+        ],
+        "ogImage": "/og/services-ro.jpg"
+      },
+      "about": {
+        "title": "Despre noi - SIRONIC Soluții IT",
+        "description": "Partner IT de încredere cu peste 5 ani de experiență. Suport proactiv, prețuri transparente și comunicare umană - aceasta este SIRONIC.",
+        "keywords": [
+          "companie IT",
+          "Székesfehérvár",
+          "partner IT de încredere",
+          "administrare sisteme",
+          "suport IT"
+        ],
+        "ogImage": "/og/about-ro.jpg"
+      },
+      "contact": {
+        "title": "Contact - SIRONIC Soluții IT",
+        "description": "Contactați-ne pentru o consultație gratuită. Email: hello@sironic.hu, Telefon: +36 70 273 5532. Székesfehérvár, Ungaria.",
+        "keywords": [
+          "contact IT",
+          "consultație gratuită",
+          "Székesfehérvár IT",
+          "hello@sironic.hu"
+        ],
+        "ogImage": "/og/contact-ro.jpg"
+      },
+      "pricing": {
+        "title": "Prețuri - SIRONIC Soluții IT",
+        "description": "Prețuri IT transparente cu planuri lunare fixe. Administrare sisteme de la 39.000 HUF/lună. Oferte personalizate după nevoile dumneavoastră.",
+        "keywords": [
+          "prețuri IT",
+          "suport IT lunar",
+          "cost administrare sisteme",
+          "cheltuieli IT",
+          "Székesfehérvár"
+        ],
+        "ogImage": "/og/pricing-ro.jpg"
+      },
+      "products": {
+        "title": "Produsele noastre - SIRONIC Soluții IT",
+        "description": "Soluții software personalizate și produse IT pentru întreprinderi mici și mijlocii. Aplicații moderne, de încredere, adaptate nevoilor dumneavoastră.",
+        "keywords": [
+          "produse IT",
+          "software personalizat",
+          "sistem CRM",
+          "aplicație web",
+          "aplicație mobilă"
+        ],
+        "ogImage": "/og/products-ro.jpg"
+      },
+      "blog": {
+        "title": "Blog - SIRONIC Soluții IT",
+        "description": "Sfaturi IT, bază de cunoștințe și ghiduri pentru întreprinderi. Consiliere practică despre securitatea IT, eficiență și dezvoltare.",
+        "keywords": [
+          "blog IT",
+          "sfaturi IT",
+          "securitate IT",
+          "IT întreprinderi",
+          "bază de cunoștințe"
+        ],
+        "ogImage": "/og/blog-ro.jpg"
+      }
+    }
   },
   "nav": {
     "home": "Acasă",
@@ -123,7 +222,49 @@
     ]
   },
   "faq": {
-    "title": "Întrebări frecvente"
+    "title": "Întrebări frecvente",
+    "items": [
+      {
+        "question": "Ce afaceri deserviți?",
+        "answer": "SIRONIC este specializat în întreprinderi mici și mijlocii, dar oferim și soluții pentru companii mai mari pe baza nevoilor unice. Fie că este vorba de suport pentru administrarea sistemelor, construirea rețelei sau dezvoltarea web – găsim soluția IT ideală pentru fiecare afacere."
+      },
+      {
+        "question": "Cum se diferențiază SIRONIC de alți furnizori IT?",
+        "answer": "Nu suntem doar 'reparați' – monitorizăm proactiv sistemele, prevenim problemele și comunicăm în limbaj uman. Nu lăsăm IT-ul să fie un obstacol, ci forjăm un avantaj competitiv din el."
+      },
+      {
+        "question": "Cât de repede reacționați la un raport de eroare?",
+        "answer": "În general, reacționăm în 1–4 ore, în cazuri urgente chiar imediat. Pentru partenerii noștri cu abonament, oferim timpi de răspuns garantat."
+      },
+      {
+        "question": "Efectuați vizite la fața locului sau doar suport la distanță?",
+        "answer": "Da, ambele! Rezolvăm majoritatea erorilor de la distanță, dar dacă este necesar, mergem și personal la fața locului."
+      },
+      {
+        "question": "Creați site-uri web complet de la zero?",
+        "answer": "Desigur. Dezvoltăm site-uri web unice, responsive cu tehnologii moderne (Next.js, React, Tailwind) și ne asigurăm că site-ul este rapid, sigur și optimizat pentru motoarele de căutare."
+      },
+      {
+        "question": "Ce este CRM Pro și cum ajută afacerea mea?",
+        "answer": "CRM Pro este un sistem de gestionare a clienților dezvoltat personalizat care face procesele de vânzare transparente, automatizează administrația și poate fi integrat cu sistemele existente. Disponibil într-o categorie de preț accesibilă și pentru companii mai mici."
+      },
+      {
+        "question": "Ce măsuri de securitate aplicați?",
+        "answer": "Utilizăm firewall-uri moderne, soluții de backup de date, criptare și gestionarea accesului. Proiectăm toate sistemele noastre să fie conforme GDPR, astfel încât securitatea datelor este implicită."
+      },
+      {
+        "question": "În ce formă putem contracta cu voi?",
+        "answer": "Lucrăm în două construcții principale: sarcină ad-hoc (pentru sarcini ocazionale) și contract de întreținere lunară (operațiuni permanente și suport). Ambele sunt transparente, cu prețuri fixe."
+      },
+      {
+        "question": "Cât costă dezvoltarea unui site web sau sistem?",
+        "answer": "Site-urile web de bază încep de la 250.000 HUF, în timp ce prețul sistemelor unice sau soluțiilor CRM este determinat în funcție de funcționalitate. Dăm o ofertă de preț precisă înainte de fiecare proiect."
+      },
+      {
+        "question": "De ce merită să alegi soluții bazate pe cloud?",
+        "answer": "Cloud-ul este rapid, sigur și flexibil – nu este nevoie să întreții propriul server, datele sunt întotdeauna disponibile și extinderea poate fi rezolvată în momente."
+      }
+    ]
   },
   "finalCta": {
     "title": "Pregătit pentru IT fără griji?",
@@ -145,7 +286,22 @@
       "required": "*",
       "success": "Mesajul dumneavoastră a fost trimis cu succes! Vă vom contacta în curând.",
       "error": "A apărut o eroare la trimiterea mesajului",
-      "noscript": "Puteți trimite și mesajul prin e-mail:"
+      "noscript": "Puteți trimite și mesajul prin e-mail:",
+      "options": {
+        "placeholder": "Selectați un serviciu",
+        "mindenCegnek": "Fiecare companie ar trebui să aibă un specialist IT",
+        "systemOperation": "Operațiuni sistem și întreținere IT",
+        "networking": "Construire și dezvoltare rețea",
+        "security": "Securitate IT și protecția datelor",
+        "development": "Dezvoltare website și sisteme",
+        "commerce": "Comerț – echipamente IT și software",
+        "hosting": "Hosting și soluții cloud",
+        "repair": "Service și reparații",
+        "training": "Instruire IT și dezvoltare cunoștințe"
+      },
+      "errors": {
+        "general": "A apărut o eroare de rețea. Vă rugăm să încercați din nou mai târziu."
+      }
     },
     "info": {
       "title": "Informații de contact",
@@ -760,243 +916,257 @@
     }
   },
   "itTraining": {
-    "badge": "Educație și formare IT",
-    "title": "Educație IT și dezvoltarea competențelor digitale corporative",
-    "subtitle": "Dezvoltați competențele digitale ale echipei dumneavoastră",
-    "description": "Oferim training IT personalizat, programe de conștientizare a securității și dezvoltarea cunoștințelor la nivel de sistem pentru ca angajații să poată utiliza cu încredere instrumentele și software-ul modern. Operațiunile sigure încep cu informarea.",
+    "badge": "Educație și Formare IT",
+    "title": "Educație IT și Dezvoltarea Cunoștințelor Corporative",
+    "subtitle": "Dezvoltați abilitățile digitale ale echipei",
+    "description": "Oferim training IT personalizat, ateliere de conștientizare a securității și dezvoltare a cunoștințelor la nivel de sistem pentru a ne asigura că angajații dumneavoastră utilizează instrumentele și software-ul modern cu încredere. Operațiunile sigure încep cu informația.",
     "cards": {
       "personalized": {
-        "title": "Training IT personalizat",
-        "description": "Programe de formare personalizate pentru a dezvolta cunoștințele digitale ale echipei dumneavoastră. Abilități practice care pot fi aplicate imediat în munca zilnică."
+        "title": "Training IT Personalizat",
+        "description": "Programe de formare personalizate pentru a îmbunătăți competența digitală a echipei. Cunoștințe practice care pot fi aplicate imediat în sarcinile zilnice."
       },
       "security": {
-        "title": "Training de conștientizare a securității",
-        "description": "Fundamentele securității cibernetice și formarea în protecția datelor. Învățați echipa cum să protejeze datele și sistemele companiei dumneavoastră."
+        "title": "Training de Conștientizare a Securității",
+        "description": "Fundamentele securității cibernetice și ateliere de protecție a datelor. Învățați echipa cum să protejeze eficient datele și sistemele companiei."
       },
       "software": {
-        "title": "Cursuri de utilizare software și hardware",
-        "description": "Utilizarea eficientă a Microsoft 365, Google Workspace și instrumentelor de birou. Creșteți productivitatea prin stăpânirea instrumentelor potrivite."
+        "title": "Training Utilizare Software și Dispozitive",
+        "description": "Utilizarea eficientă a Microsoft 365, Google Workspace și a instrumentelor de birou. Creșteți productivitatea stăpânind instrumentele potrivite."
       },
       "corporate": {
-        "title": "Programe de dezvoltare a cunoștințelor corporative",
-        "description": "Dezvoltarea pe termen lung a competențelor digitale. Programe de formare continuă care țin pasul cu schimbările tehnologice."
+        "title": "Programe de Dezvoltare a Cunoștințelor Corporative",
+        "description": "Dezvoltarea competențelor digitale pe termen lung. Programe de educație continuă care țin pasul cu progresele tehnologice."
       }
     },
     "languageNote": "Sesiunile de formare sunt disponibile în prezent numai în limba maghiară, atât online, cât și la fața locului.",
     "cta": {
-      "main": "Solicitați ofertă pentru training",
-      "learnMore": "Aflați mai multe"
+      "main": "Solicită Ofertă Training",
+      "learnMore": "Află Mai Multe"
     }
   },
   "itTrainingPage": {
+    "meta": {
+      "title": "Educație IT și Training Corporativ | SIRONIC",
+      "description": "Training IT practic pentru companii: conștientizare securitate, utilizare software și dezvoltare competențe digitale. Îmbunătățiți abilitățile echipei!",
+      "keywords": [
+        "training IT",
+        "training corporativ",
+        "conștientizare securitate",
+        "competență digitală",
+        "curs Excel",
+        "atelier IT"
+      ],
+      "ogTitle": "Educație IT și Training Corporativ - SIRONIC",
+      "ogDescription": "Training IT practic pentru companii. Dezvoltați abilitățile digitale ale echipei cu noi!"
+    },
     "breadcrumb": {
-      "home": "Főoldal",
-      "training": "IT oktatás"
+      "home": "Acasă",
+      "training": "Educație IT"
     },
     "hero": {
-      "title": "Educație IT și dezvoltarea competențelor digitale corporative",
-      "subtitle": "Dezvoltați abilitățile digitale ale echipei dumneavoastră prin training profesional",
-      "description": "A SIRONIC nemcsak IT-rendszereket üzemeltet – fejlesztjük is a munkatársak digitális tudását. Személyre szabott képzéseinkkel a céged csapata magabiztosan használja a modern eszközöket, és tisztában van a biztonsági kockázatokkal.",
-      "cta": "Kérj ingyenes konzultációt",
-      "scrollDown": "Görgess lejjebb a részletekért"
+      "title": "Educație IT și Dezvoltarea Cunoștințelor Corporative",
+      "subtitle": "Dezvoltați abilitățile digitale ale echipei cu training profesional",
+      "description": "SIRONIC nu doar operează sisteme IT – dezvoltăm și cunoștințele digitale ale angajaților dumneavoastră. Cu trainingul nostru personalizat, echipa va utiliza instrumentele moderne cu încredere și va fi conștientă de riscurile de securitate.",
+      "cta": "Solicită Consultație Gratuită",
+      "scrollDown": "Derulează în jos pentru detalii"
     },
     "intro": {
-      "title": "Miért fontos a vállalati IT oktatás?",
+      "title": "De ce este importantă Educația IT Corporativă?",
       "content": [
-        "A legjobb IT-infrastruktúra sem elég, ha a munkatársak nem tudják hatékonyan használni. A rossz eszközismeret, a biztonsági tudatosság hiánya és az elavult munkafolyamatok csökkentik a produktivitást és növelik a kockázatokat.",
-        "A SIRONIC IT oktatási programjaival a csapatod naprakész ismereteket szerez, magabiztosabban dolgozik, és tudatosan védi a vállalati adatokat. Minden képzésünk gyakorlatias, személyre szabott és közvetlenül alkalmazható a napi munkában."
+        "Chiar și cea mai bună infrastructură IT nu este suficientă dacă angajații nu o pot utiliza eficient. Cunoștințele slabe despre instrumente, lipsa conștientizării securității și fluxurile de lucru învechite reduc productivitatea și cresc riscurile.",
+        "Cu programele de educație IT SIRONIC, echipa dumneavoastră dobândește cunoștințe actualizate, lucrează cu mai multă încredere și protejează conștient datele corporative. Toate trainingurile noastre sunt practice, personalizate și direct aplicabile în munca zilnică."
       ]
     },
     "services": {
-      "title": "Milyen képzéseket kínálunk?",
-      "subtitle": "Gyakorlatias, üzletközpontú oktatások minden szinten",
+      "title": "Ce Training Oferim?",
+      "subtitle": "Educație practică, orientată spre afaceri, la orice nivel",
       "items": [
         {
-          "title": "Személyre szabott IT oktatások",
-          "description": "Egyedi tananyag és tempó a csapatod igényei szerint. Kezdő felhasználóktól a haladó felhasználókig – minden képzés a Te vállalkozásod valós igényeihez igazodik. Gyakorlati példákkal, valós helyzetekből tanulva.",
+          "title": "Training IT Personalizat",
+          "description": "Curriculum și ritm personalizat în funcție de nevoile echipei. De la începători la utilizatori avansați – fiecare curs este adaptat cerințelor reale ale afacerii dumneavoastră. Învățare prin exemple practice și situații reale.",
           "topics": [
-            "Windows és macOS alapismeretek",
-            "Fájlkezelés és mappastruktúra",
-            "Adatmentés és helyreállítás",
-            "Perifériák és nyomtatók használata",
-            "Gyors billentyűparancsok és produktivitási tippek"
+            "Noțiuni de bază Windows și macOS",
+            "Gestionarea fișierelor și structura folderelor",
+            "Backup și recuperare date",
+            "Utilizarea perifericelor și imprimantelor",
+            "Scurtături rapide de tastatură și sfaturi de productivitate"
           ]
         },
         {
-          "title": "Biztonságtudatossági tréningek",
-          "description": "A legtöbb adatvédelmi incidens emberi hibából történik – e-mail-alapú csalások, gyenge jelszavak, adathalászat. Képzéseinkkel a munkatársak felismerik és elkerülik a kockázatokat.",
+          "title": "Training de Conștientizare a Securității",
+          "description": "Majoritatea incidentelor de protecție a datelor se întâmplă din cauza erorii umane – înșelătorii prin e-mail, parole slabe, phishing. Trainingul nostru ajută angajații să recunoască și să evite riscurile.",
           "topics": [
-            "Adathalász e-mailek és csalások felismerése",
-            "Biztonságos jelszókezelés és 2FA használata",
-            "Adatvédelmi alapelvek (GDPR) gyakorlatban",
-            "Biztonságos fájlmegosztás és levelezés",
-            "Eszközbiztonság: laptop, telefon, távmunka"
+            "Recunoașterea e-mailurilor de phishing și a înșelătoriilor",
+            "Gestionarea sigură a parolelor și utilizarea 2FA",
+            "Principii de protecție a datelor (GDPR) în practică",
+            "Partajarea sigură a fișierelor și corespondența",
+            "Securitatea dispozitivelor: laptopuri, telefoane, muncă la distanță"
           ]
         },
         {
-          "title": "Szoftver- és eszközhasználati képzések",
-          "description": "A modern irodai munka szoftveres eszközökön alapul – de sokszor a lehetőségek töredékét használjuk ki. Tanítjuk a hatékony munkavégzés eszközeit és módszereit.",
+          "title": "Training Utilizare Software și Dispozitive",
+          "description": "Munca modernă de birou se bazează pe instrumente software – dar adesea folosim doar o fracțiune din potențialul lor. Predăm instrumentele și metodele pentru o muncă eficientă.",
           "topics": [
             "Microsoft 365: Word, Excel, PowerPoint, Outlook, Teams",
             "Google Workspace: Docs, Sheets, Drive, Meet",
-            "Kollaborációs eszközök: Slack, Notion, Trello, Asana",
-            "Videókonferencia eszközök használata",
-            "Felhőalapú fájlmegosztás és szinkronizálás"
+            "Instrumente de colaborare: Slack, Notion, Trello, Asana",
+            "Utilizarea instrumentelor de videoconferință",
+            "Partajarea și sincronizarea fișierelor în cloud"
           ]
         },
         {
-          "title": "Vállalati tudásfejlesztési programok",
-          "description": "Hosszú távú, folyamatos képzési programok, amelyek biztosítják, hogy a csapat mindig naprakész legyen. Céges tudásbázis építése és rendszeres fejlesztés.",
+          "title": "Programe de Dezvoltare a Cunoștințelor Corporative",
+          "description": "Programe de training pe termen lung, continue, asigurând că echipa este mereu la curent. Construirea unei baze de cunoștințe a companiei și dezvoltare regulată.",
           "topics": [
-            "Egyedi tananyagok és útmutatók készítése",
-            "Folyamatos online támogatás és Q&A szekciók",
-            "Rendszeres technológiai frissítő tréningek",
-            "Új munkatársak IT onboarding képzése",
-            "Specifikus céges rendszerek oktatása"
+            "Crearea de materiale de învățare și ghiduri personalizate",
+            "Suport online continuu și sesiuni Q&A",
+            "Traininguri regulate de actualizare tehnologică",
+            "Training IT de onboarding pentru noii angajați",
+            "Training pe sisteme specifice ale companiei"
           ]
         }
       ]
     },
     "benefits": {
-      "title": "Miért éri meg vállalati IT képzésbe fektetni?",
-      "subtitle": "Konkrét előnyök, amelyek mérhető eredményt hoznak",
+      "title": "De ce să investești în Training IT Corporativ?",
+      "subtitle": "Beneficii concrete care aduc rezultate măsurabile",
       "list": [
-        "Magasabb produktivitás – a munkatársak gyorsabban és hatékonyabban dolgoznak",
-        "Kevesebb IT-hiba és helpdesk hívás – csökken a technikai támogatás terhelése",
-        "Biztonságosabb működés – tudatos munkatársak védik az adatokat",
-        "Jobb eszközkihasználás – a szoftverek és rendszerek teljes potenciálja",
-        "Magabiztosabb csapat – nem félnek az új technológiáktól",
-        "Gyorsabb alkalmazkodás – új eszközök bevezetése gördülékenyebb",
-        "Versenyképesség – digitálisan képzett csapat modernebb vállalkozást jelent"
+        "Productivitate mai mare – angajații lucrează mai rapid și mai eficient",
+        "Mai puține erori IT și apeluri la helpdesk – sarcină redusă pentru suportul tehnic",
+        "Operațiuni mai sigure – angajați conștienți protejează datele",
+        "Utilizare mai bună a instrumentelor – potențialul maxim al software-ului și sistemelor",
+        "Echipă mai încrezătoare – fără frică de noile tehnologii",
+        "Adaptare mai rapidă – introducere mai lină a noilor instrumente",
+        "Competitivitate – o echipă competentă digital înseamnă o afacere mai modernă"
       ]
     },
     "targetGroups": {
-      "title": "Kiknek ajánljuk?",
-      "subtitle": "Minden vállalkozásnak, ahol digitális eszközökkel dolgoznak",
+      "title": "Cui Recomandăm?",
+      "subtitle": "Pentru orice afacere care lucrează cu instrumente digitale",
       "groups": [
         {
-          "title": "Irodai dolgozók",
-          "description": "Akik napi szinten használnak számítógépet, e-mailt, Office programokat."
+          "title": "Lucrători de Birou",
+          "description": "Cei care folosesc computere, e-mail și programe Office zilnic."
         },
         {
-          "title": "Vezetők és menedzserek",
-          "description": "Akiknek döntéshozatalhoz, riportokhoz és kommunikációhoz kell a digitális eszközismeret."
+          "title": "Lideri și Manageri",
+          "description": "Cei care au nevoie de cunoștințe despre instrumente digitale pentru luarea deciziilor, raportare și comunicare."
         },
         {
-          "title": "Nem-informatikus kollégák",
-          "description": "Akiknek a technológia csak eszköz, de megfelelő tudás nélkül akadály."
+          "title": "Colegi Non-IT",
+          "description": "Cei pentru care tehnologia este doar un instrument, dar o barieră fără cunoștințe adecvate."
         },
         {
-          "title": "Távmunkában dolgozók",
-          "description": "Akiknek a biztonságos és hatékony otthoni munkavégzéshez kell támogatás."
+          "title": "Lucrători la Distanță",
+          "description": "Cei care au nevoie de suport pentru muncă sigură și eficientă de acasă."
         },
         {
-          "title": "Új belépők",
-          "description": "Akiknek onboarding részeként meg kell ismerniük a vállalati IT-rendszereket."
+          "title": "Noi Angajați",
+          "description": "Cei care trebuie să învețe sistemele IT corporative ca parte a onboarding-ului."
         }
       ]
     },
     "delivery": {
-      "title": "Hogyan zajlanak a képzések?",
-      "subtitle": "Rugalmas oktatási formák – Te választod, melyik illik legjobban",
+      "title": "Cum se Desfășoară Trainingul?",
+      "subtitle": "Forme flexibile de educație – Alegeți ce se potrivește cel mai bine",
       "methods": [
         {
-          "title": "Helyszíni oktatás",
-          "description": "Kimegyünk a céges irodába, és helyben tartjuk a tréninget. Személyes, interaktív, azonnali gyakorlati példákkal a saját rendszereiteken."
+          "title": "Training La Fața Locului",
+          "description": "Venim la biroul dumneavoastră și ținem trainingul acolo. Personal, interactiv, cu exemple practice imediate pe propriile sisteme."
         },
         {
-          "title": "Online távoktatás",
-          "description": "Videókonferencia platformon keresztül élőben tartott képzések. Rugalmas időbeosztás, nincs utazás, de ugyanolyan hatékony, mint a helyszíni forma."
+          "title": "Training Online la Distanță",
+          "description": "Sesiuni de training live prin platforme de videoconferință. Programare flexibilă, fără deplasare, dar la fel de eficient ca forma la fața locului."
         },
         {
-          "title": "Hibrid modell",
-          "description": "Kombináljuk a kettőt: helyszíni kick-off, majd online folytatás. A legjobb mindkét világból."
+          "title": "Model Hibrid",
+          "description": "Combinarea celor două: kick-off la fața locului, apoi continuare online. Ce e mai bun din ambele lumi."
         }
       ],
       "languageNote": "Sesiunile de formare sunt disponibile în prezent numai în limba maghiară, atât online, cât și la fața locului."
     },
     "topics": {
-      "title": "Konkrét témák, amiket oktatunk",
-      "subtitle": "Gyakorlatias tudás, amit azonnal alkalmazhatsz",
+      "title": "Subiecte Specifice pe care le Predăm",
+      "subtitle": "Cunoștințe practice pe care le puteți aplica imediat",
       "list": [
-        "Microsoft 365 használata (Word, Excel, PowerPoint, Outlook, OneDrive, Teams)",
-        "Google Workspace eszközök (Gmail, Drive, Docs, Sheets, Meet)",
-        "Biztonságos jelszókezelés és két-faktoros hitelesítés",
-        "Adathalász e-mailek és online csalások felismerése",
-        "Biztonságos fájlmegosztás és felhőtárolás",
-        "Videokonferencia eszközök professzionális használata",
-        "Hatékony e-mail menedzsment és postaláda szervezés",
-        "Projektek és feladatok kezelése (Trello, Asana, Notion)",
-        "Windows és macOS alapfunkciók és tippek",
-        "Irodai eszközök: nyomtatók, szkennerek, multimédia"
+        "Utilizarea Microsoft 365 (Word, Excel, PowerPoint, Outlook, OneDrive, Teams)",
+        "Instrumente Google Workspace (Gmail, Drive, Docs, Sheets, Meet)",
+        "Gestionarea sigură a parolelor și autentificarea cu doi factori",
+        "Recunoașterea e-mailurilor de phishing și a înșelătoriilor online",
+        "Partajarea sigură a fișierelor și stocarea în cloud",
+        "Utilizarea profesională a instrumentelor de videoconferință",
+        "Gestionarea eficientă a e-mailurilor și organizarea inbox-ului",
+        "Gestionarea proiectelor și sarcinilor (Trello, Asana, Notion)",
+        "Funcții de bază și sfaturi Windows și macOS",
+        "Dispozitive de birou: imprimante, scanere, multimedia"
       ]
     },
     "methodology": {
-      "title": "Hogyan dolgozunk?",
-      "subtitle": "Strukturált oktatási folyamat – lépésről lépésre",
+      "title": "Cum Lucrăm?",
+      "subtitle": "Proces educațional structurat – pas cu pas",
       "steps": [
         {
           "number": "1",
-          "title": "Igényfelmérés",
-          "description": "Megismerjük a csapatot, a jelenlegi tudásszintet és a céges folyamatokat. Tisztázzuk, milyen területeken van szükség fejlesztésre."
+          "title": "Evaluarea Nevoilor",
+          "description": "Cunoaștem echipa, nivelurile actuale de cunoștințe și procesele companiei. Clarificăm ce domenii necesită dezvoltare."
         },
         {
           "number": "2",
-          "title": "Egyedi tananyag készítése",
-          "description": "Személyre szabott oktatási terv és tananyag, amely illeszkedik a vállalkozásod eszközeihez és munkafolyamataihoz."
+          "title": "Crearea Curriculumului Personalizat",
+          "description": "Plan educațional și material personalizat care se potrivește instrumentelor și fluxurilor de lucru ale afacerii dumneavoastră."
         },
         {
           "number": "3",
-          "title": "Képzés lebonyolítása",
-          "description": "Interaktív, gyakorlatias oktatás élőben – kérdések, válaszok, valós példák a saját környezetetekben."
+          "title": "Desfășurarea Trainingului",
+          "description": "Educație live interactivă, practică – întrebări, răspunsuri, exemple reale în propriul mediu."
         },
         {
           "number": "4",
-          "title": "Utókövetés és támogatás",
-          "description": "Képzés után is elérhető vagyunk – kérdések, ismétlések, további segítség. Biztosítjuk, hogy a tudás valóban beépüljön a napi rutinba."
+          "title": "Urmărire și Suport",
+          "description": "Suntem disponibili și după training – întrebări, revizuiri, ajutor suplimentar. Ne asigurăm că cunoștințele sunt cu adevărat integrate în rutina zilnică."
         }
       ]
     },
     "faq": {
-      "title": "Gyakran ismételt kérdések",
+      "title": "Întrebări Frecvente",
       "items": [
         {
-          "question": "Mennyi időt vesz igénybe egy képzés?",
-          "answer": "A képzés hossza az igényektől függ. Egy egyszeri workshop 2-4 óra, míg egy átfogó vállalati program több héten át, több alkalom lehet. Minden esetben egyeztetjük az időkeretet."
+          "question": "Cât durează o sesiune de training?",
+          "answer": "Durata depinde de nevoi. Un atelier unic durează 2-4 ore, în timp ce un program corporativ cuprinzător se poate întinde pe mai multe săptămâni cu sesiuni multiple. Convenim întotdeauna intervalul de timp."
         },
         {
-          "question": "Hány főnek tartható egyszerre a tréning?",
-          "answer": "Ideális létszám 5-15 fő között van, hogy minden résztvevő kapjon elég figyelmet. Nagyobb csoportok esetén több turnusban vagy párhuzamos csoportokban is megtartható."
+          "question": "Câte persoane pot participa simultan?",
+          "answer": "Numărul ideal este între 5-15 persoane, astfel încât toată lumea să primească suficientă atenție. Pentru grupuri mai mari, putem ține mai multe ture sau grupuri paralele."
         },
         {
-          "question": "Kell előzetes IT tudás a résztvevőknek?",
-          "answer": "Nem! A képzéseket a résztvevők jelenlegi tudásszintjéhez igazítjuk – kezdőtől haladóig. Előtte felmérjük, ki milyen szinten áll."
+          "question": "Au nevoie participanții de cunoștințe IT anterioare?",
+          "answer": "Nu! Adaptăm trainingul la nivelul actual de cunoștințe al participanților – de la începători la avansați. Evaluăm unde se află fiecare în prealabil."
         },
         {
-          "question": "Kapnak a résztvevők tananyagot, jegyzetet?",
-          "answer": "Igen! Minden képzés után digitális formában megkapják az anyagot, prezentációkat, gyakorlati útmutatókat – így bármikor visszanézhetik."
+          "question": "Primesc participanții materiale sau notițe?",
+          "answer": "Da! După fiecare training, primesc materialul, prezentările și ghidurile practice în format digital – astfel încât să le poată revizui oricând."
         },
         {
-          "question": "Milyen nyelven zajlanak a képzések?",
-          "answer": "Jelenleg az oktatások kizárólag magyar nyelven érhetők el, online vagy helyszíni formában."
+          "question": "În ce limbă se țin sesiunile de training?",
+          "answer": "În prezent, sesiunile de training sunt disponibile exclusiv în limba maghiară, fie online, fie la fața locului."
         },
         {
-          "question": "Mennyibe kerül egy vállalati IT képzés?",
-          "answer": "A díjszabás egyedi ajánlat alapján történik – függ a résztvevők számától, a témáktól, és az oktatás időtartamától. Kérj ajánlatot, és egyeztetünk!"
+          "question": "Cât costă trainingul IT corporativ?",
+          "answer": "Prețurile se bazează pe o ofertă personalizată – în funcție de numărul de participanți, subiecte și durată. Solicitați o ofertă și discutăm!"
         }
       ]
     },
     "pricing": {
-      "title": "Mennyibe kerül egy IT képzés?",
-      "subtitle": "Egyedi ajánlatot készítünk – minden cég más igényekkel rendelkezik",
-      "description": "A képzések ára függ a résztvevők számától, a képzés időtartamától, a témáktól és a helyszíntől (online/offline). Átlagosan egy 4 órás workshop 80.000 Ft-tól indul kis csoportoknak, míg egy hosszabb, folyamatos fejlesztési program havidíjas konstrukcióban is elérhető.",
-      "process": "Kérj ingyenes konzultációt, felmérjük az igényeket, és részletes, átlátható ajánlatot készítünk.",
-      "cta": "Kérj ajánlatot most"
+      "title": "Cât Costă Trainingul IT?",
+      "subtitle": "Creăm oferte personalizate – fiecare companie are nevoi diferite",
+      "description": "Prețurile trainingului depind de numărul de participanți, durată, subiecte și locație (online/offline). În medie, un atelier de 4 ore începe de la 200 € pentru grupuri mici, în timp ce un program de dezvoltare mai lung, continuu, este disponibil într-un model de abonament lunar.",
+      "process": "Solicitați o consultație gratuită, evaluăm nevoile și pregătim o ofertă detaliată, transparentă.",
+      "cta": "Solicită Ofertă Acum"
     },
     "finalCta": {
-      "title": "Indítsuk el a csapatod digitális fejlesztését!",
-      "description": "Kérj ingyenes konzultációt, és találjuk meg együtt, milyen IT képzésekkel fejlesztheted a vállalkozásod hatékonyságát és biztonságát.",
-      "button": "Kérek ajánlatot IT képzésre"
+      "title": "Începeți Dezvoltarea Digitală a Echipei!",
+      "description": "Solicitați o consultație gratuită și haideți să aflăm împreună ce training IT poate îmbunătăți eficiența și securitatea afacerii dumneavoastră.",
+      "button": "Solicită Ofertă Training IT"
     }
   }
 }
