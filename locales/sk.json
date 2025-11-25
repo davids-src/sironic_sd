@@ -594,169 +594,169 @@
   },
   "customDevelopmentPage": {
     "breadcrumb": {
-      "home": "Home",
-      "customDevelopment": "Custom Application Development"
+      "home": "Domov",
+      "customDevelopment": "Vývoj vlastných aplikácií"
     },
     "hero": {
       "title": "Vývoj vlastných aplikácií",
       "subtitle": "Moderné, škálovateľné a obchodne zamerané softvérové riešenia prispôsobené Vašim obchodným potrebám",
-      "description": "More than just website creation – we develop complex applications that create real value for your company. From TailScript and React-based web applications to native Windows software and Android/iOS mobile apps.",
-      "cta": "Request Free Consultation",
-      "scrollDown": "Scroll down for details"
+      "description": "Viac ako len tvorba webových stránok – vyvíjame komplexné aplikácie, ktoré vytvárajú skutočnú hodnotu pre Vašu firmu. Od webových aplikácií založených na TailScript a React až po natívny softvér pre Windows a mobilné aplikácie pre Android/iOS.",
+      "cta": "Požiadať o bezplatnú konzultáciu",
+      "scrollDown": "Posuňte sa nižšie pre podrobnosti"
     },
     "what": {
-      "title": "What Do We Develop?",
-      "subtitle": "Comprehensive custom software solutions with cutting-edge technologies",
+      "title": "Čo vyvíjame?",
+      "subtitle": "Komplexné softvérové riešenia na mieru s najmodernejšími technológiami",
       "items": [
         {
-          "title": "TailScript-based Web Applications",
-          "description": "Fast, modern and efficient web systems with TailScript technology. Scalable solutions for complex business processes that work smoothly in every browser."
+          "title": "Webové aplikácie založené na TailScript",
+          "description": "Rýchle, moderné a efektívne webové systémy s technológiou TailScript. Škálovateľné riešenia pre komplexné obchodné procesy, ktoré fungujú hladko v každom prehliadači."
         },
         {
-          "title": "React Enterprise Applications",
-          "description": "Enterprise-level web applications with React and Next.js. Intuitive user interface, fast loading, SEO-optimized structure – everything needed for modern business applications."
+          "title": "Podnikové aplikácie React",
+          "description": "Webové aplikácie na podnikovej úrovni s React a Next.js. Intuitívne užívateľské rozhranie, rýchle načítanie, štruktúra optimalizovaná pre SEO – všetko, čo je potrebné pre moderné obchodné aplikácie."
         },
         {
-          "title": "Windows Desktop Software",
-          "description": "Native Windows application development with .NET and modern C# technologies. Fast, reliable desktop solutions that integrate seamlessly into corporate environments."
+          "title": "Desktopový softvér pre Windows",
+          "description": "Vývoj natívnych Windows aplikácií s .NET a modernými technológiami C#. Rýchle, spoľahlivé desktopové riešenia, ktoré sa bezproblémovo integrujú do firemného prostredia."
         },
         {
-          "title": "Mobile App Development – Android + iOS",
-          "description": "Native and cross-platform mobile applications with React Native and Flutter. One codebase, two platforms – rapid development, excellent user experience on both operating systems."
+          "title": "Vývoj mobilných aplikácií – Android + iOS",
+          "description": "Natívne a multiplatformové mobilné aplikácie s React Native a Flutter. Jedna kódová základňa, dve platformy – rýchly vývoj, vynikajúca užívateľská skúsenosť na oboch operačných systémoch."
         }
       ]
     },
     "whyChoose": {
-      "title": "Why Choose SIRONIC for Custom Development?",
-      "subtitle": "We don't just code – we're partners in achieving your business goals",
+      "title": "Prečo si vybrať SIRONIC pre vlastný vývoj?",
+      "subtitle": "Nepíšeme len kód – sme partnermi pri dosahovaní Vašich obchodných cieľov",
       "reasons": [
         {
-          "title": "Real Business Understanding",
-          "description": "We're not just programmers – we understand business processes. Every development is tailored to your needs to create real value."
+          "title": "Skutočné pochopenie podnikania",
+          "description": "Nie sme len programátori – rozumieme obchodným procesom. Každý vývoj je prispôsobený Vašim potrebám, aby vytvoril skutočnú hodnotu."
         },
         {
-          "title": "Modern Technologies",
-          "description": "React, Next.js, TailScript, .NET, React Native – we work with the most advanced tools that are fast, secure and future-proof."
+          "title": "Moderné technológie",
+          "description": "React, Next.js, TailScript, .NET, React Native – pracujeme s najpokročilejšími nástrojmi, ktoré sú rýchle, bezpečné a pripravené na budúcnosť."
         },
         {
-          "title": "Long-term Partnership",
-          "description": "We don't stop at development. We provide ongoing support, maintenance and further development – the software always keeps pace with your business needs."
+          "title": "Dlhodobé partnerstvo",
+          "description": "Pri vývoji nekončíme. Poskytujeme neustálu podporu, údržbu a ďalší vývoj – softvér vždy drží krok s Vašimi obchodnými potrebami."
         },
         {
-          "title": "Transparent Communication",
-          "description": "Hungarian-speaking, direct communication. No language barrier, no misunderstandings – you always know where the project stands."
+          "title": "Transparentná komunikácia",
+          "description": "Priama komunikácia v maďarskom jazyku. Žiadna jazyková bariéra, žiadne nedorozumenia – vždy viete, v akom stave je projekt."
         },
         {
-          "title": "Security and Reliability",
-          "description": "All our applications are built with secure data handling, GDPR-compliant structure and stable operation."
+          "title": "Bezpečnosť a spoľahlivosť",
+          "description": "Všetky naše aplikácie sú vytvorené s bezpečným spracovaním údajov, štruktúrou v súlade s GDPR a stabilnou prevádzkou."
         },
         {
-          "title": "Scalability",
-          "description": "We design our systems to grow with your business – no need to rewrite when you expand."
+          "title": "Škálovateľnosť",
+          "description": "Naše systémy navrhujeme tak, aby rástli s Vašou firmou – nie je potrebné ich prepisovať, keď expandujete."
         }
       ]
     },
     "technologies": {
-      "title": "What Technologies Do We Use?",
-      "subtitle": "The most modern and reliable tools on the market",
+      "title": "Aké technológie používame?",
+      "subtitle": "Najmodernejšie a najspoľahlivejšie nástroje na trhu",
       "list": [
-        "React & Next.js – modern, SEO-friendly web applications",
-        "TailScript – fast and scalable web systems",
-        "TypeScript – type-safe, error-free code",
-        "Node.js & Express – robust backend solutions",
-        ".NET & C# – native Windows software",
-        "React Native & Flutter – cross-platform mobile applications",
-        "Tailwind CSS – modern, responsive design",
-        "PostgreSQL, MySQL – reliable database management",
-        "Docker & Cloud – scalable and secure infrastructure"
+        "React & Next.js – moderné, SEO-friendly webové aplikácie",
+        "TailScript – rýchle a škálovateľné webové systémy",
+        "TypeScript – typovo bezpečný kód bez chýb",
+        "Node.js & Express – robustné backendové riešenia",
+        ".NET & C# – natívny softvér pre Windows",
+        "React Native & Flutter – multiplatformové mobilné aplikácie",
+        "Tailwind CSS – moderný, responzívny dizajn",
+        "PostgreSQL, MySQL – spoľahlivá správa databáz",
+        "Docker & Cloud – škálovateľná a bezpečná infraštruktúra"
       ]
     },
     "process": {
-      "title": "How Do We Work?",
-      "subtitle": "Transparent, structured development process – step by step",
+      "title": "Ako pracujeme?",
+      "subtitle": "Transparentný, štruktúrovaný proces vývoja – krok za krokom",
       "steps": [
         {
           "number": "1",
-          "title": "Requirements Analysis and Consultation",
-          "description": "We learn about your business goals, expectations and current systems. We clarify exactly what you want to achieve with the software."
+          "title": "Analýza požiadaviek a konzultácia",
+          "description": "Spoznáme Vaše obchodné ciele, očakávania a súčasné systémy. Presne si ujasníme, čo chcete so softvérom dosiahnuť."
         },
         {
           "number": "2",
-          "title": "UX/UI Design and Structure Building",
-          "description": "We design the user experience and interface. Wireframes, designs and interaction plans – so we know exactly what we're building."
+          "title": "UX/UI dizajn a budovanie štruktúry",
+          "description": "Navrhneme užívateľskú skúsenosť a rozhranie. Wireframes, dizajny a plány interakcií – aby sme presne vedeli, čo budujeme."
         },
         {
           "number": "3",
-          "title": "Development and Continuous Coordination",
-          "description": "The actual coding. We communicate continuously, show progress, and respond to your needs – so there are no surprises at delivery."
+          "title": "Vývoj a neustála koordinácia",
+          "description": "Samotné programovanie. Neustále komunikujeme, ukazujeme pokrok a reagujeme na Vaše potreby – aby pri dodaní nedošlo k žiadnym prekvapeniam."
         },
         {
           "number": "4",
-          "title": "Testing and Quality Assurance",
-          "description": "Thorough testing on every device and browser. Performance, security and functionality tests – to ensure everything works flawlessly."
+          "title": "Testovanie a zabezpečenie kvality",
+          "description": "Dôkladné testovanie na každom zariadení a prehliadači. Testy výkonu, bezpečnosti a funkčnosti – aby sme sa uistili, že všetko funguje bezchybne."
         },
         {
           "number": "5",
-          "title": "Live Launch and Training",
-          "description": "Software deployment and user training. You get all documentation and support for smooth operation."
+          "title": "Spustenie a školenie",
+          "description": "Nasadenie softvéru a školenie užívateľov. Získate všetku dokumentáciu a podporu pre hladkú prevádzku."
         },
         {
           "number": "6",
-          "title": "Maintenance and Further Development",
-          "description": "Ongoing support, bug fixes and further development. The software always stays up-to-date and keeps pace with your needs."
+          "title": "Údržba a ďalší vývoj",
+          "description": "Neustála podpora, opravy chýb a ďalší vývoj. Softvér zostáva vždy aktuálny a drží krok s Vašimi potrebami."
         }
       ]
     },
     "useCases": {
-      "title": "What Is a Custom Application Good For?",
-      "subtitle": "Real business problems we solve with custom software",
+      "title": "Na čo je dobrá vlastná aplikácia?",
+      "subtitle": "Reálne obchodné problémy, ktoré riešime vlastným softvérom",
       "examples": [
-        "CRM and customer management systems – keep your clients under control",
-        "Inventory and logistics software – automated warehouse management",
-        "Internal company portals – all data in one place",
-        "E-commerce and webshop development – online sales channels",
-        "Project management tools – teamwork and task tracking",
-        "Automated reports and administration – save time",
-        "Integration with existing systems – ERP, invoicing, CRM connection",
-        "Mobile applications – in the hands of customers and employees"
+        "CRM a systémy riadenia zákazníkov – majte svojich klientov pod kontrolou",
+        "Skladový a logistický softvér – automatizované riadenie skladu",
+        "Interné firemné portály – všetky údaje na jednom mieste",
+        "Vývoj e-shopov a webshopov – online predajné kanály",
+        "Nástroje na riadenie projektov – tímová práca a sledovanie úloh",
+        "Automatizované reporty a administratíva – ušetrite čas",
+        "Integrácia s existujúcimi systémami – prepojenie s ERP, fakturáciou, CRM",
+        "Mobilné aplikácie – v rukách zákazníkov a zamestnancov"
       ]
     },
     "pricing": {
-      "title": "How Much Does a Custom Application Cost?",
-      "subtitle": "Every project is unique – pricing is always based on requirements",
-      "description": "The price of custom application development depends on project complexity, functionality and time requirements. Small applications start from €2,000, larger enterprise systems can cost tens of thousands – but we always prepare a custom quote.",
-      "process": "In a free consultation, we assess your needs, discuss possibilities, and provide a transparent, fixed quote for the entire project.",
-      "cta": "Request Free Quote"
+      "title": "Koľko stojí vlastná aplikácia?",
+      "subtitle": "Každý projekt je jedinečný – cenotvorba je vždy založená na požiadavkách",
+      "description": "Cena vývoja vlastnej aplikácie závisí od zložitosti projektu, funkčnosti a časovej náročnosti. Malé aplikácie začínajú od 2 000 €, väčšie podnikové systémy môžu stáť desiatky tisíc – ale vždy pripravíme individuálnu ponuku.",
+      "process": "V rámci bezplatnej konzultácie posúdime Vaše potreby, prediskutujeme možnosti a poskytneme transparentnú, fixnú cenovú ponuku na celý projekt.",
+      "cta": "Požiadať o bezplatnú ponuku"
     },
     "faq": {
-      "title": "Frequently Asked Questions",
+      "title": "Často kladené otázky",
       "items": [
         {
-          "question": "How long does custom application development take?",
-          "answer": "It depends on project size – a simpler web application takes 4-8 weeks, while a complex enterprise system can take 3-6 months. We always agree on deadlines in the quote."
+          "question": "Ako dlho trvá vývoj vlastnej aplikácie?",
+          "answer": "Závisí to od veľkosti projektu – jednoduchšia webová aplikácia trvá 4-8 týždňov, zatiaľ čo komplexný podnikový systém môže trvať 3-6 mesiacov. V ponuke si vždy dohodneme termíny."
         },
         {
-          "question": "Can you integrate with existing systems?",
-          "answer": "Yes! We regularly integrate with ERPs, CRMs, invoicing systems and other external APIs. This is one of the biggest advantages of custom development."
+          "question": "Viete integrovať s existujúcimi systémami?",
+          "answer": "Áno! Pravidelne integrujeme s ERP, CRM, fakturačnými systémami a inými externými API. To je jedna z najväčších výhod vlastného vývoja."
         },
         {
-          "question": "Who owns the source code?",
-          "answer": "After the project, the source code becomes your complete property – no hidden license fees or dependencies."
+          "question": "Kto vlastní zdrojový kód?",
+          "answer": "Po projekte sa zdrojový kód stáva Vaším úplným vlastníctvom – žiadne skryté licenčné poplatky ani závislosti."
         },
         {
-          "question": "What about maintenance and further development?",
-          "answer": "We provide support after delivery: bug fixes, updates, further development – with optional monthly or one-time solutions."
+          "question": "A čo údržba a ďalší vývoj?",
+          "answer": "Poskytujeme podporu po dodaní: opravy chýb, aktualizácie, ďalší vývoj – s voliteľnými mesačnými alebo jednorazovými riešeniami."
         },
         {
-          "question": "What warranty do we get on the application?",
-          "answer": "There's a 6-month warranty on bugs after delivery – we fix all functional problems free of charge during this period."
+          "question": "Akú záruku dostaneme na aplikáciu?",
+          "answer": "Na chyby po dodaní poskytujeme 6-mesačnú záruku – všetky funkčné problémy v tomto období opravíme bezplatne."
         }
       ]
     },
     "finalCta": {
-      "title": "Ready for a Custom Software Solution?",
-      "description": "Let's discuss your needs and create an application together that truly increases your business efficiency.",
-      "button": "Request Free Consultation"
+      "title": "Pripravení na vlastné softvérové riešenie?",
+      "description": "Poďme prediskutovať Vaše potreby a spoločne vytvoriť aplikáciu, ktorá skutočne zvýši efektivitu Vášho podnikania.",
+      "button": "Požiadať o bezplatnú konzultáciu"
     }
   }
 }

@@ -366,6 +366,8 @@
   "pricingPage": {
     "title": "Prețuri și Pachete",
     "subtitle": "Costuri transparente pentru suport IT profesional",
+    "heroTitle": "Prețuri transparente – Clar și simplu",
+    "heroDescription": "Fără costuri ascunse. Am conceput serviciile noastre astfel încât fiecare afacere să găsească soluția potrivită – fie că este vorba de întreținere, dezvoltare sau reparații.",
     "packages": {
       "mindenCegnek": {
         "title": "Fiecare companie merită un departament IT",
@@ -592,169 +594,169 @@
   },
   "customDevelopmentPage": {
     "breadcrumb": {
-      "home": "Home",
-      "customDevelopment": "Custom Application Development"
+      "home": "Acasă",
+      "customDevelopment": "Dezvoltare Aplicații Personalizate"
     },
     "hero": {
       "title": "Dezvoltare aplicații personalizate",
-      "subtitle": "Soluții software moderne, scalabile și orientate spre afaceri, adaptate nevoilor dumneavoastră de business",
-      "description": "More than just website creation – we develop complex applications that create real value for your company. From TailScript and React-based web applications to native Windows software and Android/iOS mobile apps.",
-      "cta": "Request Free Consultation",
-      "scrollDown": "Scroll down for details"
+      "subtitle": "Soluții software moderne, scalabile și orientate spre afaceri, adaptate nevoilor dumneavoastră",
+      "description": "Mai mult decât simpla creare de site-uri web – dezvoltăm aplicații complexe care creează valoare reală pentru compania dumneavoastră. De la aplicații web bazate pe TailScript și React până la software nativ Windows și aplicații mobile Android/iOS.",
+      "cta": "Solicitați o consultație gratuită",
+      "scrollDown": "Derulați în jos pentru detalii"
     },
     "what": {
-      "title": "What Do We Develop?",
-      "subtitle": "Comprehensive custom software solutions with cutting-edge technologies",
+      "title": "Ce dezvoltăm?",
+      "subtitle": "Soluții software personalizate complete cu tehnologii de ultimă oră",
       "items": [
         {
-          "title": "TailScript-based Web Applications",
-          "description": "Fast, modern and efficient web systems with TailScript technology. Scalable solutions for complex business processes that work smoothly in every browser."
+          "title": "Aplicații web bazate pe TailScript",
+          "description": "Sisteme web rapide, moderne și eficiente cu tehnologia TailScript. Soluții scalabile pentru procese de afaceri complexe care funcționează fără probleme în orice browser."
         },
         {
-          "title": "React Enterprise Applications",
-          "description": "Enterprise-level web applications with React and Next.js. Intuitive user interface, fast loading, SEO-optimized structure – everything needed for modern business applications."
+          "title": "Aplicații Enterprise React",
+          "description": "Aplicații web la nivel de întreprindere cu React și Next.js. Interfață intuitivă, încărcare rapidă, structură optimizată SEO – tot ce este necesar pentru aplicațiile moderne de afaceri."
         },
         {
-          "title": "Windows Desktop Software",
-          "description": "Native Windows application development with .NET and modern C# technologies. Fast, reliable desktop solutions that integrate seamlessly into corporate environments."
+          "title": "Software Desktop Windows",
+          "description": "Dezvoltare aplicații Windows native cu tehnologii .NET și C# moderne. Soluții desktop rapide și fiabile care se integrează perfect în mediile corporative."
         },
         {
-          "title": "Mobile App Development – Android + iOS",
-          "description": "Native and cross-platform mobile applications with React Native and Flutter. One codebase, two platforms – rapid development, excellent user experience on both operating systems."
+          "title": "Dezvoltare aplicații mobile – Android + iOS",
+          "description": "Aplicații mobile native și cross-platform cu React Native și Flutter. O singură bază de cod, două platforme – dezvoltare rapidă, experiență excelentă pentru utilizator pe ambele sisteme de operare."
         }
       ]
     },
     "whyChoose": {
-      "title": "Why Choose SIRONIC for Custom Development?",
-      "subtitle": "We don't just code – we're partners in achieving your business goals",
+      "title": "De ce să alegeți SIRONIC pentru dezvoltare personalizată?",
+      "subtitle": "Nu doar scriem cod – suntem parteneri în atingerea obiectivelor dumneavoastră de afaceri",
       "reasons": [
         {
-          "title": "Real Business Understanding",
-          "description": "We're not just programmers – we understand business processes. Every development is tailored to your needs to create real value."
+          "title": "Înțelegere reală a afacerii",
+          "description": "Nu suntem doar programatori – înțelegem procesele de afaceri. Fiecare dezvoltare este adaptată nevoilor dumneavoastră pentru a crea valoare reală."
         },
         {
-          "title": "Modern Technologies",
-          "description": "React, Next.js, TailScript, .NET, React Native – we work with the most advanced tools that are fast, secure and future-proof."
+          "title": "Tehnologii moderne",
+          "description": "React, Next.js, TailScript, .NET, React Native – lucrăm cu cele mai avansate instrumente care sunt rapide, sigure și pregătite pentru viitor."
         },
         {
-          "title": "Long-term Partnership",
-          "description": "We don't stop at development. We provide ongoing support, maintenance and further development – the software always keeps pace with your business needs."
+          "title": "Parteneriat pe termen lung",
+          "description": "Nu ne oprim la dezvoltare. Oferim suport continuu, întreținere și dezvoltare ulterioară – software-ul ține mereu pasul cu nevoile afacerii dumneavoastră."
         },
         {
-          "title": "Transparent Communication",
-          "description": "Hungarian-speaking, direct communication. No language barrier, no misunderstandings – you always know where the project stands."
+          "title": "Comunicare transparentă",
+          "description": "Comunicare directă, în limba maghiară. Fără barieră lingvistică, fără neînțelegeri – știți întotdeauna în ce stadiu se află proiectul."
         },
         {
-          "title": "Security and Reliability",
-          "description": "All our applications are built with secure data handling, GDPR-compliant structure and stable operation."
+          "title": "Securitate și fiabilitate",
+          "description": "Toate aplicațiile noastre sunt construite cu gestionarea sigură a datelor, structură conformă GDPR și funcționare stabilă."
         },
         {
-          "title": "Scalability",
-          "description": "We design our systems to grow with your business – no need to rewrite when you expand."
+          "title": "Scalabilitate",
+          "description": "Proiectăm sistemele noastre să crească odată cu afacerea dumneavoastră – nu este nevoie să rescrieți când vă extindeți."
         }
       ]
     },
     "technologies": {
-      "title": "What Technologies Do We Use?",
-      "subtitle": "The most modern and reliable tools on the market",
+      "title": "Ce tehnologii folosim?",
+      "subtitle": "Cele mai moderne și fiabile instrumente de pe piață",
       "list": [
-        "React & Next.js – modern, SEO-friendly web applications",
-        "TailScript – fast and scalable web systems",
-        "TypeScript – type-safe, error-free code",
-        "Node.js & Express – robust backend solutions",
-        ".NET & C# – native Windows software",
-        "React Native & Flutter – cross-platform mobile applications",
-        "Tailwind CSS – modern, responsive design",
-        "PostgreSQL, MySQL – reliable database management",
-        "Docker & Cloud – scalable and secure infrastructure"
+        "React & Next.js – aplicații web moderne, prietenoase cu SEO",
+        "TailScript – sisteme web rapide și scalabile",
+        "TypeScript – cod sigur, fără erori",
+        "Node.js & Express – soluții backend robuste",
+        ".NET & C# – software nativ Windows",
+        "React Native & Flutter – aplicații mobile cross-platform",
+        "Tailwind CSS – design modern, responsive",
+        "PostgreSQL, MySQL – gestionare fiabilă a bazelor de date",
+        "Docker & Cloud – infrastructură scalabilă și sigură"
       ]
     },
     "process": {
-      "title": "How Do We Work?",
-      "subtitle": "Transparent, structured development process – step by step",
+      "title": "Cum lucrăm?",
+      "subtitle": "Proces de dezvoltare transparent și structurat – pas cu pas",
       "steps": [
         {
           "number": "1",
-          "title": "Requirements Analysis and Consultation",
-          "description": "We learn about your business goals, expectations and current systems. We clarify exactly what you want to achieve with the software."
+          "title": "Analiza cerințelor și consultanță",
+          "description": "Aflăm despre obiectivele dumneavoastră de afaceri, așteptările și sistemele actuale. Clarificăm exact ce doriți să obțineți cu software-ul."
         },
         {
           "number": "2",
-          "title": "UX/UI Design and Structure Building",
-          "description": "We design the user experience and interface. Wireframes, designs and interaction plans – so we know exactly what we're building."
+          "title": "Design UX/UI și construirea structurii",
+          "description": "Proiectăm experiența utilizatorului și interfața. Wireframe-uri, design-uri și planuri de interacțiune – astfel încât să știm exact ce construim."
         },
         {
           "number": "3",
-          "title": "Development and Continuous Coordination",
-          "description": "The actual coding. We communicate continuously, show progress, and respond to your needs – so there are no surprises at delivery."
+          "title": "Dezvoltare și coordonare continuă",
+          "description": "Scrierea efectivă a codului. Comunicăm continuu, arătăm progresul și răspundem nevoilor dumneavoastră – astfel încât să nu existe surprize la livrare."
         },
         {
           "number": "4",
-          "title": "Testing and Quality Assurance",
-          "description": "Thorough testing on every device and browser. Performance, security and functionality tests – to ensure everything works flawlessly."
+          "title": "Testare și asigurarea calității",
+          "description": "Testare amănunțită pe fiecare dispozitiv și browser. Teste de performanță, securitate și funcționalitate – pentru a ne asigura că totul funcționează impecabil."
         },
         {
           "number": "5",
-          "title": "Live Launch and Training",
-          "description": "Software deployment and user training. You get all documentation and support for smooth operation."
+          "title": "Lansare live și instruire",
+          "description": "Implementarea software-ului și instruirea utilizatorilor. Primiți toată documentația și suportul pentru o funcționare fără probleme."
         },
         {
           "number": "6",
-          "title": "Maintenance and Further Development",
-          "description": "Ongoing support, bug fixes and further development. The software always stays up-to-date and keeps pace with your needs."
+          "title": "Întreținere și dezvoltare ulterioară",
+          "description": "Suport continuu, remedierea erorilor și dezvoltare ulterioară. Software-ul rămâne mereu actualizat și ține pasul cu nevoile dumneavoastră."
         }
       ]
     },
     "useCases": {
-      "title": "What Is a Custom Application Good For?",
-      "subtitle": "Real business problems we solve with custom software",
+      "title": "La ce este bună o aplicație personalizată?",
+      "subtitle": "Probleme reale de afaceri pe care le rezolvăm cu software personalizat",
       "examples": [
-        "CRM and customer management systems – keep your clients under control",
-        "Inventory and logistics software – automated warehouse management",
-        "Internal company portals – all data in one place",
-        "E-commerce and webshop development – online sales channels",
-        "Project management tools – teamwork and task tracking",
-        "Automated reports and administration – save time",
-        "Integration with existing systems – ERP, invoicing, CRM connection",
-        "Mobile applications – in the hands of customers and employees"
+        "Sisteme CRM și de gestionare a clienților – țineți clienții sub control",
+        "Software de inventar și logistică – gestionare automată a depozitului",
+        "Portaluri interne ale companiei – toate datele într-un singur loc",
+        "Dezvoltare e-commerce și magazine online – canale de vânzare online",
+        "Instrumente de management de proiect – muncă în echipă și urmărirea sarcinilor",
+        "Rapoarte și administrare automată – economisiți timp",
+        "Integrare cu sisteme existente – conectare ERP, facturare, CRM",
+        "Aplicații mobile – în mâinile clienților și angajaților"
       ]
     },
     "pricing": {
-      "title": "How Much Does a Custom Application Cost?",
-      "subtitle": "Every project is unique – pricing is always based on requirements",
-      "description": "The price of custom application development depends on project complexity, functionality and time requirements. Small applications start from €2,000, larger enterprise systems can cost tens of thousands – but we always prepare a custom quote.",
-      "process": "In a free consultation, we assess your needs, discuss possibilities, and provide a transparent, fixed quote for the entire project.",
-      "cta": "Request Free Quote"
+      "title": "Cât costă o aplicație personalizată?",
+      "subtitle": "Fiecare proiect este unic – prețul se bazează întotdeauna pe cerințe",
+      "description": "Prețul dezvoltării unei aplicații personalizate depinde de complexitatea proiectului, funcționalitate și timpul necesar. Aplicațiile mici încep de la 2.000 €, sistemele enterprise mai mari pot costa zeci de mii – dar pregătim întotdeauna o ofertă personalizată.",
+      "process": "Într-o consultație gratuită, evaluăm nevoile dumneavoastră, discutăm posibilitățile și oferim o ofertă transparentă și fixă pentru întregul proiect.",
+      "cta": "Solicitați o ofertă gratuită"
     },
     "faq": {
-      "title": "Frequently Asked Questions",
+      "title": "Întrebări frecvente",
       "items": [
         {
-          "question": "How long does custom application development take?",
-          "answer": "It depends on project size – a simpler web application takes 4-8 weeks, while a complex enterprise system can take 3-6 months. We always agree on deadlines in the quote."
+          "question": "Cât durează dezvoltarea unei aplicații personalizate?",
+          "answer": "Depinde de dimensiunea proiectului – o aplicație web mai simplă durează 4-8 săptămâni, în timp ce un sistem enterprise complex poate dura 3-6 luni. Întotdeauna convenim termenele în ofertă."
         },
         {
-          "question": "Can you integrate with existing systems?",
-          "answer": "Yes! We regularly integrate with ERPs, CRMs, invoicing systems and other external APIs. This is one of the biggest advantages of custom development."
+          "question": "Puteți integra cu sisteme existente?",
+          "answer": "Da! Integrăm regulat cu ERP-uri, CRM-uri, sisteme de facturare și alte API-uri externe. Acesta este unul dintre cele mai mari avantaje ale dezvoltării personalizate."
         },
         {
-          "question": "Who owns the source code?",
-          "answer": "After the project, the source code becomes your complete property – no hidden license fees or dependencies."
+          "question": "Cine deține codul sursă?",
+          "answer": "După proiect, codul sursă devine proprietatea dumneavoastră completă – fără taxe de licență ascunse sau dependențe."
         },
         {
-          "question": "What about maintenance and further development?",
-          "answer": "We provide support after delivery: bug fixes, updates, further development – with optional monthly or one-time solutions."
+          "question": "Cum rămâne cu întreținerea și dezvoltarea ulterioară?",
+          "answer": "Oferim suport după livrare: remedierea erorilor, actualizări, dezvoltare ulterioară – cu soluții lunare opționale sau unice."
         },
         {
-          "question": "What warranty do we get on the application?",
-          "answer": "There's a 6-month warranty on bugs after delivery – we fix all functional problems free of charge during this period."
+          "question": "Ce garanție primim pentru aplicație?",
+          "answer": "Există o garanție de 6 luni pentru erori după livrare – remediem gratuit toate problemele funcționale în această perioadă."
         }
       ]
     },
     "finalCta": {
-      "title": "Ready for a Custom Software Solution?",
-      "description": "Let's discuss your needs and create an application together that truly increases your business efficiency.",
-      "button": "Request Free Consultation"
+      "title": "Sunteți pregătit pentru o soluție software personalizată?",
+      "description": "Haideți să discutăm nevoile dumneavoastră și să creăm împreună o aplicație care crește cu adevărat eficiența afacerii dumneavoastră.",
+      "button": "Solicitați o consultație gratuită"
     }
   }
 }
