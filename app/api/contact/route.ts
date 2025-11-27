@@ -10,6 +10,7 @@ async function sendDiscordNotification(data: {
   service: string;
   message: string;
   timestamp: string;
+  ipAddress: string;
 }) {
   const embed = {
     title: '🔔 Új kapcsolati üzenet',
@@ -38,6 +39,11 @@ async function sendDiscordNotification(data: {
       {
         name: '⏰ Időpont',
         value: `<t:${Math.floor(new Date(data.timestamp).getTime() / 1000)}:F>`,
+        inline: true,
+      },
+      {
+        name: '🌐 IP Cím',
+        value: data.ipAddress,
         inline: true,
       },
     ],
@@ -115,6 +121,7 @@ export async function POST(request: NextRequest) {
       service: sanitizedData.service,
       message: sanitizedData.message,
       timestamp: timestamp,
+      ipAddress: ip,
     });
 
     console.log('Contact form submission:', {
@@ -141,10 +148,10 @@ export async function POST(request: NextRequest) {
 export async function GET(request: NextRequest) {
   // Test endpoint to check Discord webhook configuration
   const test = request.nextUrl.searchParams.get('test');
-  
+
   if (test === 'discord') {
     const webhookUrl = process.env.DISCORD_WEBHOOK_URL || DISCORD_WEBHOOK_URL;
-    
+
     if (!webhookUrl) {
       return NextResponse.json(
         {
