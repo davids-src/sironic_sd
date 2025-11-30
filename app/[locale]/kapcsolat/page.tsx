@@ -4,14 +4,19 @@ import { Suspense } from 'react';
 import { ContactForm } from '@/components/ContactForm';
 import { Mail, Phone, MapPin, Clock } from 'lucide-react';
 import { useTranslation } from '@/hooks/useTranslation';
+import { Breadcrumbs } from '@/components/Breadcrumbs';
+import { useParams } from 'next/navigation';
 
 export default function KapcsolatPage() {
   const { t } = useTranslation();
+  const params = useParams();
+  const locale = (params?.locale as string) || 'hu';
 
   return (
     <>
       <section className="py-16 lg:py-24 bg-gradient-to-br from-background via-background to-muted">
         <div className="mx-auto max-w-7xl px-4 lg:px-8">
+          <Breadcrumbs items={[{ label: t('nav.contact'), href: `/${locale}/kapcsolat` }]} />
           <div className="mx-auto max-w-3xl text-center mb-12">
             <h1 className="text-4xl font-bold tracking-tight sm:text-5xl mb-6">
               {t('contact.title')}

@@ -1,7 +1,7 @@
 {
   "meta": {
-    "siteTitle": "SIRONIC IT Solutions",
-    "siteDescription": "Comprehensive IT solutions for small and medium-sized businesses in Székesfehérvár",
+    "siteTitle": "SIRONIC IT Solutions - Pro IT Operations & Development",
+    "siteDescription": "Comprehensive IT solutions for SMBs: system administration, network building, custom software development, and IT security services in Székesfehérvár.",
     "companyName": "SIRONIC IT Solutions",
     "keywords": [
       "IT services",
@@ -28,8 +28,8 @@
     "ogImage": "/og/home-en.jpg",
     "pages": {
       "services": {
-        "title": "Our Services - SIRONIC IT Solutions",
-        "description": "Complete IT services: system management, network setup, IT security, web development, hosting, repair services, and IT training in Székesfehérvár, Hungary.",
+        "title": "IT Services - System Administration & Development",
+        "description": "Reliable IT services for businesses: system administration, network setup, web development, hosting, and repair. Request a quote from our experts today!",
         "keywords": [
           "IT services",
           "system management",
@@ -43,8 +43,8 @@
         "ogImage": "/og/services-en.jpg"
       },
       "about": {
-        "title": "About Us - SIRONIC IT Solutions",
-        "description": "Reliable IT partner with 5+ years of experience. Proactive support, transparent pricing, and human communication - that's SIRONIC.",
+        "title": "About Us - SIRONIC IT Solutions: Your Reliable Partner",
+        "description": "Meet SIRONIC IT Solutions! Over 5 years of experience, proactive IT support, and client-focused approach for small and medium-sized businesses.",
         "keywords": [
           "IT company",
           "Székesfehérvár",
@@ -55,8 +55,8 @@
         "ogImage": "/og/about-en.jpg"
       },
       "contact": {
-        "title": "Contact - SIRONIC IT Solutions",
-        "description": "Get in touch for a free consultation. Email: hello@sironic.hu, Phone: +36 70 273 5532. Based in Székesfehérvár, Hungary.",
+        "title": "Contact Us - SIRONIC IT Solutions Székesfehérvár",
+        "description": "Have questions? Contact us for a free consultation! Reach us via phone, email, or in person in Székesfehérvár. We are here to help.",
         "keywords": [
           "IT contact",
           "free consultation",
@@ -66,8 +66,8 @@
         "ogImage": "/og/contact-en.jpg"
       },
       "pricing": {
-        "title": "Pricing - SIRONIC IT Solutions",
-        "description": "Transparent IT pricing with fixed monthly plans. System management from HUF 39,000/month. Custom quotes tailored to your business needs.",
+        "title": "IT Service Pricing & Packages - SIRONIC IT Solutions",
+        "description": "Discover our competitive IT pricing! Fixed monthly system administration, custom development, and maintenance with no hidden costs and full warranty.",
         "keywords": [
           "IT pricing",
           "monthly IT support",
@@ -78,8 +78,8 @@
         "ogImage": "/og/pricing-en.jpg"
       },
       "products": {
-        "title": "Our Products - SIRONIC IT Solutions",
-        "description": "Custom software solutions and IT products for small and medium-sized businesses. Modern, reliable applications tailored to your needs.",
+        "title": "Custom Software & IT Products - SIRONIC Solutions",
+        "description": "Explore our custom software solutions and IT products! CRM systems, web applications, and mobile apps designed to help your business grow.",
         "keywords": [
           "IT products",
           "custom software",
@@ -90,8 +90,8 @@
         "ogImage": "/og/products-en.jpg"
       },
       "blog": {
-        "title": "Blog - SIRONIC IT Solutions",
-        "description": "IT tips, knowledge base, and guides for businesses. Practical advice on IT security, efficiency, and development.",
+        "title": "IT Blog & Knowledge Base - Tips for Businesses",
+        "description": "Read our latest IT news and tips! Useful advice on cybersecurity, system administration, and digital development for companies.",
         "keywords": [
           "IT blog",
           "IT tips",

@@ -1,7 +1,7 @@
 {
   "meta": {
-    "siteTitle": "SIRONIC IT Rendszerház",
-    "siteDescription": "Teljes körű IT megoldások kis- és középvállalkozásoknak Székesfehérváron",
+    "siteTitle": "SIRONIC Rendszerház - Profi IT Üzemeltetés és Fejlesztés",
+    "siteDescription": "Teljes körű IT megoldások kis- és középvállalkozásoknak: rendszerüzemeltetés, hálózatépítés, egyedi szoftverfejlesztés és IT biztonság Székesfehérváron.",
     "companyName": "SIRONIC Rendszerház",
     "keywords": [
       "IT szolgáltatás",
@@ -30,8 +30,8 @@
     "ogImage": "/og/home-hu.jpg",
     "pages": {
       "services": {
-        "title": "Szolgáltatásaink - SIRONIC IT Rendszerház",
-        "description": "Teljes körű IT szolgáltatások: rendszerüzemeltetés, hálózatépítés, IT biztonság, webfejlesztés, hosting, szerviz és IT oktatás Székesfehérváron.",
+        "title": "IT Szolgáltatások - Rendszerüzemeltetés és Fejlesztés",
+        "description": "Megbízható IT szolgáltatások cégeknek: rendszergazdai feladatok, hálózatépítés, webfejlesztés, hosting és szerviz. Kérjen ajánlatot szakértőinktől!",
         "keywords": [
           "IT szolgáltatások",
           "rendszerüzemeltetés",
@@ -45,8 +45,8 @@
         "ogImage": "/og/services-hu.jpg"
       },
       "about": {
-        "title": "Rólunk - SIRONIC IT Rendszerház",
-        "description": "Megbízható IT partner 5+ év tapasztalattal. Proaktív támogatás, átlátható árak és emberi kommunikáció - ez a SIRONIC Rendszerház.",
+        "title": "Rólunk - SIRONIC Rendszerház: A Megbízható IT Partner",
+        "description": "Ismerje meg a SIRONIC Rendszerházat! Több mint 5 év tapasztalat, proaktív IT támogatás és ügyfélközpontú hozzáállás kis- és középvállalkozások számára.",
         "keywords": [
           "IT cég",
           "Székesfehérvár",
@@ -57,8 +57,8 @@
         "ogImage": "/og/about-hu.jpg"
       },
       "contact": {
-        "title": "Kapcsolat - SIRONIC IT Rendszerház",
-        "description": "Vedd fel velünk a kapcsolatot ingyenes konzultációért. Email: hello@sironic.hu, Tel: +36 70 273 5532. Székesfehérvár.",
+        "title": "Lépjen Kapcsolatba Velünk - SIRONIC IT Rendszerház",
+        "description": "Kérdése van? Vegye fel velünk a kapcsolatot ingyenes konzultációért! Elérhetőségeink: telefon, email és személyes ügyintézés Székesfehérváron.",
         "keywords": [
           "IT  kapcsolat",
           "ingyenes konzultáció",
@@ -68,8 +68,8 @@
         "ogImage": "/og/contact-hu.jpg"
       },
       "pricing": {
-        "title": "Áraink - SIRONIC IT Rendszerház",
-        "description": "Átlátható IT árak fix havidíjas konstrukcióval. Rendszerüzemeltetés 39.000 Ft/hó-tól. Egyedi ajánlatok vállalkozásod igényei szerint.",
+        "title": "IT Szolgáltatás Árak és Csomagok - SIRONIC Rendszerház",
+        "description": "Ismerje meg versenyképes IT árainkat! Fix havidíjas rendszerüzemeltetés, egyedi fejlesztések és karbantartás rejtett költségek nélkül, garanciával.",
         "keywords": [
           "IT árak",
           "havidíjas IT",
@@ -80,8 +80,8 @@
         "ogImage": "/og/pricing-hu.jpg"
       },
       "products": {
-        "title": "Termékeink - SIRONIC IT Rendszerház",
-        "description": "Egyedi szoftvermegoldások és IT termékek kis- és középvállalkozásoknak. Modern, megbízható alkalmazások a Te igényeidre szabva.",
+        "title": "Egyedi Szoftverek és IT Termékek - SIRONIC Megoldások",
+        "description": "Fedezze fel egyedi szoftvermegoldásainkat és IT termékeinket! CRM rendszerek, webalkalmazások és mobil applikációk, amelyek segítik vállalkozása fejlődését.",
         "keywords": [
           "IT termékek",
           "egyedi szoftver",
@@ -92,8 +92,8 @@
         "ogImage": "/og/products-hu.jpg"
       },
       "blog": {
-        "title": "Blog - SIRONIC IT Rendszerház",
-        "description": "IT tippek, tudástár és útmutatók vállalkozásoknak. Gyakorlati tanácsok az informatikai biztonságról, hatékonyságról és fejlesztésekről.",
+        "title": "IT Blog és Tudástár - Tippek Vállalkozások Számára",
+        "description": "Olvassa el legfrissebb IT híreinket és tippjeinket! Hasznos tanácsok kiberbiztonságról, rendszerüzemeltetésről és digitális fejlesztésekről cégeknek.",
         "keywords": [
           "IT blog",
           "informatikai tippek",

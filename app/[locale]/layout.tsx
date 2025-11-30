@@ -84,6 +84,7 @@ export default async function RootLayout({
         <HreflangTags />
       </head>
       <body className={inter.className}>
+        <GoogleAnalytics gaId={process.env.NEXT_PUBLIC_GA_ID || ''} />
         <TranslationsProvider messages={messages} locale={locale}>
           <SkipToContent />
           <Header />

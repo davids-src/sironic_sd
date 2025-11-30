@@ -1,7 +1,7 @@
 {
   "meta": {
-    "siteTitle": "SIRONIC IT-Systemhaus",
-    "siteDescription": "Umfassende IT-Lösungen für kleine und mittelständische Unternehmen in Székesfehérvár",
+    "siteTitle": "SIRONIC IT-Systemhaus - Profi IT-Betrieb & Entwicklung",
+    "siteDescription": "Umfassende IT-Lösungen für KMU: Systemadministration, Netzwerkaufbau, individuelle Softwareentwicklung und IT-Sicherheit in Székesfehérvár.",
     "companyName": "SIRONIC IT-Systemhaus",
     "keywords": [
       "IT-Dienstleistungen",
@@ -28,8 +28,8 @@
     "ogImage": "/og/home-de.jpg",
     "pages": {
       "services": {
-        "title": "Unsere Dienstleistungen - SIRONIC IT-Systemhaus",
-        "description": "Komplette IT-Dienstleistungen: Systemverwaltung, Netzwerkaufbau, IT-Sicherheit, Webentwicklung, Hosting, Reparaturservice und IT-Schulung in Székesfehérvár.",
+        "title": "IT-Dienstleistungen - Systemadministration & Entwicklung",
+        "description": "Zuverlässige IT-Services für Unternehmen: Systemadministration, Netzwerk, Webentwicklung, Hosting und Reparatur. Fordern Sie noch heute ein Angebot an!",
         "keywords": [
           "IT-Dienstleistungen",
           "Systemverwaltung",
@@ -43,8 +43,8 @@
         "ogImage": "/og/services-de.jpg"
       },
       "about": {
-        "title": "Über uns - SIRONIC IT-Systemhaus",
-        "description": "Zuverlässiger IT-Partner mit über 5 Jahren Erfahrung. Proaktive Unterstützung, transparente Preise und menschliche Kommunikation - das ist SIRONIC.",
+        "title": "Über uns - SIRONIC IT-Systemhaus: Ihr Zuverlässiger Partner",
+        "description": "Lernen Sie SIRONIC IT-Systemhaus kennen! Über 5 Jahre Erfahrung, proaktiver IT-Support und kundenorientierter Ansatz für kleine und mittlere Unternehmen.",
         "keywords": [
           "IT-Unternehmen",
           "Székesfehérvár",
@@ -55,8 +55,8 @@
         "ogImage": "/og/about-de.jpg"
       },
       "contact": {
-        "title": "Kontakt - SIRONIC IT-Systemhaus",
-        "description": "Kontaktieren Sie uns für eine kostenlose Beratung. E-Mail: hello@sironic.hu, Tel: +36 70 273 5532. Standort: Székesfehérvár, Ungarn.",
+        "title": "Kontakt - SIRONIC IT-Systemhaus Székesfehérvár",
+        "description": "Fragen? Kontaktieren Sie uns für eine kostenlose Beratung! Telefon, E-Mail oder persönlich in Székesfehérvár. Wir sind hier, um zu helfen.",
         "keywords": [
           "IT Kontakt",
           "kostenlose Beratung",
@@ -66,8 +66,8 @@
         "ogImage": "/og/contact-de.jpg"
       },
       "pricing": {
-        "title": "Preise - SIRONIC IT-Systemhaus",
-        "description": "Transparente IT-Preise mit festen monatlichen Plänen. Systemverwaltung ab 39.000 HUF/Monat. Individuelle Angebote nach Ihren Bedürfnissen.",
+        "title": "IT-Service Preise & Pakete - SIRONIC IT-Systemhaus",
+        "description": "Entdecken Sie unsere wettbewerbsfähigen IT-Preise! Feste monatliche Systemadministration, individuelle Entwicklung und Wartung ohne versteckte Kosten.",
         "keywords": [
           "IT-Preise",
           "monatliche IT-Unterstützung",
@@ -78,8 +78,8 @@
         "ogImage": "/og/pricing-de.jpg"
       },
       "products": {
-        "title": "Unsere Produkte - SIRONIC IT-Systemhaus",
-        "description": "Maßgeschneiderte Softwarelösungen und IT-Produkte für kleine und mittelständische Unternehmen. Moderne, zuverlässige Anwendungen nach Ihren Anforderungen.",
+        "title": "Individuelle Software & IT-Produkte - SIRONIC Lösungen",
+        "description": "Entdecken Sie unsere individuellen Softwarelösungen und IT-Produkte! CRM-Systeme, Webanwendungen und mobile Apps für Ihr Unternehmenswachstum.",
         "keywords": [
           "IT-Produkte",
           "individuelle Software",
@@ -90,8 +90,8 @@
         "ogImage": "/og/products-de.jpg"
       },
       "blog": {
-        "title": "Blog - SIRONIC IT-Systemhaus",
-        "description": "IT-Tipps, Wissensdatenbank und Anleitungen für Unternehmen. Praktische Ratschläge zu IT-Sicherheit, Effizienz und Entwicklung.",
+        "title": "IT-Blog & Wissensdatenbank - Tipps für Unternehmen",
+        "description": "Lesen Sie unsere neuesten IT-News und Tipps! Nützliche Ratschläge zu Cybersicherheit, Systemadministration und digitaler Entwicklung für Firmen.",
         "keywords": [
           "IT-Blog",
           "IT-Tipps",

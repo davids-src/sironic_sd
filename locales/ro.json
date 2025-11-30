@@ -1,7 +1,7 @@
 {
   "meta": {
-    "siteTitle": "SIRONIC Soluții IT",
-    "siteDescription": "Soluții IT complete pentru întreprinderi mici și mijlocii în Székesfehérvár",
+    "siteTitle": "SIRONIC Soluții IT - Administrare și Dezvoltare Pro",
+    "siteDescription": "Soluții IT complete pentru IMM-uri: administrare sisteme, construire rețele, dezvoltare software personalizat și securitate IT în Székesfehérvár.",
     "companyName": "SIRONIC Soluții IT",
     "keywords": [
       "servicii IT",
@@ -28,8 +28,8 @@
     "ogImage": "/og/home-ro.jpg",
     "pages": {
       "services": {
-        "title": "Serviciile noastre - SIRONIC Soluții IT",
-        "description": "Servicii IT complete: administrare sisteme, infrastructură rețea, securitate IT, dezvoltare web, hosting, service reparații și training IT în Székesfehérvár.",
+        "title": "Servicii IT Profesionale - Administrare și Dezvoltare",
+        "description": "Servicii IT de încredere pentru companii: administrare sisteme, rețele, dezvoltare web, hosting și reparații. Solicitați o ofertă de la experții noștri!",
         "keywords": [
           "servicii IT",
           "administrare sisteme",
@@ -43,8 +43,8 @@
         "ogImage": "/og/services-ro.jpg"
       },
       "about": {
-        "title": "Despre noi - SIRONIC Soluții IT",
-        "description": "Partner IT de încredere cu peste 5 ani de experiență. Suport proactiv, prețuri transparente și comunicare umană - aceasta este SIRONIC.",
+        "title": "Despre Noi - SIRONIC Soluții IT: Partenerul Tău de Încredere",
+        "description": "Cunoașteți SIRONIC Soluții IT! Peste 5 ani de experiență, suport IT proactiv și abordare orientată către client pentru întreprinderi mici și mijlocii.",
         "keywords": [
           "companie IT",
           "Székesfehérvár",
@@ -55,8 +55,8 @@
         "ogImage": "/og/about-ro.jpg"
       },
       "contact": {
-        "title": "Contact - SIRONIC Soluții IT",
-        "description": "Contactați-ne pentru o consultație gratuită. Email: hello@sironic.hu, Telefon: +36 70 273 5532. Székesfehérvár, Ungaria.",
+        "title": "Contactați-ne - SIRONIC Soluții IT Székesfehérvár",
+        "description": "Aveți întrebări? Contactați-ne pentru o consultație gratuită! Telefon, e-mail sau personal în Székesfehérvár. Suntem aici să vă ajutăm.",
         "keywords": [
           "contact IT",
           "consultație gratuită",
@@ -66,8 +66,8 @@
         "ogImage": "/og/contact-ro.jpg"
       },
       "pricing": {
-        "title": "Prețuri - SIRONIC Soluții IT",
-        "description": "Prețuri IT transparente cu planuri lunare fixe. Administrare sisteme de la 39.000 HUF/lună. Oferte personalizate după nevoile dumneavoastră.",
+        "title": "Prețuri și Pachete Servicii IT - SIRONIC Soluții IT",
+        "description": "Descoperiți prețurile noastre IT competitive! Administrare lunară fixă a sistemelor, dezvoltare personalizată și întreținere fără costuri ascunse.",
         "keywords": [
           "prețuri IT",
           "suport IT lunar",
@@ -78,8 +78,8 @@
         "ogImage": "/og/pricing-ro.jpg"
       },
       "products": {
-        "title": "Produsele noastre - SIRONIC Soluții IT",
-        "description": "Soluții software personalizate și produse IT pentru întreprinderi mici și mijlocii. Aplicații moderne, de încredere, adaptate nevoilor dumneavoastră.",
+        "title": "Software Personalizat și Produse IT - Soluții SIRONIC",
+        "description": "Descoperiți soluțiile noastre software și produsele IT! Sisteme CRM, aplicații web și mobile care ajută afacerea dumneavoastră să crească.",
         "keywords": [
           "produse IT",
           "software personalizat",
@@ -90,8 +90,8 @@
         "ogImage": "/og/products-ro.jpg"
       },
       "blog": {
-        "title": "Blog - SIRONIC Soluții IT",
-        "description": "Sfaturi IT, bază de cunoștințe și ghiduri pentru întreprinderi. Consiliere practică despre securitatea IT, eficiență și dezvoltare.",
+        "title": "Blog IT și Bază de Cunoștințe - Sfaturi pentru Firme",
+        "description": "Citiți cele mai recente știri și sfaturi IT! Sfaturi utile despre securitate cibernetică, administrare sisteme și dezvoltare digitală pentru companii.",
         "keywords": [
           "blog IT",
           "sfaturi IT",

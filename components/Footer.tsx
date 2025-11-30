@@ -1,7 +1,7 @@
 'use client';
 
 import Link from 'next/link';
-import { Mail, Phone, MapPin } from 'lucide-react';
+import { Mail, Phone, MapPin, Facebook, Linkedin } from 'lucide-react';
 import { trackPhoneClick, trackEmailClick } from '@/lib/analytics';
 import { useTranslation } from '@/hooks/useTranslation';
 
@@ -56,6 +56,26 @@ export function Footer() {
             <div className="flex items-center gap-2 text-sm">
               <MapPin className="h-4 w-4 text-brand-red" aria-hidden="true" />
               <span>{t('footer.address')}</span>
+            </div>
+            <div className="flex items-center gap-4 mt-4">
+              <a
+                href="https://facebook.com/sironicit"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-muted-foreground hover:text-brand-red transition-colors"
+                aria-label="Facebook"
+              >
+                <Facebook className="h-5 w-5" />
+              </a>
+              <a
+                href="https://linkedin.com/company/sironicit"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-muted-foreground hover:text-brand-red transition-colors"
+                aria-label="LinkedIn"
+              >
+                <Linkedin className="h-5 w-5" />
+              </a>
             </div>
           </div>
 

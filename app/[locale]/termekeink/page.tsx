@@ -6,6 +6,7 @@ import { ChevronRight } from 'lucide-react';
 import Link from 'next/link';
 import { useTranslation } from '@/hooks/useTranslation';
 import { useParams } from 'next/navigation';
+import { Breadcrumbs } from '@/components/Breadcrumbs';
 
 export default function TermekekPage() {
   const { t } = useTranslation();
@@ -18,16 +19,7 @@ export default function TermekekPage() {
     <>
       <section className="py-16 lg:py-24 bg-gradient-to-br from-background via-background to-muted">
         <div className="mx-auto max-w-7xl px-4 lg:px-8">
-          <nav className="flex items-center space-x-2 text-sm text-muted-foreground mb-8" aria-label="Breadcrumb">
-            <Link
-              href={`/${locale}`}
-              className="hover:text-brand-red transition-colors focus:outline-none focus:ring-2 focus:ring-brand-red rounded-sm"
-            >
-              {t('productsPage.breadcrumb.home')}
-            </Link>
-            <ChevronRight className="h-4 w-4" />
-            <span className="text-foreground font-medium">{t('productsPage.breadcrumb.products')}</span>
-          </nav>
+          <Breadcrumbs items={[{ label: t('productsPage.breadcrumb.products'), href: `/${locale}/termekeink` }]} />
 
           <div className="mx-auto max-w-3xl text-center mb-12 animate-fade-in">
             <h1 className="text-4xl font-bold tracking-tight sm:text-5xl mb-6">

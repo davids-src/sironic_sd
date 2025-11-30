@@ -6,6 +6,7 @@ import { Server, Network, Shield, Code, CheckCircle, ArrowRight, ShoppingCart, C
 import Link from 'next/link';
 import { useTranslation } from '@/hooks/useTranslation';
 import { useParams } from 'next/navigation';
+import { Breadcrumbs } from '@/components/Breadcrumbs';
 
 export default function SzolgaltatasokPage() {
   const { t } = useTranslation();
@@ -36,6 +37,7 @@ export default function SzolgaltatasokPage() {
       description: t('services.development.description'),
       icon: Code,
       features: t('servicesPage.details.development.features', []),
+      link: `/${locale}/egyedi-alkalmazas-fejlesztes`,
     },
     {
       title: t('services.commerce.title'),
@@ -67,6 +69,7 @@ export default function SzolgaltatasokPage() {
     <>
       <section className="py-16 lg:py-24 bg-gradient-to-br from-background via-background to-muted">
         <div className="mx-auto max-w-7xl px-4 lg:px-8">
+          <Breadcrumbs items={[{ label: t('nav.services'), href: `/${locale}/szolgaltatasok` }]} />
           <div className="mx-auto max-w-3xl text-center mb-12">
             <h1 className="text-4xl font-bold tracking-tight sm:text-5xl mb-6">
               {t('servicesPage.title')}
@@ -84,9 +87,8 @@ export default function SzolgaltatasokPage() {
             {services.map((service, index) => (
               <div
                 key={index}
-                className={`grid grid-cols-1 lg:grid-cols-2 gap-8 items-center ${
-                  index % 2 === 1 ? 'lg:flex-row-reverse' : ''
-                }`}
+                className={`grid grid-cols-1 lg:grid-cols-2 gap-8 items-center ${index % 2 === 1 ? 'lg:flex-row-reverse' : ''
+                  }`}
               >
                 <div className={index % 2 === 1 ? 'lg:order-2' : ''}>
                   <ServiceCard
@@ -105,6 +107,16 @@ export default function SzolgaltatasokPage() {
                       </li>
                     ))}
                   </ul>
+                  {(service as any).link && (
+                    <div className="mt-6">
+                      <Button asChild variant="outline" className="group">
+                        <Link href={(service as any).link}>
+                          {t('common.learnMore')}
+                          <ArrowRight className="ml-2 h-4 w-4 transition-transform group-hover:translate-x-1" />
+                        </Link>
+                      </Button>
+                    </div>
+                  )}
                 </div>
               </div>
             ))}

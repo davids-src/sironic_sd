@@ -1,7 +1,7 @@
 {
   "meta": {
-    "siteTitle": "SIRONIC IT Riešenia",
-    "siteDescription": "Komplexné IT riešenia pre malé a stredné podniky v Székesfehérvári",
+    "siteTitle": "SIRONIC IT Riešenia - Profesionálna Správa a Vývoj",
+    "siteDescription": "Komplexné IT riešenia pre malé a stredné podniky: správa systémov, budovanie sietí, vývoj softvéru na mieru a IT bezpečnosť v Székesfehérvári.",
     "companyName": "SIRONIC IT Riešenia",
     "keywords": [
       "IT služby",
@@ -28,8 +28,8 @@
     "ogImage": "/og/home-sk.jpg",
     "pages": {
       "services": {
-        "title": "Naše služby - SIRONIC IT Riešenia",
-        "description": "Kompletné IT služby: správa systémov, sieťová infrastruktúra, IT bezpečnosť, webový vývoj, hosting, servisné služby a IT školenie v Székesfehérváre.",
+        "title": "Profesionálne IT Služby - Správa Systémov a Vývoj",
+        "description": "Spoľahlivé IT služby pre firmy: správa systémov, budovanie sietí, vývoj webových stránok, hosting a servis. Požiadajte o ponuku od našich odborníkov!",
         "keywords": [
           "IT služby",
           "správa systémov",
@@ -43,8 +43,8 @@
         "ogImage": "/og/services-sk.jpg"
       },
       "about": {
-        "title": "O nás - SIRONIC IT Riešenia",
-        "description": "Spoľahlivý IT partner s viac ako 5 rokmi skúsenosťí. Proaktívna podpora, transparentné ceny a ľudská komunikácia - to je SIRONIC.",
+        "title": "O nás - SIRONIC IT Riešenia: Váš Spoľahlivý Partner",
+        "description": "Spoznajte SIRONIC IT Riešenia! Viac ako 5 rokov skúseností, proaktívna IT podpora a zákaznícky orientovaný prístup pre malé a stredné podniky.",
         "keywords": [
           "IT spoločnosť",
           "Székesfehérvár",
@@ -55,8 +55,8 @@
         "ogImage": "/og/about-sk.jpg"
       },
       "contact": {
-        "title": "Kontakt - SIRONIC IT Riešenia",
-        "description": "Kontaktujte nás pre bezplatnú konzultáciu. Email: hello@sironic.hu, Tel: +36 70 273 5532. Székesfehérvár, Maďarsko.",
+        "title": "Kontaktujte Nás - SIRONIC IT Riešenia Székesfehérvár",
+        "description": "Máte otázky? Kontaktujte nás pre bezplatnú konzultáciu! Telefón, e-mail alebo osobne v Székesfehérvári. Sme tu, aby sme Vám pomohli.",
         "keywords": [
           "IT kontakt",
           "bezplatná konzultácia",
@@ -66,8 +66,8 @@
         "ogImage": "/og/contact-sk.jpg"
       },
       "pricing": {
-        "title": "Ceny - SIRONIC IT Riešenia",
-        "description": "Transparentné IT ceny s fixnými mesačnými plánmi. Správa systémov od 39 000 HUF/mesiac. Individuálne ponuky podľa vašich potrieb.",
+        "title": "Cenník IT Služieb a Balíky - SIRONIC IT Riešenia",
+        "description": "Objavte naše konkurencieschopné IT ceny! Fixná mesačná správa systémov, vývoj na mieru a údržba bez skrytých nákladov a s plnou zárukou.",
         "keywords": [
           "IT ceny",
           "mesačná IT podpora",
@@ -78,8 +78,8 @@
         "ogImage": "/og/pricing-sk.jpg"
       },
       "products": {
-        "title": "Naše produkty - SIRONIC IT Riešenia",
-        "description": "Riešenia softveru na mieru a IT produkty pre malé a stredné podniky. Moderné, spoľahlivé aplikácie prispôsobené vašim potreba. Moderím.",
+        "title": "Softvér na Mieru a IT Produkty - SIRONIC Riešenia",
+        "description": "Objavte naše softvérové riešenia na mieru a IT produkty! CRM systémy, webové aplikácie a mobilné aplikácie, ktoré pomáhajú Vášmu podnikaniu rásť.",
         "keywords": [
           "IT produkty",
           "vlastný softvér",
@@ -90,8 +90,8 @@
         "ogImage": "/og/products-sk.jpg"
       },
       "blog": {
-        "title": "Blog - SIRONIC IT Riešenia",
-        "description": "IT tipy, báza znalostí a príručky pre podniky. Praktické rady o IT bezpečnosti, efektívnosti a vývoji.",
+        "title": "IT Blog a Znalostná Databáza - Tipy pre Podnikanie",
+        "description": "Prečítajte si naše najnovšie IT správy a tipy! Užitočné rady o kybernetickej bezpečnosti, správe systémov a digitálnom rozvoji pre spoločnosti.",
         "keywords": [
           "IT blog",
           "IT tipy",

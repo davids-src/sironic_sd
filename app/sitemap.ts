@@ -27,9 +27,57 @@ const pages = [
 export default function sitemap(): MetadataRoute.Sitemap {
   const sitemap: MetadataRoute.Sitemap = [];
 
-  // Generate sitemap entries for each page in each locale
-  for (const page of pages) {
+  // Define pages with their allowed locales
+  // If allowedLocales is undefined, it's allowed for all (e.g. home)
+  // But for specific localized routes, we restrict them.
+  const routeConfig = [
+    { path: '', changeFreq: 'weekly', priority: 1.0, allowedLocales: locales },
+
+    // HU specific routes
+    { path: 'oktatas', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['hu'] },
+    { path: 'minden-cegnek-legyen-informatikusa', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['hu'] },
+    { path: 'egyedi-alkalmazas-fejlesztes', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['hu'] },
+    { path: 'szolgaltatasok', changeFreq: 'monthly', priority: 0.8, allowedLocales: ['hu'] }, // Currently shared but HU name
+    { path: 'termekeink', changeFreq: 'weekly', priority: 0.7, allowedLocales: ['hu'] }, // Currently shared but HU name
+    { path: 'arak', changeFreq: 'weekly', priority: 0.7, allowedLocales: ['hu'] }, // Currently shared but HU name
+    { path: 'rolunk', changeFreq: 'monthly', priority: 0.6, allowedLocales: ['hu'] }, // Currently shared but HU name
+    { path: 'kapcsolat', changeFreq: 'monthly', priority: 0.8, allowedLocales: ['hu'] }, // Currently shared but HU name
+    { path: 'blog', changeFreq: 'weekly', priority: 0.8, allowedLocales: ['hu'] }, // Currently shared but HU name
+
+    // EN specific routes
+    { path: 'it-training', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['en'] },
+    { path: 'custom-application-development', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['en'] },
+    // Note: The main nav pages (About, Contact, etc) currently use HU paths for EN too in the codebase.
+    // Until we create localized routes for them, we must include them for EN/DE/etc using the HU path
+    // to avoid them being missing from sitemap, even if the URL is not ideal.
+    // However, for the "Landing Pages" which HAVE localized folders, we strictly filter.
+
+    // DE specific routes
+    { path: 'it-schulung', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['de'] },
+    { path: 'individuelle-anwendungsentwicklung', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['de'] },
+
+    // SK specific routes
+    { path: 'it-vzdelavanie', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['sk'] },
+    { path: 'vyvoj-vlastnych-aplikacii', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['sk'] },
+
+    // RO specific routes
+    { path: 'training-it', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['ro'] },
+    { path: 'dezvoltare-aplicatii-personalizate', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['ro'] },
+  ] as const;
+
+  // For the shared pages (rolunk, kapcsolat, etc) that don't have localized folders yet,
+  // we need to decide if we include them for other locales.
+  // Currently the site works as /en/kapcsolat.
+  // So we should include them for all locales until we fix the routing.
+  const sharedPages = ['szolgaltatasok', 'termekeink', 'arak', 'rolunk', 'kapcsolat', 'blog'];
+
+  for (const page of routeConfig) {
     for (const locale of locales) {
+      // Check if this page is allowed for this locale
+      if (page.allowedLocales && !page.allowedLocales.includes(locale as any)) {
+        continue;
+      }
+
       const url = page.path
         ? `${baseUrl}/${locale}/${page.path}`
         : `${baseUrl}/${locale}`;
@@ -37,8 +85,23 @@ export default function sitemap(): MetadataRoute.Sitemap {
       sitemap.push({
         url,
         lastModified: new Date(),
-        changeFrequency: page.changeFreq,
+        changeFrequency: page.changeFreq as any,
         priority: page.priority,
+      });
+    }
+  }
+
+  // Add shared pages for non-HU locales (since HU is covered in routeConfig)
+  for (const path of sharedPages) {
+    for (const locale of locales) {
+      if (locale === 'hu') continue; // Already added
+
+      const url = `${baseUrl}/${locale}/${path}`;
+      sitemap.push({
+        url,
+        lastModified: new Date(),
+        changeFrequency: 'monthly',
+        priority: 0.7,
       });
     }
   }

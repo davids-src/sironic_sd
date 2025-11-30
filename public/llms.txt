@@ -1,0 +1,35 @@
+# SIRONIC IT Solutions
+
+## About
+SIRONIC is an IT service provider based in Székesfehérvár, Hungary, specializing in system administration, network infrastructure, custom software development, and IT security for small and medium-sized businesses (SMBs).
+
+## Core Services
+- **System Administration**: Proactive monitoring, maintenance, and support for IT infrastructure.
+- **Network Solutions**: Design, implementation, and optimization of secure corporate networks.
+- **IT Security**: Firewall management, data backup, GDPR compliance, and cybersecurity training.
+- **Custom Development**: Web applications (React, Next.js), desktop software (.NET), and mobile apps.
+- **Hosting**: Secure web and email hosting, cloud solutions.
+- **IT Procurement**: Hardware and software licensing.
+
+## Key Pages
+- [Home](https://sironic.hu/)
+- [Services](https://sironic.hu/szolgaltatasok)
+- [Custom Development](https://sironic.hu/egyedi-alkalmazas-fejlesztes)
+- [Products](https://sironic.hu/termekeink)
+- [Pricing](https://sironic.hu/arak)
+- [About Us](https://sironic.hu/rolunk)
+- [Contact](https://sironic.hu/kapcsolat)
+- [Blog](https://sironic.hu/blog)
+
+## Contact
+- **Email**: hello@sironic.hu
+- **Phone**: +36 70 273 5532
+- **Location**: Székesfehérvár, Hungary
+
+## Languages
+The website is available in:
+- Hungarian (hu) - Default
+- English (en)
+- German (de)
+- Slovak (sk)
+- Romanian (ro)

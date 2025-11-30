@@ -6,6 +6,7 @@ import { CheckCircle, ArrowRight, Server, Globe, Shield, Code, ShoppingCart, Clo
 import Link from 'next/link';
 import { useTranslation } from '@/hooks/useTranslation';
 import { useParams } from 'next/navigation';
+import { Breadcrumbs } from '@/components/Breadcrumbs';
 
 export default function ArakPage() {
   const { t } = useTranslation();
@@ -103,6 +104,7 @@ export default function ArakPage() {
 
       <section className="py-16 lg:py-24 bg-gradient-to-br from-background via-background to-muted">
         <div className="mx-auto max-w-7xl px-4 lg:px-8">
+          <Breadcrumbs items={[{ label: t('nav.pricing'), href: `/${locale}/arak` }]} />
           <div className="mx-auto max-w-3xl text-center mb-12">
             <h1 className="text-4xl font-bold tracking-tight sm:text-5xl mb-6">
               {t('pricingPage.heroTitle')}
@@ -171,8 +173,8 @@ export default function ArakPage() {
                     <Button
                       asChild
                       className={`w-full ${pkg.highlighted
-                          ? 'bg-brand-red hover:bg-brand-red/90'
-                          : 'bg-brand-grey hover:bg-brand-grey/90'
+                        ? 'bg-brand-red hover:bg-brand-red/90'
+                        : 'bg-brand-grey hover:bg-brand-grey/90'
                         }`}
                     >
                       <Link href={pkg.ctaLink}>

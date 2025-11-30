@@ -5,6 +5,7 @@ import { CheckCircle, Target, Users, Lightbulb, ArrowRight } from 'lucide-react'
 import Link from 'next/link';
 import { useTranslation } from '@/hooks/useTranslation';
 import { useParams } from 'next/navigation';
+import { Breadcrumbs } from '@/components/Breadcrumbs';
 
 const iconMap: Record<string, any> = {
   Target,
@@ -27,6 +28,7 @@ export default function RolunkPage() {
     <>
       <section className="py-16 lg:py-24 bg-gradient-to-br from-background via-background to-muted">
         <div className="mx-auto max-w-7xl px-4 lg:px-8">
+          <Breadcrumbs items={[{ label: t('nav.about'), href: `/${locale}/rolunk` }]} />
           <div className="mx-auto max-w-3xl text-center mb-12">
             <h1 className="text-4xl font-bold tracking-tight sm:text-5xl mb-6">
               {t('aboutPage.title')}
@@ -58,6 +60,14 @@ export default function RolunkPage() {
                 {paragraph}
               </p>
             ))}
+            <div className="mt-8">
+              <Button asChild variant="outline" className="group">
+                <Link href={`/${locale}/szolgaltatasok`}>
+                  {t('nav.services')}
+                  <ArrowRight className="ml-2 h-4 w-4 transition-transform group-hover:translate-x-1" />
+                </Link>
+              </Button>
+            </div>
           </div>
         </div>
       </section>
