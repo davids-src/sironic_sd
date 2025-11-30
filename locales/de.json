@@ -116,6 +116,20 @@
           "Székesfehérvár"
         ],
         "ogImage": "/og/network-optimization-de.jpg"
+      },
+      "repairService": {
+        "title": "IT-Reparatur & Service - Laptop, PC, Server-Reparatur | SIRONIC",
+        "description": "Schnelle und zuverlässige IT-Reparaturen in Székesfehérvár. Professionelle Reparatur von Laptops, PCs, Servern und NAS-Geräten vor Ort oder per Post. Transparente Preise, Garantie.",
+        "keywords": [
+          "laptop reparatur",
+          "pc reparatur",
+          "computer reparatur székesfehérvár",
+          "server reparatur",
+          "nas reparatur",
+          "datenrettung",
+          "vor-ort-service"
+        ],
+        "ogImage": "/og/repair-service-de.jpg"
       }
     }
   },
@@ -1368,6 +1382,172 @@
       "title": "Bereit für ein stabiles und schnelles Netzwerk?",
       "description": "Fordern Sie eine kostenlose Netzwerkbewertung an und lassen Sie uns gemeinsam eine Infrastruktur aufbauen, die Ihr Geschäftswachstum unterstützt.",
       "button": "Kostenlose Netzwerkanalyse anfordern"
+    }
+  },
+  "repairService": {
+    "badge": "Reparatur & Service",
+    "title": "IT-Reparatur & Service – Vor Ort oder per Post",
+    "subtitle": "Schnelle, zuverlässige IT-Reparaturen – Laptops, PCs, Server, NAS-Geräte",
+    "description": "Professionelle Reparatur von Computern, Laptops, Servern und Netzwerkgeräten. Vor-Ort-Service in Székesfehérvár und Umgebung oder Einsendung per Post. Wir beginnen jede Reparatur mit einer Diagnose und erstellen transparente Angebote vor Arbeitsbeginn.",
+    "benefits": [
+      "Schnelle Diagnose und Fehlersuche",
+      "Vor-Ort- oder Postservice – wie es Ihnen passt",
+      "Transparentes Angebot vor der Reparatur",
+      "Professionelle Werkzeuge und Experten",
+      "Datensicherung und Virenentfernung",
+      "Garantie auf alle Reparaturen"
+    ],
+    "cards": {
+      "onsite": {
+        "title": "Vor-Ort-Service",
+        "description": "Wir kommen zu Ihnen nach Székesfehérvár und Umgebung und führen Reparaturen oder Diagnosen vor Ort durch."
+      },
+      "postal": {
+        "title": "Postzusendung",
+        "description": "Senden Sie uns Ihr Gerät per Post, wir reparieren es und senden es zurück – einfach und schnell."
+      }
+    },
+    "cta": {
+      "main": "Reparaturangebot anfordern",
+      "learnMore": "Mehr erfahren"
+    }
+  },
+  "repairServicePage": {
+    "breadcrumb": {
+      "repairService": "Reparatur & Service"
+    },
+    "hero": {
+      "title": "IT-Reparatur & Service – Laptops, PCs, Server, NAS-Geräte",
+      "subtitle": "Schnelle, zuverlässige IT-Reparaturen vor Ort oder per Post",
+      "description": "Professionelle Reparatur von Computern, Laptops, Servern und Netzwerkspeichergeräten. Vor-Ort-Service in Székesfehérvár und Umgebung oder Postversand. Transparente Angebote, schnelle Bearbeitung, Expertenservice.",
+      "cta": "Problem jetzt melden",
+      "scrollDown": "Nach unten scrollen für Details"
+    },
+    "services": {
+      "title": "Was reparieren wir?",
+      "subtitle": "Komplette IT-Gerätediagnose und -reparatur",
+      "items": [
+        {
+          "title": "Laptop-Reparatur & Wartung",
+          "description": "Bildschirmaustausch, Tastaturreparatur, Akkuaustausch, Kühlsystemreinigung, Komponenten-Upgrades."
+        },
+        {
+          "title": "Desktop-PC-Diagnose & Reparatur",
+          "description": "Hardware-Fehlersuche, Komponentenaustausch, Leistungsoptimierung, Systemreinigung und Wartung."
+        },
+        {
+          "title": "Server- & Geschäftsgerätereparatur",
+          "description": "Serverdiagnose, RAID-Konfigurationswiederherstellung, Hardwarereparatur und -wartung."
+        },
+        {
+          "title": "NAS & Speichergeräteservice",
+          "description": "Netzwerkspeicherdiagnose, Datensicherung, RAID-Wiederherstellung, Firmware-Updates."
+        },
+        {
+          "title": "Datensicherung & -wiederherstellung",
+          "description": "Wiederherstellung kritischer Daten von defekten Geräten, SSD/HDD-Datenrettung, Backup-Erstellung."
+        },
+        {
+          "title": "Virenentfernung & Systemoptimierung",
+          "description": "Viren- und Malware-Entfernung, Systembereinigung, Leistungssteigerung, Geschwindigkeitsoptimierung."
+        }
+      ]
+    },
+    "process": {
+      "title": "Wie funktioniert die Reparatur?",
+      "subtitle": "Einfacher und transparenter Prozess",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Problemmeldung",
+          "description": "Kontaktieren Sie uns per Telefon, E-Mail oder Formular. Wir besprechen das Problem und die Reparaturmethode."
+        },
+        {
+          "number": "2",
+          "title": "Diagnose & Angebot",
+          "description": "Vor Ort oder nach Einsendung untersuchen wir das Gerät, identifizieren den Fehler und erstellen ein transparentes Angebot."
+        },
+        {
+          "number": "3",
+          "title": "Reparatur nach Freigabe",
+          "description": "Nach Annahme des Angebots führen wir die Reparatur mit professionellen Werkzeugen und Teilen durch."
+        },
+        {
+          "number": "4",
+          "title": "Test & Übergabe",
+          "description": "Wir testen das reparierte Gerät gründlich und übergeben oder senden es per Post zurück. Garantie auf alle Reparaturen."
+        }
+      ]
+    },
+    "onsite": {
+      "title": "Vor-Ort-Service – Wir kommen zu Ihnen",
+      "description": "In Székesfehérvár und Umgebung führen wir Reparaturen oder Diagnosen vor Ort durch. Ideal für Büros, Unternehmen und alle, die das Gerät nicht transportieren können oder möchten.",
+      "benefits": [
+        "Schneller Service in Székesfehérvár und 30 km Umkreis",
+        "Diagnose und Reparatur vor Ort (wenn möglich)",
+        "Minimale Ausfallzeit – kein Gerätetransport nötig",
+        "Professionelle Werkzeuge und Teile vor Ort",
+        "Kann in Unternehmensumgebungen durchgeführt werden"
+      ]
+    },
+    "postal": {
+      "title": "Postservice – Bequem von zu Hause",
+      "description": "Wenn Sie weiter entfernt sind oder es einfach bequemer ist, senden Sie das Gerät per Post. Wir reparieren und senden es zurück. Wir bieten sichere Verpackungsrichtlinien.",
+      "benefits": [
+        "Bundesweite Abdeckung – von überall einsendbar",
+        "Detaillierte Verpackungsanleitung für Gerätesicherheit",
+        "Schnelle Bearbeitung – in der Regel 3-5 Werktage",
+        "Sichere Rücksendung per Kurierdienst",
+        "Laufende Updates zum Reparaturstatus"
+      ],
+      "howTo": "Schritte für Einsendung: 1) Kontaktieren Sie uns und beschreiben Sie das Problem. 2) Verpacken Sie das Gerät sicher (wir geben Anleitung). 3) Senden Sie es an die angegebene Adresse. 4) Wir diagnostizieren, senden Angebot und schicken nach Reparatur zurück."
+    },
+    "pricing": {
+      "title": "Was kostet eine Reparatur?",
+      "subtitle": "Transparente Preise – erst Diagnose, dann Angebot",
+      "description": "Wir beginnen jede Reparatur mit kostenloser Diagnose (vor Ort oder per Post). Das Angebot wird erst nach Untersuchung erstellt, damit Sie genau wissen, was Sie erwartet. Arbeit beginnt erst nach Ihrer Freigabe.",
+      "examples": [
+        "Laptop-Bildschirmwechsel: ab 65 € (abhängig vom Teil)",
+        "PC-Virenentfernung und -optimierung: ab 20 €",
+        "Datenwiederherstellung von defektem Gerät: ab 40 €",
+        "Serverdiagnose und -reparatur: individuelles Angebot"
+      ],
+      "note": "Preise sind Richtwerte, genaue Kosten werden immer nach Untersuchung festgelegt.",
+      "cta": "Kostenlose Diagnose anfordern"
+    },
+    "faq": {
+      "title": "Häufig gestellte Fragen",
+      "items": [
+        {
+          "question": "Wie lange dauert eine Reparatur?",
+          "answer": "Einfachere Reparaturen (z.B. Virenentfernung, Optimierung) dauern in der Regel 1-2 Werktage. Komplexere Fälle (z.B. Teiletausch, Datenrettung) können 3-5 Werktage in Anspruch nehmen. Wir bieten auch Express-Service für dringende Fälle."
+        },
+        {
+          "question": "Was ist, wenn das Gerät nicht repariert werden kann?",
+          "answer": "Wenn das Gerät nicht repariert werden kann oder die Reparatur unwirtschaftlich ist, informieren wir Sie sofort. In diesem Fall berechnen wir nur die Diagnose (normalerweise 8-13 €) und helfen bei der Beratung zum Neukauf."
+        },
+        {
+          "question": "Sind meine Daten während der Reparatur sicher?",
+          "answer": "Ja! Wir behandeln alle Geräte vertraulich. Datensicherung erfolgt nur mit Ihrer Zustimmung, und alle Daten werden nach der Reparatur sicher gelöscht (falls erforderlich)."
+        },
+        {
+          "question": "Gibt es Garantie auf Reparaturen?",
+          "answer": "Ja, wir bieten 30-90 Tage Garantie auf alle Reparaturen (je nach Reparaturtyp). Neue Teile haben auch Herstellergarantie."
+        },
+        {
+          "question": "Welches Gebiet decken Sie für Vor-Ort-Service ab?",
+          "answer": "Wir bieten Vor-Ort-Service in Székesfehérvár und 30 km Umkreis. Für weitere Gebiete arbeiten wir nach Vereinbarung oder per Postservice."
+        },
+        {
+          "question": "Wie soll ich das Gerät für die Einsendung verpacken?",
+          "answer": "Wir senden detaillierte Verpackungsanweisungen per E-Mail. Wichtig: Luftpolsterfolie verwenden, stabilen Karton nutzen und 'Zerbrechlich' markieren. Originalverpackung ist am besten, falls vorhanden."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Probleme mit Ihrem Gerät?",
+      "description": "Rufen Sie uns an oder senden Sie eine Nachricht, und wir reparieren es bald! Schnelle Diagnose, transparente Preise, zuverlässige Reparaturen.",
+      "button": "Problem jetzt melden"
     }
   }
 }

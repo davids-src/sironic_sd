@@ -119,6 +119,21 @@
           "Székesfehérvár"
         ],
         "ogImage": "/og/network-optimization-hu.jpg"
+      },
+      "repairService": {
+        "title": "Szerviz és Javítás - Laptop, PC, Szerver Javítás | SIRONIC",
+        "description": "Gyors és megbízható IT javítás Székesfehérváron. Laptop, PC, szerver és NAS eszközök szakszerű javítása helyszínen vagy postai beküldéssel. Átlátható árak, garancia.",
+        "keywords": [
+          "laptop javítás",
+          "pc javítás",
+          "szerviz székesfehérvár",
+          "számítógép javítás",
+          "nas javítás",
+          "adatmentés",
+          "vírusirtás",
+          "helyszíni szerviz"
+        ],
+        "ogImage": "/og/repair-service-hu.jpg"
       }
     }
   },
@@ -1357,6 +1372,172 @@
       "title": "Készen állsz egy stabil és gyors hálózatra?",
       "description": "Kérj ingyenes hálózati felmérést, és építsünk együtt egy olyan infrastruktúrát, amely támogatja a vállalkozásod növekedését.",
       "button": "Kérek ingyenes hálózati felmérést"
+    }
+  },
+  "repairService": {
+    "badge": "Szerviz és javítás",
+    "title": "Szerviz és javítás – helyszínen vagy postán",
+    "subtitle": "Gyors, megbízható IT javítás – laptopok, PC-k, szerverek, NAS eszközök",
+    "description": "Számítógépek, laptopok, szerverek és hálózati eszközök gyors és megbízható javítása. Helyszíni kiszállás Székesfehérváron és környékén, vagy eszközök postai úton történő beküldése. Minden javítást bevizsgálással kezdünk, árajánlat után csak a jóváhagyásod alapján dolgozunk.",
+    "benefits": [
+      "Gyors diagnosztika és hibaelhárítás",
+      "Helyszíni vagy postai szerviz – ahogy neked kényelmes",
+      "Átlátható árajánlat javítás előtt",
+      "Professzionális eszközök és szakértők",
+      "Adatmentés és vírusirtás",
+      "Garanciával minden javításra"
+    ],
+    "cards": {
+      "onsite": {
+        "title": "Helyszíni szerviz",
+        "description": "Kimegyünk hozzád Székesfehérvárra és környékére, és helyben elvégezzük a javítást vagy diagnosztikát."
+      },
+      "postal": {
+        "title": "Postai beküldés",
+        "description": "Küldd be postán az eszközödet, mi megjavítjuk és visszaküldjük – egyszerűen és gyorsan."
+      }
+    },
+    "cta": {
+      "main": "Kérj szerviz ajánlatot",
+      "learnMore": "További információ"
+    }
+  },
+  "repairServicePage": {
+    "breadcrumb": {
+      "repairService": "Szerviz és javítás"
+    },
+    "hero": {
+      "title": "Szerviz és javítás – laptopok, PC-k, szerverek, NAS eszközök",
+      "subtitle": "Gyors, megbízható IT javítás helyszínen vagy postai beküldéssel",
+      "description": "Számítógépek, laptopok, szerverek és hálózati eszközök professzionális javítása. Helyszíni kiszállás Székesfehérvárra és környékére, vagy eszközök postai úton történő beküldése. Átlátható árajánlat, gyors javítási idő, szakértői szolgáltatás.",
+      "cta": "Hibabejelentés most",
+      "scrollDown": "Görgess lejjebb a részletekért"
+    },
+    "services": {
+      "title": "Mit javítunk?",
+      "subtitle": "Teljes körű IT eszköz diagnosztika és javítás",
+      "items": [
+        {
+          "title": "Laptop javítás és karbantartás",
+          "description": "Képernyőcsere, billentyűzet javítás, akkumulátorcsere, hűtési rendszer tisztítás, alkatrész upgrade."
+        },
+        {
+          "title": "Asztali PC diagnosztika és javítás",
+          "description": "Hardver hibakeresés, alkatrészcsere, teljesítmény-optimalizálás, rendszertisztítás és karbantartás."
+        },
+        {
+          "title": "Szerver és üzleti eszközök javítása",
+          "description": "Szervergépek diagnosztikája, RAID konfiguráció helyreállítás, hardver javítás és karbantartás."
+        },
+        {
+          "title": "NAS és adattároló eszközök szervize",
+          "description": "Hálózati tárolók diagnosztikája, adatmentés, RAID helyreállítás, firmware frissítés."
+        },
+        {
+          "title": "Adatmentés és adatvisszaállítás",
+          "description": "Kritikus adatok mentése hibás eszközökről, SSD/HDD adatvisszaállítás, biztonsági másolatok készítése."
+        },
+        {
+          "title": "Vírusirtás és rendszeroptimalizálás",
+          "description": "Vírusok és malware eltávolítása, rendszertisztítás, teljesítményfokozás, sebességoptimalizálás."
+        }
+      ]
+    },
+    "process": {
+      "title": "Hogyan zajlik a javítás?",
+      "subtitle": "Egyszerű és átlátható folyamat",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Hibabejelentés",
+          "description": "Vedd fel velünk a kapcsolatot telefonon, e-mailben vagy az űrlapon keresztül. Megbeszéljük a problémát és a javítás módját."
+        },
+        {
+          "number": "2",
+          "title": "Diagnosztika és árajánlat",
+          "description": "Helyszínen vagy postai beküldés után megvizsgáljuk az eszközt, azonosítjuk a hibát és átlátható árajánlatot adunk."
+        },
+        {
+          "number": "3",
+          "title": "Javítás jóváhagyás után",
+          "description": "Az árajánlat elfogadása után elvégezzük a javítást professzionális eszközökkel és alkatrészekkel."
+        },
+        {
+          "number": "4",
+          "title": "Tesztelés és átadás",
+          "description": "Alaposan teszteljük a javított eszközt, majd átadjuk vagy visszaküldjük postán. Garanciát biztosítunk minden javításra."
+        }
+      ]
+    },
+    "onsite": {
+      "title": "Helyszíni szerviz – kiszállunk hozzád",
+      "description": "Székesfehérváron és környékén helyszíni kiszállással végezzük el a javítást vagy diagnosztikát. Ideális megoldás irodáknak, vállalkozásoknak és azoknak, akik nem tudják vagy nem szeretnék elszállítani az eszközt.",
+      "benefits": [
+        "Gyors kiszállás Székesfehérvárra és 30 km-es körzetbe",
+        "Helyben elvégzett diagnosztika és javítás (ha lehetséges)",
+        "Minimális üzemszünet – nem kell elvinni az eszközt",
+        "Professzionális eszközök és alkatrészek a helyszínen",
+        "Vállalati környezetben is elvégezhető"
+      ]
+    },
+    "postal": {
+      "title": "Postai beküldés – kényelmesen otthonról",
+      "description": "Ha távolabb vagy, vagy egyszerűen kényelmesebb számodra, küldd be az eszközt postán. Mi megjavítjuk és visszaküldjük. Biztonságos csomagolásra vonatkozó útmutatást biztosítunk.",
+      "benefits": [
+        "Országos elérhetőség – bárhonnan beküldheted",
+        "Részletes csomagolási útmutató az eszköz biztonságához",
+        "Gyors javítási idő – általában 3-5 munkanap",
+        "Biztonságos visszaküldés futárszolgálattal",
+        "Folyamatos tájékoztatás a javítás állásáról"
+      ],
+      "howTo": "Lépések a postai beküldéshez: 1) Vedd fel velünk a kapcsolatot és írd le a hibát. 2) Csomagold be biztonságosan az eszközt (útmutatást adunk). 3) Küldd el postán vagy futárral a megadott címre. 4) Mi diagnosztizáljuk, árajánlatot küldünk és javítás után visszaküldjük."
+    },
+    "pricing": {
+      "title": "Mennyibe kerül egy javítás?",
+      "subtitle": "Átlátható árak – először diagnosztika, majd árajánlat",
+      "description": "Minden javítást ingyenes diagnosztikával kezdünk (helyszíni vagy postai beküldés esetén). Az árajánlatot csak a vizsgálat után adjuk meg, így pontosan tudod, mire számíthatsz. Csak a jóváhagyásod után kezdünk el dolgozni.",
+      "examples": [
+        "Laptop képernyőcsere: 25.000 Ft-tól (alkatrésztől függően)",
+        "PC vírusirtás és optimalizálás: 8.000 Ft-tól",
+        "Adatmentés hibás eszközről: 15.000 Ft-tól",
+        "Szerver diagnosztika és javítás: egyedi árajánlat"
+      ],
+      "note": "Az árak tájékoztató jellegűek, a pontos költség mindig a vizsgálat után kerül meghatározásra.",
+      "cta": "Kérj ingyenes diagnósztikát"
+    },
+    "faq": {
+      "title": "Gyakran ismételt kérdések",
+      "items": [
+        {
+          "question": "Mennyi ideig tart egy javítás?",
+          "answer": "Egyszerűbb javítások (pl. vírusirtás, optimalizálás) általában 1-2 munkanap. Bonyolultabb esetek (pl. alkatrészcsere, adatmentés) 3-5 munkanapot vehetnek igénybe. Sürgős esetekben expressz szolgáltatást is kínálunk."
+        },
+        {
+          "question": "Mi van, ha nem javítható az eszköz?",
+          "answer": "Ha az eszköz nem javítható vagy gazdaságtalan a javítás, erről azonnal tájékoztatunk. Ebben az esetben csak a diagnosztika díját számítjuk fel (általában 3.000-5.000 Ft), és segítünk tanácsot adni az új eszköz beszerzésében."
+        },
+        {
+          "question": "Biztosítottak az adataim a javítás során?",
+          "answer": "Igen! Minden eszközt bizalmasan kezelünk. Adatmentést csak a jóváhagyásod után végzünk, és minden adatot biztonságosan törlünk a javítás után (ha szükséges)."
+        },
+        {
+          "question": "Van garancia a javításra?",
+          "answer": "Igen, minden elvégzett javításra 30-90 napos garanciát biztosítunk (a javítás típusától függően). Az új alkatrészekre a gyártói garancia is érvényes."
+        },
+        {
+          "question": "Milyen területre mentek ki helyszíni szervizzel?",
+          "answer": "Székesfehérvár és 30 km-es környezetére vállalunk helyszíni kiszállást. Távolabbi területekre egyedi megállapodás alapján, vagy postai beküldéssel dolgozunk."
+        },
+        {
+          "question": "Hogyan csomagoljam be az eszközt postai beküldéshez?",
+          "answer": "Részletes csomagolási útmutatót küldünk e-mailben. Fontos: használj buborékfóliát, stabil dobozt, és jelöld meg 'Törékeny' felirattal. Az eredeti csomagolás a legjobb, ha megvan."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Gond van az eszközöddel?",
+      "description": "Hívj minket vagy küldj üzenetet, és hamar rendbe hozzuk! Gyors diagnosztika, átlátható árak, megbízható javítás.",
+      "button": "Hibabejelentés most"
     }
   }
 }

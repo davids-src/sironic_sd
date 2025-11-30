@@ -117,6 +117,21 @@
           "Hungary"
         ],
         "ogImage": "/og/network-optimization-en.jpg"
+      },
+      "repairService": {
+        "title": "IT Repair & Service - Laptop, PC, Server Repair | SIRONIC",
+        "description": "Fast and reliable IT repairs in Székesfehérvár. Professional repair of laptops, PCs, servers and NAS devices on-site or mail-in. Transparent pricing, warranty.",
+        "keywords": [
+          "laptop repair",
+          "pc repair",
+          "computer repair székesfehérvár",
+          "server repair",
+          "nas repair",
+          "data recovery",
+          "virus removal",
+          "on-site repair"
+        ],
+        "ogImage": "/og/repair-service-en.jpg"
       }
     }
   },
@@ -1369,6 +1384,172 @@
       "title": "Ready for a Stable and Fast Network?",
       "description": "Request free network assessment, and let's build infrastructure together that supports your business growth.",
       "button": "Request Free Network Assessment"
+    }
+  },
+  "repairService": {
+    "badge": "Repair & Service",
+    "title": "IT Repair & Service – On-site or Mail-in",
+    "subtitle": "Fast, reliable IT repairs – laptops, PCs, servers, NAS devices",
+    "description": "Professional repair of computers, laptops, servers and network devices. On-site service in Székesfehérvár and surrounding areas, or mail-in service. We start every repair with diagnostics and provide transparent quotes before any work begins.",
+    "benefits": [
+      "Fast diagnostics and troubleshooting",
+      "On-site or mail-in service – whatever suits you",
+      "Transparent quote before repair",
+      "Professional tools and experts",
+      "Data backup and virus removal",
+      "Warranty on all repairs"
+    ],
+    "cards": {
+      "onsite": {
+        "title": "On-site service",
+        "description": "We come to you in Székesfehérvár and nearby areas to perform repairs or diagnostics on location."
+      },
+      "postal": {
+        "title": "Mail-in service",
+        "description": "Send us your device by mail, we'll repair it and send it back – simple and fast."
+      }
+    },
+    "cta": {
+      "main": "Request Repair Quote",
+      "learnMore": "Learn More"
+    }
+  },
+  "repairServicePage": {
+    "breadcrumb": {
+      "repairService": "Repair & Service"
+    },
+    "hero": {
+      "title": "IT Repair & Service – Laptops, PCs, Servers, NAS Devices",
+      "subtitle": "Fast, reliable IT repairs on-site or via mail-in",
+      "description": "Professional repair of computers, laptops, servers and network storage devices. On-site service in Székesfehérvár and surrounding areas, or mail-in option. Transparent quotes, fast turnaround, expert service.",
+      "cta": "Report Issue Now",
+      "scrollDown": "Scroll down for details"
+    },
+    "services": {
+      "title": "What Do We Repair?",
+      "subtitle": "Complete IT device diagnostics and repair",
+      "items": [
+        {
+          "title": "Laptop Repair & Maintenance",
+          "description": "Screen replacement, keyboard repair, battery replacement, cooling system cleaning, component upgrades."
+        },
+        {
+          "title": "Desktop PC Diagnostics & Repair",
+          "description": "Hardware troubleshooting, component replacement, performance optimization, system cleaning and maintenance."
+        },
+        {
+          "title": "Server & Business Equipment Repair",
+          "description": "Server diagnostics, RAID configuration recovery, hardware repair and maintenance."
+        },
+        {
+          "title": "NAS & Storage Device Service",
+          "description": "Network storage diagnostics, data backup, RAID recovery, firmware updates."
+        },
+        {
+          "title": "Data Backup & Recovery",
+          "description": "Critical data recovery from faulty devices, SSD/HDD data recovery, backup creation."
+        },
+        {
+          "title": "Virus Removal & System Optimization",
+          "description": "Virus and malware removal, system cleanup, performance boost, speed optimization."
+        }
+      ]
+    },
+    "process": {
+      "title": "How Does Repair Work?",
+      "subtitle": "Simple and transparent process",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Issue Report",
+          "description": "Contact us by phone, email or form. We'll discuss the problem and repair method."
+        },
+        {
+          "number": "2",
+          "title": "Diagnostics & Quote",
+          "description": "On-site or after mail-in, we examine the device, identify the fault and provide a transparent quote."
+        },
+        {
+          "number": "3",
+          "title": "Repair After Approval",
+          "description": "After accepting the quote, we perform the repair with professional tools and parts."
+        },
+        {
+          "number": "4",
+          "title": "Testing & Delivery",
+          "description": "We thoroughly test the repaired device, then hand it over or mail it back. Warranty on all repairs."
+        }
+      ]
+    },
+    "onsite": {
+      "title": "On-site Service – We Come to You",
+      "description": "In Székesfehérvár and surrounding areas, we perform repairs or diagnostics on location. Ideal for offices, businesses and those who can't or don't want to transport the device.",
+      "benefits": [
+        "Quick service to Székesfehérvár and 30 km radius",
+        "On-site diagnostics and repair (when possible)",
+        "Minimal downtime – no need to remove device",
+        "Professional tools and parts on location",
+        "Can be performed in corporate environments"
+      ]
+    },
+    "postal": {
+      "title": "Mail-in Service – Convenient from Home",
+      "description": "If you're farther away or simply prefer convenience, mail in your device. We'll repair and return it. We provide safe packaging guidelines.",
+      "benefits": [
+        "Nationwide coverage – send from anywhere",
+        "Detailed packaging guide for device safety",
+        "Fast turnaround – typically 3-5 business days",
+        "Secure return via courier service",
+        "Continuous updates on repair status"
+      ],
+      "howTo": "Steps for mail-in: 1) Contact us and describe the issue. 2) Package device safely (we provide guidelines). 3) Mail to provided address. 4) We diagnose, send quote and return after repair."
+    },
+    "pricing": {
+      "title": "How Much Does a Repair Cost?",
+      "subtitle": "Transparent pricing – diagnostics first, then quote",
+      "description": "We start every repair with free diagnostics (on-site or mail-in). Quote is provided only after examination, so you know exactly what to expect. Work begins only after your approval.",
+      "examples": [
+        "Laptop screen replacement: from €65 (depends on part)",
+        "PC virus removal and optimization: from €20",
+        "Data recovery from faulty device: from €40",
+        "Server diagnostics and repair: custom quote"
+      ],
+      "note": "Prices are indicative, exact cost is always determined after examination.",
+      "cta": "Request Free Diagnostics"
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "items": [
+        {
+          "question": "How long does a repair take?",
+          "answer": "Simpler repairs (e.g., virus removal, optimization) typically take 1-2 business days. Complex cases (e.g., part replacement, data recovery) may take 3-5 business days. We also offer express service for urgent cases."
+        },
+        {
+          "question": "What if the device can't be repaired?",
+          "answer": "If the device cannot be repaired or repair is uneconomical, we'll inform you immediately. In this case, we only charge for diagnostics (typically €8-13), and help advise on purchasing a new device."
+        },
+        {
+          "question": "Is my data safe during repair?",
+          "answer": "Yes! We treat all devices confidentially. Data backup is performed only with your approval, and all data is securely deleted after repair (if necessary)."
+        },
+        {
+          "question": "Is there warranty on repairs?",
+          "answer": "Yes, we provide 30-90 day warranty on all repairs (depending on repair type). New parts also come with manufacturer warranty."
+        },
+        {
+          "question": "What area do you cover for on-site service?",
+          "answer": "We provide on-site service to Székesfehérvár and 30 km radius. For farther areas, we work by special arrangement or mail-in service."
+        },
+        {
+          "question": "How should I package device for mail-in?",
+          "answer": "We send detailed packaging instructions by email. Important: use bubble wrap, sturdy box, and mark 'Fragile'. Original packaging is best if available."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Having Issues with Your Device?",
+      "description": "Call us or send a message, and we'll fix it soon! Fast diagnostics, transparent prices, reliable repairs.",
+      "button": "Report Issue Now"
     }
   }
 }

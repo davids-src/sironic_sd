@@ -116,6 +116,19 @@
           "Székesfehérvár"
         ],
         "ogImage": "/og/network-optimization-sk.jpg"
+      },
+      "repairService": {
+        "title": "IT servis a oprava - Notebook, PC, Server oprava | SIRONIC",
+        "description": "Rýchle a spoľahlivé IT opravy v Székesfehérvári. Profesionálna oprava notebookov, PC, serverov a NAS zariadení na mieste alebo poštou. Transparentné ceny, záruka.",
+        "keywords": [
+          "oprava notebookov",
+          "oprava pc",
+          "servis počítačov székesfehérvár",
+          "oprava serverov",
+          "oprava nas",
+          "obnovenie dát"
+        ],
+        "ogImage": "/og/repair-service-sk.jpg"
       }
     }
   },
@@ -1368,6 +1381,172 @@
       "title": "Pripravení na stabilnú a rýchlu sieť?",
       "description": "Vyžiadajte si bezplatné posúdenie siete a spoločne vybudujme infraštruktúru, ktorá podporí rast vašej firmy.",
       "button": "Vyžiadať bezplatnú analýzu siete"
+    }
+  },
+  "repairService": {
+    "badge": "Servis a oprava",
+    "title": "IT servis a oprava – na mieste alebo poštou",
+    "subtitle": "Rýchle, spoľahlivé IT opravy – notebooky, PC, servery, NAS zariadenia",
+    "description": "Profesionálna oprava počítačov, notebookov, serverov a sieťových zariadení. Servis na mieste v Székesfehérvári a okolí alebo zaslanie poštou. Každú opravu začíname diagnostikou a poskytujeme transparentné cenové ponuky pred začatím práce.",
+    "benefits": [
+      "Rýchla diagnostika a riešenie problémov",
+      "Servis na mieste alebo poštou – ako vám vyhovuje",
+      "Transparentná cenová ponuka pred opravou",
+      "Profesionálne nástroje a odborníci",
+      "Zálohovanie dát a odstránenie vírusov",
+      "Záruka na všetky opravy"
+    ],
+    "cards": {
+      "onsite": {
+        "title": "Servis na mieste",
+        "description": "Príde me k vám do Székesfehérváru a okolia a vykonáme opravy alebo diagnostiku na mieste."
+      },
+      "postal": {
+        "title": "Zaslanie poštou",
+        "description": "Pošlite nám svoje zariadenie poštou, my ho opravíme a pošleme späť – jednoducho a rýchlo."
+      }
+    },
+    "cta": {
+      "main": "Vyžiadať cenovú ponuku na servis",
+      "learnMore": "Viac informácií"
+    }
+  },
+  "repairServicePage": {
+    "breadcrumb": {
+      "repairService": "Servis a oprava"
+    },
+    "hero": {
+      "title": "IT servis a oprava – notebooky, PC, servery, NAS zariadenia",
+      "subtitle": "Rýchle, spoľahlivé IT opravy na mieste alebo poštou",
+      "description": "Profesionálna oprava počítačov, notebookov, serverov a sieťových úložísk. Servis na mieste v Székesfehérvári a okolí alebo poštové zaslanie. Transparentné cenové ponuky, rýchle vybavenie, odborný servis.",
+      "cta": "Nahlásiť problém teraz",
+      "scrollDown": "Posunúť sa nadol pre podrobnosti"
+    },
+    "services": {
+      "title": "Čo opravujeme?",
+      "subtitle": "Komplexná IT diagnostika a oprava zariadení",
+      "items": [
+        {
+          "title": "Oprava a údržba notebookov",
+          "description": "Výmena displeja, oprava klávesnice, výmena batérie, čistenie chladiaceho systému, upgrady komponentov."
+        },
+        {
+          "title": "Diagnostika a oprava stolových PC",
+          "description": "Vyhľadávanie hardvérových chýb, výmena komponentov, optimalizácia výkonu, čistenie a údržba systému."
+        },
+        {
+          "title": "Oprava serverov a firemných zariadení",
+          "description": "Diagnostika serverov, obnovenie RAID konfigurácie, hardvérová oprava a údržba."
+        },
+        {
+          "title": "Servis NAS a úložných zariadení",
+          "description": "Diagnostika sieťových úložísk, zálohovanie dát, obnovenie RAID, aktualizácie firmvéru."
+        },
+        {
+          "title": "Zálohovanie a obnovenie dát",
+          "description": "Obnovenie kritických dát z chybných zariadení, obnova dát z SSD/HDD, vytváranie záloh."
+        },
+        {
+          "title": "Odstránenie vírusov a optimalizácia systému",
+          "description": "Odstránenie vírusov a malvéru, vyčistenie systému, zvýšenie výkonu, optimalizácia rýchlosti."
+        }
+      ]
+    },
+    "process": {
+      "title": "Ako prebieha oprava?",
+      "subtitle": "Jednoduchý a transparentný proces",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Nahlásenie problému",
+          "description": "Kontaktujte nás telefonicky, e-mailom alebo cez formulár. Prediskutujeme problém a spôsob opravy."
+        },
+        {
+          "number": "2",
+          "title": "Diagnostika a cenová ponuka",
+          "description": "Na mieste alebo po zaslaní preskúmame zariadenie, identifikujeme chybu a poskytneme transparentnú cenovú ponuku."
+        },
+        {
+          "number": "3",
+          "title": "Oprava po schválení",
+          "description": "Po prijatí cenovej ponuky vykonáme opravu s profesionálnymi nástrojmi a dielmi."
+        },
+        {
+          "number": "4",
+          "title": "Testovanie a odovzdanie",
+          "description": "Dôkladne otestujeme opravené zariadenie a odovzdáme alebo pošleme späť poštou. Záruka na všetky opravy."
+        }
+      ]
+    },
+    "onsite": {
+      "title": "Servis na mieste – príde me k vám",
+      "description": "V Székesfehérvári a okolí vykonávame opravy alebo diagnostiku na mieste. Ideálne riešenie pre kancelárie, firmy a tých, ktorí nemôžu alebo nechcú zariadenie prepravovať.",
+      "benefits": [
+        "Rýchly servis do Székesfehérváru a 30 km okolia",
+        "Diagnostika a oprava na mieste (ak je to možné)",
+        "Minimálne prestoje – nie je potrebné odniesť zariadenie",
+        "Profesionálne nástroje a diely na mieste",
+        "Možné vykonať aj vo firemnom prostredí"
+      ]
+    },
+    "postal": {
+      "title": "Poštové zaslanie – pohodlne z domu",
+      "description": "Ak ste ďalej alebo je to pre vás pohodlnejšie, pošlite zariadenie poštou. My ho opravíme a pošleme späť. Poskytujeme pokyny na bezpečné balenie.",
+      "benefits": [
+        "Celoslovenská dostupnosť – pošlite odkiaľkoľvek",
+        "Podrobný návod na balenie pre bezpečnosť zariadenia",
+        "Rýchle vybavenie – zvyčajne 3-5 pracovných dní",
+        "Bezpečné vrátenie kuriérskou službou",
+        "Priebežné informácie o stave opravy"
+      ],
+      "howTo": "Kroky pre poštové zaslanie: 1) Kontaktujte nás a opíšte problém. 2) Zabaliť zariadenie bezpečne (poskytneme návod). 3) Poslať na uvedenú adresu poštou alebo kuriérom. 4) Diagnostikujeme, pošleme cenovú ponuku a po oprave vrátim."
+    },
+    "pricing": {
+      "title": "Koľko stojí oprava?",
+      "subtitle": "Transparentné ceny – najprv diagnostika, potom cenová ponuka",
+      "description": "Každú opravu začíname bezplatnou diagnostikou (na mieste alebo po zaslaní). Cenovú ponuku poskytneme až po vyšetrení, takže presne viete, čo očakávať. Práca začína až po vašom schválení.",
+      "examples": [
+        "Výmena displeja notebooku: od 65 € (závisí od dielu)",
+        "Odstránenie vírusov a optimalizácia PC: od 20 €",
+        "Obnovenie dát z chybného zariadenia: od 40 €",
+        "Diagnostika a oprava servera: individuálna cenová ponuka"
+      ],
+      "note": "Ceny sú orientačné, presná cena je vždy určená po vyšetrení.",
+      "cta": "Vyžiadať bezplatnú diagnostiku"
+    },
+    "faq": {
+      "title": "Často kladené otázky",
+      "items": [
+        {
+          "question": "Ako dlho trvá oprava?",
+          "answer": "Jednoduchšie opravy (napr. odstránenie vírusov, optimalizácia) zvyčajne trvajú 1-2 pracovné dni. Zložitejšie prípady (napr. výmena dielov, obnovenie dát) môžu trvať 3-5 pracovných dní. Ponúkame aj expresnú službu pre naliehavé prípady."
+        },
+        {
+          "question": "Čo ak sa zariadenie nedá opraviť?",
+          "answer": "Ak sa zariadenie nedá opraviť alebo je oprava neekonomická, okamžite vás informujeme. V tomto prípade účtujeme len diagnostiku (zvyčajne 8-13 €) a pomôžeme poradiť s nákupom nového zariadenia."
+        },
+        {
+          "question": "Sú moje dáta počas opravy v bezpečí?",
+          "answer": "Áno! Všetky zariadenia spracúvame dôverne. Zálohovanie dát vykonávame len s vaším súhlasom a všetky dáta bezpečne vymažeme po oprave (ak je to potrebné)."
+        },
+        {
+          "question": "Je na opravy záruka?",
+          "answer": "Áno, poskytujeme 30-90 dňovú záruku na všetky opravy (v závislosti od typu opravy). Nové diely majú aj výrobcovskú záruku."
+        },
+        {
+          "question": "Akú oblasť pokrývate servisom na mieste?",
+          "answer": "Servis na mieste poskytujeme do Székesfehérváru a 30 km okolia. Pre vzdialenejšie oblasti pracujeme na základe dohody alebo poštovým servisom."
+        },
+        {
+          "question": "Ako mám zabaliť zariadenie na poštové zaslanie?",
+          "answer": "Podrobný návod na balenie pošleme e-mailom. Dôležité: použite bublinkový obal, pevnú krabicu a označte 'Krehké'. Originálny obal je najlepší, ak ho máte."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Problémy so zariadením?",
+      "description": "Zavolajte nám alebo pošlite správu a čoskoro to opravíme! Rýchla diagnostika, transparentné ceny, spoľahlivé opravy.",
+      "button": "Nahlásiť problém teraz"
     }
   }
 }

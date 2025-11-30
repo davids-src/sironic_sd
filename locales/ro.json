@@ -116,6 +116,19 @@
           "Székesfehérvár"
         ],
         "ogImage": "/og/network-optimization-ro.jpg"
+      },
+      "repairService": {
+        "title": "Reparații IT & Service - Laptop, PC, Server | SIRONIC",
+        "description": "Reparații IT rapide și fiabile în Székesfehérvár. Reparații profesionale de laptopuri, PC-uri, servere și dispozitive NAS la fața locului sau prin poștă. Prețuri transparente, garanție.",
+        "keywords": [
+          "reparatii laptop",
+          "reparatii pc",
+          "reparatii calculatoare székesfehérvár",
+          "reparatii server",
+          "reparatii nas",
+          "recuperare date"
+        ],
+        "ogImage": "/og/repair-service-ro.jpg"
       }
     }
   },
@@ -1368,6 +1381,172 @@
       "title": "Pregătit pentru o rețea stabilă și rapidă?",
       "description": "Solicitați evaluare gratuită a rețelei și să construim împreună o infrastructură care să susțină creșterea afacerii dvs.",
       "button": "Solicitați evaluare gratuită a rețelei"
+    }
+  },
+  "repairService": {
+    "badge": "Reparații & Service",
+    "title": "Reparații IT & Service – la fața locului sau prin poștă",
+    "subtitle": "Reparații IT rapide și fiabile – laptopuri, PC-uri, servere, dispozitive NAS",
+    "description": "Reparații profesionale de computere, laptopuri, servere și dispozitive de rețea. Service la fața locului în Székesfehérvár și împrejurimi sau trimite prin poștă. Începem fiecare reparație cu diagnostic și oferim oferte transparente înainte de începerea lucrărilor.",
+    "benefits": [
+      "Diagnostic și depanare rapidă",
+      "Service la fața locului sau prin poștă – cum îți convine",
+      "Ofertă transparentă înainte de reparație",
+      "Instrumente profesionale și experți",
+      "Backup de date și eliminare viruși",
+      "Garanție la toate reparațiile"
+    ],
+    "cards": {
+      "onsite": {
+        "title": "Service la fața locului",
+        "description": "Venim la tine în Székesfehérvár și împrejurimi și efectuăm reparații sau diagnostic la fața locului."
+      },
+      "postal": {
+        "title": "Trimitere prin poștă",
+        "description": "Trimite-ne dispozitivul prin poștă, îl reparăm și îl trimitem înapoi – simplu și rapid."
+      }
+    },
+    "cta": {
+      "main": "Solicitați ofertă de reparație",
+      "learnMore": "Aflați mai mult"
+    }
+  },
+  "repairServicePage": {
+    "breadcrumb": {
+      "repairService": "Reparații & Service"
+    },
+    "hero": {
+      "title": "Reparații IT & Service – laptopuri, PC-uri, servere, dispozitive NAS",
+      "subtitle": "Reparații IT rapide și fiabile la fața locului sau prin poștă",
+      "description": "Reparații profesionale de computere, laptopuri, servere și dispozitive de stocare în rețea. Service la fața locului în Székesfehérvár și împrejurimi sau opțiune de trimitere prin poștă. Oferte transparente, timp rapid de execuție, service expert.",
+      "cta": "Raportați problema acum",
+      "scrollDown": "Derulați pentru detalii"
+    },
+    "services": {
+      "title": "Ce reparăm?",
+      "subtitle": "Diagnostic complet și reparații dispozitive IT",
+      "items": [
+        {
+          "title": "Reparații și întreținere laptopuri",
+          "description": "Înlocuire ecran, reparare tastatură, înlocuire baterie, curățare sistem răcire, upgrade componente."
+        },
+        {
+          "title": "Diagnostic și reparații PC desktop",
+          "description": "Depanare hardware, înlocuire componente, optimizare performanță, curățare și întreținere sistem."
+        },
+        {
+          "title": "Reparații servere și echipamente business",
+          "description": "Diagnostic servere, recuperare configurație RAID, reparații hardware și întreținere."
+        },
+        {
+          "title": "Service NAS și dispozitive de stocare",
+          "description": "Diagnostic stocare în rețea, backup date, recuperare RAID, actualizări firmware."
+        },
+        {
+          "title": "Backup și recuperare date",
+          "description": "Recuperare date critice de pe dispozitive defecte, recuperare date SSD/HDD, creare backup-uri."
+        },
+        {
+          "title": "Eliminare viruși și optimizare sistem",
+          "description": "Eliminare viruși și malware, curățare sistem, creștere performanță, optimizare viteză."
+        }
+      ]
+    },
+    "process": {
+      "title": "Cum funcționează reparația?",
+      "subtitle": "Proces simplu și transparent",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Raportare problemă",
+          "description": "Contactați-ne telefonic, prin e-mail sau formular. Discutăm problema și metoda de reparație."
+        },
+        {
+          "number": "2",
+          "title": "Diagnostic și ofertă",
+          "description": "La fața locului sau după trimitere, examinăm dispozitivul, identificăm defecțiunea și oferim ofertă transparentă."
+        },
+        {
+          "number": "3",
+          "title": "Reparație după aprobare",
+          "description": "După acceptarea ofertei, efectuăm reparația cu instrumente și piese profesionale."
+        },
+        {
+          "number": "4",
+          "title": "Testare și predare",
+          "description": "Testăm amănunțit dispozitivul reparat, apoi îl predăm sau trimitem prin poștă. Garanție la toate reparațiile."
+        }
+      ]
+    },
+    "onsite": {
+      "title": "Service la fața locului – venim la tine",
+      "description": "În Székesfehérvár și împrejurimi, efectuăm reparații sau diagnostic la fața locului. Soluție ideală pentru birouri, companii și cei care nu pot sau nu doresc să transporte dispozitivul.",
+      "benefits": [
+        "Service rapid în Székesfehérvár și rază de 30 km",
+        "Diagnostic și reparație la fața locului (când este posibil)",
+        "Timp de nefuncționare minim – nu este nevoie să scoți dispozitivul",
+        "Instrumente și piese profesionale la fața locului",
+        "Poate fi efectuat în medii corporative"
+      ]
+    },
+    "postal": {
+      "title": "Service prin poștă – convenabil de acasă",
+      "description": "Dacă ești mai departe sau pur și simplu preferi confortul, trimite dispozitivul prin poștă. Îl reparăm și îl trimitem înapoi. Oferim ghiduri pentru ambalare sigură.",
+      "benefits": [
+        "Acoperire națională – trimite de oriunde",
+        "Ghid detaliat de ambalare pentru siguranța dispozitivului",
+        "Timp rapid de execuție – de obicei 3-5 zile lucrătoare",
+        "Returnare sigură prin serviciu de curierat",
+        "Actualizări continue privind starea reparației"
+      ],
+      "howTo": "Pași pentru trimitere prin poștă: 1) Contactați-ne și descrieți problema. 2) Ambalați dispozitivul în siguranță (oferim ghid). 3) Trimiteți la adresa indicată. 4) Diagnosticăm, trimitem ofertă și returnăm după reparație."
+    },
+    "pricing": {
+      "title": "Cât costă o reparație?",
+      "subtitle": "Prețuri transparente – mai întâi diagnostic, apoi ofertă",
+      "description": "Începem fiecare reparație cu diagnostic gratuit (la fața locului sau prin poștă). Oferta este furnizată doar după examinare, astfel încât să știi exact la ce să te aștepți. Lucrările încep doar după aprobarea ta.",
+      "examples": [
+        "Înlocuire ecran laptop: de la 250 lei (depinde de piesă)",
+        "Eliminare viruși și optimizare PC: de la 80 lei",
+        "Recuperare date de pe dispozitiv defect: de la 150 lei",
+        "Diagnostic și reparație server: ofertă personalizată"
+      ],
+      "note": "Prețurile sunt orientative, costul exact este întotdeauna determinat după examinare.",
+      "cta": "Solicitați diagnostic gratuit"
+    },
+    "faq": {
+      "title": "Întrebări frecvente",
+      "items": [
+        {
+          "question": "Cât durează o reparație?",
+          "answer": "Reparațiile mai simple (de ex., eliminare viruși, optimizare) durează de obicei 1-2 zile lucrătoare. Cazurile complexe (de ex., înlocuire piese, recuperare date) pot dura 3-5 zile lucrătoare. Oferim și service express pentru cazuri urgente."
+        },
+        {
+          "question": "Ce se întâmplă dacă dispozitivul nu poate fi reparat?",
+          "answer": "Dacă dispozitivul nu poate fi reparat sau reparația este neeconomică, vă informăm imediat. În acest caz, percepe m doar diagnosticul (de obicei 30-50 lei) și ajutăm cu sfaturi pentru achiziționarea unui dispozitiv nou."
+        },
+        {
+          "question": "Sunt datele mele în siguranță în timpul reparației?",
+          "answer": "Da! Tratăm toate dispozitivele confidențial. Backup-ul datelor se efectuează doar cu aprobarea ta, iar toate datele sunt șterse în siguranță după reparație (dacă este necesar)."
+        },
+        {
+          "question": "Există garanție la reparații?",
+          "answer": "Da, oferim garanție de 30-90 zile la toate reparațiile (în funcție de tipul reparației). Piesele noi vin și cu garanție de la producător."
+        },
+        {
+          "question": "Ce zonă acoperiți pentru service la fața locului?",
+          "answer": "Oferim service la fața locului în Székesfehérvár și rază de 30 km. Pentru zone mai îndepărtate, lucrăm prin aranjament special sau service prin poștă."
+        },
+        {
+          "question": "Cum ar trebui să ambalez dispozitivul pentru trimitere prin poștă?",
+          "answer": "Trimitem instrucțiuni detaliate de ambalare prin e-mail. Important: folosește folie cu bule, cutie robustă și marchează 'Fragil'. Ambalajul original este cel mai bun, dacă îl ai."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Ai probleme cu dispozitivul?",
+      "description": "Sună-ne sau trimite un mesaj și îl reparăm curând! Diagnostic rapid, prețuri transparente, reparații fiabile.",
+      "button": "Raportează problema acum"
     }
   }
 }

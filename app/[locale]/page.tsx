@@ -8,6 +8,7 @@ import { MindenCegnekSection } from '@/components/MindenCegnekSection';
 import { CustomDevelopmentSection } from '@/components/CustomDevelopmentSection';
 import { NetworkOptimizationSection } from '@/components/NetworkOptimizationSection';
 import { ItTrainingSection } from '@/components/ItTrainingSection';
+import { RepairServiceSection } from '@/components/RepairServiceSection';
 import { OrganizationSchema } from '@/components/structured-data/OrganizationSchema';
 import { LocalBusinessSchema } from '@/components/structured-data/LocalBusinessSchema';
 import { Button } from '@/components/ui/button';
@@ -105,6 +106,8 @@ export default function HomePage() {
       <ItTrainingSection />
 
       <MindenCegnekSection />
+
+      <RepairServiceSection />
 
       <section id="miert-valassz-minket" className="py-24 bg-background">
         <div className="mx-auto max-w-7xl px-6 lg:px-8">
