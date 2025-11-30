@@ -100,6 +100,22 @@
           "bază de cunoștințe"
         ],
         "ogImage": "/og/blog-ro.jpg"
+      },
+      "networkOptimization": {
+        "title": "Rețea și Wi-Fi pentru afaceri: proiectare și instalare - SIRONIC",
+        "description": "Proiectare și implementare rețele de afaceri stabile, rapide și sigure. Sisteme Wi-Fi moderne, optimizare rețea și mentenanță completă pentru companii.",
+        "keywords": [
+          "rețea corporativă",
+          "instalare wifi",
+          "optimizare rețea",
+          "wifi enterprise",
+          "MikroTik",
+          "Ubiquiti",
+          "UniFi",
+          "securitate rețea",
+          "Székesfehérvár"
+        ],
+        "ogImage": "/og/network-optimization-ro.jpg"
       }
     }
   },
@@ -1167,6 +1183,191 @@
       "title": "Începeți Dezvoltarea Digitală a Echipei!",
       "description": "Solicitați o consultație gratuită și haideți să aflăm împreună ce training IT poate îmbunătăți eficiența și securitatea afacerii dumneavoastră.",
       "button": "Solicită Ofertă Training IT"
+    }
+  },
+  "networkOptimization": {
+    "badge": "Optimizare rețea",
+    "title": "Asigurați-vă că afacerea dvs. are internet și Wi-Fi stabile și rapide",
+    "subtitle": "Un Wi-Fi lent, o conexiune instabilă sau o rețea nesigură încetinează întreaga afacere. Proiectăm, optimizăm și menținem rețele moderne de nivel enterprise, astfel încât toate dispozitivele să funcționeze rapid, sigur și fiabil.",
+    "features": {
+      "wifi": {
+        "title": "Wi-Fi stabil cu acoperire mare pentru afaceri",
+        "description": "Puncte de acces moderne și proiectare rețea pentru a asigura un semnal Wi-Fi puternic în fiecare cameră – fără întreruperi."
+      },
+      "speed": {
+        "title": "Rețea rapidă și sigură pentru toate dispozitivele",
+        "description": "Lățime de bandă optimizată, separare VLAN și reglare performanță – fiecare dispozitiv funcționează fără probleme."
+      },
+      "reliability": {
+        "title": "Conexiune fiabilă — fără întreruperi",
+        "description": "Routere fiabile, echipamente de rețea de nivel business și monitorizare continuă – astfel încât rețeaua să fie întotdeauna accesibilă."
+      }
+    },
+    "cta": "Solicitați evaluarea rețelei"
+  },
+  "networkOptimizationPage": {
+    "breadcrumb": {
+      "home": "Acasă",
+      "networkOptimization": "Optimizare rețea"
+    },
+    "hero": {
+      "title": "Rețea și Wi-Fi pentru afaceri: proiectare, optimizare și mentenanță",
+      "subtitle": "Faceți rețeaua companiei dvs. stabilă, rapidă și sigură",
+      "description": "Dacă Wi-Fi-ul dvs. este lent, conexiunile cad sau rețeaua este nesigură, aceasta încetinește performanța întregii afaceri. SIRONIC proiectează, optimizează și menține rețele moderne de nivel business – astfel încât fiecare dispozitiv să funcționeze rapid, sigur și fiabil.",
+      "cta": "Solicitați evaluare gratuită a rețelei",
+      "scrollDown": "Derulați pentru detalii"
+    },
+    "problems": {
+      "title": "Probleme frecvente de rețea în companii",
+      "subtitle": "Sună familiar?",
+      "items": [
+        "Wi-Fi lent sau instabil la locul de muncă",
+        "Semnal slab și zone moarte în birou",
+        "Routere și puncte de acces învechite",
+        "Fără separare rețea oaspeți",
+        "Prea multe dispozitive pe o rețea – totul încetinește",
+        "Vulnerabilități de securitate și rețea neprotejată",
+        "Fără monitorizare sau plan de depanare"
+      ]
+    },
+    "services": {
+      "title": "Ce oferim?",
+      "subtitle": "Soluții complete de rețea pentru întreprinderi mici și mijlocii",
+      "items": [
+        {
+          "title": "Evaluare completă și diagnosticare rețea",
+          "description": "Evaluăm infrastructura actuală de rețea, identificăm problemele și sugerăm optimizări."
+        },
+        {
+          "title": "Cartografiere semnal Wi-Fi și analiză acoperire",
+          "description": "Proiectăm rețeaua Wi-Fi pentru a asigura semnal puternic în fiecare cameră – fără zone moarte."
+        },
+        {
+          "title": "Proiectare rețea corporativă nouă",
+          "description": "Construim rețele de nivel business de la zero, care sunt scalabile, rapide și sigure."
+        },
+        {
+          "title": "Instalare echipamente enterprise (MikroTik, Ubiquiti, UniFi)",
+          "description": "Selectare și instalare echipamente profesionale de rețea – routere, switch-uri, puncte de acces."
+        },
+        {
+          "title": "Cablare și upgrade-uri infrastructură",
+          "description": "Instalare cablare structurată, panouri patch, rack-uri server – infrastructură organizată și pregătită pentru viitor."
+        },
+        {
+          "title": "Configurare securitate, VLAN, firewall",
+          "description": "Segmentare rețea, rețele oaspeți, configurare firewall – păstrarea datelor în siguranță."
+        },
+        {
+          "title": "Monitorizare și management rețea",
+          "description": "Monitorizare continuă și mentenanță proactivă – cunoaștem și gestionăm problemele înainte să devină probleme."
+        }
+      ]
+    },
+    "technologies": {
+      "title": "Ce echipamente folosim?",
+      "subtitle": "Soluții de rețea fiabile pentru afaceri",
+      "list": [
+        "MikroTik – routere și switch-uri puternice, rentabile",
+        "Ubiquiti UniFi – sisteme Wi-Fi moderne, gestionabile",
+        "TP-Link Omada – echipamente de rețea pentru afaceri",
+        "Cisco și HPE – infrastructură la nivel enterprise",
+        "Configurare VLAN și firewall",
+        "VPN și acces la distanță",
+        "Monitorizare și analiză rețea"
+      ]
+    },
+    "benefits": {
+      "title": "De ce să investiți într-o rețea profesională?",
+      "subtitle": "Beneficii concrete care oferă rezultate măsurabile",
+      "list": [
+        "Lucru mai rapid – fără internet lent sau întreruperi",
+        "Operațiuni mai sigure – rețea protejată, Wi-Fi oaspeți separat",
+        "Mai puține opriri – monitorizare proactivă și depanare rapidă",
+        "Infrastructură scalabilă – rețeaua crește odată cu afacerea",
+        "Aspect profesional – conexiune stabilă și pentru clienți",
+        "Costuri reduse – mai puțin timp pierdut și mai puține reparații"
+      ]
+    },
+    "process": {
+      "title": "Cum lucrăm?",
+      "subtitle": "Proces transparent – pas cu pas",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Evaluare rețea și consultanță",
+          "description": "Aflăm despre birou, rețeaua actuală și necesități. Identificăm probleme și oportunități."
+        },
+        {
+          "number": "2",
+          "title": "Proiectare rețea și ofertă",
+          "description": "Creăm plan complet de rețea, analiză acoperire Wi-Fi și listă echipamente. Ofertă preț fix."
+        },
+        {
+          "number": "3",
+          "title": "Instalare și configurare",
+          "description": "Implementăm rețeaua, instalăm echipamentele, configurăm elementele de securitate. Tot testat și documentat."
+        },
+        {
+          "number": "4",
+          "title": "Testare și predare",
+          "description": "Testare amănunțită pe fiecare dispozitiv, măsurare viteză, verificare acoperire. Livrare instruire și documentație."
+        },
+        {
+          "number": "5",
+          "title": "Monitorizare și mentenanță",
+          "description": "Supraveghere continuă, rapoarte lunare, mentenanță proactivă. Întotdeauna disponibil când aveți nevoie de ajutor."
+        }
+      ]
+    },
+    "useCases": {
+      "title": "Pentru cine recomandăm?",
+      "subtitle": "Orice afacere care are nevoie de o rețea stabilă",
+      "examples": [
+        "Birouri și întreprinderi mici – 5-50 angajați",
+        "Locații ospitalitate – Wi-Fi rapid și stabil pentru oaspeți",
+        "Clinici și cabinete medicale – rețea medicală sigură",
+        "Depozite și centre logistice – rețea industrială robustă",
+        "Instituții educaționale – Wi-Fi cu capacitate mare",
+        "Unități retail – sistem POS rapid și camere IP"
+      ]
+    },
+    "pricing": {
+      "title": "Cât costă configurarea unei rețele de afaceri?",
+      "subtitle": "Fiecare proiect este unic – determinăm prețul pe bază de necesități",
+      "description": "Un sistem Wi-Fi de birou de bază începe de la aprox. 400 € (1-2 puncte de acces, router, configurare). Pentru rețele mai mari – mai multe dispozitive, cablare structurată, monitorizare – așteptați-vă de la 1.200 €+. Solicitați evaluare gratuită și ofertă exactă!",
+      "process": "Evaluarea gratuită la fața locului analizează necesitățile rețelei, creăm plan și oferim ofertă transparentă cu preț fix.",
+      "cta": "Solicitați ofertă gratuită"
+    },
+    "faq": {
+      "title": "Întrebări frecvente",
+      "items": [
+        {
+          "question": "Cât durează configurarea rețelei?",
+          "answer": "Un sistem Wi-Fi simplu de birou durează 1-2 zile, în timp ce o rețea corporativă complexă pe mai multe etaje poate dura 1-2 săptămâni."
+        },
+        {
+          "question": "Ce mărci recomandați?",
+          "answer": "Lucrăm în principal cu echipamente MikroTik, Ubiquiti UniFi și TP-Link Omada – fiabile, rentabile și potrivite pentru uz comercial."
+        },
+        {
+          "question": "Cine va deține rețeaua?",
+          "answer": "Dvs.! Toate echipamentele și configurația aparțin companiei dvs., fără dependențe ascunse sau taxe de licență."
+        },
+        {
+          "question": "Dar cu mentenanța?",
+          "answer": "Oferim și pachete de mentenanță – monitorizare continuă, actualizări regulate și depanare rapidă în abonament lunar."
+        },
+        {
+          "question": "Puteți optimiza rețelele existente?",
+          "answer": "Da! Nu trebuie să înlocuiți totul – adesea o configurație bună, un punct de acces suplimentar sau un upgrade router este suficient."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Pregătit pentru o rețea stabilă și rapidă?",
+      "description": "Solicitați evaluare gratuită a rețelei și să construim împreună o infrastructură care să susțină creșterea afacerii dvs.",
+      "button": "Solicitați evaluare gratuită a rețelei"
     }
   }
 }

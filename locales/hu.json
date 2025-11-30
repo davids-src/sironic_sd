@@ -102,6 +102,23 @@
           "tudástár"
         ],
         "ogImage": "/og/blog-hu.jpg"
+      },
+      "networkOptimization": {
+        "title": "Vállalati Hálózat és Wi-Fi Kiépítés - SIRONIC Rendszerház",
+        "description": "Stabil, gyors és biztonságos vállalati hálózatok tervezése és kiépítése. Modern Wi-Fi rendszerek, hálózatoptimalizálás és teljes körű karbantartás cégeknek.",
+        "keywords": [
+          "vállalati hálózat",
+          "wifi kiépítés",
+          "hálózatfejlesztés",
+          "hálózatoptimalizálás",
+          "vállalati wifi",
+          "MikroTik",
+          "Ubiquiti",
+          "UniFi",
+          "hálózati biztonság",
+          "Székesfehérvár"
+        ],
+        "ogImage": "/og/network-optimization-hu.jpg"
       }
     }
   },
@@ -917,6 +934,26 @@
       "button": "Kérek ingyenes konzultációt"
     }
   },
+  "networkOptimization": {
+    "badge": "Hálózatfejlesztés",
+    "title": "Legyen végre stabil és gyors a vállalkozásod internet- és Wi-Fi hálózata",
+    "subtitle": "Ha lassú a Wi-Fi, szakadozik a kapcsolat vagy bizonytalan a hálózat, az az egész céged munkáját visszafogja. Mi modern, üzleti szintű vállalati hálózatot tervezünk, optimalizálunk és tartunk karban — hogy minden eszköz gyorsan, biztonságosan és megbízhatóan működjön.",
+    "features": {
+      "wifi": {
+        "title": "Stabil, nagy lefedettségű vállalati Wi-Fi rendszer",
+        "description": "Modern access pointok és hálózattervezés, hogy a Wi-Fi minden helyiségben erős legyen – szakadozás nélkül."
+      },
+      "speed": {
+        "title": "Gyors és biztonságos hálózat minden eszközre",
+        "description": "Optimalizált sávszélesség, VLAN szeparáció, és teljesítményhangolás – minden eszköz gördülékenyen működik."
+      },
+      "reliability": {
+        "title": "Problémamentes internetkapcsolat — szakadozás nélkül",
+        "description": "Megbízható routerek, üzleti szintű hálózati eszközök és folyamatos monitorozás – hogy a hálózat mindig elérhető legyen."
+      }
+    },
+    "cta": "Kérj hálózati felmérést"
+  },
   "itTraining": {
     "badge": "IT oktatás és képzés",
     "title": "IT oktatás és vállalati tudásfejlesztés",
@@ -1155,6 +1192,171 @@
       "title": "Indítsuk el a csapatod digitális fejlesztését!",
       "description": "Kérj ingyenes konzultációt, és találjuk meg együtt, milyen IT képzésekkel fejlesztheted a vállalkozásod hatékonyságát és biztonságát.",
       "button": "Kérek ajánlatot IT képzésre"
+    }
+  },
+  "networkOptimizationPage": {
+    "breadcrumb": {
+      "home": "Főoldal",
+      "networkOptimization": "Hálózatfejlesztés"
+    },
+    "hero": {
+      "title": "Vállalati hálózat és Wi-Fi kiépítés, optimalizálás és karbantartás",
+      "subtitle": "Legyen stabil, gyors és biztonságos a céged hálózata",
+      "description": "Ha lassú a Wi-Fi, szakadozik a kapcsolat vagy bizonytalan a hálózat, az az egész vállalkozásod teljesítményét visszafogja. A SIRONIC modern, üzleti szintű hálózatokat tervez, optimalizál és tart karban – hogy minden eszköz gyorsan, biztonságosan és megbízhatóan működjön.",
+      "cta": "Kérj ingyenes hálózati felmérést",
+      "scrollDown": "Görgess lejjebb a részletekért"
+    },
+    "problems": {
+      "title": "Gyakori problémák, amelyekkel a cégek küzdenek",
+      "subtitle": "Ismerős bármelyik?",
+      "items": [
+        "Lassú vagy szakadozó Wi-Fi a munkahelyen",
+        "Gyenge jel és holt terek az irodában",
+        "Elavult routerek és access pointok",
+        "Nincs vendég hálózati szeparáció",
+        "Túl sok eszköz egy hálózaton – lassul minden",
+        "Biztonsági rések és védtelen hálózat",
+        "Nincs monitoring vagy hibaelhárítási terv"
+      ]
+    },
+    "services": {
+      "title": "Mit nyújtunk?",
+      "subtitle": "Teljes körű hálózati megoldások kis- és középvállalkozásoknak",
+      "items": [
+        {
+          "title": "Teljes hálózati felmérés és diagnosztika",
+          "description": "Felmérjük a jelenlegi hálózati infrastruktúrát, azonosítjuk a problémákat és javaslatot teszünk az optimalizálásra."
+        },
+        {
+          "title": "Wi-Fi jelterv és lefedettségi elemzés",
+          "description": "Megtervezzük a Wi-Fi hálózatot, hogy minden helyiségben erős legyen a jel – holt terek nélkül."
+        },
+        {
+          "title": "Új vállalati hálózat megtervezése",
+          "description": "Nulláról építünk üzleti szintű hálózatot, amely skálázható, gyors és biztonságos."
+        },
+        {
+          "title": "Üzleti eszközök telepítése (MikroTik, Ubiquiti, UniFi)",
+          "description": "Professzionális hálózati eszközök kiválasztása és telepítése – routerek, switchek, access pointok."
+        },
+        {
+          "title": "Kábelezés és infrastruktúra fejlesztés",
+          "description": "Strukturált kábelezés kiépítése, patch panelek, szerverszekrények – rendezett és jövőálló infrastruktúra."
+        },
+        {
+          "title": "Biztonsági beállítások, VLAN, tűzfal",
+          "description": "Hálózati szegmentálás, vendég hálózatok, tűzfal konfiguráció – hogy az adataid biztonságban legyenek."
+        },
+        {
+          "title": "Hálózatfelügyelet és monitoring",
+          "description": "Folyamatos monitoring és proaktív karbantartás – mielőtt bármi probléma lenne, már tudjuk és kezeljük."
+        }
+      ]
+    },
+    "technologies": {
+      "title": "Milyen eszközökkel dolgozunk?",
+      "subtitle": "Megbízható, üzleti szintű hálózati megoldások",
+      "list": [
+        "MikroTik – erős, költséghatékony routerek és switchek",
+        "Ubiquiti UniFi – modern, menedzselhető Wi-Fi rendszerek",
+        "TP-Link Omada – üzleti szintű hálózati eszközök",
+        "Cisco és HPE – vállalati szintű infrastruktúra",
+        "VLAN és tűzfal konfiguráció",
+        "VPN és távoli hozzáférés",
+        "Hálózati monitoring és analitika"
+      ]
+    },
+    "benefits": {
+      "title": "Miért éri meg egy profi hálózatba fektetni?",
+      "subtitle": "Konkrét előnyök, amelyek mérhető eredményt hoznak",
+      "list": [
+        "Gyorsabb munkavégzés – nincs lassú internet vagy szakadozás",
+        "Biztonságosabb működés – védett hálózat, szeparált vendég Wi-Fi",
+        "Kevesebb leállás – proaktív monitoring és gyors hibaelhárítás",
+        "Skálázható infrastruktúra – a hálózat nő a vállalkozásoddal",
+        "Professzionális megjelenés – ügyfelek számára is stabil kapcsolat",
+        "Csökkentett költségek – kevesebb időveszteség és kevesebb hibajavítás"
+      ]
+    },
+    "process": {
+      "title": "Hogyan dolgozunk?",
+      "subtitle": "Átlátható folyamat – lépésről lépésre",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Hálózati felmérés és konzultáció",
+          "description": "Megismerjük az irodát, a jelenlegi hálózatot és az igényeket. Azonosítjuk a problémákat és lehetőségeket."
+        },
+        {
+          "number": "2",
+          "title": "Hálózattervezés és ajánlat",
+          "description": "Elkészítjük a teljes hálózati tervet, Wi-Fi lefedettségi elemzést és eszközlistát. Fix árajánlatot adunk."
+        },
+        {
+          "number": "3",
+          "title": "Telepítés és konfiguráció",
+          "description": "Kiépítjük a hálózatot, telepítjük az eszközöket, beállítjuk a biztonsági elemeket. Minden tesztelve és dokumentálva."
+        },
+        {
+          "number": "4",
+          "title": "Tesztelés és átadás",
+          "description": "Alapos tesztelés minden eszközön, sebesség mérése, lefedettség ellenőrzése. Betanítás és dokumentáció átadása."
+        },
+        {
+          "number": "5",
+          "title": "Monitoring és karbantartás",
+          "description": "Folyamatos felügyelet, havi riportok, proaktív karbantartás. Mindig elérhető vagy, ha segítség kell."
+        }
+      ]
+    },
+    "useCases": {
+      "title": "Kiknek ajánljuk?",
+      "subtitle": "Minden vállalkozásnak, ahol stabil hálózatra van szükség",
+      "examples": [
+        "Irodák és kisvállalkozások – 5-50 munkatárs",
+        "Vendéglátóhelyek – gyors és stabil vendég Wi-Fi",
+        "Rendelők és klinikák – biztonságos orvosi hálózat",
+        "Raktárak és logisztikai központok – robosztus ipari hálózat",
+        "Oktatási intézmények – nagy kapacitású Wi-Fi",
+        "Kereskedelmi egységek – gyors kasszarendszer és IP kamerák"
+      ]
+    },
+    "pricing": {
+      "title": "Mennyibe kerül egy vállalati hálózat kiépítése?",
+      "subtitle": "Minden projekt egyedi – az árat mindig az igények alapján állapítjuk meg",
+      "description": "Egy alapvető irodai Wi-Fi rendszer kb. 150.000 Ft-tól indul (1-2 access point, router, konfiguráció). Nagyobb hálózatok esetén – több eszköz, strukturált kábelezés, monitoring – 500.000 Ft-tól lehet számolni. Kérj ingyenes felmérést és pontos árajánlatot!",
+      "process": "Ingyenes helyszíni felmérésen elemezzük a hálózati igényeket, elkészítjük a tervet és átlátható, fix árajánlatot adunk.",
+      "cta": "Kérj ingyenes árajánlatot"
+    },
+    "faq": {
+      "title": "Gyakran ismételt kérdések",
+      "items": [
+        {
+          "question": "Mennyi idő egy hálózat kiépítése?",
+          "answer": "Egy egyszerűbb irodai Wi-Fi rendszer 1-2 nap alatt elkészül, míg egy komplex, többszintes vállalati hálózat akár 1-2 hetet is igénybe vehet."
+        },
+        {
+          "question": "Milyen márkákat ajánlotok?",
+          "answer": "Elsősorban MikroTik, Ubiquiti UniFi és TP-Link Omada eszközökkel dolgozunk – megbízhatóak, költséghatékonyak és üzleti szinten használhatók."
+        },
+        {
+          "question": "Ki lesz a hálózat tulajdonosa?",
+          "answer": "Te leszel! Minden eszköz és konfiguráció a céged tulajdona, nincs rejtett függőség vagy licencdíj."
+        },
+        {
+          "question": "Mi van a karbantartással?",
+          "answer": "Karbantartási csomagot is kínálunk – folyamatos monitoring, rendszeres frissítések és gyors hibaelhárítás havidíjas konstrukcióban."
+        },
+        {
+          "question": "Tudtok meglévő hálózatot optimalizálni?",
+          "answer": "Igen! Nem kell mindent lecserélni – sokszor elég egy jó konfiguráció, egy extra access point vagy egy router frissítés."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Készen állsz egy stabil és gyors hálózatra?",
+      "description": "Kérj ingyenes hálózati felmérést, és építsünk együtt egy olyan infrastruktúrát, amely támogatja a vállalkozásod növekedését.",
+      "button": "Kérek ingyenes hálózati felmérést"
     }
   }
 }

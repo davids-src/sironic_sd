@@ -100,6 +100,23 @@
           "knowledge base"
         ],
         "ogImage": "/og/blog-en.jpg"
+      },
+      "networkOptimization": {
+        "title": "Business Network & Wi-Fi Setup - SIRONIC IT Solutions",
+        "description": "Design and deployment of stable, fast and secure business networks. Modern Wi-Fi systems, network optimization and comprehensive maintenance for companies.",
+        "keywords": [
+          "business network",
+          "wifi setup",
+          "network optimization",
+          "enterprise wifi",
+          "MikroTik",
+          "Ubiquiti",
+          "UniFi",
+          "network security",
+          "Székesfehérvár",
+          "Hungary"
+        ],
+        "ogImage": "/og/network-optimization-en.jpg"
       }
     }
   },
@@ -1167,6 +1184,191 @@
       "title": "Start Your Team's Digital Development!",
       "description": "Request a free consultation, and let's find out together what IT training can improve your business efficiency and security.",
       "button": "Request IT Training Quote"
+    }
+  },
+  "networkOptimization": {
+    "badge": "Network Optimization",
+    "title": "Ensure Your Business Has Stable and Fast Internet & Wi-Fi",
+    "subtitle": "Slow Wi-Fi, unstable connection or an unreliable network slows down your entire business. We design, optimize and maintain modern, enterprise-grade network infrastructures so every device runs fast, secure and reliably.",
+    "features": {
+      "wifi": {
+        "title": "Stable, high-coverage business Wi-Fi",
+        "description": "Modern access points and network design to ensure strong Wi-Fi signal in every room – without dropouts."
+      },
+      "speed": {
+        "title": "Fast and secure network for all devices",
+        "description": "Optimized bandwidth, VLAN separation, and performance tuning – every device works smoothly."
+      },
+      "reliability": {
+        "title": "Reliable connection — no dropouts",
+        "description": "Dependable routers, business-grade network equipment and continuous monitoring – so your network is always accessible."
+      }
+    },
+    "cta": "Request Network Assessment"
+  },
+  "networkOptimizationPage": {
+    "breadcrumb": {
+      "home": "Home",
+      "networkOptimization": "Network Optimization"
+    },
+    "hero": {
+      "title": "Business Network & Wi-Fi Design, Optimization and Maintenance",
+      "subtitle": "Make your company's network stable, fast and secure",
+      "description": "If your Wi-Fi is slow, connections drop, or the network is unreliable, it holds back your entire business performance. SIRONIC designs, optimizes and maintains modern, business-grade networks – so every device operates quickly, securely and reliably.",
+      "cta": "Request Free Network Assessment",
+      "scrollDown": "Scroll down for details"
+    },
+    "problems": {
+      "title": "Common Network Issues Businesses Face",
+      "subtitle": "Sound familiar?",
+      "items": [
+        "Slow or unstable Wi-Fi at work",
+        "Weak signal and dead zones in the office",
+        "Outdated routers and access points",
+        "No guest network separation",
+        "Too many devices on one network – everything slows down",
+        "Security vulnerabilities and unprotected network",
+        "No monitoring or troubleshooting plan"
+      ]
+    },
+    "services": {
+      "title": "What We Provide",
+      "subtitle": "Complete network solutions for small and medium-sized businesses",
+      "items": [
+        {
+          "title": "Full network assessment and diagnostics",
+          "description": "We evaluate your current network infrastructure, identify problems and suggest optimizations."
+        },
+        {
+          "title": "Wi-Fi signal mapping and coverage analysis",
+          "description": "We design the Wi-Fi network to ensure strong signal in every room – no dead zones."
+        },
+        {
+          "title": "New corporate network design",
+          "description": "We build business-grade networks from scratch that are scalable, fast and secure."
+        },
+        {
+          "title": "Enterprise hardware installation (MikroTik, Ubiquiti, UniFi)",
+          "description": "Professional network equipment selection and installation – routers, switches, access points."
+        },
+        {
+          "title": "Cabling and infrastructure upgrades",
+          "description": "Structured cabling installation, patch panels, server racks – organized and future-proof infrastructure."
+        },
+        {
+          "title": "Security, VLAN, firewall setup",
+          "description": "Network segmentation, guest networks, firewall configuration – keeping your data secure."
+        },
+        {
+          "title": "Network monitoring and management",
+          "description": "Continuous monitoring and proactive maintenance – we know and handle issues before they become problems."
+        }
+      ]
+    },
+    "technologies": {
+      "title": "What Equipment Do We Use?",
+      "subtitle": "Reliable, business-grade network solutions",
+      "list": [
+        "MikroTik – powerful, cost-effective routers and switches",
+        "Ubiquiti UniFi – modern, manageable Wi-Fi systems",
+        "TP-Link Omada – business-grade network equipment",
+        "Cisco and HPE – enterprise-level infrastructure",
+        "VLAN and firewall configuration",
+        "VPN and remote access",
+        "Network monitoring and analytics"
+      ]
+    },
+    "benefits": {
+      "title": "Why Invest in a Professional Network?",
+      "subtitle": "Concrete benefits that deliver measurable results",
+      "list": [
+        "Faster work – no slow internet or dropouts",
+        "Safer operations – protected network, separated guest Wi-Fi",
+        "Less downtime – proactive monitoring and quick troubleshooting",
+        "Scalable infrastructure – the network grows with your business",
+        "Professional appearance – stable connection for clients too",
+        "Reduced costs – less time wasted and fewer repairs"
+      ]
+    },
+    "process": {
+      "title": "How Do We Work?",
+      "subtitle": "Transparent process – step by step",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Network assessment and consultation",
+          "description": "We learn about the office, current network and needs. We identify problems and opportunities."
+        },
+        {
+          "number": "2",
+          "title": "Network design and quote",
+          "description": "We create complete network plan, Wi-Fi coverage analysis and equipment list. Fixed price quote."
+        },
+        {
+          "number": "3",
+          "title": "Installation and configuration",
+          "description": "We deploy the network, install equipment, configure security elements. Everything tested and documented."
+        },
+        {
+          "number": "4",
+          "title": "Testing and handover",
+          "description": "Thorough testing on every device, speed measurement, coverage verification. Training and documentation delivery."
+        },
+        {
+          "number": "5",
+          "title": "Monitoring and maintenance",
+          "description": "Continuous supervision, monthly reports, proactive maintenance. Always available when you need help."
+        }
+      ]
+    },
+    "useCases": {
+      "title": "Who Do We Recommend It For?",
+      "subtitle": "Every business that needs a stable network",
+      "examples": [
+        "Offices and small businesses – 5-50 employees",
+        "Hospitality venues – fast and stable guest Wi-Fi",
+        "Clinics and medical offices – secure medical network",
+        "Warehouses and logistics centers – robust industrial network",
+        "Educational institutions – high-capacity Wi-Fi",
+        "Retail units – fast POS system and IP cameras"
+      ]
+    },
+    "pricing": {
+      "title": "How Much Does Business Network Setup Cost?",
+      "subtitle": "Every project is unique – we determine price based on needs",
+      "description": "A basic office Wi-Fi system starts from approx. €400 (1-2 access points, router, configuration). For larger networks – more devices, structured cabling, monitoring – expect from €1,200+. Request free assessment and exact quote!",
+      "process": "Free on-site assessment analyzes network needs, we create plan and provide transparent, fixed-price quote.",
+      "cta": "Request Free Quote"
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "items": [
+        {
+          "question": "How long does network setup take?",
+          "answer": "A simple office Wi-Fi system takes 1-2 days, while a complex, multi-floor corporate network can take 1-2 weeks."
+        },
+        {
+          "question": "What brands do you recommend?",
+          "answer": "We primarily work with MikroTik, Ubiquiti UniFi and TP-Link Omada equipment – reliable, cost-effective and suitable for business use."
+        },
+        {
+          "question": "Who will own the network?",
+          "answer": "You will! All equipment and configuration belongs to your company, no hidden dependencies or license fees."
+        },
+        {
+          "question": "What about maintenance?",
+          "answer": "We also offer maintenance packages – continuous monitoring, regular updates and quick troubleshooting in monthly subscription."
+        },
+        {
+          "question": "Can you optimize existing networks?",
+          "answer": "Yes! You don't have to replace everything – often a good configuration, an extra access point or router upgrade is enough."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Ready for a Stable and Fast Network?",
+      "description": "Request free network assessment, and let's build infrastructure together that supports your business growth.",
+      "button": "Request Free Network Assessment"
     }
   }
 }

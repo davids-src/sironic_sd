@@ -6,6 +6,7 @@ import { Testimonial } from '@/components/Testimonial';
 import { FaqSection } from '@/components/FaqSection';
 import { MindenCegnekSection } from '@/components/MindenCegnekSection';
 import { CustomDevelopmentSection } from '@/components/CustomDevelopmentSection';
+import { NetworkOptimizationSection } from '@/components/NetworkOptimizationSection';
 import { ItTrainingSection } from '@/components/ItTrainingSection';
 import { OrganizationSchema } from '@/components/structured-data/OrganizationSchema';
 import { LocalBusinessSchema } from '@/components/structured-data/LocalBusinessSchema';
@@ -98,6 +99,8 @@ export default function HomePage() {
       </section>
 
       <CustomDevelopmentSection />
+
+      <NetworkOptimizationSection />
 
       <ItTrainingSection />
 

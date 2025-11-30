@@ -44,6 +44,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
       { path: 'oktatas', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['hu'] },
       { path: 'minden-cegnek-legyen-informatikusa', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['hu'] },
       { path: 'egyedi-alkalmazas-fejlesztes', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['hu'] },
+      { path: 'halozat-fejlesztes', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['hu'] },
       { path: 'szolgaltatasok', changeFreq: 'monthly', priority: 0.8, allowedLocales: ['hu'] }, // Currently shared but HU name
       { path: 'termekeink', changeFreq: 'weekly', priority: 0.7, allowedLocales: ['hu'] }, // Currently shared but HU name
       { path: 'arak', changeFreq: 'weekly', priority: 0.7, allowedLocales: ['hu'] }, // Currently shared but HU name
@@ -54,6 +55,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
       // EN specific routes
       { path: 'it-training', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['en'] },
       { path: 'custom-application-development', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['en'] },
+      { path: 'network-optimization', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['en'] },
       // Note: The main nav pages (About, Contact, etc) currently use HU paths for EN too in the codebase.
       // Until we create localized routes for them, we must include them for EN/DE/etc using the HU path
       // to avoid them being missing from sitemap, even if the URL is not ideal.
@@ -62,14 +64,17 @@ export default function sitemap(): MetadataRoute.Sitemap {
       // DE specific routes
       { path: 'it-schulung', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['de'] },
       { path: 'individuelle-anwendungsentwicklung', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['de'] },
+      { path: 'netzwerk-optimierung', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['de'] },
 
       // SK specific routes
       { path: 'it-vzdelavanie', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['sk'] },
       { path: 'vyvoj-vlastnych-aplikacii', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['sk'] },
+      { path: 'optimalizacia-siete', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['sk'] },
 
       // RO specific routes
       { path: 'training-it', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['ro'] },
       { path: 'dezvoltare-aplicatii-personalizate', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['ro'] },
+      { path: 'optimizare-retea', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['ro'] },
     ];
 
 

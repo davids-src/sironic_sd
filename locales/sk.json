@@ -100,6 +100,22 @@
           "báza znalostí"
         ],
         "ogImage": "/og/blog-sk.jpg"
+      },
+      "networkOptimization": {
+        "title": "Podniková sieť a Wi-Fi: návrh a inštalácia - SIRONIC",
+        "description": "Návrh a nasadenie stabilných, rýchlych a bezpečných podnikových sietí. Moderné Wi-Fi systémy, optimalizácia siete a komplexná údržba pre firmy.",
+        "keywords": [
+          "podniková sieť",
+          "wifi inštalácia",
+          "optimalizácia siete",
+          "podnikové wifi",
+          "MikroTik",
+          "Ubiquiti",
+          "UniFi",
+          "sieťová bezpečnosť",
+          "Székesfehérvár"
+        ],
+        "ogImage": "/og/network-optimization-sk.jpg"
       }
     }
   },
@@ -1167,6 +1183,191 @@
       "title": "Začnite digitálny rozvoj svojho tímu!",
       "description": "Požiadajte o bezplatnú konzultáciu a spoločne zistíme, aké IT školenia môžu zlepšiť efektivitu a bezpečnosť Vašej firmy.",
       "button": "Požiadať o ponuku na IT školenie"
+    }
+  },
+  "networkOptimization": {
+    "badge": "Optimalizácia siete",
+    "title": "Zaistite stabilný a rýchly internet a Wi-Fi vo Vašej firme",
+    "subtitle": "Pomalé Wi-Fi, nestabilné pripojenie alebo nespoľahlivá sieť spomaľuje celú firmu. Navrhujeme, optimalizujeme a spravujeme moderné podnikové siete, aby všetky zariadenia fungovali rýchlo, bezpečne a spoľahlivo.",
+    "features": {
+      "wifi": {
+        "title": "Stabilná podniková Wi-Fi s veľkým pokrytím",
+        "description": "Moderné prístupové body a návrh siete, aby bola Wi-Fi silná v každej miestnosti – bez výpadkov."
+      },
+      "speed": {
+        "title": "Rýchla a bezpečná sieť pre všetky zariadenia",
+        "description": "Optimalizovaná šírka pásma, VLAN separácia a ladenie výkonu – každé zariadenie funguje plynulo."
+      },
+      "reliability": {
+        "title": "Spoľahlivé pripojenie — bez výpadkov",
+        "description": "Spoľahlivé routery, podnikové sieťové zariadenia a nepretržité monitorovanie – aby bola sieť vždy dostupná."
+      }
+    },
+    "cta": "Vyžiadať sieťový audit"
+  },
+  "networkOptimizationPage": {
+    "breadcrumb": {
+      "home": "Domov",
+      "networkOptimization": "Optimalizácia siete"
+    },
+    "hero": {
+      "title": "Podniková sieť a Wi-Fi: návrh, optimalizácia a správa",
+      "subtitle": "Urobte sieť vašej spoločnosti stabilnou, rýchlou a bezpečnou",
+      "description": "Ak je vaše Wi-Fi pomalé, pripojenia sa prerušujú alebo je sieť nespoľahlivá, brzd to výkon celej vašej firmy. SIRONIC navrhuje, optimalizuje a udržiava moderné podnikové siete – aby každé zariadenie fungovalo rýchlo, bezpečne a spoľahlivo.",
+      "cta": "Vyžiadať bezplatnú analýzu siete",
+      "scrollDown": "Posunúť sa nadol pre podrobnosti"
+    },
+    "problems": {
+      "title": "Najčastejšie problémy firiem so sieťami",
+      "subtitle": "Znie to známo?",
+      "items": [
+        "Pomalé alebo nestabilné Wi-Fi v práci",
+        "Slabý signál a mŕtve zóny v kancelárii",
+        "Zastarané routery a prístupové body",
+        "Žiadna separácia hosťovskej siete",
+        "Príliš veľa zariadení v jednej sieti – všetko sa spomaľuje",
+        "Bezpečnostné zraniteľnosti a nechránená sieť",
+        "Žiadne monitorovanie alebo plán riešenia problémov"
+      ]
+    },
+    "services": {
+      "title": "Čo ponúkame?",
+      "subtitle": "Kompletné sieťové riešenia pre malé a stredné podniky",
+      "items": [
+        {
+          "title": "Úplné posúdenie a diagnostika siete",
+          "description": "Hodnotíme vašu aktuálnu sieťovú infraštruktúru, identifikujeme problémy a navrhujeme optimalizácie."
+        },
+        {
+          "title": "Mapovanie Wi-Fi signálu a analýza pokrytia",
+          "description": "Navrhujeme Wi-Fi sieť tak, aby bol silný signál v každej miestnosti – žiadne mŕtve zóny."
+        },
+        {
+          "title": "Návrh novej podnikovej siete",
+          "description": "Budujeme podnikové siete od základov, ktoré sú škálovateľné, rýchle a bezpečné."
+        },
+        {
+          "title": "Inštalácia podnikového hardvéru (MikroTik, Ubiquiti, UniFi)",
+          "description": "Výber a inštalácia profesionálnych sieťových zariadení – routery, switche, prístupové body."
+        },
+        {
+          "title": "Kabeláž a modernizácia infraštruktúry",
+          "description": "Štruktúrovaná kabeláž, patch panely, serverové skrine – organizovaná a perspektívna infraštruktúra."
+        },
+        {
+          "title": "Nastavenie zabezpečenia, VLAN, firewall",
+          "description": "Segmentácia siete, hosťovské siete, konfigurácia firewallu – vaše údaje zostávajú v bezpečí."
+        },
+        {
+          "title": "Monitorovanie a správa siete",
+          "description": "Nepretržité monitorovanie a proaktívna údržba – poznáme a riešime problémy skôr, ako sa stanú problémami."
+        }
+      ]
+    },
+    "technologies": {
+      "title": "Aké zariadenia používame?",
+      "subtitle": "Spoľahlivé podnikové sieťové riešenia",
+      "list": [
+        "MikroTik – výkonné, nákladovo efektívne routery a switche",
+        "Ubiquiti UniFi – moderné, spravovateľné Wi-Fi systémy",
+        "TP-Link Omada – podnikové sieťové zariadenia",
+        "Cisco a HPE – infraštruktúra na podnikovej úrovni",
+        "Konfigurácia VLAN a firewallu",
+        "VPN a vzdialený prístup",
+        "Monitorovanie a analytika siete"
+      ]
+    },
+    "benefits": {
+      "title": "Prečo investovať do profesionálnej siete?",
+      "subtitle": "Konkrétne výhody, ktoré prinášajú merateľné výsledky",
+      "list": [
+        "Rýchlejšia práca – žiadny pomalý internet ani výpadky",
+        "Bezpečnejšia prevádzka – chránená sieť, oddelené hosťovské Wi-Fi",
+        "Menej výpadkov – proaktívne monitorovanie a rýchle riešenie problémov",
+        "Škálovateľná infraštruktúra – sieť rastie s vašou firmou",
+        "Profesionálny vzhľad – stabilné pripojenie aj pre klientov",
+        "Znížené náklady – menej strateného času a menej opráv"
+      ]
+    },
+    "process": {
+      "title": "Ako pracujeme?",
+      "subtitle": "Transparentný proces – krok za krokom",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Posúdenie siete a konzultácia",
+          "description": "Zoznámime sa s kanceláriou, aktuálnou sieťou a požiadavkami. Identifikujeme problémy a príležitosti."
+        },
+        {
+          "number": "2",
+          "title": "Návrh siete a ponuka",
+          "description": "Vytvoríme úplný plán siete, analýzu pokrytia Wi-Fi a zoznam zariadení. Ponuka s pevnou cenou."
+        },
+        {
+          "number": "3",
+          "title": "Inštalácia a konfigurácia",
+          "description": "Nasadíme sieť, nainštalujeme zariadenia, nakonfigurujeme bezpečnostné prvky. Všetko otestované a zdokumentované."
+        },
+        {
+          "number": "4",
+          "title": "Testovanie a odovzdanie",
+          "description": "Dôkladné testovanie na každom zariadení, meranie rýchlosti, overenie pokrytia. Školenie a odovzdanie dokumentácie."
+        },
+        {
+          "number": "5",
+          "title": "Monitorovanie a údržba",
+          "description": "Nepretržitý dohľad, mesačné správy, proaktívna údržba. Vždy k dispozícii, keď potrebujete pomoc."
+        }
+      ]
+    },
+    "useCases": {
+      "title": "Pre koho to odporúčame?",
+      "subtitle": "Každá firma, ktorá potrebuje stabilnú sieť",
+      "examples": [
+        "Kancelárie a malé podniky – 5-50 zamestnancov",
+        "Pohostinské zariadenia – rýchle a stabilné hosťovské Wi-Fi",
+        "Kliniky a ordinácie – bezpečná zdravotnícka sieť",
+        "Sklady a logistické centrá – robustná priemyselná sieť",
+        "Vzdelávacie inštitúcie – vysokokapacitné Wi-Fi",
+        "Maloobchodné jednotky – rýchly POS systém a IP kamery"
+      ]
+    },
+    "pricing": {
+      "title": "Koľko stojí nastavenie podnikovej siete?",
+      "subtitle": "Každý projekt je jedinečný – cenu určujeme na základe potrieb",
+      "description": "Základný kancelársky Wi-Fi systém začína od približne 400 € (1-2 prístupové body, router, konfigurácia). Pre väčšie siete – viac zariadení, štruktúrovaná kabeláž, monitorovanie – počítajte od 1 200 €+. Vyžiadajte si bezplatné posúdenie a presnú ponuku!",
+      "process": "Bezplatné posúdenie na mieste analyzuje sieťové potreby, vytvoríme plán a poskytneme transparentnú ponuku s pevnou cenou.",
+      "cta": "Vyžiadať bezplatnú ponuku"
+    },
+    "faq": {
+      "title": "Často kladené otázky",
+      "items": [
+        {
+          "question": "Ako dlho trvá nastavenie siete?",
+          "answer": "Jednoduchý kancelársky Wi-Fi systém trvá 1-2 dni, zatiaľ čo komplexná viacetrová podniková sieť môže trvať 1-2 týždne."
+        },
+        {
+          "question": "Aké značky odporúčate?",
+          "answer": "Primárne pracujeme so zariadeniami MikroTik, Ubiquiti UniFi a TP-Link Omada – spoľahlivé, nákladovo efektívne a vhodné pre podnikové použitie."
+        },
+        {
+          "question": "Kto bude vlastniť sieť?",
+          "answer": "Vy! Všetky zariadenia a konfigurácia patria vašej spoločnosti, žiadne skryté závislosti ani licenčné poplatky."
+        },
+        {
+          "question": "Čo s údržbou?",
+          "answer": "Ponúkame aj balíčky údržby – nepretržité monitorovanie, pravidelné aktualizácie a rýchle riešenie problémov v mesačnom predplatnom."
+        },
+        {
+          "question": "Môžete optimalizovať existujúce siete?",
+          "answer": "Áno! Nemusíte všetko vymeniť – často stačí dobrá konfigurácia, ďalší prístupový bod alebo aktualizácia routera."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Pripravení na stabilnú a rýchlu sieť?",
+      "description": "Vyžiadajte si bezplatné posúdenie siete a spoločne vybudujme infraštruktúru, ktorá podporí rast vašej firmy.",
+      "button": "Vyžiadať bezplatnú analýzu siete"
     }
   }
 }

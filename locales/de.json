@@ -100,6 +100,22 @@
           "Wissensdatenbank"
         ],
         "ogImage": "/og/blog-de.jpg"
+      },
+      "networkOptimization": {
+        "title": "Unternehmensnetzwerk und Wi-Fi-Einrichtung - SIRONIC",
+        "description": "Planung und Aufbau stabiler, schneller und sicherer Unternehmensnetzwerke. Moderne Wi-Fi-Systeme, Netzwerkoptimierung und umfassende Wartung für Unternehmen.",
+        "keywords": [
+          "Unternehmensnetzwerk",
+          "WLAN-Einrichtung",
+          "Netzwerkoptimierung",
+          "Enterprise-WLAN",
+          "MikroTik",
+          "Ubiquiti",
+          "UniFi",
+          "Netzwerksicherheit",
+          "Székesfehérvár"
+        ],
+        "ogImage": "/og/network-optimization-de.jpg"
       }
     }
   },
@@ -1167,6 +1183,191 @@
       "title": "Starten Sie die digitale Entwicklung Ihres Teams!",
       "description": "Fordern Sie eine kostenlose Beratung an, und lassen Sie uns gemeinsam herausfinden, welche IT-Schulungen Ihre Geschäftseffizienz und Sicherheit verbessern können.",
       "button": "IT-Schulungsangebot anfordern"
+    }
+  },
+  "networkOptimization": {
+    "badge": "Netzwerkoptimierung",
+    "title": "Sorgen Sie für stabiles und schnelles Internet & Wi-Fi in Ihrem Unternehmen",
+    "subtitle": "Langsames Wi-Fi, instabile Verbindungen oder ein unzuverlässiges Netzwerk bremsen Ihr gesamtes Unternehmen aus. Wir planen, optimieren und warten moderne, unternehmensweite Netzwerke, damit jedes Gerät schnell, sicher und zuverlässig funktioniert.",
+    "features": {
+      "wifi": {
+        "title": "Stabiles, großflächiges Unternehmens-Wi-Fi",
+        "description": "Moderne Access Points und Netzwerkplanung, damit das Wi-Fi in jedem Raum stark ist – ohne Ausfälle."
+      },
+      "speed": {
+        "title": "Schnelles und sicheres Netzwerk für alle Geräte",
+        "description": "Optimierte Bandbreite, VLAN-Trennung und Performance-Tuning – jedes Gerät läuft reibungslos."
+      },
+      "reliability": {
+        "title": "Zuverlässige Verbindung — ohne Ausfälle",
+        "description": "Zuverlässige Router, Business-Grade-Netzwerkgeräte und kontinuierliches Monitoring – damit Ihr Netzwerk immer erreichbar ist."
+      }
+    },
+    "cta": "Netzwerkanalyse anfordern"
+  },
+  "networkOptimizationPage": {
+    "breadcrumb": {
+      "home": "Startseite",
+      "networkOptimization": "Netzwerkoptimierung"
+    },
+    "hero": {
+      "title": "Unternehmensnetzwerk und Wi-Fi: Planung, Optimierung und Wartung",
+      "subtitle": "Machen Sie das Netzwerk Ihres Unternehmens stabil, schnell und sicher",
+      "description": "Wenn Ihr Wi-Fi langsam ist, Verbindungen abbrechen oder das Netzwerk unzuverlässig ist, bremst das die Leistung Ihres gesamten Unternehmens. SIRONIC plant, optimiert und wartet moderne, geschäftstaugliche Netzwerke – damit jedes Gerät schnell, sicher und zuverlässig arbeitet.",
+      "cta": "Kostenlose Netzwerkanalyse anfordern",
+      "scrollDown": "Nach unten scrollen für Details"
+    },
+    "problems": {
+      "title": "Häufige Netzwerkprobleme in Unternehmen",
+      "subtitle": "Kommt Ihnen das bekannt vor?",
+      "items": [
+        "Langsames oder instabiles Wi-Fi am Arbeitsplatz",
+        "Schwaches Signal und tote Zonen im Büro",
+        "Veraltete Router und Access Points",
+        "Keine Gäste-Netzwerk-Trennung",
+        "Zu viele Geräte in einem Netzwerk – alles wird langsamer",
+        "Sicherheitslücken und ungeschütztes Netzwerk",
+        "Kein Monitoring oder Fehlerbehebungsplan"
+      ]
+    },
+    "services": {
+      "title": "Was bieten wir an?",
+      "subtitle": "Komplette Netzwerklösungen für kleine und mittlere Unternehmen",
+      "items": [
+        {
+          "title": "Vollständige Netzwerkbewertung und Diagnostik",
+          "description": "Wir bewerten Ihre aktuelle Netzwerkinfrastruktur, identifizieren Probleme und schlagen Optimierungen vor."
+        },
+        {
+          "title": "Wi-Fi-Signalkartierung und Abdeckungsanalyse",
+          "description": "Wir planen das Wi-Fi-Netzwerk, um in jedem Raum ein starkes Signal zu gewährleisten – keine toten Zonen."
+        },
+        {
+          "title": "Neues Unternehmensnetzwerk-Design",
+          "description": "Wir bauen geschäftstaugliche Netzwerke von Grund auf, die skalierbar, schnell und sicher sind."
+        },
+        {
+          "title": "Enterprise-Hardware-Installation (MikroTik, Ubiquiti, UniFi)",
+          "description": "Auswahl und Installation professioneller Netzwerkgeräte – Router, Switches, Access Points."
+        },
+        {
+          "title": "Verkabelung und Infrastruktur-Upgrades",
+          "description": "Strukturierte Verkabelung, Patchpanels, Serverschränke – organisierte und zukunftssichere Infrastruktur."
+        },
+        {
+          "title": "Sicherheit, VLAN, Firewall-Einrichtung",
+          "description": "Netzwerksegmentierung, Gästenetzwerke, Firewall-Konfiguration – Ihre Daten bleiben sicher."
+        },
+        {
+          "title": "Netzwerk-Monitoring und -Verwaltung",
+          "description": "Kontinuierliches Monitoring und proaktive Wartung – wir kennen und behandeln Probleme, bevor sie entstehen."
+        }
+      ]
+    },
+    "technologies": {
+      "title": "Welche Geräte verwenden wir?",
+      "subtitle": "Zuverlässige Netzwerklösungen für Unternehmen",
+      "list": [
+        "MikroTik – leistungsstarke, kosteneffiziente Router und Switches",
+        "Ubiquiti UniFi – moderne, verwaltbare Wi-Fi-Systeme",
+        "TP-Link Omada – Netzwerkgeräte für Unternehmen",
+        "Cisco und HPE – Infrastruktur auf Enterprise-Niveau",
+        "VLAN- und Firewall-Konfiguration",
+        "VPN und Remote-Zugriff",
+        "Netzwerk-Monitoring und Analytik"
+      ]
+    },
+    "benefits": {
+      "title": "Warum in ein professionelles Netzwerk investieren?",
+      "subtitle": "Konkrete Vorteile mit messbaren Ergebnissen",
+      "list": [
+        "Schnelleres Arbeiten – kein langsames Internet oder Ausfälle",
+        "Sichererer Betrieb – geschütztes Netzwerk, getrenntes Gäste-Wi-Fi",
+        "Weniger Ausfallzeiten – proaktives Monitoring und schnelle Fehlerbehebung",
+        "Skalierbare Infrastruktur – das Netzwerk wächst mit Ihrem Unternehmen",
+        "Professionelles Auftreten – stabile Verbindung auch für Kunden",
+        "Reduzierte Kosten – weniger Zeitverlust und weniger Reparaturen"
+      ]
+    },
+    "process": {
+      "title": "Wie arbeiten wir?",
+      "subtitle": "Transparenter Prozess – Schritt für Schritt",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Netzwerkbewertung und Beratung",
+          "description": "Wir lernen das Büro, das aktuelle Netzwerk und die Anforderungen kennen. Wir identifizieren Probleme und Möglichkeiten."
+        },
+        {
+          "number": "2",
+          "title": "Netzwerkplanung und Angebot",
+          "description": "Wir erstellen einen vollständigen Netzwerkplan, Wi-Fi-Abdeckungsanalyse und Geräteliste. Festpreisangebot."
+        },
+        {
+          "number": "3",
+          "title": "Installation und Konfiguration",
+          "description": "Wir richten das Netzwerk ein, installieren Geräte, konfigurieren Sicherheitselemente. Alles getestet und dokumentiert."
+        },
+        {
+          "number": "4",
+          "title": "Testen und Übergabe",
+          "description": "Gründliches Testen auf jedem Gerät, Geschwindigkeitsmessung, Abdeckungsprüfung. Schulung und Dokumentationsübergabe."
+        },
+        {
+          "number": "5",
+          "title": "Monitoring und Wartung",
+          "description": "Kontinuierliche Überwachung, monatliche Berichte, proaktive Wartung. Immer verfügbar, wenn Sie Hilfe benötigen."
+        }
+      ]
+    },
+    "useCases": {
+      "title": "Für wen empfehlen wir es?",
+      "subtitle": "Jedes Unternehmen, das ein stabiles Netzwerk benötigt",
+      "examples": [
+        "Büros und kleine Unternehmen – 5-50 Mitarbeiter",
+        "Gastgewerbe – schnelles und stabiles Gäste-Wi-Fi",
+        "Kliniken und Arztpraxen – sicheres medizinisches Netzwerk",
+        "Lager und Logistikzentren – robustes Industrienetzwerk",
+        "Bildungseinrichtungen – hochkapazitäres Wi-Fi",
+        "Einzelhandelseinheiten – schnelles POS-System und IP-Kameras"
+      ]
+    },
+    "pricing": {
+      "title": "Was kostet die Einrichtung eines Unternehmensnetzwerks?",
+      "subtitle": "Jedes Projekt ist einzigartig – wir bestimmen den Preis basierend auf den Anforderungen",
+      "description": "Ein einfaches Büro-Wi-Fi-System beginnt bei ca. 400 € (1-2 Access Points, Router, Konfiguration). Für größere Netzwerke – mehr Geräte, strukturierte Verkabelung, Monitoring – rechnen Sie ab 1.200 €+. Fordern Sie eine kostenlose Bewertung und ein genaues Angebot an!",
+      "process": "Kostenlose Vor-Ort-Bewertung analysiert Netzwerkanforderungen, wir erstellen einen Plan und bieten ein transparentes Festpreisangebot.",
+      "cta": "Kostenloses Angebot anfordern"
+    },
+    "faq": {
+      "title": "Häufig gestellte Fragen",
+      "items": [
+        {
+          "question": "Wie lange dauert die Netzwerkeinrichtung?",
+          "answer": "Ein einfaches Büro-Wi-Fi-System dauert 1-2 Tage, während ein komplexes mehrstöckiges Unternehmensnetzwerk 1-2 Wochen dauern kann."
+        },
+        {
+          "question": "Welche Marken empfehlen Sie?",
+          "answer": "Wir arbeiten hauptsächlich mit MikroTik-, Ubiquiti UniFi- und TP-Link Omada-Geräten – zuverlässig, kosteneffizient und für den geschäftlichen Einsatz geeignet."
+        },
+        {
+          "question": "Wem gehört das Netzwerk?",
+          "answer": "Ihnen! Alle Geräte und Konfigurationen gehören Ihrem Unternehmen, keine versteckten Abhängigkeiten oder Lizenzgebühren."
+        },
+        {
+          "question": "Was ist mit der Wartung?",
+          "answer": "Wir bieten auch Wartungspakete an – kontinuierliches Monitoring, regelmäßige Updates und schnelle Fehlerbehebung im monatlichen Abonnement."
+        },
+        {
+          "question": "Können Sie bestehende Netzwerke optimieren?",
+          "answer": "Ja! Sie müssen nicht alles ersetzen – oft reicht eine gute Konfiguration, ein zusätzlicher Access Point oder ein Router-Upgrade."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Bereit für ein stabiles und schnelles Netzwerk?",
+      "description": "Fordern Sie eine kostenlose Netzwerkbewertung an und lassen Sie uns gemeinsam eine Infrastruktur aufbauen, die Ihr Geschäftswachstum unterstützt.",
+      "button": "Kostenlose Netzwerkanalyse anfordern"
     }
   }
 }
