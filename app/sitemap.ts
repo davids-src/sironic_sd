@@ -30,40 +30,48 @@ export default function sitemap(): MetadataRoute.Sitemap {
   // Define pages with their allowed locales
   // If allowedLocales is undefined, it's allowed for all (e.g. home)
   // But for specific localized routes, we restrict them.
-  const routeConfig = [
-    { path: '', changeFreq: 'weekly', priority: 1.0, allowedLocales: locales },
+  type Locale = typeof locales[number];
 
-    // HU specific routes
-    { path: 'oktatas', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['hu'] },
-    { path: 'minden-cegnek-legyen-informatikusa', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['hu'] },
-    { path: 'egyedi-alkalmazas-fejlesztes', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['hu'] },
-    { path: 'szolgaltatasok', changeFreq: 'monthly', priority: 0.8, allowedLocales: ['hu'] }, // Currently shared but HU name
-    { path: 'termekeink', changeFreq: 'weekly', priority: 0.7, allowedLocales: ['hu'] }, // Currently shared but HU name
-    { path: 'arak', changeFreq: 'weekly', priority: 0.7, allowedLocales: ['hu'] }, // Currently shared but HU name
-    { path: 'rolunk', changeFreq: 'monthly', priority: 0.6, allowedLocales: ['hu'] }, // Currently shared but HU name
-    { path: 'kapcsolat', changeFreq: 'monthly', priority: 0.8, allowedLocales: ['hu'] }, // Currently shared but HU name
-    { path: 'blog', changeFreq: 'weekly', priority: 0.8, allowedLocales: ['hu'] }, // Currently shared but HU name
+  const routeConfig: Array<{
+    path: string;
+    changeFreq: 'weekly' | 'monthly';
+    priority: number;
+    allowedLocales?: Locale[];
+  }> = [
+      { path: '', changeFreq: 'weekly', priority: 1.0, allowedLocales: [...locales] },
 
-    // EN specific routes
-    { path: 'it-training', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['en'] },
-    { path: 'custom-application-development', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['en'] },
-    // Note: The main nav pages (About, Contact, etc) currently use HU paths for EN too in the codebase.
-    // Until we create localized routes for them, we must include them for EN/DE/etc using the HU path
-    // to avoid them being missing from sitemap, even if the URL is not ideal.
-    // However, for the "Landing Pages" which HAVE localized folders, we strictly filter.
+      // HU specific routes
+      { path: 'oktatas', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['hu'] },
+      { path: 'minden-cegnek-legyen-informatikusa', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['hu'] },
+      { path: 'egyedi-alkalmazas-fejlesztes', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['hu'] },
+      { path: 'szolgaltatasok', changeFreq: 'monthly', priority: 0.8, allowedLocales: ['hu'] }, // Currently shared but HU name
+      { path: 'termekeink', changeFreq: 'weekly', priority: 0.7, allowedLocales: ['hu'] }, // Currently shared but HU name
+      { path: 'arak', changeFreq: 'weekly', priority: 0.7, allowedLocales: ['hu'] }, // Currently shared but HU name
+      { path: 'rolunk', changeFreq: 'monthly', priority: 0.6, allowedLocales: ['hu'] }, // Currently shared but HU name
+      { path: 'kapcsolat', changeFreq: 'monthly', priority: 0.8, allowedLocales: ['hu'] }, // Currently shared but HU name
+      { path: 'blog', changeFreq: 'weekly', priority: 0.8, allowedLocales: ['hu'] }, // Currently shared but HU name
 
-    // DE specific routes
-    { path: 'it-schulung', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['de'] },
-    { path: 'individuelle-anwendungsentwicklung', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['de'] },
+      // EN specific routes
+      { path: 'it-training', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['en'] },
+      { path: 'custom-application-development', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['en'] },
+      // Note: The main nav pages (About, Contact, etc) currently use HU paths for EN too in the codebase.
+      // Until we create localized routes for them, we must include them for EN/DE/etc using the HU path
+      // to avoid them being missing from sitemap, even if the URL is not ideal.
+      // However, for the "Landing Pages" which HAVE localized folders, we strictly filter.
 
-    // SK specific routes
-    { path: 'it-vzdelavanie', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['sk'] },
-    { path: 'vyvoj-vlastnych-aplikacii', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['sk'] },
+      // DE specific routes
+      { path: 'it-schulung', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['de'] },
+      { path: 'individuelle-anwendungsentwicklung', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['de'] },
 
-    // RO specific routes
-    { path: 'training-it', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['ro'] },
-    { path: 'dezvoltare-aplicatii-personalizate', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['ro'] },
-  ] as const;
+      // SK specific routes
+      { path: 'it-vzdelavanie', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['sk'] },
+      { path: 'vyvoj-vlastnych-aplikacii', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['sk'] },
+
+      // RO specific routes
+      { path: 'training-it', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['ro'] },
+      { path: 'dezvoltare-aplicatii-personalizate', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['ro'] },
+    ];
+
 
   // For the shared pages (rolunk, kapcsolat, etc) that don't have localized folders yet,
   // we need to decide if we include them for other locales.
@@ -74,7 +82,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   for (const page of routeConfig) {
     for (const locale of locales) {
       // Check if this page is allowed for this locale
-      if (page.allowedLocales && !page.allowedLocales.includes(locale as any)) {
+      if (page.allowedLocales && !page.allowedLocales.includes(locale)) {
         continue;
       }
 
