@@ -7,9 +7,10 @@ interface InfoCardProps {
     description: string;
     icon?: LucideIcon;
     className?: string;
+    children?: React.ReactNode;
 }
 
-export function InfoCard({ title, description, icon: Icon, className }: InfoCardProps) {
+export function InfoCard({ title, description, icon: Icon, className, children }: InfoCardProps) {
     return (
         <div
             className={cn(
@@ -28,6 +29,7 @@ export function InfoCard({ title, description, icon: Icon, className }: InfoCard
             <p className="text-gray-600 dark:text-gray-300">
                 {description}
             </p>
+            {children}
         </div>
     );
 }
