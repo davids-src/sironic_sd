@@ -87,7 +87,7 @@ export default function ItTrainingPage() {
       </section>
 
       {/* Introduction Section - Enhanced */}
-      <section className="py-16 lg:py-24 bg-background">
+      <section className="py-20 lg:py-32 bg-white dark:bg-gray-950">
         <div className="mx-auto max-w-4xl px-6 lg:px-8">
           <div className="text-center mb-12">
             <h2 className="text-3xl font-bold tracking-tight sm:text-4xl mb-6">
@@ -105,14 +105,14 @@ export default function ItTrainingPage() {
       </section>
 
       {/* Services Section - Enhanced */}
-      <section className="py-16 lg:py-24 bg-gradient-to-b from-background to-accent/10">
+      <section className="py-20 lg:py-32 bg-gray-50 dark:bg-gray-900/50">
         <div className="mx-auto max-w-7xl px-6 lg:px-8">
           <div className="mx-auto max-w-2xl text-center mb-16">
-            <div className="inline-flex items-center gap-2 rounded-full bg-brand-red/10 px-4 py-2 text-sm font-semibold text-brand-red mb-4">
+            <div className="inline-flex items-center gap-2 rounded-full bg-red-50 px-4 py-2 text-sm font-semibold text-brand-red mb-4 dark:bg-red-900/20">
               <Sparkles className="h-4 w-4" aria-hidden="true" />
               {t('itTrainingPage.services.subtitle')}
             </div>
-            <h2 className="text-3xl font-bold tracking-tight sm:text-4xl mb-4">
+            <h2 className="text-3xl font-bold tracking-tight sm:text-4xl mb-4 text-gray-900 dark:text-white">
               {t('itTrainingPage.services.title')}
             </h2>
           </div>
@@ -120,34 +120,32 @@ export default function ItTrainingPage() {
             {t('itTrainingPage.services.items', []).map((item: any, index: number) => {
               const Icon = serviceIcons[index] || GraduationCap;
               return (
-                <Card
+                <div
                   key={index}
-                  className="transition-all duration-300 hover:shadow-xl hover:scale-[1.02] border-accent/60 bg-background/50 backdrop-blur-sm"
+                  className="group relative rounded-xl bg-white p-6 shadow-sm transition-all duration-300 hover:-translate-y-1 hover:shadow-md dark:bg-gray-800 border border-gray-100 dark:border-gray-700"
                 >
-                  <CardHeader>
-                    <div className="flex items-start gap-4">
-                      <div className="inline-flex h-14 w-14 items-center justify-center rounded-xl bg-gradient-to-br from-brand-red/20 to-brand-red/10 flex-shrink-0 shadow-sm">
-                        <Icon className="h-7 w-7 text-brand-red" aria-hidden="true" />
-                      </div>
-                      <div className="flex-1">
-                        <CardTitle className="text-2xl mb-3">{item.title}</CardTitle>
-                        <CardDescription className="text-base leading-relaxed mb-4 text-foreground/80">
-                          {item.description}
-                        </CardDescription>
-                        {item.topics && item.topics.length > 0 && (
-                          <ul className="grid gap-2 md:grid-cols-2">
-                            {item.topics.map((topic: string, topicIndex: number) => (
-                              <li key={topicIndex} className="flex gap-2 items-start text-sm text-muted-foreground">
-                                <CheckCircle className="h-4 w-4 text-brand-red flex-shrink-0 mt-0.5" aria-hidden="true" />
-                                <span>{topic}</span>
-                              </li>
-                            ))}
-                          </ul>
-                        )}
-                      </div>
+                  <div className="flex items-start gap-6">
+                    <div className="flex h-14 w-14 items-center justify-center rounded-full bg-red-50 text-brand-red flex-shrink-0 transition-colors group-hover:bg-brand-red group-hover:text-white dark:bg-red-900/20 dark:text-red-400 dark:group-hover:bg-brand-red dark:group-hover:text-white">
+                      <Icon className="h-7 w-7" aria-hidden="true" />
                     </div>
-                  </CardHeader>
-                </Card>
+                    <div className="flex-1">
+                      <h3 className="text-2xl font-semibold mb-3 text-gray-900 dark:text-white">{item.title}</h3>
+                      <p className="text-base leading-relaxed mb-4 text-gray-600 dark:text-gray-300">
+                        {item.description}
+                      </p>
+                      {item.topics && item.topics.length > 0 && (
+                        <ul className="grid gap-2 md:grid-cols-2">
+                          {item.topics.map((topic: string, topicIndex: number) => (
+                            <li key={topicIndex} className="flex gap-2 items-start text-sm text-gray-500 dark:text-gray-400">
+                              <CheckCircle className="h-4 w-4 text-brand-red flex-shrink-0 mt-0.5" aria-hidden="true" />
+                              <span>{topic}</span>
+                            </li>
+                          ))}
+                        </ul>
+                      )}
+                    </div>
+                  </div>
+                </div>
               );
             })}
           </div>
@@ -155,7 +153,7 @@ export default function ItTrainingPage() {
       </section>
 
       {/* Benefits Section - Enhanced */}
-      <section className="py-16 lg:py-24 bg-background">
+      <section className="py-20 lg:py-32 bg-white dark:bg-gray-950">
         <div className="mx-auto max-w-7xl px-6 lg:px-8">
           <div className="mx-auto max-w-2xl text-center mb-16">
             <h2 className="text-3xl font-bold tracking-tight sm:text-4xl mb-4">
@@ -182,7 +180,7 @@ export default function ItTrainingPage() {
       </section>
 
       {/* Target Groups Section - Enhanced */}
-      <section className="py-16 lg:py-24 bg-gradient-to-b from-background to-accent/10">
+      <section className="py-20 lg:py-32 bg-gray-50 dark:bg-gray-900/50">
         <div className="mx-auto max-w-7xl px-6 lg:px-8">
           <div className="mx-auto max-w-2xl text-center mb-16">
             <h2 className="text-3xl font-bold tracking-tight sm:text-4xl mb-4">
@@ -198,13 +196,13 @@ export default function ItTrainingPage() {
               return (
                 <div
                   key={index}
-                  className="flex flex-col gap-4 p-6 bg-background rounded-xl shadow-sm hover:shadow-lg transition-all duration-300 hover:scale-105 border border-accent/40"
+                  className="group relative flex flex-col items-center rounded-xl bg-white p-6 text-center shadow-sm transition-all duration-300 hover:-translate-y-1 hover:shadow-md dark:bg-gray-800 border border-gray-100 dark:border-gray-700"
                 >
-                  <div className="inline-flex h-12 w-12 items-center justify-center rounded-lg bg-gradient-to-br from-brand-red/20 to-brand-red/10">
-                    <Icon className="h-6 w-6 text-brand-red" aria-hidden="true" />
+                  <div className="mb-4 flex h-12 w-12 items-center justify-center rounded-full bg-red-50 text-brand-red transition-colors group-hover:bg-brand-red group-hover:text-white dark:bg-red-900/20 dark:text-red-400 dark:group-hover:bg-brand-red dark:group-hover:text-white">
+                    <Icon className="h-6 w-6" aria-hidden="true" />
                   </div>
-                  <h3 className="text-xl font-semibold">{group.title}</h3>
-                  <p className="text-muted-foreground leading-relaxed">{group.description}</p>
+                  <h3 className="mb-2 text-xl font-semibold text-gray-900 dark:text-white">{group.title}</h3>
+                  <p className="text-gray-600 dark:text-gray-300 leading-relaxed">{group.description}</p>
                 </div>
               );
             })}
@@ -213,7 +211,7 @@ export default function ItTrainingPage() {
       </section>
 
       {/* Delivery Methods Section - Enhanced */}
-      <section className="py-16 lg:py-24 bg-background">
+      <section className="py-20 lg:py-32 bg-white dark:bg-gray-950">
         <div className="mx-auto max-w-7xl px-6 lg:px-8">
           <div className="mx-auto max-w-2xl text-center mb-16">
             <h2 className="text-3xl font-bold tracking-tight sm:text-4xl mb-4">
@@ -248,7 +246,7 @@ export default function ItTrainingPage() {
       </section>
 
       {/* Topics Section - Enhanced */}
-      <section className="py-16 lg:py-24 bg-accent/10">
+      <section className="py-20 lg:py-32 bg-gray-50 dark:bg-gray-900/50">
         <div className="mx-auto max-w-7xl px-6 lg:px-8">
           <div className="mx-auto max-w-2xl text-center mb-16">
             <h2 className="text-3xl font-bold tracking-tight sm:text-4xl mb-4">
@@ -263,10 +261,10 @@ export default function ItTrainingPage() {
               {t('itTrainingPage.topics.list', []).map((topic: string, index: number) => (
                 <div
                   key={index}
-                  className="flex gap-3 items-start p-4 bg-background rounded-lg hover:shadow-md transition-all duration-200 border border-accent/40"
+                  className="flex gap-3 items-start p-4 bg-white rounded-lg shadow-sm hover:shadow-md transition-all duration-200 border border-gray-100 dark:bg-gray-800 dark:border-gray-700"
                 >
                   <CheckCircle className="h-5 w-5 text-brand-red flex-shrink-0 mt-0.5" aria-hidden="true" />
-                  <span className="text-base">{topic}</span>
+                  <span className="text-base text-gray-700 dark:text-gray-200">{topic}</span>
                 </div>
               ))}
             </div>
@@ -275,7 +273,7 @@ export default function ItTrainingPage() {
       </section>
 
       {/* Methodology Section - Enhanced */}
-      <section className="py-16 lg:py-24 bg-background">
+      <section className="py-20 lg:py-32 bg-white dark:bg-gray-950">
         <div className="mx-auto max-w-7xl px-6 lg:px-8">
           <div className="mx-auto max-w-2xl text-center mb-16">
             <h2 className="text-3xl font-bold tracking-tight sm:text-4xl mb-4">
@@ -300,7 +298,7 @@ export default function ItTrainingPage() {
       </section>
 
       {/* FAQ Section - Enhanced */}
-      <section className="py-16 lg:py-24 bg-gradient-to-b from-background to-accent/10">
+      <section className="py-20 lg:py-32 bg-gray-50 dark:bg-gray-900/50">
         <div className="mx-auto max-w-4xl px-6 lg:px-8">
           <div className="text-center mb-16">
             <h2 className="text-3xl font-bold tracking-tight sm:text-4xl">
@@ -312,7 +310,7 @@ export default function ItTrainingPage() {
               <AccordionItem
                 key={index}
                 value={`item-${index}`}
-                className="border border-accent/40 rounded-lg px-6 bg-background/50 backdrop-blur-sm hover:shadow-md transition-all"
+                className="border border-gray-200 rounded-lg px-6 bg-white shadow-sm hover:shadow-md transition-all dark:bg-gray-800 dark:border-gray-700"
               >
                 <AccordionTrigger className="text-left text-lg font-semibold hover:text-brand-red transition-colors">
                   {item.question}
@@ -327,7 +325,7 @@ export default function ItTrainingPage() {
       </section>
 
       {/* Pricing Section - Enhanced */}
-      <section className="py-16 lg:py-24 bg-background">
+      <section className="py-20 lg:py-32 bg-white dark:bg-gray-950">
         <div className="mx-auto max-w-4xl px-6 lg:px-8">
           <div className="text-center p-8 lg:p-12 bg-gradient-to-br from-accent/40 via-accent/20 to-background rounded-2xl border-2 border-accent/60 shadow-xl">
             <h2 className="text-3xl font-bold tracking-tight sm:text-4xl mb-4">
@@ -353,7 +351,7 @@ export default function ItTrainingPage() {
       </section>
 
       {/* Final CTA Section - Enhanced */}
-      <section className="py-16 lg:py-24 bg-gradient-to-br from-brand-red via-brand-red/95 to-brand-red/90 text-white relative overflow-hidden">
+      <section className="py-20 lg:py-32 bg-gradient-to-br from-brand-red via-brand-red/95 to-brand-red/90 text-white relative overflow-hidden">
         <div className="absolute inset-0 bg-grid-white/[0.05] pointer-events-none" aria-hidden="true" />
         <div className="mx-auto max-w-7xl px-6 lg:px-8 text-center relative z-10">
           <h2 className="text-3xl font-bold tracking-tight sm:text-4xl lg:text-5xl mb-6">

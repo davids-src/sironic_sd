@@ -7,6 +7,7 @@ import Link from 'next/link';
 import { useTranslation } from '@/hooks/useTranslation';
 import { useParams } from 'next/navigation';
 import { Breadcrumbs } from '@/components/Breadcrumbs';
+import { ServiceListSchema } from '@/components/structured-data/ServiceListSchema';
 
 export default function SzolgaltatasokPage() {
   const { t } = useTranslation();
@@ -67,11 +68,11 @@ export default function SzolgaltatasokPage() {
 
   return (
     <>
-      <section className="py-16 lg:py-24 bg-gradient-to-br from-background via-background to-muted">
-        <div className="mx-auto max-w-7xl px-4 lg:px-8">
+      <section className="py-20 lg:py-32 bg-gray-50 dark:bg-gray-900/50">
+        <div className="container mx-auto px-4 md:px-6">
           <Breadcrumbs items={[{ label: t('nav.services'), href: `/${locale}/szolgaltatasok` }]} />
-          <div className="mx-auto max-w-3xl text-center mb-12">
-            <h1 className="text-4xl font-bold tracking-tight sm:text-5xl mb-6">
+          <div className="mx-auto max-w-3xl text-center mb-16">
+            <h1 className="text-4xl font-bold tracking-tight sm:text-5xl lg:text-6xl mb-8">
               {t('servicesPage.title')}
             </h1>
             <p className="text-lg text-muted-foreground leading-relaxed">
@@ -81,8 +82,8 @@ export default function SzolgaltatasokPage() {
         </div>
       </section>
 
-      <section className="py-16 lg:py-24 bg-background">
-        <div className="mx-auto max-w-7xl px-4 lg:px-8">
+      <section className="py-20 lg:py-32 bg-white dark:bg-gray-950">
+        <div className="container mx-auto px-4 md:px-6">
           <div className="space-y-16">
             {services.map((service, index) => (
               <div
@@ -147,6 +148,8 @@ export default function SzolgaltatasokPage() {
           </div>
         </div>
       </section>
+      {/* Structured Data */}
+      <ServiceListSchema locale={locale} />
     </>
   );
 }

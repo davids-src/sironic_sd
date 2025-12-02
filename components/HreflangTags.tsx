@@ -18,6 +18,62 @@ const pathMapping: Record<string, Record<string, string>> = {
         de: 'netzwerk-optimierung',
         sk: 'optimalizacia-siete',
         ro: 'optimizare-retea'
+    },
+    'it-training': {
+        hu: 'oktatas',
+        en: 'it-training',
+        de: 'it-schulung',
+        sk: 'it-vzdelavanie',
+        ro: 'training-it'
+    },
+    'custom-development': {
+        hu: 'egyedi-alkalmazas-fejlesztes',
+        en: 'custom-application-development',
+        de: 'individuelle-anwendungsentwicklung',
+        sk: 'vyvoj-vlastnych-aplikacii',
+        ro: 'dezvoltare-aplicatii-personalizate'
+    },
+    'products': {
+        hu: 'termekeink',
+        en: 'termekeink',
+        de: 'termekeink',
+        sk: 'termekeink',
+        ro: 'termekeink'
+    },
+    'pricing': {
+        hu: 'arak',
+        en: 'arak',
+        de: 'arak',
+        sk: 'arak',
+        ro: 'arak'
+    },
+    'about': {
+        hu: 'rolunk',
+        en: 'rolunk',
+        de: 'rolunk',
+        sk: 'rolunk',
+        ro: 'rolunk'
+    },
+    'contact': {
+        hu: 'kapcsolat',
+        en: 'kapcsolat',
+        de: 'kapcsolat',
+        sk: 'kapcsolat',
+        ro: 'kapcsolat'
+    },
+    'services': {
+        hu: 'szolgaltatasok',
+        en: 'szolgaltatasok',
+        de: 'szolgaltatasok',
+        sk: 'szolgaltatasok',
+        ro: 'szolgaltatasok'
+    },
+    'minden-cegnek': {
+        hu: 'minden-cegnek-legyen-informatikusa',
+        en: 'minden-cegnek-legyen-informatikusa',
+        de: 'minden-cegnek-legyen-informatikusa',
+        sk: 'minden-cegnek-legyen-informatikusa',
+        ro: 'minden-cegnek-legyen-informatikusa'
     }
 };
 

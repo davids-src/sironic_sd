@@ -68,27 +68,23 @@ export default function MindenCegnekPage() {
         dangerouslySetInnerHTML={{ __html: JSON.stringify(serviceSchema) }}
       />
 
-      <section className="py-16 lg:py-24 bg-gradient-to-br from-slate-900 via-slate-800 to-slate-900 text-white relative overflow-hidden">
-        <div className="absolute inset-0 bg-grid-white/[0.02] pointer-events-none" />
-        <div className="absolute top-0 right-0 w-96 h-96 bg-brand-red/10 rounded-full blur-3xl" />
-        <div className="absolute bottom-0 left-0 w-96 h-96 bg-brand-red/5 rounded-full blur-3xl" />
-
+      <section className="py-20 lg:py-32 bg-white dark:bg-gray-950 relative overflow-hidden">
         <div className="mx-auto max-w-7xl px-4 lg:px-8 relative z-10">
           <div className="text-center mb-8">
-            <div className="inline-flex items-center gap-2 bg-brand-red/20 px-4 py-2 rounded-full mb-6">
+            <div className="inline-flex items-center gap-2 bg-red-50 px-4 py-2 rounded-full mb-6 dark:bg-red-900/20">
               <Sparkles className="h-5 w-5 text-brand-red" aria-hidden="true" />
               <span className="text-sm font-semibold text-brand-red">{t('mindenCegnekPage.hero.badge')}</span>
             </div>
-            <h1 className="text-3xl sm:text-4xl lg:text-5xl font-bold tracking-tight mb-6 leading-tight">
+            <h1 className="text-3xl sm:text-4xl lg:text-5xl font-bold tracking-tight mb-6 leading-tight text-gray-900 dark:text-white">
               <span className="inline-block mr-3" role="img" aria-label="Computer">
                 🖥️
               </span>
               {t('mindenCegnekPage.hero.title')}
             </h1>
-            <p className="text-xl sm:text-2xl font-medium text-red-300 mb-4">
+            <p className="text-xl sm:text-2xl font-medium text-brand-red mb-4">
               {t('mindenCegnekPage.hero.subtitle')}
             </p>
-            <p className="text-lg text-gray-300 leading-relaxed max-w-4xl mx-auto">
+            <p className="text-lg text-gray-600 dark:text-gray-300 leading-relaxed max-w-4xl mx-auto">
               {t('mindenCegnekPage.hero.description')}
             </p>
           </div>
@@ -97,7 +93,7 @@ export default function MindenCegnekPage() {
             <Button
               asChild
               size="lg"
-              className="bg-brand-red hover:bg-brand-red/90 text-white shadow-lg hover:shadow-xl transition-all duration-300 hover:scale-105 group w-full sm:w-auto"
+              className="bg-brand-red hover:bg-red-700 text-white shadow-lg hover:shadow-xl transition-all duration-300 hover:scale-105 group w-full sm:w-auto"
             >
               <Link href={`/${locale}/kapcsolat?subject=Minden%20cégnek%20legyen%20informatikusa`}>
                 {t('mindenCegnekPage.hero.cta')}
@@ -106,12 +102,12 @@ export default function MindenCegnekPage() {
             </Button>
           </div>
 
-          <div className="mt-8 bg-gradient-to-r from-brand-red/20 to-brand-red/10 rounded-lg p-6 border border-brand-red/30 max-w-4xl mx-auto">
-            <p className="text-lg text-white flex items-start gap-3">
+          <div className="mt-8 bg-red-50 rounded-lg p-6 border border-red-100 max-w-4xl mx-auto dark:bg-red-900/10 dark:border-red-900/20">
+            <p className="text-lg text-gray-900 dark:text-white flex items-start gap-3">
               <span className="text-3xl flex-shrink-0" role="img" aria-label="Gift">
                 🎁
               </span>
-              <span>
+              <span className="font-medium">
                 {t('mindenCegnekPage.hero.discount')}
               </span>
             </p>
@@ -125,7 +121,7 @@ export default function MindenCegnekPage() {
         </div>
       </section>
 
-      <section className="py-16 lg:py-24 bg-background">
+      <section className="py-20 lg:py-32 bg-background">
         <div className="mx-auto max-w-7xl px-4 lg:px-8">
           <div className="text-center mb-12">
             <h2 className="text-3xl font-bold tracking-tight sm:text-4xl mb-4">
@@ -140,13 +136,13 @@ export default function MindenCegnekPage() {
             {features.slice(0, 3).map((feature, index) => (
               <div
                 key={index}
-                className="bg-card rounded-lg p-6 border border-border hover:border-brand-red/50 transition-all duration-300 hover:shadow-lg"
+                className="group relative flex flex-col items-center rounded-xl bg-white p-6 text-center shadow-sm transition-all duration-300 hover:-translate-y-1 hover:shadow-md dark:bg-gray-800 border border-gray-100 dark:border-gray-700"
               >
-                <div className="inline-flex h-12 w-12 items-center justify-center rounded-lg bg-brand-red/10 mb-4">
-                  <feature.icon className="h-6 w-6 text-brand-red" aria-hidden="true" />
+                <div className="mb-4 flex h-12 w-12 items-center justify-center rounded-full bg-red-50 text-brand-red transition-colors group-hover:bg-brand-red group-hover:text-white dark:bg-red-900/20 dark:text-red-400 dark:group-hover:bg-brand-red dark:group-hover:text-white">
+                  <feature.icon className="h-6 w-6" aria-hidden="true" />
                 </div>
-                <h3 className="text-xl font-semibold mb-3">{t(`mindenCegnekPage.whatYouGet.features.${feature.key}.title`)}</h3>
-                <p className="text-muted-foreground leading-relaxed">{t(`mindenCegnekPage.whatYouGet.features.${feature.key}.description`)}</p>
+                <h3 className="mb-2 text-xl font-semibold text-gray-900 dark:text-white">{t(`mindenCegnekPage.whatYouGet.features.${feature.key}.title`)}</h3>
+                <p className="text-gray-600 dark:text-gray-300 leading-relaxed">{t(`mindenCegnekPage.whatYouGet.features.${feature.key}.description`)}</p>
               </div>
             ))}
           </div>
@@ -155,13 +151,13 @@ export default function MindenCegnekPage() {
             {features.slice(3).map((feature, index) => (
               <div
                 key={index}
-                className="bg-card rounded-lg p-6 border border-border hover:border-brand-red/50 transition-all duration-300 hover:shadow-lg"
+                className="group relative flex flex-col items-center rounded-xl bg-white p-6 text-center shadow-sm transition-all duration-300 hover:-translate-y-1 hover:shadow-md dark:bg-gray-800 border border-gray-100 dark:border-gray-700"
               >
-                <div className="inline-flex h-12 w-12 items-center justify-center rounded-lg bg-brand-red/10 mb-4">
-                  <feature.icon className="h-6 w-6 text-brand-red" aria-hidden="true" />
+                <div className="mb-4 flex h-12 w-12 items-center justify-center rounded-full bg-red-50 text-brand-red transition-colors group-hover:bg-brand-red group-hover:text-white dark:bg-red-900/20 dark:text-red-400 dark:group-hover:bg-brand-red dark:group-hover:text-white">
+                  <feature.icon className="h-6 w-6" aria-hidden="true" />
                 </div>
-                <h3 className="text-xl font-semibold mb-3">{t(`mindenCegnekPage.whatYouGet.features.${feature.key}.title`)}</h3>
-                <p className="text-muted-foreground leading-relaxed">{t(`mindenCegnekPage.whatYouGet.features.${feature.key}.description`)}</p>
+                <h3 className="mb-2 text-xl font-semibold text-gray-900 dark:text-white">{t(`mindenCegnekPage.whatYouGet.features.${feature.key}.title`)}</h3>
+                <p className="text-gray-600 dark:text-gray-300 leading-relaxed">{t(`mindenCegnekPage.whatYouGet.features.${feature.key}.description`)}</p>
               </div>
             ))}
           </div>
@@ -190,7 +186,7 @@ export default function MindenCegnekPage() {
         </div>
       </section>
 
-      <section className="py-16 lg:py-24 bg-background">
+      <section className="py-20 lg:py-32 bg-background">
         <div className="mx-auto max-w-5xl px-4 lg:px-8">
           <div className="bg-gradient-to-r from-brand-red/10 to-brand-red/5 rounded-lg p-8 md:p-12 border border-brand-red/20">
             <div className="text-center">
@@ -224,18 +220,18 @@ export default function MindenCegnekPage() {
         </div>
       </section>
 
-      <section className="py-16 lg:py-24 bg-gradient-to-br from-slate-900 via-slate-800 to-slate-900 text-white">
+      <section className="py-16 lg:py-24 bg-brand-red text-white">
         <div className="mx-auto max-w-4xl px-4 lg:px-8 text-center">
           <h2 className="text-3xl font-bold tracking-tight sm:text-4xl mb-4">
             {t('mindenCegnekPage.finalCta.title')}
           </h2>
-          <p className="text-lg mb-8 text-gray-300 leading-relaxed">
+          <p className="text-lg mb-8 text-white/90 leading-relaxed">
             {t('mindenCegnekPage.finalCta.description')}
           </p>
           <Button
             asChild
             size="lg"
-            className="bg-brand-red hover:bg-brand-red/90 text-white shadow-lg hover:shadow-xl transition-all duration-300 hover:scale-105"
+            className="bg-white text-brand-red hover:bg-gray-100 shadow-lg hover:shadow-xl transition-all duration-300 hover:scale-105"
           >
             <Link href={`/${locale}/kapcsolat?subject=Minden%20cégnek%20legyen%20informatikusa`}>
               {t('mindenCegnekPage.finalCta.button')}

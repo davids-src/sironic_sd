@@ -15,6 +15,9 @@ interface ServiceBlockProps {
     }[];
     ctaText: string;
     ctaLink: string;
+    secondaryCtaText?: string;
+    secondaryCtaLink?: string;
+    secondaryCtaVariant?: 'default' | 'outline' | 'ghost' | 'secondary' | 'link' | 'destructive';
     variant?: 'standard' | 'highlighted';
     className?: string;
 }
@@ -26,6 +29,9 @@ export function ServiceBlock({
     features,
     ctaText,
     ctaLink,
+    secondaryCtaText,
+    secondaryCtaLink,
+    secondaryCtaVariant,
     variant = 'standard',
     className,
 }: ServiceBlockProps) {
@@ -73,10 +79,17 @@ export function ServiceBlock({
                     ))}
                 </div>
 
-                <div className="flex justify-center">
+                <div className="flex flex-col items-center justify-center gap-4 sm:flex-row">
                     <Link href={ctaLink}>
                         <CTAButton>{ctaText}</CTAButton>
                     </Link>
+                    {secondaryCtaText && secondaryCtaLink && (
+                        <Link href={secondaryCtaLink}>
+                            <CTAButton variant={secondaryCtaVariant || 'outline'}>
+                                {secondaryCtaText}
+                            </CTAButton>
+                        </Link>
+                    )}
                 </div>
             </div>
         </section>

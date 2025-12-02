@@ -1,35 +1,36 @@
 # SIRONIC IT Solutions
 
 ## About
-SIRONIC is an IT service provider based in Székesfehérvár, Hungary, specializing in system administration, network infrastructure, custom software development, and IT security for small and medium-sized businesses (SMBs).
+SIRONIC IT Solutions provides comprehensive IT services for small and medium-sized enterprises (SMEs) in Székesfehérvár, Hungary, and surrounding regions (including Austria, Slovakia, Romania, and Czech Republic).
 
 ## Core Services
-- **System Administration**: Proactive monitoring, maintenance, and support for IT infrastructure.
-- **Network Solutions**: Design, implementation, and optimization of secure corporate networks.
-- **IT Security**: Firewall management, data backup, GDPR compliance, and cybersecurity training.
-- **Custom Development**: Web applications (React, Next.js), desktop software (.NET), and mobile apps.
-- **Hosting**: Secure web and email hosting, cloud solutions.
-- **IT Procurement**: Hardware and software licensing.
+- **System Administration:** Proactive monitoring, maintenance, and support for IT infrastructure.
+- **Network Optimization:** Design, implementation, and optimization of corporate networks and Wi-Fi systems (MikroTik, Ubiquiti).
+- **Custom Software Development:** Web applications (Next.js, React), desktop software, and mobile apps tailored to business needs.
+- **IT Security:** Firewall configuration, data backup, GDPR compliance, and cybersecurity training.
+- **Hardware & Software:** Procurement of computers, servers, and software licenses.
+- **Hosting:** Web hosting, email hosting, and cloud solutions.
+- **Repair Service:** Laptop, PC, and server repair (on-site or via mail).
 
-## Key Pages
-- [Home](https://sironic.hu/)
-- [Services](https://sironic.hu/szolgaltatasok)
-- [Custom Development](https://sironic.hu/egyedi-alkalmazas-fejlesztes)
-- [Products](https://sironic.hu/termekeink)
-- [Pricing](https://sironic.hu/arak)
-- [About Us](https://sironic.hu/rolunk)
-- [Contact](https://sironic.hu/kapcsolat)
-- [Blog](https://sironic.hu/blog)
+## Target Audience
+Small and medium-sized businesses looking for reliable, cost-effective, and professional IT support without the need for a full-time in-house IT team.
+
+## Key Features
+- **"Minden cégnek legyen informatikusa" (Every company should have an IT specialist):** A subscription-based model offering complete IT operations management.
+- **Multilingual Support:** Services available in Hungarian, English, German, Slovak, and Romanian.
+- **Proactive Approach:** Preventing issues before they cause downtime.
+- **Transparent Pricing:** Fixed monthly fees or project-based quotes.
 
 ## Contact
-- **Email**: hello@sironic.hu
-- **Phone**: +36 70 273 5532
-- **Location**: Székesfehérvár, Hungary
+- **Website:** https://sironic.hu
+- **Email:** hello@sironic.hu
+- **Location:** Székesfehérvár, Hungary
 
-## Languages
-The website is available in:
-- Hungarian (hu) - Default
-- English (en)
-- German (de)
-- Slovak (sk)
-- Romanian (ro)
+## Navigation
+- / (Home)
+- /szolgaltatasok (Services)
+- /termekeink (Products)
+- /arak (Pricing)
+- /rolunk (About Us)
+- /kapcsolat (Contact)
+- /blog (Blog)

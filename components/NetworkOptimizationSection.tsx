@@ -40,8 +40,11 @@ export function NetworkOptimizationSection() {
       subtitle={t('networkOptimization.badge')}
       description={t('networkOptimization.subtitle')}
       features={features}
-      ctaText={t('networkOptimization.cta')}
-      ctaLink={`/${locale}/${networkUrl}`}
+      ctaText={t('common.getQuote')}
+      ctaLink={`/${locale}/kapcsolat`}
+      secondaryCtaText={t('common.readMore')}
+      secondaryCtaLink={`/${locale}/${networkUrl}`}
+      secondaryCtaVariant="outline"
       variant="highlighted"
     />
   );

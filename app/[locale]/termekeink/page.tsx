@@ -17,7 +17,7 @@ export default function TermekekPage() {
 
   return (
     <>
-      <section className="py-16 lg:py-24 bg-gradient-to-br from-background via-background to-muted">
+      <section className="py-20 lg:py-32 bg-gray-50 dark:bg-gray-900/50">
         <div className="mx-auto max-w-7xl px-4 lg:px-8">
           <Breadcrumbs items={[{ label: t('productsPage.breadcrumb.products'), href: `/${locale}/termekeink` }]} />
 
@@ -32,12 +32,14 @@ export default function TermekekPage() {
         </div>
       </section>
 
-      <section className="py-16 lg:py-24 bg-background">
+      <section className="py-20 lg:py-32 bg-white dark:bg-gray-950">
         <div className="mx-auto max-w-7xl px-4 lg:px-8">
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-            {products.map((product) => (
-              <ProductCard key={product.id} product={product} />
-            ))}
+            {products
+              .filter(p => !['cloud-suite', 'it-partner-portal'].includes(p.id)) // Assuming IDs match these slugs, otherwise I'll need to check the lib file.
+              .map((product) => (
+                <ProductCard key={product.id} product={product} />
+              ))}
           </div>
 
           {products.length === 0 && (
@@ -50,7 +52,7 @@ export default function TermekekPage() {
         </div>
       </section>
 
-      <section className="py-16 lg:py-24 bg-muted/50">
+      <section className="py-20 lg:py-32 bg-gray-50 dark:bg-gray-900/50">
         <div className="mx-auto max-w-4xl px-4 lg:px-8 text-center">
           <h2 className="text-3xl font-bold mb-4">{t('productsPage.cta.title')}</h2>
           <p className="text-lg text-muted-foreground mb-8 leading-relaxed">

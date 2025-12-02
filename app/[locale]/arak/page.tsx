@@ -1,6 +1,7 @@
 'use client';
 
 import { Button } from '@/components/ui/button';
+import { CTAButton } from '@/components/CTAButton';
 import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle } from '@/components/ui/card';
 import { CheckCircle, ArrowRight, Server, Globe, Shield, Code, ShoppingCart, Cloud, Briefcase } from 'lucide-react';
 import Link from 'next/link';
@@ -102,7 +103,7 @@ export default function ArakPage() {
         dangerouslySetInnerHTML={{ __html: JSON.stringify(serviceSchema) }}
       />
 
-      <section className="py-16 lg:py-24 bg-gradient-to-br from-background via-background to-muted">
+      <section className="py-20 lg:py-32 bg-gray-50 dark:bg-gray-900/50">
         <div className="mx-auto max-w-7xl px-4 lg:px-8">
           <Breadcrumbs items={[{ label: t('nav.pricing'), href: `/${locale}/arak` }]} />
           <div className="mx-auto max-w-3xl text-center mb-12">
@@ -116,7 +117,7 @@ export default function ArakPage() {
         </div>
       </section>
 
-      <section className="py-16 lg:py-24 bg-background">
+      <section className="py-20 lg:py-32 bg-white dark:bg-gray-950">
         <div className="mx-auto max-w-7xl px-4 lg:px-8">
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
             {pricingPackages.map((pkg, index) => {
@@ -170,17 +171,18 @@ export default function ArakPage() {
                     )}
                   </CardContent>
                   <CardFooter>
-                    <Button
+                    <CTAButton
                       asChild
+                      variant={pkg.highlighted ? 'default' : 'outline'}
                       className={`w-full ${pkg.highlighted
-                        ? 'bg-brand-red hover:bg-brand-red/90'
-                        : 'bg-brand-grey hover:bg-brand-grey/90'
+                        ? 'bg-brand-red hover:bg-brand-red/90 text-white shadow-md hover:shadow-lg'
+                        : 'border-brand-grey/50 text-brand-grey hover:text-brand-red hover:border-brand-red hover:bg-brand-red/5'
                         }`}
                     >
                       <Link href={pkg.ctaLink}>
                         {t(`pricingPage.packages.${pkg.key}.ctaText`)}
                       </Link>
-                    </Button>
+                    </CTAButton>
                   </CardFooter>
                 </Card>
               );
@@ -196,12 +198,11 @@ export default function ArakPage() {
             <p className="text-lg text-muted-foreground mb-6 leading-relaxed whitespace-pre-line">
               {t('pricingPage.customQuote.description')}
             </p>
-            <Button asChild size="lg" className="bg-brand-red hover:bg-brand-red/90 group">
+            <CTAButton asChild size="lg" className="bg-brand-red hover:bg-brand-red/90 group">
               <Link href={`/${locale}/kapcsolat`}>
                 {t('pricingPage.customQuote.button')}
-                <ArrowRight className="ml-2 h-4 w-4 transition-transform group-hover:translate-x-1" />
               </Link>
-            </Button>
+            </CTAButton>
           </div>
         </div>
       </section>

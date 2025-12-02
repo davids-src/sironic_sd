@@ -40,7 +40,7 @@ export function BlogList() {
 
     return (
         <>
-            <section className="py-16 lg:py-24 bg-gradient-to-br from-background via-background to-muted">
+            <section className="py-20 lg:py-32 bg-gray-50 dark:bg-gray-900/50">
                 <div className="mx-auto max-w-7xl px-4 lg:px-8">
                     <div className="mx-auto max-w-3xl text-center mb-12">
                         <h1 className="text-4xl font-bold tracking-tight sm:text-5xl mb-6">
@@ -53,7 +53,7 @@ export function BlogList() {
                 </div>
             </section>
 
-            <section className="py-16 lg:py-24 bg-background">
+            <section className="py-20 lg:py-32 bg-white dark:bg-gray-950">
                 <div className="mx-auto max-w-7xl px-4 lg:px-8">
                     <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
                         {blogPosts.map((post) => (
