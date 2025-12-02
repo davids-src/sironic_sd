@@ -1,7 +1,10 @@
 'use client';
 
+import { CTAButton } from '@/components/CTAButton';
+import { SectionTitle } from '@/components/SectionTitle';
+import { InfoCard } from '@/components/InfoCard';
 import { Button } from '@/components/ui/button';
-import { ArrowRight, Wrench, MapPin, Mail, CheckCircle } from 'lucide-react';
+import { MapPin, Mail, CheckCircle, Wrench } from 'lucide-react';
 import Link from 'next/link';
 import { useParams } from 'next/navigation';
 import { useTranslation } from '@/hooks/useTranslation';
@@ -14,99 +17,81 @@ export function RepairServiceSection() {
   const benefits = t('repairService.benefits', []) as string[];
 
   const repairUrl = locale === 'hu' ? 'szerviz-javitas' :
-                    locale === 'en' ? 'repair-service' :
-                    locale === 'de' ? 'reparatur-service' :
-                    locale === 'sk' ? 'servisne-sluzby' :
-                    'servicii-reparatii';
+    locale === 'en' ? 'repair-service' :
+      locale === 'de' ? 'reparatur-service' :
+        locale === 'sk' ? 'servisne-sluzby' :
+          'servicii-reparatii';
 
   return (
     <section
       id="szerviz-javitas"
-      className="py-16 lg:py-24 bg-gradient-to-b from-background to-accent/10 relative overflow-hidden"
+      className="relative overflow-hidden bg-white py-16 dark:bg-gray-950 lg:py-24"
     >
       <div className="absolute inset-0 bg-grid-white/[0.02] pointer-events-none" aria-hidden="true" />
 
-      <div className="mx-auto max-w-7xl px-6 lg:px-8 relative z-10">
-        <div className="mx-auto max-w-2xl text-center mb-12">
-          <div className="inline-flex items-center gap-2 rounded-full bg-brand-red/10 px-4 py-2 text-sm font-semibold text-brand-red mb-6">
+      <div className="container relative z-10 mx-auto px-4 md:px-6">
+        <div className="mb-12 flex flex-col items-center text-center">
+          <div className="mb-6 inline-flex items-center gap-2 rounded-full bg-red-50 px-4 py-2 text-sm font-semibold text-brand-red dark:bg-red-900/20 dark:text-red-400">
             <Wrench className="h-4 w-4" aria-hidden="true" />
             {t('repairService.badge')}
           </div>
-          <h2 className="text-3xl font-bold tracking-tight sm:text-4xl lg:text-5xl mb-6">
-            {t('repairService.title')}
-          </h2>
-          <p className="text-xl text-brand-red/90 mb-4">
-            {t('repairService.subtitle')}
-          </p>
-          <p className="text-base sm:text-lg text-muted-foreground leading-relaxed">
+
+          <SectionTitle
+            title={t('repairService.title')}
+            subtitle={t('repairService.subtitle')}
+            className="mb-8"
+          />
+
+          <p className="mx-auto max-w-3xl text-lg text-gray-600 dark:text-gray-300">
             {t('repairService.description')}
           </p>
         </div>
 
-        <div className="grid gap-6 md:grid-cols-2 max-w-4xl mx-auto mb-10">
-          <div className="p-6 bg-background rounded-lg border border-accent shadow-sm hover:shadow-md transition-shadow">
-            <div className="flex items-start gap-4">
-              <div className="flex-shrink-0 p-3 bg-brand-red/10 rounded-lg">
-                <MapPin className="h-6 w-6 text-brand-red" />
-              </div>
-              <div>
-                <h3 className="text-lg font-semibold mb-2">{t('repairService.cards.onsite.title')}</h3>
-                <p className="text-sm text-muted-foreground">{t('repairService.cards.onsite.description')}</p>
-              </div>
-            </div>
-          </div>
-
-          <div className="p-6 bg-background rounded-lg border border-accent shadow-sm hover:shadow-md transition-shadow">
-            <div className="flex items-start gap-4">
-              <div className="flex-shrink-0 p-3 bg-brand-red/10 rounded-lg">
-                <Mail className="h-6 w-6 text-brand-red" />
-              </div>
-              <div>
-                <h3 className="text-lg font-semibold mb-2">{t('repairService.cards.postal.title')}</h3>
-                <p className="text-sm text-muted-foreground">{t('repairService.cards.postal.description')}</p>
-              </div>
-            </div>
-          </div>
+        <div className="mx-auto mb-12 grid max-w-4xl gap-6 md:grid-cols-2">
+          <InfoCard
+            title={t('repairService.cards.onsite.title')}
+            description={t('repairService.cards.onsite.description')}
+            icon={MapPin}
+          />
+          <InfoCard
+            title={t('repairService.cards.postal.title')}
+            description={t('repairService.cards.postal.description')}
+            icon={Mail}
+          />
         </div>
 
-        <div className="max-w-3xl mx-auto mb-10">
-          <div className="bg-accent/30 rounded-lg p-6 border border-accent">
-            <h3 className="text-lg font-semibold mb-4 flex items-center gap-2">
-              <CheckCircle className="h-5 w-5 text-brand-red" />
+        <div className="mx-auto mb-12 max-w-3xl">
+          <div className="rounded-xl border border-gray-100 bg-gray-50 p-8 dark:border-gray-800 dark:bg-gray-900/50">
+            <h3 className="mb-6 flex items-center gap-2 text-xl font-semibold text-gray-900 dark:text-white">
+              <CheckCircle className="h-6 w-6 text-brand-red" />
               {t('common.whatYouGet')}
             </h3>
-            <ul className="space-y-2">
+            <ul className="grid gap-4 sm:grid-cols-2">
               {benefits.map((benefit, index) => (
                 <li key={index} className="flex items-start gap-3">
-                  <CheckCircle className="h-5 w-5 text-brand-red flex-shrink-0 mt-0.5" />
-                  <span className="text-sm text-foreground">{benefit}</span>
+                  <CheckCircle className="mt-1 h-5 w-5 flex-shrink-0 text-brand-red" />
+                  <span className="text-gray-700 dark:text-gray-300">{benefit}</span>
                 </li>
               ))}
             </ul>
           </div>
         </div>
 
-        <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
-          <Button
-            asChild
-            size="lg"
-            className="bg-brand-red hover:bg-brand-red/90 shadow-lg hover:shadow-xl transition-all duration-300 hover:scale-105 group w-full sm:w-auto"
-          >
-            <Link href={`/${locale}/kapcsolat?subject=Szerviz%20és%20javítás`}>
+        <div className="flex flex-col items-center justify-center gap-4 sm:flex-row">
+          <Link href={`/${locale}/kapcsolat?subject=Szerviz%20és%20javítás`}>
+            <CTAButton className="w-full sm:w-auto">
               {t('repairService.cta.main')}
-              <ArrowRight className="ml-2 h-5 w-5 transition-transform group-hover:translate-x-1" aria-hidden="true" />
-            </Link>
-          </Button>
-          <Button
-            asChild
-            size="lg"
-            variant="outline"
-            className="border-brand-red/30 hover:border-brand-red/50 hover:bg-brand-red/5 w-full sm:w-auto"
-          >
-            <Link href={`/${locale}/${repairUrl}`}>
+            </CTAButton>
+          </Link>
+          <Link href={`/${locale}/${repairUrl}`}>
+            <Button
+              variant="outline"
+              size="lg"
+              className="w-full border-gray-200 hover:bg-gray-50 hover:text-brand-red dark:border-gray-800 dark:hover:bg-gray-900 sm:w-auto"
+            >
               {t('repairService.cta.learnMore')}
-            </Link>
-          </Button>
+            </Button>
+          </Link>
         </div>
       </div>
     </section>

@@ -1,0 +1,62 @@
+{
+    "networkOptimizationPage": {
+        "breadcrumb": {
+            "home": "Domov",
+            "networkOptimization": "Optimalizácia siete"
+        },
+        "hero": {
+            "title": "Firemná sieť a Wi-Fi: Plánovanie, optimalizácia a údržba",
+            "subtitle": "Urobte svoju firemnú sieť stabilnou, rýchlou a bezpečnou",
+            "description": "Ak je Vaša Wi-Fi pomalá, pripojenia padajú alebo je sieť nespoľahlivá, brzdí to výkon celého Vášho podnikania. SIRONIC navrhuje, optimalizuje a udržiava moderné firemné siete – aby každé zariadenie fungovalo rýchlo, bezpečne a spoľahlivo.",
+            "cta": "Vyžiadať bezplatnú analýzu siete",
+            "scrollDown": "Posuňte sa nižšie pre podrobnosti"
+        },
+        "problems": {
+            "title": "Časté sieťové problémy vo firmách",
+            "subtitle": "Znie to známo?",
+            "items": [
+                "Pomalé alebo nestabilné Wi-Fi v práci",
+                "Slabý signál a mŕtve zóny v kancelárii",
+                "Zastarané routery a prístupové body",
+                "Žiadna separácia hosťovskej siete",
+                "Príliš veľa zariadení v jednej sieti – všetko sa spomaľuje",
+                "Bezpečnostné zraniteľnosti a nechránená sieť",
+                "Žiadne monitorovanie alebo plán riešenia problémov"
+            ]
+        },
+        "services": {
+            "title": "Čo ponúkame?",
+            "subtitle": "Kompletné sieťové riešenia pre malé a stredné podniky",
+            "items": [
+                {
+                    "title": "Teljes hálózati felmérés és diagnosztika",
+                    "description": "Felmérjük a jelenlegi hálózati infrastruktúrát, azonosítjuk a problémákat és javaslatot teszünk az optimalizálásra."
+                },
+                {
+                    "title": "Wi-Fi jelterv és lefedettségi elemzés",
+                    "description": "Megtervezzük a Wi-Fi hálózatot, hogy minden helyiségben erős legyen a jel – holt terek nélkül."
+                },
+                {
+                    "title": "Új vállalati hálózat megtervezése",
+                    "description": "Nulláról építünk üzleti szintű hálózatot, amely skálázható, gyors és biztonságos."
+                },
+                {
+                    "title": "Üzleti eszközök telepítése (MikroTik, Ubiquiti, UniFi)",
+                    "description": "Professzionális hálózati eszközök kiválasztása és telepítése – routerek, switchek, access pointok."
+                },
+                {
+                    "title": "Kábelezés és infrastruktúra fejlesztés",
+                    "description": "Strukturált kábelezés kiépítése, patch panelek, szerverszekrények – rendezett és jövőálló infrastruktúra."
+                },
+                {
+                    "title": "Biztonsági beállítások, VLAN, tűzfal",
+                    "description": "Hálózati szegmentálás, vendég hálózatok, tűzfal konfiguráció – hogy az adataid biztonságban legyenek."
+                },
+                {
+                    "title": "Hálózatfelügyelet és monitoring",
+                    "description": "Folyamatos monitoring és proaktív karbantartás – mielőtt bármi probléma lenne, már tudjuk és kezeljük."
+                }
+            ]
+        }
+    }
+}

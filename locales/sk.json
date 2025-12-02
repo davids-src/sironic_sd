@@ -1224,14 +1224,14 @@
       "networkOptimization": "Optimalizácia siete"
     },
     "hero": {
-      "title": "Podniková sieť a Wi-Fi: návrh, optimalizácia a správa",
-      "subtitle": "Urobte sieť vašej spoločnosti stabilnou, rýchlou a bezpečnou",
-      "description": "Ak je vaše Wi-Fi pomalé, pripojenia sa prerušujú alebo je sieť nespoľahlivá, brzd to výkon celej vašej firmy. SIRONIC navrhuje, optimalizuje a udržiava moderné podnikové siete – aby každé zariadenie fungovalo rýchlo, bezpečne a spoľahlivo.",
+      "title": "Firemná sieť a Wi-Fi: Plánovanie, optimalizácia a údržba",
+      "subtitle": "Urobte svoju firemnú sieť stabilnou, rýchlou a bezpečnou",
+      "description": "Ak je Vaša Wi-Fi pomalá, pripojenia padajú alebo je sieť nespoľahlivá, brzdí to výkon celého Vášho podnikania. SIRONIC navrhuje, optimalizuje a udržiava moderné firemné siete – aby každé zariadenie fungovalo rýchlo, bezpečne a spoľahlivo.",
       "cta": "Vyžiadať bezplatnú analýzu siete",
-      "scrollDown": "Posunúť sa nadol pre podrobnosti"
+      "scrollDown": "Posuňte sa nižšie pre podrobnosti"
     },
     "problems": {
-      "title": "Najčastejšie problémy firiem so sieťami",
+      "title": "Časté sieťové problémy vo firmách",
       "subtitle": "Znie to známo?",
       "items": [
         "Pomalé alebo nestabilné Wi-Fi v práci",
