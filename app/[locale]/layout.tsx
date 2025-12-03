@@ -5,6 +5,7 @@ import { Header } from '@/components/Header';
 import { Footer } from '@/components/Footer';
 import { SkipToContent } from '@/components/SkipToContent';
 import { GoogleAnalytics } from '@/components/GoogleAnalytics';
+import { GoogleAnalyticsDebug } from '@/components/GoogleAnalyticsDebug';
 import { notFound } from 'next/navigation';
 import { locales } from '@/i18n';
 import HreflangTags from '@/components/HreflangTags';
@@ -85,6 +86,7 @@ export default async function RootLayout({
       </head>
       <body className={inter.className}>
         <GoogleAnalytics gaId={process.env.NEXT_PUBLIC_GA_ID || ''} />
+        <GoogleAnalyticsDebug />
         <TranslationsProvider messages={messages} locale={locale}>
           <SkipToContent />
           <Header />
