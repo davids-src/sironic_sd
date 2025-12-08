@@ -29,14 +29,7 @@ export function middleware(request: NextRequest) {
     return NextResponse.next();
   }
 
-  // Bot detection
-  const userAgent = request.headers.get('user-agent') || '';
-  const isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
 
-  // If it's a bot, redirect to default locale to ensure consistent indexing
-  if (isBot) {
-    return NextResponse.redirect(new URL(`/${defaultLocale}${pathname}`, request.url));
-  }
 
   // Check for saved locale in cookie
   const savedLocale = request.cookies.get('NEXT_LOCALE')?.value;

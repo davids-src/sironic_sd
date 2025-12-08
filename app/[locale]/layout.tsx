@@ -29,6 +29,17 @@ export async function generateMetadata({ params }: { params: { locale: string } 
     description: messages.meta.siteDescription,
     keywords: messages.meta.keywords ?? [],
     authors: [{ name: messages.meta.companyName }],
+    robots: {
+      index: true,
+      follow: true,
+      googleBot: {
+        index: true,
+        follow: true,
+        'max-video-preview': -1,
+        'max-image-preview': 'large',
+        'max-snippet': -1,
+      },
+    },
     alternates: {
       canonical: `${baseUrl}/${locale}`,
       languages: {
