@@ -45,6 +45,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
       { path: 'minden-cegnek-legyen-informatikusa', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['hu'] },
       { path: 'egyedi-alkalmazas-fejlesztes', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['hu'] },
       { path: 'halozat-fejlesztes', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['hu'] },
+      { path: 'onsite-jelenlet', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['hu'] },
       { path: 'szerviz-javitas', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['hu'] },
       { path: 'szolgaltatasok', changeFreq: 'monthly', priority: 0.8, allowedLocales: ['hu'] }, // Currently shared but HU name
       { path: 'termekeink', changeFreq: 'weekly', priority: 0.7, allowedLocales: ['hu'] }, // Currently shared but HU name
@@ -57,6 +58,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
       { path: 'it-training', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['en'] },
       { path: 'custom-application-development', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['en'] },
       { path: 'network-optimization', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['en'] },
+      { path: 'onsite-presence', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['en'] },
       { path: 'repair-service', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['en'] },
       // Note: The main nav pages (About, Contact, etc) currently use HU paths for EN too in the codebase.
       // Until we create localized routes for them, we must include them for EN/DE/etc using the HU path
@@ -67,18 +69,21 @@ export default function sitemap(): MetadataRoute.Sitemap {
       { path: 'it-schulung', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['de'] },
       { path: 'individuelle-anwendungsentwicklung', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['de'] },
       { path: 'netzwerk-optimierung', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['de'] },
+      { path: 'onsite-prasenz', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['de'] },
       { path: 'reparatur-service', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['de'] },
 
       // SK specific routes
       { path: 'it-vzdelavanie', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['sk'] },
       { path: 'vyvoj-vlastnych-aplikacii', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['sk'] },
       { path: 'optimalizacia-siete', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['sk'] },
+      { path: 'onsite-pritomnost', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['sk'] },
       { path: 'servisne-sluzby', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['sk'] },
 
       // RO specific routes
       { path: 'training-it', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['ro'] },
       { path: 'dezvoltare-aplicatii-personalizate', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['ro'] },
       { path: 'optimizare-retea', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['ro'] },
+      { path: 'prezenta-onsite', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['ro'] },
       { path: 'servicii-reparatii', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['ro'] },
     ];
 

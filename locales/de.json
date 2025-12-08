@@ -131,6 +131,16 @@
           "vor-ort-service"
         ],
         "ogImage": "/og/repair-service-de.jpg"
+      },
+      "onsitePresence": {
+        "title": "IT On-Site Präsenz - SIRONIC IT-Systemhaus",
+        "description": "Professionelle IT-Überwachung und technischer Support für Events und Konferenzen. Dedizierter Spezialist vor Ort.",
+        "keywords": [
+          "IT on-site",
+          "event IT",
+          "konferenz technik",
+          "IT support"
+        ]
       }
     }
   },
@@ -1549,6 +1559,169 @@
       "title": "Probleme mit Ihrem Gerät?",
       "description": "Rufen Sie uns an oder senden Sie eine Nachricht, und wir reparieren es bald! Schnelle Diagnose, transparente Preise, zuverlässige Reparaturen.",
       "button": "Problem jetzt melden"
+    }
+  },
+  "onsitePresence": {
+    "badge": "Event-IT-Support",
+    "title": "IT On-Site Präsenz für Events",
+    "subtitle": "Professioneller IT-Spezialist vor Ort",
+    "description": "Sichern Sie die technische Stabilität Ihrer Fachveranstaltung, Konferenz oder Firmenfeier mit dediziertem IT-Support vor Ort.",
+    "cards": {
+      "onsite": {
+        "title": "IT-Spezialist vor Ort",
+        "description": "Dedizierter IT-Profi, der Ihr Event von Anfang bis Ende begleitet."
+      },
+      "stability": {
+        "title": "Technische Stabilität",
+        "description": "Proaktive Überwachung und sofortiges Eingreifen."
+      },
+      "equipment": {
+        "title": "Gerätemanagement",
+        "description": "Einrichtung und Überwachung von Laptops, Netzwerken und Streaming-Equipment."
+      }
+    },
+    "cta": {
+      "main": "Angebot anfordern",
+      "learnMore": "Mehr erfahren"
+    }
+  },
+  "onsitePresencePage": {
+    "breadcrumb": {
+      "home": "Startseite",
+      "onsitePresence": "IT On-Site Präsenz"
+    },
+    "hero": {
+      "title": "IT On-Site Präsenz für Events",
+      "subtitle": "Professioneller IT-Support vor Ort für Konferenzen und Veranstaltungen",
+      "description": "Wünschen Sie ein pannenfreies Event? Mit dem IT On-Site Präsenz Service von SIRONIC erhalten Sie eine garantiert stabile und zuverlässige IT-Infrastruktur.",
+      "cta": "Kostenlose Beratung anfordern"
+    },
+    "intro": {
+      "title": "Warum einen IT-Spezialisten zum Event mitbringen?",
+      "content": [
+        "Der Erfolg einer professionellen Veranstaltung hängt oft von der technischen Stabilität ab. Wenn die Technik versagt, leidet der Ruf des Events.",
+        "Mit SIRONIC IT On-Site Präsenz erhalten Sie einen erfahrenen IT-Spezialisten, der für einen reibungslosen Ablauf sorgt."
+      ]
+    },
+    "services": {
+      "title": "Was bieten wir an?",
+      "subtitle": "Umfassender technischer Support",
+      "items": [
+        {
+          "title": "Event-Vorbereitung",
+          "description": "Installation und Test der Geräte vor dem Event.",
+          "topics": [
+            "Installation",
+            "Tests",
+            "Konfiguration"
+          ]
+        },
+        {
+          "title": "Netzwerk & WLAN",
+          "description": "Stabiles Internet für alle Teilnehmer.",
+          "topics": [
+            "WLAN-Planung",
+            "Bandbreite",
+            "Monitoring"
+          ]
+        },
+        {
+          "title": "Streaming-Support",
+          "description": "Technischer Hintergrund für Live-Streams und Hybrid-Events.",
+          "topics": [
+            "OBS",
+            "Kameras",
+            "Audio"
+          ]
+        }
+      ]
+    },
+    "eventTypes": {
+      "title": "Unterstützte Events",
+      "subtitle": "Jede Veranstaltung, bei der IT kritisch ist",
+      "types": [
+        {
+          "title": "Konferenzen",
+          "description": "Große Fachveranstaltungen."
+        },
+        {
+          "title": "Hybrid-Events",
+          "description": "Verbindung von Online- und Offline-Teilnehmern."
+        },
+        {
+          "title": "Workshops",
+          "description": "Technischer Support für praktische Schulungen."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Warum wir?",
+      "items": [
+        "Erfahrene Profis",
+        "Sofortige Fehlerbehebung",
+        "Flexible Verfügbarkeit",
+        "Professionelles Equipment"
+      ]
+    },
+    "process": {
+      "title": "Prozess",
+      "subtitle": "So arbeiten wir zusammen",
+      "steps": [
+        {
+          "title": "Bedarfsanalyse",
+          "description": "Besprechung der technischen Anforderungen."
+        },
+        {
+          "title": "Planung",
+          "description": "Design der notwendigen Infrastruktur."
+        },
+        {
+          "title": "Durchführung",
+          "description": "Aufbau und Betrieb vor Ort."
+        },
+        {
+          "title": "Betreuung",
+          "description": "Durchgehende Präsenz während des Events."
+        },
+        {
+          "title": "Abschluss",
+          "description": "Abbau und Auswertung."
+        }
+      ]
+    },
+    "faq": {
+      "title": "FAQ",
+      "items": [
+        {
+          "question": "Welche Art von Events unterstützen Sie?",
+          "answer": "Alles von kleinen Workshops bis zu großen Konferenzen."
+        },
+        {
+          "question": "Stellen Sie auch Geräte bereit?",
+          "answer": "Ja, auf Wunsch bieten wir auch Vermietung an."
+        },
+        {
+          "question": "Wie viel kostet es?",
+          "answer": "Basierend auf einem individuellen Angebot je nach Anforderungen."
+        },
+        {
+          "question": "Reisen Sie landesweit?",
+          "answer": "Ja, wir übernehmen Aufträge in ganz Ungarn."
+        }
+      ]
+    },
+    "pricing": {
+      "title": "Preise",
+      "subtitle": "Nach individuellem Angebot",
+      "description": "Jedes Event ist anders, daher passen wir unsere Preise Ihren Bedürfnissen an.",
+      "process": "Holen Sie ein Angebot ein!",
+      "cta": "Angebot anfordern"
+    },
+    "availabilityNote": "Dieser Service ist in ganz Ungarn verfügbar.",
+    "finalCta": {
+      "title": "Sichern Sie den Erfolg!",
+      "description": "Überlassen Sie die Technik nicht dem Zufall.",
+      "button": "Angebot anfordern"
     }
   }
 }

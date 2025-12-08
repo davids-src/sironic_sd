@@ -131,6 +131,16 @@
           "obnovenie dát"
         ],
         "ogImage": "/og/repair-service-sk.jpg"
+      },
+      "onsitePresence": {
+        "title": "IT On-Site Prítomnosť - SIRONIC IT Riešenia",
+        "description": "Profesionálny IT dohľad a technická podpora pre podujatia a konferencie. Dedikovaný špecialista na mieste.",
+        "keywords": [
+          "IT on-site",
+          "event IT",
+          "konferenčná technika",
+          "IT podpora"
+        ]
       }
     }
   },
@@ -1549,6 +1559,169 @@
       "title": "Problémy so zariadením?",
       "description": "Zavolajte nám alebo pošlite správu a čoskoro to opravíme! Rýchla diagnostika, transparentné ceny, spoľahlivé opravy.",
       "button": "Nahlásiť problém teraz"
+    }
+  },
+  "onsitePresence": {
+    "badge": "IT Podpora Podujatí",
+    "title": "IT On-Site Prítomnosť na Podujatiach",
+    "subtitle": "Profesionálny IT špecialista na mieste",
+    "description": "Zabezpečte technickú stabilitu vášho odborného podujatia, konferencie alebo firemnej akcie s dedikovanou IT podporou na mieste.",
+    "cards": {
+      "onsite": {
+        "title": "IT špecialista na mieste",
+        "description": "Dedikovaný IT profesionál sprevádzajúci vaše podujatie od začiatku do konca."
+      },
+      "stability": {
+        "title": "Technická stabilita",
+        "description": "Proaktívny monitoring a okamžitý zásah."
+      },
+      "equipment": {
+        "title": "Správa zariadení",
+        "description": "Nastavenie a dohľad nad notebookmi, sieťami a streamovacou technikou."
+      }
+    },
+    "cta": {
+      "main": "Vyžiadať ponuku",
+      "learnMore": "Dozvedieť sa viac"
+    }
+  },
+  "onsitePresencePage": {
+    "breadcrumb": {
+      "home": "Domov",
+      "onsitePresence": "IT On-Site Prítomnosť"
+    },
+    "hero": {
+      "title": "IT On-Site Prítomnosť na Podujatiach",
+      "subtitle": "Profesionálna IT podpora na mieste pre konferencie a podujatia",
+      "description": "Chcete podujatie bez technických problémov? So službou SIRONIC IT On-Site Prítomnosť získate garantovanú stabilnú a spoľahlivú IT infraštruktúru.",
+      "cta": "Požiadať o bezplatnú konzultáciu"
+    },
+    "intro": {
+      "title": "Prečo mať IT špecialistu na podujatí?",
+      "content": [
+        "Úspech profesionálneho podujatia často závisí od technickej stability. Ak technika zlyhá, trpí povesť celého podujatia.",
+        "So SIRONIC IT On-Site Prítomnosť získate skúseného IT špecialistu, ktorý zabezpečí hladký priebeh."
+      ]
+    },
+    "services": {
+      "title": "Čo ponúkame?",
+      "subtitle": "Komplexná technická podpora",
+      "items": [
+        {
+          "title": "Príprava podujatia",
+          "description": "Inštalácia a testovanie zariadení pred akciou.",
+          "topics": [
+            "Inštalácia",
+            "Testovanie",
+            "Konfigurácia"
+          ]
+        },
+        {
+          "title": "Sieť a Wi-Fi",
+          "description": "Stabilný internet pre všetkých účastníkov.",
+          "topics": [
+            "Plánovanie Wi-Fi",
+            "Šírka pásma",
+            "Monitoring"
+          ]
+        },
+        {
+          "title": "Podpora streamovania",
+          "description": "Technické zázemie pre živé prenosy a hybridné podujatia.",
+          "topics": [
+            "OBS",
+            "Kamery",
+            "Audio"
+          ]
+        }
+      ]
+    },
+    "eventTypes": {
+      "title": "Podporované podujatia",
+      "subtitle": "Akékoľvek podujatie, kde je IT kritické",
+      "types": [
+        {
+          "title": "Konferencie",
+          "description": "Veľké odborné stretnutia."
+        },
+        {
+          "title": "Hybridné podujatia",
+          "description": "Prepojenie online a offline účastníkov."
+        },
+        {
+          "title": "Workshopy",
+          "description": "Technická podpora pre praktické školenia."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Prečo my?",
+      "items": [
+        "Skúsení profesionáli",
+        "Okamžité riešenie problémov",
+        "Flexibilná dostupnosť",
+        "Profesionálne vybavenie"
+      ]
+    },
+    "process": {
+      "title": "Proces",
+      "subtitle": "Ako spolupracujeme",
+      "steps": [
+        {
+          "title": "Analýza potrieb",
+          "description": "Konzultácia technických požiadaviek."
+        },
+        {
+          "title": "Plánovanie",
+          "description": "Návrh potrebnej infraštruktúry."
+        },
+        {
+          "title": "Realizácia",
+          "description": "Inštalácia a prevádzka na mieste."
+        },
+        {
+          "title": "Dohľad",
+          "description": "Neustála prítomnosť počas podujatia."
+        },
+        {
+          "title": "Ukončenie",
+          "description": "Demontáž a vyhodnotenie."
+        }
+      ]
+    },
+    "faq": {
+      "title": "FAQ",
+      "items": [
+        {
+          "question": "Aké typy podujatí podporujete?",
+          "answer": "Všetko od malých workshopov po veľké konferencie."
+        },
+        {
+          "question": "Poskytujete aj zariadenia?",
+          "answer": "Áno, na požiadanie ponúkame aj prenájom."
+        },
+        {
+          "question": "Koľko to stojí?",
+          "answer": "Na základe individuálnej ponuky podľa požiadaviek."
+        },
+        {
+          "question": "Cestujete po celej krajine?",
+          "answer": "Áno, prijímame zákazky v celom Maďarsku."
+        }
+      ]
+    },
+    "pricing": {
+      "title": "Cenník",
+      "subtitle": "Podľa individuálnej ponuky",
+      "description": "Každé podujatie je iné, preto ceny prispôsobujeme vašim potrebám.",
+      "process": "Vyžiadajte si ponuku!",
+      "cta": "Vyžiadať ponuku"
+    },
+    "availabilityNote": "Táto služba je dostupná v celom Maďarsku.",
+    "finalCta": {
+      "title": "Zabezpečte úspech!",
+      "description": "Nenechávajte techniku na náhodu.",
+      "button": "Vyžiadať ponuku"
     }
   }
 }

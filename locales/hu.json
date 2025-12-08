@@ -138,6 +138,16 @@
           "helyszíni szerviz"
         ],
         "ogImage": "/og/repair-service-hu.jpg"
+      },
+      "onsitePresence": {
+        "title": "IT On-Site Jelenlét - SIRONIC Rendszerház",
+        "description": "Professzionális IT felügyelet és technikai támogatás rendezvényekre, konferenciákra. Dedikált szakember a helyszínen.",
+        "keywords": [
+          "IT on-site",
+          "rendezvény IT",
+          "konferencia technika",
+          "IT felügyelet"
+        ]
       }
     }
   },
@@ -1542,6 +1552,169 @@
       "title": "Gond van az eszközöddel?",
       "description": "Hívj minket vagy küldj üzenetet, és hamar rendbe hozzuk! Gyors diagnosztika, átlátható árak, megbízható javítás.",
       "button": "Hibabejelentés most"
+    }
+  },
+  "onsitePresence": {
+    "badge": "Rendezvény IT támogatás",
+    "title": "IT On-Site Jelenlét eseményekre",
+    "subtitle": "Professzionális IT szakember a helyszínen",
+    "description": "Biztosítsd szakmai rendezvényed, konferenciád vagy céges eseményed technikai stabilitását dedikált helyszíni IT támogatással.",
+    "cards": {
+      "onsite": {
+        "title": "Helyszíni IT szakember",
+        "description": "Dedikált IT-s a helyszínen, aki végigkíséri a rendezvényt."
+      },
+      "stability": {
+        "title": "Technikai stabilitás",
+        "description": "Proaktív felügyelet és azonnali beavatkozás."
+      },
+      "equipment": {
+        "title": "Eszközfelügyelet",
+        "description": "Laptopok, hálózat, streaming beállítása és felügyelete."
+      }
+    },
+    "cta": {
+      "main": "Kérjen ajánlatot",
+      "learnMore": "Tudjon meg többet"
+    }
+  },
+  "onsitePresencePage": {
+    "breadcrumb": {
+      "home": "Főoldal",
+      "onsitePresence": "IT On-Site Jelenlét"
+    },
+    "hero": {
+      "title": "IT On-Site Jelenlét eseményekre",
+      "subtitle": "Professzionális helyszíni IT támogatás rendezvényekhez",
+      "description": "Technikai problémák nélküli rendezvény? A SIRONIC IT On-Site Jelenlét szolgáltatásával garantáltan stabil és megbízható IT-infrastruktúrát kapsz.",
+      "cta": "Kérjen ingyenes konzultációt"
+    },
+    "intro": {
+      "title": "Miért érdemes IT szakembert vinni a rendezvényre?",
+      "content": [
+        "Egy profi rendezvény sikere gyakran múlik a technikai stabilitáson. Ha a technika ördöge közbeszól, az egész esemény megítélése csorbulhat.",
+        "A SIRONIC IT On-Site Jelenlét szolgáltatásával egy tapasztalt IT-szakembert kapsz, aki biztosítja a zavartalan működést."
+      ]
+    },
+    "services": {
+      "title": "Mit kínálunk?",
+      "subtitle": "Teljes körű technikai támogatás",
+      "items": [
+        {
+          "title": "Rendezvény-előkészítés",
+          "description": "Eszközök telepítése, tesztelése az esemény előtt.",
+          "topics": [
+            "Telepítés",
+            "Tesztelés",
+            "Konfigurálás"
+          ]
+        },
+        {
+          "title": "Hálózat és Wi-Fi",
+          "description": "Stabil internet biztosítása minden résztvevőnek.",
+          "topics": [
+            "Wi-Fi tervezés",
+            "Sávszélesség",
+            "Monitoring"
+          ]
+        },
+        {
+          "title": "Streaming támogatás",
+          "description": "Élő közvetítések és hibrid események technikai háttere.",
+          "topics": [
+            "OBS",
+            "Kamerák",
+            "Hangosítás"
+          ]
+        }
+      ]
+    },
+    "eventTypes": {
+      "title": "Támogatott események",
+      "subtitle": "Bármilyen rendezvény, ahol az IT kritikus",
+      "types": [
+        {
+          "title": "Konferenciák",
+          "description": "Nagy létszámú szakmai rendezvények."
+        },
+        {
+          "title": "Hibrid események",
+          "description": "Online és offline résztvevők összekapcsolása."
+        },
+        {
+          "title": "Workshopok",
+          "description": "Gyakorlati képzések technikai támogatása."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Miért mi?",
+      "items": [
+        "Tapasztalt szakemberek",
+        "Azonnali hibaelhárítás",
+        "Rugalmas rendelkezésre állás",
+        "Professzionális eszközpark"
+      ]
+    },
+    "process": {
+      "title": "Folyamat",
+      "subtitle": "Így dolgozunk együtt",
+      "steps": [
+        {
+          "title": "Igényfelmérés",
+          "description": "Egyeztetjük a technikai követelményeket."
+        },
+        {
+          "title": "Tervezés",
+          "description": "Megtervezzük a szükséges infrastruktúrát."
+        },
+        {
+          "title": "Kivitelezés",
+          "description": "Helyszíni telepítés és üzemeltetés."
+        },
+        {
+          "title": "Felügyelet",
+          "description": "Folyamatos jelenlét az esemény alatt."
+        },
+        {
+          "title": "Lezárás",
+          "description": "Bontás és értékelés."
+        }
+      ]
+    },
+    "faq": {
+      "title": "GYIK",
+      "items": [
+        {
+          "question": "Milyen rendezvényeket vállalnak?",
+          "answer": "Kisebb workshopoktól a nagy konferenciákig bármit."
+        },
+        {
+          "question": "Eszközöket is biztosítanak?",
+          "answer": "Igen, igény esetén bérbeadást is vállalunk."
+        },
+        {
+          "question": "Mennyibe kerül?",
+          "answer": "Egyedi árajánlat alapján, az igényektől függően."
+        },
+        {
+          "question": "Vidékre is kiszállnak?",
+          "answer": "Igen, országosan vállalunk megbízásokat."
+        }
+      ]
+    },
+    "pricing": {
+      "title": "Árazás",
+      "subtitle": "Egyedi ajánlat alapján",
+      "description": "Minden rendezvény más, így árainkat az igényekhez igazítjuk.",
+      "process": "Kérjen ajánlatot!",
+      "cta": "Ajánlatkérés"
+    },
+    "availabilityNote": "Ez a szolgáltatás Magyarország teljes területén elérhető.",
+    "finalCta": {
+      "title": "Biztosítsd a sikert!",
+      "description": "Ne bízza a véletlenre a technikát.",
+      "button": "Kérek ajánlatot"
     }
   }
 }

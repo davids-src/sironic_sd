@@ -136,6 +136,16 @@
           "on-site repair"
         ],
         "ogImage": "/og/repair-service-en.jpg"
+      },
+      "onsitePresence": {
+        "title": "IT On-Site Presence - SIRONIC IT Solutions",
+        "description": "Professional IT supervision and technical support for events and conferences. Dedicated specialist on-site.",
+        "keywords": [
+          "IT on-site",
+          "event IT",
+          "conference tech",
+          "IT supervision"
+        ]
       }
     }
   },
@@ -1554,6 +1564,169 @@
       "title": "Having Issues with Your Device?",
       "description": "Call us or send a message, and we'll fix it soon! Fast diagnostics, transparent prices, reliable repairs.",
       "button": "Report Issue Now"
+    }
+  },
+  "onsitePresence": {
+    "badge": "Event IT Support",
+    "title": "IT On-Site Presence for Events",
+    "subtitle": "Professional IT Specialist on Location",
+    "description": "Ensure the technical stability of your professional event, conference, or corporate gathering with dedicated on-site IT support.",
+    "cards": {
+      "onsite": {
+        "title": "On-Site IT Specialist",
+        "description": "Dedicated IT pro accompanying your event from start to finish."
+      },
+      "stability": {
+        "title": "Technical Stability",
+        "description": "Proactive monitoring and immediate intervention."
+      },
+      "equipment": {
+        "title": "Equipment Management",
+        "description": "Setup and supervision of laptops, networks, and streaming gear."
+      }
+    },
+    "cta": {
+      "main": "Get a Quote",
+      "learnMore": "Learn More"
+    }
+  },
+  "onsitePresencePage": {
+    "breadcrumb": {
+      "home": "Home",
+      "onsitePresence": "IT On-Site Presence"
+    },
+    "hero": {
+      "title": "IT On-Site Presence for Events",
+      "subtitle": "Professional On-Site IT Support for Conferences and Events",
+      "description": "Want a glitch-free event? With SIRONIC's IT On-Site Presence service, you get guaranteed stable and reliable IT infrastructure.",
+      "cta": "Request Free Consultation"
+    },
+    "intro": {
+      "title": "Why bring an IT specialist to your event?",
+      "content": [
+        "The success of a professional event often hinges on technical stability. If the tech fails, the event's reputation suffers.",
+        "With SIRONIC's IT On-Site Presence, you get an experienced IT specialist ensuring smooth operations."
+      ]
+    },
+    "services": {
+      "title": "What do we offer?",
+      "subtitle": "Comprehensive Technical Support",
+      "items": [
+        {
+          "title": "Event Prep & Setup",
+          "description": "Installing and testing equipment before the event.",
+          "topics": [
+            "Installation",
+            "Testing",
+            "Configuration"
+          ]
+        },
+        {
+          "title": "Network & Wi-Fi",
+          "description": "Ensuring stable internet for all attendees.",
+          "topics": [
+            "Wi-Fi Planning",
+            "Bandwidth",
+            "Monitoring"
+          ]
+        },
+        {
+          "title": "Streaming Support",
+          "description": "Technical background for live streams and hybrid events.",
+          "topics": [
+            "OBS",
+            "Cameras",
+            "Audio"
+          ]
+        }
+      ]
+    },
+    "eventTypes": {
+      "title": "Supported Events",
+      "subtitle": "Any event where IT is critical",
+      "types": [
+        {
+          "title": "Conferences",
+          "description": "Large-scale professional gatherings."
+        },
+        {
+          "title": "Hybrid Events",
+          "description": "Connecting online and offline participants."
+        },
+        {
+          "title": "Workshops",
+          "description": "Technical support for practical training sessions."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Why Us?",
+      "items": [
+        "Experienced Professionals",
+        "Immediate Troubleshooting",
+        "Flexible Availability",
+        "Professional Equipment"
+      ]
+    },
+    "process": {
+      "title": "Process",
+      "subtitle": "How we work together",
+      "steps": [
+        {
+          "title": "Assessment",
+          "description": "Discussing technical requirements."
+        },
+        {
+          "title": "Planning",
+          "description": "Designing the necessary infrastructure."
+        },
+        {
+          "title": "Execution",
+          "description": "On-site setup and operation."
+        },
+        {
+          "title": "Supervision",
+          "description": "Continuous presence during the event."
+        },
+        {
+          "title": "Closure",
+          "description": "Dismantling and evaluation."
+        }
+      ]
+    },
+    "faq": {
+      "title": "FAQ",
+      "items": [
+        {
+          "question": "What types of events do you support?",
+          "answer": "Anything from small workshops to large conferences."
+        },
+        {
+          "question": "Do you provide equipment?",
+          "answer": "Yes, we offer rental services upon request."
+        },
+        {
+          "question": "How much does it cost?",
+          "answer": "Based on a custom quote depending on requirements."
+        },
+        {
+          "question": "Do you travel nationwide?",
+          "answer": "Yes, we accept assignments throughout Hungary."
+        }
+      ]
+    },
+    "pricing": {
+      "title": "Pricing",
+      "subtitle": "Based on Custom Quote",
+      "description": "Every event is different, so we tailor our prices to your needs.",
+      "process": "Get a quote!",
+      "cta": "Request Quote"
+    },
+    "availabilityNote": "This service is available throughout Hungary.",
+    "finalCta": {
+      "title": "Ensure Success!",
+      "description": "Don't leave the technical side to chance.",
+      "button": "Get a Quote"
     }
   }
 }

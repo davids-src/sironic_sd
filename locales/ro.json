@@ -130,6 +130,16 @@
           "recuperare date"
         ],
         "ogImage": "/og/repair-service-ro.jpg"
+      },
+      "onsitePresence": {
+        "title": "Prezență IT On-Site - SIRONIC Soluții IT",
+        "description": "Supraveghere IT profesională și suport tehnic pentru evenimente și conferințe. Specialist dedicat la fața locului.",
+        "keywords": [
+          "IT on-site",
+          "IT evenimente",
+          "tehnică conferințe",
+          "suport IT"
+        ]
       }
     }
   },
@@ -1548,6 +1558,169 @@
       "title": "Ai probleme cu dispozitivul?",
       "description": "Sună-ne sau trimite un mesaj și îl reparăm curând! Diagnostic rapid, prețuri transparente, reparații fiabile.",
       "button": "Raportează problema acum"
+    }
+  },
+  "onsitePresence": {
+    "badge": "Suport IT Evenimente",
+    "title": "Prezență IT On-Site pentru Evenimente",
+    "subtitle": "Specialist IT Profesionist la Fața Locului",
+    "description": "Asigurați stabilitatea tehnică a evenimentului profesional, conferinței sau întâlnirii corporative cu suport IT dedicat la fața locului.",
+    "cards": {
+      "onsite": {
+        "title": "Specialist IT la Fața Locului",
+        "description": "Profesionist IT dedicat care însoțește evenimentul de la început până la sfârșit."
+      },
+      "stability": {
+        "title": "Stabilitate Tehnică",
+        "description": "Monitorizare proactivă și intervenție imediată."
+      },
+      "equipment": {
+        "title": "Management Echipamente",
+        "description": "Configurarea și supravegherea laptopurilor, rețelelor și echipamentelor de streaming."
+      }
+    },
+    "cta": {
+      "main": "Cere Ofertă",
+      "learnMore": "Află Mai Multe"
+    }
+  },
+  "onsitePresencePage": {
+    "breadcrumb": {
+      "home": "Acasă",
+      "onsitePresence": "Prezență IT On-Site"
+    },
+    "hero": {
+      "title": "Prezență IT On-Site pentru Evenimente",
+      "subtitle": "Suport IT Profesionist la Fața Locului pentru Conferințe și Evenimente",
+      "description": "Doriți un eveniment fără probleme tehnice? Cu serviciul SIRONIC Prezență IT On-Site, beneficiați de o infrastructură IT garantat stabilă și fiabilă.",
+      "cta": "Solicită Consultație Gratuită"
+    },
+    "intro": {
+      "title": "De ce să aduceți un specialist IT la eveniment?",
+      "content": [
+        "Succesul unui eveniment profesional depinde adesea de stabilitatea tehnică. Dacă tehnologia eșuează, reputația evenimentului are de suferit.",
+        "Cu SIRONIC Prezență IT On-Site, primiți un specialist IT experimentat care asigură o desfășurare fără probleme."
+      ]
+    },
+    "services": {
+      "title": "Ce oferim?",
+      "subtitle": "Suport Tehnic Complet",
+      "items": [
+        {
+          "title": "Pregătire Eveniment",
+          "description": "Instalarea și testarea echipamentelor înainte de eveniment.",
+          "topics": [
+            "Instalare",
+            "Testare",
+            "Configurare"
+          ]
+        },
+        {
+          "title": "Rețea și Wi-Fi",
+          "description": "Internet stabil pentru toți participanții.",
+          "topics": [
+            "Planificare Wi-Fi",
+            "Lățime de bandă",
+            "Monitorizare"
+          ]
+        },
+        {
+          "title": "Suport Streaming",
+          "description": "Fundal tehnic pentru transmisiuni live și evenimente hibride.",
+          "topics": [
+            "OBS",
+            "Camere",
+            "Audio"
+          ]
+        }
+      ]
+    },
+    "eventTypes": {
+      "title": "Evenimente Susținute",
+      "subtitle": "Orice eveniment unde IT-ul este critic",
+      "types": [
+        {
+          "title": "Conferințe",
+          "description": "Întâlniri profesionale de mari dimensiuni."
+        },
+        {
+          "title": "Evenimente Hibride",
+          "description": "Conectarea participanților online și offline."
+        },
+        {
+          "title": "Workshop-uri",
+          "description": "Suport tehnic pentru sesiuni de instruire practică."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "De ce noi?",
+      "items": [
+        "Profesioniști Experimentați",
+        "Depanare Imediată",
+        "Disponibilitate Flexibilă",
+        "Echipamente Profesionale"
+      ]
+    },
+    "process": {
+      "title": "Proces",
+      "subtitle": "Cum lucrăm împreună",
+      "steps": [
+        {
+          "title": "Evaluare",
+          "description": "Discutarea cerințelor tehnice."
+        },
+        {
+          "title": "Planificare",
+          "description": "Proiectarea infrastructurii necesare."
+        },
+        {
+          "title": "Execuție",
+          "description": "Instalare și operare la fața locului."
+        },
+        {
+          "title": "Supraveghere",
+          "description": "Prezență continuă pe durata evenimentului."
+        },
+        {
+          "title": "Încheiere",
+          "description": "Demontare și evaluare."
+        }
+      ]
+    },
+    "faq": {
+      "title": "FAQ",
+      "items": [
+        {
+          "question": "Ce tipuri de evenimente susțineți?",
+          "answer": "Totul, de la mici workshop-uri la mari conferințe."
+        },
+        {
+          "question": "Oferiți și echipamente?",
+          "answer": "Da, la cerere oferim și servicii de închiriere."
+        },
+        {
+          "question": "Cât costă?",
+          "answer": "Pe baza unei oferte personalizate în funcție de cerințe."
+        },
+        {
+          "question": "Vă deplasați în toată țara?",
+          "answer": "Da, acceptăm comenzi în toată Ungaria."
+        }
+      ]
+    },
+    "pricing": {
+      "title": "Prețuri",
+      "subtitle": "Conform ofertei personalizate",
+      "description": "Fiecare eveniment este diferit, așa că ne adaptăm prețurile nevoilor dumneavoastră.",
+      "process": "Cereți o ofertă!",
+      "cta": "Cere Ofertă"
+    },
+    "availabilityNote": "Acest serviciu este disponibil în toată Ungaria.",
+    "finalCta": {
+      "title": "Asigurați Succesul!",
+      "description": "Nu lăsați tehnologia la voia întâmplării.",
+      "button": "Cere Ofertă"
     }
   }
 }

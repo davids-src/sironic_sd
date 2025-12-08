@@ -8,6 +8,7 @@ import { MindenCegnekSection } from '@/components/MindenCegnekSection';
 import { CustomDevelopmentSection } from '@/components/CustomDevelopmentSection';
 import { NetworkOptimizationSection } from '@/components/NetworkOptimizationSection';
 import { ItTrainingSection } from '@/components/ItTrainingSection';
+import { OnsitePresenceSection } from '@/components/OnsitePresenceSection';
 import { RepairServiceSection } from '@/components/RepairServiceSection';
 import { OrganizationSchema } from '@/components/structured-data/OrganizationSchema';
 import { LocalBusinessSchema } from '@/components/structured-data/LocalBusinessSchema';
@@ -103,6 +104,8 @@ export function HomePage() {
             <NetworkOptimizationSection />
 
             <ItTrainingSection />
+
+            <OnsitePresenceSection />
 
             <MindenCegnekSection />
 
