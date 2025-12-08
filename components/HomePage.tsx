@@ -99,17 +99,17 @@ export function HomePage() {
                 </div>
             </section>
 
+            <MindenCegnekSection />
+
             <CustomDevelopmentSection />
 
             <NetworkOptimizationSection />
 
+            <RepairServiceSection />
+
             <ItTrainingSection />
 
             <OnsitePresenceSection />
-
-            <MindenCegnekSection />
-
-            <RepairServiceSection />
 
             <section id="miert-valassz-minket" className="py-20 lg:py-32 bg-white dark:bg-gray-950">
                 <div className="container mx-auto px-4 md:px-6">
