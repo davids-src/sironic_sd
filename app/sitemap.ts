@@ -79,12 +79,26 @@ export default function sitemap(): MetadataRoute.Sitemap {
       { path: 'onsite-pritomnost', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['sk'] },
       { path: 'servisne-sluzby', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['sk'] },
 
+
       // RO specific routes
       { path: 'training-it', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['ro'] },
       { path: 'dezvoltare-aplicatii-personalizate', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['ro'] },
       { path: 'optimizare-retea', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['ro'] },
       { path: 'prezenta-onsite', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['ro'] },
       { path: 'servicii-reparatii', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['ro'] },
+
+      // HR specific routes
+      { path: 'it-edukacija', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['hr'] },
+      { path: 'razvoj-prilagodenih-aplikacija', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['hr'] },
+      { path: 'optimizacija-mreze', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['hr'] },
+      { path: 'it-onsite-prisutnost', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['hr'] },
+      { path: 'servis-popravak', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['hr'] },
+      { path: 'it-podrska-tvrtkama', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['hr'] },
+      { path: 'proizvodi', changeFreq: 'weekly', priority: 0.7, allowedLocales: ['hr'] },
+      { path: 'cjenik', changeFreq: 'weekly', priority: 0.7, allowedLocales: ['hr'] },
+      { path: 'o-nama', changeFreq: 'monthly', priority: 0.6, allowedLocales: ['hr'] },
+      { path: 'kontakt', changeFreq: 'monthly', priority: 0.8, allowedLocales: ['hr'] },
+      { path: 'usluge', changeFreq: 'monthly', priority: 0.8, allowedLocales: ['hr'] },
     ];
 
 
@@ -114,10 +128,10 @@ export default function sitemap(): MetadataRoute.Sitemap {
     }
   }
 
-  // Add shared pages for non-HU locales (since HU is covered in routeConfig)
+  // Add shared pages for non-HU and non-HR locales
   for (const path of sharedPages) {
     for (const locale of locales) {
-      if (locale === 'hu') continue; // Already added
+      if (locale === 'hu' || locale === 'hr') continue; // Already added or localized
 
       const url = `${baseUrl}/${locale}/${path}`;
       sitemap.push({

@@ -2,7 +2,7 @@ import { NextResponse } from 'next/server';
 import type { NextRequest } from 'next/server';
 
 // Only Hungarian is active, but translations remain in code for future use
-const locales = ['hu', 'en', 'de', 'sk', 'ro'];
+const locales = ['hu', 'en', 'de', 'sk', 'ro', 'hr'];
 const defaultLocale = 'hu';
 
 export function middleware(request: NextRequest) {
@@ -55,7 +55,14 @@ export function middleware(request: NextRequest) {
         targetLocale = 'sk';
         break;
       case 'RO': // Romania
+      case 'MD': // Moldova
         targetLocale = 'ro';
+        break;
+      case 'HR': // Croatia
+      case 'BA': // Bosnia
+      case 'ME': // Montenegro (often understands Croatian)
+      case 'RS': // Serbia (often understands Croatian, though Cyrillic is used too, but for Latin script HR/EN is safe) - actually let's stick to HR for HR
+        targetLocale = 'hr';
         break;
       case 'GB': // United Kingdom
       case 'US': // USA
@@ -82,6 +89,7 @@ export function middleware(request: NextRequest) {
       if (acceptLanguage.includes('de')) targetLocale = 'de';
       else if (acceptLanguage.includes('sk')) targetLocale = 'sk';
       else if (acceptLanguage.includes('ro')) targetLocale = 'ro';
+      else if (acceptLanguage.includes('hr')) targetLocale = 'hr';
       else if (acceptLanguage.includes('en')) targetLocale = 'en';
       // hu is default
     }

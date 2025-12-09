@@ -1,5 +1,5 @@
 // i18n configuration for SIRONIC multilingual website
-export const locales = ['hu', 'en', 'de', 'sk', 'ro'] as const;
+export const locales = ['hu', 'en', 'de', 'sk', 'ro', 'hr'] as const;
 export type Locale = (typeof locales)[number];
 
 export const defaultLocale: Locale = 'hu';
@@ -10,6 +10,7 @@ export const localeNames: Record<Locale, string> = {
   de: 'Deutsch',
   sk: 'Slovenčina',
   ro: 'Română',
+  hr: 'Hrvatski',
 };
 
 export const localeFlags: Record<Locale, string> = {
@@ -18,4 +19,5 @@ export const localeFlags: Record<Locale, string> = {
   de: '🇩🇪',
   sk: '🇸🇰',
   ro: '🇷🇴',
+  hr: '🇭🇷',
 };

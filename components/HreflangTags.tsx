@@ -10,70 +10,80 @@ const pathMapping: Record<string, Record<string, string>> = {
         en: 'repair-service',
         de: 'reparatur-service',
         sk: 'servisne-sluzby',
-        ro: 'servicii-reparatii'
+        ro: 'servicii-reparatii',
+        hr: 'servis-popravak'
     },
     'network-optimization': {
         hu: 'halozat-fejlesztes',
         en: 'network-optimization',
         de: 'netzwerk-optimierung',
         sk: 'optimalizacia-siete',
-        ro: 'optimizare-retea'
+        ro: 'optimizare-retea',
+        hr: 'optimizacija-mreze'
     },
     'it-training': {
         hu: 'oktatas',
         en: 'it-training',
         de: 'it-schulung',
         sk: 'it-vzdelavanie',
-        ro: 'training-it'
+        ro: 'training-it',
+        hr: 'it-edukacija'
     },
     'custom-development': {
         hu: 'egyedi-alkalmazas-fejlesztes',
         en: 'custom-application-development',
         de: 'individuelle-anwendungsentwicklung',
         sk: 'vyvoj-vlastnych-aplikacii',
-        ro: 'dezvoltare-aplicatii-personalizate'
+        ro: 'dezvoltare-aplicatii-personalizate',
+        hr: 'razvoj-prilagodenih-aplikacija'
     },
     'products': {
         hu: 'termekeink',
         en: 'termekeink',
         de: 'termekeink',
         sk: 'termekeink',
-        ro: 'termekeink'
+        ro: 'termekeink',
+        hr: 'proizvodi'
     },
     'pricing': {
         hu: 'arak',
         en: 'arak',
         de: 'arak',
         sk: 'arak',
-        ro: 'arak'
+        ro: 'arak',
+        hr: 'cjenik'
     },
     'about': {
         hu: 'rolunk',
         en: 'rolunk',
         de: 'rolunk',
         sk: 'rolunk',
-        ro: 'rolunk'
+        ro: 'rolunk',
+        hr: 'o-nama'
     },
     'contact': {
         hu: 'kapcsolat',
         en: 'kapcsolat',
         de: 'kapcsolat',
         sk: 'kapcsolat',
-        ro: 'kapcsolat'
+        ro: 'kapcsolat',
+        hr: 'kontakt'
     },
     'services': {
         hu: 'szolgaltatasok',
         en: 'szolgaltatasok',
         de: 'szolgaltatasok',
         sk: 'szolgaltatasok',
-        ro: 'szolgaltatasok'
+        ro: 'szolgaltatasok',
+        hr: 'usluge'
     },
     'minden-cegnek': {
         hu: 'minden-cegnek-legyen-informatikusa',
         en: 'minden-cegnek-legyen-informatikusa',
         de: 'minden-cegnek-legyen-informatikusa',
         sk: 'minden-cegnek-legyen-informatikusa',
-        ro: 'minden-cegnek-legyen-informatikusa'
+        ro: 'minden-cegnek-legyen-informatikusa',
+        hr: 'it-podrska-tvrtkama'
     }
 };
 

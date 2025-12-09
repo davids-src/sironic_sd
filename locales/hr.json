@@ -1,0 +1,1721 @@
+{
+  "meta": {
+    "siteTitle": "SIRONIC Sistem Kuća: Kompletna IT rješenja za mala i srednja poduzeća – Održavanje, Razvoj, Sigurnost",
+    "siteDescription": "Profesionalno IT održavanje, web razvoj (Next.js/TS), izgradnja mreža i IT sigurnost. Vlastita IT podrška za MSP. Zatražite besplatno savjetovanje!",
+    "companyName": "SIRONIC Sistem Kuća",
+    "keywords": [
+      "IT usluge",
+      "održavanje sustava",
+      "sistem administrator",
+      "izgradnja mreže",
+      "IT sigurnost",
+      "web razvoj",
+      "CRM razvoj",
+      "IT edukacija",
+      "informatička obuka",
+      "sigurnosna svijest",
+      "digitalni trening",
+      "IT trgovina",
+      "prodaja IT opreme",
+      "hosting usluge",
+      "web hosting",
+      "najam servera",
+      "popravak računala",
+      "servis laptopa",
+      "servis na licu mjesta",
+      "sigurnost podataka",
+      "održavanje",
+      "Stolni Biograd",
+      "Austrija",
+      "Slovačka",
+      "Rumunjska",
+      "Češka",
+      "Hrvatska"
+    ],
+    "ogImage": "/og/home-hr.jpg",
+    "pages": {
+      "services": {
+        "title": "IT Usluge - Održavanje Sustava i Razvoj",
+        "description": "Pouzdane IT usluge za tvrtke: sistem administratorski poslovi, izgradnja mreža, web razvoj, hosting i servis. Zatražite ponudu od naših stručnjaka!",
+        "keywords": [
+          "IT usluge",
+          "održavanje sustava",
+          "izgradnja mreža",
+          "IT sigurnost",
+          "web razvoj",
+          "hosting",
+          "servis",
+          "Stolni Biograd"
+        ],
+        "ogImage": "/og/services-hr.jpg"
+      },
+      "about": {
+        "title": "O nama - SIRONIC Sistem Kuća: Pouzdan IT Partner",
+        "description": "Upoznajte SIRONIC Sistem Kuću! Više od 5 godina iskustva, proaktivna IT podrška i pristup usmjeren na klijente za mala i srednja poduzeća.",
+        "keywords": [
+          "IT tvrtka",
+          "Stolni Biograd",
+          "pouzdan IT partner",
+          "održavanje sustava",
+          "IT podrška"
+        ],
+        "ogImage": "/og/about-hr.jpg"
+      },
+      "contact": {
+        "title": "Kontaktirajte nas - SIRONIC IT Sistem Kuća",
+        "description": "Imate pitanja? Kontaktirajte nas za besplatno savjetovanje! Dostupni smo: telefon, email i osobno u Stolnom Biogradu.",
+        "keywords": [
+          "IT kontakt",
+          "besplatno savjetovanje",
+          "Stolni Biograd IT",
+          "hello@sironic.hu"
+        ],
+        "ogImage": "/og/contact-hr.jpg"
+      },
+      "pricing": {
+        "title": "Cijene IT Usluga i Paketi - SIRONIC Sistem Kuća",
+        "description": "Upoznajte naše konkurentne IT cijene! Održavanje sustava s fiksnom mjesečnom naknadom, jedinstveni razvoj i održavanje bez skrivenih troškova, s garancijom.",
+        "keywords": [
+          "IT cijene",
+          "mjesečni IT",
+          "cijena održavanja sustava",
+          "IT troškovi",
+          "Stolni Biograd"
+        ],
+        "ogImage": "/og/pricing-hr.jpg"
+      },
+      "products": {
+        "title": "Jedinstveni Softveri i IT Proizvodi - SIRONIC Rješenja",
+        "description": "Otkrijte naša jedinstvena softverska rješenja i IT proizvode! CRM sustavi, web aplikacije i mobilne aplikacije koje pomažu rastu vašeg poslovanja.",
+        "keywords": [
+          "IT proizvodi",
+          "jedinstveni softver",
+          "CRM sustav",
+          "web aplikacija",
+          "mobilna aplikacija"
+        ],
+        "ogImage": "/og/products-hr.jpg"
+      },
+      "blog": {
+        "title": "IT Blog i Baza Znanja - Savjeti za Poduzeća",
+        "description": "Pročitajte naše najnovije IT vijesti i savjete! Korisni savjeti o kibernetičkoj sigurnosti, održavanju sustava i digitalnom razvoju za tvrtke.",
+        "keywords": [
+          "IT blog",
+          "informatički savjeti",
+          "IT sigurnost",
+          "poslovni IT",
+          "baza znanja"
+        ],
+        "ogImage": "/og/blog-hr.jpg"
+      },
+      "networkOptimization": {
+        "title": "Izgradnja Poslovnih Mreža i Wi-Fi Sustava - SIRONIC",
+        "description": "Projektiranje i izgradnja stabilnih, brzih i sigurnih poslovnih mreža. Moderni Wi-Fi sustavi, optimizacija mreže i kompletno održavanje za tvrtke.",
+        "keywords": [
+          "poslovna mreža",
+          "wifi izgradnja",
+          "razvoj mreže",
+          "optimizacija mreže",
+          "poslovni wifi",
+          "MikroTik",
+          "Ubiquiti",
+          "UniFi",
+          "mrežna sigurnost",
+          "Stolni Biograd"
+        ],
+        "ogImage": "/og/network-optimization-hr.jpg"
+      },
+      "repairService": {
+        "title": "Servis i Popravak - Laptop, PC, Server | SIRONIC",
+        "description": "Brz i pouzdan IT popravak u Stolnom Biogradu. Stručni popravak laptopa, PC-a, servera i NAS uređaja na licu mjesta ili slanjem poštom. Transparentne cijene, garancija.",
+        "keywords": [
+          "popravak laptopa",
+          "popravak pc-a",
+          "servis stolni biograd",
+          "popravak računala",
+          "popravak nas-a",
+          "spašavanje podataka",
+          "uklanjanje virusa",
+          "servis na licu mjesta"
+        ],
+        "ogImage": "/og/repair-service-hr.jpg"
+      },
+      "onsitePresence": {
+        "title": "IT Podrška na Događajima - SIRONIC Sistem Kuća",
+        "description": "Profesionalni IT nadzor i tehnička podrška za događaje, konferencije. Posvećeni stručnjak na licu mjesta.",
+        "keywords": [
+          "IT on-site",
+          "IT za događaje",
+          "konferencijska tehnika",
+          "IT nadzor"
+        ]
+      }
+    }
+  },
+  "nav": {
+    "home": "Početna",
+    "services": "Usluge",
+    "products": "Proizvodi",
+    "pricing": "Cijene",
+    "about": "O nama",
+    "blog": "Blog",
+    "contact": "Kontakt",
+    "ctaButton": "Zatraži ponudu"
+  },
+  "hero": {
+    "badge": "Nova usluga",
+    "title": "IT rješenje, kao da imate vlastiti tim",
+    "subtitle": "IT rješenje, kao da imate vlastiti tim – profesionalno održavanje sustava, brzo održavanje i osobna podrška za mala i srednja poduzeća.",
+    "cta": "Besplatno savjetovanje",
+    "learnMore": "Saznaj više"
+  },
+  "services": {
+    "title": "Naše usluge",
+    "subtitle": "Kompletna IT rješenja za rast vašeg poslovanja",
+    "viewAll": "Sve naše usluge",
+    "systemOperation": {
+      "title": "Održavanje sustava i IT podrška",
+      "description": "Stabilan, siguran i brz rad – mi kontinuirano pratimo vaše sustave prije nego što se pojavi problem. Manje zastoja, veća učinkovitost."
+    },
+    "networking": {
+      "title": "Izgradnja i razvoj mreža",
+      "description": "Projektiramo, gradimo i optimiziramo mrežu vaše tvrtke kako bi se svi uređaji povezivali pouzdano, brzo i sigurno."
+    },
+    "security": {
+      "title": "IT sigurnost i zaštita podataka",
+      "description": "Zaštitite podatke svoje tvrtke! Moderni vatrozidi, sigurnosne kopije, upravljanje pristupom – sigurnost podataka kod nas nije dodatak, već osnova."
+    },
+    "development": {
+      "title": "Razvoj web stranica i sustava",
+      "description": "Izrađujemo profesionalne, responzivne web stranice i jedinstvena softverska rješenja kako bi se vaša tvrtka istaknula i online."
+    },
+    "commerce": {
+      "title": "Trgovina – IT oprema i softver",
+      "description": "Kod nas možete nabaviti sve što je potrebno za uredsko poslovanje – računala, monitore, pisače, servere i softverske licence."
+    },
+    "hosting": {
+      "title": "Hosting i cloud rješenja",
+      "description": "Stabilna, brza i sigurna rješenja za hosting web stranica, e-pošte i sigurnosnih kopija. Web hosting, najam servera i cloud backup."
+    },
+    "repair": {
+      "title": "Servis i popravak",
+      "description": "Brz i pouzdan popravak računala, laptopa i servera na licu mjesta ili slanjem poštom. Transparentna ponuda i brz popravak."
+    }
+  },
+  "customDevelopment": {
+    "badge": "Razvoj jedinstvenog softvera",
+    "title": "Razvoj jedinstvenih aplikacija za vaše poslovanje",
+    "subtitle": "Skalabilni, sigurni i poslovno orijentirani softveri",
+    "description": "Tim SIRONIC nudi kompletan razvoj jedinstvenih aplikacija za vaše poslovanje. Od web aplikacija preko Windows desktop softvera do mobilnih aplikacija – sva naša rješenja prilagođena su vašim poslovnim potrebama i izrađena modernim tehnologijama.",
+    "cards": {
+      "webApps": {
+        "title": "Razvoj jedinstvenih web aplikacija",
+        "description": "Poslovne web aplikacije temeljene na TailScript i React tehnologijama. Skalabilna, brza i user-friendly rješenja za složene poslovne procese."
+      },
+      "desktop": {
+        "title": "Windows desktop softveri",
+        "description": "Razvoj nativnih Windows aplikacija modernim tehnologijama. Efikasni, brzi i pouzdani softveri za uredsko okruženje."
+      },
+      "mobile": {
+        "title": "Razvoj mobilnih aplikacija",
+        "description": "Izrada Android i iOS aplikacija. Moderna, intuitivna mobilna rješenja koja savršeno funkcioniraju na svim uređajima."
+      }
+    },
+    "cta": {
+      "main": "Zatraži ponudu za razvoj",
+      "learnMore": "Saznaj boje"
+    }
+  },
+  "mindenCegnek": {
+    "badge": "Mjesečna IT podrška",
+    "title": "Svaka tvrtka treba informatičara",
+    "subtitle": "IT rješenje, kao da imate vlastitog IT-evca",
+    "description": "Ne morate zaposliti vlastitog informatičara da biste imali stabilne, sigurne i brze sustave. SIRONIC-ova mjesečna konstrukcija funkcionira kao da radi u vašoj tvrtki – ali plaćate samo onoliko koliko je stvarno potrebno.",
+    "features": {
+      "costEffective": "Isplativa IT podrška optimizirana za infrastrukturu – fleksibilno, pouzdano, transparentno.",
+      "discount": "Vrijedi do 1. veljače 2026.: svim partnerima koji zatraže prethodno savjetovanje dajemo 10% popusta na mjesečnu naknadu za prva 3 mjeseca!"
+    },
+    "cta": {
+      "consultation": "Zatraži prethodno savjetovanje",
+      "learnMore": "Saznaj više"
+    }
+  },
+  "whyChooseUs": {
+    "title": "Zašto odabrati nas?",
+    "reasons": [
+      "Pouzdanost: 5+ godina iskustva u projektiranju i održavanju sustava.",
+      "Proaktivan rad: Mi razmišljamo unaprijed, ne reagiramo tek kad nastane problem.",
+      "Transparentni troškovi: Nema skrivenih naknada, fiksno mjesečno održavanje ili rješenja po potrebi.",
+      "Prava ljudska komunikacija: Kod nas nema \"džungle tiketa\" – uvijek nas možete dobiti.",
+      "Kompletno IT održavanje: Kontinuirano radimo na stabilnom i brzom radu vaših sustava – manje zastoja, veća učinkovitost, sigurna pozadina.",
+      "Moderna IT sigurnost: Zaštita podataka i mrežna sigurnost modernim vatrozidima, rješenjima za backup i upravljanjem pristupom – sigurnost podataka kod nas je osnova, ne dodatak.",
+      "Web razvoj i digitalna prisutnost: Profesionalne, responzivne web stranice i jedinstveni sustavi koji povećavaju online vidljivost vaše tvrtke i privlače klijente.",
+      "Cloud rješenja i hosting: Brza, sigurna i skalabilna usluga hostinga za vašu web stranicu, e-poštu i backup podataka – uvijek dostupno, uvijek stabilno."
+    ]
+  },
+  "testimonials": {
+    "title": "Što kažu naši klijenti?",
+    "items": [
+      {
+        "quote": "S timom SIRONIC napokon mirno spavamo: naši informatički sustavi rade stabilno, brzo i sigurno. Ako se pojavi problem, odmah reagiraju i sve objasne razumljivo – ne na IT-jeziku. Rijedak je takav pouzdan partner u svijetu informatike.",
+        "company": "Pervector Zrt."
+      },
+      {
+        "quote": "Ranije smo imali stalne probleme s računalima i mrežom, ali otkako smo IT povjerili SIRONIC-u, sve teče glatko. Brzo pomažu, o bilo kakvoj grešci da se radi, i uvijek kod njih nađemo rješenje. Upravo takva podrška treba svakoj tvrtki.",
+        "company": "Bocskai Alba Flexum Kft."
+      },
+      {
+        "quote": "SIRONIC je za nas izradio modernu, preglednu i mobilno prilagođenu web stranicu, koja ne samo da dobro izgleda, već nas klijenti lako pronalaze online. Od tada oni vrše i održavanje – svako ažuriranje i izmjena događa se brzo i precizno. Dobili smo kompletnu, profesionalnu uslugu.",
+        "company": "Bull & U Kft."
+      },
+      {
+        "quote": "Željeli smo čistu, brzu i modernu web stranicu – SIRONIC je isporučio točno to. Profesionalan tim, paze na detalje i uvijek imaju dobru ideju kojom rezultat čine još boljim. Naša nova stranica savršeno odražava imidž naše tvrtke.",
+        "company": "Regia Dental Kft."
+      }
+    ]
+  },
+  "workProcess": {
+    "title": "Kako radimo?",
+    "steps": [
+      {
+        "step": "1",
+        "title": "Kontakt",
+        "description": "Pošaljite poruku ili zatražite besplatno savjetovanje."
+      },
+      {
+        "step": "2",
+        "title": "IT procjena stanja",
+        "description": "Pogledat ćemo kako možemo pomoći i dati prijedlog."
+      },
+      {
+        "step": "3",
+        "title": "Jedinstvena ponuda",
+        "description": "Izrađujemo rješenje prilagođeno potrebama vaše tvrtke."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Često postavljana pitanja",
+    "items": [
+      {
+        "question": "Kojim tvrtkama pružate usluge?",
+        "answer": "SIRONIC je specijaliziran za mala i srednja poduzeća, ali na temelju jedinstvenih zahtjeva nudimo rješenja i većim tvrtkama. Bilo da se radi o sistem administratorskoj podršci, izgradnji mreže ili web razvoju – za svaku tvrtku pronalazimo idealno IT rješenje."
+      },
+      {
+        "question": "Po čemu se SIRONIC razlikuje od drugih IT pružatelja usluga?",
+        "answer": "Mi nismo samo „popravljači kvarova\" – proaktivno pratimo sustave, sprječavamo probleme i komuniciramo na ljudskom jeziku. Ne dopuštamo da IT bude prepreka, već iz njega stvaramo konkurentsku prednost."
+      },
+      {
+        "question": "Koliko brzo reagirate na prijavu kvara?",
+        "answer": "U općem slučaju reagiramo unutar 1–4 sata, a u hitnim slučajevima čak i odmah. Za naše partnere s pretplatom osiguravamo zajamčeno vrijeme reakcije."
+      },
+      {
+        "question": "Vršite li izlaske na teren ili pružate samo daljinsku podršku?",
+        "answer": "Da, oboje! Većinu grešaka otklanjamo daljinski, ali ako je potrebno, osobno izlazimo na lokaciju."
+      },
+      {
+        "question": "Izrađujete li web stranice potpuno od nule?",
+        "answer": "Naravno. Razvijamo jedinstvene, responzivne web stranice modernim tehnologijama (Next.js, React, Tailwind) i brinemo se da stranica bude brza, sigurna i optimizirana za tražilice."
+      },
+      {
+        "question": "Što je CRM Pro i kako pomaže mom poslovanju?",
+        "answer": "CRM Pro je sustav za upravljanje odnosima s klijentima razvijen po mjeri, koji prodajne procese čini transparentnima, automatizira administraciju i može se integrirati s postojećim sustavima. Dostupan je i u cjenovnoj kategoriji za manje tvrtke."
+      },
+      {
+        "question": "Koje sigurnosne mjere primjenjujete?",
+        "answer": "Koristimo moderne vatrozide, rješenja za backup, enkripciju i upravljanje pristupom. Svi naši sustavi izrađeni su u skladu s GDPR-om, tako je sigurnost podataka zadana postavka."
+      },
+      {
+        "question": "U kojem obliku se može s vama sklopiti ugovor?",
+        "answer": "Radimo u dvije glavne konstrukcije: jednokratni nalog (za povremene zadatke) i ugovor o mjesečnom održavanju (stalno održavanje i podrška). Obje su transparentne, s fiksnim naknadama."
+      },
+      {
+        "question": "Koliko košta razvoj web stranice ili sustava?",
+        "answer": "Osnovne web stranice kreću od 250.000 Ft (cca 650 EUR), dok se cijena jedinstvenih sustava ili CRM rješenja određuje ovisno o funkcionalnosti. Prije svakog projekta dajemo točnu ponudu."
+      },
+      {
+        "question": "Zašto se isplati odabrati cloud rješenja?",
+        "answer": "Cloud je brz, siguran i fleksibilan – ne morate održavati vlastiti server, podaci su uvijek dostupni, a proširenje se može riješiti u trenu."
+      }
+    ]
+  },
+  "finalCta": {
+    "title": "Jeste li spremni za bezbrižan IT?",
+    "description": "Zatražite besplatno savjetovanje i pronađimo zajedno najbolje rješenje za vaše poslovanje.",
+    "button": "Zatraži ponudu odmah"
+  },
+  "contact": {
+    "title": "Kontakt",
+    "subtitle": "Imate pitanja ili želite besplatno savjetovanje? Javite nam se i brzo ćemo odgovoriti!",
+    "form": {
+      "title": "Pošalji poruku",
+      "name": "Ime",
+      "email": "E-mail",
+      "service": "Koja usluga vas zanima?",
+      "servicePlaceholder": "Odaberi uslugu",
+      "message": "Poruka",
+      "submit": "Pošalji",
+      "submitting": "Šalje se...",
+      "required": "*",
+      "success": "Vaša poruka je uspješno poslana! Uskoro ćemo vas kontaktirati.",
+      "error": "Došlo je do pogreške prilikom slanja poruke",
+      "noscript": "Poruku možete poslati i bez JavaScripta:",
+      "options": {
+        "placeholder": "Odaberi uslugu",
+        "mindenCegnek": "Svaka tvrtka treba informatičara",
+        "systemOperation": "Održavanje sustava i IT podrška",
+        "networking": "Izgradnja i razvoj mreža",
+        "security": "IT sigurnost i zaštita podataka",
+        "development": "Razvoj web stranica i sustava",
+        "commerce": "Trgovina – IT oprema i softver",
+        "hosting": "Hosting i cloud rješenja",
+        "repair": "Servis i popravak",
+        "training": "IT edukacija i razvoj znanja"
+      },
+      "errors": {
+        "general": "Došlo je do mrežne pogreške. Molimo pokušajte ponovno kasnije."
+      }
+    },
+    "info": {
+      "title": "Kontakt podaci",
+      "email": "E-mail",
+      "phone": "Telefon",
+      "location": "Sjedište",
+      "hours": "Radno vrijeme",
+      "hoursValue": "Ponedjeljak – Petak\n8:00 – 17:00",
+      "quickResponse": "Brzi odgovor",
+      "quickResponseText": "Obično odgovaramo unutar 24 sata radnim danima. U hitnim slučajevima nazovite nas telefonom!"
+    }
+  },
+  "footer": {
+    "companyName": "SIRONIC Sistem Kuća",
+    "tagline": "Kompletna IT rješenja za mala i srednja poduzeća",
+    "legalName": "Skoda Dávid András Samostalni Poduzetnik",
+    "address": "8000 Stolni Biograd, Lövölde utca 24 4/15",
+    "taxNumber": "Porezni broj: 45755754-2-27",
+    "links": "Linkovi",
+    "hours": "Radno vrijeme",
+    "hoursValue": "Ponedjeljak – Petak\n8:00 – 17:00",
+    "cookieSettings": "Postavke kolačića",
+    "copyright": "© {year} SIRONIC Sistem Kuća. Sva prava pridržana."
+  },
+  "common": {
+    "readMore": "Saznaj više",
+    "learnMore": "Saznaj više o tome",
+    "getQuote": "Zatraži ponudu",
+    "contactUs": "Kontakt",
+    "loading": "Učitavanje...",
+    "whatYouGet": "Što dobivate:"
+  },
+  "servicesPage": {
+    "title": "Naše usluge",
+    "subtitle": "Kompletna IT rješenja koja omogućuju sigurno i učinkovito poslovanje vaše tvrtke. Od održavanja s fiksnom mjesečnom naknadom do jedinstvenog razvoja – sve na jednom mjestu.",
+    "cta": {
+      "title": "Zanima vas neka od naših usluga?",
+      "subtitle": "Zatražite besplatno savjetovanje i pronađimo zajedno najbolje rješenje za vaše poslovanje.",
+      "requestQuote": "Zatraži ponudu odmah",
+      "reportService": "Prijava kvara"
+    },
+    "details": {
+      "systemOperation": {
+        "features": [
+          "Proaktivno praćenje i održavanje",
+          "Brzo otklanjanje poteškoća",
+          "Redovita sigurnosna ažuriranja",
+          "Optimizacija performansi"
+        ]
+      },
+      "networking": {
+        "features": [
+          "Projektiranje i izgradnja mreža",
+          "Optimizacija WiFi mreža",
+          "VPN i daljinski pristup",
+          "Mrežna sigurnost"
+        ]
+      },
+      "security": {
+        "features": [
+          "Konfiguracija i upravljanje vatrozidom",
+          "Automatske sigurnosne kopije",
+          "Usklađenost s GDPR-om",
+          "Zaštita od virusa i zlonamjernog softvera"
+        ]
+      },
+      "development": {
+        "features": [
+          "Moderne, responzivne web stranice",
+          "E-commerce rješenja",
+          "Razvoj jedinstvenog softvera",
+          "SEO optimizacija"
+        ]
+      },
+      "commerce": {
+        "description": "Kod nas možete nabaviti sve što je potrebno za uredsko poslovanje – računala, monitore, pisače, servere, mrežne uređaje i softverske licence. Radimo s pouzdanim brendovima i pomažemo vam odabrati najbolji omjer cijene i kvalitete. Bilo da trebate novu opremu ili proširenje, mi ćemo se pobrinuti za to.",
+        "features": [
+          "Računala, laptopi i serveri",
+          "Mrežni uređaji i periferija",
+          "Nabava softverskih licenci",
+          "Savjetovanje pri odabiru opreme"
+        ]
+      },
+      "hosting": {
+        "description": "Nudimo stabilna, brza i sigurna rješenja za hosting web stranica, e-pošte i sigurnosnih kopija. Osiguravamo dostupnost i zaštitu vaših podataka putem vlastitog serverskog parka ili pouzdanih međunarodnih partnera.",
+        "features": [
+          "Web hosting i registracija domena",
+          "Email hosting",
+          "Cloud backup i dijeljenje datoteka",
+          "Najam i upravljanje serverima"
+        ]
+      },
+      "repair": {
+        "title": "Servis i popravak – na licu mjesta ili poštom",
+        "description": "Brz i pouzdan popravak računala, laptopa, servera i mrežnih uređaja. Izlazak na teren u Stolnom Biogradu i okolici, ili slanje uređaja poštom. Svaki popravak započinjemo dijagnostikom, a nakon ponude radimo samo uz vaše odobrenje. Cilj nam je da vaš sustav što prije ponovno proradi.",
+        "features": [
+          "Servis na licu mjesta (Stolni Biograd i okolica)",
+          "Mogućnost slanja poštom",
+          "Transparentna ponuda prije popravka",
+          "Brzo vrijeme popravka"
+        ]
+      },
+      "training": {
+        "title": "IT edukacija i razvoj znanja",
+        "description": "Unaprijedite digitalno znanje svog tima! Nudimo personalizirane IT edukacije, treninge sigurnosne svijesti i razvoj sistemskog znanja kako bi zaposlenici samouvjereno koristili moderne alate i softvere. Sigurno poslovanje počinje s informacijama.",
+        "features": [
+          "Personalizirane IT edukacije",
+          "Treninzi sigurnosne svijesti",
+          "Obuke za korištenje softvera i uređaja",
+          "Korporativni programi razvoja znanja"
+        ]
+      }
+    }
+  },
+  "productsPage": {
+    "breadcrumb": {
+      "home": "Početna",
+      "products": "Proizvodi"
+    },
+    "title": "Naši proizvodi – Sironic tehnologija u stvarnim rješenjima",
+    "subtitle": "Naši interni razvoji nastali su iz stvarnih potreba – ovi sustavi danas podržavaju poslovanje mnogih tvrtki. Pogledajte kako mogu pomoći i vašoj tvrtki.",
+    "noProducts": "Trenutno nema proizvoda za prikaz. Naša ponuda će se uskoro proširiti!",
+    "cta": {
+      "title": "Zanima vas neki od naših proizvoda?",
+      "subtitle": "Kontaktirajte nas i pokazat ćemo vam kako se naši sustavi mogu uklopiti u poslovanje vaše tvrtke. Svi naši proizvodi razvijeni su na temelju stvarnih poslovnih potreba.",
+      "consultation": "Zatraži konzultacije",
+      "services": "Naše usluge"
+    },
+    "whyChoose": {
+      "title": "Zašto odabrati Sironic proizvode?",
+      "reasons": [
+        {
+          "title": "Rješenja za stvarne probleme",
+          "description": "Svi naši proizvodi testirani su u praksi i dokazani u aktivnim tvrtkama."
+        },
+        {
+          "title": "Podrška na hrvatskom jeziku",
+          "description": "Možete nas izravno dobiti, nema jezičnih barijera ni automatiziranih sustava odgovaranja."
+        },
+        {
+          "title": "Kontinuirani razvoj",
+          "description": "Redovito proširujemo i poboljšavamo funkcionalnosti naših proizvoda na temelju povratnih informacija klijenata."
+        },
+        {
+          "title": "Mogućnosti prilagodbe",
+          "description": "Naše proizvode možemo prilagoditi vašim potrebama i integrirati ih u vaše postojeće sustave."
+        }
+      ]
+    }
+  },
+  "aboutPage": {
+    "title": "O nama",
+    "intro": [
+      "SIRONIC Sistem Kuća započela je s radom tijekom COVID razdoblja, kada je svako poduzeće moralo preispitati svoje informatičko poslovanje. Od tada kontinuirano rastemo i pratimo brze promjene u IT svijetu – jer vjerujemo da tehnologija nije teret, već može biti prednost za svaku tvrtku.",
+      "Cilj nam je da se mala i srednja poduzeća ne moraju boriti s informatičkim problemima. Mi ne održavamo samo sustave – pružamo stabilnost, sigurnost i mir u poslovanju.",
+      "Bilo da se radi o održavanju sustava, izgradnji mreže, sigurnosti podataka ili web razvoju, kod nas su sva IT rješenja na jednom mjestu – brzo, transparentno i na ljudskom jeziku."
+    ],
+    "stats": [
+      {
+        "value": "5+",
+        "label": "Godina iskustva"
+      },
+      {
+        "value": "100+",
+        "label": "Zadovoljnih klijenata"
+      },
+      {
+        "value": "24/7",
+        "label": "Dostupnost"
+      },
+      {
+        "value": "99.9%",
+        "label": "Dostupnost sustava"
+      }
+    ],
+    "mission": {
+      "title": "Misija SIRONIC-a",
+      "paragraphs": [
+        "Znamo da za malo ili srednje poduzeće informatika ne smije biti prepreka – ona jednostavno mora funkcionirati, svaki dan, bez greške. Zastoj, spora mreža ili zastarjela sigurnosna postavka danas mogu uzrokovati ozbiljne gubitke.",
+        "Zato smo osnovali SIRONIC Sistem Kuću: kako bismo svakoj tvrtki omogućili profesionalnu, a ipak pristupačnu IT pozadinu. Ne morate zaposliti vlastitog sistem administratora, ne morate graditi kompliciranu ili skupu infrastrukturu – mi se brinemo za sve.",
+        "Naše usluge pokrivaju cjelokupno informatičko poslovanje: održavanje sustava, izgradnju mreža, backup podataka, IT sigurnost, upravljanje vatrozidom, web razvoj i IT edukaciju. Uvijek se prilagođavamo aktualnim tehnologijama, tako da naši klijenti mogu biti sigurni da su njihovi informatički sustavi moderni i sigurni.",
+        "SIRONIC ne pruža samo IT usluge – već mir, predvidljivost i podršku. Mi smo oni koje možete bilo kada dobiti ako postoji problem – i često ga riješimo prije nego što ga primijetite.",
+        "Svakog klijenta tretiramo kao partnera, ne samo da održavamo njihove sustave, već dugoročno brinemo o njihovom poslovanju."
+      ]
+    },
+    "values": {
+      "title": "Zašto raditi s nama?",
+      "items": [
+        {
+          "title": "Proaktivan pristup",
+          "description": "Ne reagiramo tek kad nastane problem. Kontinuirano pratim vaše sustave kako bismo spriječili poteškoće."
+        },
+        {
+          "title": "Ljudska komunikacija",
+          "description": "Kod nas nema \"džungle tiketa\". Razgovarate sa stvarnim ljudima koji razumiju vaš problem i brzo pomažu."
+        },
+        {
+          "title": "Transparentnost",
+          "description": "Fiksno mjesečno održavanje ili rješenja po potrebi – nema skrivenih naknada, uvijek znate na što možete računati."
+        }
+      ]
+    },
+    "howWeWork": {
+      "title": "Kako radimo?",
+      "steps": [
+        "Slušamo vaše potrebe i procjenjujemo vaš trenutni IT sustav",
+        "Dajemo prijedlog za najbolje rješenje za vas",
+        "Postavljamo, optimiziramo i pratimo vaš sustav",
+        "Pružamo kontinuiranu podršku kad god nas trebate"
+      ]
+    },
+    "finalCta": {
+      "title": "Postanite i vi naš partner!",
+      "subtitle": "Zatražite besplatno savjetovanje i pronađimo zajedno najbolje IT rješenje za vaše poslovanje.",
+      "button": "Stupimo u kontakt"
+    }
+  },
+  "pricingPage": {
+    "title": "Cjenik",
+    "subtitle": "Izrađujemo jedinstvene ponude prema potrebama vašeg poslovanja. Ne postoje dvije iste tvrtke – stoga i naše cijene uvijek prilagođavamo vašoj infrastrukturi i potrebama.",
+    "heroTitle": "Transparentne cijene – jasno i razumljivo",
+    "heroDescription": "Kod nas nema skrivenih troškova. Naše usluge smo oblikovali tako da svako poduzeće pronađe odgovarajuće rješenje – bilo da se radi o održavanju, razvoju ili servisu.",
+    "packages": {
+      "mindenCegnek": {
+        "title": "Svaka tvrtka treba informatičara",
+        "price": "od 100 EUR / mj",
+        "description": "Kompletno IT održavanje u mjesečnom paketu – kao da imate vlastitog informatičara.",
+        "features": [
+          "Kontinuirano praćenje i održavanje sustava",
+          "Brza intervencija u slučaju kvara",
+          "Savjetovanje za razvoj infrastrukture",
+          "Upravljanje sigurnosnim kopijama i ažuriranjima",
+          "Osobna IT podrška"
+        ],
+        "badge": "🎁 Do 1. veljače 2026. vrijedi 10% popusta na mjesečnu naknadu za prva 3 mjeseca u slučaju prethodnog savjetovanja!",
+        "ctaText": "Zatraži prethodno savjetovanje"
+      },
+      "systemOperation": {
+        "title": "Održavanje sustava i IT podrška",
+        "price": "od 75 EUR / mj",
+        "description": "Stalni nadzor i neometano poslovanje.",
+        "features": [
+          "Redovito održavanje i praćenje",
+          "Brzo otklanjanje kvara i oporavak",
+          "Nadzor servera i mreže",
+          "Proaktivan rad i sigurnosna ažuriranja"
+        ],
+        "ctaText": "Zatraži ponudu"
+      },
+      "networking": {
+        "title": "Izgradnja i razvoj mreža",
+        "price": "od 115 EUR / projekt",
+        "description": "Projektiranje i izvedba pouzdane, sigurne mrežne infrastrukture.",
+        "features": [
+          "Kompletno projektiranje i izgradnja mreže",
+          "Konfiguracija routera, switcha, Wi-Fi-ja",
+          "Optimizacija i održavanje mreže",
+          "Brza, stabilna i sigurna podatkovna veza"
+        ],
+        "ctaText": "Zatraži ponudu"
+      },
+      "security": {
+        "title": "IT sigurnost i zaštita podataka",
+        "price": "od 150 EUR",
+        "description": "Zaštiti podatke svoje tvrtke modernim rješenjima.",
+        "features": [
+          "Postavljanje vatrozida i mrežna sigurnost",
+          "Sigurnosna kopija i oporavak",
+          "Upravljanje pristupom, enkripcija",
+          "GDPR sukladna zaštita podataka"
+        ],
+        "ctaText": "Zatraži ponudu"
+      },
+      "development": {
+        "title": "Razvoj web stranica i sustava",
+        "price": "od 650 EUR (jednokratno)",
+        "description": "Profesionalna, jedinstvena rješenja za digitalni rast vaše tvrtke.",
+        "features": [
+          "Responzivne web stranice i portali",
+          "Jedinstvena softverska rješenja",
+          "SEO i UX optimizacija",
+          "Kontinuirana podrška i održavanje"
+        ],
+        "ctaText": "Zatraži ponudu"
+      },
+      "commerce": {
+        "title": "Trgovina – IT oprema i softver",
+        "price": "Na temelju jedinstvene ponude",
+        "description": "Sve što je potrebno za moderno uredsko poslovanje.",
+        "features": [
+          "Računala, monitori, serveri",
+          "Pisači i mrežni uređaji",
+          "Softverske licence i pretplate",
+          "Kompletna uredska infrastruktura"
+        ],
+        "ctaText": "Zatraži ponudu"
+      },
+      "hosting": {
+        "title": "Hosting i cloud rješenja",
+        "price": "od 10 EUR / mj",
+        "description": "Brz, siguran i skalabilan prostor za pohranu za tvrtke.",
+        "features": [
+          "Web i e-mail hosting",
+          "Cloud backup podataka",
+          "Usluga privatnog oblaka",
+          "Stalna dostupnost (99,9%)"
+        ],
+        "ctaText": "Zatraži ponudu"
+      },
+      "crm": {
+        "title": "Razvoj jedinstvenog CRM-a",
+        "price": "od 1000 EUR",
+        "description": "Personalizirani sustav za upravljanje klijentima koji povećava prodajnu učinkovitost.",
+        "features": [
+          "Modularna struktura, prilagodljive funkcije",
+          "Integracija s postojećim sustavima (ERP, e-pošta, web)",
+          "Automatizirani izvještaji i analitika",
+          "Korisničko sučelje prilagođeno korisniku"
+        ],
+        "ctaText": "Zatraži ponudu"
+      }
+    },
+    "customQuote": {
+      "title": "Imate li posebne zahtjeve?",
+      "description": "Cijene su informativne, točna ponuda se uvijek izrađuje na temelju zahtjeva.\nZatražite besplatno konzultacije i pomoći ćemo vam pronaći najbolje rješenje.",
+      "button": "Zatraži besplatno IT savjetovanje"
+    },
+    "whyChoose": {
+      "title": "Zašto odabrati SIRONIC?",
+      "description": "Ako niti jedan paket ne odgovara savršeno, izrađujemo personaliziranu ponudu. Ne postoje dvije iste tvrtke – ne postoje ni dva ista rješenja.",
+      "reasons": [
+        {
+          "title": "Transparentne cijene",
+          "description": "Nema skrivenih troškova"
+        },
+        {
+          "title": "Fleksibilni paketi",
+          "description": "Mjesečna i jednokratna rješenja"
+        },
+        {
+          "title": "Brza reakcija",
+          "description": "Odmah pomažemo ako je potrebno"
+        },
+        {
+          "title": "Dugoročna podrška",
+          "description": "Klijente tretiramo kao partnere"
+        }
+      ],
+      "button": "Zatraži jedinstvenu ponudu"
+    }
+  },
+  "mindenCegnekPage": {
+    "hero": {
+      "badge": "Havidíjas IT támogatás",
+      "title": "Minden cégnek legyen informatikusa",
+      "subtitle": "Mintha saját IT-sod lenne",
+      "description": "Egy szolgáltatás, ahol nem alkalmaznod kell egy informatikust – hanem kapsz egy teljes csapatot, aki a háttérben mindent naprakészen tart, figyel, karbantart, és csak akkor avatkozik be, amikor kell.",
+      "cta": "Kérj előzetes konzultációt",
+      "discount": "2026 Február 1-ig érvényes minden előzetes konzultációt kérő partnerünknek 10% kedvezményt adunk az első 3 hónap havidíjából!",
+      "scroll": "Görgess lejjebb a további információkhoz"
+    },
+    "whatYouGet": {
+      "title": "Što točno dobivate?",
+      "subtitle": "Kompletno IT rješenje koje radi za vas svaki dan – nevidljivo, ali učinkovito.",
+      "features": {
+        "internet": {
+          "title": "Stalan pristup internetu i stabilan rad",
+          "description": "Brinemo se da mreža vaše tvrtke uvijek bude dostupna, stabilna i sigurna – neprimjetno, u pozadini."
+        },
+        "platform": {
+          "title": "Jedinstvena platforma za prijavu kvarova",
+          "description": "Dobivate vlastito sučelje gdje jednostavno možete prijaviti problem ili zahtjev – mi odmah reagiramo."
+        },
+        "monitoring": {
+          "title": "Kontinuirano praćenje i popravak kvarova",
+          "description": "Pratimo servere, mrežu i sustave kako bismo greške riješili i prije nego što ih primijetite."
+        },
+        "cost": {
+          "title": "Költséghatékony, transparentna struktura cijena",
+          "description": "Uz fiksnu mjesečnu naknadu plaćate samo ono čime se stvarno treba baviti – na temelju unaprijed dogovorenog cjenika."
+        },
+        "reporting": {
+          "title": "Ažurni sustavi, mjesečni izvještaj",
+          "description": "Sustave redovito ažuriramo, održavamo, a na kraju svakog mjeseca šaljemo izvještaj o izvršenim radovima i stanju sustava."
+        }
+      }
+    },
+    "benefits": {
+      "title": "Zašto je to dobro za vas?",
+      "subtitle": "Költséghatékony, transparentna i pouzdana IT podrška – bez potrebe za održavanjem vlastitog IT odjela.",
+      "items": [
+        "Ne morate zaposliti vlastitog informatičara – ali netko pazi na vaše sustave",
+        "Fiksna mjesečna naknada, predvidljivi troškovi",
+        "Brzo vrijeme reakcije u slučaju problema",
+        "Proaktivno održavanje i praćenje",
+        "Osobna podrška na hrvatskom jeziku",
+        "Mjesečni izvještaji o stanju sustava",
+        "Skalabilno rješenje – kako vaša tvrtka raste, i mi se širimo",
+        "Nema iznenađenja na računu – sve je unaprijed dogovoreno"
+      ]
+    },
+    "pricing": {
+      "title": "Kako funkcionira određivanje cijena?",
+      "subtitle": "Jednostavna i transparentna konstrukcija – fiksna mjesečna naknada plus unaprijed dogovorena satnica ako je potrebno.",
+      "fixed": {
+        "title": "Fiksna mjesečna naknada",
+        "price": "od 100 EUR / mj",
+        "description": "Uključuje praćenje, osnovno održavanje, izvještavanje i podršku."
+      },
+      "hourly": {
+        "title": "Dodatna satnica",
+        "price": "Unaprijed dogovorena satnica",
+        "description": "Plaćate samo ako je potrebna stvarna intervencija ili razvoj."
+      },
+      "note": "Cijena ovisi o trajanju ugovora i vrsti zadataka. Zatražite personaliziranu ponudu!"
+    },
+    "finalCta": {
+      "title": "Ne treba vam vlastiti informatičar, samo pouzdan partner",
+      "description": "Mi osiguravamo stručnost, brzu reakciju i stabilan rad – a vi se možete koncentrirati na svoju tvrtku.",
+      "button": "Kérem az ajánlatot"
+    }
+  },
+  "customDevelopmentPage": {
+    "breadcrumb": {
+      "home": "Početna",
+      "customDevelopment": "Razvoj jedinstvenih aplikacija"
+    },
+    "hero": {
+      "title": "Razvoj jedinstvenih aplikacija",
+      "subtitle": "Moderna, skalabilna i poslovno orijentirana softverska rješenja prilagođena vašim potrebama",
+      "description": "Više od izrade web stranica – razvijamo kompleksne aplikacije koje stvaraju stvarnu vrijednost za vašu tvrtku. Od web aplikacija temeljenih na TailScriptu i Reactu, preko nativnih Windows softvera, do Android i iOS mobilnih aplikacija.",
+      "cta": "Zatraži besplatno savjetovanje",
+      "scrollDown": "Skrolaj dolje za detalje"
+    },
+    "what": {
+      "title": "Što razvijamo?",
+      "subtitle": "Kompletna jedinstvena softverska rješenja s najmodernijim tehnologijama",
+      "items": [
+        {
+          "title": "TailScript web aplikacije",
+          "description": "Brzi, moderni i učinkoviti web sustavi s TailScript tehnologijom. Skalabilna rješenja za složene poslovne procese koja glatko rade u svakom pregledniku."
+        },
+        {
+          "title": "React poslovne aplikacije",
+          "description": "Enterprise-level web aplikacije s React i Next.js tehnologijama. Intuitivno korisničko sučelje, brzo učitavanje, SEO-optimizirana struktura – sve što je potrebno modernim poslovnim aplikacijama."
+        },
+        {
+          "title": "Windows desktop softveri",
+          "description": "Razvoj nativnih Windows aplikacija s .NET i modernim C# tehnologijama. Brza, pouzdana desktop rješenja koja se besprijekorno integriraju u korporativno okruženje."
+        },
+        {
+          "title": "Razvoj mobilnih aplikacija – Android + iOS",
+          "description": "Nativne i cross-platform mobilne aplikacije s React Native i Flutter tehnologijama. Jedna baza koda, dvije platforme – brz razvoj, izvrsno korisničko iskustvo na oba operativna sustava."
+        }
+      ]
+    },
+    "whyChoose": {
+      "title": "Zašto odabrati SIRONIC za jedinstveni razvoj?",
+      "subtitle": "Mi ne samo kodiramo – mi smo partneri u postizanju vaših poslovnih ciljeva",
+      "reasons": [
+        {
+          "title": "Stvarno razumijevanje poslovanja",
+          "description": "Nismo samo programeri – razumijemo poslovne procese. Svaki razvoj prilagođen je vašim potrebama kako bi stvorio stvarnu vrijednost."
+        },
+        {
+          "title": "Moderne tehnologije",
+          "description": "React, Next.js, TailScript, .NET, React Native – radimo s najsuvremenijim alatima koji su brzi, sigurni i spremni za budućnost."
+        },
+        {
+          "title": "Dugoročno partnerstvo",
+          "description": "Ne stajemo na razvoju. Osiguravamo kontinuiranu podršku, održavanje i nadogradnju – softver uvijek prati vaše poslovne potrebe."
+        },
+        {
+          "title": "Transparentna komunikacija",
+          "description": "Izravna komunikacija. Nema jezičnih barijera, nema nesporazuma – uvijek znate u kojoj je fazi projekt."
+        },
+        {
+          "title": "Sigurnost i pouzdanost",
+          "description": "Sve naše aplikacije izrađene su sa sigurnim upravljanjem podacima, strukturom usklađenom s GDPR-om i stabilnim radom."
+        },
+        {
+          "title": "Skalabilnost",
+          "description": "Naše sustave dizajniramo tako da rastu zajedno s vašom tvrtkom – ne morate ih ponovno pisati kada se širite."
+        }
+      ]
+    },
+    "technologies": {
+      "title": "S kojim tehnologijama radimo?",
+      "subtitle": "Najmoderniji i najpouzdaniji alati na tržištu",
+      "list": [
+        "React & Next.js – moderne, SEO-friendly web aplikacije",
+        "TailScript – brzi i skalabilni web sustavi",
+        "TypeScript – type-safe kod bez grešaka",
+        "Node.js & Express – snažna backend rješenja",
+        ".NET & C# – nativni Windows softveri",
+        "React Native & Flutter – cross-platform mobilne aplikacije",
+        "Tailwind CSS – moderan, responzivan dizajn",
+        "PostgreSQL, MySQL – pouzdano upravljanje bazama podataka",
+        "Docker & Cloud – skalabilna i sigurna infrastruktura"
+      ]
+    },
+    "process": {
+      "title": "Kako radimo?",
+      "subtitle": "Transparentan, strukturiran proces razvoja – korak po korak",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Procjena potreba i savjetovanje",
+          "description": "Upoznajemo vaše poslovne ciljeve, očekivanja i trenutne sustave. Definiramo točno što želite postići softverom."
+        },
+        {
+          "number": "2",
+          "title": "UX/UI dizajn i struktura",
+          "description": "Dizajniramo korisničko iskustvo i sučelje. Žičani modeli (wireframes), dizajni i planovi interakcije – da točno znamo što gradimo."
+        },
+        {
+          "number": "3",
+          "title": "Razvoj i kontinuirana komunikacija",
+          "description": "Stvarno kodiranje. Kontinuirano komuniciramo, prezentiramo napredak i reagiramo na vaše potrebe – tako da nema iznenađenja pri isporuci."
+        },
+        {
+          "number": "4",
+          "title": "Testiranje i osiguranje kvalitete",
+          "description": "Temeljito testiranje na svim uređajima i preglednicima. Testovi performansi, sigurnosti i funkcionalnosti – da sve radi bez greške."
+        },
+        {
+          "number": "5",
+          "title": "Pokretanje i obuka",
+          "description": "Puštanje softvera u rad i obuka korisnika. Dobivate svu dokumentaciju i podršku za nesmetano korištenje."
+        },
+        {
+          "number": "6",
+          "title": "Održavanje i nadogradnja",
+          "description": "Kontinuirana podrška, ispravljanje pogrešaka i nadogradnja. Softver uvijek ostaje ažuran i prati vaše potrebe."
+        }
+      ]
+    },
+    "useCases": {
+      "title": "Čemu služi jedinstvena aplikacija?",
+      "subtitle": "Stvarni poslovni problemi koje rješavamo prilagođenim softverom",
+      "examples": [
+        "CRM i sustavi za upravljanje klijentima – držite klijente pod kontrolom",
+        "Sustavi za upravljanje zaliha i logistiku – automatizirano upravljanje skladištem",
+        "Interni korporativni portali – svi podaci na jednom mjestu",
+        "E-commerce i razvoj web trgovina – online prodajni kanali",
+        "Alati za upravljanje projektima – timski rad i praćenje zadataka",
+        "Automatizirani izvještaji i administracija – štedite vrijeme",
+        "Integracija s postojećim sustavima – povezivanje ERP-a, računa, CRM-a",
+        "Mobilne aplikacije – u rukama klijenata i zaposlenika"
+      ]
+    },
+    "pricing": {
+      "title": "Koliko košta jedinstvena aplikacija?",
+      "subtitle": "Svaki projekt je jedinstven – cijenu uvijek određujemo na temelju zahtjeva",
+      "description": "Cijena razvoja jedinstvene aplikacije ovisi o složenosti projekta, funkcionalnosti i potrebnom vremenu. Za manje aplikacije kreće se od 1250 EUR, dok za veće korporativne sustave može iznositi i više tisuća eura – ali u svakom slučaju izrađujemo individualnu ponudu.",
+      "process": "Na besplatnom savjetovanju procjenjujemo vaše potrebe, razgovaramo o mogućnostima i dajemo transparentnu, fiksnu ponudu za cijeli projekt.",
+      "cta": "Zatraži besplatnu ponudu"
+    },
+    "faq": {
+      "title": "Često postavljana pitanja",
+      "items": [
+        {
+          "question": "Koliko traje razvoj jedinstvene aplikacije?",
+          "answer": "Ovisi o veličini projekta – jednostavnija web aplikacija traje 4-8 tjedana, dok složeni korporativni sustav može potrajati 3-6 mjeseci. U ponudi uvijek dogovaramo rok."
+        },
+        {
+          "question": "Možete li integrirati s postojećim sustavima?",
+          "answer": "Da! Redovito integriramo s ERP-ovima, CRM-ovima, sustavima za naplatu i drugim vanjskim API-jima. To je jedna od najvećih prednosti jedinstvenog razvoja."
+        },
+        {
+          "question": "Tko će biti vlasnik izvornog koda?",
+          "answer": "Nakon završetka projekta, izvorni kod u potpunosti prelazi u vaše vlasništvo – nema skrivenih licenčnih naknada ili ovisnosti."
+        },
+        {
+          "question": "Što je s održavanjem i daljnjim razvojem?",
+          "answer": "Pružamo podršku i nakon isporuke: popravci grešaka, ažuriranja, nadogradnje – s mogućnošću mjesečne naknade ili rješenja po potrebi."
+        },
+        {
+          "question": "Kakvu garanciju dajete na aplikaciju?",
+          "answer": "Nakon isporuke dajemo 6 mjeseci garancije na greške – sve funkcionalne probleme popravljamo besplatno u tom periodu."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Jeste li spremni za jedinstveno softversko rješenje?",
+      "description": "Razgovarajmo o vašim potrebama i zajedno izradimo aplikaciju koja stvarno povećava učinkovitost vašeg poslovanja.",
+      "button": "Tražim besplatno savjetovanje"
+    }
+  },
+  "networkOptimization": {
+    "badge": "Razvoj mreže",
+    "title": "Neka internet i Wi-Fi mreža vaše tvrtke napokon budu stabilni i brzi",
+    "subtitle": "Ako je Wi-Fi spor, veza puca ili je mreža nesigurna, to usporava rad cijele tvrtke. Mi projektiramo, optimiziramo i održavamo moderne, poslovne korporativne mreže — kako bi svaki uređaj radio brzo, sigurno i pouzdano.",
+    "features": {
+      "wifi": {
+        "title": "Stabilan Wi-Fi sustav velikog dometa za tvrtke",
+        "description": "Moderni access pointovi i planiranje mreže kako bi Wi-Fi bio jak u svakoj prostoriji – bez prekida."
+      },
+      "speed": {
+        "title": "Brza i sigurna mreža za sve uređaje",
+        "description": "Optimizirana propusnost, VLAN separacija i podešavanje performansi – svi uređaji rade glatko."
+      },
+      "reliability": {
+        "title": "Internet veza bez problema — bez prekida",
+        "description": "Pouzdani routeri, mrežna oprema poslovne klase i kontinuirano praćenje – kako bi mreža uvijek bila dostupna."
+      }
+    },
+    "cta": "Zatraži izmjeru mreže"
+  },
+  "itTraining": {
+    "badge": "IT edukacija i trening",
+    "title": "IT edukacija i korporativni razvoj znanja",
+    "subtitle": "Unaprijedite digitalne vještine svog tima",
+    "description": "Nudimo personalizirane IT edukacije, treninge sigurnosne svijesti i razvoj sistemskog znanja kako bi zaposlenici samouvjereno koristili moderne alate i softvere. Sigurno poslovanje počinje s informacijama.",
+    "cards": {
+      "personalized": {
+        "title": "Personalizirane IT edukacije",
+        "description": "Jedinstveni programi obuke za razvoj digitalnog znanja vašeg tima. Praktična znanja koja se odmah mogu primijeniti u svakodnevnom radu."
+      },
+      "security": {
+        "title": "Treninzi sigurnosne svijesti",
+        "description": "Osnove kibernetičke sigurnosti i obuka o zaštiti podataka. Naučimo tim kako zaštititi podatke i sustave tvrtke."
+      },
+      "software": {
+        "title": "Obuke za korištenje softvera i uređaja",
+        "description": "Učinkovito korištenje Microsoft 365, Google Workspace i uredskih alata. Povećajte produktivnost usvajanjem odgovarajućeg znanja o alatima."
+      },
+      "corporate": {
+        "title": "Korporativni programi razvoja znanja",
+        "description": "Dugoročni razvoj digitalnih kompetencija. Kontinuirani programi edukacije koji prate tehnološke promjene."
+      }
+    },
+    "languageNote": "Edukacije su trenutno dostupne samo na mađarskom jeziku, online ili u obliku nastave uživo.",
+    "cta": {
+      "main": "Zatraži ponudu za edukaciju",
+      "learnMore": "Saznaj više"
+    }
+  },
+  "itTrainingPage": {
+    "breadcrumb": {
+      "home": "Početna",
+      "training": "IT edukacija"
+    },
+    "hero": {
+      "title": "IT edukacija i korporativni razvoj znanja",
+      "subtitle": "Unaprijedite digitalne vještine svog tima profesionalnim treninzima",
+      "description": "SIRONIC ne samo da upravlja IT sustavima – mi također razvijamo digitalno znanje zaposlenika. Uz naše personalizirane edukacije, vaš tim će samouvjereno koristiti moderne alate i biti svjestan sigurnosnih rizika.",
+      "cta": "Zatraži besplatno savjetovanje",
+      "scrollDown": "Skrolaj dolje za detalje"
+    },
+    "intro": {
+      "title": "Zašto je važna korporativna IT edukacija?",
+      "content": [
+        "Ni najbolja IT infrastruktura nije dovoljna ako je zaposlenici ne znaju učinkovito koristiti. Loše poznavanje alata, nedostatak sigurnosne svijesti i zastarjeli radni procesi smanjuju produktivnost i povećavaju rizike.",
+        "Uz SIRONIC-ove programe IT edukacije, vaš tim stječe ažurna znanja, radi samouvjerenije i svjesno štiti podatke tvrtke. Sve naše edukacije su praktične, personalizirane i izravno primjenjive u svakodnevnom radu."
+      ]
+    },
+    "services": {
+      "title": "Kakve edukacije nudimo?",
+      "subtitle": "Praktične, poslovno orijentirane edukacije na svim razinama",
+      "items": [
+        {
+          "title": "Personalizirane IT edukacije",
+          "description": "Jedinstveni materijali i tempo prilagođen potrebama vašeg tima. Od početnika do naprednih korisnika – svaka edukacija prilagođena je stvarnim potrebama vaše tvrtke. S praktičnim primjerima, učeći iz stvarnih situacija.",
+          "topics": [
+            "Osnove Windows i macOS sustava",
+            "Upravljanje datotekama i strukturom mapa",
+            "Sigurnosna kopija i oporavak podataka",
+            "Korištenje periferije i pisača",
+            "Brzi prečaci na tipkovnici i savjeti za produktivnost"
+          ]
+        },
+        {
+          "title": "Treninzi sigurnosne svijesti",
+          "description": "Većina incidenata vezanih uz zaštitu podataka događa se zbog ljudske pogreške – prevare putem e-pošte, slabe lozinke, krađa identiteta (phishing). Našim edukacijama zaposlenici uče prepoznati i izbjeći rizike.",
+          "topics": [
+            "Prepoznavanje phishing e-mailova i prevara",
+            "Sigurno upravljanje lozinkama i korištenje 2FA",
+            "Osnovna načela zaštite podataka (GDPR) u praksi",
+            "Sigurno dijeljenje datoteka i dopisivanje",
+            "Sigurnost uređaja: laptop, telefon, rad na daljinu"
+          ]
+        },
+        {
+          "title": "Obuke za korištenje softvera i uređaja",
+          "description": "Moderni uredski rad temelji se na softverskim alatima – ali često koristimo samo djelić mogućnosti. Učimo alate i metode za učinkovit rad.",
+          "topics": [
+            "Microsoft 365: Word, Excel, PowerPoint, Outlook, Teams",
+            "Google Workspace: Docs, Sheets, Drive, Meet",
+            "Alati za suradnju: Slack, Notion, Trello, Asana",
+            "Korištenje alata za videokonferencije",
+            "Dijeljenje datoteka u oblaku i sinkronizacija"
+          ]
+        },
+        {
+          "title": "Korporativni programi razvoja znanja",
+          "description": "Dugoročni, kontinuirani programi edukacije koji osiguravaju da je tim uvijek u toku. Izgradnja baze znanja tvrtke i redoviti razvoj.",
+          "topics": [
+            "Izrada jedinstvenih materijala i vodiča",
+            "Kontinuirana online podrška i Q&A sesije",
+            "Redoviti treninzi za osvježavanje tehnološkog znanja",
+            "IT onboarding edukacija za nove zaposlenike",
+            "Edukacija za specifične sustave tvrtke"
+          ]
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Zašto se isplati ulagati u korporativnu IT edukaciju?",
+      "subtitle": "Konkretne prednosti koje donose mjerljive rezultate",
+      "list": [
+        "Veća produktivnost – zaposlenici rade brže i učinkovitije",
+        "Manje IT grešaka i poziva podršci – smanjuje se opterećenje tehničke podrške",
+        "Sigurnije poslovanje – svjesni zaposlenici štite podatke",
+        "Bolje iskorištavanje opreme – puni potencijal softvera i sustava",
+        "Samouvjereniji tim – ne boje se novih tehnologija",
+        "Brža prilagodba – uvođenje novih alata je glađe",
+        "Konkurentnost – digitalno obrazovan tim znači moderniju tvrtku"
+      ]
+    },
+    "targetGroups": {
+      "title": "Kome preporučujemo?",
+      "subtitle": "Svakoj tvrtki koja radi s digitalnim alatima",
+      "groups": [
+        {
+          "title": "Uredski djelatnici",
+          "description": "Koji svakodnevno koriste računalo, e-poštu, Office programe."
+        },
+        {
+          "title": "Direktori i menadžeri",
+          "description": "Kojima treba poznavanje digitalnih alata za donošenje odluka, izvještavanje i komunikaciju."
+        },
+        {
+          "title": "Kolege koji nisu informatičari",
+          "description": "Kojima je tehnologija samo alat, ali bez odgovarajućeg znanja predstavlja prepreku."
+        },
+        {
+          "title": "Zaposlenici koji rade na daljinu",
+          "description": "Kojima treba podrška za siguran i učinkovit rad od kuće."
+        },
+        {
+          "title": "Novi zaposlenici",
+          "description": "Koji kao dio onboardinga moraju upoznati IT sustave tvrtke."
+        }
+      ]
+    },
+    "delivery": {
+      "title": "Kako se odvijaju edukacije?",
+      "subtitle": "Fleksibilni oblici edukacije – vi birate što vam najbolje odgovara",
+      "methods": [
+        {
+          "title": "Edukacija na licu mjesta",
+          "description": "Dolazimo u ured tvrtke i održavamo trening na licu mjesta. Osobno, interaktivno, s trenutnim praktičnim primjerima na vašim sustavima."
+        },
+        {
+          "title": "Online edukacija na daljinu",
+          "description": "Edukacije uživo putem platforme za videokonferencije. Fleksibilan raspored, bez putovanja, ali jednako učinkovito kao i na licu mjesta."
+        },
+        {
+          "title": "Hibridni model",
+          "description": "Kombiniramo oba pristupa: kick-off na licu mjesta, zatim nastavak online. Najbolje od oba svijeta."
+        }
+      ],
+      "languageNote": "Edukacije su trenutno dostupne isključivo na mađarskom jeziku, online ili u obliku nastave uživo."
+    },
+    "topics": {
+      "title": "Konkretne teme koje podučavamo",
+      "subtitle": "Praktično znanje koje možete odmah primijeniti",
+      "list": [
+        "Korištenje Microsoft 365 (Word, Excel, PowerPoint, Outlook, OneDrive, Teams)",
+        "Google Workspace alati (Gmail, Drive, Docs, Sheets, Meet)",
+        "Sigurno upravljanje lozinkama i dvofaktorska autentifikacija",
+        "Prepoznavanje phishing e-mailova i online prevara",
+        "Sigurno dijeljenje datoteka i pohrana u oblaku",
+        "Profesionalno korištenje alata za videokonferencije",
+        "Učinkovito upravljanje e-poštom i organizacija sandučića",
+        "Upravljanje projektima i zadacima (Trello, Asana, Notion)",
+        "Osnovne funkcije i savjeti za Windows i macOS",
+        "Uredska oprema: pisači, skeneri, multimedija"
+      ]
+    },
+    "methodology": {
+      "title": "Kako radimo?",
+      "subtitle": "Strukturiran proces edukacije – korak po korak",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Procjena potreba",
+          "description": "Upoznajemo tim, trenutnu razinu znanja i procese tvrtke. Definiramo područja koja zahtijevaju poboljšanje."
+        },
+        {
+          "number": "2",
+          "title": "Izrada jedinstvenog materijala",
+          "description": "Personalizirani plan edukacije i materijali koji odgovaraju alatima i radnim procesima vaše tvrtke."
+        },
+        {
+          "number": "3",
+          "title": "Provedba edukacije",
+          "description": "Interaktivna, praktična edukacija uživo – pitanja, odgovori, stvarni primjeri u vašem okruženju."
+        },
+        {
+          "number": "4",
+          "title": "Praćenje i podrška",
+          "description": "Dostupni smo i nakon edukacije – pitanja, ponavljanja, dodatna pomoć. Osiguravamo da se znanje doista integrira u svakodnevnu rutinu."
+        }
+      ]
+    },
+    "faq": {
+      "title": "Često postavljana pitanja",
+      "items": [
+        {
+          "question": "Koliko vremena zahtijeva edukacija?",
+          "answer": "Trajanje edukacije ovisi o potrebama. Jednokratna radionica traje 2-4 sata, dok sveobuhvatni korporativni program može trajati više tjedana, kroz više termina. U svakom slučaju dogovaramo vremenski okvir."
+        },
+        {
+          "question": "Koliko ljudi može sudjelovati na treningu odjednom?",
+          "answer": "Idealan broj je između 5 i 15 osoba, kako bi svaki sudionik dobio dovoljno pažnje. Za veće grupe moguće je održati edukaciju u više termina ili paralelnim grupama."
+        },
+        {
+          "question": "Je li potrebno predznanje iz IT-a?",
+          "answer": "Ne! Edukacije prilagođavamo trenutnoj razini znanja sudionika – od početnika do naprednih. Prije toga procjenjujemo na kojoj su razini."
+        },
+        {
+          "question": "Dobivaju li sudionici materijale, bilješke?",
+          "answer": "Da! Nakon svake edukacije materijale, prezentacije i praktične vodiče dobivaju u digitalnom obliku – tako da ih mogu bilo kada ponovno pregledati."
+        },
+        {
+          "question": "Na kojem jeziku se odvijaju edukacije?",
+          "answer": "Trenutno su edukacije dostupne isključivo na mađarskom jeziku, online ili u obliku nastave uživo."
+        },
+        {
+          "question": "Koliko košta korporativna IT edukacija?",
+          "answer": "Cijena se određuje na temelju jedinstvene ponude – ovisi o broju sudionika, temama i trajanju edukacije. Zatražite ponudu i dogovorit ćemo se!"
+        }
+      ]
+    },
+    "pricing": {
+      "title": "Koliko košta IT edukacija?",
+      "subtitle": "Izrađujemo jedinstvenu ponudu – svaka tvrtka ima drugačije potrebe",
+      "description": "Cijena edukacija ovisi o broju sudionika, trajanju edukacije, temama i lokaciji (online/offline). U prosjeku, 4-satna radionica kreće od 200 EUR za male grupe, dok su duži programi kontinuiranog razvoja dostupni i u mjesečnom aranžmanu.",
+      "process": "Zatražite besplatno savjetovanje, procijenit ćemo potrebe i izraditi detaljnu, transparentnu ponudu.",
+      "cta": "Zatraži ponudu odmah"
+    },
+    "finalCta": {
+      "title": "Započnimo digitalni razvoj vašeg tima!",
+      "description": "Zatražite besplatno savjetovanje i zajedno pronađimo kakvim IT edukacijama možete poboljšati učinkovitost i sigurnost svoje tvrtke.",
+      "button": "Tražim ponudu za IT edukaciju"
+    }
+  },
+  "networkOptimizationPage": {
+    "breadcrumb": {
+      "home": "Početna",
+      "networkOptimization": "Razvoj mreže"
+    },
+    "hero": {
+      "title": "Izgradnja, optimizacija i održavanje poslovnih mreža i Wi-Fi sustava",
+      "subtitle": "Neka mreža vaše tvrtke bude stabilna, brza i sigurna",
+      "description": "Ako je Wi-Fi spor, veza puca ili je mreža nesigurna, to usporava rad cijele tvrtke. SIRONIC projektira, optimizira i održava moderne, poslovne mreže – kako bi svaki uređaj radio brzo, sigurno i pouzdano.",
+      "cta": "Zatraži besplatnu izmjeru mreže",
+      "scrollDown": "Skrolaj dolje za detalje"
+    },
+    "problems": {
+      "title": "Česti problemi s kojima se tvrtke susreću",
+      "subtitle": "Zvuči poznato?",
+      "items": [
+        "Spor ili nestabilan Wi-Fi na radnom mjestu",
+        "Slab signal i mrtve točke u uredu",
+        "Zastarjeli routeri i access pointovi",
+        "Nema odvajanja mreže za goste",
+        "Previše uređaja na jednoj mreži – sve se usporava",
+        "Sigurnosni propusti i nezaštićena mreža",
+        "Nema plana za nadzor ili rješavanje problema"
+      ]
+    },
+    "services": {
+      "title": "Što nudimo?",
+      "subtitle": "Kompletna mrežna rješenja za mala i srednja poduzeća",
+      "items": [
+        {
+          "title": "Kompletna izmjera i dijagnostika mreže",
+          "description": "Snimamo trenutnu mrežnu infrastrukturu, identificiramo probleme i predlažemo optimizaciju."
+        },
+        {
+          "title": "Planiranje Wi-Fi signala i analiza pokrivenosti",
+          "description": "Dizajniramo Wi-Fi mrežu tako da signal bude jak u svakoj prostoriji – bez mrtvih točaka."
+        },
+        {
+          "title": "Dizajn nove poslovne mreže",
+          "description": "Gradimo poslovnu mrežu od nule koja je skalabilna, brza i sigurna."
+        },
+        {
+          "title": "Instalacija poslovne opreme (MikroTik, Ubiquiti, UniFi)",
+          "description": "Odabir i instalacija profesionalne mrežne opreme – routera, switcheva, access pointova."
+        },
+        {
+          "title": "Kabliranje i razvoj infrastrukture",
+          "description": "Postavljanje strukturnog kabliranja, patch panela, serverskih ormara – uredna i dugoročna infrastruktura."
+        },
+        {
+          "title": "Sigurnosne postavke, VLAN, vatrozid",
+          "description": "Segmentacija mreže, mreže za goste, konfiguracija vatrozida – kako bi vaši podaci bili sigurni."
+        },
+        {
+          "title": "Nadzor i praćenje mreže",
+          "description": "Kontinuirani nadzor i proaktivno održavanje – rješavamo probleme i prije nego što nastanu."
+        }
+      ]
+    },
+    "technologies": {
+      "title": "S kakvom opremom radimo?",
+      "subtitle": "Pouzdana, poslovna mrežna rješenja",
+      "list": [
+        "MikroTik – snažni, isplativi routeri i switchevi",
+        "Ubiquiti UniFi – moderni, upravljivi Wi-Fi sustavi",
+        "TP-Link Omada – poslovna mrežna oprema",
+        "Cisco i HPE – infrastruktura korporativne razine",
+        "VLAN i konfiguracija vatrozida",
+        "VPN i daljinski pristup",
+        "Mrežni nadzor i analitika"
+      ]
+    },
+    "benefits": {
+      "title": "Zašto se isplati ulagati u profesionalnu mrežu?",
+      "subtitle": "Konkretne prednosti koje donose mjerljive rezultate",
+      "list": [
+        "Brži rad – nema sporog interneta ili prekida veze",
+        "Sigurnije poslovanje – zaštićena mreža, odvojeni Wi-Fi za goste",
+        "Manje zastoja – proaktivan nadzor i brzo rješavanje problema",
+        "Skalabilna infrastruktura – mreža raste s vašom tvrtkom",
+        "Profesionalan izgled – stabilna veza i za klijente",
+        "Smanjeni troškovi – manje gubitka vremena i manje popravaka"
+      ]
+    },
+    "process": {
+      "title": "Kako radimo?",
+      "subtitle": "Transparentan proces – korak po korak",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Izmjera mreže i savjetovanje",
+          "description": "Upoznajemo ured, trenutnu mrežu i potrebe. Identificiramo probleme i mogućnosti."
+        },
+        {
+          "number": "2",
+          "title": "Dizajn mreže i ponuda",
+          "description": "Izrađujemo kompletan plan mreže, analizu pokrivenosti Wi-Fi signalom i popis opreme. Dajemo fiksnu ponudu."
+        },
+        {
+          "number": "3",
+          "title": "Instalacija i konfiguracija",
+          "description": "Postavljamo mrežu, instaliramo opremu, postavljamo sigurnosne elemente. Sve testirano i dokumentirano."
+        },
+        {
+          "number": "4",
+          "title": "Testiranje i primopredaja",
+          "description": "Temeljito testiranje svih uređaja, mjerenje brzine, provjera pokrivenosti. Obuka i predaja dokumentacije."
+        },
+        {
+          "number": "5",
+          "title": "Nadzor i održavanje",
+          "description": "Kontinuirani nadzor, mjesečni izvještaji, proaktivno održavanje. Uvijek smo dostupni ako trebate pomoć."
+        }
+      ]
+    },
+    "useCases": {
+      "title": "Kome preporučujemo?",
+      "subtitle": "Svakoj tvrtki koja treba stabilnu mrežu",
+      "examples": [
+        "Uredi i mala poduzeća – 5-50 zaposlenika",
+        "Ugostiteljski objekti – brz i stabilan Wi-Fi za goste",
+        "Ordinacije i klinike – sigurna medicinska mreža",
+        "Skladišta i logistički centri – robusna industrijska mreža",
+        "Obrazovne ustanove – Wi-Fi velikog kapaciteta",
+        "Trgovački objekti – brzi blagajnički sustavi i IP kamere"
+      ]
+    },
+    "pricing": {
+      "title": "Koliko košta izgradnja poslovne mreže?",
+      "subtitle": "Svaki projekt je jedinstven – cijenu uvijek određujemo na temelju zahtjeva",
+      "description": "Osnovni uredski Wi-Fi sustav kreće od cca. 375 EUR (1-2 access pointa, router, konfiguracija). Za veće mreže – više uređaja, strukturno kabliranje, nadzor – može se računati od 1250 EUR naviše. Zatražite besplatnu izmjeru i točnu ponudu!",
+      "process": "Na besplatnoj izmjeri na licu mjesta analiziramo mrežne potrebe, izrađujemo plan i dajemo transparentnu, fiksnu ponudu.",
+      "cta": "Zatraži besplatnu ponudu"
+    },
+    "faq": {
+      "title": "Često postavljana pitanja",
+      "items": [
+        {
+          "question": "Koliko traje izgradnja mreže?",
+          "answer": "Jednostavniji uredski Wi-Fi sustav gotov je za 1-2 dana, dok kompleksna mreža na više katova može potrajati 1-2 tjedna."
+        },
+        {
+          "question": "Koje brendove preporučujete?",
+          "answer": "Prvenstveno radimo s MikroTik, Ubiquiti UniFi i TP-Link Omada uređajima – pouzdani su, isplativi i prikladni za poslovnu upotrebu."
+        },
+        {
+          "question": "Tko će biti vlasnik mreže?",
+          "answer": "Vi! Sva oprema i konfiguracija vlasništvo su vaše tvrtke, nema skrivenih ovisnosti ili licenčnih naknada."
+        },
+        {
+          "question": "Što je s održavanjem?",
+          "answer": "Nudimo i paket održavanja – kontinuirani nadzor, redovita ažuriranja i brzo otklanjanje kvarova uz mjesečnu naknadu."
+        },
+        {
+          "question": "Možete li optimizirati postojeću mrežu?",
+          "answer": "Da! Ne treba sve zamijeniti – često je dovoljna dobra konfiguracija, dodatni access point ili nadogradnja routera."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Jeste li spremni za stabilnu i brzu mrežu?",
+      "description": "Zatražite besplatnu izmjeru mreže i izgradimo zajedno infrastrukturu koja podržava rast vaše tvrtke.",
+      "button": "Tražim besplatnu izmjeru mreže"
+    }
+  },
+  "repairService": {
+    "badge": "Servis i popravak",
+    "title": "Servis i popravak – na licu mjesta ili poštom",
+    "subtitle": "Brz, pouzdan IT popravak – laptopi, PC-i, serveri, NAS uređaji",
+    "description": "Brz i pouzdan popravak računala, laptopa, servera i mrežnih uređaja. Izlazak na teren u Stolnom Biogradu i okolici, ili slanje uređaja poštom. Svaki popravak započinjemo dijagnostikom, a nakon ponude radimo samo uz vaše odobrenje.",
+    "benefits": [
+      "Brza dijagnostika i otklanjanje kvarova",
+      "Servis na licu mjesta ili poštom – kako vam odgovara",
+      "Transparentna ponuda prije popravka",
+      "Profesionalni alati i stručnjaci",
+      "Spašavanje podataka i uklanjanje virusa",
+      "Jamstvo na svaki popravak"
+    ],
+    "cards": {
+      "onsite": {
+        "title": "Servis na licu mjesta",
+        "description": "Dolazimo k vama u Stolni Biograd i okolicu te na licu mjesta obavljamo popravak ili dijagnostiku."
+      },
+      "postal": {
+        "title": "Slanje poštom",
+        "description": "Pošaljite nam uređaj poštom, mi ćemo ga popraviti i vratiti vam ga – jednostavno i brzo."
+      }
+    },
+    "cta": {
+      "main": "Zatraži ponudu za servis",
+      "learnMore": "Više informacija"
+    }
+  },
+  "repairServicePage": {
+    "breadcrumb": {
+      "repairService": "Servis i popravak"
+    },
+    "hero": {
+      "title": "Servis i popravak – laptopi, PC-i, serveri, NAS uređaji",
+      "subtitle": "Brz, pouzdan IT popravak na licu mjesta ili slanjem poštom",
+      "description": "Profesionalan popravak računala, laptopa, servera i mrežnih uređaja. Izlazak na teren u Stolnom Biogradu i okolici, ili slanje uređaja poštom. Transparentna ponuda, brzo vrijeme popravka, stručna usluga.",
+      "cta": "Prijavi kvar odmah",
+      "scrollDown": "Skrolaj dolje za detalje"
+    },
+    "services": {
+      "title": "Što popravljamo?",
+      "subtitle": "Kompletna dijagnostika i popravak IT opreme",
+      "items": [
+        {
+          "title": "Popravak i održavanje laptopa",
+          "description": "Zamjena ekrana, popravak tipkovnice, zamjena baterije, čišćenje sustava hlađenja, nadogradnja komponenti."
+        },
+        {
+          "title": "Dijagnostika i popravak stolnih računala",
+          "description": "Traženje hardverskih grešaka, zamjena komponenti, optimizacija performansi, čišćenje i održavanje sustava."
+        },
+        {
+          "title": "Popravak servera i poslovne opreme",
+          "description": "Dijagnostika servera, oporavak RAID konfiguracije, popravak i održavanje hardvera."
+        },
+        {
+          "title": "Servis NAS i uređaja za pohranu podataka",
+          "description": "Dijagnostika mrežnih diskova, spašavanje podataka, RAID oporavak, ažuriranje firmvera."
+        },
+        {
+          "title": "Spašavanje i povrat podataka",
+          "description": "Spašavanje kritičnih podataka s neispravnih uređaja, SSD/HDD povrat podataka, izrada sigurnosnih kopija."
+        },
+        {
+          "title": "Uklanjanje virusa i optimizacija sustava",
+          "description": "Uklanjanje virusa i zlonamjernog softvera, čišćenje sustava, povećanje performansi, optimizacija brzine."
+        }
+      ]
+    },
+    "process": {
+      "title": "Kako se odvija popravak?",
+      "subtitle": "Jednostavan i transparentan proces",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Prijava kvara",
+          "description": "Kontaktirajte nas telefonom, e-poštom ili putem obrasca. Razgovarat ćemo o problemu i načinu popravka."
+        },
+        {
+          "number": "2",
+          "title": "Dijagnostika i ponuda",
+          "description": "Nakon pregleda uređaja na licu mjesta ili dolaska poštom, identificiramo kvar i dajemo transparentnu ponudu."
+        },
+        {
+          "number": "3",
+          "title": "Popravak nakon odobrenja",
+          "description": "Nakon prihvaćanja ponude, obavljamo popravak koristeći profesionalne alate i komponente."
+        },
+        {
+          "number": "4",
+          "title": "Testiranje i primopredaja",
+          "description": "Temeljito testiramo popravljeni uređaj, a zatim ga predajemo ili vraćamo poštom. Dajemo jamstvo na svaki popravak."
+        }
+      ]
+    },
+    "onsite": {
+      "title": "Helyszíni szerviz – kiszállunk hozzád",
+      "description": "Székesfehérváron és környékén helyszíni kiszállással végezzük el a javítást vagy diagnosztikát. Ideális megoldás irodáknak, vállalkozásoknak és azoknak, akik nem tudják vagy nem szeretnék elszállítani az eszközt.",
+      "benefits": [
+        "Gyors kiszállás Székesfehérvárra és 30 km-es körzetbe",
+        "Helyben elvégzett diagnosztika és javítás (ha lehetséges)",
+        "Minimális üzemszünet – nem kell elvinni az eszközt",
+        "Professzionális eszközök és alkatrészek a helyszínen",
+        "Vállalati környezetben is elvégezhető"
+      ]
+    },
+    "postal": {
+      "title": "Postai beküldés – kényelmesen otthonról",
+      "description": "Ha távolabb vagy, vagy egyszerűen kényelmesebb számodra, küldd be az eszközt postán. Mi megjavítjuk és visszaküldjük. Biztonságos csomagolásra vonatkozó útmutatást biztosítunk.",
+      "benefits": [
+        "Országos elérhetőség – bárhonnan beküldheted",
+        "Részletes csomagolási útmutató az eszköz biztonságához",
+        "Gyors javítási idő – általában 3-5 munkanap",
+        "Biztonságos visszaküldés futárszolgálattal",
+        "Folyamatos tájékoztatás a javítás állásáról"
+      ],
+      "howTo": "Lépések a postai beküldéshez: 1) Vedd fel velünk a kapcsolatot és írd le a hibát. 2) Csomagold be biztonságosan az eszközt (útmutatást adunk). 3) Küldd el postán vagy futárral a megadott címre. 4) Mi diagnosztizáljuk, árajánlatot küldünk és javítás után visszaküldjük."
+    },
+    "pricing": {
+      "title": "Mennyibe kerül egy javítás?",
+      "subtitle": "Átlátható árak – először diagnosztika, majd árajánlat",
+      "description": "Minden javítást ingyenes diagnosztikával kezdünk (helyszíni vagy postai beküldés esetén). Az árajánlatot csak a vizsgálat után adjuk meg, így pontosan tudod, mire számíthatsz. Csak a jóváhagyásod után kezdünk el dolgozni.",
+      "examples": [
+        "Laptop képernyőcsere: 25.000 Ft-tól (alkatrésztől függően)",
+        "PC vírusirtás és optimalizálás: 8.000 Ft-tól",
+        "Adatmentés hibás eszközről: 15.000 Ft-tól",
+        "Szerver diagnosztika és javítás: egyedi árajánlat"
+      ],
+      "note": "Az árak tájékoztató jellegűek, a pontos költség mindig a vizsgálat után kerül meghatározásra.",
+      "cta": "Kérj ingyenes diagnósztikát"
+    },
+    "faq": {
+      "title": "Gyakran ismételt kérdések",
+      "items": [
+        {
+          "question": "Mennyi ideig tart egy javítás?",
+          "answer": "Egyszerűbb javítások (pl. vírusirtás, optimalizálás) általában 1-2 munkanap. Bonyolultabb esetek (pl. alkatrészcsere, adatmentés) 3-5 munkanapot vehetnek igénybe. Sürgős esetekben expressz szolgáltatást is kínálunk."
+        },
+        {
+          "question": "Mi van, ha nem javítható az eszköz?",
+          "answer": "Ha az eszköz nem javítható vagy gazdaságtalan a javítás, erről azonnal tájékoztatunk. Ebben az esetben csak a diagnosztika díját számítjuk fel (általában 3.000-5.000 Ft), és segítünk tanácsot adni az új eszköz beszerzésében."
+        },
+        {
+          "question": "Biztosítottak az adataim a javítás során?",
+          "answer": "Igen! Minden eszközt bizalmasan kezelünk. Adatmentést csak a jóváhagyásod után végzünk, és minden adatot biztonságosan törlünk a javítás után (ha szükséges)."
+        },
+        {
+          "question": "Van garancia a javításra?",
+          "answer": "Igen, minden elvégzett javításra 30-90 napos garanciát biztosítunk (a javítás típusától függően). Az új alkatrészekre a gyártói garancia is érvényes."
+        },
+        {
+          "question": "Milyen területre mentek ki helyszíni szervizzel?",
+          "answer": "Székesfehérvár és 30 km-es környezetére vállalunk helyszíni kiszállást. Távolabbi területekre egyedi megállapodás alapján, vagy postai beküldéssel dolgozunk."
+        },
+        {
+          "question": "Hogyan csomagoljam be az eszközt postai beküldéshez?",
+          "answer": "Részletes csomagolási útmutatót küldünk e-mailben. Fontos: használj buborékfóliát, stabil dobozt, és jelöld meg 'Törékeny' felirattal. Az eredeti csomagolás a legjobb, ha megvan."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Gond van az eszközöddel?",
+      "description": "Hívj minket vagy küldj üzenetet, és hamar rendbe hozzuk! Gyors diagnosztika, átlátható árak, megbízható javítás.",
+      "button": "Hibabejelentés most"
+    }
+  },
+  "onsitePresence": {
+    "badge": "IT podrška za događaje",
+    "title": "IT On-Site prisutnost na događajima",
+    "subtitle": "Profesionalni IT stručnjak na licu mjesta",
+    "description": "Osigurajte tehničku stabilnost svog stručnog skupa, konferencije ili korporativnog događaja uz dedikiranu IT podršku na licu mjesta.",
+    "cards": {
+      "onsite": {
+        "title": "IT stručnjak na licu mjesta",
+        "description": "Dedikirani IT-evac na licu mjesta koji prati cijeli događaj."
+      },
+      "stability": {
+        "title": "Tehnička stabilnost",
+        "description": "Proaktivan nadzor i trenutna intervencija."
+      },
+      "equipment": {
+        "title": "Nadzor opreme",
+        "description": "Postavljanje i nadzor laptopa, mreže i streaminga."
+      }
+    },
+    "cta": {
+      "main": "Zatražite ponudu",
+      "learnMore": "Saznajte više"
+    }
+  },
+  "onsitePresencePage": {
+    "breadcrumb": {
+      "home": "Početna",
+      "onsitePresence": "IT On-Site prisutnost"
+    },
+    "hero": {
+      "title": "IT On-Site prisutnost na događajima",
+      "subtitle": "Profesionalna IT podrška na licu mjesta za događaje",
+      "description": "Događaj bez tehničkih problema? Uz SIRONIC-ovu uslugu IT On-Site prisutnosti dobivate zajamčeno stabilnu i pouzdanu IT infrastrukturu.",
+      "cta": "Zatražite besplatno savjetovanje"
+    },
+    "intro": {
+      "title": "Zašto se isplati angažirati IT stručnjaka za događaj?",
+      "content": [
+        "Uspjeh profesionalnog događaja često ovisi o tehničkoj stabilnosti. Ako tehnika zakaže, percepcija cijelog događaja može biti narušena.",
+        "Uz SIRONIC-ovu uslugu IT On-Site prisutnosti dobivate iskusnog IT stručnjaka koji osigurava nesmetan rad."
+      ]
+    },
+    "services": {
+      "title": "Što nudimo?",
+      "subtitle": "Potpuna tehnička podrška",
+      "items": [
+        {
+          "title": "Priprema događaja",
+          "description": "Instalacija i testiranje opreme prije događaja.",
+          "topics": [
+            "Instalacija",
+            "Testiranje",
+            "Konfiguracija"
+          ]
+        },
+        {
+          "title": "Mreža i Wi-Fi",
+          "description": "Osiguravanje stabilnog interneta za sve sudionike.",
+          "topics": [
+            "Wi-Fi planiranje",
+            "Propusnost",
+            "Nadzor"
+          ]
+        },
+        {
+          "title": "Podrška za streaming",
+          "description": "Tehnička pozadina za prijenose uživo i hibridne događaje.",
+          "topics": [
+            "OBS",
+            "Kamere",
+            "Ozvučenje"
+          ]
+        }
+      ]
+    },
+    "eventTypes": {
+      "title": "Podržani događaji",
+      "subtitle": "Svaki događaj gdje je IT kritičan",
+      "types": [
+        {
+          "title": "Konferencije",
+          "description": "Veliki stručni skupovi."
+        },
+        {
+          "title": "Hibridni događaji",
+          "description": "Povezivanje online i offline sudionika."
+        },
+        {
+          "title": "Radionice",
+          "description": "Tehnička podrška za praktične edukacije."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Zašto mi?",
+      "items": [
+        "Iskusni stručnjaci",
+        "Trenutno otklanjanje kvarova",
+        "Fleksibilna dostupnost",
+        "Profesionalna oprema"
+      ]
+    },
+    "process": {
+      "title": "Proces",
+      "subtitle": "Ovako radimo zajedno",
+      "steps": [
+        {
+          "title": "Procjena potreba",
+          "description": "Usklađujemo tehničke zahtjeve."
+        },
+        {
+          "title": "Planiranje",
+          "description": "Planiramo potrebnu infrastrukturu."
+        },
+        {
+          "title": "Izvedba",
+          "description": "Instalacija i rad na licu mjesta."
+        },
+        {
+          "title": "Nadzor",
+          "description": "Kontinuirana prisutnost tijekom događaja."
+        },
+        {
+          "title": "Završetak",
+          "description": "Demontaža i evaluacija."
+        }
+      ]
+    },
+    "faq": {
+      "title": "Često postavljana pitanja",
+      "items": [
+        {
+          "question": "Koje vrste događaja pokrivate?",
+          "answer": "Od manjih radionica do velikih konferencija, bilo što."
+        },
+        {
+          "question": "Osiguravate li i opremu?",
+          "answer": "Da, po potrebi nudimo i najam opreme."
+        },
+        {
+          "question": "Koliko košta?",
+          "answer": "Na temelju individualne ponude, ovisno o potrebama."
+        },
+        {
+          "question": "Izlazite li na teren i izvan grada?",
+          "answer": "Da, prihvaćamo angažmane na području cijele zemlje."
+        }
+      ]
+    },
+    "pricing": {
+      "title": "Cijene",
+      "subtitle": "Na temelju individualne ponude",
+      "description": "Svaki događaj je drugačiji, stoga cijene prilagođavamo potrebama.",
+      "process": "Zatražite ponudu!",
+      "cta": "Zatraži ponudu"
+    },
+    "availabilityNote": "Ova usluga dostupna je na području cijele Mađarske.",
+    "finalCta": {
+      "title": "Osigurajte uspjeh!",
+      "description": "Ne prepuštajte tehniku slučaju.",
+      "button": "Tražim ponudu"
+    }
+  }
+}

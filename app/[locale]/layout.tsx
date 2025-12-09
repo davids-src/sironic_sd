@@ -48,6 +48,7 @@ export async function generateMetadata({ params }: { params: { locale: string } 
         'de': `${baseUrl}/de`,
         'sk': `${baseUrl}/sk`,
         'ro': `${baseUrl}/ro`,
+        'hr': `${baseUrl}/hr`,
         'x-default': baseUrl,
       },
     },
