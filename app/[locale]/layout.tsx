@@ -9,6 +9,7 @@ import { notFound } from 'next/navigation';
 import { locales } from '@/i18n';
 import HreflangTags from '@/components/HreflangTags';
 import { TranslationsProvider } from '@/components/TranslationsProvider';
+import { LocalBusinessSchema, OrganizationSchema, WebSiteSchema } from '@/components/StructuredData';
 
 const inter = Inter({ subsets: ['latin'], variable: '--font-inter' });
 
@@ -50,6 +51,9 @@ export async function generateMetadata({ params }: { params: { locale: string } 
         'ro': `${baseUrl}/ro`,
         'hr': `${baseUrl}/hr`,
         'sl': `${baseUrl}/sl`,
+        'fr': `${baseUrl}/fr`,
+        'it': `${baseUrl}/it`,
+        'es': `${baseUrl}/es`,
         'x-default': baseUrl,
       },
     },
@@ -98,6 +102,9 @@ export default async function RootLayout({
         <GoogleAnalytics gaId={process.env.NEXT_PUBLIC_GA_ID || ''} />
       </head>
       <body className={inter.className}>
+        <LocalBusinessSchema locale={locale} />
+        <OrganizationSchema />
+        <WebSiteSchema locale={locale} />
         <TranslationsProvider messages={messages} locale={locale}>
           <SkipToContent />
           <Header />

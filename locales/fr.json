@@ -1,0 +1,1732 @@
+{
+  "meta": {
+    "siteTitle": "SIRONIC IT Solutions : Solutions informatiques complètes pour PME – Opérations, Développement, Sécurité",
+    "siteDescription": "Opérations informatiques professionnelles, développement web (Next.js/TS), infrastructure réseau et sécurité IT. Support informatique dédié pour PME. Demandez une consultation gratuite !",
+    "companyName": "SIRONIC IT Solutions",
+    "keywords": [
+      "Services informatiques",
+      "gestion de système",
+      "installation réseau",
+      "sécurité informatique",
+      "développement web",
+      "développement CRM",
+      "formation informatique",
+      "formation cybersécurité",
+      "compétences numériques",
+      "équipement informatique",
+      "services d'hébergement",
+      "hébergement web",
+      "location de serveur",
+      "réparation ordinateur",
+      "service ordinateur portable",
+      "support sur site",
+      "sécurité des données",
+      "maintenance",
+      "Székesfehérvár",
+      "Hongrie",
+      "Autriche",
+      "Slovaquie",
+      "Roumanie",
+      "République Tchèque"
+    ],
+    "ogImage": "/og/home-fr.jpg",
+    "pages": {
+      "services": {
+        "title": "Services IT - Administration Système & Développement",
+        "description": "Services informatiques fiables pour entreprises : administration système, réseau, développement web, hébergement et réparation. Demandez un devis à nos experts !",
+        "keywords": [
+          "Services informatiques",
+          "gestion de système",
+          "infrastructure réseau",
+          "sécurité IT",
+          "développement web",
+          "hébergement",
+          "réparation",
+          "Székesfehérvár"
+        ],
+        "ogImage": "/og/services-fr.jpg"
+      },
+      "about": {
+        "title": "À propos - SIRONIC IT Solutions : Votre Partenaire de Confiance",
+        "description": "Découvrez SIRONIC IT Solutions ! Plus de 5 ans d'expérience, support IT proactif et une approche centrée sur le client pour les PME.",
+        "keywords": [
+          "Entreprise informatique",
+          "Székesfehérvár",
+          "partenaire IT fiable",
+          "gestion de système",
+          "support IT"
+        ],
+        "ogImage": "/og/about-fr.jpg"
+      },
+      "contact": {
+        "title": "Contactez-nous - SIRONIC IT Solutions Székesfehérvár",
+        "description": "Des questions ? Contactez-nous pour une consultation gratuite ! Joignez-nous par téléphone, email ou en personne à Székesfehérvár. Nous sommes là pour vous aider.",
+        "keywords": [
+          "Contact informatique",
+          "consultation gratuite",
+          "IT Székesfehérvár",
+          "hello@sironic.hu"
+        ],
+        "ogImage": "/og/contact-fr.jpg"
+      },
+      "pricing": {
+        "title": "Tarifs & Forfaits Services IT - SIRONIC IT Solutions",
+        "description": "Découvrez nos tarifs compétitifs ! Administration système mensuelle fixe, développement sur mesure et maintenance sans coûts cachés, avec garantie complète.",
+        "keywords": [
+          "Tarifs informatique",
+          "support IT mensuel",
+          "coût gestion système",
+          "dépenses informatiques",
+          "Székesfehérvár"
+        ],
+        "ogImage": "/og/pricing-fr.jpg"
+      },
+      "products": {
+        "title": "Logiciels & Produits IT Sur Mesure - Solutions SIRONIC",
+        "description": "Explorez nos solutions logicielles et produits IT ! Systèmes CRM, applications web et mobiles conçus pour faire croître votre entreprise.",
+        "keywords": [
+          "Produits IT",
+          "logiciel sur mesure",
+          "système CRM",
+          "application web",
+          "app mobile"
+        ],
+        "ogImage": "/og/products-fr.jpg"
+      },
+      "blog": {
+        "title": "Blog IT & Base de Connaissances - Conseils pour Entreprises",
+        "description": "Lisez nos dernières actualités et astuces IT ! Conseils utiles sur la cybersécurité, l'administration système et le développement numérique pour les sociétés.",
+        "keywords": [
+          "Blog IT",
+          "conseils informatiques",
+          "sécurité informatique",
+          "IT entreprise",
+          "base de connaissances"
+        ],
+        "ogImage": "/og/blog-fr.jpg"
+      },
+      "networkOptimization": {
+        "title": "Installation Réseau & Wi-Fi Entreprise - SIRONIC IT Solutions",
+        "description": "Conception et déploiement de réseaux d'entreprise stables, rapides et sécurisés. Systèmes Wi-Fi modernes, optimisation réseau et maintenance complète.",
+        "keywords": [
+          "réseau d'entreprise",
+          "installation wifi",
+          "optimisation réseau",
+          "wifi entreprise",
+          "MikroTik",
+          "Ubiquiti",
+          "UniFi",
+          "sécurité réseau",
+          "Székesfehérvár",
+          "Hongrie"
+        ],
+        "ogImage": "/og/network-optimization-fr.jpg"
+      },
+      "repairService": {
+        "title": "Réparation & Service IT - Laptop, PC, Serveur | SIRONIC",
+        "description": "Réparations informatiques rapides et fiables à Székesfehérvár. Service professionnel pour laptops, PC, serveurs et NAS sur site ou par envoi postal. Prix transparents, garantie.",
+        "keywords": [
+          "réparation ordinateur portable",
+          "réparation pc",
+          "réparation ordinateur Székesfehérvár",
+          "réparation serveur",
+          "réparation nas",
+          "récupération de données",
+          "suppression virus",
+          "réparation sur site"
+        ],
+        "ogImage": "/og/repair-service-fr.jpg"
+      },
+      "onsitePresence": {
+        "title": "Présence IT Sur Site - SIRONIC IT Solutions",
+        "description": "Supervision informatique professionnelle et support technique pour événements et conférences. Spécialiste dédié sur place.",
+        "keywords": [
+          "IT sur site",
+          "IT événementiel",
+          "technique conférence",
+          "supervision IT"
+        ]
+      }
+    }
+  },
+  "nav": {
+    "home": "Accueil",
+    "services": "Services",
+    "products": "Produits",
+    "pricing": "Tarifs",
+    "about": "À propos",
+    "blog": "Blog",
+    "contact": "Contact",
+    "ctaButton": "Demander un devis"
+  },
+  "hero": {
+    "badge": "Nouveau Service",
+    "title": "Des solutions IT qui fonctionnent comme votre propre équipe interne",
+    "subtitle": "Gestion professionnelle de l'infrastructure IT, maintenance rapide et support dédié pour les petites et moyennes entreprises.",
+    "cta": "Consultation Gratuite",
+    "learnMore": "En savoir plus"
+  },
+  "services": {
+    "title": "Nos Services",
+    "subtitle": "Solutions informatiques complètes pour accélérer la croissance de votre entreprise",
+    "viewAll": "Voir tous les services",
+    "systemOperation": {
+      "title": "Gestion Système & Maintenance IT",
+      "description": "Opérations stables, sécurisées et rapides – nous surveillons vos systèmes en continu avant le moindre problème. Moins d'arrêts, plus d'efficacité."
+    },
+    "networking": {
+      "title": "Conception & Développement Réseau",
+      "description": "Nous concevons, déployons et optimisons l'infrastructure réseau de votre entreprise pour garantir une connexion fiable, rapide et sécurisée à chaque appareil."
+    },
+    "security": {
+      "title": "Sécurité IT & Protection des Données",
+      "description": "Protégez vos données d'entreprise ! Pare-feu modernes, sauvegardes sécurisées, contrôle d'accès – avec nous, la sécurité n'est pas une option, c'est un standard."
+    },
+    "development": {
+      "title": "Développement Web & Logiciel",
+      "description": "Nous créons des sites web professionnels et réactifs ainsi que des solutions logicielles sur mesure pour que votre entreprise se démarque en ligne."
+    },
+    "commerce": {
+      "title": "Fourniture d'Équipements & Logiciels",
+      "description": "Tout ce dont vous avez besoin pour le bureau – ordinateurs, écrans, imprimantes, serveurs et licences logicielles, le tout auprès d'une source unique de confiance."
+    },
+    "hosting": {
+      "title": "Hébergement & Solutions Cloud",
+      "description": "Hébergement stable, rapide et sécurisé pour sites web, emails et sauvegardes. Hébergement web, serveurs dédiés et stockage cloud."
+    },
+    "repair": {
+      "title": "Services de Réparation & Maintenance",
+      "description": "Réparation rapide et fiable d'ordinateurs, laptops et serveurs, sur site ou par service postal. Devis transparents et délais courts."
+    }
+  },
+  "mindenCegnek": {
+    "badge": "Support IT Mensuel",
+    "title": "Chaque entreprise mérite un département IT",
+    "subtitle": "Des solutions IT comme si vous aviez votre propre équipe",
+    "description": "Pas besoin d'embaucher un spécialiste IT à temps plein pour avoir des systèmes stables, sécurisés et rapides. L'abonnement mensuel SIRONIC fonctionne comme si nous faisions partie de votre entreprise – mais vous ne payez que ce dont vous avez réellement besoin.",
+    "features": {
+      "costEffective": "Support IT rentable et optimisé pour votre infrastructure – flexible, fiable et transparent.",
+      "discount": "Valable jusqu'au 1er février 2026 : tout partenaire demandant une consultation reçoit 10% de réduction sur les 3 premiers mois !"
+    },
+    "cta": {
+      "consultation": "Demander une consultation",
+      "learnMore": "En savoir plus"
+    }
+  },
+  "whyChooseUs": {
+    "title": "Pourquoi nous choisir ?",
+    "reasons": [
+      "Fiabilité : Plus de 5 ans d'expérience dans la conception et la gestion de systèmes IT.",
+      "Approche proactive : Nous anticipons – nous agissons avant que les problèmes ne surviennent, pas après.",
+      "Tarification transparente : Pas de frais cachés, maintenance mensuelle fixe ou solutions ponctuelles.",
+      "Communication humaine authentique : Pas de files d'attente interminables – vous pouvez toujours nous joindre directement.",
+      "Opérations IT complètes : Nous travaillons en continu pour garder vos systèmes stables et rapides – moins d'arrêts, plus d'efficacité, infrastructure sécurisée.",
+      "Sécurité IT moderne : Protection des données et sécurité réseau avec pare-feu de pointe, solutions de sauvegarde et gestion des accès – la sécurité est un standard, pas une option.",
+      "Développement web et présence numérique : Sites web professionnels et réactifs et systèmes sur mesure qui augmentent votre visibilité en ligne et attirent des clients.",
+      "Solutions cloud et hébergement : Hébergement rapide, sûr et évolutif pour vos sites, emails et sauvegardes – toujours accessible, toujours stable."
+    ]
+  },
+  "testimonials": {
+    "title": "Ce que disent nos clients",
+    "items": [
+      {
+        "quote": "Avec l'équipe SIRONIC, nous dormons enfin sur nos deux oreilles : nos systèmes fonctionnent de manière stable, rapide et sûre. En cas de problème, ils répondent immédiatement et expliquent tout en langage clair – sans jargon technique. Il est rare de trouver un partenaire aussi fiable dans le monde de l'IT.",
+        "company": "Pervector Ltd."
+      },
+      {
+        "quote": "Nous avions des problèmes constants avec les ordinateurs et le réseau, mais depuis que nous avons confié notre IT à SIRONIC, tout fonctionne parfaitement. Ils aident rapidement, quel que soit le problème, et nous trouvons toujours des solutions avec eux. C'est exactement le type de support dont chaque entreprise a besoin.",
+        "company": "Bocskai Alba Flexum Ltd."
+      },
+      {
+        "quote": "SIRONIC a créé pour nous un site web moderne, épuré et adapté aux mobiles, qui non seulement a fière allure, mais aide nos clients à nous trouver facilement en ligne. Ils gèrent la maintenance depuis – chaque mise à jour et modification se fait rapidement et avec précision. Nous avons reçu un service complet et professionnel.",
+        "company": "Bull & U Ltd."
+      },
+      {
+        "quote": "Nous voulions un site propre, rapide et moderne – SIRONIC a livré exactement cela. Équipe professionnelle, souci du détail, et ils ont toujours d'excellentes idées pour améliorer le résultat. Notre nouveau site reflète parfaitement l'identité de notre entreprise.",
+        "company": "Regia Dental Ltd."
+      }
+    ]
+  },
+  "workProcess": {
+    "title": "Notre méthode de travail",
+    "steps": [
+      {
+        "step": "1",
+        "title": "Premier contact",
+        "description": "Envoyez-nous un message ou demandez une consultation gratuite."
+      },
+      {
+        "step": "2",
+        "title": "Audit IT",
+        "description": "Nous analysons vos besoins et fournissons des recommandations d'experts."
+      },
+      {
+        "step": "3",
+        "title": "Proposition sur mesure",
+        "description": "Nous créons une solution adaptée spécifiquement à votre entreprise."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Foire Aux Questions",
+    "items": [
+      {
+        "question": "Quelles entreprises servez-vous ?",
+        "answer": "SIRONIC se spécialise dans les petites et moyennes entreprises, mais nous offrons aussi des solutions pour de plus grandes sociétés selon leurs besoins. Qu'il s'agisse de support système, d'installation réseau ou de développement web – nous trouvons la solution IT idéale pour chaque entreprise."
+      },
+      {
+        "question": "En quoi SIRONIC est-il différent des autres prestataires IT ?",
+        "answer": "Nous ne sommes pas de simples 'réparateurs' – nous surveillons vos systèmes de manière proactive, prévenons les problèmes et communiquons dans un langage humain. Nous ne laissons pas l'informatique devenir un obstacle, mais en faisons un avantage concurrentiel."
+      },
+      {
+        "question": "Quelle est votre rapidité de réaction en cas de signalement ?",
+        "answer": "Généralement, nous réagissons sous 1 à 4 heures, et immédiatement en cas d'urgence. Pour nos partenaires abonnés, nous garantissons des temps de réponse contractuels."
+      },
+      {
+        "question": "Vous déplacez-vous sur site ou faites-vous uniquement du support à distance ?",
+        "answer": "Les deux ! Nous résolvons la plupart des erreurs à distance, mais si nécessaire, nous intervenons personnellement sur place."
+      },
+      {
+        "question": "Créez-vous des sites web entièrement de zéro ?",
+        "answer": "Naturellement. Nous développons des sites uniques et réactifs avec des technologies modernes (Next.js, React, Tailwind), assurant un site rapide, sécurisé et optimisé pour le référencement."
+      },
+      {
+        "question": "Qu'est-ce que CRM Pro et comment cela aide-t-il mon entreprise ?",
+        "answer": "CRM Pro est un système de gestion client développé sur mesure qui rend les processus de vente transparents, automatise l'administration et peut s'intégrer aux systèmes existants. Disponible dans une gamme de prix accessible même aux petites entreprises."
+      },
+      {
+        "question": "Quelles mesures de sécurité appliquez-vous ?",
+        "answer": "Nous utilisons des pare-feu modernes, des solutions de sauvegarde, du chiffrement et une gestion stricte des accès. Nous concevons tous nos systèmes pour être conformes au RGPD, la sécurité des données est donc active par défaut."
+      },
+      {
+        "question": "Sous quelle forme pouvons-nous collaborer avec vous ?",
+        "answer": "Nous travaillons principalement selon deux modèles : mission ponctuelle (pour des tâches occasionnelles) et contrat de maintenance mensuel (opération et support permanents). Les deux sont transparents, avec une tarification fixe."
+      },
+      {
+        "question": "Combien coûte le développement d'un site ou d'un système ?",
+        "answer": "Les sites basiques commencent à partir de 250 000 HUF, tandis que le prix des systèmes uniques ou solutions CRM dépend des fonctionnalités. Nous fournissons un devis précis avant chaque projet."
+      },
+      {
+        "question": "Pourquoi choisir des solutions cloud ?",
+        "answer": "Le cloud est rapide, sûr et flexible – pas besoin de maintenir votre propre serveur physique, les données sont toujours disponibles et l'extension des capacités se fait en un instant."
+      }
+    ]
+  },
+  "finalCta": {
+    "title": "Prêt pour une informatique sans souci ?",
+    "description": "Demandez une consultation gratuite et trouvons ensemble la meilleure solution pour votre entreprise.",
+    "button": "Demander un devis maintenant"
+  },
+  "contact": {
+    "title": "Contactez-nous",
+    "subtitle": "Vous avez des questions ou souhaitez une consultation gratuite ? Contactez-nous, nous répondrons rapidement !",
+    "form": {
+      "title": "Envoyer un message",
+      "name": "Nom",
+      "email": "Email",
+      "service": "Quel service vous intéresse ?",
+      "servicePlaceholder": "Sélectionnez un service",
+      "message": "Message",
+      "submit": "Envoyer",
+      "submitting": "Envoi en cours...",
+      "required": "*",
+      "success": "Votre message a été envoyé avec succès ! Nous vous contacterons sous peu.",
+      "error": "Une erreur est survenue lors de l'envoi de votre message",
+      "noscript": "Vous pouvez aussi envoyer votre message par email :",
+      "options": {
+        "placeholder": "Sélectionnez un service",
+        "mindenCegnek": "Chaque entreprise devrait avoir un spécialiste IT",
+        "systemOperation": "Gestion système et maintenance IT",
+        "networking": "Installation et développement réseau",
+        "security": "Sécurité IT et protection des données",
+        "development": "Développement de site web et système",
+        "commerce": "Commerce – Équipements IT et logiciels",
+        "hosting": "Hébergement et solutions cloud",
+        "repair": "Service et réparation",
+        "training": "Formation informatique et développement des connaissances"
+      },
+      "errors": {
+        "general": "Une erreur réseau est survenue. Veuillez réessayer plus tard."
+      }
+    },
+    "info": {
+      "title": "Coordonnées",
+      "email": "Email",
+      "phone": "Téléphone",
+      "location": "Adresse",
+      "hours": "Heures d'ouverture",
+      "hoursValue": "Lundi – Vendredi\n8h00 – 17h00",
+      "quickResponse": "Réponse Rapide",
+      "quickResponseText": "Nous répondons généralement à toutes les demandes sous 24 heures les jours ouvrables. Pour les urgences, appelez-nous !"
+    }
+  },
+  "footer": {
+    "companyName": "SIRONIC IT Solutions",
+    "tagline": "Solutions informatiques complètes pour petites et moyennes entreprises",
+    "legalName": "Skoda Dávid András Entreprise Individuelle",
+    "address": "8000 Székesfehérvár, Lövölde utca 24 4/15",
+    "taxNumber": "Numéro fiscal : 45755754-2-27",
+    "links": "Liens Rapides",
+    "hours": "Heures d'ouverture",
+    "hoursValue": "Lundi – Vendredi\n8h00 – 17h00",
+    "cookieSettings": "Paramètres des cookies",
+    "copyright": "© {year} SIRONIC IT Solutions. Tous droits réservés."
+  },
+  "common": {
+    "readMore": "Lire la suite",
+    "learnMore": "En savoir plus",
+    "getQuote": "Demander un devis",
+    "contactUs": "Contact",
+    "loading": "Chargement...",
+    "whatYouGet": "Ce que vous obtenez :"
+  },
+  "servicesPage": {
+    "title": "Nos Services",
+    "subtitle": "Solutions informatiques complètes pour garder votre entreprise sécurisée et efficace. De la maintenance à tarif fixe au développement sur mesure – tout au même endroit.",
+    "cta": {
+      "title": "Intéressé par l'un de nos services ?",
+      "subtitle": "Demandez une consultation gratuite et trouvons ensemble la meilleure solution pour votre entreprise.",
+      "requestQuote": "Demander un devis maintenant",
+      "reportService": "Signaler un problème"
+    },
+    "details": {
+      "systemOperation": {
+        "features": [
+          "Surveillance et maintenance proactives",
+          "Dépannage rapide",
+          "Mises à jour de sécurité régulières",
+          "Optimisation des performances"
+        ]
+      },
+      "networking": {
+        "features": [
+          "Conception et mise en œuvre réseau",
+          "Optimisation réseau WiFi",
+          "VPN et accès à distance",
+          "Sécurité réseau"
+        ]
+      },
+      "security": {
+        "features": [
+          "Configuration et gestion de pare-feu",
+          "Sauvegardes automatiques",
+          "Conformité protection des données (RGPD)",
+          "Protection contre virus et malwares"
+        ]
+      },
+      "development": {
+        "features": [
+          "Sites web modernes et réactifs",
+          "Solutions e-commerce",
+          "Développement logiciel sur mesure",
+          "Optimisation SEO"
+        ]
+      },
+      "commerce": {
+        "description": "Vous pouvez obtenir tout le nécessaire pour le bureau chez nous – ordinateurs, écrans, imprimantes, serveurs, périphériques réseau et licences logicielles. Nous travaillons avec des marques fiables et vous aidons à choisir le meilleur rapport qualité-prix. Que vous ayez besoin de nouveaux équipements ou de mises à niveau, nous nous en occupons.",
+        "features": [
+          "Ordinateurs, laptops et serveurs",
+          "Périphériques réseau et accessoires",
+          "Acquisition de licences logicielles",
+          "Conseil en choix d'équipement"
+        ]
+      },
+      "hosting": {
+        "description": "Nous offrons des solutions d'hébergement stables, rapides et sécurisées pour sites web, emails et sauvegardes. Nous assurons que vos données sont toujours accessibles et protégées via notre propre parc de serveurs ou des partenaires internationaux fiables.",
+        "features": [
+          "Hébergement web et enregistrement de domaine",
+          "Hébergement email",
+          "Sauvegarde cloud et partage de fichiers",
+          "Location et gestion de serveur"
+        ]
+      },
+      "repair": {
+        "title": "Service et Réparation – Sur site ou par envoi",
+        "description": "Réparation rapide et fiable d'ordinateurs, laptops, serveurs et périphériques réseau. Service sur site à Székesfehérvár et ses environs, ou service par envoi postal. Nous commençons chaque réparation par un diagnostic et ne procédons qu'après votre validation du devis. Notre but est de remettre votre système en marche le plus vite possible.",
+        "features": [
+          "Service sur site (Székesfehérvár et environs)",
+          "Option d'envoi postal",
+          "Devis transparent avant réparation",
+          "Délais de réparation rapides"
+        ]
+      },
+      "training": {
+        "title": "Formation IT et Développement des Connaissances",
+        "description": "Développez les compétences numériques de votre équipe ! Nous proposons des formations IT personnalisées, une sensibilisation à la sécurité et un développement des connaissances systèmes pour que les employés utilisent les appareils et logiciels modernes en toute confiance. La sécurité commence par l'information.",
+        "features": [
+          "Formation IT personnalisée",
+          "Sensibilisation à la sécurité",
+          "Formation utilisation logiciels et appareils",
+          "Programmes de développement des compétences"
+        ]
+      }
+    }
+  },
+  "productsPage": {
+    "breadcrumb": {
+      "home": "Accueil",
+      "products": "Produits"
+    },
+    "title": "Nos Produits – La Technologie Sironic en Solutions Réelles",
+    "subtitle": "Nos développements internes sont nés de besoins réels – ces systèmes soutiennent aujourd'hui les opérations de plusieurs entreprises. Voyez comment ils peuvent aussi aider la vôtre.",
+    "noProducts": "Il n'y a actuellement aucun produit à afficher. Notre sélection s'élargira bientôt !",
+    "cta": {
+      "title": "Intéressé par l'un de nos produits ?",
+      "subtitle": "Contactez-nous, et nous vous montrerons comment nos systèmes peuvent s'intégrer à vos opérations. Tous nos produits ont été développés sur la base de besoins commerciaux réels.",
+      "consultation": "Demander une consultation",
+      "services": "Nos Services"
+    },
+    "whyChoose": {
+      "title": "Pourquoi choisir les produits Sironic ?",
+      "reasons": [
+        {
+          "title": "Solutions à des problèmes réels",
+          "description": "Tous nos produits sont testés en pratique et éprouvés dans des entreprises en activité."
+        },
+        {
+          "title": "Support en langue locale",
+          "description": "Vous pouvez nous joindre directement, sans barrière de la langue ni systèmes de réponse automatisés."
+        },
+        {
+          "title": "Développement continu",
+          "description": "Nous élargissons et améliorons régulièrement les fonctionnalités de nos produits basés sur les retours clients."
+        },
+        {
+          "title": "Options de personnalisation",
+          "description": "Nous pouvons adapter nos produits à vos besoins et les intégrer à vos systèmes existants."
+        }
+      ]
+    }
+  },
+  "aboutPage": {
+    "title": "À propos",
+    "intro": [
+      "SIRONIC IT Solutions a débuté pendant la période COVID, quand chaque entreprise a dû repenser ses opérations informatiques. Depuis, nous évoluons continuellement pour suivre les changements rapides du monde IT – car nous croyons que la technologie peut être un avantage, et non un fardeau, pour chaque société.",
+      "Notre objectif est que les petites et moyennes entreprises n'aient pas à lutter contre des problèmes informatiques. Nous ne faisons pas que maintenir des systèmes – nous fournissons stabilité, sécurité et tranquillité d'esprit pour vos opérations.",
+      "Qu'il s'agisse de gestion système, d'installation réseau, de sécurité des données ou de développement web, avec nous, chaque solution IT est entre une seule main – rapide, transparente et en langage humain."
+    ],
+    "stats": [
+      {
+        "value": "5+",
+        "label": "Années d'expérience"
+      },
+      {
+        "value": "100+",
+        "label": "Clients satisfaits"
+      },
+      {
+        "value": "24/7",
+        "label": "Disponibilité"
+      },
+      {
+        "value": "99.9%",
+        "label": "Disponibilité système"
+      }
+    ],
+    "mission": {
+      "title": "La Mission de SIRONIC",
+      "paragraphs": [
+        "Nous savons que pour une PME, l'informatique ne doit pas être un obstacle – elle doit juste fonctionner, chaque jour, sans faille. Un arrêt, un réseau lent ou un paramètre de sécurité obsolète peuvent causer de graves pertes aujourd'hui.",
+        "C'est pourquoi nous avons créé SIRONIC IT Solutions : pour rendre une infrastructure IT professionnelle mais abordable accessible à chaque entreprise. Vous n'avez pas besoin d'embaucher votre propre administrateur système, ni de construire une infrastructure complexe ou coûteuse – nous nous occupons de tout.",
+        "Nos services couvrent l'ensemble des opérations IT : gestion système, réseau, sauvegarde de données, sécurité IT, gestion de pare-feu, développement web et formation. Nous nous adaptons toujours aux technologies actuelles, pour que nos clients soient sûrs que leurs systèmes sont à jour et sécurisés.",
+        "SIRONIC ne fournit pas seulement de l'IT – mais de la tranquillité d'esprit, de la prévisibilité et du soutien. Nous sommes ceux que vous pouvez joindre à tout moment en cas de problème – et souvent nous le résolvons avant même que vous ne le remarquiez.",
+        "Nous traitons chaque client comme un partenaire, ne nous contentant pas de maintenir leurs systèmes, mais en prenant soin de leurs opérations sur le long terme."
+      ]
+    },
+    "values": {
+      "title": "Pourquoi travailler avec nous ?",
+      "items": [
+        {
+          "title": "Attitude proactive",
+          "description": "Nous n'agissons pas seulement quand il y a un problème. Nous surveillons vos systèmes en continu pour les prévenir."
+        },
+        {
+          "title": "Communication humaine",
+          "description": "Pas de 'jungle des tickets' ici. Vous parlez à de vraies personnes qui comprennent votre problème et aident rapidement."
+        },
+        {
+          "title": "Transparence",
+          "description": "Maintenance mensuelle fixe ou solutions ponctuelles – pas de frais cachés, vous savez toujours à quoi vous attendre."
+        }
+      ]
+    },
+    "howWeWork": {
+      "title": "Comment travaillons-nous ?",
+      "steps": [
+        "Nous écoutons vos besoins et évaluons votre système IT actuel",
+        "Nous vous recommandons la meilleure solution pour vous",
+        "Nous installons, optimisons et surveillons votre système",
+        "Nous fournissons un support continu dès que vous avez besoin de nous"
+      ]
+    },
+    "finalCta": {
+      "title": "Devenez l'un de nos partenaires !",
+      "subtitle": "Demandez une consultation gratuite, et trouvons ensemble la meilleure solution IT pour votre entreprise.",
+      "button": "Prenons contact"
+    }
+  },
+  "pricingPage": {
+    "title": "Tarifs",
+    "subtitle": "Nous créons des offres personnalisées basées sur vos besoins. Aucune entreprise ne se ressemble – nous adaptons donc toujours nos tarifs à votre infrastructure et vos exigences.",
+    "heroTitle": "Tarification Transparente – Claire et Simple",
+    "heroDescription": "Pas de coûts cachés. Nous avons conçu nos services pour que chaque entreprise trouve la bonne solution – que ce soit pour la maintenance, le développement ou la réparation.",
+    "packages": {
+      "mindenCegnek": {
+        "title": "Chaque entreprise mérite un département IT",
+        "price": "à partir de 150 €/mois",
+        "description": "Opérations IT complètes en abonnement mensuel – comme avoir votre propre spécialiste IT.",
+        "features": [
+          "Surveillance et maintenance système continue",
+          "Intervention rapide en cas d'erreur",
+          "Conseil en développement d'infrastructure",
+          "Gestion des sauvegardes et mises à jour",
+          "Support IT personnel et francophone"
+        ],
+        "badge": "🎁 Valable jusqu'au 1er fév. 2026 : 10% de réduction sur les 3 premiers mois pour toute demande de consultation !",
+        "ctaText": "Demander une consultation"
+      },
+      "systemOperation": {
+        "title": "Opérations Système & Maintenance IT",
+        "price": "à partir de 120 €/mois",
+        "description": "Supervision continue et fonctionnement ininterrompu.",
+        "features": [
+          "Maintenance et surveillance régulières",
+          "Dépannage rapide et remise en service",
+          "Supervision serveur et réseau",
+          "Opération proactive et mises à jour de sécurité"
+        ],
+        "ctaText": "Demander un devis"
+      },
+      "networking": {
+        "title": "Création & Développement Réseau",
+        "price": "à partir de 180 € / projet",
+        "description": "Conception et mise en œuvre d'infrastructure réseau fiable et sécurisée.",
+        "features": [
+          "Conception et installation complète de réseau",
+          "Configuration routeur, switch, Wi-Fi",
+          "Optimisation réseau et maintenance",
+          "Connexion de données rapide, stable et sûre"
+        ],
+        "ctaText": "Demander un devis"
+      },
+      "security": {
+        "title": "Sécurité IT & Protection des Données",
+        "price": "à partir de 240 €",
+        "description": "Protégez vos données d'entreprise avec des solutions modernes.",
+        "features": [
+          "Installation pare-feu et sécurité réseau",
+          "Sauvegarde et récupération",
+          "Gestion des accès, chiffrement",
+          "Protection des données conforme au RGPD"
+        ],
+        "ctaText": "Demander un devis"
+      },
+      "development": {
+        "title": "Développement Web & Système",
+        "price": "à partir de 1 000 € (unique)",
+        "description": "Développements professionnels sur mesure pour la croissance numérique de votre entreprise.",
+        "features": [
+          "Portails et sites web réactifs",
+          "Solutions logicielles sur mesure",
+          "Optimisation SEO et UX",
+          "Support et maintenance continus"
+        ],
+        "ctaText": "Demander un devis"
+      },
+      "commerce": {
+        "title": "Commerce – Équipement IT & Logiciels",
+        "price": "Sur devis personnalisé",
+        "description": "Tout le nécessaire pour des opérations de bureau modernes.",
+        "features": [
+          "Ordinateurs, écrans, serveurs",
+          "Imprimantes et périphériques réseau",
+          "Licences logicielles et abonnements",
+          "Infrastructure de bureau complète"
+        ],
+        "ctaText": "Demander un devis"
+      },
+      "hosting": {
+        "title": "Hébergement & Solutions Cloud",
+        "price": "à partir de 15 €/mois",
+        "description": "Hébergement rapide, sûr et évolutif pour les entreprises.",
+        "features": [
+          "Hébergement web et email",
+          "Sauvegarde cloud",
+          "Service cloud privé",
+          "Disponibilité continue (99.9%)"
+        ],
+        "ctaText": "Demander un devis"
+      },
+      "crm": {
+        "title": "Développement CRM Sur Mesure",
+        "price": "à partir de 1 500 €",
+        "description": "Système de gestion client personnalisé qui augmente l'efficacité des ventes.",
+        "features": [
+          "Structure modulaire, fonctions personnalisables",
+          "Intégration aux systèmes existants (ERP, email, site web)",
+          "Rapports automatisés et analyses",
+          "Interface conviviale"
+        ],
+        "ctaText": "Demander un devis"
+      }
+    },
+    "customQuote": {
+      "title": "Vous avez des besoins uniques ?",
+      "description": "Les prix sont indicatifs ; les devis exacts sont toujours basés sur les exigences.\nDemandez une consultation gratuite, et nous vous aiderons à trouver la meilleure solution.",
+      "button": "Demander une consultation IT gratuite"
+    },
+    "whyChoose": {
+      "title": "Pourquoi choisir SIRONIC ?",
+      "description": "Si aucun forfait ne convient parfaitement, nous créerons une offre sur mesure. Aucune entreprise n'est identique – et aucune solution ne l'est non plus.",
+      "reasons": [
+        {
+          "title": "Prix Transparents",
+          "description": "Pas de coûts cachés"
+        },
+        {
+          "title": "Forfaits Flexibles",
+          "description": "Solutions mensuelles et ponctuelles"
+        },
+        {
+          "title": "Réponse Rapide",
+          "description": "Nous aidons immédiatement si nécessaire"
+        },
+        {
+          "title": "Support Long Terme",
+          "description": "Nous traitons les clients comme des partenaires"
+        }
+      ],
+      "button": "Demander un devis personnalisé"
+    }
+  },
+  "mindenCegnekPage": {
+    "hero": {
+      "badge": "Support IT Mensuel",
+      "title": "Chaque entreprise mérite un département IT",
+      "subtitle": "Comme avoir votre propre spécialiste IT",
+      "description": "Un service où vous n'avez pas besoin d'embaucher un spécialiste IT – à la place, vous obtenez une équipe complète qui garde tout à jour en arrière-plan, surveille, maintient et n'intervient que lorsque c'est nécessaire.",
+      "cta": "Demander une consultation",
+      "discount": "Valable jusqu'au 1er fév. 2026 : 10% de réduction sur les 3 premiers mois pour toute demande de consultation !",
+      "scroll": "Défilez pour plus d'infos"
+    },
+    "whatYouGet": {
+      "title": "Qu'obtenez-vous exactement ?",
+      "subtitle": "Une solution IT complète qui travaille pour vous chaque jour – invisiblement mais efficacement.",
+      "features": {
+        "internet": {
+          "title": "Accès internet continu et fonctionnement stable",
+          "description": "Nous assurons que le réseau de votre entreprise est toujours disponible, stable et sécurisé – sans se faire remarquer, en arrière-plan."
+        },
+        "platform": {
+          "title": "Plateforme unique pour le signalement d'erreurs",
+          "description": "Vous obtenez votre propre interface où vous pouvez facilement signaler problèmes ou demandes – nous répondons immédiatement."
+        },
+        "monitoring": {
+          "title": "Surveillance et dépannage continus",
+          "description": "Nous surveillons serveurs, réseau et systèmes pour gérer les erreurs avant même que vous ne les remarquiez."
+        },
+        "cost": {
+          "title": "Structure de prix rentable et transparente",
+          "description": "Au-delà du forfait mensuel fixe, vous ne payez que pour ce qui nécessite réellement une attention – basé sur une liste de prix convenue à l'avance."
+        },
+        "reporting": {
+          "title": "Systèmes à jour, rapport mensuel",
+          "description": "Nous mettons à jour et maintenons les systèmes en continu, et envoyons un rapport à la fin de chaque mois sur la performance et l'état des systèmes."
+        }
+      }
+    },
+    "benefits": {
+      "title": "Pourquoi est-ce bon pour vous ?",
+      "subtitle": "Support IT rentable, transparent et fiable – sans maintenir votre propre département IT.",
+      "items": [
+        "Pas besoin d'embaucher votre propre personnel IT – mais quelqu'un surveille vos systèmes",
+        "Frais mensuel fixe, coûts prévisibles",
+        "Temps de réponse rapide en cas de problème",
+        "Maintenance proactive et surveillance",
+        "Support personnel et francophone",
+        "Rapports mensuels sur l'état du système",
+        "Solution évolutive – à mesure que votre entreprise grandit, nous aussi",
+        "Pas de factures surprises – tout est convenu à l'avance"
+      ]
+    },
+    "pricing": {
+      "title": "Comment fonctionne la tarification ?",
+      "subtitle": "Structure simple et transparente – forfait mensuel fixe plus taux horaire convenu à l'avance si nécessaire.",
+      "fixed": {
+        "title": "Frais mensuel fixe",
+        "price": "à partir de 150 €/mois",
+        "description": "Inclut surveillance, maintenance de base, rapports et support."
+      },
+      "hourly": {
+        "title": "Plus frais de main-d'œuvre",
+        "price": "Taux horaire convenu",
+        "description": "Vous ne payez que si une intervention réelle ou un développement est nécessaire."
+      },
+      "note": "La tarification dépend de la durée du contrat et des types de tâches. Demandez un devis personnalisé !"
+    },
+    "finalCta": {
+      "title": "Vous n'avez pas besoin de votre propre spécialiste IT, juste d'un partenaire fiable",
+      "description": "Nous fournissons l'expertise, la réponse rapide et l'opération stable – vous pouvez vous concentrer sur votre entreprise.",
+      "button": "Demander un devis"
+    }
+  },
+  "customDevelopment": {
+    "badge": "Développement Logiciel Sur Mesure",
+    "title": "Développement d'Applications Sur Mesure pour Votre Entreprise",
+    "subtitle": "Logiciels évolutifs, sécurisés et axés sur le business",
+    "description": "L'équipe SIRONIC offre un développement complet d'applications sur mesure pour votre entreprise. Des applications web et logiciels de bureau Windows aux applications mobiles – toutes les solutions adaptées à vos besoins commerciaux avec des technologies modernes.",
+    "cards": {
+      "webApps": {
+        "title": "Développement d'Applications Web Sur Mesure",
+        "description": "Applications web d'entreprise basées sur TailScript et React. Solutions évolutives, rapides et conviviales pour des processus métier complexes."
+      },
+      "desktop": {
+        "title": "Logiciels de Bureau Windows",
+        "description": "Développement d'applications natives Windows avec technologies modernes. Logiciels efficaces, rapides et fiables pour environnements de bureau."
+      },
+      "mobile": {
+        "title": "Développement d'Applications Mobiles",
+        "description": "Développement d'applications Android et iOS. Solutions mobiles modernes et intuitives qui fonctionnent parfaitement sur chaque appareil."
+      }
+    },
+    "cta": {
+      "main": "Demander un devis pour développement sur mesure",
+      "learnMore": "En savoir plus"
+    }
+  },
+  "customDevelopmentPage": {
+    "breadcrumb": {
+      "home": "Accueil",
+      "customDevelopment": "Développement d'Applications Sur Mesure"
+    },
+    "hero": {
+      "title": "Développement d'Applications Sur Mesure",
+      "subtitle": "Solutions logicielles modernes, évolutives et axées sur le business, adaptées à vos besoins",
+      "description": "Plus que la simple création de sites web – nous développons des applications complexes qui créent une véritable valeur pour votre entreprise. Des applications web basées sur TailScript et React aux logiciels natifs Windows et applications mobiles Android/iOS.",
+      "cta": "Demander une consultation gratuite",
+      "scrollDown": "Défilez pour les détails"
+    },
+    "what": {
+      "title": "Que développons-nous ?",
+      "subtitle": "Solutions logicielles sur mesure complètes avec des technologies de pointe",
+      "items": [
+        {
+          "title": "Applications Web basées sur TailScript",
+          "description": "Systèmes web rapides, modernes et efficaces avec la technologie TailScript. Solutions évolutives pour processus métier complexes qui fonctionnent parfaitement dans tous les navigateurs."
+        },
+        {
+          "title": "Applications d'Entreprise React",
+          "description": "Applications web de niveau entreprise avec React et Next.js. Interface utilisateur intuitive, chargement rapide, structure optimisée SEO – tout le nécessaire pour les applications métier modernes."
+        },
+        {
+          "title": "Logiciels de Bureau Windows",
+          "description": "Développement d'applications natives Windows avec .NET et technologies C# modernes. Solutions de bureau rapides et fiables qui s'intègrent parfaitement aux environnements d'entreprise."
+        },
+        {
+          "title": "Développement d'App Mobile – Android + iOS",
+          "description": "Applications mobiles natives et multiplateformes avec React Native et Flutter. Une base de code, deux plateformes – développement rapide, excellente expérience utilisateur sur les deux systèmes d'exploitation."
+        }
+      ]
+    },
+    "whyChoose": {
+      "title": "Pourquoi choisir SIRONIC pour le développement sur mesure ?",
+      "subtitle": "Nous ne faisons pas que coder – nous sommes partenaires dans l'atteinte de vos objectifs commerciaux",
+      "reasons": [
+        {
+          "title": "Compréhension Réelle du Business",
+          "description": "Nous ne sommes pas juste des programmeurs – nous comprenons les processus métier. Chaque développement est adapté à vos besoins pour créer une véritable valeur."
+        },
+        {
+          "title": "Technologies Modernes",
+          "description": "React, Next.js, TailScript, .NET, React Native – nous travaillons avec les outils les plus avancés, rapides, sécurisés et pérennes."
+        },
+        {
+          "title": "Partenariat à Long Terme",
+          "description": "Nous ne nous arrêtons pas au développement. Nous fournissons support continu, maintenance et développement ultérieur – le logiciel suit toujours vos besoins métier."
+        },
+        {
+          "title": "Communication Transparente",
+          "description": "Communication directe, francophone. Pas de barrière linguistique, pas de malentendus – vous savez toujours où en est le projet."
+        },
+        {
+          "title": "Sécurité et Fiabilité",
+          "description": "Toutes nos applications sont construites avec une gestion sécurisée des données, une structure conforme au RGPD et une opération stable."
+        },
+        {
+          "title": "Évolutivité",
+          "description": "Nous concevons nos systèmes pour grandir avec votre entreprise – pas besoin de tout réécrire quand vous vous développez."
+        }
+      ]
+    },
+    "technologies": {
+      "title": "Quelles technologies utilisons-nous ?",
+      "subtitle": "Les outils les plus modernes et fiables du marché",
+      "list": [
+        "React & Next.js – applications web modernes, SEO-friendly",
+        "TailScript – systèmes web rapides et évolutifs",
+        "TypeScript – code typé, sans erreurs",
+        "Node.js & Express – solutions backend robustes",
+        ".NET & C# – logiciels natifs Windows",
+        "React Native & Flutter – applications mobiles multiplateformes",
+        "Tailwind CSS – design moderne et réactif",
+        "PostgreSQL, MySQL – gestion de base de données fiable",
+        "Docker & Cloud – infrastructure évolutive et sécurisée"
+      ]
+    },
+    "process": {
+      "title": "Comment travaillons-nous ?",
+      "subtitle": "Processus de développement transparent et structuré – étape par étape",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Analyse des besoins et Consultation",
+          "description": "Nous prenons connaissance de vos objectifs commerciaux, attentes et systèmes actuels. Nous clarifions exactement ce que vous voulez accomplir avec le logiciel."
+        },
+        {
+          "number": "2",
+          "title": "Design UX/UI et Construction de Structure",
+          "description": "Nous concevons l'expérience utilisateur et l'interface. Wireframes, designs et plans d'interaction – pour savoir exactement ce que nous construisons."
+        },
+        {
+          "number": "3",
+          "title": "Développement et Coordination Continue",
+          "description": "Le codage proprement dit. Nous communiquons continuellement, montrons les progrès et répondons à vos besoins – pas de surprises à la livraison."
+        },
+        {
+          "number": "4",
+          "title": "Tests et Assurance Qualité",
+          "description": "Tests approfondis sur chaque appareil et navigateur. Tests de performance, sécurité et fonctionnalité – pour assurer que tout fonctionne parfaitement."
+        },
+        {
+          "number": "5",
+          "title": "Lancement et Formation",
+          "description": "Déploiement du logiciel et formation des utilisateurs. Vous obtenez toute la documentation et le support pour une opération fluide."
+        },
+        {
+          "number": "6",
+          "title": "Maintenance et Développement Ultérieur",
+          "description": "Support continu, corrections de bugs et développements futurs. Le logiciel reste toujours à jour et suit vos besoins."
+        }
+      ]
+    },
+    "useCases": {
+      "title": "À quoi sert une application sur mesure ?",
+      "subtitle": "Problèmes métier réels que nous résolvons avec des logiciels personnalisés",
+      "examples": [
+        "Systèmes CRM et gestion client – gardez vos clients sous contrôle",
+        "Logiciels d'inventaire et logistique – gestion d'entrepôt automatisée",
+        "Portails internes d'entreprise – toutes les données au même endroit",
+        "E-commerce et développement de boutique en ligne – canaux de vente en ligne",
+        "Outils de gestion de projet – travail d'équipe et suivi des tâches",
+        "Rapports automatisés et administration – gagnez du temps",
+        "Intégration avec systèmes existants – connexion ERP, facturation, CRM",
+        "Applications mobiles – entre les mains des clients et employés"
+      ]
+    },
+    "pricing": {
+      "title": "Combien coûte une application sur mesure ?",
+      "subtitle": "Chaque projet est unique – la tarification est toujours basée sur les exigences",
+      "description": "Le prix du développement d'application sur mesure dépend de la complexité du projet, des fonctionnalités et du temps requis. Les petites applications commencent à partir de 2 000 €, les systèmes d'entreprise plus larges peuvent coûter des dizaines de milliers – mais nous préparons toujours un devis personnalisé.",
+      "process": "Lors d'une consultation gratuite, nous évaluons vos besoins, discutons des possibilités et fournissons un devis fixe et transparent pour l'ensemble du projet.",
+      "cta": "Demander un devis gratuit"
+    },
+    "faq": {
+      "title": "Foire Aux Questions",
+      "items": [
+        {
+          "question": "Combien de temps prend le développement d'une application sur mesure ?",
+          "answer": "Cela dépend de la taille du projet – une application web simple prend 4-8 semaines, tandis qu'un système d'entreprise complexe peut prendre 3-6 mois. Nous convenons toujours des délais dans le devis."
+        },
+        {
+          "question": "Pouvez-vous intégrer avec des systèmes existants ?",
+          "answer": "Oui ! Nous intégrons régulièrement avec des ERP, CRM, systèmes de facturation et autres API externes. C'est l'un des plus grands avantages du développement sur mesure."
+        },
+        {
+          "question": "Qui possède le code source ?",
+          "answer": "Après le projet, le code source devient votre propriété complète – pas de frais de licence cachés ou de dépendances."
+        },
+        {
+          "question": "Et pour la maintenance et le développement futur ?",
+          "answer": "Nous fournissons un support après livraison : corrections de bugs, mises à jour, développement ultérieur – avec des solutions mensuelles ou ponctuelles optionnelles."
+        },
+        {
+          "question": "Quelle garantie avons-nous sur l'application ?",
+          "answer": "Il y a une garantie de 6 mois sur les bugs après livraison – nous corrigeons tous les problèmes fonctionnels gratuitement durant cette période."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Prêt pour une solution logicielle sur mesure ?",
+      "description": "Discutons de vos besoins et créons ensemble une application qui augmente vraiment l'efficacité de votre entreprise.",
+      "button": "Demander une consultation gratuite"
+    }
+  },
+  "itTraining": {
+    "badge": "Formation & Éducation IT",
+    "title": "Formation IT & Développement des Connaissances en Entreprise",
+    "subtitle": "Développez les compétences numériques de votre équipe",
+    "description": "Nous offrons des formations IT personnalisées, des ateliers de sensibilisation à la sécurité et un développement des connaissances systèmes pour assurer que vos employés utilisent les outils modernes et logiciels en toute confiance. La sécurité des opérations commence par l'information.",
+    "cards": {
+      "personalized": {
+        "title": "Formation IT Personnalisée",
+        "description": "Programmes de formation sur mesure pour améliorer la compétence numérique de votre équipe. Des connaissances pratiques immédiatement applicables aux tâches quotidiennes."
+      },
+      "security": {
+        "title": "Formation Sensibilisation Sécurité",
+        "description": "Fondamentaux de cybersécurité et ateliers de protection des données. Apprenez à votre équipe comment protéger efficacement les données et systèmes de votre entreprise."
+      },
+      "software": {
+        "title": "Formation Utilisation Logiciels & Appareils",
+        "description": "Utilisation efficace de Microsoft 365, Google Workspace et outils bureautiques. Boostez la productivité en maîtrisant les bons outils."
+      },
+      "corporate": {
+        "title": "Programmes de Développement des Connaissances",
+        "description": "Développement des compétences numériques à long terme. Programmes d'éducation continue qui suivent les avancées technologiques."
+      }
+    },
+    "languageNote": "Les sessions de formation sont actuellement disponibles uniquement en hongrois, en ligne ou sur site.",
+    "cta": {
+      "main": "Demander un devis de formation",
+      "learnMore": "En savoir plus"
+    }
+  },
+  "itTrainingPage": {
+    "meta": {
+      "title": "Formation IT & Éducation d'Entreprise | SIRONIC",
+      "description": "Formation IT pratique pour entreprises : sensibilisation sécurité, utilisation logiciels et développement compétences numériques. Améliorez les compétences de votre équipe !",
+      "keywords": [
+        "Formation IT",
+        "formation entreprise",
+        "sensibilisation sécurité",
+        "compétence numérique",
+        "cours Excel",
+        "atelier IT"
+      ],
+      "ogTitle": "Formation IT & Éducation d'Entreprise - SIRONIC",
+      "ogDescription": "Formation IT pratique pour entreprises. Améliorez les compétences numériques de votre équipe avec nous !"
+    },
+    "breadcrumb": {
+      "home": "Accueil",
+      "training": "Formation IT"
+    },
+    "hero": {
+      "title": "Formation IT & Développement des Connaissances en Entreprise",
+      "subtitle": "Développez les compétences numériques de votre équipe avec une formation professionnelle",
+      "description": "SIRONIC ne fait pas seulement fonctionner les systèmes IT – nous développons aussi les connaissances numériques de vos employés. Avec nos formations personnalisées, votre équipe utilisera les outils modernes avec confiance et sera consciente des risques de sécurité.",
+      "cta": "Demander une consultation gratuite",
+      "scrollDown": "Défilez pour les détails"
+    },
+    "intro": {
+      "title": "Pourquoi la formation IT d'entreprise est-elle importante ?",
+      "content": [
+        "Même la meilleure infrastructure IT ne suffit pas si les employés ne savent pas l'utiliser efficacement. Une mauvaise connaissance des outils, un manque de sensibilisation à la sécurité et des flux de travail obsolètes réduisent la productivité et augmentent les risques.",
+        "Avec les programmes de formation IT SIRONIC, votre équipe acquiert des connaissances à jour, travaille avec plus de confiance et protège consciemment les données de l'entreprise. Toutes nos formations sont pratiques, personnalisées et directement applicables au travail quotidien."
+      ]
+    },
+    "services": {
+      "title": "Quelles formations proposons-nous ?",
+      "subtitle": "Éducation pratique axée sur le business à chaque niveau",
+      "items": [
+        {
+          "title": "Formation IT Personnalisée",
+          "description": "Programme et rythme sur mesure selon les besoins de votre équipe. Du débutant à l'utilisateur avancé – chaque cours est adapté aux exigences réelles de votre entreprise. Apprentissage par des exemples pratiques et situations réelles.",
+          "topics": [
+            "Bases Windows et macOS",
+            "Gestion de fichiers et structure de dossiers",
+            "Sauvegarde et récupération de données",
+            "Utilisation des périphériques et imprimantes",
+            "Raccourcis clavier rapides et astuces de productivité"
+          ]
+        },
+        {
+          "title": "Formation Sensibilisation à la Sécurité",
+          "description": "La plupart des incidents de protection des données proviennent d'erreurs humaines – arnaques par email, mots de passe faibles, phishing. Notre formation aide les employés à reconnaître et éviter les risques.",
+          "topics": [
+            "Reconnaître les emails de phishing et arnaques",
+            "Gestion sécurisée des mots de passe et usage 2FA",
+            "Principes de protection des données (RGPD) en pratique",
+            "Partage de fichiers et emails sécurisés",
+            "Sécurité des appareils : laptops, téléphones, télétravail"
+          ]
+        },
+        {
+          "title": "Formation Utilisation Logiciels & Appareils",
+          "description": "Le travail de bureau moderne repose sur des outils logiciels – mais souvent nous n'utilisons qu'une fraction de leur potentiel. Nous enseignons les outils et méthodes pour un travail efficace.",
+          "topics": [
+            "Microsoft 365 : Word, Excel, PowerPoint, Outlook, Teams",
+            "Google Workspace : Docs, Sheets, Drive, Meet",
+            "Outils de collaboration : Slack, Notion, Trello, Asana",
+            "Utilisation des outils de visioconférence",
+            "Partage de fichiers cloud et synchronisation"
+          ]
+        },
+        {
+          "title": "Programmes de Développement des Connaissances en Entreprise",
+          "description": "Programmes de formation continus à long terme assurant que l'équipe est toujours à jour. Création d'une base de connaissances d'entreprise et développement régulier.",
+          "topics": [
+            "Création de supports d'apprentissage et guides personnalisés",
+            "Support en ligne continu et sessions Q&R",
+            "Formation régulière de mise à jour technologique",
+            "Formation IT d'intégration pour nouveaux employés",
+            "Formation sur les systèmes spécifiques de l'entreprise"
+          ]
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Pourquoi investir dans la formation IT d'entreprise ?",
+      "subtitle": "Des avantages concrets qui apportent des résultats mesurables",
+      "list": [
+        "Productivité accrue – les employés travaillent plus vite et plus efficacement",
+        "Moins d'erreurs IT et d'appels support – charge réduite sur le support technique",
+        "Opérations plus sûres – des employés conscients protègent les données",
+        "Meilleure utilisation des outils – plein potentiel des logiciels et systèmes",
+        "Équipe plus confiante – pas de peur des nouvelles technologies",
+        "Adaptation plus rapide – introduction plus fluide de nouveaux outils",
+        "Compétitivité – une équipe compétente numériquement signifie une entreprise plus moderne"
+      ]
+    },
+    "targetGroups": {
+      "title": "À qui le recommandons-nous ?",
+      "subtitle": "Pour toute entreprise travaillant avec des outils numériques",
+      "groups": [
+        {
+          "title": "Employés de bureau",
+          "description": "Ceux qui utilisent ordinateurs, emails et programmes Office quotidiennement."
+        },
+        {
+          "title": "Dirigeants et Managers",
+          "description": "Ceux qui ont besoin de connaissances en outils numériques pour la prise de décision, le reporting et la communication."
+        },
+        {
+          "title": "Collègues non-IT",
+          "description": "Ceux pour qui la technologie est juste un outil, mais un obstacle sans connaissances appropriées."
+        },
+        {
+          "title": "Travailleurs à distance",
+          "description": "Ceux qui ont besoin de support pour un travail en home office sûr et efficace."
+        },
+        {
+          "title": "Nouvelles recrues",
+          "description": "Ceux qui doivent apprendre les systèmes IT de l'entreprise lors de l'intégration."
+        }
+      ]
+    },
+    "delivery": {
+      "title": "Comment la formation est-elle dispensée ?",
+      "subtitle": "Formes d'éducation flexibles – Vous choisissez ce qui convient le mieux",
+      "methods": [
+        {
+          "title": "Formation Sur Site",
+          "description": "Nous venons à votre bureau et tenons la formation sur place. Personnel, interactif, avec exemples pratiques immédiats sur vos propres systèmes."
+        },
+        {
+          "title": "Formation à Distance en Ligne",
+          "description": "Sessions de formation en direct via plateformes de visioconférence. Horaires flexibles, pas de déplacement, mais tout aussi efficace que la forme sur site."
+        },
+        {
+          "title": "Modèle Hybride",
+          "description": "Combinaison des deux : lancement sur site, puis continuation en ligne. Le meilleur des deux mondes."
+        }
+      ],
+      "languageNote": "Les sessions de formation sont actuellement disponibles uniquement en hongrois, en ligne ou sur site."
+    },
+    "topics": {
+      "title": "Sujets Spécifiques Que Nous Enseignons",
+      "subtitle": "Connaissances pratiques applicables immédiatement",
+      "list": [
+        "Utilisation de Microsoft 365 (Word, Excel, PowerPoint, Outlook, OneDrive, Teams)",
+        "Outils Google Workspace (Gmail, Drive, Docs, Sheets, Meet)",
+        "Gestion sécurisée des mots de passe et authentification à deux facteurs",
+        "Reconnaître les emails de phishing et arnaques en ligne",
+        "Partage de fichiers sécurisé et stockage cloud",
+        "Usage professionnel des outils de visioconférence",
+        "Gestion efficace des emails et organisation de la boîte de réception",
+        "Gestion de projet et tâches (Trello, Asana, Notion)",
+        "Fonctions de base et astuces Windows et macOS",
+        "Appareils de bureau : imprimantes, scanners, multimédia"
+      ]
+    },
+    "methodology": {
+      "title": "Comment travaillons-nous ?",
+      "subtitle": "Processus d'éducation structuré – étape par étape",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Évaluation des Besoins",
+          "description": "Nous apprenons à connaître l'équipe, les niveaux de connaissances actuels et les processus de l'entreprise. Nous clarifions quels domaines nécessitent un développement."
+        },
+        {
+          "number": "2",
+          "title": "Création de Programme Sur Mesure",
+          "description": "Plan d'éducation personnalisé et matériel adapté aux outils et flux de travail de votre entreprise."
+        },
+        {
+          "number": "3",
+          "title": "Conduite de la Formation",
+          "description": "Éducation en direct, interactive et pratique – questions, réponses, exemples réels dans votre propre environnement."
+        },
+        {
+          "number": "4",
+          "title": "Suivi et Support",
+          "description": "Nous sommes disponibles après la formation aussi – questions, révisions, aide supplémentaire. Nous assurons que les connaissances sont vraiment intégrées à la routine quotidienne."
+        }
+      ]
+    },
+    "faq": {
+      "title": "Foire Aux Questions",
+      "items": [
+        {
+          "question": "Combien de temps dure une session de formation ?",
+          "answer": "La durée dépend des besoins. Un atelier ponctuel dure 2-4 heures, tandis qu'un programme complet d'entreprise peut s'étendre sur plusieurs semaines avec plusieurs sessions. Nous convenons toujours du calendrier."
+        },
+        {
+          "question": "Combien de personnes peuvent participer à la fois ?",
+          "answer": "Le nombre idéal est entre 5-15 personnes pour que chacun reçoive assez d'attention. Pour des groupes plus larges, nous pouvons tenir plusieurs sessions ou groupes parallèles."
+        },
+        {
+          "question": "Les participants ont-ils besoin de connaissances IT préalables ?",
+          "answer": "Non ! Nous adaptons la formation au niveau actuel des participants – du débutant à l'avancé. Nous évaluons où chacun se situe au préalable."
+        },
+        {
+          "question": "Les participants reçoivent-ils des supports ou notes ?",
+          "answer": "Oui ! Après chaque formation, ils reçoivent le matériel, les présentations et les guides pratiques sous forme numérique – pour pouvoir les revoir à tout moment."
+        },
+        {
+          "question": "Dans quelle langue les formations sont-elles tenues ?",
+          "answer": "Actuellement, les sessions de formation sont disponibles exclusivement en hongrois, soit en ligne soit sur site."
+        },
+        {
+          "question": "Combien coûte une formation IT d'entreprise ?",
+          "answer": "La tarification est basée sur un devis personnalisé – dépendant du nombre de participants, des sujets et de la durée. Demandez un devis, et nous en discuterons !"
+        }
+      ]
+    },
+    "pricing": {
+      "title": "Combien coûte la formation IT ?",
+      "subtitle": "Nous créons des offres sur mesure – chaque entreprise a des besoins différents",
+      "description": "Les prix de formation dépendent du nombre de participants, de la durée, des sujets et du lieu (en ligne/hors ligne). En moyenne, un atelier de 4 heures commence à partir de 200 € pour les petits groupes, tandis qu'un programme de développement continu plus long est disponible en modèle d'abonnement mensuel.",
+      "process": "Demandez une consultation gratuite, nous évaluerons les besoins et préparerons une offre détaillée et transparente.",
+      "cta": "Demander un devis maintenant"
+    },
+    "finalCta": {
+      "title": "Lancez le développement numérique de votre équipe !",
+      "description": "Demandez une consultation gratuite, et découvrons ensemble quelle formation IT peut améliorer l'efficacité et la sécurité de votre entreprise.",
+      "button": "Demander un devis de formation IT"
+    }
+  },
+  "networkOptimization": {
+    "badge": "Optimisation Réseau",
+    "title": "Assurez à votre entreprise un Internet & Wi-Fi stables et rapides",
+    "subtitle": "Un Wi-Fi lent, une connexion instable ou un réseau peu fiable ralentit toute votre entreprise. Nous concevons, optimisons et maintenons des infrastructures réseau modernes de niveau entreprise pour que chaque appareil fonctionne vite, de manière sûre et fiable.",
+    "features": {
+      "wifi": {
+        "title": "Wi-Fi d'entreprise stable à haute couverture",
+        "description": "Points d'accès modernes et conception réseau pour assurer un signal Wi-Fi fort dans chaque pièce – sans coupures."
+      },
+      "speed": {
+        "title": "Réseau rapide et sécurisé pour tous les appareils",
+        "description": "Bande passante optimisée, séparation VLAN et réglage des performances – chaque appareil fonctionne fluidement."
+      },
+      "reliability": {
+        "title": "Connexion fiable — pas de décrochages",
+        "description": "Routeurs fiables, équipement réseau professionnel et surveillance continue – pour que votre réseau soit toujours accessible."
+      }
+    },
+    "cta": "Demander un audit réseau"
+  },
+  "networkOptimizationPage": {
+    "breadcrumb": {
+      "home": "Accueil",
+      "networkOptimization": "Optimisation Réseau"
+    },
+    "hero": {
+      "title": "Conception, Optimisation et Maintenance de Réseau & Wi-Fi d'Entreprise",
+      "subtitle": "Rendez le réseau de votre entreprise stable, rapide et sécurisé",
+      "description": "Si votre Wi-Fi est lent, que les connexions sautent ou que le réseau n'est pas fiable, cela freine toute la performance de votre entreprise. SIRONIC conçoit, optimise et maintient des réseaux modernes de niveau professionnel – pour que chaque appareil fonctionne rapidement, sûrement et de manière fiable.",
+      "cta": "Demander un audit réseau gratuit",
+      "scrollDown": "Défilez pour les détails"
+    },
+    "problems": {
+      "title": "Problèmes Réseau Courants des Entreprises",
+      "subtitle": "Cela vous dit quelque chose ?",
+      "items": [
+        "Wi-Fi lent ou instable au travail",
+        "Signal faible et zones mortes dans le bureau",
+        "Routeurs et points d'accès obsolètes",
+        "Pas de séparation du réseau invité",
+        "Trop d'appareils sur un seul réseau – tout ralentit",
+        "Failles de sécurité et réseau non protégé",
+        "Pas de plan de surveillance ou de dépannage"
+      ]
+    },
+    "services": {
+      "title": "Ce que nous fournissons",
+      "subtitle": "Solutions réseau complètes pour petites et moyennes entreprises",
+      "items": [
+        {
+          "title": "Audit et diagnostic réseau complet",
+          "description": "Nous évaluons votre infrastructure réseau actuelle, identifions les problèmes et suggérons des optimisations."
+        },
+        {
+          "title": "Cartographie du signal Wi-Fi et analyse de couverture",
+          "description": "Nous concevons le réseau Wi-Fi pour assurer un signal fort dans chaque pièce – aucune zone morte."
+        },
+        {
+          "title": "Conception de nouveau réseau d'entreprise",
+          "description": "Nous construisons des réseaux professionnels de zéro qui sont évolutifs, rapides et sécurisés."
+        },
+        {
+          "title": "Installation de matériel d'entreprise (MikroTik, Ubiquiti, UniFi)",
+          "description": "Sélection et installation d'équipement réseau professionnel – routeurs, switches, points d'accès."
+        },
+        {
+          "title": "Câblage et mises à niveau de l'infrastructure",
+          "description": "Installation de câblage structuré, panneaux de brassage, baies serveurs – infrastructure organisée et pérenne."
+        },
+        {
+          "title": "Sécurité, VLAN, configuration pare-feu",
+          "description": "Segmentation réseau, réseaux invités, configuration pare-feu – pour garder vos données en sécurité."
+        },
+        {
+          "title": "Surveillance et gestion réseau",
+          "description": "Surveillance continue et maintenance proactive – nous connaissons et traitons les problèmes avant qu'ils ne deviennent critiques."
+        }
+      ]
+    },
+    "technologies": {
+      "title": "Quel équipement utilisons-nous ?",
+      "subtitle": "Solutions réseau fiables et professionnelles",
+      "list": [
+        "MikroTik – routeurs et switches puissants et rentables",
+        "Ubiquiti UniFi – systèmes Wi-Fi modernes et gérables",
+        "TP-Link Omada – équipement réseau de niveau entreprise",
+        "Cisco et HPE – infrastructure de niveau entreprise",
+        "Configuration VLAN et pare-feu",
+        "VPN et accès à distance",
+        "Surveillance réseau et analyses"
+      ]
+    },
+    "benefits": {
+      "title": "Pourquoi investir dans un réseau professionnel ?",
+      "subtitle": "Des avantages concrets qui livrent des résultats mesurables",
+      "list": [
+        "Travail plus rapide – pas d'internet lent ou de décrochages",
+        "Opérations plus sûres – réseau protégé, Wi-Fi invité séparé",
+        "Moins d'arrêts – surveillance proactive et dépannage rapide",
+        "Infrastructure évolutive – le réseau grandit avec votre entreprise",
+        "Apparence professionnelle – connexion stable pour les clients aussi",
+        "Coûts réduits – moins de temps perdu et moins de réparations"
+      ]
+    },
+    "process": {
+      "title": "Comment travaillons-nous ?",
+      "subtitle": "Processus transparent – étape par étape",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Audit réseau et consultation",
+          "description": "Nous découvrons le bureau, le réseau actuel et les besoins. Nous identifions problèmes et opportunités."
+        },
+        {
+          "number": "2",
+          "title": "Conception réseau et devis",
+          "description": "Nous créons un plan réseau complet, une analyse de couverture Wi-Fi et une liste d'équipement. Devis à prix fixe."
+        },
+        {
+          "number": "3",
+          "title": "Installation et configuration",
+          "description": "Nous déployons le réseau, installons l'équipement, configurons les éléments de sécurité. Tout est testé et documenté."
+        },
+        {
+          "number": "4",
+          "title": "Tests et remise",
+          "description": "Tests approfondis sur chaque appareil, mesure de vitesse, vérification de couverture. Formation et remise de la documentation."
+        },
+        {
+          "number": "5",
+          "title": "Surveillance et maintenance",
+          "description": "Supervision continue, rapports mensuels, maintenance proactive. Toujours disponibles quand vous avez besoin d'aide."
+        }
+      ]
+    },
+    "useCases": {
+      "title": "À qui le recommandons-nous ?",
+      "subtitle": "Toute entreprise qui a besoin d'un réseau stable",
+      "examples": [
+        "Bureaux et petites entreprises – 5-50 employés",
+        "Lieux d'accueil – Wi-Fi invité rapide et stable",
+        "Cliniques et cabinets médicaux – réseau médical sécurisé",
+        "Entrepôts et centres logistiques – réseau industriel robuste",
+        "Institutions éducatives – Wi-Fi haute capacité",
+        "Unités de vente au détail – système POS rapide et caméras IP"
+      ]
+    },
+    "pricing": {
+      "title": "Combien coûte l'installation d'un réseau d'entreprise ?",
+      "subtitle": "Chaque projet est unique – nous déterminons le prix selon les besoins",
+      "description": "Un système Wi-Fi de bureau basique commence à partir d'env. 400 € (1-2 points d'accès, routeur, configuration). Pour des réseaux plus larges – plus d'appareils, câblage structuré, surveillance – comptez à partir de 1 200 €+. Demandez un audit gratuit et un devis exact !",
+      "process": "L'audit gratuit sur site analyse les besoins réseau, nous créons un plan et fournissons un devis transparent à prix fixe.",
+      "cta": "Demander un devis gratuit"
+    },
+    "faq": {
+      "title": "Foire Aux Questions",
+      "items": [
+        {
+          "question": "Combien de temps prend l'installation réseau ?",
+          "answer": "Un système Wi-Fi de bureau simple prend 1-2 jours, tandis qu'un réseau d'entreprise complexe sur plusieurs étages peut prendre 1-2 semaines."
+        },
+        {
+          "question": "Quelles marques recommandez-vous ?",
+          "answer": "Nous travaillons principalement avec l'équipement MikroTik, Ubiquiti UniFi et TP-Link Omada – fiable, rentable et adapté à l'usage professionnel."
+        },
+        {
+          "question": "Qui sera propriétaire du réseau ?",
+          "answer": "Vous ! Tout l'équipement et la configuration appartiennent à votre entreprise, pas de frais de licence cachés ou de dépendances."
+        },
+        {
+          "question": "Et pour la maintenance ?",
+          "answer": "Nous offrons aussi des paquets de maintenance – surveillance continue, mises à jour régulières et dépannage rapide en abonnement mensuel."
+        },
+        {
+          "question": "Pouvez-vous optimiser des réseaux existants ?",
+          "answer": "Oui ! Vous n'avez pas à tout remplacer – souvent une bonne configuration, un point d'accès supplémentaire ou une mise à niveau de routeur suffit."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Prêt pour un Réseau Stable et Rapide ?",
+      "description": "Demandez un audit réseau gratuit, et construisons ensemble l'infrastructure qui soutient la croissance de votre entreprise.",
+      "button": "Demander un audit réseau gratuit"
+    }
+  },
+  "repairService": {
+    "badge": "Réparation & Service",
+    "title": "Réparation & Service IT – Sur site ou par envoi",
+    "subtitle": "Réparations IT rapides et fiables – laptops, PC, serveurs, appareils NAS",
+    "description": "Réparation professionnelle d'ordinateurs, laptops, serveurs et périphériques réseau. Service sur site à Székesfehérvár et environs, ou service postal. Nous commençons chaque réparation par un diagnostic et fournissons des devis transparents avant tout travail.",
+    "benefits": [
+      "Diagnostic et dépannage rapides",
+      "Service sur site ou par envoi – selon ce qui vous convient",
+      "Devis transparent avant réparation",
+      "Outils et experts professionnels",
+      "Sauvegarde de données et suppression de virus",
+      "Garantie sur toutes les réparations"
+    ],
+    "cards": {
+      "onsite": {
+        "title": "Service sur site",
+        "description": "Nous venons à vous à Székesfehérvár et zones proches pour effectuer réparations ou diagnostics sur place."
+      },
+      "postal": {
+        "title": "Service par envoi",
+        "description": "Envoyez-nous votre appareil par la poste, nous le réparons et le renvoyons – simple et rapide."
+      }
+    },
+    "cta": {
+      "main": "Demander un devis de réparation",
+      "learnMore": "En savoir plus"
+    }
+  },
+  "repairServicePage": {
+    "breadcrumb": {
+      "repairService": "Réparation & Service"
+    },
+    "hero": {
+      "title": "Réparation & Service IT – Laptops, PC, Serveurs, Appareils NAS",
+      "subtitle": "Réparations IT rapides et fiables sur site ou via envoi postal",
+      "description": "Réparation professionnelle d'ordinateurs, laptops, serveurs et périphériques de stockage réseau. Service sur site à Székesfehérvár et environs, ou option d'envoi. Devis transparents, délais rapides, service expert.",
+      "cta": "Signaler un problème maintenant",
+      "scrollDown": "Défilez pour les détails"
+    },
+    "services": {
+      "title": "Que réparons-nous ?",
+      "subtitle": "Diagnostic et réparation complets d'appareils IT",
+      "items": [
+        {
+          "title": "Réparation & Maintenance de Laptop",
+          "description": "Remplacement d'écran, réparation clavier, remplacement batterie, nettoyage système refroidissement, mise à niveau composants."
+        },
+        {
+          "title": "Diagnostic & Réparation PC de Bureau",
+          "description": "Dépannage matériel, remplacement composants, optimisation performances, nettoyage système et maintenance."
+        },
+        {
+          "title": "Réparation Serveur & Équipement Pro",
+          "description": "Diagnostic serveur, récupération configuration RAID, réparation et maintenance matérielle."
+        },
+        {
+          "title": "Service NAS & Appareils de Stockage",
+          "description": "Diagnostic stockage réseau, sauvegarde données, récupération RAID, mises à jour firmware."
+        },
+        {
+          "title": "Sauvegarde & Récupération de Données",
+          "description": "Récupération critique de données depuis appareils défectueux, récupération données SSD/HDD, création sauvegarde."
+        },
+        {
+          "title": "Suppression Virus & Optimisation Système",
+          "description": "Suppression virus et malwares, nettoyage système, boost performances, optimisation vitesse."
+        }
+      ]
+    },
+    "process": {
+      "title": "Comment fonctionne la réparation ?",
+      "subtitle": "Processus simple et transparent",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Signalement du problème",
+          "description": "Contactez-nous par téléphone, email ou formulaire. Nous discutons du problème et de la méthode de réparation."
+        },
+        {
+          "number": "2",
+          "title": "Diagnostic & Devis",
+          "description": "Sur site ou après réception, nous examinons l'appareil, identifions la panne et fournissons un devis transparent."
+        },
+        {
+          "number": "3",
+          "title": "Réparation après approbation",
+          "description": "Après acceptation du devis, nous effectuons la réparation avec des outils et pièces professionnels."
+        },
+        {
+          "number": "4",
+          "title": "Tests & Remise",
+          "description": "Nous testons minutieusement l'appareil réparé, puis le remettons ou le renvoyons. Garantie sur toutes les réparations."
+        }
+      ]
+    },
+    "onsite": {
+      "title": "Service Sur Site – Nous venons à vous",
+      "description": "À Székesfehérvár et environs, nous effectuons réparations ou diagnostics sur place. Idéal pour bureaux, entreprises et ceux qui ne peuvent ou ne veulent pas transporter l'appareil.",
+      "benefits": [
+        "Service rapide à Székesfehérvár et rayon de 30 km",
+        "Diagnostic et réparation sur site (quand possible)",
+        "Temps d'arrêt minimal – pas besoin d'enlever l'appareil",
+        "Outils et pièces professionnels sur place",
+        "Peut être effectué dans des environnements d'entreprise"
+      ]
+    },
+    "postal": {
+      "title": "Service par Envoi – Pratique depuis chez vous",
+      "description": "Si vous êtes plus loin ou préférez simplement la commodité, envoyez votre appareil. Nous le réparons et le retournons. Nous fournissons des consignes d'emballage sûres.",
+      "benefits": [
+        "Couverture nationale – envoyez de n'importe où",
+        "Guide d'emballage détaillé pour la sécurité de l'appareil",
+        "Délais rapides – typiquement 3-5 jours ouvrables",
+        "Retour sécurisé via service de messagerie",
+        "Mises à jour continues sur le statut de réparation"
+      ],
+      "howTo": "Étapes pour l'envoi : 1) Contactez-nous et décrivez le problème. 2) Emballez l'appareil sûrement (nous fournissons des guides). 3) Envoyez à l'adresse fournie. 4) Nous diagnostiquons, envoyons le devis et retournons après réparation."
+    },
+    "pricing": {
+      "title": "Combien coûte une réparation ?",
+      "subtitle": "Prix transparents – diagnostic d'abord, puis devis",
+      "description": "Nous commençons chaque réparation par un diagnostic gratuit (sur site ou par envoi). Le devis n'est fourni qu'après examen, vous savez donc exactement à quoi vous attendre. Le travail ne commence qu'après votre approbation.",
+      "examples": [
+        "Remplacement écran laptop : à partir de 65 € (dépend de la pièce)",
+        "Suppression virus PC et optimisation : à partir de 20 €",
+        "Récupération données depuis appareil défectueux : à partir de 40 €",
+        "Diagnostic et réparation serveur : devis personnalisé"
+      ],
+      "note": "Les prix sont indicatifs, le coût exact est toujours déterminé après examen.",
+      "cta": "Demander un diagnostic gratuit"
+    },
+    "faq": {
+      "title": "Foire Aux Questions",
+      "items": [
+        {
+          "question": "Combien de temps prend une réparation ?",
+          "answer": "Les réparations simples (ex: suppression virus, optimisation) prennent typiquement 1-2 jours ouvrables. Les cas complexes (ex: remplacement pièce, récupération données) peuvent prendre 3-5 jours. Nous offrons aussi un service express pour les cas urgents."
+        },
+        {
+          "question": "Et si l'appareil ne peut pas être réparé ?",
+          "answer": "Si l'appareil est irréparable ou que la réparation n'est pas économique, nous vous informons immédiatement. Dans ce cas, nous ne facturons que le diagnostic (typiquement 8-13 €), et aidons à conseiller l'achat d'un nouvel appareil."
+        },
+        {
+          "question": "Mes données sont-elles en sécurité durant la réparation ?",
+          "answer": "Oui ! Nous traitons tous les appareils confidentiellement. La sauvegarde des données n'est effectuée qu'avec votre approbation, et toutes les données sont effacées de manière sécurisée après réparation (si nécessaire)."
+        },
+        {
+          "question": "Y a-t-il une garantie sur les réparations ?",
+          "answer": "Oui, nous fournissons une garantie de 30-90 jours sur toutes les réparations (selon le type). Les nouvelles pièces viennent aussi avec une garantie constructeur."
+        },
+        {
+          "question": "Quelle zone couvrez-vous pour le service sur site ?",
+          "answer": "Nous fournissons un service sur site à Székesfehérvár et un rayon de 30 km. Pour les zones plus éloignées, nous travaillons par arrangement spécial ou service postal."
+        },
+        {
+          "question": "Comment dois-je emballer l'appareil pour l'envoi ?",
+          "answer": "Nous envoyons des instructions d'emballage détaillées par email. Important : utilisez du papier bulle, une boîte solide, et marquez 'Fragile'. L'emballage d'origine est le mieux si disponible."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Vous avez des problèmes avec votre appareil ?",
+      "description": "Appelez-nous ou envoyez un message, et nous le réparerons bientôt ! Diagnostic rapide, prix transparents, réparations fiables.",
+      "button": "Signaler un problème maintenant"
+    }
+  },
+  "onsitePresence": {
+    "badge": "Support IT Événementiel",
+    "title": "Présence IT Sur Site pour Événements",
+    "subtitle": "Spécialiste IT Professionnel sur Place",
+    "description": "Assurez la stabilité technique de votre événement professionnel, conférence ou réunion d'entreprise avec un support IT dédié sur site.",
+    "cards": {
+      "onsite": {
+        "title": "Spécialiste IT Sur Site",
+        "description": "Pro de l'IT dédié accompagnant votre événement du début à la fin."
+      },
+      "stability": {
+        "title": "Stabilité Technique",
+        "description": "Surveillance proactive et intervention immédiate."
+      },
+      "equipment": {
+        "title": "Gestion d'Équipement",
+        "description": "Installation et supervision de laptops, réseaux et matériel de streaming."
+      }
+    },
+    "cta": {
+      "main": "Obtenir un devis",
+      "learnMore": "En savoir plus"
+    }
+  },
+  "onsitePresencePage": {
+    "breadcrumb": {
+      "home": "Accueil",
+      "onsitePresence": "Présence IT Sur Site"
+    },
+    "hero": {
+      "title": "Présence IT Sur Site pour Événements",
+      "subtitle": "Support IT Professionnel Sur Place pour Conférences et Événements",
+      "description": "Vous voulez un événement sans accroc ? Avec le service de Présence IT Sur Site de SIRONIC, vous obtenez une infrastructure IT garantie stable et fiable.",
+      "cta": "Demander une consultation gratuite"
+    },
+    "intro": {
+      "title": "Pourquoi amener un spécialiste IT à votre événement ?",
+      "content": [
+        "Le succès d'un événement professionnel repose souvent sur la stabilité technique. Si la tech échoue, la réputation de l'événement en souffre.",
+        "Avec la Présence IT Sur Site de SIRONIC, vous avez un spécialiste IT expérimenté assurant des opérations fluides."
+      ]
+    },
+    "services": {
+      "title": "Qu'offrons-nous ?",
+      "subtitle": "Support Technique Complet",
+      "items": [
+        {
+          "title": "Préparation & Installation Événement",
+          "description": "Installation et test de l'équipement avant l'événement.",
+          "topics": [
+            "Installation",
+            "Test",
+            "Configuration"
+          ]
+        },
+        {
+          "title": "Réseau & Wi-Fi",
+          "description": "Assurer un internet stable pour tous les participants.",
+          "topics": [
+            "Planification Wi-Fi",
+            "Bande passante",
+            "Surveillance"
+          ]
+        },
+        {
+          "title": "Support Streaming",
+          "description": "Background technique pour streams en direct et événements hybrides.",
+          "topics": [
+            "OBS",
+            "Caméras",
+            "Audio"
+          ]
+        }
+      ]
+    },
+    "eventTypes": {
+      "title": "Événements Supportés",
+      "subtitle": "Tout événement où l'IT est critique",
+      "types": [
+        {
+          "title": "Conférences",
+          "description": "Rassemblements professionnels à grande échelle."
+        },
+        {
+          "title": "Événements Hybrides",
+          "description": "Connecter les participants en ligne et hors ligne."
+        },
+        {
+          "title": "Ateliers",
+          "description": "Support technique pour sessions de formation pratique."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Pourquoi Nous ?",
+      "items": [
+        "Professionnels Expérimentés",
+        "Dépannage Immédiat",
+        "Disponibilité Flexible",
+        "Équipement Professionnel"
+      ]
+    },
+    "process": {
+      "title": "Processus",
+      "subtitle": "Comment nous travaillons ensemble",
+      "steps": [
+        {
+          "title": "Évaluation",
+          "description": "Discussion des exigences techniques."
+        },
+        {
+          "title": "Planification",
+          "description": "Conception de l'infrastructure nécessaire."
+        },
+        {
+          "title": "Exécution",
+          "description": "Installation et opération sur site."
+        },
+        {
+          "title": "Supervision",
+          "description": "Présence continue durant l'événement."
+        },
+        {
+          "title": "Clôture",
+          "description": "Démontage et évaluation."
+        }
+      ]
+    },
+    "faq": {
+      "title": "FAQ",
+      "items": [
+        {
+          "question": "Quels types d'événements supportez-vous ?",
+          "answer": "Tout, des petits ateliers aux grandes conférences."
+        },
+        {
+          "question": "Fournissez-vous l'équipement ?",
+          "answer": "Oui, nous offrons des services de location sur demande."
+        },
+        {
+          "question": "Combien cela coûte-t-il ?",
+          "answer": "Basé sur un devis personnalisé selon les exigences."
+        },
+        {
+          "question": "Vous déplacez-vous au niveau national ?",
+          "answer": "Oui, nous acceptons des missions dans toute la Hongrie."
+        }
+      ]
+    },
+    "pricing": {
+      "title": "Tarification",
+      "subtitle": "Basé sur Devis Personnalisé",
+      "description": "Chaque événement est différent, nous adaptons donc nos prix à vos besoins.",
+      "process": "Obtenez un devis !",
+      "cta": "Demander un devis"
+    },
+    "availabilityNote": "Ce service est disponible dans toute la Hongrie.",
+    "finalCta": {
+      "title": "Assurez le Succès !",
+      "description": "Ne laissez pas le côté technique au hasard.",
+      "button": "Obtenir un devis"
+    }
+  }
+}

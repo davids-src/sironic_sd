@@ -8,10 +8,11 @@ type Locale = typeof locales[number];
  * Comprehensive Multilingual Sitemap Generator
  * 
  * Features:
- * - Complete coverage for all 7 languages (hu, en, de, sk, ro, hr, sl)
+ * - Complete coverage for all 10 languages (hu, en, de, sk, ro, hr, sl, fr, it, es)
  * - Proper locale-specific route segregation
  * - AI search engine optimized structure
  * - SEO-friendly priority and frequency settings
+ * - Full localized URL slugs for all languages
  */
 
 interface RouteDefinition {
@@ -31,6 +32,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
   /**
    * Route Configuration Map
    * Organized by page type for clarity
+   * 
+   * NEW: Fully localized URL slugs for FR/IT/ES
    */
   const routes: RouteDefinition[] = [
     // ============================================
@@ -40,20 +43,21 @@ export default function sitemap(): MetadataRoute.Sitemap {
       path: '',
       changeFreq: 'weekly',
       priority: 1.0,
-      allowedLocales: ['hu', 'en', 'de', 'sk', 'ro', 'hr', 'sl']
     },
 
     // ============================================
     // IT TRAINING (All Languages - Fully Localized)
     // ============================================
     { path: 'oktatas', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['hu'] },
-    // EN specific routes (serving as fallback for FR, IT, ES until localized routes are created)
-    { path: 'it-training', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['en', 'fr', 'it', 'es'] },
+    { path: 'it-training', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['en'] },
     { path: 'it-schulung', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['de'] },
     { path: 'it-vzdelavanie', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['sk'] },
     { path: 'training-it', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['ro'] },
     { path: 'it-edukacija', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['hr'] },
     { path: 'it-usposabljanje', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['sl'] },
+    { path: 'formation-informatique', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['fr'] },
+    { path: 'formazione-it', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['it'] },
+    { path: 'formacion-informatica', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['es'] },
 
     // ============================================
     // CUSTOM APPLICATION DEVELOPMENT (All Languages - Fully Localized)
@@ -65,6 +69,9 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { path: 'dezvoltare-aplicatii-personalizate', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['ro'] },
     { path: 'razvoj-prilagodenih-aplikacija', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['hr'] },
     { path: 'razvoj-spletnih-aplikacij', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['sl'] },
+    { path: 'developpement-dapplications', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['fr'] },
+    { path: 'sviluppo-applicazioni', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['it'] },
+    { path: 'desarrollo-de-aplicaciones', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['es'] },
 
     // ============================================
     // NETWORK OPTIMIZATION (All Languages - Fully Localized)
@@ -76,6 +83,9 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { path: 'optimizare-retea', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['ro'] },
     { path: 'optimizacija-mreze', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['hr'] },
     { path: 'mrezna-infrastruktura', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['sl'] },
+    { path: 'optimisation-reseau', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['fr'] },
+    { path: 'ottimizzazione-rete', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['it'] },
+    { path: 'optimizacion-de-red', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['es'] },
 
     // ============================================
     // ON-SITE IT PRESENCE (All Languages - Fully Localized)
@@ -87,6 +97,9 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { path: 'prezenta-onsite', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['ro'] },
     { path: 'it-onsite-prisutnost', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['hr'] },
     { path: 'onsite-it-tehnik', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['sl'] },
+    { path: 'presence-it-sur-site', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['fr'] },
+    { path: 'presenza-it-onsite', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['it'] },
+    { path: 'presencia-it-onsite', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['es'] },
 
     // ============================================
     // REPAIR SERVICE (All Languages - Fully Localized)
@@ -98,47 +111,65 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { path: 'servicii-reparatii', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['ro'] },
     { path: 'servis-popravak', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['hr'] },
     { path: 'servis-racunalnikov', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['sl'] },
+    { path: 'reparation-et-maintenance', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['fr'] },
+    { path: 'riparazione-e-assistenza', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['it'] },
+    { path: 'reparacion-y-servicio', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['es'] },
 
     // ============================================
-    // CAMPAIGN: "Every Company Needs IT" (HU, HR, SL Only - Others use shared paths)
+    // CAMPAIGN: "Every Company Needs IT" (HU, HR, SL Only)
     // ============================================
     { path: 'minden-cegnek-legyen-informatikusa', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['hu'] },
     { path: 'it-podrska-tvrtkama', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['hr'] },
     { path: 'it-podpora-podjetjem', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['sl'] },
 
     // ============================================
-    // PRODUCTS PAGE (Localized for HU, HR, SL; Shared for others)
+    // PRODUCTS PAGE (All Languages - Fully Localized)
     // ============================================
     { path: 'termekeink', changeFreq: 'weekly', priority: 0.7, allowedLocales: ['hu', 'en', 'de', 'sk', 'ro'] },
     { path: 'proizvodi', changeFreq: 'weekly', priority: 0.7, allowedLocales: ['hr'] },
     { path: 'produkti', changeFreq: 'weekly', priority: 0.7, allowedLocales: ['sl'] },
+    { path: 'produits', changeFreq: 'weekly', priority: 0.7, allowedLocales: ['fr'] },
+    { path: 'prodotti', changeFreq: 'weekly', priority: 0.7, allowedLocales: ['it'] },
+    { path: 'productos', changeFreq: 'weekly', priority: 0.7, allowedLocales: ['es'] },
 
     // ============================================
-    // PRICING PAGE (Localized for HU, HR, SL; Shared for others)
+    // PRICING PAGE (All Languages - Fully Localized)
     // ============================================
     { path: 'arak', changeFreq: 'weekly', priority: 0.8, allowedLocales: ['hu', 'en', 'de', 'sk', 'ro'] },
     { path: 'cjenik', changeFreq: 'weekly', priority: 0.8, allowedLocales: ['hr'] },
     { path: 'cenik', changeFreq: 'weekly', priority: 0.8, allowedLocales: ['sl'] },
+    { path: 'tarifs', changeFreq: 'weekly', priority: 0.8, allowedLocales: ['fr'] },
+    { path: 'prezzi', changeFreq: 'weekly', priority: 0.8, allowedLocales: ['it'] },
+    { path: 'precios', changeFreq: 'weekly', priority: 0.8, allowedLocales: ['es'] },
 
     // ============================================
-    // ABOUT PAGE (Localized for HU, HR, SL; Shared for others)
+    // ABOUT PAGE (All Languages - Fully Localized)
     // ============================================
     { path: 'rolunk', changeFreq: 'monthly', priority: 0.6, allowedLocales: ['hu', 'en', 'de', 'sk', 'ro'] },
     { path: 'o-nama', changeFreq: 'monthly', priority: 0.6, allowedLocales: ['hr'] },
     { path: 'o-nas', changeFreq: 'monthly', priority: 0.6, allowedLocales: ['sl'] },
+    { path: 'a-propos', changeFreq: 'monthly', priority: 0.6, allowedLocales: ['fr'] },
+    { path: 'chi-siamo', changeFreq: 'monthly', priority: 0.6, allowedLocales: ['it'] },
+    { path: 'sobre-nosotros', changeFreq: 'monthly', priority: 0.6, allowedLocales: ['es'] },
 
     // ============================================
-    // SERVICES PAGE (Localized for HU, HR, SL; Shared for others)
+    // SERVICES PAGE (All Languages - Fully Localized)
     // ============================================
     { path: 'szolgaltatasok', changeFreq: 'monthly', priority: 0.8, allowedLocales: ['hu', 'en', 'de', 'sk', 'ro'] },
     { path: 'usluge', changeFreq: 'monthly', priority: 0.8, allowedLocales: ['hr'] },
     { path: 'storitve', changeFreq: 'monthly', priority: 0.8, allowedLocales: ['sl'] },
+    { path: 'services', changeFreq: 'monthly', priority: 0.8, allowedLocales: ['fr'] },
+    { path: 'servizi', changeFreq: 'monthly', priority: 0.8, allowedLocales: ['it'] },
+    { path: 'servicios', changeFreq: 'monthly', priority: 0.8, allowedLocales: ['es'] },
 
     // ============================================
-    // CONTACT PAGE (Localized for HU, HR, SL; Shared for others)
+    // CONTACT PAGE (All Languages - Fully Localized)
     // ============================================
     { path: 'kapcsolat', changeFreq: 'monthly', priority: 0.8, allowedLocales: ['hu', 'en', 'de', 'sk', 'ro'] },
     { path: 'kontakt', changeFreq: 'monthly', priority: 0.8, allowedLocales: ['hr', 'sl'] },
+    { path: 'contact', changeFreq: 'monthly', priority: 0.8, allowedLocales: ['fr'] },
+    { path: 'contatti', changeFreq: 'monthly', priority: 0.8, allowedLocales: ['it'] },
+    { path: 'contacto', changeFreq: 'monthly', priority: 0.8, allowedLocales: ['es'] },
 
     // ============================================
     // BLOG (Currently HU only)

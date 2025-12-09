@@ -13,9 +13,9 @@ const pathMapping: Record<string, Record<string, string>> = {
         ro: 'servicii-reparatii',
         hr: 'servis-popravak',
         sl: 'servis-racunalnikov',
-        fr: 'repair-service',
-        it: 'repair-service',
-        es: 'repair-service'
+        fr: 'reparation-et-maintenance',
+        it: 'riparazione-e-assistenza',
+        es: 'reparacion-y-servicio'
     },
     'network-optimization': {
         hu: 'halozat-fejlesztes',
@@ -25,9 +25,9 @@ const pathMapping: Record<string, Record<string, string>> = {
         ro: 'optimizare-retea',
         hr: 'optimizacija-mreze',
         sl: 'mrezna-infrastruktura',
-        fr: 'network-optimization',
-        it: 'network-optimization',
-        es: 'network-optimization'
+        fr: 'optimisation-reseau',
+        it: 'ottimizzazione-rete',
+        es: 'optimizacion-de-red'
     },
     'it-training': {
         hu: 'oktatas',
@@ -37,9 +37,9 @@ const pathMapping: Record<string, Record<string, string>> = {
         ro: 'training-it',
         hr: 'it-edukacija',
         sl: 'it-usposabljanje',
-        fr: 'it-training',
-        it: 'it-training',
-        es: 'it-training'
+        fr: 'formation-informatique',
+        it: 'formazione-it',
+        es: 'formacion-informatica'
     },
     'custom-development': {
         hu: 'egyedi-alkalmazas-fejlesztes',
@@ -49,9 +49,9 @@ const pathMapping: Record<string, Record<string, string>> = {
         ro: 'dezvoltare-aplicatii-personalizate',
         hr: 'razvoj-prilagodenih-aplikacija',
         sl: 'razvoj-spletnih-aplikacij',
-        fr: 'custom-application-development',
-        it: 'custom-application-development',
-        es: 'custom-application-development'
+        fr: 'developpement-dapplications',
+        it: 'sviluppo-applicazioni',
+        es: 'desarrollo-de-aplicaciones'
     },
     'products': {
         hu: 'termekeink',
@@ -61,9 +61,9 @@ const pathMapping: Record<string, Record<string, string>> = {
         ro: 'termekeink',
         hr: 'proizvodi',
         sl: 'produkti',
-        fr: 'termekeink',
-        it: 'termekeink',
-        es: 'termekeink'
+        fr: 'produits',
+        it: 'prodotti',
+        es: 'productos'
     },
     'pricing': {
         hu: 'arak',
@@ -73,9 +73,9 @@ const pathMapping: Record<string, Record<string, string>> = {
         ro: 'arak',
         hr: 'cjenik',
         sl: 'cenik',
-        fr: 'arak',
-        it: 'arak',
-        es: 'arak'
+        fr: 'tarifs',
+        it: 'prezzi',
+        es: 'precios'
     },
     'about': {
         hu: 'rolunk',
@@ -85,9 +85,9 @@ const pathMapping: Record<string, Record<string, string>> = {
         ro: 'rolunk',
         hr: 'o-nama',
         sl: 'o-nas',
-        fr: 'rolunk',
-        it: 'rolunk',
-        es: 'rolunk'
+        fr: 'a-propos',
+        it: 'chi-siamo',
+        es: 'sobre-nosotros'
     },
     'contact': {
         hu: 'kapcsolat',
@@ -97,9 +97,9 @@ const pathMapping: Record<string, Record<string, string>> = {
         ro: 'kapcsolat',
         hr: 'kontakt',
         sl: 'kontakt',
-        fr: 'kapcsolat',
-        it: 'kapcsolat',
-        es: 'kapcsolat'
+        fr: 'contact',
+        it: 'contatti',
+        es: 'contacto'
     },
     'services': {
         hu: 'szolgaltatasok',
@@ -109,9 +109,9 @@ const pathMapping: Record<string, Record<string, string>> = {
         ro: 'szolgaltatasok',
         hr: 'usluge',
         sl: 'storitve',
-        fr: 'szolgaltatasok',
-        it: 'szolgaltatasok',
-        es: 'szolgaltatasok'
+        fr: 'services',
+        it: 'servizi',
+        es: 'servicios'
     },
     'minden-cegnek': {
         hu: 'minden-cegnek-legyen-informatikusa',
@@ -133,9 +133,9 @@ const pathMapping: Record<string, Record<string, string>> = {
         ro: 'prezenta-onsite',
         hr: 'it-onsite-prisutnost',
         sl: 'onsite-it-tehnik',
-        fr: 'onsite-presence',
-        it: 'onsite-presence',
-        es: 'onsite-presence'
+        fr: 'presence-it-sur-site',
+        it: 'presenza-it-onsite',
+        es: 'presencia-it-onsite'
     }
 };
 

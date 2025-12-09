@@ -1,0 +1,1732 @@
+{
+  "meta": {
+    "siteTitle": "SIRONIC IT Solutions: Soluciones TI Integrales para PYMES – Operaciones, Desarrollo, Seguridad",
+    "siteDescription": "Operaciones TI profesionales, desarrollo web (Next.js/TS), infraestructura de red y seguridad TI. Soporte TI dedicado para PYMES. ¡Solicite una consulta gratuita!",
+    "companyName": "SIRONIC IT Solutions",
+    "keywords": [
+      "Servicios TI",
+      "gestión de sistemas",
+      "configuración de red",
+      "seguridad TI",
+      "desarrollo web",
+      "desarrollo CRM",
+      "formación TI",
+      "formación ciberseguridad",
+      "habilidades digitales",
+      "equipamiento TI",
+      "servicios de hosting",
+      "alojamiento web",
+      "alquiler de servidores",
+      "reparación de ordenadores",
+      "servicio portátiles",
+      "soporte in situ",
+      "seguridad de datos",
+      "mantenimiento",
+      "Székesfehérvár",
+      "Hungría",
+      "Austria",
+      "Eslovaquia",
+      "Rumanía",
+      "República Checa"
+    ],
+    "ogImage": "/og/home-es.jpg",
+    "pages": {
+      "services": {
+        "title": "Servicios TI - Administración de Sistemas y Desarrollo",
+        "description": "Servicios TI fiables para empresas: administración de sistemas, configuración de red, desarrollo web, hosting y reparación. ¡Solicite presupuesto a nuestros expertos!",
+        "keywords": [
+          "Servicios TI",
+          "gestión de sistemas",
+          "infraestructura de red",
+          "seguridad TI",
+          "desarrollo web",
+          "hosting",
+          "reparación",
+          "Székesfehérvár"
+        ],
+        "ogImage": "/og/services-es.jpg"
+      },
+      "about": {
+        "title": "Sobre Nosotros - SIRONIC IT Solutions: Su Socio Fiable",
+        "description": "¡Conozca SIRONIC IT Solutions! Más de 5 años de experiencia, soporte TI proactivo y enfoque centrado en el cliente para PYMES.",
+        "keywords": [
+          "Empresa TI",
+          "Székesfehérvár",
+          "socio TI fiable",
+          "gestión de sistemas",
+          "soporte TI"
+        ],
+        "ogImage": "/og/about-es.jpg"
+      },
+      "contact": {
+        "title": "Contáctenos - SIRONIC IT Solutions Székesfehérvár",
+        "description": "¿Tiene preguntas? ¡Contáctenos para una consulta gratuita! Llámenos, envíenos un correo o visítenos en Székesfehérvár. Estamos aquí para ayudarle.",
+        "keywords": [
+          "Contacto TI",
+          "consulta gratuita",
+          "TI Székesfehérvár",
+          "hello@sironic.hu"
+        ],
+        "ogImage": "/og/contact-es.jpg"
+      },
+      "pricing": {
+        "title": "Precios y Paquetes de Servicios TI - SIRONIC IT Solutions",
+        "description": "¡Descubra nuestros precios competitivos! Administración de sistemas mensual fija, desarrollo a medida y mantenimiento sin costes ocultos y con garantía total.",
+        "keywords": [
+          "Precios TI",
+          "soporte TI mensual",
+          "coste gestión sistemas",
+          "gastos TI",
+          "Székesfehérvár"
+        ],
+        "ogImage": "/og/pricing-es.jpg"
+      },
+      "products": {
+        "title": "Software y Productos TI a Medida - Soluciones SIRONIC",
+        "description": "¡Explore nuestras soluciones de software y productos TI! Sistemas CRM, aplicaciones web y móviles diseñadas para ayudar a crecer a su empresa.",
+        "keywords": [
+          "Productos TI",
+          "software a medida",
+          "sistema CRM",
+          "aplicación web",
+          "app móvil"
+        ],
+        "ogImage": "/og/products-es.jpg"
+      },
+      "blog": {
+        "title": "Blog TI y Base de Conocimientos - Consejos para Empresas",
+        "description": "¡Lea nuestras últimas noticias y consejos TI! Asesoramiento útil sobre ciberseguridad, administración de sistemas y desarrollo digital para empresas.",
+        "keywords": [
+          "Blog TI",
+          "consejos TI",
+          "seguridad TI",
+          "TI empresarial",
+          "base de conocimientos"
+        ],
+        "ogImage": "/og/blog-es.jpg"
+      },
+      "networkOptimization": {
+        "title": "Configuración de Red Empresarial y Wi-Fi - SIRONIC IT Solutions",
+        "description": "Diseño e implementación de redes empresariales estables, rápidas y seguras. Sistemas Wi-Fi modernos, optimización de red y mantenimiento integral.",
+        "keywords": [
+          "red empresarial",
+          "configuración wifi",
+          "optimización red",
+          "wifi enterprise",
+          "MikroTik",
+          "Ubiquiti",
+          "UniFi",
+          "seguridad de red",
+          "Székesfehérvár",
+          "Hungría"
+        ],
+        "ogImage": "/og/network-optimization-es.jpg"
+      },
+      "repairService": {
+        "title": "Reparación y Servicio TI - Portátil, PC, Servidor | SIRONIC",
+        "description": "Reparaciones TI rápidas y fiables en Székesfehérvár. Reparación profesional de portátiles, PCs, servidores y dispositivos NAS in situ o por correo. Precios transparentes, garantía.",
+        "keywords": [
+          "reparación portátil",
+          "reparación pc",
+          "reparación ordenadores Székesfehérvár",
+          "reparación servidor",
+          "reparación nas",
+          "recuperación de datos",
+          "eliminación virus",
+          "reparación in situ"
+        ],
+        "ogImage": "/og/repair-service-es.jpg"
+      },
+      "onsitePresence": {
+        "title": "Presencia TI In Situ - SIRONIC IT Solutions",
+        "description": "Supervisión TI profesional y soporte técnico para eventos y conferencias. Especialista dedicado en el lugar.",
+        "keywords": [
+          "TI in situ",
+          "TI eventos",
+          "tecnología conferencias",
+          "supervisión TI"
+        ]
+      }
+    }
+  },
+  "nav": {
+    "home": "Inicio",
+    "services": "Servicios",
+    "products": "Productos",
+    "pricing": "Precios",
+    "about": "Nosotros",
+    "blog": "Blog",
+    "contact": "Contacto",
+    "ctaButton": "Solicitar Presupuesto"
+  },
+  "hero": {
+    "badge": "Nuevo Servicio",
+    "title": "Soluciones TI que funcionan como su propio equipo interno",
+    "subtitle": "Gestión profesional de infraestructura TI, mantenimiento rápido y soporte dedicado para pequeñas y medianas empresas.",
+    "cta": "Consulta Gratuita",
+    "learnMore": "Saber Más"
+  },
+  "services": {
+    "title": "Nuestros Servicios",
+    "subtitle": "Soluciones TI integrales para acelerar el crecimiento de su negocio",
+    "viewAll": "Ver Todos los Servicios",
+    "systemOperation": {
+      "title": "Gestión de Sistemas y Mantenimiento TI",
+      "description": "Operaciones estables, seguras y rápidas – monitorizamos continuamente sus sistemas antes de que ocurra cualquier problema. Menos inactividad, mayor eficiencia."
+    },
+    "networking": {
+      "title": "Diseño y Desarrollo de Redes",
+      "description": "Diseñamos, implementamos y optimizamos la infraestructura de red de su empresa para garantizar que cada dispositivo se conecte de forma fiable, rápida y segura."
+    },
+    "security": {
+      "title": "Seguridad TI y Protección de Datos",
+      "description": "¡Proteja los datos de su empresa! Cortafuegos modernos, copias de seguridad seguras, control de acceso – con nosotros, la seguridad no es un extra, es el estándar."
+    },
+    "development": {
+      "title": "Desarrollo Web y de Software",
+      "description": "Creamos sitios web profesionales y responsivos y soluciones de software a medida para que su empresa destaque en línea."
+    },
+    "commerce": {
+      "title": "Suministro de Equipos y Software TI",
+      "description": "Todo lo que necesita para las operaciones de oficina – ordenadores, monitores, impresoras, servidores y licencias de software, todo de una fuente de confianza."
+    },
+    "hosting": {
+      "title": "Hosting y Soluciones en la Nube",
+      "description": "Alojamiento estable, rápido y seguro para sitios web, correo electrónico y copias de seguridad. Web hosting, servidores dedicados y almacenamiento en la nube."
+    },
+    "repair": {
+      "title": "Servicios de Reparación y Mantenimiento",
+      "description": "Reparación rápida y fiable de ordenadores, portátiles y servidores, ya sea in situ o por servicio postal. Presupuestos transparentes y entrega rápida."
+    }
+  },
+  "mindenCegnek": {
+    "badge": "Soporte TI Mensual",
+    "title": "Toda Empresa Merece un Departamento TI",
+    "subtitle": "Soluciones TI como si tuviera su propio equipo",
+    "description": "No necesita contratar a un especialista TI a tiempo completo para tener sistemas estables, seguros y rápidos. La suscripción mensual de SIRONIC funciona como si fuéramos parte de su empresa – pero solo paga por lo que realmente necesita.",
+    "features": {
+      "costEffective": "Soporte TI rentable y optimizado para infraestructura – flexible, fiable y transparente.",
+      "discount": "Válido hasta el 1 de febrero de 2026: ¡cada socio que solicite una consulta recibe un 10% de descuento en los primeros 3 meses!"
+    },
+    "cta": {
+      "consultation": "Solicitar Consulta",
+      "learnMore": "Saber Más"
+    }
+  },
+  "whyChooseUs": {
+    "title": "¿Por Qué Elegirnos?",
+    "reasons": [
+      "Fiabilidad: Más de 5 años de experiencia diseñando y gestionando sistemas TI.",
+      "Enfoque proactivo: Pensamos por adelantado – actuamos antes de que surjan los problemas, no después.",
+      "Precios transparentes: Sin cargos ocultos, mantenimiento mensual fijo o soluciones puntuales.",
+      "Comunicación humana genuina: Sin colas de tickets interminables – siempre puede contactarnos directamente.",
+      "Operaciones TI integrales: Trabajamos continuamente para mantener sus sistemas estables y rápidos – menos tiempo de inactividad, mayor eficiencia, infraestructura segura.",
+      "Seguridad TI moderna: Protección de datos y seguridad de red con cortafuegos de vanguardia, soluciones de backup y gestión de accesos – la seguridad es estándar, no opcional.",
+      "Desarrollo web y presencia digital: Sitios web profesionales y responsivos y sistemas a medida que aumentan su visibilidad online y atraen clientes.",
+      "Soluciones en la nube y hosting: Alojamiento rápido, seguro y escalable para sus web, correo y backups – siempre accesible, siempre estable."
+    ]
+  },
+  "testimonials": {
+    "title": "Lo Que Dicen Nuestros Clientes",
+    "items": [
+      {
+        "quote": "Con el equipo de SIRONIC, finalmente dormimos tranquilos: nuestros sistemas TI funcionan de manera estable, rápida y segura. Cuando surgen problemas, responden inmediatamente y explican todo en lenguaje claro – sin jerga técnica. Es raro encontrar un socio tan fiable en el mundo TI.",
+        "company": "Pervector Ltd."
+      },
+      {
+        "quote": "Teníamos problemas constantes con los ordenadores y la red, pero desde que confiamos nuestro TI a SIRONIC, todo funciona sin problemas. Ayudan rápidamente, sin importar el problema, y siempre encontramos soluciones con ellos. Este es exactamente el tipo de soporte que toda empresa necesita.",
+        "company": "Bocskai Alba Flexum Ltd."
+      },
+      {
+        "quote": "SIRONIC creó un sitio web moderno, limpio y apto para móviles para nosotros que no solo se ve genial, sino que ayuda a nuestros clientes a encontrarnos fácilmente online. Se encargan del mantenimiento desde entonces – cada actualización y modificación ocurre rápida y precisamente. Recibimos un servicio completo y profesional.",
+        "company": "Bull & U Ltd."
+      },
+      {
+        "quote": "Queríamos un sitio limpio, rápido y moderno – SIRONIC entregó exactamente eso. Equipo profesional, atención al detalle, y siempre tienen grandes ideas para mejorar el resultado. Nuestro nuevo sitio web refleja perfectamente la identidad de nuestra empresa.",
+        "company": "Regia Dental Ltd."
+      }
+    ]
+  },
+  "workProcess": {
+    "title": "Cómo Trabajamos",
+    "steps": [
+      {
+        "step": "1",
+        "title": "Contacto Inicial",
+        "description": "Envíenos un mensaje o solicite una consulta gratuita."
+      },
+      {
+        "step": "2",
+        "title": "Evaluación TI",
+        "description": "Revisamos sus necesidades y proporcionamos recomendaciones expertas."
+      },
+      {
+        "step": "3",
+        "title": "Propuesta Personalizada",
+        "description": "Creamos una solución a medida diseñada para su negocio."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Preguntas Frecuentes",
+    "items": [
+      {
+        "question": "¿A qué empresas sirven?",
+        "answer": "SIRONIC se especializa en pequeñas y medianas empresas, pero también ofrecemos soluciones para compañías más grandes según necesidades únicas. Ya sea soporte de administración de sistemas, construcción de redes o desarrollo web – encontramos la solución TI ideal para cada negocio."
+      },
+      {
+        "question": "¿En qué se diferencia SIRONIC de otros proveedores TI?",
+        "answer": "No somos solo 'reparadores' – monitorizamos proactivamente los sistemas, prevenimos problemas y nos comunicamos en lenguaje humano. No dejamos que la TI sea un obstáculo, sino que forjamos una ventaja competitiva a partir de ella."
+      },
+      {
+        "question": "¿Qué tan rápido reaccionan a un reporte de error?",
+        "answer": "Generalmente, reaccionamos entre 1–4 horas, en casos urgentes incluso inmediatamente. Para nuestros socios con suscripción, proporcionamos tiempos de respuesta garantizados."
+      },
+      {
+        "question": "¿Realizan visitas in situ o solo soporte remoto?",
+        "answer": "¡Sí, ambos! Resolvemos la mayoría de errores de forma remota, pero si es necesario, también vamos al sitio personalmente."
+      },
+      {
+        "question": "¿Crean sitios web completamente desde cero?",
+        "answer": "Naturalmente. Desarrollamos sitios web únicos y responsivos con tecnologías modernas (Next.js, React, Tailwind), y aseguramos que el sitio sea rápido, seguro y optimizado para motores de búsqueda."
+      },
+      {
+        "question": "¿Qué es CRM Pro y cómo ayuda a mi negocio?",
+        "answer": "CRM Pro es un sistema de gestión de clientes desarrollado a medida que hace transparentes los procesos de venta, automatiza la administración y puede integrarse con sistemas existentes. Disponible en un rango de precios accesible también para empresas más pequeñas."
+      },
+      {
+        "question": "¿Qué medidas de seguridad aplican?",
+        "answer": "Usamos cortafuegos modernos, soluciones de backup, encriptación y gestión de accesos. Diseñamos todos nuestros sistemas para cumplir con el RGPD, por lo que la seguridad de los datos es predeterminada."
+      },
+      {
+        "question": "¿De qué forma podemos contratar con ustedes?",
+        "answer": "Trabajamos en dos modalidades principales: asignación ad-hoc (para tareas ocasionales) y contrato de mantenimiento mensual (operación y soporte permanentes). Ambos son transparentes, con precios fijos."
+      },
+      {
+        "question": "¿Cuánto cuesta el desarrollo de un sitio o sistema?",
+        "answer": "Los sitios web básicos comienzan desde 250.000 HUF, mientras que el precio de sistemas únicos o soluciones CRM se determina según la funcionalidad. Damos un presupuesto preciso antes de cada proyecto."
+      },
+      {
+        "question": "¿Por qué vale la pena elegir soluciones en la nube?",
+        "answer": "La nube es rápida, segura y flexible – no hay necesidad de mantener su propio servidor físico, los datos están siempre disponibles y la expansión se puede resolver en momentos."
+      }
+    ]
+  },
+  "finalCta": {
+    "title": "¿Listo para una TI Sin Preocupaciones?",
+    "description": "Solicite una consulta gratuita y encontremos juntos la mejor solución para su negocio.",
+    "button": "Solicitar Presupuesto Ahora"
+  },
+  "contact": {
+    "title": "Contáctenos",
+    "subtitle": "¿Tiene preguntas o quiere una consulta gratuita? Póngase en contacto con nosotros, ¡responderemos prontamente!",
+    "form": {
+      "title": "Enviar Mensaje",
+      "name": "Nombre",
+      "email": "Email",
+      "service": "¿En qué servicio está interesado?",
+      "servicePlaceholder": "Seleccione un servicio",
+      "message": "Mensaje",
+      "submit": "Enviar",
+      "submitting": "Enviando...",
+      "required": "*",
+      "success": "¡Su mensaje ha sido enviado con éxito! Le contactaremos en breve.",
+      "error": "Ocurrió un error al enviar su mensaje",
+      "noscript": "También puede enviar su mensaje por correo electrónico:",
+      "options": {
+        "placeholder": "Seleccione un servicio",
+        "mindenCegnek": "Toda empresa debería tener un especialista TI",
+        "systemOperation": "Gestión de sistemas y mantenimiento TI",
+        "networking": "Construcción y desarrollo de redes",
+        "security": "Seguridad TI y protección de datos",
+        "development": "Desarrollo de sitios web y sistemas",
+        "commerce": "Comercio – Dispositivos y software TI",
+        "hosting": "Hosting y soluciones en la nube",
+        "repair": "Servicio y reparación",
+        "training": "Educación TI y desarrollo de conocimientos"
+      },
+      "errors": {
+        "general": "Ocurrió un error de red. Por favor intente más tarde."
+      }
+    },
+    "info": {
+      "title": "Información de Contacto",
+      "email": "Email",
+      "phone": "Teléfono",
+      "location": "Ubicación",
+      "hours": "Horario Comercial",
+      "hoursValue": "Lunes – Viernes\n8:00 – 17:00",
+      "quickResponse": "Respuesta Rápida",
+      "quickResponseText": "Normalmente respondemos a todas las consultas dentro de las 24 horas en días laborables. ¡Para asuntos urgentes, llámenos!"
+    }
+  },
+  "footer": {
+    "companyName": "SIRONIC IT Solutions",
+    "tagline": "Soluciones TI integrales para pequeñas y medianas empresas",
+    "legalName": "Skoda Dávid András Empresa Individual",
+    "address": "8000 Székesfehérvár, Lövölde utca 24 4/15",
+    "taxNumber": "NIF: 45755754-2-27",
+    "links": "Enlaces Rápidos",
+    "hours": "Horario Comercial",
+    "hoursValue": "Lunes – Viernes\n8:00 – 17:00",
+    "cookieSettings": "Configuración de Cookies",
+    "copyright": "© {year} SIRONIC IT Solutions. Todos los derechos reservados."
+  },
+  "common": {
+    "readMore": "Leer Más",
+    "learnMore": "Saber Más",
+    "getQuote": "Solicitar Presupuesto",
+    "contactUs": "Contacto",
+    "loading": "Cargando...",
+    "whatYouGet": "Lo que obtiene:"
+  },
+  "servicesPage": {
+    "title": "Nuestros Servicios",
+    "subtitle": "Soluciones TI completas para mantener su empresa segura y eficiente. Desde mantenimiento de tarifa fija hasta desarrollo a medida – todo en un solo lugar.",
+    "cta": {
+      "title": "¿Interesado en alguno de nuestros servicios?",
+      "subtitle": "Solicite una consulta gratuita y encontremos juntos la mejor solución para su negocio.",
+      "requestQuote": "Solicitar Presupuesto Ahora",
+      "reportService": "Informar Problema de Servicio"
+    },
+    "details": {
+      "systemOperation": {
+        "features": [
+          "Monitorización y mantenimiento proactivos",
+          "Solución rápida de problemas",
+          "Actualizaciones de seguridad regulares",
+          "Optimización del rendimiento"
+        ]
+      },
+      "networking": {
+        "features": [
+          "Diseño e implementación de redes",
+          "Optimización de red WiFi",
+          "VPN y acceso remoto",
+          "Seguridad de red"
+        ]
+      },
+      "security": {
+        "features": [
+          "Configuración y gestión de cortafuegos",
+          "Copias de seguridad automáticas",
+          "Regulación de protección de datos (RGPD)",
+          "Protección contra virus y malware"
+        ]
+      },
+      "development": {
+        "features": [
+          "Sitios web modernos y responsivos",
+          "Soluciones de comercio electrónico",
+          "Desarrollo de software a medida",
+          "Optimización SEO"
+        ]
+      },
+      "commerce": {
+        "description": "Puede obtener todo lo necesario para las operaciones de oficina con nosotros – ordenadores, monitores, impresoras, servidores, dispositivos de red y licencias de software. Trabajamos con marcas fiables y le ayudamos a elegir la mejor relación calidad-precio. Ya sea que necesite nuevos equipos o actualizaciones, nosotros nos encargamos.",
+        "features": [
+          "Ordenadores, portátiles y servidores",
+          "Dispositivos de red y periféricos",
+          "Adquisición de licencias de software",
+          "Consultoría en selección de equipos"
+        ]
+      },
+      "hosting": {
+        "description": "Ofrecemos soluciones de hosting estables, rápidas y seguras para sitios web, correo electrónico y copias de seguridad de datos. Aseguramos que sus datos estén siempre accesibles y protegidos a través de nuestro propio parque de servidores o socios internacionales de confianza.",
+        "features": [
+          "Alojamiento web y registro de dominios",
+          "Alojamiento de correo electrónico",
+          "Copia de seguridad en la nube y uso compartido de archivos",
+          "Alquiler y gestión de servidores"
+        ]
+      },
+      "repair": {
+        "title": "Servicio y Reparación – In situ o por Correo",
+        "description": "Reparación rápida y fiable de ordenadores, portátiles, servidores y dispositivos de red. Servicio in situ en Székesfehérvár y alrededores, o servicio por correo. Comenzamos cada reparación con diagnósticos y solo procedemos tras su aprobación del presupuesto. Nuestro objetivo es que su sistema vuelva a funcionar lo antes posible.",
+        "features": [
+          "Servicio in situ (Székesfehérvár y alrededores)",
+          "Opción de envío por correo",
+          "Presupuesto transparente antes de la reparación",
+          "Tiempo de reparación rápido"
+        ]
+      },
+      "training": {
+        "title": "Formación TI y Desarrollo de Conocimientos",
+        "description": "¡Desarrolle las habilidades digitales de su equipo! Ofrecemos formación TI personalizada, concienciación sobre seguridad y desarrollo de conocimientos a nivel de sistema para que los empleados puedan utilizar dispositivos y software modernos con confianza. La operación segura comienza con la información.",
+        "features": [
+          "Formación TI personalizada",
+          "Formación en concienciación de seguridad",
+          "Formación en uso de software y dispositivos",
+          "Programas de desarrollo de conocimientos corporativos"
+        ]
+      }
+    }
+  },
+  "productsPage": {
+    "breadcrumb": {
+      "home": "Inicio",
+      "products": "Productos"
+    },
+    "title": "Nuestros Productos – Tecnología Sironic en Soluciones Reales",
+    "subtitle": "Nuestros desarrollos internos cobraron vida por necesidades reales – estos sistemas ahora apoyan las operaciones de múltiples empresas. Vea cómo pueden ayudar a su compañía también.",
+    "noProducts": "Actualmente no hay productos para mostrar. ¡Nuestra selección se ampliará pronto!",
+    "cta": {
+      "title": "¿Interesado en alguno de nuestros productos?",
+      "subtitle": "Contáctenos y le mostraremos cómo nuestros sistemas pueden encajar en sus operaciones comerciales. Todos nuestros productos fueron desarrollados en base a necesidades comerciales reales.",
+      "consultation": "Solicitar Consulta",
+      "services": "Nuestros Servicios"
+    },
+    "whyChoose": {
+      "title": "¿Por qué elegir productos Sironic?",
+      "reasons": [
+        {
+          "title": "Soluciones para Problemas Reales",
+          "description": "Todos nuestros productos están probados en la práctica y demostrados en empresas operativas."
+        },
+        {
+          "title": "Soporte en Idioma Local",
+          "description": "Puede contactarnos directamente, sin barrera del idioma ni sistemas de respuesta automatizados."
+        },
+        {
+          "title": "Desarrollo Continuo",
+          "description": "Regularmente ampliamos y mejoramos las características de nuestros productos basándonos en los comentarios de los clientes."
+        },
+        {
+          "title": "Opciones de Personalización",
+          "description": "Podemos personalizar nuestros productos a sus necesidades e integrarlos en sus sistemas existentes."
+        }
+      ]
+    }
+  },
+  "aboutPage": {
+    "title": "Sobre Nosotros",
+    "intro": [
+      "SIRONIC IT Solutions comenzó durante el período COVID, cuando cada empresa tuvo que repensar sus operaciones TI. Desde entonces, hemos estado evolucionando continuamente y manteniéndonos al día con los cambios rápidos en el mundo TI – porque creemos que la tecnología puede ser una ventaja, no una carga, para cada compañía.",
+      "Nuestro objetivo es que las pequeñas y medianas empresas no tengan que luchar con problemas TI. No solo mantenemos sistemas – proporcionamos estabilidad, seguridad y tranquilidad para las operaciones.",
+      "Ya sea gestión de sistemas, construcción de redes, seguridad de datos o desarrollo web, con nosotros, cada solución TI está en una sola mano – rápida, transparente y en lenguaje humano."
+    ],
+    "stats": [
+      {
+        "value": "5+",
+        "label": "Años de Experiencia"
+      },
+      {
+        "value": "100+",
+        "label": "Clientes Satisfechos"
+      },
+      {
+        "value": "24/7",
+        "label": "Disponibilidad"
+      },
+      {
+        "value": "99.9%",
+        "label": "Tiempo de Actividad"
+      }
+    ],
+    "mission": {
+      "title": "La Misión de SIRONIC",
+      "paragraphs": [
+        "Sabemos que para una PYME, la TI no debería ser un obstáculo – solo tiene que funcionar, cada día, sin fallos. Un tiempo de inactividad, una red lenta o una configuración de seguridad obsoleta pueden causar graves pérdidas hoy en día.",
+        "Es por eso que creamos SIRONIC IT Solutions: para hacer disponible un background TI profesional pero asequible para cada empresa. No necesita contratar a su propio administrador de sistemas, no necesita construir infraestructura compleja o costosa – nosotros nos encargamos de todo.",
+        "Nuestros servicios cubren toda la operación TI: gestión de sistemas, construcción de redes, copia de seguridad de datos, seguridad TI, gestión de cortafuegos, desarrollo web y formación TI. Siempre nos adaptamos a las tecnologías actuales, para que nuestros clientes puedan estar seguros de que sus sistemas TI empresariales están actualizados y seguros.",
+        "SIRONIC proporciona no solo TI – sino tranquilidad, previsibilidad y soporte. Somos los que puede contactar en cualquier momento si hay un problema – y a menudo lo resolvemos antes de que se dé cuenta.",
+        "Tratamos a cada cliente como un socio, no solo manteniendo sus sistemas, sino cuidando sus operaciones a largo plazo."
+      ]
+    },
+    "values": {
+      "title": "¿Por qué trabajar con nosotros?",
+      "items": [
+        {
+          "title": "Actitud Proactiva",
+          "description": "No solo actuamos cuando hay problemas. Monitorizamos continuamente sus sistemas para prevenirlos."
+        },
+        {
+          "title": "Comunicación Humana",
+          "description": "Aquí no hay 'jungla de tickets'. Habla con personas reales que entienden su problema y ayudan rápidamente."
+        },
+        {
+          "title": "Transparencia",
+          "description": "Mantenimiento mensual fijo o soluciones puntuales – sin tarifas ocultas, siempre sabe qué esperar."
+        }
+      ]
+    },
+    "howWeWork": {
+      "title": "¿Cómo Trabajamos?",
+      "steps": [
+        "Escuchamos sus necesidades y evaluamos su sistema TI actual",
+        "Proporcionamos una recomendación para la mejor solución para usted",
+        "Configuramos, optimizamos y monitorizamos su sistema",
+        "Proporcionamos soporte continuo cuando nos necesite"
+      ]
+    },
+    "finalCta": {
+      "title": "¡Conviértase en Uno de Nuestros Socios!",
+      "subtitle": "Solicite una consulta gratuita, y encontremos juntos la mejor solución TI para su negocio.",
+      "button": "Pongámonos en Contacto"
+    }
+  },
+  "pricingPage": {
+    "title": "Precios",
+    "subtitle": "Creamos ofertas personalizadas basadas en las necesidades de su negocio. No hay dos empresas iguales – así que siempre adaptamos nuestras tarifas a su infraestructura y requisitos.",
+    "heroTitle": "Precios Transparentes – Claros y Simples",
+    "heroDescription": "Sin costes ocultos. Hemos diseñado nuestros servicios para que cada empresa pueda encontrar la solución adecuada – ya sea mantenimiento, desarrollo o reparación.",
+    "packages": {
+      "mindenCegnek": {
+        "title": "Toda Empresa Merece un Departamento TI",
+        "price": "desde 150 €/mes",
+        "description": "Operaciones TI completas en suscripción mensual – como tener su propio especialista TI.",
+        "features": [
+          "Monitorización y mantenimiento continuo del sistema",
+          "Intervención rápida en caso de error",
+          "Consultoría de desarrollo de infraestructura",
+          "Gestión de copias de seguridad y actualizaciones",
+          "Soporte TI personal"
+        ],
+        "badge": "🎁 Válido hasta el 1 de feb de 2026: ¡10% de descuento en los primeros 3 meses para solicitudes de consulta!",
+        "ctaText": "Solicitar Consulta"
+      },
+      "systemOperation": {
+        "title": "Operaciones de Sistema y Mantenimiento TI",
+        "price": "desde 120 €/mes",
+        "description": "Supervisión continua y operación ininterrumpida.",
+        "features": [
+          "Mantenimiento y monitorización regulares",
+          "Solución rápida de problemas y recuperación",
+          "Supervisión de servidores y redes",
+          "Operación proactiva y actualizaciones de seguridad"
+        ],
+        "ctaText": "Solicitar Presupuesto"
+      },
+      "networking": {
+        "title": "Construcción y Desarrollo de Redes",
+        "price": "desde 180 € / proyecto",
+        "description": "Diseño e implementación de infraestructura de red fiable y segura.",
+        "features": [
+          "Diseño e instalación completa de red",
+          "Configuración de Router, switch, Wi-Fi",
+          "Optimización y mantenimiento de red",
+          "Conexión de datos rápida, estable y segura"
+        ],
+        "ctaText": "Solicitar Presupuesto"
+      },
+      "security": {
+        "title": "Seguridad TI y Protección de Datos",
+        "price": "desde 240 €",
+        "description": "Proteja los datos de su empresa con soluciones modernas.",
+        "features": [
+          "Configuración de cortafuegos y seguridad de red",
+          "Copia de seguridad y recuperación",
+          "Gestión de accesos, encriptación",
+          "Protección de datos conforme al RGPD"
+        ],
+        "ctaText": "Solicitar Presupuesto"
+      },
+      "development": {
+        "title": "Desarrollo Web y de Sistemas",
+        "price": "desde 1.000 € (pago único)",
+        "description": "Desarrollos profesionales a medida para el crecimiento digital de su empresa.",
+        "features": [
+          "Sitios web y portales responsivos",
+          "Soluciones de software personalizadas",
+          "Optimización SEO y UX",
+          "Soporte y mantenimiento continuos"
+        ],
+        "ctaText": "Solicitar Presupuesto"
+      },
+      "commerce": {
+        "title": "Comercio – Equipos y Software TI",
+        "price": "Basado en presupuesto personalizado",
+        "description": "Todo lo necesario para operaciones de oficina modernas.",
+        "features": [
+          "Ordenadores, monitores, servidores",
+          "Impresoras y dispositivos de red",
+          "Licencias de software y suscripciones",
+          "Infraestructura de oficina completa"
+        ],
+        "ctaText": "Solicitar Presupuesto"
+      },
+      "hosting": {
+        "title": "Hosting y Soluciones en la Nube",
+        "price": "desde 15 €/mes",
+        "description": "Alojamiento rápido, seguro y escalable para empresas.",
+        "features": [
+          "Web y email hosting",
+          "Copia de seguridad en la nube",
+          "Servicio de nube privada",
+          "Disponibilidad continua (99.9%)"
+        ],
+        "ctaText": "Solicitar Presupuesto"
+      },
+      "crm": {
+        "title": "Desarrollo CRM Personalizado",
+        "price": "desde 1.500 €",
+        "description": "Sistema de gestión de clientes personalizado que aumenta la eficiencia de ventas.",
+        "features": [
+          "Estructura modular, funciones personalizables",
+          "Integración con sistemas existentes (ERP, email, sitio web)",
+          "Informes y análisis automatizados",
+          "Interfaz fácil de usar"
+        ],
+        "ctaText": "Solicitar Presupuesto"
+      }
+    },
+    "customQuote": {
+      "title": "¿Tiene necesidades únicas?",
+      "description": "Los precios son indicativos; los presupuestos exactos siempre se basan en los requisitos.\nSolicite una consulta gratuita y le ayudaremos a encontrar la mejor solución.",
+      "button": "Solicitar Consulta TI Gratuita"
+    },
+    "whyChoose": {
+      "title": "¿Por qué elegir SIRONIC?",
+      "description": "Si ningún paquete encaja perfectamente, crearemos una oferta personalizada. No hay dos empresas iguales – y tampoco dos soluciones.",
+      "reasons": [
+        {
+          "title": "Precios Transparentes",
+          "description": "Sin costes ocultos"
+        },
+        {
+          "title": "Paquetes Flexibles",
+          "description": "Soluciones mensuales y de pago único"
+        },
+        {
+          "title": "Respuesta Rápida",
+          "description": "Ayudamos inmediatamente si es necesario"
+        },
+        {
+          "title": "Soporte a Largo Plazo",
+          "description": "Tratamos a los clientes como socios"
+        }
+      ],
+      "button": "Solicitar Presupuesto Personalizado"
+    }
+  },
+  "mindenCegnekPage": {
+    "hero": {
+      "badge": "Soporte TI Mensual",
+      "title": "Toda Empresa Merece un Departamento TI",
+      "subtitle": "Como tener su propio especialista TI",
+      "description": "Un servicio donde no necesita contratar a un especialista TI – en su lugar, obtiene un equipo completo que mantiene todo actualizado en segundo plano, monitoriza, mantiene, y solo interviene cuando es necesario.",
+      "cta": "Solicitar Consulta",
+      "discount": "Válido hasta el 1 de feb de 2026: ¡10% de descuento en los primeros 3 meses para solicitudes de consulta!",
+      "scroll": "Desplácese hacia abajo para más información"
+    },
+    "whatYouGet": {
+      "title": "¿Qué obtiene exactamente?",
+      "subtitle": "Una solución TI integral que trabaja para usted cada día – invisiblemente pero eficazmente.",
+      "features": {
+        "internet": {
+          "title": "Acceso a internet continuo y operación estable",
+          "description": "Aseguramos que la red de su empresa esté siempre disponible, estable y segura – desapercibida, en segundo plano."
+        },
+        "platform": {
+          "title": "Plataforma única para reporte de errores",
+          "description": "Obtiene su propia interfaz donde puede reportar problemas o solicitudes fácilmente – respondemos inmediatamente."
+        },
+        "monitoring": {
+          "title": "Monitorización y solución de problemas continuos",
+          "description": "Monitorizamos servidores, red y sistemas para manejar errores antes de que se dé cuenta."
+        },
+        "cost": {
+          "title": "Estructura de precios rentable y transparente",
+          "description": "Más allá de la tarifa mensual fija, solo paga por lo que realmente necesita atención – basado en una lista de precios preacordada."
+        },
+        "reporting": {
+          "title": "Sistemas actualizados, informe mensual",
+          "description": "Actualizamos y mantenemos continuamente los sistemas, y enviamos un informe al final de cada mes sobre el rendimiento y estado del sistema."
+        }
+      }
+    },
+    "benefits": {
+      "title": "¿Por qué es bueno para usted?",
+      "subtitle": "Soporte TI rentable, transparente y fiable – sin mantener su propio departamento TI.",
+      "items": [
+        "No necesita contratar a su propio personal TI – pero alguien vigila sus sistemas",
+        "Tarifa mensual fija, costes predecibles",
+        "Tiempo de respuesta rápido en caso de problemas",
+        "Mantenimiento proactivo y monitorización",
+        "Soporte personal",
+        "Informes mensuales sobre el estado del sistema",
+        "Solución escalable – a medida que su empresa crece, nosotros también nos expandimos",
+        "Sin facturas sorpresa – todo preacordado"
+      ]
+    },
+    "pricing": {
+      "title": "¿Cómo funciona la tarificación?",
+      "subtitle": "Estructura simple y transparente – tarifa mensual fija más tarifa por hora preacordada si es necesario.",
+      "fixed": {
+        "title": "Tarifa mensual fija",
+        "price": "desde 150 €/mes",
+        "description": "Incluye monitorización, mantenimiento básico, informes y soporte."
+      },
+      "hourly": {
+        "title": "Más tarifa de mano de obra",
+        "price": "Tarifa por hora preacordada",
+        "description": "Solo paga si es necesaria una intervención real o desarrollo."
+      },
+      "note": "El precio depende de la duración del contrato y tipos de tareas. ¡Solicite un presupuesto personalizado!"
+    },
+    "finalCta": {
+      "title": "No necesita su propio especialista TI, solo un socio fiable",
+      "description": "Proporcionamos la experiencia, respuesta rápida y operación estable – usted puede concentrarse en su empresa.",
+      "button": "Solicitar Presupuesto"
+    }
+  },
+  "customDevelopment": {
+    "badge": "Desarrollo de Software a Medida",
+    "title": "Desarrollo de Aplicaciones Personalizadas para su Negocio",
+    "subtitle": "Software escalable, seguro y enfocado en el negocio",
+    "description": "El equipo de SIRONIC ofrece desarrollo completo de aplicaciones personalizadas para su empresa. Desde aplicaciones web y software de escritorio Windows hasta apps móviles – todas soluciones adaptadas a sus necesidades comerciales con tecnologías modernas.",
+    "cards": {
+      "webApps": {
+        "title": "Desarrollo de Aplicaciones Web Personalizadas",
+        "description": "Aplicaciones web empresariales basadas en TailScript y React. Soluciones escalables, rápidas y fáciles de usar para procesos comerciales complejos."
+      },
+      "desktop": {
+        "title": "Software de Escritorio Windows",
+        "description": "Desarrollo de aplicaciones nativas Windows con tecnologías modernas. Software eficiente, rápido y fiable para entornos de oficina."
+      },
+      "mobile": {
+        "title": "Desarrollo de Apps Móviles",
+        "description": "Desarrollo de aplicaciones Android e iOS. Soluciones móviles modernas e intuitivas que funcionan perfectamente en cada dispositivo."
+      }
+    },
+    "cta": {
+      "main": "Solicitar Presupuesto Desarrollo",
+      "learnMore": "Saber Más"
+    }
+  },
+  "customDevelopmentPage": {
+    "breadcrumb": {
+      "home": "Inicio",
+      "customDevelopment": "Desarrollo de Aplicaciones Personalizadas"
+    },
+    "hero": {
+      "title": "Desarrollo de Aplicaciones Personalizadas",
+      "subtitle": "Soluciones de software modernas, escalables y enfocadas en el negocio adaptadas a sus necesidades",
+      "description": "Más que solo construir sitios web – desarrollamos aplicaciones complejas que crean valor real para su empresa. Desde aplicaciones web basadas en TailScript y React hasta software nativo de Windows y apps móviles Android/iOS.",
+      "cta": "Solicitar Consulta Gratuita",
+      "scrollDown": "Desplácese para detalles"
+    },
+    "what": {
+      "title": "¿Qué Desarrollamos?",
+      "subtitle": "Soluciones de software personalizadas completas con tecnologías de vanguardia",
+      "items": [
+        {
+          "title": "Aplicaciones Web basadas en TailScript",
+          "description": "Sistemas web rápidos, modernos y eficientes con tecnología TailScript. Soluciones escalables para procesos comerciales complejos que funcionan fluidamente en cada navegador."
+        },
+        {
+          "title": "Aplicaciones Empresariales React",
+          "description": "Aplicaciones web de nivel empresarial con React y Next.js. Interfaz de usuario intuitiva, carga rápida, estructura optimizada SEO – todo lo necesario para aplicaciones comerciales modernas."
+        },
+        {
+          "title": "Software de Escritorio Windows",
+          "description": "Desarrollo de aplicaciones nativas Windows con .NET y tecnologías modernas C#. Soluciones de escritorio rápidas y fiables que se integran perfectamente en entornos corporativos."
+        },
+        {
+          "title": "Desarrollo de Apps Móviles – Android + iOS",
+          "description": "Aplicaciones móviles nativas y multiplataforma con React Native y Flutter. Un código base, dos plataformas – desarrollo rápido, excelente experiencia de usuario en ambos sistemas operativos."
+        }
+      ]
+    },
+    "whyChoose": {
+      "title": "¿Por qué elegir SIRONIC para el desarrollo a medida?",
+      "subtitle": "No solo programamos – somos socios en el logro de sus objetivos comerciales",
+      "reasons": [
+        {
+          "title": "Comprensión Real del Negocio",
+          "description": "No somos solo programadores – entendemos los procesos comerciales. Cada desarrollo se adapta a sus necesidades para crear valor real."
+        },
+        {
+          "title": "Tecnologías Modernas",
+          "description": "React, Next.js, TailScript, .NET, React Native – trabajamos con las herramientas más avanzadas que son rápidas, seguras y preparadas para el futuro."
+        },
+        {
+          "title": "Asociación a Largo Plazo",
+          "description": "No nos detenemos en el desarrollo. Proporcionamos soporte continuo, mantenimiento y desarrollo adicional – el software siempre se mantiene al día con sus necesidades."
+        },
+        {
+          "title": "Comunicación Transparente",
+          "description": "Comunicación directa, sin barreras de idioma ni malentendidos – siempre sabe dónde está el proyecto."
+        },
+        {
+          "title": "Seguridad y Fiabilidad",
+          "description": "Todas nuestras aplicaciones están construidas con gestión segura de datos, estructura conforme al RGPD y operación estable."
+        },
+        {
+          "title": "Escalabilidad",
+          "description": "Diseñamos nuestros sistemas para crecer con su empresa – no hay necesidad de reescribir todo cuando se expande."
+        }
+      ]
+    },
+    "technologies": {
+      "title": "¿Qué Tecnologías Usamos?",
+      "subtitle": "Las herramientas más modernas y fiables del mercado",
+      "list": [
+        "React y Next.js – aplicaciones web modernas, amigables con SEO",
+        "TailScript – sistemas web rápidos y escalables",
+        "TypeScript – código seguro de tipos, sin errores",
+        "Node.js y Express – soluciones backend robustas",
+        ".NET y C# – software nativo de Windows",
+        "React Native y Flutter – aplicaciones móviles multiplataforma",
+        "Tailwind CSS – diseño moderno y responsivo",
+        "PostgreSQL, MySQL – gestión de bases de datos fiable",
+        "Docker y Cloud – infraestructura escalable y segura"
+      ]
+    },
+    "process": {
+      "title": "¿Cómo Trabajamos?",
+      "subtitle": "Proceso de desarrollo transparente y estructurado – paso a paso",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Análisis de Requisitos y Consultoría",
+          "description": "Conocemos sus objetivos comerciales, expectativas y sistemas actuales. Aclaramos exactamente qué quiere lograr con el software."
+        },
+        {
+          "number": "2",
+          "title": "Diseño UX/UI y Estructura",
+          "description": "Diseñamos la experiencia de usuario y la interfaz. Wireframes, diseños y planes de interacción – para saber exactamente qué estamos construyendo."
+        },
+        {
+          "number": "3",
+          "title": "Desarrollo y Coordinación Continua",
+          "description": "La programación real. Nos comunicamos continuamente, mostramos progreso y respondemos a sus necesidades – sin sorpresas en la entrega."
+        },
+        {
+          "number": "4",
+          "title": "Pruebas y Control de Calidad",
+          "description": "Pruebas exhaustivas en cada dispositivo y navegador. Pruebas de rendimiento, seguridad y funcionalidad – para asegurar que todo funcione perfectamente."
+        },
+        {
+          "number": "5",
+          "title": "Lanzamiento y Formación",
+          "description": "Despliegue del software y formación de usuarios. Obtiene toda la documentación y soporte para una operación fluida."
+        },
+        {
+          "number": "6",
+          "title": "Mantenimiento y Desarrollo Futuro",
+          "description": "Soporte continuo, corrección de errores y desarrollos futuros. El software se mantiene siempre actualizado y al día con sus necesidades."
+        }
+      ]
+    },
+    "useCases": {
+      "title": "¿Para qué sirve una aplicación personalizada?",
+      "subtitle": "Problemas comerciales reales que resolvemos con software a medida",
+      "examples": [
+        "Sistemas CRM y gestión de clientes – mantenga a sus clientes bajo control",
+        "Software de inventario y logística – gestión de almacén automatizada",
+        "Portales corporativos internos – todos los datos en un solo lugar",
+        "Comercio electrónico y desarrollo de tiendas online – canales de venta online",
+        "Herramientas de gestión de proyectos – trabajo en equipo y seguimiento de tareas",
+        "Informes automatizados y administración – ahorre tiempo",
+        "Integración con sistemas existentes – conexión ERP, facturación, CRM",
+        "Aplicaciones móviles – en manos de clientes y empleados"
+      ]
+    },
+    "pricing": {
+      "title": "¿Cuánto cuesta una aplicación personalizada?",
+      "subtitle": "Cada proyecto es único – el precio siempre se basa en los requisitos",
+      "description": "El precio del desarrollo de aplicaciones personalizadas depende de la complejidad del proyecto, las funciones y el tiempo requerido. Las aplicaciones pequeñas comienzan desde 2.000 €, sistemas empresariales más grandes pueden costar decenas de miles – pero siempre preparamos un presupuesto personalizado.",
+      "process": "En una consulta gratuita, evaluamos sus necesidades, discutimos las posibilidades y proporcionamos un presupuesto fijo y transparente para todo el proyecto.",
+      "cta": "Solicitar Presupuesto Gratuito"
+    },
+    "faq": {
+      "title": "Preguntas Frecuentes",
+      "items": [
+        {
+          "question": "¿Cuánto tiempo lleva desarrollar una app personalizada?",
+          "answer": "Depende del tamaño del proyecto – una aplicación web simple toma 4-8 semanas, mientras que un sistema empresarial complejo puede tomar 3-6 meses. Siempre acordamos los plazos en el presupuesto."
+        },
+        {
+          "question": "¿Pueden integrar con sistemas existentes?",
+          "answer": "¡Sí! Regularmente integramos con ERP, CRM, sistemas de facturación y otras APIs externas. Esta es una de las mayores ventajas del desarrollo a medida."
+        },
+        {
+          "question": "¿Quién posee el código fuente?",
+          "answer": "Después del proyecto, el código fuente pasa a ser de su completa propiedad – sin tarifas de licencia ocultas ni dependencias."
+        },
+        {
+          "question": "¿Qué pasa con el mantenimiento y desarrollo futuro?",
+          "answer": "Proporcionamos soporte tras la entrega: corrección de errores, actualizaciones, desarrollo adicional – con soluciones mensuales u opcionales de pago único."
+        },
+        {
+          "question": "¿Qué garantía tenemos sobre la aplicación?",
+          "answer": "Hay una garantía de 6 meses sobre errores después de la entrega – resolvemos todos los problemas funcionales de forma gratuita durante este período."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "¿Listo para una Solución de Software Personalizada?",
+      "description": "Discutamos sus necesidades y creemos juntos una aplicación que aumente realmente la eficiencia de su empresa.",
+      "button": "Solicitar Consulta Gratuita"
+    }
+  },
+  "itTraining": {
+    "badge": "Formación y Educación TI",
+    "title": "Educación TI y Desarrollo de Conocimientos Empresariales",
+    "subtitle": "Desarrolle las Habilidades Digitales de su Equipo",
+    "description": "Ofrecemos formación TI personalizada, talleres de concienciación sobre seguridad y desarrollo de conocimientos a nivel de sistema para garantizar que sus empleados utilicen herramientas modernas y software con confianza. Las operaciones seguras comienzan con la información.",
+    "cards": {
+      "personalized": {
+        "title": "Formación TI Personalizada",
+        "description": "Programas de formación a medida para mejorar la competencia digital de su equipo. Conocimientos prácticos aplicables inmediatamente a las tareas diarias."
+      },
+      "security": {
+        "title": "Formación de Concienciación sobre Seguridad",
+        "description": "Fundamentos de ciberseguridad y talleres de protección de datos. Enseñe a su equipo cómo proteger eficazmente los datos y sistemas de la empresa."
+      },
+      "software": {
+        "title": "Formación en Uso de Software y Dispositivos",
+        "description": "Uso eficiente de Microsoft 365, Google Workspace y herramientas de oficina. Aumente la productividad dominando las herramientas adecuadas."
+      },
+      "corporate": {
+        "title": "Programas de Desarrollo de Conocimientos",
+        "description": "Desarrollo de habilidades digitales a largo plazo. Programas de educación continua que se mantienen al día con los avances tecnológicos."
+      }
+    },
+    "languageNote": "Las sesiones de formación están actualmente disponibles solo en húngaro, tanto online como presencial.",
+    "cta": {
+      "main": "Solicitar Presupuesto Formación",
+      "learnMore": "Saber Más"
+    }
+  },
+  "itTrainingPage": {
+    "meta": {
+      "title": "Educación TI y Formación Empresarial | SIRONIC",
+      "description": "Formación TI práctica para empresas: concienciación sobre seguridad, uso de software y desarrollo de habilidades digitales. ¡Actualice las competencias de su equipo!",
+      "keywords": [
+        "Formación TI",
+        "formación empresarial",
+        "concienciación seguridad",
+        "competencia digital",
+        "curso Excel",
+        "taller TI"
+      ],
+      "ogTitle": "Educación TI y Formación Empresarial - SIRONIC",
+      "ogDescription": "Formación TI práctica para empresas. ¡Actualice las competencias digitales de su equipo con nosotros!"
+    },
+    "breadcrumb": {
+      "home": "Inicio",
+      "training": "Formación TI"
+    },
+    "hero": {
+      "title": "Educación TI y Desarrollo de Conocimientos Empresariales",
+      "subtitle": "Desarrolle las habilidades digitales de su equipo con formación profesional",
+      "description": "SIRONIC no solo gestiona sistemas TI – también desarrollamos el conocimiento digital de sus empleados. Con nuestra formación personalizada, su equipo utilizará herramientas modernas con confianza y será consciente de los riesgos de seguridad.",
+      "cta": "Solicitar Consulta Gratuita",
+      "scrollDown": "Desplácese para detalles"
+    },
+    "intro": {
+      "title": "¿Por qué es Importante la Formación TI Empresarial?",
+      "content": [
+        "Incluso la mejor infraestructura TI no es suficiente si los empleados no saben usarla eficazmente. El conocimiento deficiente de herramientas, la falta de concienciación sobre seguridad y flujos de trabajo obsoletos reducen la productividad y aumentan los riesgos.",
+        "Con los programas de educación TI de SIRONIC, su equipo adquiere conocimientos actualizados, trabaja con más confianza y protege conscientemente los datos de la empresa. Toda nuestra formación es práctica, personalizada y directamente aplicable al trabajo diario."
+      ]
+    },
+    "services": {
+      "title": "¿Qué Formación Ofrecemos?",
+      "subtitle": "Educación práctica enfocada en el negocio a todos los niveles",
+      "items": [
+        {
+          "title": "Formación TI Personalizada",
+          "description": "Currículo y ritmo a medida según las necesidades de su equipo. Desde principiante hasta usuario avanzado – cada curso se adapta a los requisitos reales de su empresa. Aprendizaje a través de ejemplos prácticos y situaciones reales.",
+          "topics": [
+            "Conceptos básicos Windows y macOS",
+            "Gestión de archivos y estructura de carpetas",
+            "Copia de seguridad y recuperación de datos",
+            "Uso de periféricos e impresoras",
+            "Atajos de teclado rápidos y consejos de productividad"
+          ]
+        },
+        {
+          "title": "Formación de Concienciación sobre Seguridad",
+          "description": "La mayoría de los incidentes de protección de datos ocurren por error humano – correos fraudulentos, contraseñas débiles, phishing. Nuestra formación ayuda a los empleados a reconocer y evitar riesgos.",
+          "topics": [
+            "Reconocer correos de phishing y estafas",
+            "Gestión segura de contraseñas y uso de 2FA",
+            "Principios de protección de datos (RGPD) en la práctica",
+            "Compartir archivos y correos de forma segura",
+            "Seguridad de dispositivos: portátiles, teléfonos, trabajo remoto"
+          ]
+        },
+        {
+          "title": "Formación en Uso de Software y Dispositivos",
+          "description": "El trabajo de oficina moderno se basa en herramientas de software – pero a menudo usamos solo una fracción de su potencial. Enseñamos las herramientas y métodos para un trabajo eficiente.",
+          "topics": [
+            "Microsoft 365: Word, Excel, PowerPoint, Outlook, Teams",
+            "Google Workspace: Docs, Sheets, Drive, Meet",
+            "Herramientas de colaboración: Slack, Notion, Trello, Asana",
+            "Uso de herramientas de videoconferencia",
+            "Compartir archivos en la nube y sincronización"
+          ]
+        },
+        {
+          "title": "Programas de Desarrollo de Conocimientos Empresariales",
+          "description": "Programas de formación continuos a largo plazo que aseguran que el equipo esté siempre actualizado. Creación de una base de conocimientos corporativa y desarrollo regular.",
+          "topics": [
+            "Creación de materiales de aprendizaje y guías personalizadas",
+            "Soporte online continuo y sesiones de preguntas y respuestas",
+            "Formación regular de actualización tecnológica",
+            "Formación TI de incorporación para nuevos empleados",
+            "Formación sobre sistemas específicos de la empresa"
+          ]
+        }
+      ]
+    },
+    "benefits": {
+      "title": "¿Por qué Invertir en Formación TI Empresarial?",
+      "subtitle": "Beneficios concretos que traen resultados medibles",
+      "list": [
+        "Mayor productividad – los empleados trabajan más rápido y eficazmente",
+        "Menos errores TI y llamadas al soporte técnico – carga reducida en soporte",
+        "Operaciones más seguras – empleados conscientes protegen los datos",
+        "Mejor utilización de herramientas – potencial completo de software y sistemas",
+        "Equipo más seguro – sin miedo a las nuevas tecnologías",
+        "Adaptación más rápida – introducción más fluida de nuevas herramientas",
+        "Competitividad – un equipo digitalmente competente significa una empresa más moderna"
+      ]
+    },
+    "targetGroups": {
+      "title": "¿A Quién lo Recomendamos?",
+      "subtitle": "Para cada empresa que trabaja con herramientas digitales",
+      "groups": [
+        {
+          "title": "Trabajadores de Oficina",
+          "description": "Aquellos que usan ordenadores, correo electrónico y programas de Office diariamente."
+        },
+        {
+          "title": "Líderes y Gerentes",
+          "description": "Aquellos que necesitan conocimiento de herramientas digitales para la toma de decisiones, informes y comunicación."
+        },
+        {
+          "title": "Colegas No-TI",
+          "description": "Aquellos para quienes la tecnología es solo una herramienta, pero una barrera sin el conocimiento adecuado."
+        },
+        {
+          "title": "Trabajadores Remotos",
+          "description": "Aquellos que necesitan soporte para un trabajo desde casa seguro y eficiente."
+        },
+        {
+          "title": "Nuevas Contrataciones",
+          "description": "Aquellos que deben aprender los sistemas TI de la empresa como parte de la incorporación."
+        }
+      ]
+    },
+    "delivery": {
+      "title": "¿Cómo se Imparte la Formación?",
+      "subtitle": "Formas flexibles de educación – Elija la que mejor se adapte",
+      "methods": [
+        {
+          "title": "Formación In Situ",
+          "description": "Vamos a su oficina y realizamos la formación en el lugar. Personal, interactivo, con ejemplos prácticos inmediatos en sus sistemas."
+        },
+        {
+          "title": "Formación Remota Online",
+          "description": "Sesiones de formación en vivo a través de plataformas de videoconferencia. Horario flexible, sin viajes, pero tan efectivo como la forma presencial."
+        },
+        {
+          "title": "Modelo Híbrido",
+          "description": "Combinación de ambos: inicio en el sitio, luego continuación online. Lo mejor de ambos mundos."
+        }
+      ],
+      "languageNote": "Las sesiones de formación están actualmente disponibles solo en húngaro, tanto online como presencial."
+    },
+    "topics": {
+      "title": "Temas Específicos Que Enseñamos",
+      "subtitle": "Conocimientos prácticos que puede aplicar inmediatamente",
+      "list": [
+        "Uso de Microsoft 365 (Word, Excel, PowerPoint, Outlook, OneDrive, Teams)",
+        "Herramientas Google Workspace (Gmail, Drive, Docs, Sheets, Meet)",
+        "Gestión segura de contraseñas y autenticación de dos factores",
+        "Reconocer correos de phishing y estafas online",
+        "Compartir archivos de forma segura y almacenamiento en la nube",
+        "Uso profesional de herramientas de videoconferencia",
+        "Gestión eficiente de correo electrónico y organización de bandeja de entrada",
+        "Gestión de proyectos y tareas (Trello, Asana, Notion)",
+        "Funciones básicas y trucos de Windows y macOS",
+        "Dispositivos de oficina: impresoras, escáneres, multimedia"
+      ]
+    },
+    "methodology": {
+      "title": "¿Cómo Trabajamos?",
+      "subtitle": "Proceso de educación estructurado – paso a paso",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Evaluación de Necesidades",
+          "description": "Conocemos el equipo, los niveles de conocimiento actuales y los procesos comerciales. Aclaramos qué áreas necesitan desarrollo."
+        },
+        {
+          "number": "2",
+          "title": "Creación de Currículo Personalizado",
+          "description": "Plan educativo personalizado y material que se adapta a las herramientas y flujos de trabajo de su empresa."
+        },
+        {
+          "number": "3",
+          "title": "Realización de Formación",
+          "description": "Educación en vivo interactiva y práctica – preguntas, respuestas, ejemplos reales en su entorno."
+        },
+        {
+          "number": "4",
+          "title": "Seguimiento y Soporte",
+          "description": "Estamos disponibles incluso después de la formación – preguntas, revisiones, más ayuda. Aseguramos que el conocimiento se integre realmente en la rutina diaria."
+        }
+      ]
+    },
+    "faq": {
+      "title": "Preguntas Frecuentes",
+      "items": [
+        {
+          "question": "¿Cuánto dura una sesión de formación?",
+          "answer": "La duración depende de las necesidades. Un taller único es de 2-4 horas, mientras que un programa corporativo completo puede extenderse durante varias semanas con múltiples sesiones. Siempre acordamos los plazos."
+        },
+        {
+          "question": "¿Cuántas personas pueden participar a la vez?",
+          "answer": "El número ideal es entre 5-15 personas para que todos reciban suficiente atención. Para grupos más grandes, podemos realizar múltiples turnos o grupos paralelos."
+        },
+        {
+          "question": "¿Necesitan los participantes conocimientos previos de TI?",
+          "answer": "¡No! Adaptamos la formación al nivel de conocimiento actual de los participantes – desde principiante hasta avanzado. Evaluamos dónde se encuentra cada uno de antemano."
+        },
+        {
+          "question": "¿Reciben los participantes materiales o apuntes?",
+          "answer": "¡Sí! Después de cada formación, reciben el material, presentaciones y guías prácticas en formato digital – para que puedan revisarlos en cualquier momento."
+        },
+        {
+          "question": "¿En qué idioma se imparten las sesiones?",
+          "answer": "Actualmente, las sesiones están disponibles exclusivamente en húngaro, tanto online como presencial."
+        },
+        {
+          "question": "¿Cuánto cuesta la formación TI empresarial?",
+          "answer": "El precio se basa en un presupuesto personalizado – dependiendo del número de participantes, temas y ubicación (online/offline). ¡Solicite un presupuesto y lo discutiremos!"
+        }
+      ]
+    },
+    "pricing": {
+      "title": "¿Cuánto Cuesta la Formación TI?",
+      "subtitle": "Creamos ofertas personalizadas – cada empresa tiene necesidades diferentes",
+      "description": "Los precios de la formación dependen del número de participantes, duración, temas y ubicación (online/offline). En promedio, un taller de 4 horas comienza desde 200 € para grupos pequeños, mientras un programa de desarrollo continuo más largo está disponible en modelo de suscripción mensual.",
+      "process": "Solicite una consulta gratuita, evaluaremos las necesidades y prepararemos una oferta detallada y transparente.",
+      "cta": "Solicitar Presupuesto Ahora"
+    },
+    "finalCta": {
+      "title": "¡Comience el Desarrollo Digital de Su Equipo!",
+      "description": "Solicite una consulta gratuita, y descubramos juntos qué formación TI puede mejorar la eficiencia y seguridad de su empresa.",
+      "button": "Solicitar Presupuesto Formación TI"
+    }
+  },
+  "networkOptimization": {
+    "badge": "Optimización de Red",
+    "title": "Asegure Internet y Wi-Fi Estables y Rápidos para su Empresa",
+    "subtitle": "Un Wi-Fi lento, una conexión inestable o una red poco fiable ralentiza toda su empresa. Diseñamos, optimizamos y mantenemos infraestructuras de red modernas de nivel empresarial para que cada dispositivo funcione rápido, segura y fiablemente.",
+    "features": {
+      "wifi": {
+        "title": "Wi-Fi empresarial estable de alta cobertura",
+        "description": "Puntos de acceso modernos y diseño de red para asegurar señal Wi-Fi fuerte en cada habitación – sin cortes."
+      },
+      "speed": {
+        "title": "Red rápida y segura para todos los dispositivos",
+        "description": "Ancho de banda optimizado, separación VLAN y ajuste de rendimiento – cada dispositivo funciona fluidamente."
+      },
+      "reliability": {
+        "title": "Conexión fiable — sin caídas",
+        "description": "Routers fiables, equipos de red profesionales y monitorización continua – para que su red esté siempre accesible."
+      }
+    },
+    "cta": "Solicitar Auditoría de Red"
+  },
+  "networkOptimizationPage": {
+    "breadcrumb": {
+      "home": "Inicio",
+      "networkOptimization": "Optimización de Red"
+    },
+    "hero": {
+      "title": "Diseño, Optimización y Mantenimiento de Red Empresarial y Wi-Fi",
+      "subtitle": "Haga la red de su empresa estable, rápida y segura",
+      "description": "Si su Wi-Fi es lento, las conexiones se caen o la red no es fiable, frena todo el rendimiento de su empresa. SIRONIC diseña, optimiza y mantiene redes modernas de nivel profesional – para que cada dispositivo opere rápido, seguro y fiablemente.",
+      "cta": "Solicitar Auditoría de Red Gratuita",
+      "scrollDown": "Desplácese para detalles"
+    },
+    "problems": {
+      "title": "Problemas de Red Comunes en Empresas",
+      "subtitle": "¿Le suena familiar?",
+      "items": [
+        "Wi-Fi lento o inestable en el trabajo",
+        "Señal débil y zonas muertas en la oficina",
+        "Routers y puntos de acceso obsoletos",
+        "Sin separación de red de invitados",
+        "Demasiados dispositivos en una red – todo se ralentiza",
+        "Vulnerabilidades de seguridad y red no protegida",
+        "Sin plan de monitorización o solución de problemas"
+      ]
+    },
+    "services": {
+      "title": "Qué Proporcionamos",
+      "subtitle": "Soluciones de red completas para pequeñas y medianas empresas",
+      "items": [
+        {
+          "title": "Auditoría de red y diagnóstico completo",
+          "description": "Evaluamos su infraestructura de red actual, identificamos problemas y sugerimos optimizaciones."
+        },
+        {
+          "title": "Mapeo de señal Wi-Fi y análisis de cobertura",
+          "description": "Diseñamos la red Wi-Fi para asegurar señal fuerte en cada habitación – sin zonas muertas."
+        },
+        {
+          "title": "Diseño de nueva red empresarial",
+          "description": "Construimos redes profesionales desde cero que son escalables, rápidas y seguras."
+        },
+        {
+          "title": "Instalación de hardware empresarial (MikroTik, Ubiquiti, UniFi)",
+          "description": "Selección e instalación de equipo de red profesional – routers, switches, puntos de acceso."
+        },
+        {
+          "title": "Cableado y actualizaciones de infraestructura",
+          "description": "Instalación de cableado estructurado, paneles de conexión, armarios servidores – infraestructura organizada y preparada para el futuro."
+        },
+        {
+          "title": "Seguridad, VLAN, configuración de cortafuegos",
+          "description": "Segmentación de red, redes de invitados, configuración de cortafuegos – manteniendo sus datos seguros."
+        },
+        {
+          "title": "Monitorización y gestión de red",
+          "description": "Monitorización continua y mantenimiento proactivo – conocemos y manejamos los problemas antes de que se vuelvan críticos."
+        }
+      ]
+    },
+    "technologies": {
+      "title": "¿Qué Equipo Usamos?",
+      "subtitle": "Soluciones de red fiables y profesionales",
+      "list": [
+        "MikroTik – routers y switches potentes y rentables",
+        "Ubiquiti UniFi – sistemas Wi-Fi modernos y gestionables",
+        "TP-Link Omada – equipo de red de nivel empresarial",
+        "Cisco y HPE – infraestructura de nivel enterprise",
+        "Configuración VLAN y cortafuegos",
+        "VPN y acceso remoto",
+        "Monitorización de red y análisis"
+      ]
+    },
+    "benefits": {
+      "title": "¿Por qué invertir en una red profesional?",
+      "subtitle": "Beneficios concretos que traen resultados medibles",
+      "list": [
+        "Trabajo más rápido – sin internet lento o caídas",
+        "Operaciones más seguras – red protegida, Wi-Fi invitados separado",
+        "Menos tiempo de inactividad – monitorización proactiva y solución rápida",
+        "Infraestructura escalable – la red crece con su empresa",
+        "Apariencia profesional – conexión estable para clientes también",
+        "Costes reducidos – menos tiempo perdido y menos reparaciones"
+      ]
+    },
+    "process": {
+      "title": "¿Cómo Trabajamos?",
+      "subtitle": "Proceso transparente – paso a paso",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Auditoría de red y consultoría",
+          "description": "Conocemos la oficina, la red actual y las necesidades. Identificamos problemas y oportunidades."
+        },
+        {
+          "number": "2",
+          "title": "Diseño de red y presupuesto",
+          "description": "Creamos un plan de red completo, análisis de cobertura Wi-Fi y lista de equipos. Presupuesto a precio fijo."
+        },
+        {
+          "number": "3",
+          "title": "Instalación y configuración",
+          "description": "Desplegamos la red, instalamos el equipo, configuramos elementos de seguridad. Todo probado y documentado."
+        },
+        {
+          "number": "4",
+          "title": "Pruebas y entrega",
+          "description": "Pruebas exhaustivas en cada dispositivo, medición de velocidad, verificación de cobertura. Formación y entrega de documentación."
+        },
+        {
+          "number": "5",
+          "title": "Monitorización y mantenimiento",
+          "description": "Supervisión continua, informes mensuales, mantenimiento proactivo. Siempre disponibles cuando necesite ayuda."
+        }
+      ]
+    },
+    "useCases": {
+      "title": "¿A Quién lo Recomendamos?",
+      "subtitle": "Toda empresa que necesite una red estable",
+      "examples": [
+        "Oficinas y pequeñas empresas – 5-50 empleados",
+        "Lugares de hostelería – Wi-Fi de invitados rápido y estable",
+        "Clínicas y consultorios médicos – red médica segura",
+        "Almacenes y centros logísticos – red industrial robusta",
+        "Instituciones educativas – Wi-Fi de alta capacidad",
+        "Unidades de venta al por menor – sistema TPV rápido y cámaras IP"
+      ]
+    },
+    "pricing": {
+      "title": "¿Cuánto Cuesta Instalar una Red Empresarial?",
+      "subtitle": "Cada proyecto es único – determinamos el precio según necesidades",
+      "description": "Un sistema Wi-Fi de oficina básico comienza desde aprox. 400 € (1-2 puntos de acceso, router, configuración). Para redes más grandes – más dispositivos, cableado estructurado, monitorización – cuente a partir de 1.200 €+. ¡Solicite una auditoría gratuita y un presupuesto exacto!",
+      "process": "La auditoría gratuita in situ analiza las necesidades de red, creamos un plan y proporcionamos un presupuesto transparente a precio fijo.",
+      "cta": "Solicitar Presupuesto Gratuito"
+    },
+    "faq": {
+      "title": "Preguntas Frecuentes",
+      "items": [
+        {
+          "question": "¿Cuánto tiempo lleva la instalación de la red?",
+          "answer": "Un sistema Wi-Fi de oficina simple toma 1-2 días, mientras que una red empresarial compleja en varios pisos puede tomar 1-2 semanas."
+        },
+        {
+          "question": "¿Qué marcas recomiendan?",
+          "answer": "Trabajamos principalmente con equipos MikroTik, Ubiquiti UniFi y TP-Link Omada – fiables, rentables y adecuados para uso empresarial."
+        },
+        {
+          "question": "¿Quién será el propietario de la red?",
+          "answer": "¡Usted! Todo el equipo y configuración pertenece a su empresa, sin tarifas de licencia ocultas o dependencias."
+        },
+        {
+          "question": "¿Y el mantenimiento?",
+          "answer": "Ofrecemos también paquetes de mantenimiento – monitorización continua, actualizaciones regulares y solución rápida de problemas en suscripción mensual."
+        },
+        {
+          "question": "¿Pueden optimizar redes existentes?",
+          "answer": "¡Sí! No tiene que reemplazar todo – a menudo una buena configuración, un punto de acceso extra o actualización de router es suficiente."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "¿Listo para una Red Estable y Rápida?",
+      "description": "Solicite una auditoría de red gratuita, y construyamos juntos la infraestructura que respalda el crecimiento de su empresa.",
+      "button": "Solicitar Auditoría de Red Gratuita"
+    }
+  },
+  "repairService": {
+    "badge": "Reparación y Servicio",
+    "title": "Reparación y Servicio TI – In situ o por correo",
+    "subtitle": "Reparaciones TI rápidas y fiables – portátiles, PC, servidores, dispositivos NAS",
+    "description": "Reparación profesional de ordenadores, portátiles, servidores y periféricos de red. Servicio in situ en Székesfehérvár y alrededores, o servicio postal. Comenzamos cada reparación con un diagnóstico y proporcionamos presupuestos transparentes antes de cualquier trabajo.",
+    "benefits": [
+      "Diagnóstico y solución de problemas rápidos",
+      "Servicio in situ o por correo – como prefiera",
+      "Presupuesto transparente antes de la reparación",
+      "Herramientas y expertos profesionales",
+      "Copia de seguridad y eliminación de virus",
+      "Garantía en todas las reparaciones"
+    ],
+    "cards": {
+      "onsite": {
+        "title": "Servicio in situ",
+        "description": "Vamos a usted en Székesfehérvár y zonas cercanas para realizar reparaciones o diagnósticos en el lugar."
+      },
+      "postal": {
+        "title": "Servicio postal",
+        "description": "Envíenos su dispositivo por correo, lo reparamos y lo devolvemos – simple y rápido."
+      }
+    },
+    "cta": {
+      "main": "Solicitar Presupuesto Reparación",
+      "learnMore": "Saber Más"
+    }
+  },
+  "repairServicePage": {
+    "breadcrumb": {
+      "repairService": "Reparación y Servicio"
+    },
+    "hero": {
+      "title": "Reparación y Servicio TI – Portátiles, PC, Servidores, Dispositivos NAS",
+      "subtitle": "Reparaciones TI rápidas y fiables in situ o vía envío postal",
+      "description": "Reparación profesional de ordenadores, portátiles, servidores y dispositivos de almacenamiento en red. Servicio in situ en Székesfehérvár y alrededores, u opción de envío. Presupuestos transparentes, plazos rápidos, servicio experto.",
+      "cta": "Informar Problema Ahora",
+      "scrollDown": "Desplácese para detalles"
+    },
+    "services": {
+      "title": "¿Qué reparamos?",
+      "subtitle": "Diagnóstico y reparación completa de dispositivos TI",
+      "items": [
+        {
+          "title": "Reparación y Mantenimiento de Portátiles",
+          "description": "Reemplazo de pantalla, reparación de teclado, reemplazo de batería, limpieza sistema refrigeración, actualización de componentes."
+        },
+        {
+          "title": "Diagnóstico y Reparación de PC de Escritorio",
+          "description": "Solución problemas hardware, reemplazo componentes, optimización rendimiento, limpieza sistema y mantenimiento."
+        },
+        {
+          "title": "Reparación Servidor y Equipo Profesional",
+          "description": "Diagnóstico servidor, recuperación configuración RAID, reparación y mantenimiento de hardware."
+        },
+        {
+          "title": "Servicio NAS y Dispositivos de Almacenamiento",
+          "description": "Diagnóstico almacenamiento red, copia seguridad datos, recuperación RAID, actualizaciones firmware."
+        },
+        {
+          "title": "Copia de Seguridad y Recuperación de Datos",
+          "description": "Recuperación crítica de datos desde dispositivos defectuosos, recuperación datos SSD/HDD, creación copia seguridad."
+        },
+        {
+          "title": "Eliminación Virus y Optimización Sistema",
+          "description": "Eliminación virus y malware, limpieza sistema, mejora rendimiento, optimización velocidad."
+        }
+      ]
+    },
+    "process": {
+      "title": "¿Cómo funciona la reparación?",
+      "subtitle": "Proceso simple y transparente",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Informar del problema",
+          "description": "Contáctenos por teléfono, email o formulario. Discutimos el problema y el método de reparación."
+        },
+        {
+          "number": "2",
+          "title": "Diagnóstico y Presupuesto",
+          "description": "In situ o tras recepción, examinamos el dispositivo, identificamos el fallo y proporcionamos un presupuesto transparente."
+        },
+        {
+          "number": "3",
+          "title": "Reparación tras aprobación",
+          "description": "Después de aceptar el presupuesto, realizamos la reparación con herramientas y piezas profesionales."
+        },
+        {
+          "number": "4",
+          "title": "Pruebas y Entrega",
+          "description": "Probamos minuciosamente el dispositivo reparado, luego lo entregamos o devolvemos. Garantía en todas las reparaciones."
+        }
+      ]
+    },
+    "onsite": {
+      "title": "Servicio In Situ – Vamos a Usted",
+      "description": "En Székesfehérvár y alrededores, realizamos reparaciones o diagnósticos en el lugar. Ideal para oficinas, empresas y quienes no pueden o no quieren transportar el dispositivo.",
+      "benefits": [
+        "Servicio rápido en Székesfehérvár y radio de 30 km",
+        "Diagnóstico y reparación in situ (cuando es posible)",
+        "Tiempo de inactividad mínimo – sin necesidad de retirar el dispositivo",
+        "Herramientas y piezas profesionales en el lugar",
+        "Puede realizarse en entornos corporativos"
+      ]
+    },
+    "postal": {
+      "title": "Servicio por Envío – Cómodo desde su casa",
+      "description": "Si está más lejos o simplemente prefiere la comodidad, envíe su dispositivo. Lo reparamos y lo devolvemos. Proporcionamos pautas de embalaje seguro.",
+      "benefits": [
+        "Cobertura nacional – envíe desde cualquier lugar",
+        "Guía de embalaje detallada para la seguridad del dispositivo",
+        "Plazos rápidos – típicamente 3-5 días laborables",
+        "Devolución segura vía servicio de mensajería",
+        "Actualizaciones continuas sobre el estado de reparación"
+      ],
+      "howTo": "Pasos para el envío: 1) Contáctenos y describa el problema. 2) Embale el dispositivo de forma segura (proporcionamos guías). 3) Envíe a la dirección proporcionada. 4) Diagnosticamos, enviamos presupuesto y devolvemos tras reparación."
+    },
+    "pricing": {
+      "title": "¿Cuánto cuesta una reparación?",
+      "subtitle": "Precios transparentes – diagnóstico primero, luego presupuesto",
+      "description": "Comenzamos cada reparación con un diagnóstico gratuito (in situ o por envío). El presupuesto se proporciona solo después del examen, así sabe exactamente qué esperar. El trabajo comienza solo tras su aprobación.",
+      "examples": [
+        "Reemplazo pantalla portátil: desde 65 € (depende de la pieza)",
+        "Eliminación virus PC y optimización: desde 20 €",
+        "Recuperación datos desde dispositivo defectuoso: desde 40 €",
+        "Diagnóstico y reparación servidor: presupuesto personalizado"
+      ],
+      "note": "Los precios son indicativos, el coste exacto siempre se determina tras el examen.",
+      "cta": "Solicitar Diagnóstico Gratuito"
+    },
+    "faq": {
+      "title": "Preguntas Frecuentes",
+      "items": [
+        {
+          "question": "¿Cuánto tiempo toma una reparación?",
+          "answer": "Las reparaciones simples (ej: eliminación virus, optimización) toman típicamente 1-2 días laborables. Casos complejos (ej: reemplazo pieza, recuperación datos) pueden tomar 3-5 días. Ofrecemos también servicio exprés para casos urgentes."
+        },
+        {
+          "question": "¿Y si el dispositivo no se puede reparar?",
+          "answer": "Si el dispositivo es irreparable o la reparación no es económica, le informamos inmediatamente. En este caso, solo cobramos el diagnóstico (típicamente 8-13 €), y ayudamos a aconsejar la compra de un nuevo dispositivo."
+        },
+        {
+          "question": "¿Están mis datos seguros durante la reparación?",
+          "answer": "¡Sí! Tratamos todos los dispositivos confidencialmente. La copia de seguridad de datos se realiza solo con su aprobación, y todos los datos se borran de forma segura tras la reparación (si es necesario)."
+        },
+        {
+          "question": "¿Hay garantía en las reparaciones?",
+          "answer": "Sí, proporcionamos una garantía de 30-90 días en todas las reparaciones (según el tipo). Las piezas nuevas vienen también con garantía del fabricante."
+        },
+        {
+          "question": "¿Qué zona cubren para el servicio in situ?",
+          "answer": "Proporcionamos servicio in situ en Székesfehérvár y un radio de 30 km. Para zonas más lejanas, trabajamos por acuerdo especial o servicio postal."
+        },
+        {
+          "question": "¿Cómo debo embalar el dispositivo para el envío?",
+          "answer": "Enviamos instrucciones de embalaje detalladas por email. Importante: use papel burbuja, una caja sólida, y marque 'Frágil'. El embalaje original es lo mejor si está disponible."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "¿Tiene problemas con su dispositivo?",
+      "description": "¡Llámenos o envíe un mensaje, y lo repararemos pronto! Diagnóstico rápido, precios transparentes, reparaciones fiables.",
+      "button": "Informar Problema Ahora"
+    }
+  },
+  "onsitePresence": {
+    "badge": "Soporte TI Eventos",
+    "title": "Presencia TI In Situ para Eventos",
+    "subtitle": "Especialista TI Profesional en el Lugar",
+    "description": "Asegure la estabilidad técnica de su evento profesional, conferencia o reunión corporativa con soporte TI dedicado in situ.",
+    "cards": {
+      "onsite": {
+        "title": "Especialista TI In Situ",
+        "description": "Pro de TI dedicado acompañando su evento de principio a fin."
+      },
+      "stability": {
+        "title": "Estabilidad Técnica",
+        "description": "Monitorización proactiva e intervención inmediata."
+      },
+      "equipment": {
+        "title": "Gestión de Equipos",
+        "description": "Instalación y supervisión de portátiles, redes y equipo de streaming."
+      }
+    },
+    "cta": {
+      "main": "Obtener Presupuesto",
+      "learnMore": "Saber Más"
+    }
+  },
+  "onsitePresencePage": {
+    "breadcrumb": {
+      "home": "Inicio",
+      "onsitePresence": "Presencia TI In Situ"
+    },
+    "hero": {
+      "title": "Presencia TI In Situ para Eventos",
+      "subtitle": "Soporte TI Profesional En el Lugar para Conferencias y Eventos",
+      "description": "¿Quiere un evento sin fallos? Con el servicio de Presencia TI In Situ de SIRONIC, obtiene una infraestructura TI garantizada estable y fiable.",
+      "cta": "Solicitar Consulta Gratuita"
+    },
+    "intro": {
+      "title": "¿Por qué traer un especialista TI a su evento?",
+      "content": [
+        "El éxito de un evento profesional a menudo descansa en la estabilidad técnica. Si la tecnología falla, la reputación del evento sufre.",
+        "Con la Presencia TI In Situ de SIRONIC, tiene un especialista TI experimentado asegurando operaciones fluidas."
+      ]
+    },
+    "services": {
+      "title": "¿Qué ofrecemos?",
+      "subtitle": "Soporte Técnico Completo",
+      "items": [
+        {
+          "title": "Prep y Montaje Evento",
+          "description": "Instalación y prueba del equipo antes del evento.",
+          "topics": [
+            "Instalación",
+            "Prueba",
+            "Configuración"
+          ]
+        },
+        {
+          "title": "Red y Wi-Fi",
+          "description": "Asegurar internet estable para todos los participantes.",
+          "topics": [
+            "Planificación Wi-Fi",
+            "Ancho de banda",
+            "Monitorización"
+          ]
+        },
+        {
+          "title": "Soporte Streaming",
+          "description": "Fondo técnico para transmisiones en vivo y eventos híbridos.",
+          "topics": [
+            "OBS",
+            "Cámaras",
+            "Audio"
+          ]
+        }
+      ]
+    },
+    "eventTypes": {
+      "title": "Eventos Soportados",
+      "subtitle": "Cualquier evento donde la TI es crítica",
+      "types": [
+        {
+          "title": "Conferencias",
+          "description": "Reuniones profesionales a gran escala."
+        },
+        {
+          "title": "Eventos Híbridos",
+          "description": "Conectando participantes online y offline."
+        },
+        {
+          "title": "Talleres",
+          "description": "Soporte técnico para sesiones de formación práctica."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "¿Por Qué Nosotros?",
+      "items": [
+        "Profesionales Experimentados",
+        "Solución Inmediata de Problemas",
+        "Disponibilidad Flexible",
+        "Equipo Profesional"
+      ]
+    },
+    "process": {
+      "title": "Proceso",
+      "subtitle": "Cómo trabajamos juntos",
+      "steps": [
+        {
+          "title": "Evaluación",
+          "description": "Discusión de requisitos técnicos."
+        },
+        {
+          "title": "Planificación",
+          "description": "Diseño de infraestructura necesaria."
+        },
+        {
+          "title": "Ejecución",
+          "description": "Montaje y operación in situ."
+        },
+        {
+          "title": "Supervisión",
+          "description": "Presencia continua durante el evento."
+        },
+        {
+          "title": "Cierre",
+          "description": "Desmontaje y evaluación."
+        }
+      ]
+    },
+    "faq": {
+      "title": "FAQ",
+      "items": [
+        {
+          "question": "¿Qué tipos de eventos apoyan?",
+          "answer": "Todo, desde pequeños talleres hasta grandes conferencias."
+        },
+        {
+          "question": "¿Proporcionan el equipo?",
+          "answer": "Sí, ofrecemos servicios de alquiler bajo petición."
+        },
+        {
+          "question": "¿Cuánto cuesta?",
+          "answer": "Basado en presupuesto personalizado según requisitos."
+        },
+        {
+          "question": "¿Viajan a nivel nacional?",
+          "answer": "Sí, aceptamos encargos en toda Hungría."
+        }
+      ]
+    },
+    "pricing": {
+      "title": "Precios",
+      "subtitle": "Basado en Presupuesto Personalizado",
+      "description": "Cada evento es diferente, así que adaptamos nuestros precios a sus necesidades.",
+      "process": "¡Obtenga un presupuesto!",
+      "cta": "Solicitar Presupuesto"
+    },
+    "availabilityNote": "Este servicio está disponible en toda Hungría.",
+    "finalCta": {
+      "title": "¡Asegure el Éxito!",
+      "description": "No deje el lado técnico al azar.",
+      "button": "Obtener un Presupuesto"
+    }
+  }
+}

@@ -1,0 +1,1732 @@
+{
+  "meta": {
+    "siteTitle": "SIRONIC IT Solutions: Soluzioni IT complete per le PMI – Operazioni, Sviluppo, Sicurezza",
+    "siteDescription": "Operazioni IT professionali, sviluppo web (Next.js/TS), creazione reti e sicurezza IT. Supporto dedicato per le PMI. Richiedi una consulenza gratuita!",
+    "companyName": "SIRONIC IT Solutions",
+    "keywords": [
+      "Servizi IT",
+      "gestione sistemi",
+      "configurazione rete",
+      "sicurezza IT",
+      "sviluppo web",
+      "sviluppo CRM",
+      "formazione IT",
+      "formazione cybersicurezza",
+      "competenze digitali",
+      "attrezzature IT",
+      "servizi hosting",
+      "hosting web",
+      "noleggio server",
+      "riparazione computer",
+      "assistenza laptop",
+      "supporto in loco",
+      "sicurezza dati",
+      "manutenzione",
+      "Székesfehérvár",
+      "Ungheria",
+      "Austria",
+      "Slovacchia",
+      "Romania",
+      "Repubblica Ceca"
+    ],
+    "ogImage": "/og/home-it.jpg",
+    "pages": {
+      "services": {
+        "title": "Servizi IT - Amministrazione di Sistema & Sviluppo",
+        "description": "Servizi IT affidabili per le aziende: amministrazione di sistema, configurazione rete, sviluppo web, hosting e riparazioni. Richiedi un preventivo ai nostri esperti!",
+        "keywords": [
+          "Servizi IT",
+          "gestione sistemi",
+          "infrastruttura di rete",
+          "sicurezza IT",
+          "sviluppo web",
+          "hosting",
+          "riparazione",
+          "Székesfehérvár"
+        ],
+        "ogImage": "/og/services-it.jpg"
+      },
+      "about": {
+        "title": "Chi Siamo - SIRONIC IT Solutions: Il Tuo Partner Affidabile",
+        "description": "Conosci SIRONIC IT Solutions! Oltre 5 anni di esperienza, supporto IT proattivo e approccio orientato al cliente per le piccole e medie imprese.",
+        "keywords": [
+          "Azienda informatica",
+          "Székesfehérvár",
+          "partner IT affidabile",
+          "gestione sistemi",
+          "supporto IT"
+        ],
+        "ogImage": "/og/about-it.jpg"
+      },
+      "contact": {
+        "title": "Contattaci - SIRONIC IT Solutions Székesfehérvár",
+        "description": "Hai domande? Contattaci per una consulenza gratuita! Raggiungici via telefono, email o di persona a Székesfehérvár. Siamo qui per aiutarti.",
+        "keywords": [
+          "Contatti IT",
+          "consulenza gratuita",
+          "IT Székesfehérvár",
+          "hello@sironic.hu"
+        ],
+        "ogImage": "/og/contact-it.jpg"
+      },
+      "pricing": {
+        "title": "Prezzi & Pacchetti Servizi IT - SIRONIC IT Solutions",
+        "description": "Scopri i nostri prezzi IT competitivi! Amministrazione di sistema mensile fissa, sviluppo personalizzato e manutenzione senza costi nascosti e con garanzia completa.",
+        "keywords": [
+          "Prezzi IT",
+          "supporto IT mensile",
+          "costo gestione sistemi",
+          "spese IT",
+          "Székesfehérvár"
+        ],
+        "ogImage": "/og/pricing-it.jpg"
+      },
+      "products": {
+        "title": "Software & Prodotti IT Personalizzati - Soluzioni SIRONIC",
+        "description": "Esplora le nostre soluzioni software e prodotti IT! Sistemi CRM, applicazioni web e app mobili progettati per far crescere la tua azienda.",
+        "keywords": [
+          "Prodotti IT",
+          "software personalizzato",
+          "sistema CRM",
+          "applicazione web",
+          "app mobile"
+        ],
+        "ogImage": "/og/products-it.jpg"
+      },
+      "blog": {
+        "title": "Blog IT & Knowledge Base - Consigli per le Aziende",
+        "description": "Leggi le nostre ultime notizie e consigli IT! Suggerimenti utili sulla cybersicurezza, amministrazione di sistema e sviluppo digitale per le aziende.",
+        "keywords": [
+          "Blog IT",
+          "consigli IT",
+          "sicurezza IT",
+          "IT aziendale",
+          "knowledge base"
+        ],
+        "ogImage": "/og/blog-it.jpg"
+      },
+      "networkOptimization": {
+        "title": "Configurazione Rete Aziendale & Wi-Fi - SIRONIC IT Solutions",
+        "description": "Progettazione e implementazione di reti aziendali stabili, veloci e sicure. Sistemi Wi-Fi moderni, ottimizzazione rete e manutenzione completa.",
+        "keywords": [
+          "rete aziendale",
+          "configurazione wifi",
+          "ottimizzazione rete",
+          "wifi enterprise",
+          "MikroTik",
+          "Ubiquiti",
+          "UniFi",
+          "sicurezza di rete",
+          "Székesfehérvár",
+          "Ungheria"
+        ],
+        "ogImage": "/og/network-optimization-it.jpg"
+      },
+      "repairService": {
+        "title": "Riparazione & Assistenza IT - Laptop, PC, Server | SIRONIC",
+        "description": "Riparazioni IT veloci e affidabili a Székesfehérvár. Riparazione professionale di laptop, PC, server e dispositivi NAS in loco o per corrispondenza. Prezzi trasparenti, garanzia.",
+        "keywords": [
+          "riparazione laptop",
+          "riparazione pc",
+          "riparazione computer Székesfehérvár",
+          "riparazione server",
+          "riparazione nas",
+          "recupero dati",
+          "rimozione virus",
+          "riparazione in loco"
+        ],
+        "ogImage": "/og/repair-service-it.jpg"
+      },
+      "onsitePresence": {
+        "title": "Presenza IT In Loco - SIRONIC IT Solutions",
+        "description": "Supervisione IT professionale e supporto tecnico per eventi e conferenze. Specialista dedicato sul posto.",
+        "keywords": [
+          "IT in loco",
+          "IT eventi",
+          "tecnica conferenze",
+          "supervisione IT"
+        ]
+      }
+    }
+  },
+  "nav": {
+    "home": "Home",
+    "services": "Servizi",
+    "products": "Prodotti",
+    "pricing": "Prezzi",
+    "about": "Chi Siamo",
+    "blog": "Blog",
+    "contact": "Contatti",
+    "ctaButton": "Richiedi un Preventivo"
+  },
+  "hero": {
+    "badge": "Nuovo Servizio",
+    "title": "Soluzioni IT che funzionano come il tuo team interno",
+    "subtitle": "Gestione professionale dell'infrastruttura IT, manutenzione rapida e supporto dedicato per le piccole e medie imprese.",
+    "cta": "Consulenza Gratuita",
+    "learnMore": "Scopri di più"
+  },
+  "services": {
+    "title": "I Nostri Servizi",
+    "subtitle": "Soluzioni IT complete per accelerare la crescita della tua azienda",
+    "viewAll": "Vedi Tutti i Servizi",
+    "systemOperation": {
+      "title": "Gestione Sistemi & Manutenzione IT",
+      "description": "Operazioni stabili, sicure e veloci – monitoriamo continuamente i tuoi sistemi per prevenire i problemi. Meno tempi morti, maggiore efficienza."
+    },
+    "networking": {
+      "title": "Progettazione & Sviluppo Reti",
+      "description": "Progettiamo, implementiamo e ottimizziamo l'infrastruttura di rete della tua azienda per garantire una connessione affidabile, veloce e sicura a ogni dispositivo."
+    },
+    "security": {
+      "title": "Sicurezza IT & Protezione Dati",
+      "description": "Proteggi i tuoi dati aziendali! Firewall moderni, backup sicuri, controllo accessi – con noi, la sicurezza non è un optional, è lo standard."
+    },
+    "development": {
+      "title": "Sviluppo Web & Software",
+      "description": "Creiamo siti web professionali e reattivi e soluzioni software personalizzate per far distinguere la tua azienda online."
+    },
+    "commerce": {
+      "title": "Fornitura Attrezzature & Software IT",
+      "description": "Tutto ciò di cui hai bisogno per l'ufficio – computer, monitor, stampanti, server e licenze software, tutto da un'unica fonte fidata."
+    },
+    "hosting": {
+      "title": "Hosting & Soluzioni Cloud",
+      "description": "Hosting stabile, veloce e sicuro per siti web, email e backup dati. Web hosting, server dedicati e storage cloud."
+    },
+    "repair": {
+      "title": "Servizi di Riparazione & Manutenzione",
+      "description": "Riparazione veloce e affidabile di computer, laptop e server, sia in loco che tramite servizio postale. Preventivi trasparenti e tempi rapidi."
+    }
+  },
+  "mindenCegnek": {
+    "badge": "Supporto IT Mensile",
+    "title": "Ogni azienda merita un reparto IT",
+    "subtitle": "Soluzioni IT come se avessi il tuo team interno",
+    "description": "Non hai bisogno di assumere uno specialista IT a tempo pieno per avere sistemi stabili, sicuri e veloci. L'abbonamento mensile SIRONIC funziona come se facessimo parte della tua azienda – ma paghi solo per ciò di cui hai realmente bisogno.",
+    "features": {
+      "costEffective": "Supporto IT conveniente e ottimizzato per l'infrastruttura – flessibile, affidabile e trasparente.",
+      "discount": "Valido fino al 1 febbraio 2026: ogni partner che richiede una consulenza riceve il 10% di sconto sui primi 3 mesi!"
+    },
+    "cta": {
+      "consultation": "Richiedi una Consulenza",
+      "learnMore": "Scopri di più"
+    }
+  },
+  "whyChooseUs": {
+    "title": "Perché Sceglierci?",
+    "reasons": [
+      "Affidabilità: Oltre 5 anni di esperienza nella progettazione e gestione di sistemi IT.",
+      "Approccio proattivo: Pensiamo in anticipo – agiamo prima che i problemi sorgano, non dopo.",
+      "Prezzi trasparenti: Nessun costo nascosto, manutenzione mensile fissa o soluzioni una tantum.",
+      "Comunicazione umana autentica: Niente code infinite di ticket – puoi sempre raggiungerci direttamente.",
+      "Operazioni IT complete: Lavoriamo continuamente per mantenere i tuoi sistemi stabili e veloci – meno tempi morti, maggiore efficienza, infrastruttura sicura.",
+      "Sicurezza IT moderna: Protezione dati e sicurezza di rete con firewall all'avanguardia, soluzioni di backup e gestione accessi – la sicurezza è standard, non opzionale.",
+      "Sviluppo web e presenza digitale: Siti web professionali e reattivi e sistemi personalizzati che aumentano la tua visibilità online e attirano clienti.",
+      "Soluzioni cloud e hosting: Hosting veloce, sicuro e scalabile per i tuoi siti web, email e backup dati – sempre accessibile, sempre stabile."
+    ]
+  },
+  "testimonials": {
+    "title": "Cosa Dicono i Nostri Clienti",
+    "items": [
+      {
+        "quote": "Con il team SIRONIC, dormiamo finalmente sonni tranquilli: i nostri sistemi IT funzionano in modo stabile, veloce e sicuro. Quando sorgono problemi, rispondono immediatamente e spiegano tutto in linguaggio chiaro – niente gergo tecnico. È raro trovare un partner così affidabile nel mondo IT.",
+        "company": "Pervector Ltd."
+      },
+      {
+        "quote": "Avevamo costanti problemi con i computer e la rete, ma da quando abbiamo affidato il nostro IT a SIRONIC, tutto funziona senza intoppi. Aiutano velocemente, indipendentemente dal problema, e troviamo sempre soluzioni con loro. Questo è esattamente il tipo di supporto di cui ogni azienda ha bisogno.",
+        "company": "Bocskai Alba Flexum Ltd."
+      },
+      {
+        "quote": "SIRONIC ha creato per noi un sito web moderno, pulito e mobile-friendly che non solo ha un bell'aspetto, ma aiuta i nostri clienti a trovarci facilmente online. Gestiscono la manutenzione da allora – ogni aggiornamento e modifica avviene rapidamente e con precisione. Abbiamo ricevuto un servizio completo e professionale.",
+        "company": "Bull & U Ltd."
+      },
+      {
+        "quote": "Volevamo un sito web pulito, veloce e moderno – SIRONIC ha consegnato esattamente questo. Team professionale, attenzione ai dettagli, e hanno sempre ottime idee per migliorare il risultato. Il nostro nuovo sito riflette perfettamente l'identità della nostra azienda.",
+        "company": "Regia Dental Ltd."
+      }
+    ]
+  },
+  "workProcess": {
+    "title": "Come Lavoriamo",
+    "steps": [
+      {
+        "step": "1",
+        "title": "Primo Contatto",
+        "description": "Inviaci un messaggio o richiedi una consulenza gratuita."
+      },
+      {
+        "step": "2",
+        "title": "Valutazione IT",
+        "description": "Esaminiamo le tue esigenze e forniamo raccomandazioni esperte."
+      },
+      {
+        "step": "3",
+        "title": "Proposta Personalizzata",
+        "description": "Creiamo una soluzione su misura progettata per la tua azienda."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Domande Frequenti",
+    "items": [
+      {
+        "question": "Quali aziende servite?",
+        "answer": "SIRONIC è specializzata nelle piccole e medie imprese, ma offriamo anche soluzioni per aziende più grandi in base alle esigenze specifiche. Che si tratti di supporto all'amministrazione di sistema, creazione rete o sviluppo web – troviamo la soluzione IT ideale per ogni attività."
+      },
+      {
+        "question": "In cosa SIRONIC è diversa dagli altri fornitori IT?",
+        "answer": "Non siamo solo 'riparatori' – monitoriamo proattivamente i sistemi, preveniamo i problemi e comunichiamo in linguaggio umano. Non lasciamo che l'IT sia un ostacolo, ma piuttosto un vantaggio competitivo."
+      },
+      {
+        "question": "Quanto velocemente reagite a un problema?",
+        "answer": "Generalmente, reagiamo entro 1–4 ore, nei casi urgenti anche immediatamente. Per i nostri partner in abbonamento, forniamo tempi di risposta garantiti."
+      },
+      {
+        "question": "Effettuate visite in loco o solo supporto remoto?",
+        "answer": "Sì, entrambi! Risolviamo la maggior parte degli errori da remoto, ma se necessario, veniamo anche personalmente in loco."
+      },
+      {
+        "question": "Create siti web completamente da zero?",
+        "answer": "Naturalmente. Sviluppiamo siti web unici e reattivi con tecnologie moderne (Next.js, React, Tailwind), e ci assicuriamo che il sito sia veloce, sicuro e ottimizzato per i motori di ricerca."
+      },
+      {
+        "question": "Cos'è CRM Pro e come aiuta la mia azienda?",
+        "answer": "CRM Pro è un sistema di gestione clienti sviluppato su misura che rende trasparenti i processi di vendita, automatizza l'amministrazione e può essere integrato con i sistemi esistenti. Disponibile in una fascia di prezzo accessibile anche alle aziende più piccole."
+      },
+      {
+        "question": "Quali misure di sicurezza applicate?",
+        "answer": "Usiamo firewall moderni, soluzioni di backup dati, crittografia e gestione degli accessi. Progettiamo tutti i nostri sistemi per essere conformi al GDPR, quindi la sicurezza dei dati è predefinita."
+      },
+      {
+        "question": "In che forma possiamo collaborare con voi?",
+        "answer": "Lavoriamo principalmente in due modalità: incarico ad hoc (per compiti occasionali) e contratto di manutenzione mensile (operazione e supporto permanenti). Entrambi sono trasparenti, con prezzi fissi."
+      },
+      {
+        "question": "Quanto costa lo sviluppo di un sito o sistema?",
+        "answer": "I siti web base partono da 250.000 HUF, mentre il prezzo di sistemi unici o soluzioni CRM è determinato in base alle funzionalità. Forniamo un preventivo preciso prima di ogni progetto."
+      },
+      {
+        "question": "Perché vale la pena scegliere soluzioni cloud?",
+        "answer": "Il cloud è veloce, sicuro e flessibile – non c'è bisogno di mantenere il proprio server fisico, i dati sono sempre disponibili, e l'espansione può essere risolta in pochi istanti."
+      }
+    ]
+  },
+  "finalCta": {
+    "title": "Pronto per un IT Senza Pensieri?",
+    "description": "Richiedi una consulenza gratuita e troviamo insieme la soluzione migliore per la tua azienda.",
+    "button": "Richiedi un Preventivo Ora"
+  },
+  "contact": {
+    "title": "Contattaci",
+    "subtitle": "Hai domande o vuoi una consulenza gratuita? Mettiti in contatto con noi, risponderemo prontamente!",
+    "form": {
+      "title": "Invia un Messaggio",
+      "name": "Nome",
+      "email": "Email",
+      "service": "A quale servizio sei interessato?",
+      "servicePlaceholder": "Seleziona un servizio",
+      "message": "Messaggio",
+      "submit": "Invia",
+      "submitting": "Invio in corso...",
+      "required": "*",
+      "success": "Il tuo messaggio è stato inviato con successo! Ti contatteremo a breve.",
+      "error": "Si è verificato un errore durante l'invio del messaggio",
+      "noscript": "Puoi anche inviare il tuo messaggio via email:",
+      "options": {
+        "placeholder": "Seleziona un servizio",
+        "mindenCegnek": "Ogni azienda dovrebbe avere uno specialista IT",
+        "systemOperation": "Gestione sistemi e manutenzione IT",
+        "networking": "Creazione e sviluppo reti",
+        "security": "Sicurezza IT e protezione dati",
+        "development": "Sviluppo siti web e sistemi",
+        "commerce": "Commercio – Dispositivi IT e software",
+        "hosting": "Hosting e soluzioni cloud",
+        "repair": "Assistenza e riparazione",
+        "training": "Formazione IT e sviluppo conoscenze"
+      },
+      "errors": {
+        "general": "Si è verificato un errore di rete. Riprova più tardi."
+      }
+    },
+    "info": {
+      "title": "Contatti",
+      "email": "Email",
+      "phone": "Telefono",
+      "location": "Indirizzo",
+      "hours": "Orari di Apertura",
+      "hoursValue": "Lunedì – Venerdì\n8:00 – 17:00",
+      "quickResponse": "Risposta Rapida",
+      "quickResponseText": "Rispondiamo tipicamente a tutte le richieste entro 24 ore nei giorni lavorativi. Per questioni urgenti, chiamaci!"
+    }
+  },
+  "footer": {
+    "companyName": "SIRONIC IT Solutions",
+    "tagline": "Soluzioni IT complete per piccole e medie imprese",
+    "legalName": "Skoda Dávid András Ditta Individuale",
+    "address": "8000 Székesfehérvár, Lövölde utca 24 4/15",
+    "taxNumber": "P.IVA: 45755754-2-27",
+    "links": "Link Rapidi",
+    "hours": "Orari di Apertura",
+    "hoursValue": "Lunedì – Venerdì\n8:00 – 17:00",
+    "cookieSettings": "Impostazioni Cookie",
+    "copyright": "© {year} SIRONIC IT Solutions. Tutti i diritti riservati."
+  },
+  "common": {
+    "readMore": "Leggi di più",
+    "learnMore": "Scopri di più",
+    "getQuote": "Richiedi Preventivo",
+    "contactUs": "Contattaci",
+    "loading": "Caricamento...",
+    "whatYouGet": "Cosa ottieni:"
+  },
+  "servicesPage": {
+    "title": "I Nostri Servizi",
+    "subtitle": "Soluzioni IT complete per mantenere la tua azienda sicura ed efficiente. Dalla manutenzione a canone fisso allo sviluppo personalizzato – tutto in un unico posto.",
+    "cta": {
+      "title": "Interessato a uno dei nostri servizi?",
+      "subtitle": "Richiedi una consulenza gratuita e troviamo insieme la soluzione migliore per la tua azienda.",
+      "requestQuote": "Richiedi un Preventivo Ora",
+      "reportService": "Segnala Problema Tecnico"
+    },
+    "details": {
+      "systemOperation": {
+        "features": [
+          "Monitoraggio e manutenzione proattiva",
+          "Risoluzione problemi rapida",
+          "Aggiornamenti di sicurezza regolari",
+          "Ottimizzazione delle prestazioni"
+        ]
+      },
+      "networking": {
+        "features": [
+          "Progettazione e implementazione rete",
+          "Ottimizzazione rete WiFi",
+          "VPN e accesso remoto",
+          "Sicurezza di rete"
+        ]
+      },
+      "security": {
+        "features": [
+          "Configurazione e gestione firewall",
+          "Backup automatici",
+          "Conformità protezione dati (GDPR)",
+          "Protezione virus e malware"
+        ]
+      },
+      "development": {
+        "features": [
+          "Siti web moderni e reattivi",
+          "Soluzioni e-commerce",
+          "Sviluppo software personalizzato",
+          "Ottimizzazione SEO"
+        ]
+      },
+      "commerce": {
+        "description": "Puoi ottenere tutto il necessario per le operazioni d'ufficio da noi – computer, monitor, stampanti, server, dispositivi di rete e licenze software. Lavoriamo con marchi affidabili e ti aiutiamo a scegliere il miglior rapporto qualità-prezzo. Che tu abbia bisogno di nuove attrezzature o aggiornamenti, ci pensiamo noi.",
+        "features": [
+          "Computer, laptop e server",
+          "Dispositivi di rete e periferiche",
+          "Acquisto licenze software",
+          "Consulenza selezione attrezzature"
+        ]
+      },
+      "hosting": {
+        "description": "Offriamo soluzioni di hosting stabili, veloci e sicure per siti web, email e backup dati. Garantiamo che i tuoi dati siano sempre accessibili e protetti attraverso il nostro parco server o partner internazionali affidabili.",
+        "features": [
+          "Web hosting e registrazione domini",
+          "Hosting email",
+          "Backup cloud e file sharing",
+          "Noleggio e gestione server"
+        ]
+      },
+      "repair": {
+        "title": "Assistenza e Riparazione – In loco o via Posta",
+        "description": "Riparazione veloce e affidabile di computer, laptop, server e dispositivi di rete. Servizio in loco a Székesfehérvár e dintorni, o servizio postale. Iniziamo ogni riparazione con la diagnostica, e procediamo solo dopo la tua approvazione del preventivo. Il nostro obiettivo è rimettere in funzione il tuo sistema il prima possibile.",
+        "features": [
+          "Servizio in loco (Székesfehérvár e dintorni)",
+          "Opzione via posta",
+          "Preventivo trasparente prima della riparazione",
+          "Tempi di riparazione rapidi"
+        ]
+      },
+      "training": {
+        "title": "Formazione IT e Sviluppo Conoscenze",
+        "description": "Sviluppa le competenze digitali del tuo team! Offriamo formazione IT personalizzata, sensibilizzazione alla sicurezza e sviluppo conoscenze di sistema affinché i dipendenti possano usare dispositivi e software moderni con sicurezza. La sicurezza operativa inizia dall'informazione.",
+        "features": [
+          "Formazione IT personalizzata",
+          "Sensibilizzazione alla sicurezza",
+          "Formazione uso software e dispositivi",
+          "Programmi di sviluppo competenze aziendali"
+        ]
+      }
+    }
+  },
+  "productsPage": {
+    "breadcrumb": {
+      "home": "Home",
+      "products": "Prodotti"
+    },
+    "title": "I Nostri Prodotti – Tecnologia Sironic in Soluzioni Reali",
+    "subtitle": "I nostri sviluppi interni sono nati da bisogni reali – questi sistemi ora supportano le operazioni di diverse aziende. Scopri come possono aiutare anche la tua.",
+    "noProducts": "Attualmente non ci sono prodotti da visualizzare. La nostra selezione si amplierà presto!",
+    "cta": {
+      "title": "Interessato a uno dei nostri prodotti?",
+      "subtitle": "Contattaci, e ti mostreremo come i nostri sistemi possono integrarsi nelle tue operazioni aziendali. Tutti i nostri prodotti sono stati sviluppati sulla base di reali esigenze di business.",
+      "consultation": "Richiedi Consulenza",
+      "services": "I Nostri Servizi"
+    },
+    "whyChoose": {
+      "title": "Perché scegliere i prodotti Sironic?",
+      "reasons": [
+        {
+          "title": "Soluzioni per Problemi Reali",
+          "description": "Tutti i nostri prodotti sono testati nella pratica e provati in aziende operative."
+        },
+        {
+          "title": "Supporto in Lingua Locale",
+          "description": "Puoi raggiungerci direttamente, senza barriere linguistiche o sistemi di risposta automatizzati."
+        },
+        {
+          "title": "Sviluppo Continuo",
+          "description": "Ampliamo e miglioriamo regolarmente le funzionalità dei nostri prodotti basandoci sul feedback dei clienti."
+        },
+        {
+          "title": "Opzioni di Personalizzazione",
+          "description": "Possiamo personalizzare i nostri prodotti secondo le tue esigenze e integrarli nei tuoi sistemi esistenti."
+        }
+      ]
+    }
+  },
+  "aboutPage": {
+    "title": "Chi Siamo",
+    "intro": [
+      "SIRONIC IT Solutions è nata durante il periodo COVID, quando ogni azienda ha dovuto ripensare le proprie operazioni IT. Da allora, ci siamo evoluti continuamente per stare al passo con i rapidi cambiamenti nel mondo IT – perché crediamo che la tecnologia possa essere un vantaggio, non un peso, per ogni azienda.",
+      "Il nostro obiettivo è che le piccole e medie imprese non debbano lottare con problemi IT. Non ci limitiamo a manutenere i sistemi – forniamo stabilità, sicurezza e tranquillità operativa.",
+      "Che si tratti di gestione sistemi, creazione reti, sicurezza dati o sviluppo web, con noi, ogni soluzione IT è in un'unica mano – veloce, trasparente e in linguaggio umano."
+    ],
+    "stats": [
+      {
+        "value": "5+",
+        "label": "Anni di Esperienza"
+      },
+      {
+        "value": "100+",
+        "label": "Clienti Soddisfatti"
+      },
+      {
+        "value": "24/7",
+        "label": "Disponibilità"
+      },
+      {
+        "value": "99.9%",
+        "label": "Uptime"
+      }
+    ],
+    "mission": {
+      "title": "La Missione di SIRONIC",
+      "paragraphs": [
+        "Sappiamo che per una PMI, l'IT non dovrebbe essere un ostacolo – deve solo funzionare, ogni giorno, senza intoppi. Un fermo macchina, una rete lenta o un'impostazione di sicurezza obsoleta possono causare gravi perdite oggi.",
+        "Ecco perché abbiamo creato SIRONIC IT Solutions: per rendere disponibile un background IT professionale ma accessibile a ogni azienda. Non hai bisogno di assumere il tuo amministratore di sistema, non hai bisogno di costruire infrastrutture complesse o costose – ci occupiamo di tutto noi.",
+        "I nostri servizi coprono l'intera operatività IT: gestione sistemi, creazione reti, backup dati, sicurezza IT, gestione firewall, sviluppo web e formazione IT. Ci adattiamo sempre alle tecnologie attuali, così i nostri clienti possono essere certi che i loro sistemi aziendali siano aggiornati e sicuri.",
+        "SIRONIC fornisce non solo IT – ma tranquillità, prevedibilità e supporto. Siamo quelli che puoi raggiungere in qualsiasi momento se c'è un problema – e spesso lo risolviamo prima ancora che tu te ne accorga.",
+        "Trattiamo ogni cliente come un partner, non solo mantenendo i loro sistemi, ma prendendoci cura delle loro operazioni a lungo termine."
+      ]
+    },
+    "values": {
+      "title": "Perché Lavorare Con Noi?",
+      "items": [
+        {
+          "title": "Attitudine Proattiva",
+          "description": "Non agiamo solo quando c'è un problema. Monitoriamo continuamente i tuoi sistemi per prevenirli."
+        },
+        {
+          "title": "Comunicazione Umana",
+          "description": "Niente 'giungla di ticket' qui. Parli con persone vere che capiscono il tuo problema e aiutano velocemente."
+        },
+        {
+          "title": "Trasparenza",
+          "description": "Manutenzione mensile fissa o soluzioni una tantum – nessun costo nascosto, sai sempre cosa aspettarti."
+        }
+      ]
+    },
+    "howWeWork": {
+      "title": "Come Lavoriamo?",
+      "steps": [
+        "Ascoltiamo le tue esigenze e valutiamo il tuo attuale sistema IT",
+        "Forniamo una raccomandazione per la migliore soluzione per te",
+        "Configuriamo, ottimizziamo e monitoriamo il tuo sistema",
+        "Forniamo supporto continuo ogni volta che hai bisogno di noi"
+      ]
+    },
+    "finalCta": {
+      "title": "Diventa Uno dei Nostri Partner!",
+      "subtitle": "Richiedi una consulenza gratuita, e troviamo insieme la migliore soluzione IT per la tua azienda.",
+      "button": "Mettiamoci in Contatto"
+    }
+  },
+  "pricingPage": {
+    "title": "Prezzi",
+    "subtitle": "Creiamo offerte personalizzate basate sulle tue esigenze aziendali. Non esistono due aziende uguali – quindi adattiamo sempre le nostre tariffe alla tua infrastruttura e requisiti.",
+    "heroTitle": "Prezzi Trasparenti – Chiari e Semplici",
+    "heroDescription": "Nessun costo nascosto. Abbiamo progettato i nostri servizi affinché ogni azienda possa trovare la soluzione giusta – che sia manutenzione, sviluppo o riparazione.",
+    "packages": {
+      "mindenCegnek": {
+        "title": "Ogni azienda merita un reparto IT",
+        "price": "da 150 €/mese",
+        "description": "Operatività IT completa in abbonamento mensile – come avere il tuo specialista IT.",
+        "features": [
+          "Monitoraggio e manutenzione continua del sistema",
+          "Intervento rapido in caso di errore",
+          "Consulenza sviluppo infrastruttura",
+          "Gestione backup e aggiornamenti",
+          "Supporto IT personale"
+        ],
+        "badge": "🎁 Valido fino al 1 feb 2026: 10% di sconto sui primi 3 mesi per richieste di consulenza!",
+        "ctaText": "Richiedi Consulenza"
+      },
+      "systemOperation": {
+        "title": "Operazioni di Sistema & Manutenzione IT",
+        "price": "da 120 €/mese",
+        "description": "Supervisione continua e funzionamento ininterrotto.",
+        "features": [
+          "Manutenzione e monitoraggio regolari",
+          "Risoluzione problemi rapida e ripristino",
+          "Supervisione server e rete",
+          "Operatività proattiva e aggiornamenti sicurezza"
+        ],
+        "ctaText": "Richiedi Preventivo"
+      },
+      "networking": {
+        "title": "Creazione & Sviluppo Reti",
+        "price": "da 180 € / progetto",
+        "description": "Progettazione e implementazione infrastruttura di rete affidabile e sicura.",
+        "features": [
+          "Progettazione e installazione rete completa",
+          "Configurazione router, switch, Wi-Fi",
+          "Ottimizzazione rete e manutenzione",
+          "Connessione dati veloce, stabile e sicura"
+        ],
+        "ctaText": "Richiedi Preventivo"
+      },
+      "security": {
+        "title": "Sicurezza IT & Protezione Dati",
+        "price": "da 240 €",
+        "description": "Proteggi i tuoi dati aziendali con soluzioni moderne.",
+        "features": [
+          "Configurazione firewall e sicurezza rete",
+          "Backup e ripristino",
+          "Gestione accessi, crittografia",
+          "Protezione dati conforme GDPR"
+        ],
+        "ctaText": "Richiedi Preventivo"
+      },
+      "development": {
+        "title": "Sviluppo Web & Sistemi",
+        "price": "da 1.000 € (una tantum)",
+        "description": "Sviluppi professionali su misura per la crescita digitale della tua azienda.",
+        "features": [
+          "Siti web e portali reattivi",
+          "Soluzioni software personalizzate",
+          "Ottimizzazione SEO e UX",
+          "Supporto e manutenzione continui"
+        ],
+        "ctaText": "Richiedi Preventivo"
+      },
+      "commerce": {
+        "title": "Commercio – Attrezzature IT & Software",
+        "price": "Su preventivo personalizzato",
+        "description": "Tutto il necessario per operazioni d'ufficio moderne.",
+        "features": [
+          "Computer, monitor, server",
+          "Stampanti e dispositivi di rete",
+          "Licenze software e abbonamenti",
+          "Infrastruttura ufficio completa"
+        ],
+        "ctaText": "Richiedi Preventivo"
+      },
+      "hosting": {
+        "title": "Hosting & Soluzioni Cloud",
+        "price": "da 15 €/mese",
+        "description": "Hosting veloce, sicuro e scalabile per le aziende.",
+        "features": [
+          "Hosting web ed email",
+          "Backup cloud",
+          "Servizio cloud privato",
+          "Disponibilità continua (99.9%)"
+        ],
+        "ctaText": "Richiedi Preventivo"
+      },
+      "crm": {
+        "title": "Sviluppo CRM Personalizzato",
+        "price": "da 1.500 €",
+        "description": "Sistema di gestione clienti personalizzato che aumenta l'efficienza delle vendite.",
+        "features": [
+          "Struttura modulare, funzioni personalizzabili",
+          "Integrazione con sistemi esistenti (ERP, email, sito web)",
+          "Report e analisi automatizzati",
+          "Interfaccia user-friendly"
+        ],
+        "ctaText": "Richiedi Preventivo"
+      }
+    },
+    "customQuote": {
+      "title": "Hai esigenze uniche?",
+      "description": "I prezzi sono indicativi; i preventivi esatti sono sempre basati sui requisiti.\nRichiedi una consulenza gratuita, e ti aiuteremo a trovare la soluzione migliore.",
+      "button": "Richiedi Consulenza IT Gratuita"
+    },
+    "whyChoose": {
+      "title": "Perché Scegliere SIRONIC?",
+      "description": "Se nessun pacchetto si adatta perfettamente, creeremo un'offerta su misura. Non esistono due aziende uguali – e nemmeno due soluzioni.",
+      "reasons": [
+        {
+          "title": "Prezzi Trasparenti",
+          "description": "Nessun costo nascosto"
+        },
+        {
+          "title": "Pacchetti Flessibili",
+          "description": "Soluzioni mensili e una tantum"
+        },
+        {
+          "title": "Risposta Rapida",
+          "description": "Aiutiamo immediatamente se necessario"
+        },
+        {
+          "title": "Supporto a Lungo Termine",
+          "description": "Trattiamo i clienti come partner"
+        }
+      ],
+      "button": "Richiedi Preventivo Personalizzato"
+    }
+  },
+  "mindenCegnekPage": {
+    "hero": {
+      "badge": "Supporto IT Mensile",
+      "title": "Ogni azienda merita un reparto IT",
+      "subtitle": "Come avere il tuo specialista IT",
+      "description": "Un servizio dove non hai bisogno di assumere uno specialista IT – invece, ottieni un team completo che mantiene tutto aggiornato in background, monitora, fa manutenzione e interviene solo quando necessario.",
+      "cta": "Richiedi Consulenza",
+      "discount": "Valido fino al 1 feb 2026: 10% di sconto sui primi 3 mesi per richieste di consulenza!",
+      "scroll": "Scorri giù per info"
+    },
+    "whatYouGet": {
+      "title": "Cosa ottieni esattamente?",
+      "subtitle": "Una soluzione IT completa che lavora per te ogni giorno – invisibilmente ma efficacemente.",
+      "features": {
+        "internet": {
+          "title": "Accesso internet continuo e funzionamento stabile",
+          "description": "Garantiamo che la rete della tua azienda sia sempre disponibile, stabile e sicura – inosservata, in background."
+        },
+        "platform": {
+          "title": "Piattaforma unica per la segnalazione errori",
+          "description": "Ottieni la tua interfaccia dove puoi facilmente segnalare problemi o richieste – rispondiamo immediatamente."
+        },
+        "monitoring": {
+          "title": "Monitoraggio e risoluzione problemi continui",
+          "description": "Monitoriamo server, rete e sistemi per gestire gli errori prima ancora che tu te ne accorga."
+        },
+        "cost": {
+          "title": "Struttura di prezzi conveniente e trasparente",
+          "description": "Oltre al canone fisso mensile, paghi solo per ciò che richiede realmente attenzione – basato su un listino prezzi concordato."
+        },
+        "reporting": {
+          "title": "Sistemi aggiornati, report mensile",
+          "description": "Aggiorniamo e manteniamo continuamente i sistemi, e inviamo un report alla fine di ogni mese sulle prestazioni e lo stato del sistema."
+        }
+      }
+    },
+    "benefits": {
+      "title": "Perché è buono per te?",
+      "subtitle": "Supporto IT conveniente, trasparente e affidabile – senza mantenere il tuo reparto IT.",
+      "items": [
+        "Nessun bisogno di assumere personale IT proprio – ma qualcuno controlla i tuoi sistemi",
+        "Canone mensile fisso, costi prevedibili",
+        "Tempo di risposta rapido in caso di problemi",
+        "Manutenzione proattiva e monitoraggio",
+        "Supporto personale",
+        "Report mensili sullo stato del sistema",
+        "Soluzione scalabile – man mano che la tua azienda cresce, anche noi ci espandiamo",
+        "Nessuna fattura a sorpresa – tutto pre-concordato"
+      ]
+    },
+    "pricing": {
+      "title": "Come funzionano i prezzi?",
+      "subtitle": "Struttura semplice e trasparente – canone fisso mensile più tariffa oraria concordata se necessario.",
+      "fixed": {
+        "title": "Canone mensile fisso",
+        "price": "da 150 €/mese",
+        "description": "Include monitoraggio, manutenzione base, reportistica e supporto."
+      },
+      "hourly": {
+        "title": "Più costo manodopera",
+        "price": "Tariffa oraria concordata",
+        "description": "Paghi solo se è necessario un intervento reale o sviluppo."
+      },
+      "note": "Il prezzo dipende dalla durata del contratto e dai tipi di attività. Richiedi un preventivo personalizzato!"
+    },
+    "finalCta": {
+      "title": "Non hai bisogno del tuo specialista IT, solo di un partner affidabile",
+      "description": "Forniamo l'esperienza, la risposta rapida e il funzionamento stabile – puoi concentrarti sulla tua azienda.",
+      "button": "Richiedi Preventivo"
+    }
+  },
+  "customDevelopment": {
+    "badge": "Sviluppo Software Personalizzato",
+    "title": "Sviluppo Applicazioni Personalizzate per la Tua Azienda",
+    "subtitle": "Software scalabile, sicuro e focalizzato sul business",
+    "description": "Il team SIRONIC offre uno sviluppo completo di applicazioni personalizzate per la tua azienda. Dalle applicazioni web e software desktop Windows alle app mobili – tutte soluzioni adattate alle tue esigenze aziendali con tecnologie moderne.",
+    "cards": {
+      "webApps": {
+        "title": "Sviluppo Applicazioni Web Personalizzate",
+        "description": "Applicazioni web aziendali basate su TailScript e React. Soluzioni scalabili, veloci e user-friendly per processi aziendali complessi."
+      },
+      "desktop": {
+        "title": "Software Desktop Windows",
+        "description": "Sviluppo applicazioni native Windows con tecnologie moderne. Software efficienti, veloci e affidabili per ambienti d'ufficio."
+      },
+      "mobile": {
+        "title": "Sviluppo App Mobili",
+        "description": "Sviluppo applicazioni Android e iOS. Soluzioni mobili moderne e intuitive che funzionano perfettamente su ogni dispositivo."
+      }
+    },
+    "cta": {
+      "main": "Richiedi Preventivo Sviluppo",
+      "learnMore": "Scopri di Più"
+    }
+  },
+  "customDevelopmentPage": {
+    "breadcrumb": {
+      "home": "Home",
+      "customDevelopment": "Sviluppo Applicazioni Personalizzate"
+    },
+    "hero": {
+      "title": "Sviluppo Applicazioni Personalizzate",
+      "subtitle": "Soluzioni software moderne, scalabili e business-focused su misura per le tue esigenze",
+      "description": "Più che la semplice creazione di siti web – sviluppiamo applicazioni complesse che creano valore reale per la tua azienda. Da applicazioni web basate su TailScript e React a software nativi Windows e app mobili Android/iOS.",
+      "cta": "Richiedi Consulenza Gratuita",
+      "scrollDown": "Scorri per dettagli"
+    },
+    "what": {
+      "title": "Cosa Sviluppiamo?",
+      "subtitle": "Soluzioni software personalizzate complete con tecnologie all'avanguardia",
+      "items": [
+        {
+          "title": "Applicazioni Web basate su TailScript",
+          "description": "Sistemi web veloci, moderni ed efficienti con tecnologia TailScript. Soluzioni scalabili per processi aziendali complessi che funzionano fluidamente in ogni browser."
+        },
+        {
+          "title": "Applicazioni Enterprise React",
+          "description": "Applicazioni web di livello enterprise con React e Next.js. Interfaccia utente intuitiva, caricamento veloce, struttura ottimizzata SEO – tutto il necessario per applicazioni aziendali moderne."
+        },
+        {
+          "title": "Software Desktop Windows",
+          "description": "Sviluppo applicazioni native Windows con .NET e tecnologie C# moderne. Soluzioni desktop veloci e affidabili che si integrano perfettamente negli ambienti aziendali."
+        },
+        {
+          "title": "Sviluppo App Mobili – Android + iOS",
+          "description": "Applicazioni mobili native e cross-platform con React Native e Flutter. Un'unica codebase, due piattaforme – sviluppo rapido, eccellente esperienza utente su entrambi i sistemi operativi."
+        }
+      ]
+    },
+    "whyChoose": {
+      "title": "Perché scegliere SIRONIC per lo sviluppo personalizzato?",
+      "subtitle": "Non ci limitiamo a programmare – siamo partner nel raggiungimento dei tuoi obiettivi aziendali",
+      "reasons": [
+        {
+          "title": "Reale Comprensione del Business",
+          "description": "Non siamo solo programmatori – capiamo i processi aziendali. Ogni sviluppo è adattato alle tue esigenze per creare valore reale."
+        },
+        {
+          "title": "Tecnologie Moderne",
+          "description": "React, Next.js, TailScript, .NET, React Native – lavoriamo con gli strumenti più avanzati che sono veloci, sicuri e a prova di futuro."
+        },
+        {
+          "title": "Partnership a Lungo Termine",
+          "description": "Non ci fermiamo allo sviluppo. Forniamo supporto continuo, manutenzione e sviluppo ulteriore – il software tiene sempre il passo con le tue esigenze."
+        },
+        {
+          "title": "Comunicazione Trasparente",
+          "description": "Comunicazione diretta, niente barriere linguistiche o malintesi – sai sempre a che punto è il progetto."
+        },
+        {
+          "title": "Sicurezza e Affidabilità",
+          "description": "Tutte le nostre applicazioni sono costruite con gestione sicura dei dati, struttura conforme al GDPR e funzionamento stabile."
+        },
+        {
+          "title": "Scalabilità",
+          "description": "Progettiamo i nostri sistemi per crescere con la tua azienda – non c'è bisogno di riscrivere tutto quando ti espandi."
+        }
+      ]
+    },
+    "technologies": {
+      "title": "Quali Tecnologie Usiamo?",
+      "subtitle": "Gli strumenti più moderni e affidabili sul mercato",
+      "list": [
+        "React & Next.js – applicazioni web moderne, SEO-friendly",
+        "TailScript – sistemi web veloci e scalabili",
+        "TypeScript – codice type-safe, senza errori",
+        "Node.js & Express – soluzioni backend robuste",
+        ".NET & C# – software nativi Windows",
+        "React Native & Flutter – applicazioni mobili cross-platform",
+        "Tailwind CSS – design moderno e reattivo",
+        "PostgreSQL, MySQL – gestione database affidabile",
+        "Docker & Cloud – infrastruttura scalabile e sicura"
+      ]
+    },
+    "process": {
+      "title": "Come Lavoriamo?",
+      "subtitle": "Processo di sviluppo trasparente e strutturato – passo dopo passo",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Analisi Requisiti e Consulenza",
+          "description": "Conosciamo i tuoi obiettivi aziendali, aspettative e sistemi attuali. Chiariamo esattamente cosa vuoi ottenere con il software."
+        },
+        {
+          "number": "2",
+          "title": "Design UX/UI e Struttura",
+          "description": "Progettiamo l'esperienza utente e l'interfaccia. Wireframe, design e piani di interazione – per sapere esattamente cosa stiamo costruendo."
+        },
+        {
+          "number": "3",
+          "title": "Sviluppo e Coordinamento Continuo",
+          "description": "La programmazione vera e propria. Comunichiamo continuamente, mostriamo i progressi e rispondiamo alle tue esigenze – nessuna sorpresa alla consegna."
+        },
+        {
+          "number": "4",
+          "title": "Test e Controllo Qualità",
+          "description": "Test approfonditi su ogni dispositivo e browser. Test di performance, sicurezza e funzionalità – per garantire che tutto funzioni perfettamente."
+        },
+        {
+          "number": "5",
+          "title": "Lancio e Formazione",
+          "description": "Deployment del software e formazione utenti. Ottieni tutta la documentazione e il supporto per un funzionamento fluido."
+        },
+        {
+          "number": "6",
+          "title": "Manutenzione e Sviluppo Futuro",
+          "description": "Supporto continuo, correzione bug e sviluppi futuri. Il software rimane sempre aggiornato e al passo con le tue esigenze."
+        }
+      ]
+    },
+    "useCases": {
+      "title": "A cosa serve un'applicazione personalizzata?",
+      "subtitle": "Problemi aziendali reali che risolviamo con software su misura",
+      "examples": [
+        "Sistemi CRM e gestione clienti – tieni i tuoi clienti sotto controllo",
+        "Software inventario e logistica – gestione magazzino automatizzata",
+        "Portali aziendali interni – tutti i dati in un unico posto",
+        "E-commerce e sviluppo negozi online – canali di vendita online",
+        "Strumenti di project management – lavoro di squadra e tracciamento attività",
+        "Report automatizzati e amministrazione – risparmia tempo",
+        "Integrazione con sistemi esistenti – connessione ERP, fatturazione, CRM",
+        "Applicazioni mobili – nelle mani di clienti e dipendenti"
+      ]
+    },
+    "pricing": {
+      "title": "Quanto costa un'applicazione personalizzata?",
+      "subtitle": "Ogni progetto è unico – il prezzo è sempre basato sui requisiti",
+      "description": "Il prezzo dello sviluppo di applicazioni personalizzate dipende dalla complessità del progetto, dalle funzionalità e dal tempo richiesto. Le piccole applicazioni partono da 2.000 €, sistemi enterprise più grandi possono costare decine di migliaia – ma prepariamo sempre un preventivo personalizzato.",
+      "process": "In una consulenza gratuita, valutiamo le tue esigenze, discutiamo le possibilità e forniamo un preventivo fisso e trasparente per l'intero progetto.",
+      "cta": "Richiedi Preventivo Gratuito"
+    },
+    "faq": {
+      "title": "Domande Frequenti",
+      "items": [
+        {
+          "question": "Quanto tempo richiede lo sviluppo di un'app personalizzata?",
+          "answer": "Dipende dalla dimensione del progetto – un'applicazione web semplice richiede 4-8 settimane, mentre un sistema enterprise complesso può richiedere 3-6 mesi. Concordiamo sempre le scadenze nel preventivo."
+        },
+        {
+          "question": "Potete integrare con sistemi esistenti?",
+          "answer": "Sì! Integriamo regolarmente con ERP, CRM, sistemi di fatturazione e altre API esterne. Questo è uno dei maggiori vantaggi dello sviluppo personalizzato."
+        },
+        {
+          "question": "Chi possiede il codice sorgente?",
+          "answer": "Dopo il progetto, il codice sorgente diventa di tua completa proprietà – nessun costo di licenza nascosto o dipendenza."
+        },
+        {
+          "question": "E per la manutenzione e sviluppo futuro?",
+          "answer": "Forniamo supporto dopo la consegna: correzione bug, aggiornamenti, sviluppo ulteriore – con soluzioni opzionali mensili o una tantum."
+        },
+        {
+          "question": "Che garanzia abbiamo sull'applicazione?",
+          "answer": "C'è una garanzia di 6 mesi sui bug dopo la consegna – risolviamo tutti i problemi funzionali gratuitamente durante questo periodo."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Pronto per una Soluzione Software Personalizzata?",
+      "description": "Discutiamo le tue esigenze e creiamo insieme un'applicazione che aumenti davvero l'efficienza della tua azienda.",
+      "button": "Richiedi Consulenza Gratuita"
+    }
+  },
+  "itTraining": {
+    "badge": "Formazione & Educazione IT",
+    "title": "Educazione IT & Sviluppo Conoscenze Aziendali",
+    "subtitle": "Sviluppa le Competenze Digitali del Tuo Team",
+    "description": "Offriamo formazione IT personalizzata, workshop di sensibilizzazione alla sicurezza e sviluppo conoscenze di sistema per garantire che i tuoi dipendenti usino strumenti moderni e software con sicurezza. Le operazioni sicure iniziano dall'informazione.",
+    "cards": {
+      "personalized": {
+        "title": "Formazione IT Personalizzata",
+        "description": "Programmi di formazione su misura per migliorare la competenza digitale del tuo team. Conoscenze pratiche immediatamente applicabili alle attività quotidiane."
+      },
+      "security": {
+        "title": "Formazione Sensibilizzazione Sicurezza",
+        "description": "Fondamenti di cybersicurezza e workshop sulla protezione dati. Insegna al tuo team come proteggere efficacemente i dati e i sistemi aziendali."
+      },
+      "software": {
+        "title": "Formazione Uso Software & Dispositivi",
+        "description": "Uso efficiente di Microsoft 365, Google Workspace e strumenti d'ufficio. Aumenta la produttività padroneggiando gli strumenti giusti."
+      },
+      "corporate": {
+        "title": "Programmi di Sviluppo Conoscenze",
+        "description": "Sviluppo competenze digitali a lungo termine. Programmi di educazione continua che tengono il passo con i progressi tecnologici."
+      }
+    },
+    "languageNote": "Le sessioni di formazione sono attualmente disponibili solo in ungherese, sia online che in loco.",
+    "cta": {
+      "main": "Richiedi Preventivo Formazione",
+      "learnMore": "Scopri di Più"
+    }
+  },
+  "itTrainingPage": {
+    "meta": {
+      "title": "Educazione IT & Formazione Aziendale | SIRONIC",
+      "description": "Formazione IT pratica per aziende: sensibilizzazione sicurezza, uso software e sviluppo competenze digitali. Aggiorna le competenze del tuo team!",
+      "keywords": [
+        "Formazione IT",
+        "formazione aziendale",
+        "sensibilizzazione sicurezza",
+        "competenza digitale",
+        "corso Excel",
+        "workshop IT"
+      ],
+      "ogTitle": "Educazione IT & Formazione Aziendale - SIRONIC",
+      "ogDescription": "Formazione IT pratica per aziende. Aggiorna le competenze digitali del tuo team con noi!"
+    },
+    "breadcrumb": {
+      "home": "Home",
+      "training": "Formazione IT"
+    },
+    "hero": {
+      "title": "Educazione IT & Sviluppo Conoscenze Aziendali",
+      "subtitle": "Sviluppa le competenze digitali del tuo team con formazione professionale",
+      "description": "SIRONIC non gestisce solo sistemi IT – sviluppiamo anche la conoscenza digitale dei tuoi dipendenti. Con la nostra formazione personalizzata, il tuo team userà strumenti moderni con sicurezza e sarà consapevole dei rischi di sicurezza.",
+      "cta": "Richiedi Consulenza Gratuita",
+      "scrollDown": "Scorri per dettagli"
+    },
+    "intro": {
+      "title": "Perché la Formazione IT Aziendale è Importante?",
+      "content": [
+        "Anche la migliore infrastruttura IT non è sufficiente se i dipendenti non sanno usarla efficacemente. Scarsa conoscenza degli strumenti, mancanza di consapevolezza sulla sicurezza e flussi di lavoro obsoleti riducono la produttività e aumentano i rischi.",
+        "Con i programmi di educazione IT di SIRONIC, il tuo team acquisisce conoscenze aggiornate, lavora con più sicurezza e protegge consapevolmente i dati aziendali. Tutta la nostra formazione è pratica, personalizzata e direttamente applicabile al lavoro quotidiano."
+      ]
+    },
+    "services": {
+      "title": "Che Formazione Offriamo?",
+      "subtitle": "Educazione pratica focalizzata sul business a ogni livello",
+      "items": [
+        {
+          "title": "Formazione IT Personalizzata",
+          "description": "Curriculum e ritmo su misura secondo le esigenze del tuo team. Dal principiante all'utente avanzato – ogni corso è adattato ai reali requisiti della tua azienda. Apprendimento attraverso esempi pratici e situazioni reali.",
+          "topics": [
+            "Basi di Windows e macOS",
+            "Gestione file e struttura cartelle",
+            "Backup e ripristino dati",
+            "Uso di periferiche e stampanti",
+            "Scorciatoie da tastiera veloci e consigli produttività"
+          ]
+        },
+        {
+          "title": "Formazione Sensibilizzazione Sicurezza",
+          "description": "La maggior parte degli incidenti di protezione dati avviene per errore umano – truffe via email, password deboli, phishing. La nostra formazione aiuta i dipendenti a riconoscere ed evitare i rischi.",
+          "topics": [
+            "Riconoscere email di phishing e truffe",
+            "Gestione sicura password e uso 2FA",
+            "Principi protezione dati (GDPR) nella pratica",
+            "Condivisione file e email sicure",
+            "Sicurezza dispositivi: laptop, telefoni, lavoro remoto"
+          ]
+        },
+        {
+          "title": "Formazione Uso Software & Dispositivi",
+          "description": "Il lavoro d'ufficio moderno si basa su strumenti software – ma spesso ne usiamo solo una frazione del potenziale. Insegniamo gli strumenti e i metodi per un lavoro efficiente.",
+          "topics": [
+            "Microsoft 365: Word, Excel, PowerPoint, Outlook, Teams",
+            "Google Workspace: Docs, Sheets, Drive, Meet",
+            "Strumenti di collaborazione: Slack, Notion, Trello, Asana",
+            "Uso strumenti videoconferenza",
+            "Condivisione file cloud e sincronizzazione"
+          ]
+        },
+        {
+          "title": "Programmi di Sviluppo Conoscenze Aziendali",
+          "description": "Programmi di formazione continui a lungo termine che assicurano che il team sia sempre aggiornato. Creazione di una knowledge base aziendale e sviluppo regolare.",
+          "topics": [
+            "Creazione materiali apprendimento e guide personalizzate",
+            "Supporto online continuo e sessioni Q&A",
+            "Formazione regolare di aggiornamento tecnologico",
+            "Formazione IT onboarding per nuovi dipendenti",
+            "Formazione su specifici sistemi aziendali"
+          ]
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Perché Investire nella Formazione IT Aziendale?",
+      "subtitle": "Benefici concreti che portano risultati misurabili",
+      "list": [
+        "Maggiore produttività – i dipendenti lavorano più velocemente ed efficacemente",
+        "Meno errori IT e chiamate all'helpdesk – carico ridotto sul supporto tecnico",
+        "Operazioni più sicure – dipendenti consapevoli proteggono i dati",
+        "Miglior utilizzo strumenti – pieno potenziale di software e sistemi",
+        "Team più sicuro – nessuna paura delle nuove tecnologie",
+        "Adattamento più veloce – introduzione più fluida di nuovi strumenti",
+        "Competitività – un team digitalmente competente significa un'azienda più moderna"
+      ]
+    },
+    "targetGroups": {
+      "title": "A Chi Lo Consigliamo?",
+      "subtitle": "Per ogni azienda che lavora con strumenti digitali",
+      "groups": [
+        {
+          "title": "Impiegati d'Ufficio",
+          "description": "Coloro che usano computer, email e programmi Office quotidianamente."
+        },
+        {
+          "title": "Leader e Manager",
+          "description": "Coloro che necessitano di conoscenza degli strumenti digitali per decision-making, reporting e comunicazione."
+        },
+        {
+          "title": "Colleghi Non-IT",
+          "description": "Coloro per cui la tecnologia è solo uno strumento, ma una barriera senza la giusta conoscenza."
+        },
+        {
+          "title": "Lavoratori da Remoto",
+          "description": "Coloro che necessitano supporto per un lavoro da casa sicuro ed efficiente."
+        },
+        {
+          "title": "Nuovi Assunti",
+          "description": "Coloro che devono imparare i sistemi IT aziendali come parte dell'onboarding."
+        }
+      ]
+    },
+    "delivery": {
+      "title": "Come Viene Erogata la Formazione?",
+      "subtitle": "Forme di educazione flessibili – Scegli quella più adatta",
+      "methods": [
+        {
+          "title": "Formazione In Loco",
+          "description": "Veniamo nel tuo ufficio e teniamo la formazione in loco. Personale, interattivo, con esempi pratici immediati sui tuoi sistemi."
+        },
+        {
+          "title": "Formazione Remota Online",
+          "description": "Sessioni di formazione live via piattaforme di videoconferenza. Orari flessibili, nessun viaggio, ma efficace quanto la forma in loco."
+        },
+        {
+          "title": "Modello Ibrido",
+          "description": "Combinazione dei due: kick-off in loco, poi continuazione online. Il meglio di entrambi i mondi."
+        }
+      ],
+      "languageNote": "Le sessioni di formazione sono attualmente disponibili solo in ungherese, sia online che in loco."
+    },
+    "topics": {
+      "title": "Argomenti Specifici Che Insegniamo",
+      "subtitle": "Conoscenze pratiche che puoi applicare immediatamente",
+      "list": [
+        "Uso di Microsoft 365 (Word, Excel, PowerPoint, Outlook, OneDrive, Teams)",
+        "Strumenti Google Workspace (Gmail, Drive, Docs, Sheets, Meet)",
+        "Gestione sicura password e autenticazione a due fattori",
+        "Riconoscere email di phishing e truffe online",
+        "Condivisione file sicura e cloud storage",
+        "Uso professionale strumenti videoconferenza",
+        "Gestione efficiente email e organizzazione inbox",
+        "Project e task management (Trello, Asana, Notion)",
+        "Funzioni base e trucchi Windows e macOS",
+        "Dispositivi ufficio: stampanti, scanner, multimedia"
+      ]
+    },
+    "methodology": {
+      "title": "Come Lavoriamo?",
+      "subtitle": "Processo di educazione strutturato – passo dopo passo",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Valutazione Bisogni",
+          "description": "Conosciamo il team, i livelli di conoscenza attuali e i processi aziendali. Chiariamo quali aree necessitano sviluppo."
+        },
+        {
+          "number": "2",
+          "title": "Creazione Curriculum Personalizzato",
+          "description": "Piano educativo personalizzato e materiale che si adatta agli strumenti e flussi di lavoro della tua azienda."
+        },
+        {
+          "number": "3",
+          "title": "Conduzione Formazione",
+          "description": "Educazione live interattiva e pratica – domande, risposte, esempi reali nel tuo ambiente."
+        },
+        {
+          "number": "4",
+          "title": "Follow-up e Supporto",
+          "description": "Siamo disponibili anche dopo la formazione – domande, revisioni, ulteriore aiuto. Ci assicuriamo che la conoscenza sia davvero integrata nella routine quotidiana."
+        }
+      ]
+    },
+    "faq": {
+      "title": "Domande Frequenti",
+      "items": [
+        {
+          "question": "Quanto dura una sessione di formazione?",
+          "answer": "La durata dipende dalle esigenze. Un workshop una tantum è di 2-4 ore, mentre un programma aziendale completo può estendersi su diverse settimane con più sessioni. Concordiamo sempre le tempistiche."
+        },
+        {
+          "question": "Quante persone possono partecipare alla volta?",
+          "answer": "Il numero ideale è tra 5-15 persone così ognuno riceve abbastanza attenzione. Per gruppi più grandi, possiamo tenere più turni o gruppi paralleli."
+        },
+        {
+          "question": "I partecipanti necessitano di conoscenze IT pregresse?",
+          "answer": "No! Adattiamo la formazione al livello di conoscenza attuale dei partecipanti – da principiante ad avanzato. Valutiamo dove ognuno si trova in anticipo."
+        },
+        {
+          "question": "I partecipanti ricevono materiali o appunti?",
+          "answer": "Sì! Dopo ogni formazione, ricevono il materiale, presentazioni e guide pratiche in forma digitale – così possono rivederli in qualsiasi momento."
+        },
+        {
+          "question": "In che lingua sono tenute le sessioni?",
+          "answer": "Attualmente, le sessioni sono disponibili esclusivamente in ungherese, sia online che in loco."
+        },
+        {
+          "question": "Quanto costa la formazione IT aziendale?",
+          "answer": "Il prezzo è basato su preventivo personalizzato – dipendente dal numero di partecipanti, argomenti e durata. Richiedi un preventivo, e ne discuteremo!"
+        }
+      ]
+    },
+    "pricing": {
+      "title": "Quanto Costa la Formazione IT?",
+      "subtitle": "Creiamo offerte personalizzate – ogni azienda ha esigenze diverse",
+      "description": "I prezzi della formazione dipendono dal numero di partecipanti, durata, argomenti e posizione (online/offline). In media, un workshop di 4 ore parte da 200 € per piccoli gruppi, mentre un programma di sviluppo continuo più lungo è disponibile in modello di abbonamento mensile.",
+      "process": "Richiedi una consulenza gratuita, valuteremo le esigenze e prepareremo un'offerta dettagliata e trasparente.",
+      "cta": "Richiedi Preventivo Ora"
+    },
+    "finalCta": {
+      "title": "Inizia lo Sviluppo Digitale del Tuo Team!",
+      "description": "Richiedi una consulenza gratuita, e scopriamo insieme quale formazione IT può migliorare l'efficienza e la sicurezza della tua azienda.",
+      "button": "Richiedi Preventivo Formazione IT"
+    }
+  },
+  "networkOptimization": {
+    "badge": "Ottimizzazione Rete",
+    "title": "Garantisci alla tua Azienda Internet & Wi-Fi Stabili e Veloci",
+    "subtitle": "Un Wi-Fi lento, una connessione instabile o una rete inaffidabile rallentano tutta la tua azienda. Progettiamo, ottimizziamo e manuteniamo infrastrutture di rete moderne di livello enterprise affinché ogni dispositivo funzioni velocemente, in sicurezza e affidabilità.",
+    "features": {
+      "wifi": {
+        "title": "Wi-Fi aziendale stabile ad alta copertura",
+        "description": "Access point moderni e progettazione rete per garantire segnale Wi-Fi forte in ogni stanza – senza interruzioni."
+      },
+      "speed": {
+        "title": "Rete veloce e sicura per tutti i dispositivi",
+        "description": "Larghezza di banda ottimizzata, separazione VLAN e tuning delle prestazioni – ogni dispositivo lavora fluidamente."
+      },
+      "reliability": {
+        "title": "Connessione affidabile — nessuna caduta",
+        "description": "Router affidabili, attrezzatura di rete business-grade e monitoraggio continuo – così la tua rete è sempre accessibile."
+      }
+    },
+    "cta": "Richiedi Valutazione Rete"
+  },
+  "networkOptimizationPage": {
+    "breadcrumb": {
+      "home": "Home",
+      "networkOptimization": "Ottimizzazione Rete"
+    },
+    "hero": {
+      "title": "Progettazione, Ottimizzazione e Manutenzione Rete Aziendale & Wi-Fi",
+      "subtitle": "Rendi la rete della tua azienda stabile, veloce e sicura",
+      "description": "Se il tuo Wi-Fi è lento, le connessioni cadono o la rete è inaffidabile, frena l'intera performance aziendale. SIRONIC progetta, ottimizza e mantiene reti moderne di livello business – così ogni dispositivo opera velocemente, in sicurezza e affidabilità.",
+      "cta": "Richiedi Valutazione Rete Gratuita",
+      "scrollDown": "Scorri per dettagli"
+    },
+    "problems": {
+      "title": "Problemi di Rete Comuni nelle Aziende",
+      "subtitle": "Ti suona familiare?",
+      "items": [
+        "Wi-Fi lento o instabile al lavoro",
+        "Segnale debole e zone morte in ufficio",
+        "Router e access point obsoleti",
+        "Nessuna separazione rete ospiti",
+        "Troppi dispositivi su una rete – tutto rallenta",
+        "Vulnerabilità di sicurezza e rete non protetta",
+        "Nessun piano di monitoraggio o risoluzione problemi"
+      ]
+    },
+    "services": {
+      "title": "Cosa Forniamo",
+      "subtitle": "Soluzioni di rete complete per piccole e medie imprese",
+      "items": [
+        {
+          "title": "Valutazione rete e diagnostica completa",
+          "description": "Valutiamo la tua attuale infrastruttura di rete, identifichiamo problemi e suggeriamo ottimizzazioni."
+        },
+        {
+          "title": "Mappatura segnale Wi-Fi e analisi copertura",
+          "description": "Progettiamo la rete Wi-Fi per garantire segnale forte in ogni stanza – nessuna zona morta."
+        },
+        {
+          "title": "Progettazione nuova rete aziendale",
+          "description": "Costruiamo reti business-grade da zero che siano scalabili, veloci e sicure."
+        },
+        {
+          "title": "Installazione hardware enterprise (MikroTik, Ubiquiti, UniFi)",
+          "description": "Selezione e installazione attrezzatura di rete professionale – router, switch, access point."
+        },
+        {
+          "title": "Cablaggio e aggiornamenti infrastruttura",
+          "description": "Installazione cablaggio strutturato, patch panel, armadi server – infrastruttura organizzata e a prova di futuro."
+        },
+        {
+          "title": "Sicurezza, VLAN, configurazione firewall",
+          "description": "Segmentazione rete, reti ospiti, configurazione firewall – mantenendo i tuoi dati al sicuro."
+        },
+        {
+          "title": "Monitoraggio e gestione rete",
+          "description": "Monitoraggio continuo e manutenzione proattiva – conosciamo e gestiamo i problemi prima che diventino critici."
+        }
+      ]
+    },
+    "technologies": {
+      "title": "Che Attrezzatura Usiamo?",
+      "subtitle": "Soluzioni rete affidabili e business-grade",
+      "list": [
+        "MikroTik – router e switch potenti e convenienti",
+        "Ubiquiti UniFi – sistemi Wi-Fi moderni e gestibili",
+        "TP-Link Omada – attrezzatura rete livello business",
+        "Cisco e HPE – infrastruttura livello enterprise",
+        "Configurazione VLAN e firewall",
+        "VPN e accesso remoto",
+        "Monitoraggio rete e analisi"
+      ]
+    },
+    "benefits": {
+      "title": "Perché Investire in una Rete Professionale?",
+      "subtitle": "Benefici concreti che portano risultati misurabili",
+      "list": [
+        "Lavoro più veloce – niente internet lento o cadute",
+        "Operazioni più sicure – rete protetta, Wi-Fi ospiti separato",
+        "Meno tempi morti – monitoraggio proattivo e risoluzione rapida",
+        "Infrastruttura scalabile – la rete cresce con la tua azienda",
+        "Aspetto professionale – connessione stabile anche per i clienti",
+        "Costi ridotti – meno tempo perso e meno riparazioni"
+      ]
+    },
+    "process": {
+      "title": "Come Lavoriamo?",
+      "subtitle": "Processo trasparente – passo dopo passo",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Valutazione rete e consulenza",
+          "description": "Conosciamo l'ufficio, la rete attuale e le esigenze. Identifichiamo problemi e opportunità."
+        },
+        {
+          "number": "2",
+          "title": "Progettazione rete e preventivo",
+          "description": "Creiamo piano rete completo, analisi copertura Wi-Fi e lista attrezzatura. Preventivo a prezzo fisso."
+        },
+        {
+          "number": "3",
+          "title": "Installazione e configurazione",
+          "description": "Distribuiamo la rete, installiamo l'attrezzatura, configuriamo elementi di sicurezza. Tutto testato e documentato."
+        },
+        {
+          "number": "4",
+          "title": "Test e consegna",
+          "description": "Test approfonditi su ogni dispositivo, misurazione velocità, verifica copertura. Formazione e consegna documentazione."
+        },
+        {
+          "number": "5",
+          "title": "Monitoraggio e manutenzione",
+          "description": "Supervisione continua, report mensili, manutenzione proattiva. Sempre disponibili quando hai bisogno di aiuto."
+        }
+      ]
+    },
+    "useCases": {
+      "title": "A Chi Lo Consigliamo?",
+      "subtitle": "Ogni azienda che necessita di una rete stabile",
+      "examples": [
+        "Uffici e piccole impreses – 5-50 dipendenti",
+        "Luoghi di accoglienza – Wi-Fi ospiti veloce e stabile",
+        "Cliniche e studi medici – rete medica sicura",
+        "Magazzini e centri logistici – rete industriale robusta",
+        "Istituzioni educative – Wi-Fi ad alta capacità",
+        "Unità di vendita al dettaglio – sistema POS veloce e telecamere IP"
+      ]
+    },
+    "pricing": {
+      "title": "Quanto Costa Configurare una Rete Aziendale?",
+      "subtitle": "Ogni progetto è unico – determiniamo il prezzo in base alle esigenze",
+      "description": "Un sistema Wi-Fi ufficio base parte da ca. 400 € (1-2 access point, router, configurazione). Per reti più grandi – più dispositivi, cablaggio strutturato, monitoraggio – aspettati da 1.200 €+. Richiedi valutazione gratuita e preventivo esatto!",
+      "process": "La valutazione gratuita in loco analizza i bisogni di rete, creiamo piano e forniamo preventivo trasparente a prezzo fisso.",
+      "cta": "Richiedi Preventivo Gratuito"
+    },
+    "faq": {
+      "title": "Domande Frequenti",
+      "items": [
+        {
+          "question": "Quanto tempo richiede l'installazione della rete?",
+          "answer": "Un sistema Wi-Fi ufficio semplice richiede 1-2 giorni, mentre una rete aziendale complessa su più piani può richiedere 1-2 settimane."
+        },
+        {
+          "question": "Quali marchi raccomandate?",
+          "answer": "Lavoriamo principalmente con attrezzatura MikroTik, Ubiquiti UniFi e TP-Link Omada – affidabile, conveniente e adatta all'uso business."
+        },
+        {
+          "question": "Chi possederà la rete?",
+          "answer": "Tu! Tutta l'attrezzatura e configurazione appartiene alla tua azienda, nessun costo di licenza nascosto o dipendenza."
+        },
+        {
+          "question": "E per la manutenzione?",
+          "answer": "Offriamo anche pacchetti di manutenzione – monitoraggio continuo, aggiornamenti regolari e risoluzione rapida problemi in abbonamento mensile."
+        },
+        {
+          "question": "Potete ottimizzare reti esistenti?",
+          "answer": "Sì! Non devi sostituire tutto – spesso una buona configurazione, un access point extra o aggiornamento router è sufficiente."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Pronto per una Rete Stabile e Veloce?",
+      "description": "Richiedi valutazione rete gratuita, e costruiamo insieme l'infrastruttura che supporta la crescita della tua azienda.",
+      "button": "Richiedi Valutazione Rete Gratuita"
+    }
+  },
+  "repairService": {
+    "badge": "Riparazione & Assistenza",
+    "title": "Riparazione & Assistenza IT – In loco o via posta",
+    "subtitle": "Riparazioni IT veloci e affidabili – laptop, PC, server, dispositivi NAS",
+    "description": "Riparazione professionale di computer, laptop, server e dispositivi di rete. Servizio in loco a Székesfehérvár e aree circostanti, o servizio postale. Iniziamo ogni riparazione con diagnostica e forniamo preventivi trasparenti prima di qualsiasi lavoro.",
+    "benefits": [
+      "Diagnostica e risoluzione problemi veloci",
+      "Servizio in loco o via posta – come preferisci",
+      "Preventivo trasparente prima della riparazione",
+      "Strumenti ed esperti professionali",
+      "Backup dati e rimozione virus",
+      "Garanzia su tutte le riparazioni"
+    ],
+    "cards": {
+      "onsite": {
+        "title": "Servizio in loco",
+        "description": "Veniamo da te a Székesfehérvár e aree vicine per eseguire riparazioni o diagnostica sul posto."
+      },
+      "postal": {
+        "title": "Servizio postale",
+        "description": "Inviaci il tuo dispositivo via posta, lo ripariamo e lo rispediamo – semplice e veloce."
+      }
+    },
+    "cta": {
+      "main": "Richiedi Preventivo Riparazione",
+      "learnMore": "Scopri di Più"
+    }
+  },
+  "repairServicePage": {
+    "breadcrumb": {
+      "repairService": "Riparazione & Assistenza"
+    },
+    "hero": {
+      "title": "Riparazione & Assistenza IT – Laptop, PC, Server, Dispositivi NAS",
+      "subtitle": "Riparazioni IT veloci e affidabili in loco o via posta",
+      "description": "Riparazione professionale di computer, laptop, server e dispositivi storage di rete. Servizio in loco a Székesfehérvár e aree circostanti, o opzione via posta. Preventivi trasparenti, tempi rapidi, servizio esperto.",
+      "cta": "Segnala Problema Ora",
+      "scrollDown": "Scorri per dettagli"
+    },
+    "services": {
+      "title": "Cosa Ripariamo?",
+      "subtitle": "Diagnostica e riparazione completa dispositivi IT",
+      "items": [
+        {
+          "title": "Riparazione & Manutenzione Laptop",
+          "description": "Sostituzione schermo, riparazione tastiera, sostituzione batteria, pulizia sistema raffreddamento, upgrade componenti."
+        },
+        {
+          "title": "Diagnostica & Riparazione PC Desktop",
+          "description": "Risoluzione problemi hardware, sostituzione componenti, ottimizzazione prestazioni, pulizia sistema e manutenzione."
+        },
+        {
+          "title": "Riparazione Server & Attrezzatura Business",
+          "description": "Diagnostica server, recupero configurazione RAID, riparazione hardware e manutenzione."
+        },
+        {
+          "title": "Assistenza NAS & Dispositivi Storage",
+          "description": "Diagnostica storage di rete, backup dati, recupero RAID, aggiornamenti firmware."
+        },
+        {
+          "title": "Backup & Recupero Dati",
+          "description": "Recupero dati critici da dispositivi difettosi, recupero dati SSD/HDD, creazione backup."
+        },
+        {
+          "title": "Rimozione Virus & Ottimizzazione Sistema",
+          "description": "Rimozione virus e malware, pulizia sistema, boost prestazioni, ottimizzazione velocità."
+        }
+      ]
+    },
+    "process": {
+      "title": "Come Funziona la Riparazione?",
+      "subtitle": "Processo semplice e trasparente",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Segnalazione Problema",
+          "description": "Contattaci via telefono, email o modulo. Discutiamo il problema e il metodo di riparazione."
+        },
+        {
+          "number": "2",
+          "title": "Diagnostica & Preventivo",
+          "description": "In loco o dopo ricezione via posta, esaminiamo il dispositivo, identifichiamo il guasto e forniamo un preventivo trasparente."
+        },
+        {
+          "number": "3",
+          "title": "Riparazione dopo Approvazione",
+          "description": "Dopo l'accettazione del preventivo, eseguiamo la riparazione con strumenti e parti professionali."
+        },
+        {
+          "number": "4",
+          "title": "Test & Consegna",
+          "description": "Testiamo accuratamente il dispositivo riparato, poi lo consegniamo o rispediamo. Garanzia su tutte le riparazioni."
+        }
+      ]
+    },
+    "onsite": {
+      "title": "Servizio In Loco – Veniamo da Te",
+      "description": "A Székesfehérvár e aree circostanti, eseguiamo riparazioni o diagnostica sul posto. Ideale per uffici, aziende e chi non può o non vuole trasportare il dispositivo.",
+      "benefits": [
+        "Servizio rapido a Székesfehérvár e raggio di 30 km",
+        "Diagnostica e riparazione in loco (quando possibile)",
+        "Tempo di inattività minimo – nessun bisogno di spostare il dispositivo",
+        "Strumenti e parti professionali sul posto",
+        "Puo essere eseguito in ambienti aziendali"
+      ]
+    },
+    "postal": {
+      "title": "Servizio via Posta – Comodo da Casa",
+      "description": "Se sei più lontano o semplicemente preferisci la comodità, spedisci il tuo dispositivo. Lo ripariamo e restituiamo. Forniamo linee guida per imballaggio sicuro.",
+      "benefits": [
+        "Copertura nazionale – spedisci da ovunque",
+        "Guida imballaggio dettagliata per sicurezza dispositivo",
+        "Tempi rapidi – tipicamente 3-5 giorni lavorativi",
+        "Restituzione sicura via corriere",
+        "Aggiornamenti continui su stato riparazione"
+      ],
+      "howTo": "Passi per la spedizione: 1) Contattaci e descrivi il problema. 2) Imballa dispositivo in sicurezza (forniamo guide). 3) Spedisci all'indirizzo fornito. 4) Diagnostichiamo, inviamo preventivo e restituiamo dopo riparazione."
+    },
+    "pricing": {
+      "title": "Quanto Costa una Riparazione?",
+      "subtitle": "Prezzi trasparenti – diagnostica prima, poi preventivo",
+      "description": "Iniziamo ogni riparazione con diagnostica gratuita (in loco o via posta). Il preventivo è fornito solo dopo esame, così sai esattamente cosa aspettarti. Il lavoro inizia solo dopo la tua approvazione.",
+      "examples": [
+        "Sostituzione schermo laptop: da 65 € (dipende dal pezzo)",
+        "Rimozione virus PC e ottimizzazione: da 20 €",
+        "Recupero dati da dispositivo difettoso: da 40 €",
+        "Diagnostica e riparazione server: preventivo personalizzato"
+      ],
+      "note": "I prezzi sono indicativi, il costo esatto è sempre determinato dopo esame.",
+      "cta": "Richiedi Diagnostica Gratuita"
+    },
+    "faq": {
+      "title": "Domande Frequenti",
+      "items": [
+        {
+          "question": "Quanto tempo richiede una riparazione?",
+          "answer": "Riparazioni semplici (es. rimozione virus, ottimizzazione) richiedono tipicamente 1-2 giorni lavorativi. Casi complessi (es. sostituzione parte, recupero dati) possono richiedere 3-5 giorni. Offriamo anche servizio express per casi urgenti."
+        },
+        {
+          "question": "E se il dispositivo non può essere riparato?",
+          "answer": "Se il dispositivo è irreparabile o la riparazione non è conveniente, ti informiamo immediatamente. In questo caso, addebitiamo solo la diagnostica (tipicamente 8-13 €), e aiutiamo a consigliare l'acquisto di un nuovo dispositivo."
+        },
+        {
+          "question": "I miei dati sono al sicuro durante la riparazione?",
+          "answer": "Sì! Trattiamo tutti i dispositivi con riservatezza. Il backup dati è eseguito solo con la tua approvazione, e tutti i dati sono cancellati in sicurezza dopo riparazione (se necessario)."
+        },
+        {
+          "question": "C'è garanzia sulle riparazioni?",
+          "answer": "Sì, forniamo garanzia di 30-90 giorni su tutte le riparazioni (dipende dal tipo). Le parti nuove vengono anche con garanzia del produttore."
+        },
+        {
+          "question": "Quale area coprite per servizio in loco?",
+          "answer": "Forniamo servizio in loco a Székesfehérvár e raggio 30 km. Per aree più lontane, lavoriamo con accordo speciale o servizio postale."
+        },
+        {
+          "question": "Come devo imballare il dispositivo per la spedizione?",
+          "answer": "Inviamo istruzioni di imballaggio dettagliate via email. Importante: usa pluriball, scatola robusta, e segna 'Fragile'. L'imballaggio originale è il migliore se disponibile."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Hai Problemi con il Tuo Dispositivo?",
+      "description": "Chiamaci o invia un messaggio, e lo ripareremo presto! Diagnostica rapida, prezzi trasparenti, riparazioni affidabili.",
+      "button": "Segnala Problema Ora"
+    }
+  },
+  "onsitePresence": {
+    "badge": "Supporto IT Eventi",
+    "title": "Presenza IT In Loco per Eventi",
+    "subtitle": "Specialista IT Professionale sul Posto",
+    "description": "Assicura la stabilità tecnica del tuo evento professionale, conferenza, o riunione aziendale con supporto IT dedicato in loco.",
+    "cards": {
+      "onsite": {
+        "title": "Specialista IT In Loco",
+        "description": "IT pro dedicato che accompagna il tuo evento dall'inizio alla fine."
+      },
+      "stability": {
+        "title": "Stabilità Tecnica",
+        "description": "Monitoraggio proattivo e intervento immediato."
+      },
+      "equipment": {
+        "title": "Gestione Attrezzatura",
+        "description": "Setup e supervisione di laptop, reti e attrezzatura streaming."
+      }
+    },
+    "cta": {
+      "main": "Ottieni Preventivo",
+      "learnMore": "Scopri di Più"
+    }
+  },
+  "onsitePresencePage": {
+    "breadcrumb": {
+      "home": "Home",
+      "onsitePresence": "Presenza IT In Loco"
+    },
+    "hero": {
+      "title": "Presenza IT In Loco per Eventi",
+      "subtitle": "Supporto IT Professionale Sul Posto per Conferenze ed Eventi",
+      "description": "Vuoi un evento senza intoppi? Con il servizio di Presenza IT In Loco di SIRONIC, ottieni infrastruttura IT garantita stabile e affidabile.",
+      "cta": "Richiedi Consulenza Gratuita"
+    },
+    "intro": {
+      "title": "Perché portare uno specialista IT al tuo evento?",
+      "content": [
+        "Il successo di un evento professionale dipende spesso dalla stabilità tecnica. Se la tecnologia fallisce, la reputazione dell'evento ne soffre.",
+        "Con la Presenza IT In Loco di SIRONIC, hai uno specialista IT esperto che assicura operazioni fluide."
+      ]
+    },
+    "services": {
+      "title": "Cosa offriamo?",
+      "subtitle": "Supporto Tecnico Completo",
+      "items": [
+        {
+          "title": "Prep & Setup Evento",
+          "description": "Installazione e test attrezzatura prima dell'evento.",
+          "topics": [
+            "Installazione",
+            "Test",
+            "Configurazione"
+          ]
+        },
+        {
+          "title": "Rete & Wi-Fi",
+          "description": "Garantire internet stabile per tutti i partecipanti.",
+          "topics": [
+            "Pianificazione Wi-Fi",
+            "Larghezza di banda",
+            "Monitoraggio"
+          ]
+        },
+        {
+          "title": "Supporto Streaming",
+          "description": "Background tecnico per live stream ed eventi ibridi.",
+          "topics": [
+            "OBS",
+            "Telecamere",
+            "Audio"
+          ]
+        }
+      ]
+    },
+    "eventTypes": {
+      "title": "Eventi Supportati",
+      "subtitle": "Qualsiasi evento in cui l'IT è critico",
+      "types": [
+        {
+          "title": "Conferenze",
+          "description": "Raduni professionali su larga scala."
+        },
+        {
+          "title": "Eventi Ibridi",
+          "description": "Connessione partecipanti online e offline."
+        },
+        {
+          "title": "Workshop",
+          "description": "Supporto tecnico per sessioni di formazione pratica."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Perché Noi?",
+      "items": [
+        "Professionisti Esperti",
+        "Risoluzione Problemi Immediata",
+        "Disponibilità Flessibile",
+        "Attrezzatura Professionale"
+      ]
+    },
+    "process": {
+      "title": "Processo",
+      "subtitle": "Come lavoriamo insieme",
+      "steps": [
+        {
+          "title": "Valutazione",
+          "description": "Discussione requisiti tecnici."
+        },
+        {
+          "title": "Pianificazione",
+          "description": "Progettazione infrastruttura necessaria."
+        },
+        {
+          "title": "Esecuzione",
+          "description": "Setup e operatività in loco."
+        },
+        {
+          "title": "Supervisione",
+          "description": "Presenza continua durante l'evento."
+        },
+        {
+          "title": "Chiusura",
+          "description": "Smontaggio e valutazione."
+        }
+      ]
+    },
+    "faq": {
+      "title": "FAQ",
+      "items": [
+        {
+          "question": "Quali tipi di eventi supportate?",
+          "answer": "Tutto, dai piccoli workshop alle grandi conferenze."
+        },
+        {
+          "question": "Fornite attrezzatura?",
+          "answer": "Sì, offriamo servizi di noleggio su richiesta."
+        },
+        {
+          "question": "Quanto costa?",
+          "answer": "Basato su preventivo personalizzato a seconda dei requisiti."
+        },
+        {
+          "question": "Viaggiate a livello nazionale?",
+          "answer": "Sì, accettiamo incarichi in tutta l'Ungheria."
+        }
+      ]
+    },
+    "pricing": {
+      "title": "Prezzi",
+      "subtitle": "Basato su Preventivo Personalizzato",
+      "description": "Ogni evento è diverso, quindi adattiamo i nostri prezzi alle tue esigenze.",
+      "process": "Ottieni un preventivo!",
+      "cta": "Richiedi Preventivo"
+    },
+    "availabilityNote": "Questo servizio è disponibile in tutta l'Ungheria.",
+    "finalCta": {
+      "title": "Assicura il Successo!",
+      "description": "Non lasciare il lato tecnico al caso.",
+      "button": "Ottieni un Preventivo"
+    }
+  }
+}
