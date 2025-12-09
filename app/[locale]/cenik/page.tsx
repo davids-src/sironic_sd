@@ -73,22 +73,6 @@ export default function ArakPage() {
     },
   ];
 
-  // Determine currency based on locale
-  const getCurrency = (l: string) => {
-    switch (l) {
-      case 'hu': return 'HUF';
-      case 'ro': return 'RON';
-      case 'en':
-      case 'de':
-      case 'sk':
-      case 'hr':
-      case 'sl':
-      default: return 'EUR';
-    }
-  };
-
-  const currency = getCurrency(locale);
-
   const serviceSchema = {
     '@context': 'https://schema.org',
     '@type': 'ItemList',
@@ -102,15 +86,11 @@ export default function ArakPage() {
         provider: {
           '@type': 'Organization',
           name: t('meta.companyName'),
-          address: {
-            '@type': 'PostalAddress',
-            addressCountry: locale.toUpperCase() === 'EN' ? 'HU' : locale.toUpperCase() // Fallback literal, but ideally real country
-          }
         },
         offers: {
           '@type': 'Offer',
-          price: t(`pricingPage.packages.${pkg.key}.price`).replace(/[^\d.,]/g, '').trim(),
-          priceCurrency: currency,
+          price: t(`pricingPage.packages.${pkg.key}.price`).replace(/[^\d]/g, ''),
+          priceCurrency: 'HUF',
         },
       },
     })),

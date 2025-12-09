@@ -17,7 +17,7 @@ export default function KapcsolatPage() {
     <>
       <section className="py-20 lg:py-32 bg-gray-50 dark:bg-gray-900/50">
         <div className="container mx-auto px-4 md:px-6">
-          <Breadcrumbs items={[{ label: t('nav.contact'), href: `/${locale}/kapcsolat` }]} />
+          <Breadcrumbs items={[{ label: t('nav.contact'), href: `/${locale}/kontakt` }]} />
           <div className="mx-auto max-w-3xl text-center mb-16">
             <h1 className="text-4xl font-bold tracking-tight sm:text-5xl lg:text-6xl mb-6">
               {t('contact.title')}

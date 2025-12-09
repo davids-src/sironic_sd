@@ -11,7 +11,11 @@ const pathMapping: Record<string, Record<string, string>> = {
         de: 'reparatur-service',
         sk: 'servisne-sluzby',
         ro: 'servicii-reparatii',
-        hr: 'servis-popravak'
+        hr: 'servis-popravak',
+        sl: 'servis-racunalnikov',
+        fr: 'repair-service',
+        it: 'repair-service',
+        es: 'repair-service'
     },
     'network-optimization': {
         hu: 'halozat-fejlesztes',
@@ -19,7 +23,11 @@ const pathMapping: Record<string, Record<string, string>> = {
         de: 'netzwerk-optimierung',
         sk: 'optimalizacia-siete',
         ro: 'optimizare-retea',
-        hr: 'optimizacija-mreze'
+        hr: 'optimizacija-mreze',
+        sl: 'mrezna-infrastruktura',
+        fr: 'network-optimization',
+        it: 'network-optimization',
+        es: 'network-optimization'
     },
     'it-training': {
         hu: 'oktatas',
@@ -27,7 +35,11 @@ const pathMapping: Record<string, Record<string, string>> = {
         de: 'it-schulung',
         sk: 'it-vzdelavanie',
         ro: 'training-it',
-        hr: 'it-edukacija'
+        hr: 'it-edukacija',
+        sl: 'it-usposabljanje',
+        fr: 'it-training',
+        it: 'it-training',
+        es: 'it-training'
     },
     'custom-development': {
         hu: 'egyedi-alkalmazas-fejlesztes',
@@ -35,7 +47,11 @@ const pathMapping: Record<string, Record<string, string>> = {
         de: 'individuelle-anwendungsentwicklung',
         sk: 'vyvoj-vlastnych-aplikacii',
         ro: 'dezvoltare-aplicatii-personalizate',
-        hr: 'razvoj-prilagodenih-aplikacija'
+        hr: 'razvoj-prilagodenih-aplikacija',
+        sl: 'razvoj-spletnih-aplikacij',
+        fr: 'custom-application-development',
+        it: 'custom-application-development',
+        es: 'custom-application-development'
     },
     'products': {
         hu: 'termekeink',
@@ -43,7 +59,11 @@ const pathMapping: Record<string, Record<string, string>> = {
         de: 'termekeink',
         sk: 'termekeink',
         ro: 'termekeink',
-        hr: 'proizvodi'
+        hr: 'proizvodi',
+        sl: 'produkti',
+        fr: 'termekeink',
+        it: 'termekeink',
+        es: 'termekeink'
     },
     'pricing': {
         hu: 'arak',
@@ -51,7 +71,11 @@ const pathMapping: Record<string, Record<string, string>> = {
         de: 'arak',
         sk: 'arak',
         ro: 'arak',
-        hr: 'cjenik'
+        hr: 'cjenik',
+        sl: 'cenik',
+        fr: 'arak',
+        it: 'arak',
+        es: 'arak'
     },
     'about': {
         hu: 'rolunk',
@@ -59,7 +83,11 @@ const pathMapping: Record<string, Record<string, string>> = {
         de: 'rolunk',
         sk: 'rolunk',
         ro: 'rolunk',
-        hr: 'o-nama'
+        hr: 'o-nama',
+        sl: 'o-nas',
+        fr: 'rolunk',
+        it: 'rolunk',
+        es: 'rolunk'
     },
     'contact': {
         hu: 'kapcsolat',
@@ -67,7 +95,11 @@ const pathMapping: Record<string, Record<string, string>> = {
         de: 'kapcsolat',
         sk: 'kapcsolat',
         ro: 'kapcsolat',
-        hr: 'kontakt'
+        hr: 'kontakt',
+        sl: 'kontakt',
+        fr: 'kapcsolat',
+        it: 'kapcsolat',
+        es: 'kapcsolat'
     },
     'services': {
         hu: 'szolgaltatasok',
@@ -75,7 +107,11 @@ const pathMapping: Record<string, Record<string, string>> = {
         de: 'szolgaltatasok',
         sk: 'szolgaltatasok',
         ro: 'szolgaltatasok',
-        hr: 'usluge'
+        hr: 'usluge',
+        sl: 'storitve',
+        fr: 'szolgaltatasok',
+        it: 'szolgaltatasok',
+        es: 'szolgaltatasok'
     },
     'minden-cegnek': {
         hu: 'minden-cegnek-legyen-informatikusa',
@@ -83,7 +119,23 @@ const pathMapping: Record<string, Record<string, string>> = {
         de: 'minden-cegnek-legyen-informatikusa',
         sk: 'minden-cegnek-legyen-informatikusa',
         ro: 'minden-cegnek-legyen-informatikusa',
-        hr: 'it-podrska-tvrtkama'
+        hr: 'it-podrska-tvrtkama',
+        sl: 'it-podpora-podjetjem',
+        fr: 'minden-cegnek-legyen-informatikusa',
+        it: 'minden-cegnek-legyen-informatikusa',
+        es: 'minden-cegnek-legyen-informatikusa'
+    },
+    'onsite-presence': {
+        hu: 'onsite-jelenlet',
+        en: 'onsite-presence',
+        de: 'onsite-prasenz',
+        sk: 'onsite-pritomnost',
+        ro: 'prezenta-onsite',
+        hr: 'it-onsite-prisutnost',
+        sl: 'onsite-it-tehnik',
+        fr: 'onsite-presence',
+        it: 'onsite-presence',
+        es: 'onsite-presence'
     }
 };
 

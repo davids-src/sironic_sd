@@ -34,6 +34,9 @@ export function LanguageSwitcher() {
     const handleLanguageChange = (newLocale: string) => {
         if (!pathname) return;
 
+        // Set cookie for middleware persistence (1 year)
+        document.cookie = `NEXT_LOCALE=${newLocale}; path=/; max-age=31536000; SameSite=Lax`;
+
         const segments = pathname.split('/');
         segments[1] = newLocale;
         const newPath = segments.join('/');

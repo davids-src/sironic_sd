@@ -1,0 +1,1732 @@
+{
+    "meta": {
+        "siteTitle": "SIRONIC IT Rešitve: Celovite IT rešitve za mala in srednja podjetja – Upravljanje, Razvoj, Varnost",
+        "siteDescription": "Profesionalno upravljanje IT sistemov, spletni razvoj (Next.js/TS), izgradnja omrežij in IT varnost. Namenska IT podpora za podjetja. Zahtevajte brezplačen posvet!",
+        "companyName": "SIRONIC IT Solutions",
+        "keywords": [
+            "IT storitve",
+            "sistemska administracija",
+            "vzpostavitev omrežja",
+            "IT varnost",
+            "spletni razvoj",
+            "razvoj CRM",
+            "IT izobraževanje",
+            "usposabljanje za kibernetsko varnost",
+            "digitalne veščine",
+            "IT oprema",
+            "storitve gostovanja",
+            "spletno gostovanje",
+            "najem strežnika",
+            "popravilo računalnikov",
+            "servis prenosnikov",
+            "podpora na lokaciji",
+            "varnost podatkov",
+            "vzdrževanje",
+            "Székesfehérvár",
+            "Madžarska",
+            "Avstrija",
+            "Slovaška",
+            "Romunija",
+            "Češka"
+        ],
+        "ogImage": "/og/home-en.jpg",
+        "pages": {
+            "services": {
+                "title": "IT Storitve - Sistemska Administracija & Razvoj",
+                "description": "Zanesljive IT storitve za podjetja: sistemska administracija, vzpostavitev omrežja, spletni razvoj, gostovanje in popravila. Zahtevajte ponudbo naših strokovnjakov še danes!",
+                "keywords": [
+                    "IT storitve",
+                    "sistemska administracija",
+                    "mrežna infrastruktura",
+                    "IT varnost",
+                    "spletni razvoj",
+                    "gostovanje",
+                    "popravilo",
+                    "Székesfehérvár"
+                ],
+                "ogImage": "/og/services-en.jpg"
+            },
+            "about": {
+                "title": "O nas - SIRONIC IT Solutions: Vaš zanesljiv partner",
+                "description": "Spoznajte SIRONIC IT Solutions! Več kot 5 let izkušenj, proaktivna IT podpora in pristop, osredotočen na stranke, za mala in srednja podjetja.",
+                "keywords": [
+                    "IT podjetje",
+                    "Székesfehérvár",
+                    "zanesljiv IT partner",
+                    "sistemska administracija",
+                    "IT podpora"
+                ],
+                "ogImage": "/og/about-en.jpg"
+            },
+            "contact": {
+                "title": "Kontaktirajte nas - SIRONIC IT Solutions Székesfehérvár",
+                "description": "Imate vprašanja? Kontaktirajte nas za brezplačen posvet! Dosegljivi smo po telefonu, e-pošti ali osebno v Székesfehérvárju. Tukaj smo, da vam pomagamo.",
+                "keywords": [
+                    "IT kontakt",
+                    "brezplačen posvet",
+                    "Székesfehérvár IT",
+                    "hello@sironic.hu"
+                ],
+                "ogImage": "/og/contact-en.jpg"
+            },
+            "pricing": {
+                "title": "Cene IT storitev in paketi - SIRONIC IT Solutions",
+                "description": "Odkrijte naše konkurenčne IT cene! Fiksna mesečna sistemska administracija, razvoj po meri in vzdrževanje brez skritih stroškov in s polno garancijo.",
+                "keywords": [
+                    "IT cenik",
+                    "mesečna IT podpora",
+                    "strošek sistemske administracije",
+                    "IT stroški",
+                    "Székesfehérvár"
+                ],
+                "ogImage": "/og/pricing-en.jpg"
+            },
+            "products": {
+                "title": "Programska oprema po meri & IT izdelki - SIRONIC Solutions",
+                "description": "Raziščite naše programske rešitve po meri in IT izdelke! CRM sistemi, spletne aplikacije in mobilne aplikacije, zasnovane za rast vašega podjetja.",
+                "keywords": [
+                    "IT izdelki",
+                    "programska oprema po meri",
+                    "CRM sistem",
+                    "spletna aplikacija",
+                    "mobilna aplikacija"
+                ],
+                "ogImage": "/og/products-en.jpg"
+            },
+            "blog": {
+                "title": "IT Blog & Baza znanja - Nasveti za podjetja",
+                "description": "Preberite naše najnovejše IT novice in nasvete! Uporabni nasveti o kibernetski varnosti, sistemski administraciji in digitalnem razvoju za podjetja.",
+                "keywords": [
+                    "IT blog",
+                    "IT nasveti",
+                    "IT varnost",
+                    "poslovni IT",
+                    "baza znanja"
+                ],
+                "ogImage": "/og/blog-en.jpg"
+            },
+            "networkOptimization": {
+                "title": "Vzpostavitev poslovnega omrežja & Wi-Fi - SIRONIC IT Solutions",
+                "description": "Načrtovanje in uvedba stabilnih, hitrih in varnih poslovnih omrežij. Sodobni Wi-Fi sistemi, optimizacija omrežja in celovito vzdrževanje za podjetja.",
+                "keywords": [
+                    "poslovno omrežje",
+                    "nastavitev wifi",
+                    "optimizacija omrežja",
+                    "poslovni wifi",
+                    "MikroTik",
+                    "Ubiquiti",
+                    "UniFi",
+                    "omrežna varnost",
+                    "Székesfehérvár",
+                    "Madžarska"
+                ],
+                "ogImage": "/og/network-optimization-en.jpg"
+            },
+            "repairService": {
+                "title": "IT Popravila & Servis - Popravilo prenosnikov, PC, strežnikov | SIRONIC",
+                "description": "Hitra in zanesljiva IT popravila v Székesfehérvárju. Profesionalno popravilo prenosnikov, računalnikov, strežnikov in NAS naprav na lokaciji ali po pošti. Transparentne cene, garancija.",
+                "keywords": [
+                    "popravilo prenosnikov",
+                    "popravilo pc",
+                    "popravilo računalnikov székesfehérvár",
+                    "popravilo strežnikov",
+                    "popravilo nas",
+                    "obnovitev podatkov",
+                    "odstranjevanje virusov",
+                    "popravilo na lokaciji"
+                ],
+                "ogImage": "/og/repair-service-en.jpg"
+            },
+            "onsitePresence": {
+                "title": "IT Prisotnost na lokaciji - SIRONIC IT Solutions",
+                "description": "Profesionalni IT nadzor in tehnična podpora za dogodke in konference. Namenski strokovnjak na lokaciji.",
+                "keywords": [
+                    "IT na lokaciji",
+                    "IT za dogodke",
+                    "tehnika za konference",
+                    "IT nadzor"
+                ]
+            }
+        }
+    },
+    "nav": {
+        "home": "Domov",
+        "services": "Storitve",
+        "products": "Produkti",
+        "pricing": "Cenik",
+        "about": "O nas",
+        "blog": "Blog",
+        "contact": "Kontakt",
+        "ctaButton": "Zahtevaj ponudbo"
+    },
+    "hero": {
+        "badge": "Nova storitev",
+        "title": "IT rešitve, ki delujejo kot vaša lastna interna ekipa",
+        "subtitle": "Profesionalno upravljanje IT infrastrukture, hitro vzdrževanje in namenska podpora za mala in srednja podjetja.",
+        "cta": "Brezplačen posvet",
+        "learnMore": "Izvedite več"
+    },
+    "services": {
+        "title": "Naše storitve",
+        "subtitle": "Celovite IT rešitve za pospešitev rasti vašega podjetja",
+        "viewAll": "Oglejte si vse storitve",
+        "systemOperation": {
+            "title": "Upravljanje sistemov & IT vzdrževanje",
+            "description": "Stabilno, varno in hitro delovanje – vaše sisteme nenehno spremljamo, še preden gre kaj narobe. Manj izpadov, večja učinkovitost."
+        },
+        "networking": {
+            "title": "Načrtovanje & razvoj omrežij",
+            "description": "Načrtujemo, uvajamo in optimiziramo omrežno infrastrukturo vašega podjetja, da zagotovimo zanesljivo, hitro in varno povezavo vsake naprave."
+        },
+        "security": {
+            "title": "IT Varnost & Varstvo podatkov",
+            "description": "Zaščitite svoje poslovne podatke! Sodobni požarni zidovi, varne varnostne kopije, nadzor dostopa – pri nas varnost podatkov ni dodatek, ampak standard."
+        },
+        "development": {
+            "title": "Spletni razvoj & Razvoj programske opreme",
+            "description": "Ustvarjamo profesionalne, odzivne spletne strani in programske rešitve po meri, da vaše podjetje izstopa na spletu."
+        },
+        "commerce": {
+            "title": "Dobava IT opreme & programske opreme",
+            "description": "Vse, kar potrebujete za pisarniško poslovanje – računalniki, monitorji, tiskalniki, strežniki in licence za programsko opremo, vse iz enega zanesljivega vira."
+        },
+        "hosting": {
+            "title": "Gostovanje & Oblačne rešitve",
+            "description": "Stabilno, hitro in varno gostovanje za spletne strani, e-pošto in varnostne kopije podatkov. Spletno gostovanje, namenski strežniki in oblačno shranjevanje."
+        },
+        "repair": {
+            "title": "Servis & Vzdrževanje",
+            "description": "Hitro in zanesljivo popravilo računalnikov, prenosnikov in strežnikov, bodisi na lokaciji bodisi po pošti. Transparentne ponudbe in hitra izvedba."
+        }
+    },
+    "mindenCegnek": {
+        "badge": "Mesečna IT podpora",
+        "title": "Vsako podjetje si zasluži IT oddelek",
+        "subtitle": "IT rešitve, kot da bi imeli svojo lastno IT ekipo",
+        "description": "Ni vam treba zaposliti IT strokovnjaka za polni delovni čas, da bi imeli stabilne, varne in hitre sisteme. Mesečna naročnina SIRONIC deluje, kot da smo del vašega podjetja – vendar plačate le tisto, kar dejansko potrebujete.",
+        "features": {
+            "costEffective": "Stroškovno učinkovita, infrastrukturi prilagojena IT podpora – prilagodljiva, zanesljiva in transparentna.",
+            "discount": "Velja do 1. februarja 2026: vsak partner, ki zahteva posvet, prejme 10% popust na prve 3 mesece!"
+        },
+        "cta": {
+            "consultation": "Zahtevaj posvet",
+            "learnMore": "Izvedite več"
+        }
+    },
+    "whyChooseUs": {
+        "title": "Zakaj izbrati nas?",
+        "reasons": [
+            "Zanesljivost: 5+ let izkušenj pri načrtovanju in upravljanju IT sistemov.",
+            "Proaktiven pristop: Razmišljamo vnaprej – ukrepamo preden nastanejo težave, ne po tem.",
+            "Transparentne cene: Brez skritih stroškov, fiksno mesečno vzdrževanje ali enkratne rešitve.",
+            "Pristna človeška komunikacija: Brez neskončnih čakalnih vrst – vedno nas lahko neposredno kontaktirate.",
+            "Celovito IT delovanje: Nenehno si prizadevamo, da so vaši sistemi stabilni in hitri – manj izpadov, večja učinkovitost, varna infrastruktura.",
+            "Sodobna IT varnost: Varstvo podatkov in varnost omrežja z vrhunskimi požarnimi zidovi, rešitvami za varnostno kopiranje in upravljanjem dostopa – varnost je standard, ne izbira.",
+            "Spletni razvoj in digitalna prisotnost: Profesionalne, odzivne spletne strani in sistemi po meri, ki povečajo vašo spletno vidnost in privabijo stranke.",
+            "Oblačne rešitve in gostovanje: Hitro, varno in razširljivo gostovanje za vaše spletne strani, e-pošto in varnostne kopije – vedno dostopno, vedno stabilno."
+        ]
+    },
+    "testimonials": {
+        "title": "Kaj pravijo naše stranke",
+        "items": [
+            {
+                "quote": "Z ekipo SIRONIC končno mirno spimo: naši IT sistemi delujejo stabilno, hitro in varno. Ko se pojavijo težave, se odzovejo takoj in vse razložijo v preprostem jeziku – brez tehničnega žargona. Redko je najti tako zanesljivega partnerja v IT svetu.",
+                "company": "Pervector Ltd."
+            },
+            {
+                "quote": "Včasih smo imeli stalne težave z računalniki in omrežjem, odkar pa smo IT zaupali podjetju SIRONIC, vse teče gladko. Pomagajo hitro, ne glede na težavo, in z njimi vedno najdemo rešitev. To je točno tista vrsta podpore, ki jo potrebuje vsako podjetje.",
+                "company": "Bocskai Alba Flexum Ltd."
+            },
+            {
+                "quote": "SIRONIC je za nas ustvaril sodobno, čisto in mobilnim napravam prijazno spletno stran, ki ne le izgleda odlično, ampak našim strankam pomaga, da nas na spletu zlahka najdejo. Od takrat skrbijo za vzdrževanje – vsaka posodobitev in sprememba se zgodi hitro in natančno. Prejeli smo celovito, profesionalno storitev.",
+                "company": "Bull & U Ltd."
+            },
+            {
+                "quote": "Želeli smo čisto, hitro in sodobno spletno stran – SIRONIC je dostavil točno to. Profesionalna ekipa, pozornost do detajlov in vedno imajo odlične ideje, kako rezultat še izboljšati. Naša nova spletna stran popolnoma odraža identiteto našega podjetja.",
+                "company": "Regia Dental Ltd."
+            }
+        ]
+    },
+    "workProcess": {
+        "title": "Kako delamo",
+        "steps": [
+            {
+                "step": "1",
+                "title": "Začetni kontakt",
+                "description": "Pošljite nam sporočilo ali zahtevajte brezplačen posvet."
+            },
+            {
+                "step": "2",
+                "title": "IT Ocena",
+                "description": "Pregledamo vaše potrebe in podamo strokovna priporočila."
+            },
+            {
+                "step": "3",
+                "title": "Ponudba po meri",
+                "description": "Ustvarimo prilagojeno rešitev, zasnovano za vaše podjetje."
+            }
+        ]
+    },
+    "faq": {
+        "title": "Pogosto zastavljena vprašanja",
+        "items": [
+            {
+                "question": "Katera podjetja oskrbujete?",
+                "answer": "SIRONIC je specializiran za mala in srednja podjetja, ponujamo pa tudi rešitve za večja podjetja glede na edinstvene potrebe. Naj gre za podporo pri sistemski administraciji, izgradnjo omrežja ali spletni razvoj – za vsako podjetje najdemo idealno IT rešitev."
+            },
+            {
+                "question": "Kako se SIRONIC razlikuje od drugih IT ponudnikov?",
+                "answer": "Nismo samo 'popravljalci' – sisteme proaktivno spremljamo, preprečujemo težave in komuniciramo v človeškem jeziku. Ne dovolimo, da je IT ovira, temveč iz njega ustvarimo konkurenčno prednost."
+            },
+            {
+                "question": "Kako hitro se odzovete na prijavo napake?",
+                "answer": "Na splošno se odzovemo v 1–4 urah, v nujnih primerih celo takoj. Za naše naročniške partnerje zagotavljamo zajamčene odzivne čase."
+            },
+            {
+                "question": "Ali opravljate obiske na lokaciji ali samo podporo na daljavo?",
+                "answer": "Da, oboje! Večino napak rešimo na daljavo, če je potrebno, pa pridemo tudi osebno na lokacijo."
+            },
+            {
+                "question": "Ali ustvarjate spletne strani popolnoma od začetka?",
+                "answer": "Seveda. Razvijamo edinstvene, odzivne spletne strani s sodobnimi tehnologijami (Next.js, React, Tailwind) in zagotavljamo, da je stran hitra, varna in optimizirana za iskalnike."
+            },
+            {
+                "question": "Kaj je CRM Pro in kako pomaga mojemu podjetju?",
+                "answer": "CRM Pro je sistem za upravljanje strank, razvit po meri, ki prodajne procese naredi transparentne, avtomatizira administracijo in se lahko integrira z obstoječimi sistemi. Na voljo v cenovnem razredu, dostopnem tudi manjšim podjetjem."
+            },
+            {
+                "question": "Katere varnostne ukrepe uporabljate?",
+                "answer": "Uporabljamo sodobne požarne zidove, rešitve za varnostno kopiranje podatkov, šifriranje in upravljanje dostopa. Vse sisteme načrtujemo v skladu z GDPR, tako da je varnost podatkov privzeta."
+            },
+            {
+                "question": "V kakšni obliki lahko sodelujemo z vami?",
+                "answer": "Delamo v dveh glavnih oblikah: ad-hoc naloge (za občasna opravila) in mesečna pogodba o vzdrževanju (stalno delovanje in podpora). Obe sta transparentni, s fiksnimi cenami."
+            },
+            {
+                "question": "Koliko stane razvoj spletne strani ali sistema?",
+                "answer": "Osnovne spletne strani se začnejo pri 650 €, cena edinstvenih sistemov ali CRM rešitev pa se določi glede na funkcionalnost. Pred vsakim projektom podamo natančno cenovno ponudbo."
+            },
+            {
+                "question": "Zakaj se splača izbrati oblačne rešitve?",
+                "answer": "Oblak je hiter, varen in prilagodljiv – ni vam treba vzdrževati lastnega strežnika, podatki so vedno na voljo, širitev pa se lahko reši v trenutku."
+            }
+        ]
+    },
+    "finalCta": {
+        "title": "Pripravljeni na brezskrbni IT?",
+        "description": "Zahtevajte brezplačen posvet in skupaj poiščimo najboljšo rešitev za vaše podjetje.",
+        "button": "Zahtevaj ponudbo zdaj"
+    },
+    "contact": {
+        "title": "Kontaktirajte nas",
+        "subtitle": "Imate vprašanja ali želite brezplačen posvet? Kontaktirajte nas in odgovorili vam bomo v najkrajšem možnem času!",
+        "form": {
+            "title": "Pošlji sporočilo",
+            "name": "Ime",
+            "email": "E-pošta",
+            "service": "Katera storitev vas zanima?",
+            "servicePlaceholder": "Izberite storitev",
+            "message": "Sporočilo",
+            "submit": "Pošlji",
+            "submitting": "Pošiljanje...",
+            "required": "*",
+            "success": "Vaše sporočilo je bilo uspešno poslano! Kmalu vas bomo kontaktirali.",
+            "error": "Pri pošiljanju vašega sporočila je prišlo do napake",
+            "noscript": "Svoje sporočilo lahko pošljete tudi po e-pošti:",
+            "options": {
+                "placeholder": "Izberite storitev",
+                "mindenCegnek": "Vsako podjetje bi moralo imeti IT strokovnjaka",
+                "systemOperation": "Sistemsko upravljanje in IT vzdrževanje",
+                "networking": "Izgradnja in razvoj omrežja",
+                "security": "IT varnost in varstvo podatkov",
+                "development": "Razvoj spletnih strani in sistemov",
+                "commerce": "Trgovina – IT naprave in programska oprema",
+                "hosting": "Gostovanje in oblačne rešitve",
+                "repair": "Servis in popravilo",
+                "training": "IT izobraževanje in razvoj znanja"
+            },
+            "errors": {
+                "general": "Prišlo je do omrežne napake. Prosimo, poskusite znova kasneje."
+            }
+        },
+        "info": {
+            "title": "Kontaktni podatki",
+            "email": "E-pošta",
+            "phone": "Telefon",
+            "location": "Lokacija",
+            "hours": "Delovni čas",
+            "hoursValue": "Ponedeljek – Petek\n8:00 – 17:00",
+            "quickResponse": "Hiter odziv",
+            "quickResponseText": "Na vsa povpraševanja običajno odgovorimo v 24 urah ob delavnikih. Za nujne zadeve nas prosimo pokličite!"
+        }
+    },
+    "footer": {
+        "companyName": "SIRONIC IT Solutions",
+        "tagline": "Celovite IT rešitve za mala in srednja podjetja",
+        "legalName": "Skoda Dávid András s.p.",
+        "address": "8000 Székesfehérvár, Lövölde utca 24 4/15",
+        "taxNumber": "Davčna št.: 45755754-2-27",
+        "links": "Hitre povezave",
+        "hours": "Delovni čas",
+        "hoursValue": "Ponedeljek – Petek\n8:00 – 17:00",
+        "cookieSettings": "Nastavitve piškotkov",
+        "copyright": "© {year} SIRONIC IT Solutions. Vse pravice pridržane."
+    },
+    "common": {
+        "readMore": "Preberi več",
+        "learnMore": "Izvedite več o tem",
+        "getQuote": "Zahtevaj ponudbo",
+        "contactUs": "Kontakt",
+        "loading": "Nalaganje...",
+        "whatYouGet": "Kaj dobite:"
+    },
+    "servicesPage": {
+        "title": "Naše storitve",
+        "subtitle": "Popolne IT rešitve za varno in učinkovito poslovanje vašega podjetja. Od vzdrževanja s fiksno ceno do razvoja po meri – vse na enem mestu.",
+        "cta": {
+            "title": "Vas zanima katera od naših storitev?",
+            "subtitle": "Zahtevajte brezplačen posvet in skupaj poiščimo najboljšo rešitev za vaše podjetje.",
+            "requestQuote": "Zahtevaj ponudbo zdaj",
+            "reportService": "Prijavi težavo s storitvijo"
+        },
+        "details": {
+            "systemOperation": {
+                "features": [
+                    "Proaktivno spremljanje in vzdrževanje",
+                    "Hitro odpravljanje težav",
+                    "Redne varnostne posodobitve",
+                    "Optimizacija delovanja"
+                ]
+            },
+            "networking": {
+                "features": [
+                    "Načrtovanje in implementacija omrežja",
+                    "Optimizacija WiFi omrežja",
+                    "VPN in oddaljen dostop",
+                    "Omrežna varnost"
+                ]
+            },
+            "security": {
+                "features": [
+                    "Konfiguracija in upravljanje požarnega zidu",
+                    "Samodejno varnostno kopiranje",
+                    "Uredba o varstvu podatkov (GDPR)",
+                    "Zaščita pred virusi in zlonamerno programsko opremo"
+                ]
+            },
+            "development": {
+                "features": [
+                    "Sodobne, odzivne spletne strani",
+                    "Rešitve za e-trgovino",
+                    "Razvoj programske opreme po meri",
+                    "SEO optimizacija"
+                ]
+            },
+            "commerce": {
+                "description": "Pri nas dobite vse, kar potrebujete za pisarniško poslovanje – računalnike, monitorje, tiskalnike, strežnike, omrežne naprave in licence za programsko opremo. Sodelujemo z zanesljivimi blagovnimi znamkami in vam pomagamo izbrati najboljše razmerje med ceno in kakovostjo. Ne glede na to, ali potrebujete novo opremo ali nadgradnje, poskrbimo za to.",
+                "features": [
+                    "Računalniki, prenosniki in strežniki",
+                    "Omrežne naprave in zunanje naprave",
+                    "Nabava licenc za programsko opremo",
+                    "Svetovanje pri izbiri opreme"
+                ]
+            },
+            "hosting": {
+                "description": "Ponujamo stabilne, hitre in varne rešitve gostovanja za spletne strani, e-pošto in varnostno kopiranje podatkov. Zagotavljamo, da so vaši podatki vedno dostopni in zaščiteni preko našega lastnega strežniškega parka ali zanesljivih mednarodnih partnerjev.",
+                "features": [
+                    "Spletno gostovanje in registracija domen",
+                    "Gostovanje e-pošte",
+                    "Oblačno varnostno kopiranje in deljenje datotek",
+                    "Najem in upravljanje strežnikov"
+                ]
+            },
+            "repair": {
+                "title": "Servis in popravilo – Na lokaciji ali po pošti",
+                "description": "Hitro in zanesljivo popravilo računalnikov, prenosnikov, strežnikov in omrežnih naprav. Servis na lokaciji v Székesfehérvárju in okolici ali storitev po pošti. Vsako popravilo začnemo z diagnostiko in nadaljujemo šele po vaši potrditvi ponudbe. Naš cilj je, da vaš sistem čim prej ponovno deluje.",
+                "features": [
+                    "Servis na lokaciji (Székesfehérvár in okolica)",
+                    "Možnost pošiljanja po pošti",
+                    "Transparentna ponudba pred popravilom",
+                    "Hiter čas popravila"
+                ]
+            },
+            "training": {
+                "title": "IT izobraževanje in razvoj znanja",
+                "description": "Razvijte digitalne veščine svoje ekipe! Ponujamo personalizirano IT izobraževanje, usposabljanje za varnostno ozaveščenost in razvoj sistemskega znanja, tako da lahko zaposleni samozavestno uporabljajo sodobne naprave in programsko opremo. Varno delovanje se začne z informacijami.",
+                "features": [
+                    "Personalizirano IT izobraževanje",
+                    "Usposabljanje za varnostno ozaveščenost",
+                    "Usposabljanje za uporabo programske opreme in naprav",
+                    "Programi razvoja korporativnega znanja"
+                ]
+            }
+        }
+    },
+    "productsPage": {
+        "breadcrumb": {
+            "home": "Domov",
+            "products": "Produkti"
+        },
+        "title": "Naši produkti – Sironic tehnologija v realnih rešitvah",
+        "subtitle": "Naš interni razvoj so spodbudile resnične potrebe – ti sistemi zdaj podpirajo delovanje več podjetij. Poglejte, kako lahko pomagajo tudi vašemu podjetju.",
+        "noProducts": "Trenutno ni izdelkov za prikaz. Naša ponudba se bo kmalu razširila!",
+        "cta": {
+            "title": "Vas zanima kateri od naših produktov?",
+            "subtitle": "Kontaktirajte nas in pokazali vam bomo, kako se lahko naši sistemi vključijo v vaše poslovanje. Vsi naši produkti so bili razviti na podlagi realnih poslovnih potreb.",
+            "consultation": "Zahtevaj posvet",
+            "services": "Naše storitve"
+        },
+        "whyChoose": {
+            "title": "Zakaj izbrati Sironic produkte?",
+            "reasons": [
+                {
+                    "title": "Rešitve za resnične probleme",
+                    "description": "Vsi naši produkti so preizkušeni v praksi in dokazani pri delujočih podjetjih."
+                },
+                {
+                    "title": "Podpora v slovenščini",
+                    "description": "Lahko nas dosežete neposredno, brez jezikovnih ovir ali avtomatiziranih odzivnih sistemov."
+                },
+                {
+                    "title": "Stalen razvoj",
+                    "description": "Redno širimo in izboljšujemo funkcije naših izdelkov na podlagi povratnih informacij strank."
+                },
+                {
+                    "title": "Možnosti prilagajanja",
+                    "description": "Naše produkte lahko prilagodimo vašim potrebam in jih integriramo v vaše obstoječe sisteme."
+                }
+            ]
+        }
+    },
+    "aboutPage": {
+        "title": "O nas",
+        "intro": [
+            "SIRONIC IT Solutions je nastal v obdobju COVID-a, ko je moralo vsako podjetje premisliti o svojem IT delovanju. Od takrat se nenehno razvijamo in sledimo hitrim spremembam v svetu IT – ker verjamemo, da je tehnologija lahko prednost, ne breme, za vsako podjetje.",
+            "Naš cilj je, da se malim in srednjim podjetjem ne bi bilo treba boriti z IT težavami. Ne vzdržujemo samo sistemov – zagotavljamo stabilnost, varnost in mirno delovanje.",
+            "Naj gre za upravljanje sistemov, izgradnjo omrežij, varnost podatkov ali spletni razvoj, pri nas je vsaka IT rešitev v eni roki – hitro, transparentno in v človeškem jeziku."
+        ],
+        "stats": [
+            {
+                "value": "5+",
+                "label": "Let Izkušenj"
+            },
+            {
+                "value": "100+",
+                "label": "Zadovoljnih Strank"
+            },
+            {
+                "value": "24/7",
+                "label": "Dosegljivost"
+            },
+            {
+                "value": "99.9%",
+                "label": "Čas delovanja"
+            }
+        ],
+        "mission": {
+            "title": "Misija SIRONIC",
+            "paragraphs": [
+                "Vemo, da za malo ali srednje podjetje IT ne bi smel biti ovira – preprosto mora delovati, vsak dan, brezhibno. Izpad, počasno omrežje ali zastarela varnostna nastavitev lahko danes povzročijo resne izgube.",
+                "Zato smo ustvarili SIRONIC IT Solutions: da bi profesionalno, a cenovno dostopno IT ozadje naredili dostopno vsakemu podjetju. Ni vam treba zaposliti lastnega sistemskega administratorja, ni vam treba graditi zapletene ali drage infrastrukture – mi poskrbimo za vse.",
+                "Naše storitve pokrivajo celotno IT delovanje: upravljanje sistemov, izgradnjo omrežij, varnostno kopiranje podatkov, IT varnost, upravljanje požarnih zidov, spletni razvoj in IT izobraževanje. Vedno se prilagajamo trenutnim tehnologijam, tako da so naše stranke lahko prepričane, da so njihovi poslovni IT sistemi posodobljeni in varni.",
+                "SIRONIC ne zagotavlja le IT – ampak mir, predvidljivost in podporo. Smo tisti, ki jih lahko kadarkoli pokličete, če pride do težave – in pogosto jo rešimo, še preden jo sploh opazite.",
+                "Vsako stranko obravnavamo kot partnerja, ne le vzdržujemo njihove sisteme, ampak dolgoročno skrbimo za njihovo delovanje."
+            ]
+        },
+        "values": {
+            "title": "Zakaj delati z nami?",
+            "items": [
+                {
+                    "title": "Proaktiven odnos",
+                    "description": "Ne ukrepamo le, ko je težava. Vaše sisteme nenehno spremljamo, da preprečimo težave."
+                },
+                {
+                    "title": "Človeška komunikacija",
+                    "description": "Tukaj ni 'džungle zahtevkov'. Govorite z resničnimi ljudmi, ki razumejo vašo težavo in hitro pomagajo."
+                },
+                {
+                    "title": "Transparentnost",
+                    "description": "Fiksno mesečno vzdrževanje ali enkratne rešitve – brez skritih stroškov, vedno veste, kaj lahko pričakujete."
+                }
+            ]
+        },
+        "howWeWork": {
+            "title": "Kako delamo?",
+            "steps": [
+                "Prisluhnemo vašim potrebam in ocenimo vaš trenutni IT sistem",
+                "Pripravimo priporočilo za najboljšo rešitev za vas",
+                "Nastavimo, optimiziramo in spremljamo vaš sistem",
+                "Zagotavljamo stalno podporo, kadarkoli nas potrebujete"
+            ]
+        },
+        "finalCta": {
+            "title": "Postanite eden naših partnerjev!",
+            "subtitle": "Zahtevajte brezplačen posvet in skupaj poiščimo najboljšo IT rešitev za vaše podjetje.",
+            "button": "Stopimo v stik"
+        }
+    },
+    "pricingPage": {
+        "title": "Cenik",
+        "subtitle": "Ustvarimo ponudbe po meri glede na vaše poslovne potrebe. Nobeni dve podjetji nista enaki – zato naše pristojbine vedno prilagodimo vaši infrastrukturi in zahtevam.",
+        "heroTitle": "Transparentne cene – Jasno in enostavno",
+        "heroDescription": "Brez skritih stroškov. Naše storitve smo zasnovali tako, da lahko vsako podjetje najde pravo rešitev – naj gre za vzdrževanje, razvoj ali popravilo.",
+        "packages": {
+            "mindenCegnek": {
+                "title": "Vsako podjetje si zasluži IT oddelek",
+                "price": "od 150 €/mesec",
+                "description": "Popolno IT delovanje v mesečni naročnini – kot da bi imeli svojega IT strokovnjaka.",
+                "features": [
+                    "Stalno spremljanje in vzdrževanje sistema",
+                    "Hitro posredovanje v primeru napake",
+                    "Svetovanje pri razvoju infrastrukture",
+                    "Upravljanje varnostnih kopij in posodobitev",
+                    "Osebna, slovensko govoreča IT podpora"
+                ],
+                "badge": "🎁 Velja do 1. feb 2026: 10% popust na prve 3 mesece za zahteve za posvet!",
+                "ctaText": "Zahtevaj posvet"
+            },
+            "systemOperation": {
+                "title": "Sistemsko upravljanje & IT vzdrževanje",
+                "price": "od 120 €/mesec",
+                "description": "Stalni nadzor in neprekinjeno delovanje.",
+                "features": [
+                    "Redno vzdrževanje in spremljanje",
+                    "Hitro odpravljanje težav in obnovitev",
+                    "Nadzor strežnika in omrežja",
+                    "Proaktivno delovanje in varnostne posodobitve"
+                ],
+                "ctaText": "Zahtevaj ponudbo"
+            },
+            "networking": {
+                "title": "Izgradnja & razvoj omrežij",
+                "price": "od 180 € / projekt",
+                "description": "Zanesljivo, varno načrtovanje in izvedba omrežne infrastrukture.",
+                "features": [
+                    "Celotno načrtovanje in namestitev omrežja",
+                    "Konfiguracija usmerjevalnika, stikala, Wi-Fi",
+                    "Optimizacija in vzdrževanje omrežja",
+                    "Hitra, stabilna in varna podatkovna povezava"
+                ],
+                "ctaText": "Zahtevaj ponudbo"
+            },
+            "security": {
+                "title": "IT Varnost & Varstvo podatkov",
+                "price": "od 240 €",
+                "description": "Zaščitite svoje poslovne podatke s sodobnimi rešitvami.",
+                "features": [
+                    "Nastavitev požarnega zidu in varnost omrežja",
+                    "Varnostno kopiranje in obnovitev",
+                    "Upravljanje dostopa, šifriranje",
+                    "GDPR skladno varstvo podatkov"
+                ],
+                "ctaText": "Zahtevaj ponudbo"
+            },
+            "development": {
+                "title": "Razvoj spletnih strani & sistemov",
+                "price": "od 1.000 € (enkratno)",
+                "description": "Profesionalni razvoj po meri za digitalno rast vašega podjetja.",
+                "features": [
+                    "Odzivne spletne strani in portali",
+                    "Programske rešitve po meri",
+                    "SEO in UX optimizacija",
+                    "Stalna podpora in vzdrževanje"
+                ],
+                "ctaText": "Zahtevaj ponudbo"
+            },
+            "commerce": {
+                "title": "Trgovina – IT oprema & programska oprema",
+                "price": "Na podlagi ponudbe po meri",
+                "description": "Vse potrebno za sodobno pisarniško poslovanje.",
+                "features": [
+                    "Računalniki, monitorji, strežniki",
+                    "Tiskalniki in omrežne naprave",
+                    "Licence za programsko opremo in naročnine",
+                    "Celotna pisarniška infrastruktura"
+                ],
+                "ctaText": "Zahtevaj ponudbo"
+            },
+            "hosting": {
+                "title": "Gostovanje & Oblačne rešitve",
+                "price": "od 15 €/mesec",
+                "description": "Hitro, varno in razširljivo gostovanje za podjetja.",
+                "features": [
+                    "Spletno in e-poštno gostovanje",
+                    "Oblačno varnostno kopiranje",
+                    "Zasebna storitev v oblaku",
+                    "Stalna razpoložljivost (99,9%)"
+                ],
+                "ctaText": "Zahtevaj ponudbo"
+            },
+            "crm": {
+                "title": "Razvoj CRM po meri",
+                "price": "od 1.500 €",
+                "description": "Personaliziran sistem za upravljanje strank, ki poveča učinkovitost prodaje.",
+                "features": [
+                    "Modularna struktura, prilagodljive funkcije",
+                    "Investicija v obstoječe sisteme (ERP, e-pošta)",
+                    "Avtomatizirana poročila in analitika",
+                    "Uporabniku prijazen vmesnik"
+                ],
+                "ctaText": "Zahtevaj ponudbo"
+            }
+        },
+        "customQuote": {
+            "title": "Imate edinstvene potrebe?",
+            "description": "Cene so okvirne; točne ponudbe so vedno na podlagi zahtev.\nZahtevajte brezplačen posvet in pomagali vam bomo najti najboljšo rešitev.",
+            "button": "Zahtevaj brezplačen IT posvet"
+        },
+        "whyChoose": {
+            "title": "Zakaj izbrati SIRONIC?",
+            "description": "Če noben paket ne ustreza popolnoma, bomo ustvarili ponudbo po meri. Nobeni dve podjetji nista enaki – in tudi dve rešitvi ne.",
+            "reasons": [
+                {
+                    "title": "Transparentne cene",
+                    "description": "Brez skritih stroškov"
+                },
+                {
+                    "title": "Prilagodljivi paketi",
+                    "description": "Mesečne in enkratne rešitve"
+                },
+                {
+                    "title": "Hiter odziv",
+                    "description": "Pomagamo takoj, če je potrebno"
+                },
+                {
+                    "title": "Dolgoročna podpora",
+                    "description": "Stranke obravnavamo kot partnerje"
+                }
+            ],
+            "button": "Zahtevaj ponudbo po meri"
+        }
+    },
+    "mindenCegnekPage": {
+        "hero": {
+            "badge": "Mesečna IT podpora",
+            "title": "Vsako podjetje si zasluži IT oddelek",
+            "subtitle": "Kot da bi imeli svojega IT strokovnjaka",
+            "description": "Storitev, kjer vam ni treba zaposliti IT strokovnjaka – namesto tega dobite celotno ekipo, ki v ozadju skrbi, da je vse posodobljeno, spremlja, vzdržuje in posreduje le, ko je to potrebno.",
+            "cta": "Zahtevaj posvet",
+            "discount": "Velja do 1. feb 2026: 10% popust na prve 3 mesece za zahteve za posvet!",
+            "scroll": "Pomaknite se navzdol za več informacij"
+        },
+        "whatYouGet": {
+            "title": "Kaj točno dobite?",
+            "subtitle": "Celovito IT rešitev, ki dela za vas vsak dan – neopazno, a učinkovito.",
+            "features": {
+                "internet": {
+                    "title": "Stalen dostop do interneta in stabilno delovanje",
+                    "description": "Zagotavljamo, da je omrežje vašega podjetja vedno na voljo, stabilno in varno – neopazno, v ozadju."
+                },
+                "platform": {
+                    "title": "Edinstvena platforma za prijavo napak",
+                    "description": "Dobra lasten vmesnik, kjer lahko enostavno prijavite težave ali zahteve – odzovemo se takoj."
+                },
+                "monitoring": {
+                    "title": "Stalno spremljanje in odpravljanje težav",
+                    "description": "Spremljamo strežnike, omrežje in sisteme, da rešimo napake, preden jih sploh opazite."
+                },
+                "cost": {
+                    "title": "Stroškovno učinkovita, transparentna cenovna struktura",
+                    "description": "Poleg fiksne mesečne pristojbine plačate le tisto, kar dejansko potrebuje pozornost – na podlagi vnaprej dogovorjenega cenika."
+                },
+                "reporting": {
+                    "title": "Posodobljeni sistemi, mesečno poročilo",
+                    "description": "Sisteme nenehno posodabljamo in vzdržujemo ter konec vsakega meseca pošljemo poročilo o delovanju in stanju sistema."
+                }
+            }
+        },
+        "benefits": {
+            "title": "Zakaj je to dobro za vas?",
+            "subtitle": "Stroškovno učinkovita, transparentna in zanesljiva IT podpora – brez vzdrževanja lastnega IT oddelka.",
+            "items": [
+                "Ni potrebe po zaposlovanju lastnega IT osebja – nekdo pa vseeno spremlja vaše sisteme",
+                "Fiksna mesečna pristojbina, predvidljivi stroški",
+                "Hiter odzivni čas v primeru težav",
+                "Proaktivno vzdrževanje in spremljanje",
+                "Osebna podpora v slovenščini",
+                "Mesečna poročila o stanju sistema",
+                "Razširljiva rešitev – ko vaše podjetje raste, rastemo tudi mi",
+                "Brez presenetljivih računov – vse vnaprej dogovorjeno"
+            ]
+        },
+        "pricing": {
+            "title": "Kako deluje oblikovanje cen?",
+            "subtitle": "Preprosta in transparentna struktura – fiksna mesečna pristojbina plus vnaprej dogovorjena urna postavka, če je potrebno.",
+            "fixed": {
+                "title": "Fiksna mesečna pristojbina",
+                "price": "od 150 €/mesec",
+                "description": "Vključuje spremljanje, osnovno vzdrževanje, poročanje in podporo."
+            },
+            "hourly": {
+                "title": "Plus urna postavka dela",
+                "price": "Vnaprej dogovorjena urna postavka",
+                "description": "Plačate le, če je potrebna dejanska intervencija ali razvoj."
+            },
+            "note": "Cene so odvisne od dolžine pogodbe in vrste nalog. Zahtevajte ponudbo po meri!"
+        },
+        "finalCta": {
+            "title": "Ne potrebujete lastnega IT strokovnjaka, le zanesljivega partnerja",
+            "description": "Zagotavljamo strokovnost, hiter odziv in stabilno delovanje – vi se lahko osredotočite na svoje podjetje.",
+            "button": "Zahtevaj ponudbo"
+        }
+    },
+    "customDevelopment": {
+        "badge": "Razvoj programske opreme po meri",
+        "title": "Razvoj aplikacij po meri za vaše podjetje",
+        "subtitle": "Razširljiva, varna in poslovno usmerjena programska oprema",
+        "description": "Ekipa SIRONIC ponuja celovit razvoj aplikacij po meri za vaše podjetje. Od spletnih aplikacij in Windows namizne programske opreme do mobilnih aplikacij – vse rešitve prilagojene vašim poslovnim potrebam s sodobnimi tehnologijami.",
+        "cards": {
+            "webApps": {
+                "title": "Razvoj spletnih aplikacij po meri",
+                "description": "Spletni sistemi, ki temeljijo na TailScript in React tehnologiji. Hitre, sodobne in učinkovite rešitve za kompleksne poslovne procese."
+            },
+            "desktop": {
+                "title": "Windows namizna programska oprema",
+                "description": "Razvoj nativnih Windows aplikacij s sodobnimi tehnologijami. Učinkovita, hitra in zanesljiva programska oprema za pisarniška okolja."
+            },
+            "mobile": {
+                "title": "Razvoj mobilnih aplikacij",
+                "description": "Razvoj Android in iOS aplikacij. Sodobne, intuitivne mobilne rešitve, ki delujejo brezhibno na vsaki napravi."
+            }
+        },
+        "cta": {
+            "main": "Zahtevaj ponudbo za razvoj po meri",
+            "learnMore": "Izvedite več"
+        }
+    },
+    "customDevelopmentPage": {
+        "breadcrumb": {
+            "home": "Domov",
+            "customDevelopment": "Razvoj aplikacij po meri"
+        },
+        "hero": {
+            "title": "Razvoj aplikacij po meri",
+            "subtitle": "Sodobne, razširljive in poslovno usmerjene programske rešitve, prilagojene vašim potrebam",
+            "description": "Več kot le izdelava spletnih strani – razvijamo kompleksne aplikacije, ki ustvarjajo resnično vrednost za vaše podjetje. Od spletnih aplikacij na osnovi TailScript in React do nativne Windows programske opreme in mobilnih aplikacij za Android/iOS.",
+            "cta": "Zahtevaj brezplačen posvet",
+            "scrollDown": "Pomaknite se navzdol za podrobnosti"
+        },
+        "what": {
+            "title": "Kaj razvijamo?",
+            "subtitle": "Celovite programske rešitve po meri z vrhunskimi tehnologijami",
+            "items": [
+                {
+                    "title": "Spletne aplikacije na osnovi TailScript",
+                    "description": "Hitri, sodobni in učinkoviti spletni sistemi s tehnologijo TailScript. Razširljive rešitve za kompleksne poslovne procese, ki delujejo gladko v vsakem brskalniku."
+                },
+                {
+                    "title": "React poslovne aplikacije",
+                    "description": "Spletne aplikacije na ravni podjetja z React in Next.js. Intuitiven uporabniški vmesnik, hitro nalaganje, SEO optimizirana struktura – vse, kar potrebujejo sodobne poslovne aplikacije."
+                },
+                {
+                    "title": "Windows namizna programska oprema",
+                    "description": "Razvoj nativnih Windows aplikacij z .NET in sodobnimi C# tehnologijami. Hitre, zanesljive namizne rešitve, ki se brezhibno integrirajo v korporativna okolja."
+                },
+                {
+                    "title": "Razvoj mobilnih aplikacij – Android + iOS",
+                    "description": "Nativne in medplatformske mobilne aplikacije z React Native in Flutter. Ena baza kode, dve platformi – hiter razvoj, odlična uporabniška izkušnja na obeh operacijskih sistemih."
+                }
+            ]
+        },
+        "whyChoose": {
+            "title": "Zakaj izbrati SIRONIC za razvoj po meri?",
+            "subtitle": "Ne pišemo le kode – smo partnerji pri doseganju vaših poslovnih ciljev",
+            "reasons": [
+                {
+                    "title": "Resnično razumevanje poslovanja",
+                    "description": "Nismo le programerji – razumemo poslovne procese. Vsak razvoj je prilagojen vašim potrebam, da ustvari resnično vrednost."
+                },
+                {
+                    "title": "Sodobne tehnologije",
+                    "description": "React, Next.js, TailScript, .NET, React Native – delamo z najnaprednejšimi orodji, ki so hitra, varna in pripravljena na prihodnost."
+                },
+                {
+                    "title": "Dolgoročno partnerstvo",
+                    "description": "Ne ustavimo se pri razvoju. Zagotavljamo stalno podporo, vzdrževanje in nadaljnji razvoj – programska oprema vedno sledi vašim poslovnim potrebam."
+                },
+                {
+                    "title": "Transparentna komunikacija",
+                    "description": "Slovensko govoreča, neposredna komunikacija. Brez jezikovnih ovir, brez nesporazumov – vedno veste, kje stoji projekt."
+                },
+                {
+                    "title": "Varnost in zanesljivost",
+                    "description": "Vse naše aplikacije so zgrajene z varnim ravnanjem s podatki, strukturo, skladno z GDPR, in stabilnim delovanjem."
+                },
+                {
+                    "title": "Razširljivost",
+                    "description": "Naše sisteme načrtujemo tako, da rastejo z vašim podjetjem – ni potrebe po ponovnem pisanju, ko se širite."
+                }
+            ]
+        },
+        "technologies": {
+            "title": "Katere tehnologije uporabljamo?",
+            "subtitle": "Najsodobnejša in najbolj zanesljiva orodja na trgu",
+            "list": [
+                "React & Next.js – sodobne, SEO prijazne spletne aplikacije",
+                "TailScript – hitri in razširljivi spletni sistemi",
+                "TypeScript – varna koda brez napak",
+                "Node.js & Express – robustne zaledne rešitve",
+                ".NET & C# – nativna Windows programska oprema",
+                "React Native & Flutter – medplatformske mobilne aplikacije",
+                "Tailwind CSS – sodoben, odziven dizajn",
+                "PostgreSQL, MySQL – zanesljivo upravljanje baz podatkov",
+                "Docker & Cloud – razširljiva in varna infrastruktura"
+            ]
+        },
+        "process": {
+            "title": "Kako delamo?",
+            "subtitle": "Transparenten, strukturiran razvojni proces – korak za korakom",
+            "steps": [
+                {
+                    "number": "1",
+                    "title": "Analiza zahtev in posvetovanje",
+                    "description": "Spoznamo vaše poslovne cilje, pričakovanja in trenutne sisteme. Natančno razjasnimo, kaj želite doseči s programsko opremo."
+                },
+                {
+                    "number": "2",
+                    "title": "UX/UI Oblikovanje in gradnja strukture",
+                    "description": "Oblikujemo uporabniško izkušnjo in vmesnik. Žični modeli, dizajni in načrti interakcij – tako da točno vemo, kaj gradimo."
+                },
+                {
+                    "number": "3",
+                    "title": "Razvoj in stalna koordinacija",
+                    "description": "Dejansko kodiranje. Ves čas komuniciramo, kažemo napredek in se odzivamo na vaše potrebe – tako da ob prevzemu ni presenečenj."
+                },
+                {
+                    "number": "4",
+                    "title": "Testiranje in zagotavljanje kakovosti",
+                    "description": "Temeljito testiranje na vsaki napravi in brskalniku. Testi zmogljivosti, varnosti in funkcionalnosti – da zagotovimo brezhibno delovanje."
+                },
+                {
+                    "number": "5",
+                    "title": "Zagon v živo in usposabljanje",
+                    "description": "Namestitev programske opreme in usposabljanje uporabnikov. Dobite vso dokumentacijo in podporo za nemoteno delovanje."
+                },
+                {
+                    "number": "6",
+                    "title": "Vzdrževanje in nadaljnji razvoj",
+                    "description": "Stalna podpora, popravki napak in nadaljnji razvoj. Programska oprema vedno ostaja posodobljena in sledi vašim potrebam."
+                }
+            ]
+        },
+        "useCases": {
+            "title": "Za kaj je dobra aplikacija po meri?",
+            "subtitle": "Resnični poslovni problemi, ki jih rešujemo s programsko opremo po meri",
+            "examples": [
+                "CRM in sistemi za upravljanje strank – imejte svoje stranke pod nadzorom",
+                "Programska oprema za inventar in logistiko – avtomatizirano upravljanje skladišča",
+                "Interni portali podjetja – vsi podatki na enem mestu",
+                "E-trgovina in razvoj spletnih trgovin – spletni prodajni kanali",
+                "Orodja za vodenje projektov – timsko delo in sledenje nalogam",
+                "Avtomatizirana poročila in administracija – prihranite čas",
+                "Integracija z obstoječimi sistemi – povezava z ERP, izdajanjem računov, CRM",
+                "Mobilne aplikacije – v rokah strank in zaposlenih"
+            ]
+        },
+        "pricing": {
+            "title": "Koliko stane aplikacija po meri?",
+            "subtitle": "Vsak projekt je edinstven – cena vedno temelji na zahtevah",
+            "description": "Cena razvoja aplikacije po meri je odvisna od kompleksnosti projekta, funkcionalnosti in časovnih zahtev. Manjše aplikacije se začnejo pri 2.000 €, večji poslovni sistemi lahko stanejo več deset tisoč evrov – vendar vedno pripravimo ponudbo po meri.",
+            "process": "Na brezplačnem posvetu ocenimo vaše potrebe, se pogovorimo o možnostih in zagotovimo transparentno, fiksno ponudbo za celoten projekt.",
+            "cta": "Zahtevaj brezplačno ponudbo"
+        },
+        "faq": {
+            "title": "Pogosto zastavljena vprašanja",
+            "items": [
+                {
+                    "question": "Koliko časa traja razvoj aplikacije po meri?",
+                    "answer": "Odvisno od velikosti projekta – preprosta spletna aplikacija traja 4-8 tednov, medtem ko lahko kompleksen poslovni sistem traja 3-6 mesecev. Roke vedno dorečemo v ponudbi."
+                },
+                {
+                    "question": "Ali se lahko integrirate z obstoječimi sistemi?",
+                    "answer": "Da! Redno se integriramo z ERP-ji, CRM-ji, sistemi za izdajanje računov in drugimi zunanjimi API-ji. To je ena največjih prednosti razvoja po meri."
+                },
+                {
+                    "question": "Kdo je lastnik izvorne kode?",
+                    "answer": "Po projektu izvorna koda postane vaša popolna last – brez skritih licenčnih stroškov ali odvisnosti."
+                },
+                {
+                    "question": "Kaj pa vzdrževanje in nadaljnji razvoj?",
+                    "answer": "Po predaji nudimo podporo: popravke napak, posodobitve, nadaljnji razvoj – z opcijskimi mesečnimi ali enkratnimi rešitvami."
+                },
+                {
+                    "question": "Kakšno garancijo dobimo na aplikacijo?",
+                    "answer": "Po predaji velja 6-mesečna garancija na napake – v tem obdobju brezplačno odpravimo vse funkcionalne težave."
+                }
+            ]
+        },
+        "finalCta": {
+            "title": "Pripravljeni na programsko rešitev po meri?",
+            "description": "Pogovorimo se o vaših potrebah in skupaj ustvarimo aplikacijo, ki resnično poveča vašo poslovno učinkovitost.",
+            "button": "Zahtevaj brezplačen posvet"
+        }
+    },
+    "itTraining": {
+        "badge": "IT Izobraževanje & Usposabljanje",
+        "title": "IT Izobraževanje & Razvoj korporativnega znanja",
+        "subtitle": "Razvijte digitalne veščine svoje ekipe",
+        "description": "Ponujamo personalizirano IT izobraževanje, delavnice za varnostno ozaveščenost in razvoj sistemskega znanja, da zagotovimo, da vaši zaposleni samozavestno uporabljajo sodobna orodja in programsko opremo. Varno delovanje se začne z informacijami.",
+        "cards": {
+            "personalized": {
+                "title": "Personalizirano IT izobraževanje",
+                "description": "Programi usposabljanja po meri za izboljšanje digitalne usposobljenosti vaše ekipe. Praktično znanje, ki ga lahko takoj uporabite pri vsakdanjih nalogah."
+            },
+            "security": {
+                "title": "Usposabljanje za varnostno ozaveščenost",
+                "description": "Osnove kibernetske varnosti in delavnice o varstvu podatkov. Naučite svojo ekipo, kako učinkovito varovati podatke in sisteme vašega podjetja."
+            },
+            "software": {
+                "title": "Usposabljanje za uporabo programske opreme in naprav",
+                "description": "Učinkovita uporaba Microsoft 365, Google Workspace in pisarniških orodij. Povečajte produktivnost z obvladovanjem pravih orodij."
+            },
+            "corporate": {
+                "title": "Programi razvoja korporativnega znanja",
+                "description": "Dolgoročni razvoj digitalnih kompetenc. Programi stalnega izobraževanja, ki sledijo tehnološkemu napredku."
+            }
+        },
+        "languageNote": "Usposabljanja so trenutno na voljo samo v madžarščini (ali angleščini po dogovoru), bodisi na spletu ali na lokaciji.",
+        "cta": {
+            "main": "Zahtevaj ponudbo za usposabljanje",
+            "learnMore": "Izvedite več"
+        }
+    },
+    "itTrainingPage": {
+        "meta": {
+            "title": "IT Izobraževanje & Korporativno usposabljanje | SIRONIC",
+            "description": "Praktično IT usposabljanje za podjetja: varnostna ozaveščenost, uporaba programske opreme in razvoj digitalnih kompetenc. Nadgradite veščine svoje ekipe!",
+            "keywords": [
+                "IT usposabljanje",
+                "korporativno usposabljanje",
+                "varnostna ozaveščenost",
+                "digitalne kompetence",
+                "Excel tečaj",
+                "IT delavnica"
+            ],
+            "ogTitle": "IT Izobraževanje & Korporativno usposabljanje - SIRONIC",
+            "ogDescription": "Praktično IT usposabljanje za podjetja. Nadgradite digitalne veščine svoje ekipe z nami!"
+        },
+        "breadcrumb": {
+            "home": "Domov",
+            "training": "IT Izobraževanje"
+        },
+        "hero": {
+            "title": "IT Izobraževanje & Razvoj korporativnega znanja",
+            "subtitle": "Razvijte digitalne veščine svoje ekipe s profesionalnim usposabljanjem",
+            "description": "SIRONIC ne upravlja le IT sistemov – razvijamo tudi digitalno znanje vaših zaposlenih. Z našim personaliziranim usposabljanjem bo vaša ekipa samozavestno uporabljala sodobna orodja in se zavedala varnostnih tveganj.",
+            "cta": "Zahtevaj brezplačen posvet",
+            "scrollDown": "Pomaknite se navzdol za podrobnosti"
+        },
+        "intro": {
+            "title": "Zakaj je korporativno IT izobraževanje pomembno?",
+            "content": [
+                "Tudi najboljša IT infrastruktura ni dovolj, če je zaposleni ne znajo učinkovito uporabljati. Slabo poznavanje orodij, pomanjkanje varnostne ozaveščenosti in zastareli delovni procesi zmanjšujejo produktivnost in povečujejo tveganja.",
+                "Z IT izobraževalnimi programi SIRONIC vaša ekipa pridobi posodobljeno znanje, dela bolj samozavestno in zavestno varuje poslovne podatke. Vsa naša usposabljanja so praktična, personalizirana in neposredno uporabna pri vsakdanjem delu."
+            ]
+        },
+        "services": {
+            "title": "Katera usposabljanja ponujamo?",
+            "subtitle": "Praktično, poslovno usmerjeno izobraževanje na vsaki ravni",
+            "items": [
+                {
+                    "title": "Personalizirano IT izobraževanje",
+                    "description": "Učni načrt in tempo po meri glede na potrebe vaše ekipe. Od začetnikov do naprednih uporabnikov – vsak tečaj je prilagojen resničnim zahtevam vašega podjetja. Učenje skozi praktične primere in situacije iz resničnega življenja.",
+                    "topics": [
+                        "Osnove Windows in macOS",
+                        "Upravljanje datotek in struktura map",
+                        "Varnostno kopiranje in obnovitev podatkov",
+                        "Uporaba zunanjih naprav in tiskalnikov",
+                        "Hitre bližnjice na tipkovnici in nasveti za produktivnost"
+                    ]
+                },
+                {
+                    "title": "Usposabljanje za varnostno ozaveščenost",
+                    "description": "Večina incidentov pri varstvu podatkov se zgodi zaradi človeške napake – prevare prek e-pošte, šibka gesla, lažno predstavljanje. Naše usposabljanje pomaga zaposlenim prepoznati in se izogniti tveganjem.",
+                    "topics": [
+                        "Prepoznavanje lažnih e-poštnih sporočil in prevar",
+                        "Varno upravljanje gesel in uporaba 2FA",
+                        "Načela varstva podatkov (GDPR) v praksi",
+                        "Varno deljenje datotek in pošiljanje e-pošte",
+                        "Varnost naprav: prenosniki, telefoni, delo na daljavo"
+                    ]
+                },
+                {
+                    "title": "Usposabljanje za uporabo programske opreme in naprav",
+                    "description": "Sodobno pisarniško delo temelji na programskih orodjih – vendar pogosto uporabljamo le delček njihovega potenciala. Učimo orodja in metode za učinkovito delo.",
+                    "topics": [
+                        "Microsoft 365: Word, Excel, PowerPoint, Outlook, Teams",
+                        "Google Workspace: Docs, Sheets, Drive, Meet",
+                        "Orodja za sodelovanje: Slack, Notion, Trello, Asana",
+                        "Uporaba orodij za videokonference",
+                        "Gostovanje datotek v oblaku in sinhronizacija"
+                    ]
+                },
+                {
+                    "title": "Programi razvoja korporativnega znanja",
+                    "description": "Dolgoročni programi stalnega usposabljanja, ki zagotavljajo, da je ekipa vedno na tekočem. Izgradnja baze znanja podjetja in reden razvoj.",
+                    "topics": [
+                        "Ustvarjanje učnih gradiv in navodil po meri",
+                        "Stalna spletna podpora in seje z vprašanji in odgovori",
+                        "Redna osvežitvena usposabljanja o tehnologiji",
+                        "IT uvajanje za nove zaposlene",
+                        "Usposabljanje o specifičnih sistemih podjetja"
+                    ]
+                }
+            ]
+        },
+        "benefits": {
+            "title": "Zakaj investirati v korporativno IT izobraževanje?",
+            "subtitle": "Konkretne koristi, ki prinašajo merljive rezultate",
+            "list": [
+                "Večja produktivnost – zaposleni delajo hitreje in bolj učinkovito",
+                "Manj napak v IT in klicev na pomoč – zmanjšana obremenitev tehnične podpore",
+                "Bolj varno delovanje – ozaveščeni zaposleni varujejo podatke",
+                "Boljša izraba orodij – poln potencial programske opreme in sistemov",
+                "Bolj samozavestna ekipa – brez strahu pred novimi tehnologijami",
+                "Hitrejša prilagoditev – bolj gladka uvedba novih orodij",
+                "Konkurenčnost – digitalno usposobljena ekipa pomeni sodobnejše podjetje"
+            ]
+        },
+        "targetGroups": {
+            "title": "Komu priporočamo?",
+            "subtitle": "Za vsako podjetje, ki dela z digitalnimi orodji",
+            "groups": [
+                {
+                    "title": "Pisarniški delavci",
+                    "description": "Tisti, ki vsak dan uporabljajo računalnike, e-pošto in pisarniške programe."
+                },
+                {
+                    "title": "Voditelji in menedžerji",
+                    "description": "Tisti, ki potrebujejo znanje digitalnih orodij za odločanje, poročanje in komunikacijo."
+                },
+                {
+                    "title": "Ne-IT sodelavci",
+                    "description": "Tisti, za katere je tehnologija le orodje, vendar brez ustreznega znanja predstavlja oviro."
+                },
+                {
+                    "title": "Delavci na daljavo",
+                    "description": "Tisti, ki potrebujejo podporo za varno in učinkovito delo od doma."
+                },
+                {
+                    "title": "Novi zaposleni",
+                    "description": "Tisti, ki se morajo naučiti korporativnih IT sistemov kot del uvajanja."
+                }
+            ]
+        },
+        "delivery": {
+            "title": "Kako poteka usposabljanje?",
+            "subtitle": "Prilagodljive oblike izobraževanja – Izberite tisto, kar vam najbolj ustreza",
+            "methods": [
+                {
+                    "title": "Usposabljanje na lokaciji",
+                    "description": "Pridemo v vašo pisarno in izvedemo usposabljanje na lokaciji. Osebno, interaktivno, s takojšnjimi praktičnimi primeri na vaših sistemih."
+                },
+                {
+                    "title": "Spletno usposabljanje na daljavo",
+                    "description": "Usposabljanja v živo prek videokonferenčnih platform. Prilagodljiv urnik, brez potovanja, vendar enako učinkovito kot oblika na lokaciji."
+                },
+                {
+                    "title": "Hibridni model",
+                    "description": "Kombinacija obeh: začetek na lokaciji, nato nadaljevanje na spletu. Najboljše iz obeh svetov."
+                }
+            ],
+            "languageNote": "Usposabljanja so trenutno na voljo samo v madžarščini (ali angleščini po dogovoru), bodisi na spletu ali na lokaciji."
+        },
+        "topics": {
+            "title": "Specifične teme, ki jih poučujemo",
+            "subtitle": "Praktično znanje, ki ga lahko takoj uporabite",
+            "list": [
+                "Uporaba Microsoft 365 (Word, Excel, PowerPoint, Outlook, OneDrive, Teams)",
+                "Orodja Google Workspace (Gmail, Drive, Docs, Sheets, Meet)",
+                "Varno upravljanje gesel in dvofaktorska avtentikacija",
+                "Prepoznavanje lažnega predstavljanja in spletnih prevar",
+                "Varno deljenje datotek in shranjevanje v oblaku",
+                "Profesionalna uporaba orodij za videokonference",
+                "Učinkovito upravljanje e-pošte in organizacija predala",
+                "Vodenje projektov in nalog (Trello, Asana, Notion)",
+                "Osnovne funkcije in nasveti za Windows in macOS",
+                "Pisarniške naprave: tiskalniki, skenerji, multimedija"
+            ]
+        },
+        "methodology": {
+            "title": "Kako delamo?",
+            "subtitle": "Strukturiran izobraževalni proces – korak za korakom",
+            "steps": [
+                {
+                    "number": "1",
+                    "title": "Ocena potreb",
+                    "description": "Spoznamo ekipo, trenutno raven znanja in procese podjetja. Razjasnimo, katera področja potrebujejo razvoj."
+                },
+                {
+                    "number": "2",
+                    "title": "Ustvarjanje učnega načrta po meri",
+                    "description": "Personaliziran izobraževalni načrt in gradivo, ki ustreza orodjem in delovnim procesom vašega podjetja."
+                },
+                {
+                    "number": "3",
+                    "title": "Izvedba usposabljanja",
+                    "description": "Interaktivno, praktično izobraževanje v živo – vprašanja, odgovori, resnični primeri v vašem okolju."
+                },
+                {
+                    "number": "4",
+                    "title": "Spremljanje in podpora",
+                    "description": "Na voljo smo tudi po usposabljanju – vprašanja, ponavljanje, nadaljnja pomoč. Zagotavljamo, da se znanje resnično integrira v vsakodnevno rutino."
+                }
+            ]
+        },
+        "faq": {
+            "title": "Pogosto zastavljena vprašanja",
+            "items": [
+                {
+                    "question": "Koliko časa traja usposabljanje?",
+                    "answer": "Dolžina je odvisna od potreb. Enkratna delavnica traja 2-4 ure, medtem ko lahko celovit korporativni program traja več tednov z več sejami. Vedno se dogovorimo o časovnem okviru."
+                },
+                {
+                    "question": "Koliko ljudi se lahko udeleži naenkrat?",
+                    "answer": "Idealno število je med 5-15 oseb, da vsak dobi dovolj pozornosti. Za večje skupine lahko organiziramo več terminov ali vzporednih skupin."
+                },
+                {
+                    "question": "Ali udeleženci potrebujejo predhodno IT znanje?",
+                    "answer": "Ne! Usposabljanje prilagodimo trenutni ravni znanja udeležencev – od začetnikov do naprednih. Predhodno ocenimo, kje vsakdo stoji."
+                },
+                {
+                    "question": "Ali udeleženci dobijo gradivo ali zapiske?",
+                    "answer": "Da! Po vsakem usposabljanju prejmejo gradivo, predstavitve in praktične vodiče v digitalni obliki – tako da jih lahko kadarkoli pregledajo."
+                },
+                {
+                    "question": "V katerem jeziku potekajo usposabljanja?",
+                    "answer": "Trenutno so usposabljanja na voljo izključno v madžarščini (ali angleščini), bodisi na spletu ali na lokaciji."
+                },
+                {
+                    "question": "Koliko stane korporativno IT izobraževanje?",
+                    "answer": "Cena temelji na ponudbi po meri – odvisno od števila udeležencev, tem in trajanja. Zahtevajte ponudbo in se bomo pogovorili!"
+                }
+            ]
+        },
+        "pricing": {
+            "title": "Koliko stane IT izobraževanje?",
+            "subtitle": "Ustvarimo ponudbe po meri – vsako podjetje ima drugačne potrebe",
+            "description": "Cene usposabljanja so odvisne od števila udeležencev, trajanja, tem in lokacije (splet/v živo). V povprečju se 4-urna delavnica začne pri 200 € za manjše skupine, medtem ko je daljši program stalnega razvoja na voljo v modelu mesečne naročnine.",
+            "process": "Zahtevajte brezplačen posvet, ocenili bomo potrebe in pripravili podrobno, transparentno ponudbo.",
+            "cta": "Zahtevaj ponudbo zdaj"
+        },
+        "finalCta": {
+            "title": "Začnite digitalni razvoj svoje ekipe!",
+            "description": "Zahtevajte brezplačen posvet in skupaj ugotovimo, katero IT usposabljanje lahko izboljša učinkovitost in varnost vašega podjetja.",
+            "button": "Zahtevaj ponudbo za IT usposabljanje"
+        }
+    },
+    "networkOptimization": {
+        "badge": "Optimizacija omrežja",
+        "title": "Zagotovite svojemu podjetju stabilen in hiter internet & Wi-Fi",
+        "subtitle": "Počasen Wi-Fi, nestabilna povezava ali nezanesljivo omrežje upočasnjuje celotno poslovanje. Načrtujemo, optimiziramo in vzdržujemo sodobne omrežne infrastrukture poslovnega razreda, tako da vsaka naprava deluje hitro, varno in zanesljivo.",
+        "features": {
+            "wifi": {
+                "title": "Stabilen, visoko pokrit poslovni Wi-Fi",
+                "description": "Sodobne dostopne točke in načrtovanje omrežja za zagotavljanje močnega Wi-Fi signala v vsaki sobi – brez izpadov."
+            },
+            "speed": {
+                "title": "Hitro in varno omrežje za vse naprave",
+                "description": "Optimizirana pasovna širina, ločevanje VLAN in uglaševanje zmogljivosti – vsaka naprava deluje gladko."
+            },
+            "reliability": {
+                "title": "Zanesljiva povezava — brez izpadov",
+                "description": "Zanesljivi usmerjevalniki, omrežna oprema poslovnega razreda in stalno spremljanje – tako da je vaše omrežje vedno dostopno."
+            }
+        },
+        "cta": "Zahtevaj oceno omrežja"
+    },
+    "networkOptimizationPage": {
+        "breadcrumb": {
+            "home": "Domov",
+            "networkOptimization": "Optimizacija omrežja"
+        },
+        "hero": {
+            "title": "Načrtovanje, optimizacija in vzdrževanje poslovnega omrežja & Wi-Fi",
+            "subtitle": "Naj bo omrežje vašega podjetja stabilno, hitro in varno",
+            "description": "Če je vaš Wi-Fi počasen, povezave padajo ali je omrežje nezanesljivo, to zavira celotno poslovno uspešnost. SIRONIC načrtuje, optimizira in vzdržuje sodobna omrežja poslovnega razreda – tako da vsaka naprava deluje hitro, varno in zanesljivo.",
+            "cta": "Zahtevaj brezplačno oceno omrežja",
+            "scrollDown": "Pomaknite se navzdol za podrobnosti"
+        },
+        "problems": {
+            "title": "Pogoste težave z omrežjem, s katerimi se soočajo podjetja",
+            "subtitle": "Vam zveni znano?",
+            "items": [
+                "Počasen ali nestabilen Wi-Fi pri delu",
+                "Šibek signal in mrtve točke v pisarni",
+                "Zastareli usmerjevalniki in dostopne točke",
+                "Ni ločevanja omrežja za goste",
+                "Preveč naprav na enem omrežju – vse se upočasni",
+                "Varnostne ranljivosti in nezaščiteno omrežje",
+                "Ni načrta za spremljanje ali odpravljanje težav"
+            ]
+        },
+        "services": {
+            "title": "Kaj zagotavljamo",
+            "subtitle": "Celovite omrežne rešitve za mala in srednja podjetja",
+            "items": [
+                {
+                    "title": "Popolna ocena omrežja in diagnostika",
+                    "description": "Ocenimo vašo trenutno omrežno infrastrukturo, identificiramo težave in predlagamo optimizacije."
+                },
+                {
+                    "title": "Kartiranje Wi-Fi signala in analiza pokritosti",
+                    "description": "Načrtujemo Wi-Fi omrežje, da zagotovimo močan signal v vsaki sobi – brez mrtvih točk."
+                },
+                {
+                    "title": "Načrtovanje novega korporativnega omrežja",
+                    "description": "Zgradimo omrežja poslovnega razreda od začetka, ki so razširljiva, hitra in varna."
+                },
+                {
+                    "title": "Namestitev strojne opreme za podjetja (MikroTik, Ubiquiti, UniFi)",
+                    "description": "Profesionalna izbira in namestitev omrežne opreme – usmerjevalniki, stikala, dostopne točke."
+                },
+                {
+                    "title": "Kabli in nadgradnje infrastrukture",
+                    "description": "Namestitev strukturiranega ožičenja, povezovalne plošče, strežniške omare – organizirana in v prihodnost usmerjena infrastruktura."
+                },
+                {
+                    "title": "Varnost, VLAN, nastavitev požarnega zidu",
+                    "description": "Segmentacija omrežja, omrežja za goste, konfiguracija požarnega zidu – varovanje vaših podatkov."
+                },
+                {
+                    "title": "Spremljanje in upravljanje omrežja",
+                    "description": "Stalno spremljanje in proaktivno vzdrževanje – poznamo in rešujemo težave, preden postanejo problemi."
+                }
+            ]
+        },
+        "technologies": {
+            "title": "Katero opremo uporabljamo?",
+            "subtitle": "Zanesljive omrežne rešitve poslovnega razreda",
+            "list": [
+                "MikroTik – zmogljivi, stroškovno učinkoviti usmerjevalniki in stikala",
+                "Ubiquiti UniFi – sodobni, obvladljivi Wi-Fi sistemi",
+                "TP-Link Omada – omrežna oprema poslovnega razreda",
+                "Cisco in HPE – infrastruktura na ravni podjetja",
+                "Konfiguracija VLAN in požarnega zidu",
+                "VPN in oddaljen dostop",
+                "Spremljanje omrežja in analitika"
+            ]
+        },
+        "benefits": {
+            "title": "Zakaj investirati v profesionalno omrežje?",
+            "subtitle": "Konkretne koristi, ki prinašajo merljive rezultate",
+            "list": [
+                "Hitrejše delo – brez počasnega interneta ali izpadov",
+                "Varnejše delovanje – zaščiteno omrežje, ločen Wi-Fi za goste",
+                "Manj izpadov – proaktivno spremljanje in hitro odpravljanje težav",
+                "Razširljiva infrastruktura – omrežje raste z vašim podjetjem",
+                "Profesionalen videz – stabilna povezava tudi za stranke",
+                "Zmanjšani stroški – manj izgubljenega časa in manj popravil"
+            ]
+        },
+        "process": {
+            "title": "Kako delamo?",
+            "subtitle": "Transparenten proces – korak za korakom",
+            "steps": [
+                {
+                    "number": "1",
+                    "title": "Ocena omrežja in posvetovanje",
+                    "description": "Spoznamo pisarno, trenutno omrežje in potrebe. Identificiramo težave in priložnosti."
+                },
+                {
+                    "number": "2",
+                    "title": "Načrt omrežja in ponudba",
+                    "description": "Ustvarimo celoten načrt omrežja, analizo pokritosti Wi-Fi in seznam opreme. Ponudba s fiksno ceno."
+                },
+                {
+                    "number": "3",
+                    "title": "Namestitev in konfiguracija",
+                    "description": "Uvedemo omrežje, namestimo opremo, konfiguriramo varnostne elemente. Vse testirano in dokumentirano."
+                },
+                {
+                    "number": "4",
+                    "title": "Testiranje in predaja",
+                    "description": "Temeljito testiranje na vsaki napravi, merjenje hitrosti, preverjanje pokritosti. Usposabljanje in predaja dokumentacije."
+                },
+                {
+                    "number": "5",
+                    "title": "Spremljanje in vzdrževanje",
+                    "description": "Stalni nadzor, mesečna poročila, proaktivno vzdrževanje. Vedno na voljo, ko potrebujete pomoč."
+                }
+            ]
+        },
+        "useCases": {
+            "title": "Komu priporočamo?",
+            "subtitle": "Vsakemu podjetju, ki potrebuje stabilno omrežje",
+            "examples": [
+                "Pisarne in mala podjetja – 5-50 zaposlenih",
+                "Gostinski objekti – hiter in stabilen Wi-Fi za goste",
+                "Klinike in zdravstvene ordinacije – varno medicinsko omrežje",
+                "Skladišča in logistični centri – robustno industrijsko omrežje",
+                "Izobraževalne ustanove – Wi-Fi visoke zmogljivosti",
+                "Maloprodajne enote – hiter POS sistem in IP kamere"
+            ]
+        },
+        "pricing": {
+            "title": "Koliko stane vzpostavitev poslovnega omrežja?",
+            "subtitle": "Vsak projekt je edinstven – ceno določimo glede na potrebe",
+            "description": "Osnovni pisarniški Wi-Fi sistem se začne pri približno 400 € (1-2 dostopni točki, usmerjevalnik, konfiguracija). Za večja omrežja – več naprav, strukturirano ožičenje, spremljanje – pričakujte od 1.200 € naprej. Zahtevajte brezplačno oceno in točno ponudbo!",
+            "process": "Brezplačna ocena na lokaciji analizira potrebe omrežja, ustvarimo načrt in zagotovimo transparentno ponudbo s fiksno ceno.",
+            "cta": "Zahtevaj brezplačno ponudbo"
+        },
+        "faq": {
+            "title": "Pogosto zastavljena vprašanja",
+            "items": [
+                {
+                    "question": "Koliko časa traja vzpostavitev omrežja?",
+                    "answer": "Preprost pisarniški Wi-Fi sistem traja 1-2 dni, medtem ko lahko kompleksno korporativno omrežje v več nadstropjih traja 1-2 tedna."
+                },
+                {
+                    "question": "Katere znamke priporočate?",
+                    "answer": "Primarno delamo z opremo MikroTik, Ubiquiti UniFi in TP-Link Omada – zanesljivo, stroškovno učinkovito in primerno za poslovno uporabo."
+                },
+                {
+                    "question": "Kdo bo lastnik omrežja?",
+                    "answer": "Vi! Vsa oprema in konfiguracija pripada vašemu podjetju, brez skritih odvisnosti ali licenčnih stroškov."
+                },
+                {
+                    "question": "Kaj pa vzdrževanje?",
+                    "answer": "Ponujamo tudi pakete vzdrževanja – stalno spremljanje, redne posodobitve in hitro odpravljanje težav v mesečni naročnini."
+                },
+                {
+                    "question": "Ali lahko optimizirate obstoječa omrežja?",
+                    "answer": "Da! Ni vam treba vsega zamenjati – pogosto je dovolj dobra konfiguracija, dodatna dostopna točka ali nadgradnja usmerjevalnika."
+                }
+            ]
+        },
+        "finalCta": {
+            "title": "Pripravljeni na stabilno in hitro omrežje?",
+            "description": "Zahtevajte brezplačno oceno omrežja in skupaj zgradimo infrastrukturo, ki podpira rast vašega podjetja.",
+            "button": "Zahtevaj brezplačno oceno omrežja"
+        }
+    },
+    "repairService": {
+        "badge": "Servis & Popravilo",
+        "title": "IT Popravila & Servis – Na lokaciji ali po pošti",
+        "subtitle": "Hitra, zanesljiva IT popravila – prenosniki, PC-ji, strežniki, NAS naprave",
+        "description": "Profesionalno popravilo računalnikov, prenosnikov, strežnikov in omrežnih naprav. Servis na lokaciji v Székesfehérvárju in okolici ali storitev po pošti. Vsako popravilo začnemo z diagnostiko in zagotovimo transparentno ponudbo pred začetkom dela.",
+        "benefits": [
+            "Hitra diagnostika in odpravljanje težav",
+            "Servis na lokaciji ali po pošti – kar vam ustreza",
+            "Transparentna ponudba pred popravilom",
+            "Profesionalna orodja in strokovnjaki",
+            "Varnostno kopiranje podatkov in odstranjevanje virusov",
+            "Garancija na vsa popravila"
+        ],
+        "cards": {
+            "onsite": {
+                "title": "Servis na lokaciji",
+                "description": "Pridemo k vam v Székesfehérvár in bližnjo okolico, da opravimo popravila ali diagnostiko na kraju samem."
+            },
+            "postal": {
+                "title": "Servis po pošti",
+                "description": "Pošljite nam svojo napravo po pošti, mi jo bomo popravili in poslali nazaj – preprosto in hitro."
+            }
+        },
+        "cta": {
+            "main": "Zahtevaj ponudbo za popravilo",
+            "learnMore": "Izvedite več"
+        }
+    },
+    "repairServicePage": {
+        "breadcrumb": {
+            "repairService": "Servis & Popravilo"
+        },
+        "hero": {
+            "title": "IT Popravila & Servis – Prenosniki, PC-ji, Strežniki",
+            "subtitle": "Hitra, zanesljiva IT popravila na lokaciji ali po pošti",
+            "description": "Profesionalno popravilo računalnikov, prenosnikov, strežnikov in naprav za omrežno shranjevanje. Servis na lokaciji v Székesfehérvárju in okolici ali možnost po pošti. Transparentne ponudbe, hiter čas izvedbe, strokovna storitev.",
+            "cta": "Prijavi težavo zdaj",
+            "scrollDown": "Pomaknite se navzdol za podrobnosti"
+        },
+        "services": {
+            "title": "Kaj popravljamo?",
+            "subtitle": "Celovita diagnostika in popravilo IT naprav",
+            "items": [
+                {
+                    "title": "Popravilo in vzdrževanje prenosnikov",
+                    "description": "Zamenjava zaslona, popravilo tipkovnice, zamenjava baterije, čiščenje hladilnega sistema, nadgradnja komponent."
+                },
+                {
+                    "title": "Diagnostika in popravilo namiznih računalnikov",
+                    "description": "Odpravljanje težav s strojno opremo, zamenjava komponent, optimizacija delovanja, čiščenje sistema in vzdrževanje."
+                },
+                {
+                    "title": "Popravilo strežnikov in poslovne opreme",
+                    "description": "Diagnostika strežnika, obnovitev RAID konfiguracije, popravilo in vzdrževanje strojne opreme."
+                },
+                {
+                    "title": "Servis NAS in naprav za shranjevanje",
+                    "description": "Diagnostika omrežnega shranjevanja, varnostno kopiranje podatkov, RAID obnovitev, posodobitve vdelane programske opreme."
+                },
+                {
+                    "title": "Varnostno kopiranje in obnovitev podatkov",
+                    "description": "Obnovitev kritičnih podatkov iz okvarjenih naprav, SSD/HDD obnovitev, ustvarjanje varnostnih kopij."
+                },
+                {
+                    "title": "Odstranjevanje virusov in optimizacija sistema",
+                    "description": "Odstranjevanje virusov in zlonamerne programske opreme, čiščenje sistema, povečanje zmogljivosti, optimizacija hitrosti."
+                }
+            ]
+        },
+        "process": {
+            "title": "Kako deluje popravilo?",
+            "subtitle": "Preprost in transparenten proces",
+            "steps": [
+                {
+                    "number": "1",
+                    "title": "Prijava težave",
+                    "description": "Kontaktirajte nas po telefonu, e-pošti ali obrazcu. Pogovorimo se o težavi in načinu popravila."
+                },
+                {
+                    "number": "2",
+                    "title": "Diagnostika in ponudba",
+                    "description": "Na lokaciji ali po prejemu po pošti pregledamo napravo, identificiramo napako in podamo transparentno ponudbo."
+                },
+                {
+                    "number": "3",
+                    "title": "Popravilo po odobritvi",
+                    "description": "Po sprejetju ponudbe opravimo popravilo s profesionalnimi orodji in deli."
+                },
+                {
+                    "number": "4",
+                    "title": "Testiranje in predaja",
+                    "description": "Popravljeno napravo temeljito testiramo, nato jo predamo ali pošljemo nazaj. Garancija na vsa popravila."
+                }
+            ]
+        },
+        "onsite": {
+            "title": "Servis na lokaciji – Mi pridemo k vam",
+            "description": "V Székesfehérvárju in okolici opravljamo popravila ali diagnostiko na kraju samem. Idealno za pisarne, podjetja in tiste, ki ne morejo ali nočejo prevažati naprave.",
+            "benefits": [
+                "Hiter servis v Székesfehérvárju in 30 km radiusu",
+                "Diagnostika in popravilo na lokaciji (če je mogoče)",
+                "Minimalen izpad – ni potrebe po odstranjevanju naprave",
+                "Profesionalna orodja in deli na kraju samem",
+                "Lahko se izvede v korporativnih okoljih"
+            ]
+        },
+        "postal": {
+            "title": "Servis po pošti – Udobno od doma",
+            "description": "Če ste dlje stran ali preprosto raje izberete udobje, pošljite napravo po pošti. Popravili jo bomo in vrnili. Zagotavljamo navodila za varno pakiranje.",
+            "benefits": [
+                "Pokritost po celi državi – pošljite od kjerkoli",
+                "Podrobna navodila za pakiranje za varnost naprave",
+                "Hiter čas izvedbe – običajno 3-5 delovnih dni",
+                "Varno vračilo prek kurirske službe",
+                "Stalne posodobitve o statusu popravila"
+            ],
+            "howTo": "Koraki za pošiljanje: 1) Kontaktirajte nas in opišite težavo. 2) Varno zapakirajte napravo (zagotovimo navodila). 3) Pošljite na naveden naslov. 4) Diagnosticiramo, pošljemo ponudbo in vrnemo po popravilu."
+        },
+        "pricing": {
+            "title": "Koliko stane popravilo?",
+            "subtitle": "Transparentne cene – najprej diagnostika, nato ponudba",
+            "description": "Vsako popravilo začnemo z brezplačno diagnostiko (na lokaciji ali po pošti). Ponudba je podana šele po pregledu, tako da točno veste, kaj pričakovati. Delo se začne šele po vaši odobritvi.",
+            "examples": [
+                "Zamenjava zaslona prenosnika: od 65 € (odvisno od dela)",
+                "Odstranjevanje virusov in optimizacija PC-ja: od 20 €",
+                "Obnovitev podatkov iz okvarjene naprave: od 40 €",
+                "Diagnostika in popravilo strežnika: ponudba po meri"
+            ],
+            "note": "Cene so okvirne, točen strošek se vedno določi po pregledu.",
+            "cta": "Zahtevaj brezplačno diagnostiko"
+        },
+        "faq": {
+            "title": "Pogosto zastavljena vprašanja",
+            "items": [
+                {
+                    "question": "Koliko časa traja popravilo?",
+                    "answer": "Preprostejša popravila (npr. odstranjevanje virusov, optimizacija) običajno trajajo 1-2 delovna dneva. Kompleksni primeri (npr. zamenjava delov, obnovitev podatkov) lahko trajajo 3-5 delovnih dni. Ponujamo tudi hitri servis za nujne primere."
+                },
+                {
+                    "question": "Kaj, če naprave ni mogoče popraviti?",
+                    "answer": "Če naprave ni mogoče popraviti ali je popravilo neekonomično, vas bomo o tem takoj obvestili. V tem primeru zaračunamo le diagnostiko (običajno 8-13 €) in pomagamo svetovati pri nakupu nove naprave."
+                },
+                {
+                    "question": "Ali so moji podatki varni med popravilom?",
+                    "answer": "Da! Vse naprave obravnavamo zaupno. Varnostno kopiranje podatkov se izvede le z vašo odobritvijo, vsi podatki pa se po popravilu varno izbrišejo (če je potrebno)."
+                },
+                {
+                    "question": "Ali obstaja garancija na popravila?",
+                    "answer": "Da, nudimo 30-90 dnevno garancijo na vsa popravila (odvisno od vrste popravila). Novi deli imajo tudi garancijo proizvajalca."
+                },
+                {
+                    "question": "Katero območje pokrivate za servis na lokaciji?",
+                    "answer": "Servis na lokaciji zagotavljamo v Székesfehérvárju in 30 km radiusu. Za bolj oddaljena območja delamo po posebnem dogovoru ali servisu po pošti."
+                },
+                {
+                    "question": "Kako naj zapakiram napravo za pošiljanje?",
+                    "answer": "Podrobna navodila za pakiranje pošljemo po e-pošti. Pomembno: uporabite mehurčasto folijo, trdno škatlo in označite 'Lomljivo'. Originalna embalaža je najboljša, če je na voljo."
+                }
+            ]
+        },
+        "finalCta": {
+            "title": "Imate težave z vašo napravo?",
+            "description": "Pokličite nas ali pošljite sporočilo in kmalu bomo popravili! Hitra diagnostika, transparentne cene, zanesljiva popravila.",
+            "button": "Prijavi težavo zdaj"
+        }
+    },
+    "onsitePresence": {
+        "badge": "IT podpora za dogodke",
+        "title": "IT Prisotnost na lokaciji za dogodke",
+        "subtitle": "Profesionalni IT strokovnjak na lokaciji",
+        "description": "Zagotovite si tehnično stabilnost vašega strokovnega dogodka, konference ali korporativnega srečanja z namensko IT podporo na lokaciji.",
+        "cards": {
+            "onsite": {
+                "title": "IT Strokovnjak na lokaciji",
+                "description": "Namenski IT pro, ki spremlja vaš dogodek od začetka do konca."
+            },
+            "stability": {
+                "title": "Tehnična stabilnost",
+                "description": "Proaktivno spremljanje in takojšnje posredovanje."
+            },
+            "equipment": {
+                "title": "Upravljanje opreme",
+                "description": "Nastavitev in nadzor prenosnikov, omrežij in opreme za pretakanje."
+            }
+        },
+        "cta": {
+            "main": "Pridobi ponudbo",
+            "learnMore": "Izvedite več"
+        }
+    },
+    "onsitePresencePage": {
+        "breadcrumb": {
+            "home": "Domov",
+            "onsitePresence": "IT Prisotnost na lokaciji"
+        },
+        "hero": {
+            "title": "IT Prisotnost na lokaciji za dogodke",
+            "subtitle": "Profesionalna IT podpora na lokaciji za konference in dogodke",
+            "description": "Si želite dogodek brez težav? S storitvijo SIRONIC IT Prisotnost na lokaciji dobite zajamčeno stabilno in zanesljivo IT infrastrukturo.",
+            "cta": "Zahtevaj brezplačen posvet"
+        },
+        "intro": {
+            "title": "Zakaj pripeljati IT strokovnjaka na vaš dogodek?",
+            "content": [
+                "Uspeh strokovnega dogodka je pogosto odvisen od tehnične stabilnosti. Če tehnika odpove, trpi ugled dogodka.",
+                "S SIRONIC IT Prisotnostjo na lokaciji dobite izkušenega IT strokovnjaka, ki zagotavlja nemoteno delovanje."
+            ]
+        },
+        "services": {
+            "title": "Kaj nudimo?",
+            "subtitle": "Celovita tehnična podpora",
+            "items": [
+                {
+                    "title": "Priprava & Nastavitev dogodka",
+                    "description": "Namestitev in testiranje opreme pred dogodkom.",
+                    "topics": [
+                        "Namestitev",
+                        "Testiranje",
+                        "Konfiguracija"
+                    ]
+                },
+                {
+                    "title": "Omrežje & Wi-Fi",
+                    "description": "Zagotavljanje stabilnega interneta za vse udeležence.",
+                    "topics": [
+                        "Načrtovanje Wi-Fi",
+                        "Pasovna širina",
+                        "Spremljanje"
+                    ]
+                },
+                {
+                    "title": "Podpora za pretakanje",
+                    "description": "Tehnično ozadje za prenose v živo in hibridne dogodke.",
+                    "topics": [
+                        "OBS",
+                        "Kamere",
+                        "Zvok"
+                    ]
+                }
+            ]
+        },
+        "eventTypes": {
+            "title": "Podprti dogodki",
+            "subtitle": "Vsak dogodek, kjer je IT kritičen",
+            "types": [
+                {
+                    "title": "Konference",
+                    "description": "Velika strokovna srečanja."
+                },
+                {
+                    "title": "Hibridni dogodki",
+                    "description": "Povezovanje spletnih in offline udeležencev."
+                },
+                {
+                    "title": "Delavnice",
+                    "description": "Tehnična podpora za praktična usposabljanja."
+                }
+            ]
+        },
+        "benefits": {
+            "title": "Zakaj mi?",
+            "items": [
+                "Izkušeni strokovnjaki",
+                "Takojšnje odpravljanje težav",
+                "Prilagodljiva razpoložljivost",
+                "Profesionalna oprema"
+            ]
+        },
+        "process": {
+            "title": "Proces",
+            "subtitle": "Kako sodelujemo",
+            "steps": [
+                {
+                    "title": "Ocena",
+                    "description": "Pogovor o tehničnih zahtevah."
+                },
+                {
+                    "title": "Načrtovanje",
+                    "description": "Načrtovanje potrebne infrastrukture."
+                },
+                {
+                    "title": "Izvedba",
+                    "description": "Nastavitev in delovanje na lokaciji."
+                },
+                {
+                    "title": "Nadzor",
+                    "description": "Stalna prisotnost med dogodkom."
+                },
+                {
+                    "title": "Zaključek",
+                    "description": "Demontaža in evalvacija."
+                }
+            ]
+        },
+        "faq": {
+            "title": "Pogosta vprašanja",
+            "items": [
+                {
+                    "question": "Katere vrste dogodkov podpirate?",
+                    "answer": "Vse od majhnih delavnic do velikih konferenc."
+                },
+                {
+                    "question": "Ali zagotavljate opremo?",
+                    "answer": "Da, na zahtevo nudimo storitve najema."
+                },
+                {
+                    "question": "Koliko stane?",
+                    "answer": "Na podlagi ponudbe po meri glede na zahteve."
+                },
+                {
+                    "question": "Ali potujete po celi državi?",
+                    "answer": "Da, sprejemamo naloge po celotni Madžarski (in širše po dogovoru)."
+                }
+            ]
+        },
+        "pricing": {
+            "title": "Cenik",
+            "subtitle": "Na podlagi ponudbe po meri",
+            "description": "Vsak dogodek je drugačen, zato cene prilagodimo vašim potrebam.",
+            "process": "Pridobite ponudbo!",
+            "cta": "Zahtevaj ponudbo"
+        },
+        "availabilityNote": "Ta storitev je na voljo po celotni Madžarski.",
+        "finalCta": {
+            "title": "Zagotovite uspeh!",
+            "description": "Ne prepustite tehnične strani naključju.",
+            "button": "Pridobi ponudbo"
+        }
+    }
+}
