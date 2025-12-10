@@ -6,6 +6,7 @@ import { trackPhoneClick, trackEmailClick } from '@/lib/analytics';
 import { useTranslation } from '@/hooks/useTranslation';
 import { getLocalizedPath } from '@/lib/routes';
 import { Locale } from '@/i18n';
+import { SocialShare } from '@/components/SocialShare';
 
 export function Footer() {
   const { t, locale } = useTranslation();
@@ -56,11 +57,11 @@ export function Footer() {
                 +36 70 273 5532
               </a>
             </div>
-            <div className="flex items-center gap-2 text-sm">
+            <div className="flex items-center gap-2 text-sm mb-4">
               <MapPin className="h-4 w-4 text-brand-red" aria-hidden="true" />
               <span>{t('footer.address')}</span>
             </div>
-            <div className="flex items-center gap-4 mt-4">
+            <div className="flex items-center gap-4 mb-4">
               <a
                 href="https://facebook.com/sironicit"
                 target="_blank"
@@ -79,6 +80,10 @@ export function Footer() {
               >
                 <Linkedin className="h-5 w-5" />
               </a>
+            </div>
+            <div className="pt-4 border-t border-gray-200 dark:border-gray-800">
+              <p className="text-xs text-muted-foreground mb-2">Share this page:</p>
+              <SocialShare />
             </div>
           </div>
 

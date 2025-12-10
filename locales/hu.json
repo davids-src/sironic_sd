@@ -198,18 +198,19 @@
   },
   "hero": {
     "badge": "Új szolgáltatás",
-    "title": "Professzionális IT üzemeltetés és hálózatépítés EU-szintű biztonsággal",
-    "subtitle": "Stabil és biztonságos IT megoldások kis- és középvállalkozások számára, garantált rendelkezésre állással.",
+    "title": "Professzionális IT szolgáltatás kis- és középvállalkozásoknak Európa-szerte",
+    "subtitle": "Stabil, biztonságos és skálázható IT megoldások modern technológiákkal. Rendszerüzemeltetés, hálózatépítés, adatbiztonság és egyedi szoftverfejlesztés – garantált rendelkezésre állással és proaktív támogatással. Az informatika, amely tényleg működik.",
     "cta": "Ingyenes konzultáció",
     "learnMore": "Kapcsolatfelvétel"
   },
   "euPresence": {
     "title": "EU-szintű IT szolgáltatás – Bárhol ott vagyunk, ahol szükség van ránk",
-    "subtitle": "A SIRONIC európai jelenléttel, távoli és helyszíni IT támogatással segíti a vállalkozásokat – határok nélkül.",
+    "subtitle": "A SIRONIC európai jelenléttel, távoli és helyszíni IT támogatással segíti a vállalkozásokat – határok nélkül. 16 nyelven kommunikálunk, és tapasztalattal rendelkezünk magyarországi, osztrák, német, szlovák és román piaci projektekben. Modern projektmenedzsment eszközeinkkel a távolság nem akadály.",
     "points": [
-      "Gyors reagálás Európa bármely pontján",
-      "Professzionális IT támogatás távolról vagy helyszínen",
-      "Vállalkozásoknak, rendezvényeknek, telephelyeknek"
+      "Gyors reagálás Európa bármely pontján távoli vagy helyszíni támogatással",
+      "Professzionális IT infrastruktúra építés és üzemeltetés GDPR-kompatibilisen",
+      "Vállalkozásoknak, rendezvényeknek és több telephellyel rendelkező cégeknek",
+      "Többnyelvű ügyfélszolgálat és technikai dokumentáció 16 európai nyelven"
     ],
     "cta": "Tudjon meg többet"
   },
@@ -222,31 +223,31 @@
     "viewAll": "Minden szolgáltatásunk",
     "systemOperation": {
       "title": "Rendszerüzemeltetés és IT karbantartás",
-      "description": "Átfogó rendszerkarbantartás, folyamatos monitorozás és támogatás KKV-k számára, teljes EU-megfeleléssel."
+      "description": "Átfogó rendszerkarbantartás, 24/7 folyamatos monitorozás és proaktív támogatás KKV-k számára. Teljes EU-megfelelés és GDPR-kompatibilis működés, fix SLA szerinti reakcióidővel és átlátható árazással."
     },
     "networking": {
       "title": "Hálózatépítés és fejlesztés",
-      "description": "Modern, biztonságos hálózati infrastruktúrák tervezése, kiépítése és üzemeltetése."
+      "description": "Modern, biztonságos hálózati infrastruktúrák professzionális tervezése, kiépítése és hosszú távú üzemeltetése. UniFi és MikroTik eszközök, gyors WiFi hálózatok, VPN és távoli hozzáférés kialakítása."
     },
     "security": {
       "title": "IT biztonság és adatvédelem",
-      "description": "Biztonsági auditok, hozzáférés-kezelés és adatvédelem az EU-s előírásokkal összhangban."
+      "description": "Átfogó biztonsági auditok, tűzfal konfiguráció, automatikus hozzáférés-kezelés és adatvédelem az EU-s GDPR előírásokkal összhangban. Modern vírusvédelem, mentési stratégiák és adatbiztonsági tréningek."
     },
     "development": {
       "title": "Weboldal- és rendszerfejlesztés",
-      "description": "Gyors és biztonságos vállalati weboldalak és webshopok fejlesztése modern technológiákkal."
+      "description": "Gyors, biztonságos és keresőoptimalizált vállalati weboldalak, webshopok és egyedi üzleti rendszerek fejlesztése Next.js, React és TypeScript technológiákkal. Reszponzív design, modern UX és teljesítmény-optimalizálás."
     },
     "commerce": {
       "title": "Kereskedelem – IT eszközök és szoftverek",
-      "description": "Nálunk mindent beszerezhetsz, ami az irodai működéshez szükséges – számítógépek, monitorok, nyomtatók, szerverek és szoftverlicencek."
+      "description": "Nálunk mindent beszerezhetsz, ami az irodai működéshez és vállalati IT infrastruktúrához szükséges – számítógépek, monitorok, nyomtatók, hálózati eszközök, szerverek, NAS rendszerek és szoftverlicencek. Tanácsadással és telepítéssel."
     },
     "hosting": {
       "title": "Hosting és felhőmegoldások",
-      "description": "Stabil, gyors és biztonságos tárhelymegoldások weboldalakhoz, levelezéshez és adatmentéshez. Webtárhely, szerver bérlés és felhő alapú mentés."
+      "description": "Stabil, gyors és biztonságos tárhelymegoldások weboldalakhoz, levelezéshez, fájlmegosztáshoz és adatmentéshez. Webtárhely, dedikált szerver bérlés, felhő alapú mentés és magánfelhő szolgáltatás 99,9%-os rendelkezésre állással."
     },
     "repair": {
       "title": "Szerviz és javítás",
-      "description": "Számítógépek, laptopok és szerverek gyors és megbízható javítása helyszínen vagy postai beküldéssel. Átlátható árajánlat és gyors javítás."
+      "description": "Számítógépek, laptopok, szerverek és hálózati eszközök gyors és megbízható javítása helyszínen Székesfehérváron és környékén, vagy postai beküldéssel. Átlátható árajánlat javítás előtt, adatmentés és vírusirtás. Gyors javítási idő garanciával."
     }
   },
   "customDevelopment": {
@@ -290,14 +291,16 @@
   "whyChooseUs": {
     "title": "Miért válassz minket?",
     "reasons": [
-      "Garantált reakcióidő: Szerződött partnereinknek fix SLA szerinti gyors beavatkozást biztosítunk.",
-      "Folyamatos rendszerfelügyelet: 24/7 monitoring szolgáltatás a hibák megelőzésére.",
-      "Proaktív karbantartás: Mi előre gondolkodunk, nem akkor lépünk, amikor már baj van.",
-      "Megbízhatóság: 5+ év tapasztalat rendszerek tervezésében és üzemeltetésében.",
-      "Átlátható költségek: Nincsenek rejtett díjak, fix havidíjas karbantartás vagy eseti megoldások.",
-      "Valódi emberi kommunikáció: Nálunk nincs \"ticket-dzsungel\" – mindig elérsz minket.",
-      "Korszerű IT biztonság: Adatvédelem és hálózati biztonság modern tűzfalakkal, mentési megoldásokkal és hozzáférés-kezeléssel – az adatbiztonság nálunk alap, nem extra.",
-      "Webfejlesztés és digitális jelenlét: Professzionális, reszponzív weboldalak és egyedi rendszerek, amelyek növelik céged online láthatóságát és bevonzák az ügyfeleket."
+      "Garantált reakcióidő: Szerződött partnereinknek fix SLA szerinti gyors beavatkozást biztosítunk, általános esetben 1-4 órán belül, sürgős esetekben akár azonnal.",
+      "Folyamatos rendszerfelügyelet: 24/7 monitoring szolgáltatás a hibák megelőzésére, automatikus riasztásokkal és proaktív karbantartással.",
+      "Proaktív működés: Mi előre gondolkodunk és megelőzzük a problémákat, nem akkor lépünk, amikor már leállt a rendszer.",
+      "Megbízható tapasztalat: 5+ év tapasztalat IT rendszerek tervezésében, kiépítésében és hosszú távú üzemeltetésében KKV-k és nagyvállalatok számára.",
+      "Átlátható költségek: Nincsenek rejtett díjak, fix havidíjas karbantartás vagy eseti megoldások – minden árajánlat előre egyeztetett és részletes.",
+      "Valódi emberi kommunikáció: Nálunk nincs \\\"ticket-dzsungel\\\" vagy automatizált válaszrendszer – mindig elérsz minket és emberekkel beszélsz, akik értik a problémádat.",
+      "Korszerű IT biztonság: GDPR-kompatibilis adatvédelem és hálózati biztonság modern tűzfalakkal, titkosított mentési megoldásokkal és szerepalapú hozzáférés-kezeléssel – az adatbiztonság nálunk alap.",
+      "Webfejlesztés és digitális jelenlét: Professzionális, SEO-optimalizált és reszponzív weboldalak Next.js és React technológiákkal, amelyek növelik céged online láthatóságát.",
+      "Európai lefedettség: Többnyelvű támogatás 16 nyelven, tapasztalat határon átnyúló projektekkel és távoli IT szolgáltatás az EU teljes területén.",
+      "Egyedi fejlesztések: Személyre szabott szoftverek, CRM rendszerek és automatizációk, amelyek pontosan az üzleti folyamataidhoz igazodnak."
     ]
   },
   "testimonials": {

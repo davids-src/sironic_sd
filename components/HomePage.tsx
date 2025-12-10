@@ -4,12 +4,6 @@ import { Hero } from '@/components/Hero';
 import { ServiceCard } from '@/components/ServiceCard';
 import { Testimonial } from '@/components/Testimonial';
 import { FaqSection } from '@/components/FaqSection';
-import { MindenCegnekSection } from '@/components/MindenCegnekSection';
-import { CustomDevelopmentSection } from '@/components/CustomDevelopmentSection';
-import { NetworkOptimizationSection } from '@/components/NetworkOptimizationSection';
-import { ItTrainingSection } from '@/components/ItTrainingSection';
-import { OnsitePresenceSection } from '@/components/OnsitePresenceSection';
-import { RepairServiceSection } from '@/components/RepairServiceSection';
 import { EuGlobalPresenceSection } from '@/components/EuGlobalPresenceSection';
 import { OrganizationSchema } from '@/components/structured-data/OrganizationSchema';
 import { LocalBusinessSchema } from '@/components/structured-data/LocalBusinessSchema';
@@ -23,6 +17,28 @@ import { useTranslation } from '@/hooks/useTranslation';
 import { getLocalizedPath } from '@/lib/routes';
 import { Locale } from '@/i18n';
 import { useParams } from 'next/navigation';
+import dynamic from 'next/dynamic';
+
+// Dynamic imports for below-fold sections to optimize bundle size
+const MindenCegnekSection = dynamic(() => import('@/components/MindenCegnekSection').then(mod => ({ default: mod.MindenCegnekSection })), {
+    loading: () => <div className="h-96 bg-gray-50 dark:bg-gray-900/50 animate-pulse" />
+});
+const CustomDevelopmentSection = dynamic(() => import('@/components/CustomDevelopmentSection').then(mod => ({ default: mod.CustomDevelopmentSection })), {
+    loading: () => <div className="h-96 bg-white dark:bg-gray-950 animate-pulse" />
+});
+const NetworkOptimizationSection = dynamic(() => import('@/components/NetworkOptimizationSection').then(mod => ({ default: mod.NetworkOptimizationSection })), {
+    loading: () => <div className="h-96 bg-gray-50 dark:bg-gray-900/50 animate-pulse" />
+});
+const RepairServiceSection = dynamic(() => import('@/components/RepairServiceSection').then(mod => ({ default: mod.RepairServiceSection })), {
+    loading: () => <div className="h-96 bg-white dark:bg-gray-950 animate-pulse" />
+});
+const ItTrainingSection = dynamic(() => import('@/components/ItTrainingSection').then(mod => ({ default: mod.ItTrainingSection })), {
+    loading: () => <div className="h-96 bg-gray-50 dark:bg-gray-900/50 animate-pulse" />
+});
+const OnsitePresenceSection = dynamic(() => import('@/components/OnsitePresenceSection').then(mod => ({ default: mod.OnsitePresenceSection })), {
+    loading: () => <div className="h-96 bg-white dark:bg-gray-950 animate-pulse" />
+});
+
 
 export function HomePage() {
     const { t } = useTranslation();
