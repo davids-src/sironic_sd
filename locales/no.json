@@ -140,6 +140,31 @@
                 ],
                 "ogImage": "/og/repair-service-en.jpg"
             },
+            "customDevelopment": {
+                "title": "Tilpasset Programvareutvikling for EU-Bedrifter | Eksternt & På Stedet | SIRONIC",
+                "description": "Profesjonell programvareutvikling for europeiske SMB-er. React/Next.js webapplikasjoner, Windows-programvare, mobilapper. Ekstern levering i hele EU. GDPR-kompatible løsninger.",
+                "keywords": [
+                    "tilpasset programvareutvikling EU",
+                    "ekstern programvareutvikling Europa",
+                    "webapplikasjonsutvikling",
+                    "React utvikling",
+                    "Next.js utvikling",
+                    "mobilapputvikling EU",
+                    "Windows programvareutvikling",
+                    "grenseoverskridende IT-tjenester",
+                    "GDPR-kompatibel programvare",
+                    "programvare for europeiske SMB-er",
+                    "tilpasset CRM-utvikling",
+                    "forretningsprogramvareløsninger",
+                    "eksternt utviklingsteam",
+                    "Østerrike",
+                    "Tyskland",
+                    "Slovakia",
+                    "Tsjekkia",
+                    "Romania"
+                ],
+                "ogImage": "/og/custom-development-no.jpg"
+            },
             "onsitePresence": {
                 "title": "IT On-Site Tilstedeværelse - SIRONIC IT Solutions",
                 "description": "Profesjonell IT-overvåking og teknisk support for arrangementer og konferanser. Dedikert spesialist on-site.",
@@ -580,6 +605,35 @@
                 "Våre tjenester dekker hele IT-driften: systemadministrasjon, nettverksbygging, backup av data, IT-sikkerhet, brannmurhåndtering, webutvikling og IT-opplæring. Vi tilpasser oss alltid aktuell teknologi, så våre kunder kan være sikre på at deres bedrifts IT-systemer er oppdaterte og sikre.",
                 "SIRONIC leverer ikke bare IT – men ro i sinnet, forutsigbarhet og støtte. Vi er dem du kan ringe til når som helst, hvis det er et problem – og ofte løser vi det før du overhodet legger merke til det.",
                 "Vi behandler hver kunde som en partner, vedlikeholder ikke bare deres systemer, men tar oss av deres forretning på lang sikt."
+            ]
+        },
+        "euPresence": {
+            "title": "Europeisk IT-tilstedeværelse – Støtte uten grenser",
+            "paragraphs": [
+                "SIRONIC opererer ikke bare i Ungarn – vi har europeisk tilstedeværelse og støtter bedrifter med fjernbasert og on-site IT-support i hele EU. Uansett om det er skreddersydd programvareutvikling eller systemadministrasjon, er vårt team klart til å hjelpe hvor som helst i Den Europeiske Union.",
+                "Vår fjern-først-drift gjør det mulig for oss å levere IT-support på 16 språk og reagere raskt på enhver europeisk kundes behov. Med moderne prosjektstyring sverktøy og kommunikasjonsplattformer er avstand ikke en barriere.",
+                "Våre tjenester brukes av SMB-er som opererer i flere EU-medlemsland – fra skreddersydd applikasjonsutvikling til IT-konsultasjon. Uansett om det handler om tilstedeværelse på tyske, østerrikske, slovakiske, tsjekkiske, polske eller rumænske markeder, hjelper SIRONIC med å sikre at din IT-infrastruktur forblir konkurransedyktig i hele EU."
+            ]
+        },
+        "capabilities": {
+            "title": "Grenseoverskridende IT-tjenester",
+            "items": [
+                {
+                    "title": "Flerspråklig fjern-IT-support",
+                    "description": "Vi leverer IT-support og utvikling på 16 europeiske språk – tysk, engelsk, fransk, italiensk, spansk og andre sentraleuropeiske språk. Ingen språkbarrierer, bare raskt og effektivt arbeid."
+                },
+                {
+                    "title": "EU-kompatibel databeskyttelse og sikkerhet",
+                    "description": "Alle våre systemer er designet for å være GDPR-kompatible og fungere i henhold til EUs databeskyttelsesregler. Datasikkerhet er ikke et tillegg, det er et grunnleggende krav."
+                },
+                {
+                    "title": "Erfaring med prosjekter i flere land",
+                    "description": "Vi har erfaring med å arbeide med kunder i Ungarn, Østerrike, Tyskland, Slovakia og Romania. Vi støtter prosjekter både med fjernarbeid og med lokal tilstedeværelse."
+                },
+                {
+                    "title": "Full IT-livssyklussupport til europeiske SMB-er",
+                    "description": "Fra systemdesign til utvikling, drift og vedlikehold – vi leverer komplette IT-løsninger for europeiske små og mellomstore bedrifter med grenseoverskridende drift."
+                }
             ]
         },
         "values": {

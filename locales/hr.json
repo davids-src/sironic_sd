@@ -140,6 +140,31 @@
         ],
         "ogImage": "/og/repair-service-hr.jpg"
       },
+      "customDevelopment": {
+        "title": "Prilagođeni Razvoj Softvera za EU Tvrtke | Daljinski i Na Licu Mjesta | SIRONIC",
+        "description": "Profesionalni razvoj softvera za europska MSP. React/Next.js web aplikacije, Windows softver, mobilne aplikacije. Daljinska isporuka diljem EU-a. GDPR-uskladena rješenja.",
+        "keywords": [
+          "prilagođeni razvoj softvera EU",
+          "daljinski razvoj softvera Europa",
+          "razvoj web aplikacija",
+          "React razvoj",
+          "Next.js razvoj",
+          "razvoj mobilnih aplikacija EU",
+          "razvoj Windows softvera",
+          "prekogranične IT usluge",
+          "GDPR-uskladeni softver",
+          "softver za europska MSP",
+          "prilagođeni CRM razvoj",
+          "poslovna softverska rješenja",
+          "daljinski razvojni tim",
+          "Austrija",
+          "Njemačka",
+          "Slovačka",
+          "Češka",
+          "Rumunjska"
+        ],
+        "ogImage": "/og/custom-development-hr.jpg"
+      },
       "onsitePresence": {
         "title": "IT Podrška na Događajima - SIRONIC Sistem Kuća",
         "description": "Profesionalni IT nadzor i tehnička podrška za događaje, konferencije. Posvećeni stručnjak na licu mjesta.",
@@ -579,6 +604,35 @@
         "Naše usluge pokrivaju cjelokupno informatičko poslovanje: održavanje sustava, izgradnju mreža, backup podataka, IT sigurnost, upravljanje vatrozidom, web razvoj i IT edukaciju. Uvijek se prilagođavamo aktualnim tehnologijama, tako da naši klijenti mogu biti sigurni da su njihovi informatički sustavi moderni i sigurni.",
         "SIRONIC ne pruža samo IT usluge – već mir, predvidljivost i podršku. Mi smo oni koje možete bilo kada dobiti ako postoji problem – i često ga riješimo prije nego što ga primijetite.",
         "Svakog klijenta tretiramo kao partnera, ne samo da održavamo njihove sustave, već dugoročno brinemo o njihovom poslovanju."
+      ]
+    },
+    "euPresence": {
+      "title": "Europska IT prisutnost – Podrška bez granica",
+      "paragraphs": [
+        "SIRONIC ne djeluje samo u Mađarskoj – imamo europsku prisutnost, podržavajući tvrtke s daljinskim i lokalnim IT uslugama diljem EU-a. Bilo da se radi o razvoju softvera po mjeri ili upravljanju sustavima, naš tim je spreman pomoći bilo gdje u Europskoj uniji.",
+        "Naše remote-first poslovanje omogućuje nam pružanje IT podrške na 16 jezika i brz odgovor na potrebe bilo kojeg europskog klijenta. S modernim alatima za upravljanje projektima i komunikacijskim platformama, udaljenost nije prepreka.",
+        "Naše usluge koriste MSP koji posluju u više država članica EU – od razvoja aplikacija po mjeri do IT savjetovanja. Bilo da se radi o prisutnosti na njemačkom, austrijskom, slovačkom, češkom, poljskom ili rumunjskom tržištu, SIRONIC pomaže osigurati da vaša IT infrastruktura ostane konkurentna diljem EU-a."
+      ]
+    },
+    "capabilities": {
+      "title": "Prekogranične IT usluge",
+      "items": [
+        {
+          "title": "Višejezična daljinska IT podrška",
+          "description": "Pružamo IT podršku i razvoj na 16 europskih jezika – njemački, engleski, francuski, talijanski, španjolski i drugi srednjoeuropski jezici. Bez jezičnih barijera, samo brz i učinkovit rad."
+        },
+        {
+          "title": "Zaštita podataka i sigurnost usklađena s EU",
+          "description": "Svi naši sustavi dizajnirani su da budu usklađeni s GDPR-om i rade prema propisima EU o zaštiti podataka. Sigurnost podataka nije dodatak, već temeljna obveza."
+        },
+        {
+          "title": "Iskustvo u projektima u više zemalja",
+          "description": "Imamo iskustvo rada s klijentima u Mađarskoj, Austriji, Njemačkoj, Slovačkoj i Rumunjskoj. Podržavamo projekte i s daljinskim radom i s osobnom prisutnošću."
+        },
+        {
+          "title": "Potpuna podrška životnom ciklusu IT-a za europske MSP",
+          "description": "Od dizajna sustava preko razvoja i rada do održavanja – pružamo potpuna IT rješenja za europska mala i srednja poduzeća s prekograničnim poslovanjem."
+        }
       ]
     },
     "values": {

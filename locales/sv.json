@@ -140,6 +140,31 @@
                 ],
                 "ogImage": "/og/repair-service-en.jpg"
             },
+            "customDevelopment": {
+                "title": "Anpassad Programvaruutveckling för EU-Företag | Fjärr & På Plats | SIRONIC",
+                "description": "Professionell programvaruutveckling för europeiska SMF. React/Next.js webbapplikationer, Windows-programvara, mobilappar. Fjärrleverans i hela EU. GDPR-kompatibla lösningar.",
+                "keywords": [
+                    "anpassad programvaruutveckling EU",
+                    "fjärrprogramvaruutveckling Europa",
+                    "webbapplikationsutveckling",
+                    "React utveckling",
+                    "Next.js utveckling",
+                    "mobilapputveckling EU",
+                    "Windows programvaruutveckling",
+                    "gränsöverskridande IT-tjänster",
+                    "GDPR-kompatibel programvara",
+                    "programvara för europeiska SMF",
+                    "anpassad CRM-utveckling",
+                    "företagsprogramvarulösningar",
+                    "fjärrutvecklingsteam",
+                    "Österrike",
+                    "Tyskland",
+                    "Slovakien",
+                    "Tjeckien",
+                    "Rumänien"
+                ],
+                "ogImage": "/og/custom-development-sv.jpg"
+            },
             "onsitePresence": {
                 "title": "IT På Plats-närvaro - SIRONIC IT Solutions",
                 "description": "Professionell IT-övervakning och teknisk support för evenemang och konferenser. Dedikerad specialist på plats.",
@@ -580,6 +605,35 @@
                 "Våra tjänster täcker hela IT-verksamheten: systemhantering, nätverksbyggande, säkerhetskopiering av data, IT-säkerhet, brandväggshantering, webbutveckling och IT-utbildning. Vi anpassar oss alltid till aktuell teknik, så att våra kunder kan vara säkra på att deras företags IT-system är uppdaterade och säkra.",
                 "SIRONIC tillhandahåller inte bara IT – utan sinnesfrid, förutsägbarhet och stöd. Vi är de du kan nå när som helst om det finns ett problem – och ofta löser vi det innan du ens märker det.",
                 "Vi behandlar varje kund som en partner, underhåller inte bara deras system, utan tar hand om deras verksamhet på lång sikt."
+            ]
+        },
+        "euPresence": {
+            "title": "Europeisk IT-närvaro – Stöd utan gränser",
+            "paragraphs": [
+                "SIRONIC verkar inte bara i Ungern – vi har europeisk närvaro och stöder företag med både fjärr- och lokal IT-support i hela EU. Oavsett om det är skräddarsydd mjukvaruutveckling eller systemhantering, står vårt team redo att hjälpa var som helst i Europeiska unionen.",
+                "Vår remote-first verksamhet gör det möjligt för oss att tillhandahålla IT-support på 16 språk och svara snabbt på behoven hos varje europeisk kund. Med moderna verktyg för projekthantering och kommunikationsplattformar är avstånd inget hinder.",
+                "Våra tjänster används av SMF som verkar i flera EU-medlemsländer – från skräddarsydd applikationsutveckling till IT-konsultation. Oavsett om det handlar om närvaro på tyska, österrikiska, slovakiska, tjeckiska, polska eller rumänska marknader, hjälper SIRONIC till att säkerställa att din IT-infrastruktur förblir konkurrensviktig inom hela EU."
+            ]
+        },
+        "capabilities": {
+            "title": "Gränsöverskridande IT-tjänster",
+            "items": [
+                {
+                    "title": "Flerspråkig IT-fjärrsupport",
+                    "description": "Vi tillhandahåller IT-support och utveckling på 16 europeiska språk – tyska, engelska, franska, italienska, spanska och andra centraleuropeiska språk. Inga språkbarriärer, bara snabbt och effektivt arbete."
+                },
+                {
+                    "title": "EU-konform dataskydd och säkerhet",
+                    "description": "Alla våra system är utformade för att vara GDPR-kompatibla och fungera enligt EU:s dataskyddsförordningar. Datasäkerhet är inte ett tillägg, det är ett grundläggande krav."
+                },
+                {
+                    "title": "Erfarenhet av projekt i flera länder",
+                    "description": "Vi har erfarenhet av att arbeta med kunder i Ungern, Österrike, Tyskland, Slovakien och Rumänien. Vi stöder projekt både med distansarbete och med lokal närvaro."
+                },
+                {
+                    "title": "Fullständigt stöd för IT-livscykel för europeiska SMF",
+                    "description": "Från systemdesign till utveckling, drift och underhåll – vi tillhandahåller kompletta IT-lösningar för europeiska små och medelstora företag med gränsöverskridande verksamhet."
+                }
             ]
         },
         "values": {

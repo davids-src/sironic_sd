@@ -137,6 +137,31 @@
         ],
         "ogImage": "/og/repair-service-fr.jpg"
       },
+      "customDevelopment": {
+        "title": "Développement Logiciel Sur Mesure pour Entreprises UE | À Distance & Sur Site | SIRONIC",
+        "description": "Développement logiciel professionnel pour PME européennes. Applications web React/Next.js, logiciels Windows, applications mobiles. Livraison à distance dans toute l'UE. Solutions conformes RGPD.",
+        "keywords": [
+          "développement logiciel sur mesure UE",
+          "développement logiciel à distance Europe",
+          "développement application web",
+          "développement React",
+          "développement Next.js",
+          "développement application mobile UE",
+          "développement logiciel Windows",
+          "services IT transfrontaliers",
+          "logiciel conforme RGPD",
+          "logiciel PME européennes",
+          "développement CRM sur mesure",
+          "solutions logicielles professionnelles",
+          "équipe développement à distance",
+          "Autriche",
+          "Allemagne",
+          "Slovaquie",
+          "République tchèque",
+          "Roumanie"
+        ],
+        "ogImage": "/og/custom-development-fr.jpg"
+      },
       "onsitePresence": {
         "title": "Présence IT Sur Site - SIRONIC IT Solutions",
         "description": "Supervision informatique professionnelle et support technique pour événements et conférences. Spécialiste dédié sur place.",
@@ -552,6 +577,35 @@
         "Nos services couvrent l'ensemble des opérations IT : gestion système, réseau, sauvegarde de données, sécurité IT, gestion de pare-feu, développement web et formation. Nous nous adaptons toujours aux technologies actuelles, pour que nos clients soient sûrs que leurs systèmes sont à jour et sécurisés.",
         "SIRONIC ne fournit pas seulement de l'IT – mais de la tranquillité d'esprit, de la prévisibilité et du soutien. Nous sommes ceux que vous pouvez joindre à tout moment en cas de problème – et souvent nous le résolvons avant même que vous ne le remarquiez.",
         "Nous traitons chaque client comme un partenaire, ne nous contentant pas de maintenir leurs systèmes, mais en prenant soin de leurs opérations sur le long terme."
+      ]
+    },
+    "euPresence": {
+      "title": "Présence IT européenne – Support sans frontières",
+      "paragraphs": [
+        "SIRONIC n'opère pas seulement en Hongrie – nous avons une présence à l'échelle européenne, soutenant les entreprises avec des services IT à distance et sur site dans toute l'UE. Qu'il s'agisse de développement logiciel sur mesure ou de gestion de systèmes, notre équipe est prête à intervenir partout dans l'Union européenne.",
+        "Nos opérations axées sur le télétravail nous permettent de fournir un support IT en 16 langues et de répondre rapidement aux besoins de tout client européen. Avec des outils modernes de gestion de projet et des plateformes de communication, la distance n'est pas un obstacle.",
+        "Nos services sont utilisés par des PME opérant dans plusieurs États membres de l'UE – du développement d'applications personnalisées au conseil IT. Qu'il s'agisse de présence sur les marchés allemand, autrichien, slovaque, tchèque, polonais ou roumain, SIRONIC vous aide à maintenir votre infrastructure IT compétitive dans toute l'UE."
+      ]
+    },
+    "capabilities": {
+      "title": "Livraison de services IT transfrontaliers",
+      "items": [
+        {
+          "title": "Support IT à distance multilingue",
+          "description": "Nous fournissons support IT et développement en 16 langues européennes – allemand, anglais, français, italien, espagnol et langues d'Europe centrale. Aucune barrière linguistique, juste un travail rapide et efficace."
+        },
+        {
+          "title": "Protection des données et sécurité conformes à l'UE",
+          "description": "Tous nos systèmes sont conçus pour être conformes au RGPD et fonctionner selon les réglementations européennes sur la protection des données. La sécurité des données n'est pas une option supplémentaire, c'est une exigence fondamentale."
+        },
+        {
+          "title": "Expérience de projets multipays",
+          "description": "Nous avons de l'expérience avec des clients en Hongrie, Autriche, Allemagne, Slovaquie et Roumanie. Nous soutenons les projets en télétravail et avec présence sur site."
+        },
+        {
+          "title": "Support complet du cycle de vie IT pour les PME européennes",
+          "description": "De la conception système au développement, l'exploitation et la maintenance – nous fournissons des solutions IT complètes aux petites et moyennes entreprises européennes ayant des opérations transfrontalières."
+        }
       ]
     },
     "values": {

@@ -9,7 +9,7 @@ import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from '@/
 import { CheckCircle, Wrench, MapPin, Mail, TruckIcon, Clock, ChevronDown, ArrowRight } from 'lucide-react';
 import Link from 'next/link';
 import { Breadcrumbs } from '@/components/Breadcrumbs';
-import { ServiceSchema } from '@/components/structured-data/ServiceSchema';
+import { ServiceSchema, LocalServiceSchema, FAQSchema } from '@/components/ServiceSchemas';
 
 export default function RepairServicePage() {
   const { t } = useTranslation();
@@ -235,11 +235,26 @@ export default function RepairServicePage() {
         </section>
       </div>
 
-      <ServiceSchema
-        locale={locale}
-        serviceName={t('repairServicePage.hero.title')}
-        serviceDescription={t('repairServicePage.hero.description')}
-        serviceType="RepairService"
+      {/* Structured Data */}
+      {locale === 'hu' ? (
+        <LocalServiceSchema
+          serviceName={t('repairServicePage.hero.title')}
+          serviceDescription={t('repairServicePage.hero.description')}
+          url={`/${locale}/szerviz-javitas`}
+        />
+      ) : (
+        <ServiceSchema
+          serviceType="Repair Service"
+          serviceName={t('repairServicePage.hero.title')}
+          description={t('repairServicePage.hero.description')}
+          areaServed="EU"
+          locale={locale}
+          url={`/${locale}/repair-service`}
+        />
+      )}
+      <FAQSchema
+        faqs={faqItems.map((item: any) => ({ question: item.question, answer: item.answer }))}
+        url={`/${locale}/szerviz-javitas`}
       />
     </>
   );

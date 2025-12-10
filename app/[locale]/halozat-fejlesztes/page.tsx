@@ -9,7 +9,7 @@ import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from '@/
 import { CheckCircle, Wifi, Network, Shield, Server, Activity, ChevronDown, ArrowRight } from 'lucide-react';
 import Link from 'next/link';
 import { Breadcrumbs } from '@/components/Breadcrumbs';
-import { ServiceSchema } from '@/components/structured-data/ServiceSchema';
+import { ServiceSchema, LocalServiceSchema, FAQSchema } from '@/components/ServiceSchemas';
 
 export default function NetworkOptimizationPage() {
   const { t } = useTranslation();
@@ -241,11 +241,26 @@ export default function NetworkOptimizationPage() {
         </section>
       </div>
 
-      <ServiceSchema
-        locale={locale}
-        serviceName={t('networkOptimizationPage.hero.title')}
-        serviceDescription={t('networkOptimizationPage.hero.description')}
-        serviceType="NetworkOptimization"
+      {/* Structured Data */}
+      {locale === 'hu' ? (
+        <LocalServiceSchema
+          serviceName={t('networkOptimizationPage.hero.title')}
+          serviceDescription={t('networkOptimizationPage.hero.description')}
+          url={`/${locale}/halozat-fejlesztes`}
+        />
+      ) : (
+        <ServiceSchema
+          serviceType="Network Infrastructure"
+          serviceName={t('networkOptimizationPage.hero.title')}
+          description={t('networkOptimizationPage.hero.description')}
+          areaServed="EU"
+          locale={locale}
+          url={`/${locale}/network-optimization`}
+        />
+      )}
+      <FAQSchema
+        faqs={faqItems.map((item: any) => ({ question: item.question, answer: item.answer }))}
+        url={`/${locale}/halozat-fejlesztes`}
       />
     </>
   );

@@ -132,6 +132,31 @@
         ],
         "ogImage": "/og/repair-service-sk.jpg"
       },
+      "customDevelopment": {
+        "title": "Vývoj Softvéru na Mieru pre EU Firmy | Na Diaľku a Na Mieste | SIRONIC",
+        "description": "Profesionálny vývoj softvéru pre európske MSP. React/Next.js webové aplikácie, Windows software, mobilné aplikácie. Diaľková dodávka v celej EÚ. GDPR-kompatibilné riešenia.",
+        "keywords": [
+          "vývoj softvéru na mieru EÚ",
+          "diaľkový vývoj softvéru Európa",
+          "vývoj webových aplikácií",
+          "React vývoj",
+          "Next.js vývoj",
+          "vývoj mobilných aplikácií EÚ",
+          "vývoj Windows softvéru",
+          "cezhraničné IT služby",
+          "GDPR-kompatibilný softvér",
+          "softvér pre európske MSP",
+          "vývoj CRM na mieru",
+          "firemné softvérové riešenia",
+          "diaľkový vývojový tím",
+          "Rakúsko",
+          "Nemecko",
+          "Slovensko",
+          "Česko",
+          "Rumunsko"
+        ],
+        "ogImage": "/og/custom-development-sk.jpg"
+      },
       "onsitePresence": {
         "title": "IT On-Site Prítomnosť - SIRONIC IT Riešenia",
         "description": "Profesionálny IT dohľad a technická podpora pre podujatia a konferencie. Dedikovaný špecialista na mieste.",
@@ -572,6 +597,35 @@
         "Naše služby pokrývajú celú IT prevádzku: správu systémov, budovanie sietí, zálohovanie údajov, IT bezpečnosť, správu firewallov, vývoj webových stránok a IT školenia. Vždy sa prispôsobujeme aktuálnym technológiám, takže naši klienti si môžu byť istí, že ich firemné IT systémy sú aktuálne a bezpečné.",
         "SIRONIC poskytuje nielen IT – ale aj pokoj, predvídateľnosť a podporu. Sme tí, ktorých môžete kedykoľvek kontaktovať, ak sa vyskytne problém – a často ho vyriešime skôr, ako si ho vôbec všimnete.",
         "Ku každému klientovi pristupujeme ako k partnerovi, nielenže udržiavame jeho systémy, ale dlhodobo sa staráme o jeho prevádzku."
+      ]
+    },
+    "euPresence": {
+      "title": "Európska IT prítomnosť – Podpora bez hraníc",
+      "paragraphs": [
+        "SIRONIC nepôsobí len v Maďarsku – máme celoeurópsku prítomnosť a podporujeme firmy so vzdialenou aj lokálnou IT podporou v celej EÚ. Či už ide o vývoj softvéru na mieru alebo správu systémov, náš tím je pripravený pomôcť kdekoľvek v Európskej únii.",
+        "Naše operácie založené na práci na diaľku nám umožňujú poskytovať IT podporu v 16 jazykoch a rýchlo reagovať na potreby každého európskeho klienta. S modernými nástrojmi na riadenie projektov a komunikačnými platformami nie je vzdialenosť prekážkou.",
+        "Naše služby využívajú MSP pôsobiace vo viacerých členských štátoch EÚ – od vývoja aplikácií na mieru až po IT poradenstvo. Či už ide o prítomnosť na nemeckom, rakúskom, slovenskom, českom, poľskom alebo rumunskom trhu, SIRONIC pomáha zabezpečiť, aby vaša IT infraštruktúra zostala konkurencieschopná v celej EÚ."
+      ]
+    },
+    "capabilities": {
+      "title": "Cezhraničné IT služby",
+      "items": [
+        {
+          "title": "Viacjazyčná vzdialená IT podpora",
+          "description": "Poskytujeme IT podporu a vývoj v 16 európskych jazykoch – nemčina, angličtina, francúzština, taliančina, španielčina a ďalšie stredoeurópske jazyky. Žiadne jazykové bariéry, len rýchla a efektívna práca."
+        },
+        {
+          "title": "Ochrana údajov a bezpečnosť v súlade s EÚ",
+          "description": "Všetky naše systémy sú navrhnuté tak, aby boli v súlade s GDPR a fungovali podľa nariadení EÚ o ochrane údajov. Bezpečnosť údajov nie je doplnok, je to základná požiadavka."
+        },
+        {
+          "title": "Skúsenosti s projektmi vo viacerých krajinách",
+          "description": "Máme skúsenosti s prácou s klientmi v Maďarsku, Rakúsku, Nemecku, na Slovensku a v Rumunsku. Podporujeme projekty tak vzdialenou prácou, ako aj osobnou prítomnosťou."
+        },
+        {
+          "title": "Komplexná podpora životného cyklu IT pre európske MSP",
+          "description": "Od návrhu systému cez vývoj a prevádzku až po údržbu – poskytujeme komplexné IT riešenia pre európske malé a stredné podniky s cezhraničnými operáciami."
+        }
       ]
     },
     "values": {

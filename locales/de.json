@@ -132,6 +132,31 @@
         ],
         "ogImage": "/og/repair-service-de.jpg"
       },
+      "customDevelopment": {
+        "title": "Individuelle Softwareentwicklung für EU-Unternehmen | Remote & Vor-Ort | SIRONIC",
+        "description": "Professionelle Softwareentwicklung für europäische KMU. React/Next.js Webanwendungen, Windows Desktop-Software, Mobile Apps. Remote-Lieferung EU-weit. DSGVO-konforme Lösungen.",
+        "keywords": [
+          "individuelle Softwareentwicklung EU",
+          "Remote Softwareentwicklung Europa",
+          "Webanwendung Entwicklung",
+          "React Entwicklung",
+          "Next.js Entwicklung",
+          "Mobile App Entwicklung EU",
+          "Windows Software Entwicklung",
+          "grenzüberschreitende IT-Dienste",
+          "DSGVO-konforme Software",
+          "europäische KMU Software",
+          "individuelle CRM Entwicklung",
+          "Business Software Lösungen",
+          "Remote Entwicklungsteam",
+          "Österreich",
+          "Deutschland",
+          "Slowakei",
+          "Tschechien",
+          "Rumänien"
+        ],
+        "ogImage": "/og/custom-development-de.jpg"
+      },
       "onsitePresence": {
         "title": "IT On-Site Präsenz - SIRONIC IT-Systemhaus",
         "description": "Professionelle IT-Überwachung und technischer Support für Events und Konferenzen. Dedizierter Spezialist vor Ort.",
@@ -572,6 +597,35 @@
         "Unsere Dienstleistungen decken den gesamten IT-Betrieb ab: Systemverwaltung, Netzwerkaufbau, Datensicherung, IT-Sicherheit, Firewall-Management, Webentwicklung und IT-Schulung. Wir passen uns immer den aktuellen Technologien an, damit unsere Kunden sicher sein können, dass ihre geschäftlichen IT-Systeme auf dem neuesten Stand und sicher sind.",
         "SIRONIC bietet nicht nur IT – sondern Sorgenfreiheit, Vorhersehbarkeit und Unterstützung. Wir sind diejenigen, die Sie jederzeit erreichen können, wenn es ein Problem gibt – und oft lösen wir es, bevor Sie es überhaupt bemerken.",
         "Wir behandeln jeden Kunden als Partner, warten nicht nur seine Systeme, sondern kümmern uns langfristig um seinen Betrieb."
+      ]
+    },
+    "euPresence": {
+      "title": "Europäische IT-Präsenz – Support ohne Grenzen",
+      "paragraphs": [
+        "SIRONIC ist nicht nur in Ungarn tätig – wir sind europaweit präsent und unterstützen Unternehmen mit Remote- und Vor-Ort-IT-Services in der gesamten EU. Ob individuelle Softwareentwicklung oder Systembetrieb, unser Team ist bereit, überall in der Europäischen Union zu helfen.",
+        "Unsere Remote-First-Arbeitsweise ermöglicht es uns, IT-Support in 16 Sprachen anzubieten und schnell auf die Bedürfnisse jedes europäischen Kunden zu reagieren. Mit modernen Projektmanagement-Tools und Kommunikationsplattformen ist Entfernung kein Hindernis.",
+        "Unsere Dienstleistungen werden von KMU genutzt, die in mehreren EU-Mitgliedstaaten tätig sind – von individueller Anwendungsentwicklung bis IT-Beratung. Ob deutsche, österreichische, slowakische, tschechische, polnische oder rumänische Marktpräsenz, SIRONIC hilft sicherzustellen, dass Ihre IT-Infrastruktur EU-weit wettbewerbsfähig bleibt."
+      ]
+    },
+    "capabilities": {
+      "title": "Grenzüberschreitende IT-Dienstleistungen",
+      "items": [
+        {
+          "title": "Mehrsprachiger Remote-IT-Support",
+          "description": "Wir bieten IT-Support und Entwicklung in 16 europäischen Sprachen – Deutsch, Englisch, Französisch, Italienisch, Spanisch und weiteren mitteleuropäischen Sprachen. Keine Sprachbarriere, nur schnelle, effiziente Arbeit."
+        },
+        {
+          "title": "EU-konforme Datenschutz und Sicherheit",
+          "description": "Alle unsere Systeme sind DSGVO-konform gestaltet und entsprechen den EU-Datenschutzvorschriften. Datensicherheit ist keine Zusatzoption, sondern eine Kernvorgabe."
+        },
+        {
+          "title": "Länderübergreifende Projekterfahrung",
+          "description": "Wir haben Erfahrung mit Kunden in Ungarn, Österreich, Deutschland, Slowakei und Rumänien. Wir unterstützen Projekte sowohl mit Remote-Arbeit als auch mit Vor-Ort-Präsenz."
+        },
+        {
+          "title": "Vollständige IT-Lifecycle-Unterstützung für europäische KMU",
+          "description": "Von Systemdesign über Entwicklung und Betrieb bis zur Wartung – wir bieten umfassende IT-Lösungen für europäische kleine und mittlere Unternehmen mit grenzüberschreitenden Aktivitäten."
+        }
       ]
     },
     "values": {

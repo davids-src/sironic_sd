@@ -10,6 +10,7 @@ import { CheckCircle, Code2, Smartphone, MonitorSmartphone, Zap, Shield, Users, 
 import Link from 'next/link';
 import { FAQSchema } from '@/components/structured-data/FAQSchema';
 import { BreadcrumbSchema } from '@/components/structured-data/BreadcrumbSchema';
+import { ServiceSchema } from '@/components/ServiceSchemas';
 
 export default function CustomDevelopmentPage() {
   const { t } = useTranslation();
@@ -225,6 +226,14 @@ export default function CustomDevelopmentPage() {
       </section>
 
       {/* Structured Data */}
+      <ServiceSchema
+        serviceType="Custom Software Development"
+        serviceName={t('customDevelopmentPage.hero.title')}
+        description={t('customDevelopmentPage.hero.description')}
+        areaServed="EU"
+        locale={locale}
+        url={`/${locale}/egyedi-alkalmazas-fejlesztes`}
+      />
       <FAQSchema faqs={faqs} />
       <BreadcrumbSchema items={breadcrumbs} />
     </div>

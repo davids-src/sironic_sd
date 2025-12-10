@@ -142,6 +142,31 @@
                 ],
                 "ogImage": "/og/repair-service-en.jpg"
             },
+            "customDevelopment": {
+                "title": "Dedykowane Oprogramowanie dla Firm UE | Zdalnie i Na Miejscu | SIRONIC",
+                "description": "Profesjonalny rozwój oprogramowania dla europejskich MŚP. Aplikacje webowe React/Next.js, oprogramowanie Windows, aplikacje mobilne. Zdalna dostawa w całej UE. Rozwiązania zgodne z RODO.",
+                "keywords": [
+                    "dedykowane oprogramowanie UE",
+                    "zdalny rozwój oprogramowania Europa",
+                    "rozwój aplikacji webowych",
+                    "rozwój React",
+                    "rozwój Next.js",
+                    "rozwój aplikacji mobilnych UE",
+                    "rozwój oprogramowania Windows",
+                    "transgraniczne usługi IT",
+                    "oprogramowanie zgodne z RODO",
+                    "oprogramowanie dla europejskich MŚP",
+                    "dedykowany rozwój CRM",
+                    "rozwiązania oprogramowania biznesowego",
+                    "zdalny zespół deweloperski",
+                    "Austria",
+                    "Niemcy",
+                    "Słowacja",
+                    "Czechy",
+                    "Rumunia"
+                ],
+                "ogImage": "/og/custom-development-pl.jpg"
+            },
             "onsitePresence": {
                 "title": "Obecność IT na Miejscu - SIRONIC IT Solutions",
                 "description": "Profesjonalny nadzór IT i wsparcie techniczne dla eventów i konferencji. Dedykowany specjalista na miejscu.",
@@ -582,6 +607,35 @@
                 "Nasze usługi obejmują pełne spektrum działania IT: administrację systemami, budowę sieci, backup danych, bezpieczeństwo IT, zarządzanie firewallem, web development i szkolenia IT. Zawsze dostosowujemy się do obecnej technologii, dzięki czemu nasi klienci mogą być pewni, że ich firmowe systemy IT są aktualne i bezpieczne.",
                 "SIRONIC dostarcza nie tylko IT – ale spokój ducha, przewidywalność i wsparcie. Jesteśmy tymi, do których możesz zadzwonić w każdej chwili, gdy pojawi się problem – a często rozwiązujemy go, zanim w ogóle go zauważysz.",
                 "Każdego klienta traktujemy jak partnera, dbając nie tylko o jego systemy, ale troszcząc się o jego firmę długoterminowo."
+            ]
+        },
+        "euPresence": {
+            "title": "Europejska obecność IT – Wsparcie bez granic",
+            "paragraphs": [
+                "SIRONIC działa nie tylko na Węgrzech – mamy europejską obecność i wspieramy firmy ze wsparciem IT zdalnym i na miejscu w całej UE. Niezależnie od tego, czy jest to dedykowane oprogramowanie, czy administracja systemami, nasz zespół jest gotowy pomóc w dowolnym miejscu w Unii Europejskiej.",
+                "Nasza działalność oparta na zdalnej pracy umożliwia nam świadczenie wsparcia IT w 16 językach i szybką reakcję na potrzeby każdego europejskiego klienta. Dzięki nowoczesnym narzędziom do zarządzania projektami i platformom komunikacyjnym odległość nie stanowi bariery.",
+                "Nasze usługi są wykorzystywane przez MŚP działające w wielu państwach członkowskich UE – od dedykowanego rozwoju aplikacji po konsultacje IT. Niezależnie od tego, czy chodzi o obecność na rynkach niemieckim, austriackim, słowackim, czeskim, polskim czy rumuńskim, SIRONIC pomaga zapewnić, że Twoja infrastruktura IT pozostaje konkurencyjna w całej UE."
+            ]
+        },
+        "capabilities": {
+            "title": "Transgraniczne usługi IT",
+            "items": [
+                {
+                    "title": "Wielojęzyczne zdalne wsparcie IT",
+                    "description": "Świadczymy wsparcie IT i rozwój w 16 językach europejskich – niemieckim, angielskim, francuskim, włoskim, hiszpańskim i innych językach Europy Środkowej. Żadnych barier językowych, tylko szybka i efektywna praca."
+                },
+                {
+                    "title": "Zgodna z UE ochrona danych i bezpieczeństwo",
+                    "description": "Wszystkie nasze systemy są zaprojektowane tak, aby były zgodne z RODO i działały zgodnie z przepisami UE dotyczącymi ochrony danych. Bezpieczeństwo danych to nie dodatek, to podstawowy wymóg."
+                },
+                {
+                    "title": "Doświadczenie w projektach wielokrajowych",
+                    "description": "Mamy doświadczenie w pracy z klientami na Węgrzech, w Austrii, Niemczech, Słowacji i Rumunii. Wspieramy projekty zarówno pracą zdalną, jak i lokalną obecnością."
+                },
+                {
+                    "title": "Pełne wsparcie cyklu życia IT dla europejskich MŚP",
+                    "description": "Od projektowania systemów po rozwój, eksploatację i konserwację – dostarczamy kompletne rozwiązania IT dla europejskich małych i średnich przedsiębiorstw prowadzących działalność transgraniczną."
+                }
             ]
         },
         "values": {

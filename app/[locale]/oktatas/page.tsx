@@ -12,6 +12,7 @@ import {
 import Link from 'next/link';
 import { FAQSchema } from '@/components/structured-data/FAQSchema';
 import { BreadcrumbSchema } from '@/components/structured-data/BreadcrumbSchema';
+import { ServiceSchema } from '@/components/ServiceSchemas';
 
 export default function ItTrainingPage() {
   const { t } = useTranslation();
@@ -374,6 +375,14 @@ export default function ItTrainingPage() {
       </section>
 
       {/* Structured Data */}
+      <ServiceSchema
+        serviceType="IT Training"
+        serviceName={t('itTrainingPage.hero.title')}
+        description={t('itTrainingPage.hero.description')}
+        areaServed="EU"
+        locale={locale}
+        url={`/${locale}/oktatas`}
+      />
       <FAQSchema faqs={faqs} />
       <BreadcrumbSchema items={breadcrumbs} />
     </div>

@@ -131,6 +131,31 @@
         ],
         "ogImage": "/og/repair-service-ro.jpg"
       },
+      "customDevelopment": {
+        "title": "Dezvoltare Software Personalizat pentru Companii UE | La Distanță & La Fața Locului | SIRONIC",
+        "description": "Dezvoltare software profesională pentru IMM-uri europene. Aplicații web React/Next.js, software Windows, aplicații mobile. Livrare la distanță în întreaga UE. Soluții conforme GDPR.",
+        "keywords": [
+          "dezvoltare software personalizat UE",
+          "dezvoltare software la distanță Europa",
+          "dezvoltare aplicații web",
+          "dezvoltare React",
+          "dezvoltare Next.js",
+          "dezvoltare aplicații mobile UE",
+          "dezvoltare software Windows",
+          "servicii IT transfrontaliere",
+          "software conform GDPR",
+          "software IMM europene",
+          "dezvoltare CRM personalizat",
+          "soluții software business",
+          "echipă dezvoltare la distanță",
+          "Austria",
+          "Germania",
+          "Slovacia",
+          "Cehia",
+          "România"
+        ],
+        "ogImage": "/og/custom-development-ro.jpg"
+      },
       "onsitePresence": {
         "title": "Prezență IT On-Site - SIRONIC Soluții IT",
         "description": "Supraveghere IT profesională și suport tehnic pentru evenimente și conferințe. Specialist dedicat la fața locului.",
@@ -546,6 +571,35 @@
         "Serviciile noastre acoperă întreaga operațiune IT: administrarea sistemelor, construirea rețelelor, backup-ul datelor, securitatea IT, gestionarea firewall-urilor, dezvoltarea web și instruirea IT. Ne adaptăm întotdeauna la tehnologiile actuale, astfel încât clienții noștri pot fi siguri că sistemele lor IT de afaceri sunt actualizate și sigure.",
         "SIRONIC oferă nu doar IT – ci și liniște sufletească, predictibilitate și suport. Suntem cei pe care îi puteți contacta oricând dacă apare o problemă – și adesea o rezolvăm înainte să observați.",
         "Tratăm fiecare client ca pe un partener, nu doar întreținându-le sistemele, ci având grijă de operațiunile lor pe termen lung."
+      ]
+    },
+    "euPresence": {
+      "title": "Prezență IT europeană – Suport fără frontiere",
+      "paragraphs": [
+        "SIRONIC nu operează doar în Ungaria – avem o prezență la nivel european, sprijinind afaceri cu servicii IT la distanță și la fața locului în întreaga UE. Fie că este vorba de dezvoltare software personalizat sau gestionare sisteme, echipa noastră este gata să asiste oriunde în Uniunea Europeană.",
+        "Operațiunile noastre remote-first ne permit să oferim suport IT în 16 limbi și să răspundem rapid nevoilor oricărui client european. Cu instrumente moderne de management de proiecte și platforme de comunicare, distanța nu este o barieră.",
+        "Serviciile noastre sunt utilizate de IMM-uri care operează în mai multe state membre ale UE – de la dezvoltare de aplicații personalizate până la consultanță IT. Fie că este vorba de prezență pe piețele germană, austriacă, slovacă, cehă, polonă sau română, SIRONIC ajută să asigure că infrastructura IT rămâne competitivă în întreaga UE."
+      ]
+    },
+    "capabilities": {
+      "title": "Servicii IT transfrontaliere",
+      "items": [
+        {
+          "title": "Suport IT la distanță multilingv",
+          "description": "Oferim suport IT și dezvoltare în 16 limbi europene – germană, engleză, franceză, italiană, spaniolă și alte limbi din Europa Centrală. Fără bariere lingvistice, doar  muncă rapidă și eficientă."
+        },
+        {
+          "title": "Protecția datelor și securitate conforme cu UE",
+          "description": "Toate sistemele noastre sunt proiectate să fie conforme GDPR și să funcționeze conform reglementărilor UE privind protecția datelor. Securitatea datelor nu este un supliment, este o cerință fundamentală."
+        },
+        {
+          "title": "Experiență în proiecte multi-țară",
+          "description": "Avem experiență lucrând cu clienți din Ungaria, Austria, Germania, Slovacia și România. Susținem proiecte atât cu muncă la distanță, cât și cu prezență la fața locului."
+        },
+        {
+          "title": "Suport complet al ciclului de viață IT pentru IMM-uri europene",
+          "description": "De la proiectarea sistemelor până la dezvoltare, operațiuni și întreținere – oferim soluții IT complete pentru întreprinderi mici și mijlocii europene cu operațiuni transfrontaliere."
+        }
       ]
     },
     "values": {

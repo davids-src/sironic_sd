@@ -137,6 +137,31 @@
                 ],
                 "ogImage": "/og/repair-service-en.jpg"
             },
+            "customDevelopment": {
+                "title": "Razvoj Programske Opreme Po Meri za EU Podjetja | Na Daljavo in Na Kraju | SIRONIC",
+                "description": "Profesionalni razvoj programske opreme za evropska MSP. React/Next.js spletne aplikacije, Windows programska oprema, mobilne aplikacije. Dostava na daljavo po celotni EU. GDPR-skladne rešitve.",
+                "keywords": [
+                    "razvoj programske opreme po meri EU",
+                    "razvoj programske opreme na daljavo Evropa",
+                    "razvoj spletnih aplikacij",
+                    "React razvoj",
+                    "Next.js razvoj",
+                    "razvoj mobilnih aplikacij EU",
+                    "razvoj Windows programske opreme",
+                    "čezmejne IT storitve",
+                    "GDPR-skladna programska oprema",
+                    "programska oprema za evropska MSP",
+                    "razvoj CRM po meri",
+                    "poslovna programska oprema",
+                    "razvojna ekipa na daljavo",
+                    "Avstrija",
+                    "Nemčija",
+                    "Slovaška",
+                    "Češka",
+                    "Romunija"
+                ],
+                "ogImage": "/og/custom-development-sl.jpg"
+            },
             "onsitePresence": {
                 "title": "IT Prisotnost na lokaciji - SIRONIC IT Solutions",
                 "description": "Profesionalni IT nadzor in tehnična podpora za dogodke in konference. Namenski strokovnjak na lokaciji.",
@@ -552,6 +577,35 @@
                 "Naše storitve pokrivajo celotno IT delovanje: upravljanje sistemov, izgradnjo omrežij, varnostno kopiranje podatkov, IT varnost, upravljanje požarnih zidov, spletni razvoj in IT izobraževanje. Vedno se prilagajamo trenutnim tehnologijam, tako da so naše stranke lahko prepričane, da so njihovi poslovni IT sistemi posodobljeni in varni.",
                 "SIRONIC ne zagotavlja le IT – ampak mir, predvidljivost in podporo. Smo tisti, ki jih lahko kadarkoli pokličete, če pride do težave – in pogosto jo rešimo, še preden jo sploh opazite.",
                 "Vsako stranko obravnavamo kot partnerja, ne le vzdržujemo njihove sisteme, ampak dolgoročno skrbimo za njihovo delovanje."
+            ]
+        },
+        "euPresence": {
+            "title": "Evropska IT prisotnost – Podpora brez meja",
+            "paragraphs": [
+                "SIRONIC ne deluje samo na Madžarskem – imamo prisotnost po vsej Evropi in podpiramo podjetja z IT podporo na daljavo in na lokaciji v celotni EU. Ne glede na to, ali gre za razvoj programske opreme po meri ali upravljanje sistemov, naša ekipa je pripravljena pomagati kjerkoli v Evropski uniji.",
+                "Naše delovanje, ki temelji na daljinskem delu, nam omogoča zagotavljanje IT podpore v 16 jezikih in hiter odziv na potrebe vsakega evropskega naročnika. Z modernimi orodji za upravljanje projektov in komunikacijskimi platformami razdalja ni ovira.",
+                "Naše storitve uporabljajo MSP, ki delujejo v več državah članicah EU – od razvoja aplikacij po meri do IT svetovanja. Ne glede na to, ali gre za prisotnost na nemškem, avstrijskem, slovaškem, češkem, poljskem ali romunskem trgu, SIRONIC pomaga zagotavljati, da vaša IT infrastruktura ostane konkurenčna v celotni EU."
+            ]
+        },
+        "capabilities": {
+            "title": "Čezmejne IT storitve",
+            "items": [
+                {
+                    "title": "Večjezična IT podpora na daljavo",
+                    "description": "Zagotavljamo IT podporo in razvoj v 16 evropskih jezikih – nemščina, angleščina, francoščina, italijanščina, španščina in drugi srednjeevropski jeziki. Brez jezikovnih ovir, le hitro in učinkovito delo."
+                },
+                {
+                    "title": "Varstvo podatkov in varnost v skladu z EU",
+                    "description": "Vsi naši sistemi so zasnovani tako, da so skladni z GDPR in delujejo v skladu z EU predpisi o varstvu podatkov. Varnost podatkov ni dodatek, ampak temeljna zahteva."
+                },
+                {
+                    "title": "Izkušnje s projekti v več državah",
+                    "description": "Imamo izkušnje z delom s strankami na Madžarskem, v Avstriji, Nemčiji, na Slovaškem in v Romuniji. Podpiramo projekte tako z delom na daljavo kot z osebno prisotnostjo."
+                },
+                {
+                    "title": "Popolna podpora življenjskega cikla IT za evropske MSP",
+                    "description": "Od načrtovanja sistemov do razvoja, delovanja in vzdrževanja – zagotavljamo popolne IT rešitve za evropska mala in srednja podjetja s čezmejnim poslovanjem."
+                }
             ]
         },
         "values": {

@@ -141,6 +141,31 @@
                 ],
                 "ogImage": "/og/repair-service-en.jpg"
             },
+            "customDevelopment": {
+                "title": "Maatwerk Softwareontwikkeling voor EU-Bedrijven | Op Afstand & Ter Plaatse | SIRONIC",
+                "description": "Professionele softwareontwikkeling voor Europese MKB. React/Next.js webapplicaties, Windows software, mobiele apps. Levering op afstand in hele EU. GDPR-conforme oplossingen.",
+                "keywords": [
+                    "maatwerk softwareontwikkeling EU",
+                    "softwareontwikkeling op afstand Europa",
+                    "webapplicatieontwikkeling",
+                    "React ontwikkeling",
+                    "Next.js ontwikkeling",
+                    "mobiele app ontwikkeling EU",
+                    "Windows softwareontwikkeling",
+                    "grensoverschrijdende IT-diensten",
+                    "GDPR-conforme software",
+                    "software voor Europees MKB",
+                    "maatwerk CRM ontwikkeling",
+                    "zakelijke softwareoplossingen",
+                    "ontwikkelingsteam op afstand",
+                    "Oostenrijk",
+                    "Duitsland",
+                    "Slowakije",
+                    "Tsjechië",
+                    "Roemenië"
+                ],
+                "ogImage": "/og/custom-development-nl.jpg"
+            },
             "onsitePresence": {
                 "title": "IT On-Site Aanwezigheid - SIRONIC IT Solutions",
                 "description": "Professioneel IT-toezicht en technische support voor evenementen en conferenties. Toegewijde specialist on-site.",
@@ -581,6 +606,35 @@
                 "Onze diensten dekken de volledige IT-werking: systeembeheer, netwerkbouw, back-up van gegevens, IT-beveiliging, firewallbeheer, webontwikkeling en IT-training. We passen ons altijd aan de huidige technologie aan, zodat onze klanten er zeker van kunnen zijn dat hun bedrijfs-IT-systemen up-to-date en veilig zijn.",
                 "SIRONIC levert niet alleen IT – maar gemoedsrust, voorspelbaarheid en steun. Wij zijn degenen die u op elk moment kunt bellen als er een probleem is – en vaak lossen we het op voordat u het überhaupt merkt.",
                 "We behandelen elke klant als een partner, onderhouden niet alleen hun systemen, maar zorgen voor hun bedrijf op lange termijn."
+            ]
+        },
+        "euPresence": {
+            "title": "Europese IT-aanwezigheid – Support zonder grenzen",
+            "paragraphs": [
+                "SIRONIC opereert niet alleen in Hongarije – we hebben Europese aanwezigheid en ondersteunen bedrijven met op afstand en on-site IT-support in de hele EU. Of het nu gaat om ontwikkeling van maatwerksoftware of systeembeheer, ons team staat klaar om overal in de Europese Unie te helpen.",
+                "Onze remote-first-werking stelt ons in staat om IT-support in 16 talen te leveren en snel te reageren op de behoeften van elke Europese klant. Met moderne projectbeheerhulpmiddelen en communicatieplatforms is afstand geen belemmering.",
+                "Onze diensten worden gebruikt door het MKB dat actief is in meerdere EU-lidstaten – van maatwerkapplicatieontwikkeling tot IT-advies. Of het nu gaat om aanwezigheid op Duitse, Oostenrijkse, Slowaakse, Tsjechische, Poolse of Roemeense markten, SIRONIC helpt ervoor te zorgen dat uw IT-infrastructuur concurrerend blijft binnen de hele EU."
+            ]
+        },
+        "capabilities": {
+            "title": "Grensoverschrijdende IT-diensten",
+            "items": [
+                {
+                    "title": "Meertalige externe IT-support",
+                    "description": "We leveren IT-support en ontwikkeling in 16 Europese talen – Duits, Engels, Frans, Italiaans, Spaans en andere Centraal-Europese talen. Geen taalbarrières, alleen snel en efficiënt werk."
+                },
+                {
+                    "title": "EU-conforme gegevensbescherming en beveiliging",
+                    "description": "Al onze systemen zijn ontworpen om GDPR-conform te zijn en te functioneren volgens de EU-gegevensbeschermingsregels. Databeveiliging is geen extra, het is een basisvereiste."
+                },
+                {
+                    "title": "Ervaring met projecten in meerdere landen",
+                    "description": "We hebben ervaring met het werken met klanten in Hongarije, Oostenrijk, Duitsland, Slowakije en Roemenië. We ondersteunen projecten zowel met werken op afstand als met lokale aanwezigheid."
+                },
+                {
+                    "title": "Volledige IT-levenscyclusondersteuning voor Europees MKB",
+                    "description": "Van systeemontwerp tot ontwikkeling, exploitatie en onderhoud – we leveren complete IT-oplossingen voor Europese kleine en middelgrote bedrijven met grensoverschrijdende activiteiten."
+                }
             ]
         },
         "values": {

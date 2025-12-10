@@ -137,6 +137,31 @@
         ],
         "ogImage": "/og/repair-service-en.jpg"
       },
+      "customDevelopment": {
+        "title": "Custom Software Development for EU Businesses | Remote & On-Site | SIRONIC",
+        "description": "Professional custom software development for European SMEs. React/Next.js web apps, Windows desktop software, mobile apps. Remote delivery across EU. GDPR-compliant solutions.",
+        "keywords": [
+          "custom software development EU",
+          "remote software development Europe",
+          "web application development",
+          "React development services",
+          "Next.js development",
+          "mobile app development EU",
+          "Windows software development",
+          "cross-border IT services",
+          "GDPR-compliant software",
+          "European SME software",
+          "custom CRM development",
+          "business software solutions",
+          "remote development team",
+          "Austria",
+          "Germany",
+          "Slovakia",
+          "Czech Republic",
+          "Romania"
+        ],
+        "ogImage": "/og/custom-development-en.jpg"
+      },
       "onsitePresence": {
         "title": "IT On-Site Presence - SIRONIC IT Solutions",
         "description": "Professional IT supervision and technical support for events and conferences. Dedicated specialist on-site.",
@@ -574,6 +599,35 @@
         "Our services cover the entire IT operation: system management, network building, data backup, IT security, firewall management, web development, and IT training. We always adapt to current technologies, so our clients can be sure their business IT systems are up-to-date and secure.",
         "SIRONIC provides not just IT – but peace of mind, predictability, and support. We are the ones you can reach anytime if there's a problem – and often we solve it before you even notice.",
         "We treat every client as a partner, not just maintaining their systems, but caring for their operations in the long term."
+      ]
+    },
+    "euPresence": {
+      "title": "European IT Presence – Support Without Borders",
+      "paragraphs": [
+        "SIRONIC operates not only in Hungary – we have a European-wide presence, supporting businesses with both remote and on-site IT services across the EU. Whether it's custom software development or system operations, our team is ready to assist anywhere in the European Union.",
+        "Our remote-first operations enable us to provide IT support in 16 languages and respond quickly to any European client's needs. With modern project management tools and communication platforms, distance is no barrier.",
+        "Our services are used by SMBs operating in multiple EU member states – from custom application development to IT consulting. Whether it's German, Austrian, Slovak, Czech, Polish, or Romanian market presence, SIRONIC helps ensure your IT infrastructure remains competitive across the EU."
+      ]
+    },
+    "capabilities": {
+      "title": "Cross-Border IT Service Delivery",
+      "items": [
+        {
+          "title": "Multilingual Remote IT Support",
+          "description": "We provide IT support and development in 16 European languages – German, English, French, Italian, Spanish, and additional Central European languages. No language barrier, just fast, efficient work."
+        },
+        {
+          "title": "EU-Compliant Data Protection and Security",
+          "description": "All our systems are designed to be GDPR-compliant and operate according to EU data protection regulations. Data security is not an add-on, it's a core requirement."
+        },
+        {
+          "title": "Multi-Country Project Experience",
+          "description": "We have experience working with clients in Hungary, Austria, Germany, Slovakia, and Romania. We support projects with both remote work and on-site presence."
+        },
+        {
+          "title": "Full IT Lifecycle Support for European SMBs",
+          "description": "From system design through development and operations to maintenance – we provide comprehensive IT solutions for European small and medium-sized businesses with cross-border operations."
+        }
       ]
     },
     "values": {

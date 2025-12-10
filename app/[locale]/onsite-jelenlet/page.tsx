@@ -9,7 +9,7 @@ import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from '@/
 import { CheckCircle, Monitor, Wifi, Video, Headphones, ChevronDown, ArrowRight } from 'lucide-react';
 import Link from 'next/link';
 import { Breadcrumbs } from '@/components/Breadcrumbs';
-import { ServiceSchema } from '@/components/structured-data/ServiceSchema';
+import { ServiceSchema, LocalServiceSchema, FAQSchema } from '@/components/ServiceSchemas';
 
 export default function OnsitePresencePage() {
     const { t } = useTranslation();
@@ -282,11 +282,26 @@ export default function OnsitePresencePage() {
                 </section>
             </div>
 
-            <ServiceSchema
-                locale={locale}
-                serviceName={t('onsitePresencePage.hero.title') || 'IT On-Site Jelenlét'}
-                serviceDescription={t('onsitePresencePage.hero.description') || 'Professzionális helyszíni IT támogatás rendezvényekhez'}
-                serviceType="TechnicalSupport"
+            {/* Structured Data */}
+            {locale === 'hu' ? (
+                <LocalServiceSchema
+                    serviceName={t('onsitePresencePage.hero.title') || 'IT On-Site Jelenlét'}
+                    serviceDescription={t('onsitePresencePage.hero.description') || 'Professzionális helyszíni IT támogatás rendezvényekhez'}
+                    url={`/${locale}/onsite-jelenlet`}
+                />
+            ) : (
+                <ServiceSchema
+                    serviceType="Event IT Support"
+                    serviceName={t('onsitePresencePage.hero.title') || 'IT On-Site Presence'}
+                    description={t('onsitePresencePage.hero.description') || 'Professional on-site IT support for events'}
+                    areaServed="EU"
+                    locale={locale}
+                    url={`/${locale}/onsite-presence`}
+                />
+            )}
+            <FAQSchema
+                faqs={faqItems.map((item: any) => ({ question: item.question, answer: item.answer }))}
+                url={`/${locale}/onsite-jelenlet`}
             />
         </>
     );

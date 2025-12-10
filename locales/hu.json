@@ -108,46 +108,81 @@
         "ogImage": "/og/blog-hu.jpg"
       },
       "networkOptimization": {
-        "title": "Vállalati Hálózat és Wi-Fi Kiépítés - SIRONIC Rendszerház",
-        "description": "Stabil, gyors és biztonságos vállalati hálózatok tervezése és kiépítése. Modern Wi-Fi rendszerek, hálózatoptimalizálás és teljes körű karbantartás cégeknek.",
+        "title": "Vállalati Hálózat és Wi-Fi Kiépítés Székesfehérváron és Budapesten | SIRONIC",
+        "description": "Professzionális vállalati hálózat tervezés és kiépítés Székesfehérváron, Budapesten és Fejér megyében. Helyszíni telepítés, UniFi/MikroTik rendszerek, teljes körű karbantartás. Kérj ajánlatot!",
         "keywords": [
           "vállalati hálózat",
-          "wifi kiépítés",
-          "hálózatfejlesztés",
-          "hálózatoptimalizálás",
+          "wifi kiépítés Székesfehérvár",
+          "hálózatépítés Budapest",
+          "hálózatfejlesztés Fejér megye",
+          "hálózatoptimalizálás Magyarország",
           "vállalati wifi",
-          "MikroTik",
-          "Ubiquiti",
-          "UniFi",
+          "MikroTik Székesfehérvár",
+          "Ubiquiti UniFi telepítés",
           "hálózati biztonság",
-          "Székesfehérvár"
+          "helyszíni hálózatépítés",
+          "Budapest környéke hálózat",
+          "Fejér megye IT"
         ],
         "ogImage": "/og/network-optimization-hu.jpg"
       },
       "repairService": {
-        "title": "Szerviz és Javítás - Laptop, PC, Szerver Javítás | SIRONIC",
-        "description": "Gyors és megbízható IT javítás Székesfehérváron. Laptop, PC, szerver és NAS eszközök szakszerű javítása helyszínen vagy postai beküldéssel. Átlátható árak, garancia.",
+        "title": "Laptop és PC Javítás Székesfehérváron és Budapesten | Helyszíni IT Szerviz",
+        "description": "Gyors laptop és számítógép javítás Székesfehérváron, Budapesten és Fejér megyében. Helyszíni szerviz, postai javítás, átlátható árak. Szerver, NAS, adatmentés. Azonnal időpontot foglalhatsz!",
         "keywords": [
-          "laptop javítás",
-          "pc javítás",
-          "szerviz székesfehérvár",
-          "számítógép javítás",
-          "nas javítás",
-          "adatmentés",
-          "vírusirtás",
-          "helyszíni szerviz"
+          "laptop javítás Székesfehérvár",
+          "pc javítás Budapest",
+          "számítógép javítás Fejér megye",
+          "IT szerviz Székesfehérvár",
+          "helyszíni laptop javítás Magyarország",
+          "szerver javítás Budapest környéke",
+          "nas javítás Fejér megye",
+          "adatmentés Székesfehérvár",
+          "vírusirtás helyszínen",
+          "számítógép szerviz Budapest",
+          "helyszíni IT javítás",
+          "gyors javítás Magyarország"
         ],
         "ogImage": "/og/repair-service-hu.jpg"
       },
-      "onsitePresence": {
-        "title": "IT On-Site Jelenlét - SIRONIC Rendszerház",
-        "description": "Professzionális IT felügyelet és technikai támogatás rendezvényekre, konferenciákra. Dedikált szakember a helyszínen.",
+      "customDevelopment": {
+        "title": "Egyedi Szoftverfejlesztés Európai Cégeknek | Távoli és Helyszíni | SIRONIC",
+        "description": "Professzionális egyedi szoftverfejlesztés európai kkv-knak. React/Next.js webalkalmazások, Windows szoftverek, mobilappok. Távoli kiszolgálás EU-szerte. GDPR-kompatibilis megoldások.",
         "keywords": [
-          "IT on-site",
-          "rendezvény IT",
-          "konferencia technika",
-          "IT felügyelet"
-        ]
+          "egyedi szoftverfejlesztés",
+          "webalkalmazás fejlesztés",
+          "React fejlesztés",
+          "Next.js fejlesztés",
+          "mobilalkalmazás fejlesztés",
+          "Windows szoftver fejlesztés",
+          "távoli szoftverfejlesztés",
+          "GDPR kompatibilis szoftver",
+          "egyedi CRM fejlesztés",
+          "üzleti szoftver megoldások",
+          "Székesfehérvár",
+          "Magyarország",
+          "Ausztria",
+          "Szlovákia",
+          "Románia"
+        ],
+        "ogImage": "/og/custom-development-hu.jpg"
+      },
+      "onsitePresence": {
+        "title": "IT On-Site Jelenlét Eseményekre és Konferenciákra | Budapest, Magyarország | SIRONIC",
+        "description": "Professzionális IT felügyelet és technikai támogatás rendezvényekre, konferenciákra Budapesten és egész Magyarországon. Dedikált IT szakember a helyszínen. Rendezvénytechnika, live stream támogatás.",
+        "keywords": [
+          "IT on-site Budapest",
+          "rendezvény IT Magyarország",
+          "konferencia technika Budapest",
+          "IT felügyelet rendezvény",
+          "esemény IT támogatás Székesfehérvár",
+          "live stream technikai támogatás",
+          "rendezvénytechnika Budapest",
+          "konferencia IT szakember",
+          "helyszíni IT jelenlét",
+          "event IT support Hungary"
+        ],
+        "ogImage": "/og/onsite-presence-hu.jpg"
       }
     }
   },
@@ -571,6 +606,35 @@
         "Szolgáltatásaink lefedik a teljes informatikai működést: rendszerüzemeltetés, hálózatépítés, adatmentés, IT biztonság, tűzfalkezelés, webfejlesztés és IT oktatás. Mindig az aktuális technológiákhoz igazodunk, így ügyfeleink biztosak lehetnek benne, hogy vállalkozásuk informatikai rendszerei naprakészek és biztonságosak.",
         "A SIRONIC nem csak IT-t biztosít – hanem nyugalmat, kiszámíthatóságot és támogatást. Mi azok vagyunk, akiket bármikor elérhetsz, ha gond van – és gyakran előbb megoldjuk, minthogy észrevennéd.",
         "Minden ügyfelünket partnerként kezeljük, nem csak karbantartjuk a rendszereiket, hanem hosszú távon gondoskodunk a működésükről."
+      ]
+    },
+    "euPresence": {
+      "title": "Európai szintű IT jelenlét – határok nélküli támogatás",
+      "paragraphs": [
+        "A SIRONIC nem csak Magyarországon működik – Európa-szerte jelen vagyunk, és támogatjuk a vállalkozásokat távoli és helyszíni IT szolgáltatásokkal egyaránt. Akár egyedi szoftverfejlesztésről, akár rendszerüzemeltetésről van szó, csapatunk készen áll arra, hogy bárhol az EU-ban segítsen.",
+        "Távmunkára épülő működésünk lehetővé teszi, hogy 16 nyelven nyújtsunk IT támogatást, és hogy gyorsan reagáljunk bármely európai ügyfél igényeire. Modern projektmenedzsment eszközeinkkel és kommunikációs platformjainkkal a távolság nem jelent akadályt.",
+        "Szolgáltatásainkat több EU tagállamban működő KKV-k is igénybe veszik – az egyedi alkalmazásfejlesztéstől kezdve az IT tanácsadásig. Legyen szó német, osztrák, szlovák, cseh, lengyel vagy román piaci jelenlétről, a SIRONIC segít abban, hogy IT infrastruktúrád EU-szerte versenyképes maradjon."
+      ]
+    },
+    "capabilities": {
+      "title": "Határokon átnyúló IT szolgáltatások",
+      "items": [
+        {
+          "title": "Többnyelvű távoli IT támogatás",
+          "description": "16 európai nyelven nyújtunk IT támogatást és fejlesztést – német, angol, francia, olasz, spanyol és további közép-európai nyelveken. Nincs nyelvi akadály, csak gyors, hatékony munka."
+        },
+        {
+          "title": "EU-megfelelő adatvédelem és biztonság",
+          "description": "Minden rendszerünket GDPR-kompatibilisen alakítjuk ki, és az EU-s adatvédelmi előírásoknak megfelelően működtetjük. Az adatbiztonság nem extra, hanem alapkövetelmény."
+        },
+        {
+          "title": "Több országban is dolgozunk",
+          "description": "Tapasztalatunk van magyarországi, osztrák, német, szlovák és román ügyfelekkel való együttműködésben. Távoli munkavégzéssel és helyszíni jelenléttel is támogatjuk a projekteket."
+        },
+        {
+          "title": "Teljes IT életciklus támogatás európai KKV-knak",
+          "description": "A rendszertervezéstől a fejlesztésen és üzemeltetésen át a karbantartásig – teljes körű IT megoldásokat nyújtunk európai kis- és középvállalkozásoknak, akik határon átnyúló működést folytatnak."
+        }
       ]
     },
     "values": {
