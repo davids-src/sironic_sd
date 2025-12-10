@@ -1,0 +1,1764 @@
+{
+    "meta": {
+        "siteTitle": "SIRONIC IT Solutions: Komplexní IT řešení pro malé a střední podniky – Správa, Vývoj, Bezpečnost",
+        "siteDescription": "Profesionální správa IT, vývoj webů, sítě a bezpečnost. Dedikovaná podpora pro MSP. Objednejte bezplatnou konzultaci!",
+        "companyName": "SIRONIC IT Solutions",
+        "keywords": [
+            "IT služby",
+            "správce systému",
+            "instalace sítě",
+            "IT bezpečnost",
+            "tvorba webových stránek",
+            "vývoj CRM",
+            "IT školení",
+            "kurz kyberbezpečnosti",
+            "digitální kompetence",
+            "IT hardware",
+            "hostingové služby",
+            "webhosting",
+            "pronájem serverů",
+            "oprava počítačů",
+            "notebook",
+            "podpora na místě",
+            "ochrana dat",
+            "údržba",
+            "Székesfehérvár",
+            "Maďarsko",
+            "Rakousko",
+            "Slovensko",
+            "Rumunsko",
+            "Česká republika",
+            "Švédsko",
+            "Dánsko",
+            "Norsko",
+            "Nizozemsko",
+            "Polsko"
+        ],
+        "ogImage": "/og/home-en.jpg",
+        "pages": {
+            "services": {
+                "title": "IT Služby - Správa Systémů & Vývoj",
+                "description": "Spolehlivé IT služby pro firmy: správa systémů, síťová infrastruktura, web development, hosting a servis. Požádejte o cenovou nabídku od našich expertů ještě dnes!",
+                "keywords": [
+                    "IT služby",
+                    "správa systémů",
+                    "síťová infrastruktura",
+                    "IT bezpečnost",
+                    "web development",
+                    "hosting",
+                    "servis",
+                    "Székesfehérvár"
+                ],
+                "ogImage": "/og/services-en.jpg"
+            },
+            "about": {
+                "title": "O Nás - SIRONIC IT Solutions: Váš Důvěryhodný Partner",
+                "description": "Seznamte se se SIRONIC IT Solutions! Více než 5 let zkušeností, proaktivní IT podpora a přístup zaměřený na klienta pro sektor MSP.",
+                "keywords": [
+                    "IT společnost",
+                    "Székesfehérvár",
+                    "důvěryhodný IT partner",
+                    "správa systémů",
+                    "IT podpora"
+                ],
+                "ogImage": "/og/about-en.jpg"
+            },
+            "contact": {
+                "title": "Kontakt - SIRONIC IT Solutions Székesfehérvár",
+                "description": "Máte otázky? Kontaktujte nás pro bezplatnou konzultaci! Zavolejte, napište e-mail nebo nás navštivte v Székesfehérváru. Jsme tu, abychom pomohli.",
+                "keywords": [
+                    "IT kontakt",
+                    "bezplatná konzultace",
+                    "Székesfehérvár IT",
+                    "hello@sironic.hu"
+                ],
+                "ogImage": "/og/contact-en.jpg"
+            },
+            "pricing": {
+                "title": "Ceník a Balíčky IT Služeb - SIRONIC IT Solutions",
+                "description": "Zkontrolujte naše konkurenční IT ceny! Fixní měsíční správa systémů, dedikovaný vývoj a údržba bez skrytých poplatků a s plnou zárukou.",
+                "keywords": [
+                    "IT ceny",
+                    "měsíční IT podpora",
+                    "cena správy systémů",
+                    "IT náklady",
+                    "Székesfehérvár"
+                ],
+                "ogImage": "/og/pricing-en.jpg"
+            },
+            "products": {
+                "title": "Dedikovaný Software a IT Produkty - SIRONIC Solutions",
+                "description": "Objevte naše vlastní softwarová řešení a IT produkty! CRM systémy, webové a mobilní aplikace navržené pro růst vašeho podnikání.",
+                "keywords": [
+                    "IT produkty",
+                    "software na míru",
+                    "CRM systém",
+                    "webová aplikace",
+                    "mobilní aplikace"
+                ],
+                "ogImage": "/og/products-en.jpg"
+            },
+            "blog": {
+                "title": "IT Blog a Znalostní Báze - Tipy pro Podnikání",
+                "description": "Přečtěte si naše nejnovější IT novinky a rady! Užitečné tipy pro kyberbezpečnost, správu systémů a digitální růst pro firmy.",
+                "keywords": [
+                    "IT blog",
+                    "IT tipy",
+                    "IT bezpečnost",
+                    "IT pro firmy",
+                    "znalostní báze"
+                ],
+                "ogImage": "/og/blog-en.jpg"
+            },
+            "networkOptimization": {
+                "title": "Firemní Sítě a Instalace Wi-Fi - SIRONIC IT Solutions",
+                "description": "Návrh a implementace stabilních, rychlých a bezpečných firemních sítí. Moderní Wi-Fi systémy, optimalizace sítě a komplexní údržba pro firmy.",
+                "keywords": [
+                    "firemní síť",
+                    "instalace wifi",
+                    "optimalizace sítě",
+                    "wifi pro firmy",
+                    "MikroTik",
+                    "Ubiquiti",
+                    "UniFi",
+                    "síťová bezpečnost",
+                    "Székesfehérvár",
+                    "Maďarsko"
+                ],
+                "ogImage": "/og/network-optimization-en.jpg"
+            },
+            "repairService": {
+                "title": "IT Servis a Opravy - Notebook, PC, Server, Oprava | SIRONIC",
+                "description": "Rychlá a spolehlivá oprava IT v Székesfehérváru. Profesionální servis notebooků, PC, serverů a NAS zařízení na místě nebo poštou. Transparentní ceny, záruka.",
+                "keywords": [
+                    "oprava notebooků",
+                    "oprava pc",
+                    "oprava počítačů székesfehérvár",
+                    "oprava serverů",
+                    "oprava nas",
+                    "obnova dat",
+                    "odvirování",
+                    "oprava u zákazníka"
+                ],
+                "ogImage": "/og/repair-service-en.jpg"
+            },
+            "onsitePresence": {
+                "title": "IT Podpora na Místě - SIRONIC IT Solutions",
+                "description": "Profesionální IT dohled a technická podpora pro akce a konference. Dedikovaný specialista na místě.",
+                "keywords": [
+                    "IT na místě",
+                    "event IT",
+                    "konferenční technika",
+                    "IT dohled"
+                ]
+            }
+        }
+    },
+    "nav": {
+        "home": "Domů",
+        "services": "Služby",
+        "products": "Produkty",
+        "pricing": "Ceník",
+        "about": "O nás",
+        "blog": "Blog",
+        "contact": "Kontakt",
+        "ctaButton": "Požádat o Nabídku"
+    },
+    "hero": {
+        "badge": "Nová Služba",
+        "title": "Profesionální IT Správa a Budování Sítí s Bezpečností na úrovni EU",
+        "subtitle": "Stabilní a bezpečná IT řešení pro MSP s garantovanou dostupností.",
+        "cta": "Bezplatná Konzultace",
+        "learnMore": "Kontaktujte nás"
+    },
+    "euPresence": {
+        "title": "IT Služby na úrovni EU – Jsme tam, kde nás potřebujete",
+        "subtitle": "SIRONIC podporuje firmy s celoevropským dosahem, poskytující vzdálenou i lokální IT podporu – bez hranic.",
+        "points": [
+            "Rychlá reakce po celé Evropě",
+            "Profesionální IT podpora vzdáleně nebo na místě",
+            "Pro firmy, akce a více lokalit"
+        ],
+        "cta": "Zjistit více"
+    },
+    "services": {
+        "title": "Naše Služby",
+        "subtitle": "Komplexní IT řešení pro růst vaší firmy",
+        "viewAll": "Všechny Služby",
+        "systemOperation": {
+            "title": "Správa Systémů a Údržba IT",
+            "description": "Komplexní údržba systémů, nepřetržitý monitoring a podpora pro MSP, plně v souladu s EU."
+        },
+        "networking": {
+            "title": "Budování a Rozvoj Sítí",
+            "description": "Návrh, budování a správa moderní, bezpečné síťové infrastruktury."
+        },
+        "security": {
+            "title": "IT Bezpečnost a Soukromí",
+            "description": "Bezpečnostní audity, řízení přístupu a ochrana dat v souladu s předpisy EU."
+        },
+        "development": {
+            "title": "Vývoj Webů a Systémů",
+            "description": "Rychlý a bezpečný vývoj firemních webů a e-shopů pomocí moderních technologií."
+        },
+        "commerce": {
+            "title": "Obchod – IT Hardware a Software",
+            "description": "Zajistěte si vše potřebné pro chod kanceláře – počítače, monitory, tiskárny, servery a softwarové licence."
+        },
+        "hosting": {
+            "title": "Hosting a Cloudová Řešení",
+            "description": "Stabilní, rychlá a bezpečná hostingová řešení pro weby, e-maily a zálohy. Webhosting, pronájem serverů a cloud backup."
+        },
+        "repair": {
+            "title": "Servis a Oprava",
+            "description": "Rychlá a spolehlivá oprava počítačů, notebooků a serverů na místě nebo poštou. Transparentní ceny a rychlé opravy."
+        }
+    },
+    "customDevelopment": {
+        "badge": "Software na Míru",
+        "title": "Vývoj Aplikací na Míru pro Vaši Firmu",
+        "subtitle": "Škálovatelný, bezpečný a obchodně orientovaný software",
+        "description": "Tým SIRONIC nabízí komplexní vývoj aplikací přizpůsobených vašemu podnikání. Od webových aplikací a desktopového softwaru pro Windows po mobilní aplikace – všechna řešení jsou ušita na míru vašim obchodním potřebám s využitím moderních technologií.",
+        "cards": {
+            "webApps": {
+                "title": "Dedikované Webové Aplikace",
+                "description": "Obchodní webové aplikace založené na TailScript a React. Škálovatelná, rychlá a uživatelsky přívětivá řešení pro složité obchodní procesy."
+            },
+            "desktop": {
+                "title": "Desktopový Software Windows",
+                "description": "Vývoj nativních Windows aplikací pomocí moderních technologií. Výkonný, rychlý a spolehlivý software pro kancelářská prostředí."
+            },
+            "mobile": {
+                "title": "Vývoj Mobilních Aplikací",
+                "description": "Vývoj aplikací pro Android a iOS. Moderní, intuitivní mobilní řešení, která fungují perfektně na každém zařízení."
+            }
+        },
+        "cta": {
+            "main": "Poptat vývoj softwaru na míru",
+            "learnMore": "Číst více"
+        }
+    },
+    "mindenCegnek": {
+        "badge": "Měsíční IT Podpora",
+        "title": "Každá firma si zaslouží IT oddělení",
+        "subtitle": "IT řešení, jako byste měli vlastního IT specialistu",
+        "description": "Nemusíte zaměstnávat informatika, abyste měli stabilní, bezpečné a rychlé systémy. Měsíční paušál SIRONIC funguje tak, jako byste měli interní tým – ale platíte jen za to, co skutečně potřebujete.",
+        "features": {
+            "costEffective": "Nákladově efektivní, optimalizovaná IT podpora – flexibilní, spolehlivá, transparentní.",
+            "discount": "Platí do 1. února 2026: 10% sleva na první 3 měsíce pro partnery, kteří si objednají konzultaci!"
+        },
+        "cta": {
+            "consultation": "Rezervovat IT konzultaci zdarma!",
+            "learnMore": "Číst více"
+        }
+    },
+    "whyChooseUs": {
+        "title": "Proč si vybrat nás?",
+        "reasons": [
+            "Garantovaná doba reakce: Zajišťujeme rychlou intervenci s fixním SLA pro naše smluvní partnery.",
+            "Nepřetržitý monitoring systému: Služba monitoringu 24/7 k předcházení výpadkům.",
+            "Proaktivní údržba: Myslíme dopředu, jednáme dříve, než nastanou problémy.",
+            "Spolehlivost: 5+ let zkušeností s návrhem a správou systémů.",
+            "Transparentní náklady: Žádné skryté poplatky, fixní měsíční poplatek nebo ad-hoc řešení.",
+            "Opravdová lidská komunikace: Žádná 'džungle tiketů' – vždy se nám dovoláte.",
+            "Moderní IT bezpečnost: Ochrana dat a bezpečnost sítě s moderními firewally, zálohami a řízením přístupu – bezpečnost je standard, ne doplněk.",
+            "Web Development a digitální přítomnost: Profesionální, responzivní weby a systémy na míru, které zvyšují online viditelnost a přitahují zákazníky."
+        ]
+    },
+    "trust": {
+        "partners": {
+            "title": "Naši Technologičtí Partneři"
+        },
+        "reference": {
+            "quote": "Kompletní převzetí IT a vyčištění: stabilizace a modernizace kancelářské sítě pro 40 lidí za méně než 30 dní."
+        }
+    },
+    "testimonials": {
+        "title": "Co říkají naši klienti",
+        "items": [
+            {
+                "quote": "S týmem SIRONIC konečně klidně spíme: naše IT systémy fungují stabilně, rychle a bezpečně. Když se objeví problémy, reagují okamžitě a vysvětlí vše jednoduchým jazykem – bez technického žargonu. Málokdy se ve světě IT najde tak spolehlivý partner.",
+                "company": "Pervector Ltd."
+            },
+            {
+                "quote": "Dříve jsme měli neustálé problémy s počítači a sítí, ale odkdy jsme svěřili IT firmě SIRONIC, vše běží hladce. Pomáhají rychle, ať je problém jakýkoli, a vždy společně najdeme řešení. Je to přesně taková podpora, jakou potřebuje každá firma.",
+                "company": "Bocskai Alba Flexum Ltd."
+            },
+            {
+                "quote": "SIRONIC pro nás vytvořil moderní, čistý a mobilně přívětivý web, který nejen skvěle vypadá, ale také usnadňuje klientům nás najít online. Od té doby se starají o údržbu – každá aktualizace a změna je rychlá a precizní. Dostali jsme komplexní, profesionální službu.",
+                "company": "Bull & U Ltd."
+            },
+            {
+                "quote": "Chtěli jsme čistý, rychlý a moderní web – SIRONIC dodal přesně to. Profesionální tým, smysl pro detail a vždy mají dobré nápady, aby byl výsledek ještě lepší. Náš nový web dokonale odráží identitu naší firmy.",
+                "company": "Regia Dental Ltd."
+            }
+        ]
+    },
+    "workProcess": {
+        "title": "Jak pracujeme",
+        "steps": [
+            {
+                "step": "1",
+                "title": "První kontakt",
+                "description": "Pošlete nám zprávu nebo si rezervujte bezplatnou konzultaci."
+            },
+            {
+                "step": "2",
+                "title": "IT Hodnocení",
+                "description": "Probereme vaše potřeby a poskytneme expertní doporučení."
+            },
+            {
+                "step": "3",
+                "title": "Dedikovaný návrh",
+                "description": "Vytvoříme řešení na míru pro vaše podnikání."
+            }
+        ]
+    },
+    "faq": {
+        "title": "Často Kladené Otázky",
+        "items": [
+            {
+                "question": "Jaké firmy obsluhujete?",
+                "answer": "SIRONIC se specializuje na sektor MSP, ale nabízíme také řešení pro větší firmy na základě unikátních potřeb. Ať už jde o podporu správy systémů, budování sítě nebo web development – najdeme ideální IT řešení pro každou firmu."
+            },
+            {
+                "question": "Čím se SIRONIC liší od jiných poskytovatelů IT služeb?",
+                "answer": "Nejsme jen 'opraváři' – proaktivně monitorujeme systémy, předcházíme problémům a komunikujeme lidským jazykem. Nedovolíme, aby IT bylo překážkou, ale aby se stalo konkurenční výhodou."
+            },
+            {
+                "question": "Jak rychle reagujete na nahlášení chyby?",
+                "answer": "Obvykle reagujeme do 1–4 hodin, v naléhavých případech i okamžitě. Našim předplatitelským partnerům zajišťujeme garantované časy reakce."
+            },
+            {
+                "question": "Jezdíte na místo nebo poskytujete jen vzdálenou podporu?",
+                "answer": "Ano, obojí! Většinu chyb řešíme vzdáleným přístupem, ale v případě potřeby jedeme na místo osobně."
+            },
+            {
+                "question": "Tvoříte weby od nuly?",
+                "answer": "Samozřejmě. Vytváříme unikátní, responzivní weby s použitím moderních technologií (Next.js, React, Tailwind), zajišťující rychlost, bezpečnost a optimalizaci pro vyhledávače."
+            },
+            {
+                "question": "Co je CRM Pro a jak pomáhá mé firmě?",
+                "answer": "CRM Pro je dedikovaný systém řízení vztahů se zákazníky, který zprůhledňuje prodejní procesy, automatizuje administrativu a integruje se se stávajícími systémy. Dostupný za cenu dostupnou i pro menší firmy."
+            },
+            {
+                "question": "Jaká bezpečnostní opatření používáte?",
+                "answer": "Používáme moderní firewally, řešení pro zálohování dat, šifrování a řízení přístupu. Všechny naše systémy navrhujeme v souladu s GDPR, takže bezpečnost dat je standardem."
+            },
+            {
+                "question": "V jaké formě s vámi můžeme podepsat smlouvu?",
+                "answer": "Pracujeme ve dvou hlavních modelech: ad-hoc práce (pro příležitostné úkoly) a měsíční servisní smlouva (průběžný provoz a podpora). Obě formy jsou transparentní, s fixními cenami."
+            },
+            {
+                "question": "Kolik stojí vytvoření webu nebo systému?",
+                "answer": "Základní weby začínají na 250 000 HUF (cca 700 €), zatímco cena unikátních systémů nebo CRM řešení závisí na funkcionalitě. Pro každý projekt předkládáme přesnou cenovou nabídku."
+            },
+            {
+                "question": "Proč se vyplatí zvolit cloudová řešení?",
+                "answer": "Cloud je rychlý, bezpečný a flexibilní – nemusíte udržovat vlastní server, data jsou vždy dostupná a rozšíření lze realizovat okamžitě."
+            }
+        ]
+    },
+    "finalCta": {
+        "title": "Připraveni na bezstarostné IT?",
+        "description": "Rezervujte si bezplatnou konzultaci a najděme společně nejlepší řešení pro vaši firmu.",
+        "button": "Požádat o nabídku nyní"
+    },
+    "contact": {
+        "title": "Kontaktujte nás",
+        "subtitle": "Máte otázky nebo chcete bezplatnou konzultaci? Ozvěte se, odpovídáme rychle!",
+        "form": {
+            "title": "Odeslat zprávu",
+            "name": "Jméno a příjmení",
+            "companyName": "Název firmy (Volitelné)",
+            "email": "E-mail",
+            "service": "O kterou službu máte zájem?",
+            "servicePlaceholder": "Vyberte...",
+            "message": "Zpráva",
+            "submit": "Rezervovat IT konzultaci zdarma!",
+            "submitting": "Odesílání...",
+            "required": "*",
+            "success": "Vaše zpráva byla odeslána! Brzy se vám ozveme.",
+            "error": "Při odesílání zprávy došlo k chybě",
+            "noscript": "Můžete také poslat zprávu e-mailem:",
+            "options": {
+                "placeholder": "Vyberte službu",
+                "mindenCegnek": "Každá firma by měla mít informatika",
+                "systemOperation": "Správa systémů a údržba IT",
+                "networking": "Budování a rozvoj sítí",
+                "security": "IT bezpečnost a soukromí",
+                "development": "Vývoj webů a systémů",
+                "commerce": "Obchod – IT hardware a software",
+                "hosting": "Hosting a cloudová řešení",
+                "repair": "Servis a oprava",
+                "training": "IT školení a rozvoj znalostí"
+            },
+            "errors": {
+                "general": "Došlo k chybě sítě. Zkuste to prosím později."
+            }
+        },
+        "info": {
+            "title": "Kontaktní informace",
+            "email": "E-mail",
+            "phone": "Telefon",
+            "location": "Lokalita",
+            "hours": "Otevírací doba",
+            "hoursValue": "Pondělí – Pátek\n8:00 – 17:00",
+            "quickResponse": "Rychlá odpověď",
+            "quickResponseText": "Obvykle odpovídáme na všechny dotazy do 24 hodin v pracovní dny. V naléhavých případech nám zavolejte!"
+        }
+    },
+    "footer": {
+        "companyName": "SIRONIC IT Solutions",
+        "tagline": "Komplexní IT řešení pro malé a střední podniky",
+        "legalName": "Skoda Dávid András OSVČ",
+        "address": "8000 Székesfehérvár, Lövölde utca 24 4/15",
+        "taxNumber": "DIČ: 45755754-2-27",
+        "links": "Rychlé odkazy",
+        "hours": "Otevírací doba",
+        "hoursValue": "Pondělí – Pátek\n8:00 – 17:00",
+        "cookieSettings": "Nastavení cookies",
+        "copyright": "© {year} SIRONIC IT Solutions. Všechna práva vyhrazena."
+    },
+    "common": {
+        "readMore": "Číst více",
+        "learnMore": "Zjistit více",
+        "getQuote": "Požádat o nabídku",
+        "contactUs": "Kontakt",
+        "loading": "Načítání...",
+        "whatYouGet": "Co získáte:"
+    },
+    "servicesPage": {
+        "title": "Naše Služby",
+        "subtitle": "Kompletní IT řešení, aby byla vaše firma bezpečná a efektivní. Od údržby za fixní cenu po dedikovaný vývoj – vše na jednom místě.",
+        "cta": {
+            "title": "Zaujala vás některá z našich služeb?",
+            "subtitle": "Rezervujte si bezplatnou konzultaci a najděme společně nejlepší řešení pro vaši firmu.",
+            "requestQuote": "Požádat o nabídku nyní",
+            "reportService": "Nahlásit servisní problém"
+        },
+        "details": {
+            "systemOperation": {
+                "features": [
+                    "Proaktivní monitoring a údržba",
+                    "Rychlé řešení problémů",
+                    "Pravidelné bezpečnostní aktualizace",
+                    "Optimalizace výkonu"
+                ]
+            },
+            "networking": {
+                "features": [
+                    "Návrh a implementace sítě",
+                    "Optimalizace WiFi sítě",
+                    "VPN a vzdálený přístup",
+                    "Síťová bezpečnost"
+                ]
+            },
+            "security": {
+                "features": [
+                    "Konfigurace a správa firewallu",
+                    "Automatické zálohování",
+                    "Soulad s GDPR",
+                    "Ochrana proti virům a malwaru"
+                ]
+            },
+            "development": {
+                "features": [
+                    "Moderní, responzivní weby",
+                    "E-commerce řešení",
+                    "Software na míru",
+                    "SEO optimalizace"
+                ]
+            },
+            "commerce": {
+                "description": "Můžete u nás pořídit vše potřebné pro chod kanceláře – počítače, monitory, tiskárny, servery, síťová zařízení a softwarové licence. Spolupracujeme s ověřenými značkami a pomáháme vybrat nejlepší poměr cena/výkon. Ať už potřebujete nový hardware nebo upgrade, postaráme se o to.",
+                "features": [
+                    "Počítače, notebooky a servery",
+                    "Síťová zařízení a periferie",
+                    "Nákup softwarových licencí",
+                    "Poradenství při výběru hardwaru"
+                ]
+            },
+            "hosting": {
+                "description": "Nabízíme stabilní, rychlá a bezpečná hostingová řešení pro weby, e-maily a zálohy dat. Zajišťujeme, že vaše data jsou vždy dostupná a chráněná prostřednictvím naší vlastní flotily serverů nebo spolehlivých mezinárodních partnerů.",
+                "features": [
+                    "Webhosting a registrace domén",
+                    "E-mail hosting",
+                    "Cloud backup a sdílení souborů",
+                    "Pronájem serverů a správa"
+                ]
+            },
+            "repair": {
+                "title": "Servis a Oprava – Na místě nebo poštou",
+                "description": "Rychlá a spolehlivá oprava počítačů, notebooků, serverů a síťových zařízení. Servis na místě v Székesfehérváru a okolí nebo poštovní služba. Každou opravu začínáme diagnostikou a pokračujeme až po vašem schválení cenové nabídky. Naším cílem je co nejrychlejší obnovení funkčnosti vašeho systému.",
+                "features": [
+                    "Servis na místě (Székesfehérvár a okolí)",
+                    "Možnost zaslání poštou",
+                    "Transparentní ocenění opravy",
+                    "Rychlá doba opravy"
+                ]
+            },
+            "training": {
+                "title": "IT Školení a Rozvoj Znalostí",
+                "description": "Rozvíjejte digitální kompetence členů vašeho týmu! Nabízíme personalizovaná IT školení, školení bezpečnostního povědomí a rozvoj znalostí na systémové úrovni, aby zaměstnanci mohli bezpečně používat moderní zařízení a software. Bezpečný provoz začíná informacemi.",
+                "features": [
+                    "Personalizovaná IT školení",
+                    "Školení bezpečnostního povědomí",
+                    "Školení uživatelů softwaru a zařízení",
+                    "Programy rozvoje firemních znalostí"
+                ]
+            }
+        }
+    },
+    "productsPage": {
+        "breadcrumb": {
+            "home": "Domů",
+            "products": "Produkty"
+        },
+        "title": "Naše Produkty – Technologie Sironic v Reálných Řešeních",
+        "subtitle": "Naše interní projekty vznikly z reálných potřeb – tyto systémy již podporují provoz mnoha firem. Podívejte se, jak mohou pomoci i vaší firmě.",
+        "noProducts": "Momentálně žádné produkty k zobrazení. Náš sortiment se brzy rozroste!",
+        "cta": {
+            "title": "Zaujal vás některý z našich produktů?",
+            "subtitle": "Kontaktujte nás a ukážeme vám, jak naše systémy mohou zapadnout do vaší firmy. Všechny naše produkty byly vyvinuty na základě reálných obchodních potřeb.",
+            "consultation": "Rezervovat Konzultaci",
+            "services": "Naše Služby"
+        },
+        "whyChoose": {
+            "title": "Proč si vybrat produkty Sironic?",
+            "reasons": [
+                {
+                    "title": "Řešení pro skutečné problémy",
+                    "description": "Všechny naše produkty jsou ověřeny v praxi a osvědčily se v aktivních firmách."
+                },
+                {
+                    "title": "Podpora v maďarštině",
+                    "description": "Kontaktujete nás přímo, bez jazykové bariéry a automatických odpovědních systémů."
+                },
+                {
+                    "title": "Neustálý Rozvoj",
+                    "description": "Pravidelně rozšiřujeme funkce našich produktů a vylepšujeme je na základě zpětné vazby klientů."
+                },
+                {
+                    "title": "Možnosti Přizpůsobení",
+                    "description": "Můžeme přizpůsobit naše produkty vašim potřebám a integrovat je s vašimi stávajícími systémy."
+                }
+            ]
+        }
+    },
+    "aboutPage": {
+        "title": "O nás",
+        "intro": [
+            "SIRONIC IT Solutions vzniklo v období COVID, kdy byla každá firma nucena přehodnotit své IT fungování. Od té doby se neustále rozvíjíme a držíme krok s rychlými změnami ve světě IT – protože věříme, že technologie může být výhodou, ne zátěží pro každou firmu.",
+            "Naším cílem je, aby sektor MSP nemusel bojovat s IT problémy. Nejen udržujeme systémy – poskytujeme stabilitu, bezpečnost a klid pro firmu.",
+            "Ať už jde o správu systémů, budování sítě, bezpečnost dat nebo web development, každé IT řešení je u nás v jedněch rukou – rychle, transparentně a lidským jazykem."
+        ],
+        "stats": [
+            {
+                "value": "5+",
+                "label": "Let Zkušeností"
+            },
+            {
+                "value": "100+",
+                "label": "Spokojených Klientů"
+            },
+            {
+                "value": "24/7",
+                "label": "Dostupnost"
+            },
+            {
+                "value": "99.9%",
+                "label": "Uptime"
+            }
+        ],
+        "mission": {
+            "title": "Mise SIRONIC",
+            "paragraphs": [
+                "Víme, že pro malou nebo střední firmu by IT nemělo být překážkou – musí prostě fungovat, každý den, bezchybně. Výpadek, pomalá síť nebo zastaralé nastavení bezpečnosti mohou dnes způsobit vážné ztráty.",
+                "Proto jsme vytvořili SIRONIC IT Solutions: aby profesionální a zároveň cenově dostupné IT zázemí bylo dostupné pro každou firmu. Nemusíte zaměstnávat vlastního správce systému, nemusíte budovat složité či drahé infrastruktury – my se postaráme o vše.",
+                "Naše služby pokrývají celé spektrum IT provozu: správu systémů, budování sítě, zálohování dat, IT bezpečnost, správu firewallu, web development a IT školení. Vždy se přizpůsobujeme současné technologii, díky čemuž si naši klienti mohou být jisti, že jejich firemní IT systémy jsou aktuální a bezpečné.",
+                "SIRONIC dodává nejen IT – ale klid, předvídatelnost a podporu. Jsme ti, kterým můžete zavolat kdykoli, když se objeví problém – a často ho vyřešíme, ještě než si ho vůbec všimnete.",
+                "Každého klienta bereme jako partnera, staráme se nejen o jeho systémy, ale pečujeme o jeho firmu dlouhodobě."
+            ]
+        },
+        "values": {
+            "title": "Proč s námi pracovat?",
+            "items": [
+                {
+                    "title": "Proaktivní Postoj",
+                    "description": "Nejednáme jen tehdy, když jsou potíže. Monitorujeme vaše systémy nepřetržitě, abychom předcházeli problémům."
+                },
+                {
+                    "title": "Lidská Komunikace",
+                    "description": "Není tu 'džungle tiketů'. Mluvíte se skutečnými lidmi, kteří rozumí vašemu problému a rychle pomáhají."
+                },
+                {
+                    "title": "Transparentnost",
+                    "description": "Fixní měsíční servisní poplatek nebo jednorázová řešení – bez skrytých nákladů, vždy víte, co čekat."
+                }
+            ]
+        },
+        "howWeWork": {
+            "title": "Jak pracujeme?",
+            "steps": [
+                "Nasloucháme vašim potřebám a hodnotíme váš současný IT systém",
+                "Předkládáme doporučení nejlepšího řešení pro vás",
+                "Instalujeme, optimalizujeme a monitorujeme váš systém",
+                "Poskytujeme neustálou podporu, kdykoli nás potřebujete"
+            ]
+        },
+        "finalCta": {
+            "title": "Staňte se jedním z našich partnerů!",
+            "subtitle": "Rezervujte si bezplatnou konzultaci a společně najdeme nejlepší IT řešení pro vaši firmu.",
+            "button": "Pojďme se spojit"
+        }
+    },
+    "pricingPage": {
+        "title": "Ceník",
+        "subtitle": "Vytváříme nabídky na míru na základě vašich obchodních potřeb. Žádné dvě firmy nejsou stejné – takže naše sazby vždy přizpůsobujeme vaší infrastruktuře a požadavkům.",
+        "heroTitle": "Transparentní Ceník – Jasný a Jednoduchý",
+        "heroDescription": "Žádné skryté náklady. Navrhli jsme naše služby tak, aby každá firma mohla najít vhodné řešení – ať už jde o údržbu, vývoj nebo opravu.",
+        "packages": {
+            "mindenCegnek": {
+                "title": "Každá firma si zaslouží IT oddělení",
+                "price": "od 150 €/měsíc",
+                "description": "Plná IT správa v měsíčním paušálu – jako mít vlastního IT specialistu.",
+                "features": [
+                    "Nepřetržitý monitoring a údržba systému",
+                    "Rychlý zásah v případě výpadku",
+                    "Konzultace rozvoje infrastruktury",
+                    "Správa záloh a aktualizací",
+                    "Osobní IT podpora v maďarštině"
+                ],
+                "badge": "🎁 Platí do 1. února 2026: 10% sleva na první 3 měsíce pro žádosti o konzultaci!",
+                "ctaText": "Rezervovat Konzultaci"
+            },
+            "systemOperation": {
+                "title": "Správa Systémů a Údržba IT",
+                "price": "od 120 €/měsíc",
+                "description": "Nepřetržitý monitoring a nerušený provoz.",
+                "features": [
+                    "Pravidelná údržba a monitoring",
+                    "Rychlé řešení problémů a obnova",
+                    "Monitoring serverů a sítě",
+                    "Proaktivní správa a bezpečnostní aktualizace"
+                ],
+                "ctaText": "Požádat o Nabídku"
+            },
+            "networking": {
+                "title": "Budování a Rozvoj Sítí",
+                "price": "od 180 € / projekt",
+                "description": "Spolehlivý, bezpečný návrh a implementace síťové infrastruktury.",
+                "features": [
+                    "Kompletní návrh a instalace sítě",
+                    "Konfigurace routeru, switche, Wi-Fi",
+                    "Optimalizace a údržba sítě",
+                    "Rychlé, stabilní a bezpečné datové připojení"
+                ],
+                "ctaText": "Požádat o Nabídku"
+            },
+            "security": {
+                "title": "IT Bezpečnost a Soukromí",
+                "price": "od 240 €",
+                "description": "Chraňte svá firemní data moderními řešeními.",
+                "features": [
+                    "Instalace firewallu a síťová bezpečnost",
+                    "Zálohování a obnova",
+                    "Řízení přístupu, šifrování",
+                    "Ochrana dat v souladu s GDPR"
+                ],
+                "ctaText": "Požádat o Nabídku"
+            },
+            "development": {
+                "title": "Vývoj Webů a Systémů",
+                "price": "od 1 000 € (jednorázově)",
+                "description": "Profesionální řešení na míru pro digitální růst vaší firmy.",
+                "features": [
+                    "Responzivní weby a portály",
+                    "Dedikovaná softwarová řešení",
+                    "SEO optimalizace a UX",
+                    "Průběžná podpora a údržba"
+                ],
+                "ctaText": "Požádat o Nabídku"
+            },
+            "commerce": {
+                "title": "Obchod – IT Hardware a Software",
+                "price": "Na základě individuální nabídky",
+                "description": "Vše potřebné pro moderní kancelářský provoz.",
+                "features": [
+                    "Počítače, monitory, servery",
+                    "Tiskárny a síťová zařízení",
+                    "Softwarové licence a předplatné",
+                    "Kompletní kancelářská infrastruktura"
+                ],
+                "ctaText": "Požádat o Nabídku"
+            },
+            "hosting": {
+                "title": "Hosting a Cloudová Řešení",
+                "price": "od 15 €/měsíc",
+                "description": "Rychlý, bezpečný a škálovatelný hosting pro firmy.",
+                "features": [
+                    "Web a e-mail hosting",
+                    "Cloud backup",
+                    "Privátní cloudová služba",
+                    "Nepřetržitá dostupnost (99,9%)"
+                ],
+                "ctaText": "Požádat o Nabídku"
+            },
+            "crm": {
+                "title": "Dedikovaný CRM Systém",
+                "price": "od 1 500 €",
+                "description": "Personalizovaný systém řízení zákazníků zvyšující efektivitu prodeje.",
+                "features": [
+                    "Modulární stavba, přizpůsobitelné funkce",
+                    "Integrace se stávajícími systémy (ERP, e-mail, web)",
+                    "Automatizované reporty a analýzy",
+                    "Uživatelsky přívětivé rozhraní"
+                ],
+                "ctaText": "Požádat o Nabídku"
+            },
+            "customQuote": {
+                "title": "Máte unikátní potřeby?",
+                "description": "Ceny jsou orientační; přesné nabídky vždy vycházejí z požadavků.\nRezervujte si bezplatnou konzultaci a pomůžeme vám najít nejlepší řešení.",
+                "button": "Rezervovat Bezplatnou IT Konzultaci"
+            },
+            "whyChoose": {
+                "title": "Proč si vybrat Sironic?",
+                "description": "Pokud žádný balíček nesedí dokonale, připravíme individuální nabídku. Žádné dvě firmy nejsou stejné – a žádná dvě řešení.",
+                "reasons": [
+                    {
+                        "title": "Transparentní Ceny",
+                        "description": "Žádné skryté náklady"
+                    },
+                    {
+                        "title": "Flexibilní Balíčky",
+                        "description": "Měsíční a jednorázová řešení"
+                    },
+                    {
+                        "title": "Rychlá Reakce",
+                        "description": "Pomáháme okamžitě, když je to potřeba"
+                    },
+                    {
+                        "title": "Dlouhodobá Podpora",
+                        "description": "Bereme klienty jako partnery"
+                    }
+                ],
+                "button": "Požádat o Individuální Nabídku"
+            }
+        }
+    },
+    "cookie": {
+        "title": "Nastavení cookies",
+        "description": "Používáme cookies, abychom zlepšili vaše zkušenosti a analyzovali náš provoz. Kliknutím na \"Přijmout vše\" souhlasíte s používáním cookies.",
+        "accept": "Přijmout vše",
+        "decline": "Odmítnout",
+        "manage": "Nastavení",
+        "privacy": "Zásady ochrany osobních údajů"
+    },
+    "mindenCegnekPage": {
+        "hero": {
+            "badge": "Měsíční IT Podpora",
+            "title": "Každá firma si zaslouží IT oddělení",
+            "subtitle": "Jako byste měli vlastního IT specialistu",
+            "description": "Služba, kde nemusíte najímat IT specialistu – místo toho získáte celý tým, který udržuje vše aktuální na pozadí, monitoruje, udržuje a zasahuje pouze v případě nutnosti.",
+            "cta": "Rezervovat Konzultaci",
+            "discount": "Platí do 1. února 2026: 10% sleva na první 3 měsíce pro žádosti o konzultaci!",
+            "scroll": "Posuňte dolů pro více informací"
+        },
+        "whatYouGet": {
+            "title": "Co přesně získáte?",
+            "subtitle": "Komplexní IT řešení, které pro vás pracuje každý den – neviditelně, ale efektivně.",
+            "features": {
+                "internet": {
+                    "title": "Nepřetržitý přístup k internetu a stabilní provoz",
+                    "description": "Zajišťujeme, že vaše firemní síť je vždy dostupná, stabilní a bezpečná – neviditelně, na pozadí."
+                },
+                "platform": {
+                    "title": "Unikátní platforma pro hlášení chyb",
+                    "description": "Získáte vlastní rozhraní, kde snadno nahlásíte problémy nebo požadavky – reagujeme okamžitě."
+                },
+                "monitoring": {
+                    "title": "Nepřetržitý monitoring a řešení problémů",
+                    "description": "Monitorujeme servery, sítě a systémy, abychom podchytili chyby dříve, než si jich vůbec všimnete."
+                },
+                "cost": {
+                    "title": "Nákladově efektivní, transparentní cenová struktura",
+                    "description": "Kromě fixního měsíčního poplatku platíte jen za to, co je skutečně třeba vyřešit – na základě dohodnutého ceníku."
+                },
+                "reporting": {
+                    "title": "Aktualizované systémy, měsíční report",
+                    "description": "Průběžně aktualizujeme a udržujeme systémy a na konci každého měsíce posíláme report o výkonu a stavu systému."
+                }
+            }
+        },
+        "benefits": {
+            "title": "Proč je to pro vás dobré?",
+            "subtitle": "Nákladově efektivní, transparentní a spolehlivá IT podpora – bez udržování vlastního IT oddělení.",
+            "items": [
+                "Žádná potřeba najímat vlastní IT personál – ale někdo dohlíží na vaše systémy",
+                "Fixní měsíční náklady, předvídatelné výdaje",
+                "Rychlá doba reakce v případě problémů",
+                "Proaktivní údržba a monitoring",
+                "Osobní podpora v češtině, angličtině nebo maďarštině",
+                "Měsíční reporty o stavu systému",
+                "Škálovatelné řešení – když vaše firma roste, rosteme s vámi",
+                "Žádné účty s překvapením – vše dohodnuto předem"
+            ]
+        },
+        "pricing": {
+            "title": "Jak funguje ceník?",
+            "subtitle": "Jednoduchá a transparentní struktura – fixní měsíční poplatek plus dohodnutá hodinová sazba v případě potřeby.",
+            "fixed": {
+                "title": "Fixní měsíční poplatek",
+                "price": "od 150 €/měsíc",
+                "description": "Zahrnuje monitoring, základní údržbu, reporting a podporu."
+            },
+            "hourly": {
+                "title": "Plus poplatek za práci",
+                "price": "Dohodnutá hodinová sazba",
+                "description": "Platíte pouze tehdy, když je vyžadován skutečný zásah nebo vývoj."
+            },
+            "note": "Ceny závisí na délce smlouvy a typu úkolů. Požádejte o individuální nabídku!"
+        },
+        "finalCta": {
+            "title": "Nepotřebujete vlastního IT specialistu, jen důvěryhodného partnera",
+            "description": "Dodáváme expertní znalosti, rychlou reakci a stabilní provoz – vy se můžete soustředit na své podnikání.",
+            "button": "Požádat o Nabídku"
+        }
+    },
+    "customDevelopmentPage": {
+        "breadcrumb": {
+            "home": "Domů",
+            "customDevelopment": "Vývoj Aplikací na Míru"
+        },
+        "hero": {
+            "title": "Vývoj Aplikací na Míru",
+            "subtitle": "Moderní, škálovatelná a obchodně orientovaná softwarová řešení na míru vašim potřebám",
+            "description": "Více než jen tvorba webů – vyvíjíme komplexní aplikace, které generují skutečnou hodnotu pro vaši firmu. Od webových aplikací založených na TailScript a React po nativní Windows software a mobilní aplikace Android/iOS.",
+            "cta": "Rezervovat Bezplatnou Konzultaci",
+            "scrollDown": "Posuňte dolů pro detaily"
+        },
+        "what": {
+            "title": "Co vyvíjíme?",
+            "subtitle": "Komplexní, dedikovaná softwarová řešení s pokročilými technologiemi",
+            "items": [
+                {
+                    "title": "Webové Aplikace založené na TailScript",
+                    "description": "Rychlé, moderní a efektivní webové systémy s technologií TailScript. Škálovatelná řešení pro složité obchodní procesy, která fungují bez problémů v každém prohlížeči."
+                },
+                {
+                    "title": "React Business Aplikace",
+                    "description": "Webové aplikace podnikové třídy s React a Next.js. Intuitivní uživatelské rozhraní, rychlé načítání, struktura optimalizovaná pro SEO – vše, co moderní obchodní aplikace potřebují."
+                },
+                {
+                    "title": "Desktopový Software Windows",
+                    "description": "Vývoj nativních Windows aplikací s .NET a moderními technologiemi C#. Výkonná, rychlá a spolehlivá desktopová řešení, která se bezproblémově integrují v korporátních prostředích."
+                },
+                {
+                    "title": "Vývoj Mobilních Aplikací – Android + iOS",
+                    "description": "Nativní a multiplatformní mobilní aplikace s React Native a Flutter. Jeden kód, dvě platformy – rychlý vývoj, vynikající uživatelská zkušenost na obou systémech."
+                }
+            ]
+        },
+        "whyChoose": {
+            "title": "Proč zvolit SIRONIC pro vývoj na míru?",
+            "subtitle": "Nekódujeme jen – jsme partneři při dosahování vašich obchodních cílů",
+            "reasons": [
+                {
+                    "title": "Skutečné Obchodní Porozumění",
+                    "description": "Nejsme jen vývojáři – rozumíme obchodním procesům. Každá realizace je přizpůsobena vašim potřebám, aby vytvářela reálnou hodnotu."
+                },
+                {
+                    "title": "Moderní Technologie",
+                    "description": "React, Next.js, TailScript, .NET, React Native – pracujeme s nejpokročilejšími nástroji, které jsou rychlé, bezpečné a připravené na budoucnost."
+                },
+                {
+                    "title": "Dlouhodobé Partnerství",
+                    "description": "Nekončíme nasazením. Poskytujeme průběžnou podporu, údržbu a další vývoj – software vždy drží krok s potřebami vaší firmy."
+                },
+                {
+                    "title": "Transparentní Komunikace",
+                    "description": "Přímá komunikace v maďarštině/angličtině/češtině. Žádné jazykové bariéry, žádná nedorozumění – vždy víte, v jaké fázi je projekt."
+                },
+                {
+                    "title": "Bezpečnost a Spolehlivost",
+                    "description": "Všechny naše aplikace jsou postaveny s bezpečným zpracováním dat, strukturou v souladu s GDPR a stabilním provozem."
+                },
+                {
+                    "title": "Škálovatelnost",
+                    "description": "Navrhujeme naše systémy tak, aby rostly s vaší firmou – žádná nutnost přepisování, když expandujete."
+                }
+            ]
+        },
+        "technologies": {
+            "title": "Jaké technologie používáme?",
+            "subtitle": "Nejmodernější a nejspolehlivější nástroje na trhu",
+            "list": [
+                "React & Next.js – moderní, SEO-přívětivé webové aplikace",
+                "TailScript – rychlé a škálovatelné webové systémy",
+                "TypeScript – typově bezpečný, bezchybný kód",
+                "Node.js & Express – robustní backendová řešení",
+                ".NET & C# – nativní Windows software",
+                "React Native & Flutter – multiplatformní mobilní aplikace",
+                "Tailwind CSS – moderní, responzivní design",
+                "PostgreSQL, MySQL – spolehlivá správa databází",
+                "Docker & Cloud – škálovatelná a bezpečná infrastruktura"
+            ]
+        },
+        "process": {
+            "title": "Jak pracujeme?",
+            "subtitle": "Transparentní, strukturovaný proces vývoje – krok za krokem",
+            "steps": [
+                {
+                    "number": "1",
+                    "title": "Analýza Požadavků a Konzultace",
+                    "description": "Poznáme vaše obchodní cíle, očekávání a současné systémy. Vyjasníme přesně, čeho chcete softwarem dosáhnout."
+                },
+                {
+                    "number": "2",
+                    "title": "UX/UI Design a Návrh Struktury",
+                    "description": "Navrhujeme uživatelskou zkušenost a rozhraní. Wireframy, designy a plány interakcí – abychom přesně věděli, co budujeme."
+                },
+                {
+                    "number": "3",
+                    "title": "Vývoj a Průběžná Koordinace",
+                    "description": "Skutečné kódování. Komunikujeme neustále, ukazujeme pokrok a reagujeme na vaše potřeby – takže při dodání nejsou žádná překvapení."
+                },
+                {
+                    "number": "4",
+                    "title": "Testování a Zajištění Kvality",
+                    "description": "Důkladné testy na každém zařízení a prohlížeči. Testy výkonu, bezpečnosti a funkčnosti – abychom měli jistotu, že vše funguje bezchybně."
+                },
+                {
+                    "number": "5",
+                    "title": "Nasazení a Školení",
+                    "description": "Nasazení softwaru a školení uživatelů. Získáte veškerou dokumentaci a podporu pro hladký provoz."
+                },
+                {
+                    "number": "6",
+                    "title": "Údržba a Další Vývoj",
+                    "description": "Průběžná podpora, opravy chyb a další vývoj. Software zůstává vždy aktuální a drží krok s vašimi potřebami."
+                }
+            ]
+        },
+        "useCases": {
+            "title": "K čemu je dobrá aplikace na míru?",
+            "subtitle": "Skutečné obchodní problémy, které řešíme softwarem na míru",
+            "examples": [
+                "CRM a systémy řízení zákazníků – mějte přehled",
+                "Skladový a logistický software – automatizovaná správa zásob",
+                "Interní firemní portály – všechna data na jednom místě",
+                "Vývoj e-commerce a e-shopů – online prodejní kanály",
+                "Nástroje pro řízení projektů – týmová práce a sledování úkolů",
+                "Automatizované reporty a administrativa – šetřete čas",
+                "Integrace se stávajícími systémy – ERP, fakturace, CRM propojení",
+                "Mobilní aplikace – v rukou zákazníků a zaměstnanců"
+            ]
+        },
+        "pricing": {
+            "title": "Kolik stojí aplikace na míru?",
+            "subtitle": "Každý projekt je unikátní – ceník vždy vychází z požadavků",
+            "description": "Cena vývoje aplikace na míru závisí na složitosti, funkcionalitě a časovém rámci projektu. Malé aplikace začínají od 2 000 €, větší podnikové systémy mohou stát desítky tisíc – ale vždy připravujeme individuální nabídku.",
+            "process": "Během bezplatné konzultace posoudíme vaše potřeby, probereme možnosti a předložíme jasnou, fixní nabídku na celý projekt.",
+            "cta": "Požádat o Bezplatnou Nabídku"
+        },
+        "faq": {
+            "title": "Často Kladené Otázky",
+            "items": [
+                {
+                    "question": "Jak dlouho trvá vývoj na míru?",
+                    "answer": "Záleží na rozsahu projektu – jednodušší webová aplikace trvá 4-8 týdnů, zatímco komplexní podnikový systém může trvat 3-6 měsíců. Vždy stanovíme termíny v nabídce."
+                },
+                {
+                    "question": "Můžete se integrovat se stávajícími systémy?",
+                    "answer": "Ano! Pravidelně integrujeme s ERP, CRM, fakturačními systémy a dalšími externími API. To je jedna z největších výhod vývoje na míru."
+                },
+                {
+                    "question": "Kdo vlastní zdrojový kód?",
+                    "answer": "Po dokončení projektu se zdrojový kód stává vaším výhradním vlastnictvím – žádné skryté licenční poplatky nebo závislosti."
+                },
+                {
+                    "question": "Co údržba a další vývoj?",
+                    "answer": "Nabízíme podporu po nasazení: opravy chyb, aktualizace, další vývoj – s volitelnými měsíčními nebo jednorázovými řešeními."
+                },
+                {
+                    "question": "Jakou záruku na aplikaci dostaneme?",
+                    "answer": "Po nasazení platí 6měsíční záruka na chyby – opravujeme veškeré funkční problémy zdarma v tomto období."
+                }
+            ]
+        },
+        "finalCta": {
+            "title": "Připraveni na softwarové řešení na míru?",
+            "description": "Promluvme si o vašich potřebách a vytvořme společně aplikaci, která skutečně zvýší efektivitu vaší firmy.",
+            "button": "Rezervovat Bezplatnou Konzultaci"
+        }
+    },
+    "itTraining": {
+        "badge": "IT Školení a Vzdělávání",
+        "title": "IT Školení a Rozvoj Znalostí",
+        "subtitle": "Rozvíjejte digitální kompetence svého týmu",
+        "description": "Nabízíme personalizovaná IT školení, workshopy bezpečnostního povědomí a rozvoj znalostí na systémové úrovni, abychom zajistili, že vaši zaměstnanci používají moderní nástroje a software sebevědomě. Bezpečný provoz začíná informacemi.",
+        "cards": {
+            "personalized": {
+                "title": "Personalizovaná IT školení",
+                "description": "Vzdělávací programy na míru pro zlepšení digitální gramotnosti vašeho týmu. Praktické znalosti přímo aplikovatelné v každodenní práci."
+            },
+            "security": {
+                "title": "Školení bezpečnostního povědomí",
+                "description": "Nezbytné workshopy o kyberbezpečnosti a ochraně dat. Naučte svůj tým, jak účinně chránit firemní data a systémy."
+            },
+            "software": {
+                "title": "Školení uživatelů softwaru a zařízení",
+                "description": "Efektivní využívání Microsoft 365, Google Workspace a kancelářských nástrojů. Zvyšte produktivitu zvládnutím správných nástrojů."
+            },
+            "corporate": {
+                "title": "Programy rozvoje firemních znalostí",
+                "description": "Dlouhodobý rozvoj digitálních kompetencí. Průběžné vzdělávací programy, které drží krok s technologickým pokrokem."
+            }
+        },
+        "languageNote": "Školení jsou v současné době dostupná pouze v maďarštině a angličtině, a to jak online, tak prezenčně.",
+        "cta": {
+            "main": "Poptat Nabídku Školení",
+            "learnMore": "Číst Více"
+        }
+    },
+    "itTrainingPage": {
+        "meta": {
+            "title": "IT Školení a Firemní Vzdělávání | SIRONIC",
+            "description": "Praktická IT školení pro firmy: bezpečnostní povědomí, používání softwaru a rozvoj digitálních kompetencí. Zvyšte kvalifikaci svého týmu!",
+            "keywords": [
+                "IT školení",
+                "firemní vzdělávání",
+                "bezpečnostní povědomí",
+                "digitální kompetence",
+                "kurz Excel",
+                "IT workshop"
+            ],
+            "ogTitle": "IT Školení a Firemní Vzdělávání - SIRONIC",
+            "ogDescription": "Praktická IT školení pro firmy. Zvyšte digitální dovednosti svého týmu s námi!"
+        },
+        "breadcrumb": {
+            "home": "Domů",
+            "training": "IT Školení"
+        },
+        "hero": {
+            "title": "IT Školení a Rozvoj Znalostí",
+            "subtitle": "Rozvíjejte digitální kompetence svého týmu pomocí profesionálních školení",
+            "description": "SIRONIC nejen spravuje IT systémy – rozvíjíme také digitální znalosti vašich zaměstnanců. Díky našim personalizovaným školením bude váš tým používat moderní nástroje sebevědomě a bude si vědom bezpečnostních rizik.",
+            "cta": "Rezervovat Bezplatnou Konzultaci",
+            "scrollDown": "Posuňte dolů pro detaily"
+        },
+        "intro": {
+            "title": "Proč jsou IT školení pro firmy důležitá?",
+            "content": [
+                "Ani ta nejlepší IT infrastruktura nestačí, pokud ji zaměstnanci neumí efektivně používat. Špatná znalost nástrojů, nedostatečné bezpečnostní povědomí a zastaralé pracovní postupy snižují produktivitu a zvyšují riziko.",
+                "S IT školícími programy SIRONIC získá váš tým aktuální znalosti, pracuje jistěji a vědomě chrání firemní data. Všechna naše školení jsou praktická, personalizovaná a přímo aplikovatelná v každodenní práci."
+            ]
+        },
+        "services": {
+            "title": "Jaká Školení Nabízíme?",
+            "subtitle": "Praktická, obchodně orientovaná školení na všech úrovních",
+            "items": [
+                {
+                    "title": "Personalizovaná IT školení",
+                    "description": "Osnovy a tempo přizpůsobené potřebám vašeho týmu. Od začátečníků po pokročilé uživatele – každý kurz je ušit na míru skutečným požadavkům vaší firmy. Učení prostřednictvím praktických příkladů a reálných situací.",
+                    "topics": [
+                        "Základy Windows a macOS",
+                        "Správa souborů a struktura složek",
+                        "Zálohování a obnova dat",
+                        "Používání periferií a tiskáren",
+                        "Rychlé klávesové zkratky a tipy pro produktivitu"
+                    ]
+                },
+                {
+                    "title": "Školení bezpečnostního povědomí",
+                    "description": "Většina úniků dat se stává lidskou chybou – e-mailové podvody, slabá hesla, phishing. Naše školení pomáhá zaměstnancům rozpoznat rizika a vyhnout se jim.",
+                    "topics": [
+                        "Rozpoznávání phishingových e-mailů a podvodů",
+                        "Bezpečná správa hesel a používání 2FA",
+                        "Zásady ochrany osobních údajů (GDPR) v praxi",
+                        "Bezpečné sdílení souborů a e-mail",
+                        "Bezpečnost zařízení: notebooky, telefony, práce na dálku"
+                    ]
+                },
+                {
+                    "title": "Školení uživatelů softwaru a zařízení",
+                    "description": "Moderní kancelářská práce závisí na softwarových nástrojích – ale často využíváme jen zlomek jejich potenciálu. Učíme nástroje a metody pro efektivní práci.",
+                    "topics": [
+                        "Microsoft 365: Word, Excel, PowerPoint, Outlook, Teams",
+                        "Google Workspace: Docs, Sheets, Drive, Meet",
+                        "Nástroje pro spolupráci: Slack, Notion, Trello, Asana",
+                        "Používání nástrojů pro videokonference",
+                        "Sdílení souborů v cloudu a synchronizace"
+                    ]
+                },
+                {
+                    "title": "Programy rozvoje firemních znalostí",
+                    "description": "Dlouhodobé, průběžné školící programy zajišťující, že tým je vždy v obraze. Budování firemní znalostní báze a pravidelný rozvoj.",
+                    "topics": [
+                        "Vytváření vlastních vzdělávacích materiálů a průvodců",
+                        "Průběžná online podpora a Q&A sezení",
+                        "Pravidelné obnovování technických znalostí",
+                        "IT onboarding školení pro nové zaměstnance",
+                        "Školení na konkrétní firemní systémy"
+                    ]
+                }
+            ]
+        },
+        "benefits": {
+            "title": "Proč Investovat do Firemních IT Školení?",
+            "subtitle": "Konkrétní výhody, které přinášejí měřitelné výsledky",
+            "list": [
+                "Vyšší produktivita – zaměstnanci pracují rychleji a efektivněji",
+                "Méně IT chyb a tiketů na helpdesk – nižší zátěž technické podpory",
+                "Bezpečnější provoz – uvědomělí zaměstnanci chrání data",
+                "Lepší využití nástrojů – plný potenciál softwaru a systémů",
+                "Sebevědomější tým – žádný strach z nové technologie",
+                "Rychlejší adopce – plynulejší zavádění nových nástrojů",
+                "Konkurenceschopnost – digitálně kompetentní tým znamená modernější firmu"
+            ]
+        },
+        "targetGroups": {
+            "title": "Komu Doporučujeme?",
+            "subtitle": "Pro každou firmu pracující s digitálními nástroji",
+            "groups": [
+                {
+                    "title": "Kancelářští Pracovníci",
+                    "description": "Ti, kteří denně používají počítače, e-maily a kancelářský software."
+                },
+                {
+                    "title": "Manažeři a Vedení",
+                    "description": "Ti, kteří potřebují znalosti o digitálních nástrojích pro rozhodování, reporting a komunikaci."
+                },
+                {
+                    "title": "Kolegové mimo IT",
+                    "description": "Ti, pro které je technologie pouze nástrojem, ale překážkou bez patřičných znalostí."
+                },
+                {
+                    "title": "Pracovníci na dálku",
+                    "description": "Ti, kteří potřebují podporu pro bezpečnou a efektivní práci z domova."
+                },
+                {
+                    "title": "Noví Zaměstnanci",
+                    "description": "Ti, kteří musí poznat firemní IT systémy v rámci onboardingu."
+                }
+            ]
+        },
+        "delivery": {
+            "title": "Jak Školení Probíhá?",
+            "subtitle": "Flexibilní formy školení – Vyberte si to, co vám nejlépe vyhovuje",
+            "methods": [
+                {
+                    "title": "Prezenční školení",
+                    "description": "Přijedeme do vaší kanceláře a provedeme školení na místě. Osobně, interaktivně, s přímými praktickými příklady na vašich vlastních systémech."
+                },
+                {
+                    "title": "Online Vzdělávání na Dálku",
+                    "description": "Živá školení přes videokonferenční platformy. Flexibilní plánování, žádné cestování, ale stejně efektivní jako prezenční forma."
+                },
+                {
+                    "title": "Hybridní Model",
+                    "description": "Kombinace obou: start na místě, poté pokračování online. To nejlepší z obou světů."
+                }
+            ],
+            "languageNote": "Školení jsou v současné době dostupná pouze v maďarštině a angličtině, a to jak online, tak prezenčně."
+        },
+        "topics": {
+            "title": "Konkrétní Témata, Která Učíme",
+            "subtitle": "Praktické znalosti, které můžete okamžitě uplatnit",
+            "list": [
+                "Používání Microsoft 365 (Word, Excel, PowerPoint, Outlook, OneDrive, Teams)",
+                "Nástroje Google Workspace (Gmail, Drive, Docs, Sheets, Meet)",
+                "Bezpečná správa hesel a dvoufaktorové ověřování",
+                "Rozpoznávání phishingových e-mailů a internetových podvodů",
+                "Bezpečné sdílení souborů a cloudové úložiště",
+                "Profesionální používání nástrojů pro videokonference",
+                "Efektivní správa e-mailů a organizace schránky",
+                "Řízení projektů a úkolů (Trello, Asana, Notion)",
+                "Základní funkce a tipy Windows a macOS",
+                "Kancelářský hardware: tiskárny, skenery, multimédia"
+            ]
+        },
+        "methodology": {
+            "title": "Jak Pracujeme?",
+            "subtitle": "Strukturovaný vzdělávací proces – krok za krokem",
+            "steps": [
+                {
+                    "number": "1",
+                    "title": "Analýza Potřeb",
+                    "description": "Poznáme tým, současné úrovně znalostí a obchodní procesy. Vyjasníme, které oblasti potřebují rozvoj."
+                },
+                {
+                    "number": "2",
+                    "title": "Vytvoření Plánu na Míru",
+                    "description": "Personalizovaný tréninkový plán a materiály odpovídající nástrojům a pracovním postupům vaší firmy."
+                },
+                {
+                    "number": "3",
+                    "title": "Provedení Školení",
+                    "description": "Interaktivní, praktické školení naživo – otázky, odpovědi, příklady ze života ve vašem vlastním prostředí."
+                },
+                {
+                    "number": "4",
+                    "title": "Následná Péče a Podpora",
+                    "description": "Jsme k dispozici i po školení – otázky, opakování, další pomoc. Zajišťujeme, že se znalosti skutečně integrují do každodenní rutiny."
+                }
+            ]
+        },
+        "faq": {
+            "title": "Často Kladené Otázky",
+            "items": [
+                {
+                    "question": "Jak dlouho trvá školení?",
+                    "answer": "Délka závisí na potřebách. Jednorázový workshop trvá 2-4 hodiny, zatímco komplexní firemní program se může rozložit na několik týdnů s více sezeními. Vždy dohodneme časový rámec."
+                },
+                {
+                    "question": "Kolik lidí se může účastnit najednou?",
+                    "answer": "Ideální počet je 5-15 lidí, aby každý dostal dostatek pozornosti. Pro větší skupiny můžeme uspořádat více sezení nebo paralelní skupiny."
+                },
+                {
+                    "question": "Potřebují účastníci předchozí IT znalosti?",
+                    "answer": "Ne! Přizpůsobujeme školení aktuální úrovni znalostí účastníků – od začátečníků po pokročilé. Předem posoudíme, kde se každý nachází."
+                },
+                {
+                    "question": "Dostanou účastníci materiály nebo poznámky?",
+                    "answer": "Ano! Po každém školení obdrží materiál, prezentace a praktické průvodce v digitální podobě – aby se k nim mohli kdykoli vrátit."
+                },
+                {
+                    "question": "V jakém jazyce probíhají školení?",
+                    "answer": "V současné době probíhají školení pouze v maďarštině a angličtině, a to jak online, tak prezenčně."
+                },
+                {
+                    "question": "Kolik stojí firemní IT školení?",
+                    "answer": "Ceny vycházejí z individuální nabídky – v závislosti na počtu účastníků, tématech a délce trvání. Požádejte o nabídku a probereme detaily!"
+                }
+            ]
+        },
+        "pricing": {
+            "title": "Kolik Stojí IT Školení?",
+            "subtitle": "Vytváříme nabídky na míru – každá firma má jiné potřeby",
+            "description": "Ceny školení závisí na počtu účastníků, délce trvání, tématech a lokalitě (online/offline). Průměrně 4hodinový workshop začíná na cca 200 € pro malé skupiny, zatímco delší, průběžný rozvojový program je dostupný v modelu měsíčního předplatného.",
+            "process": "Rezervujte si bezplatnou konzultaci, posoudíme potřeby a vypracujeme podrobnou, transparentní nabídku.",
+            "cta": "Požádat o Nabídku Nyní"
+        },
+        "finalCta": {
+            "title": "Nastartujte Digitální Rozvoj Svého Týmu!",
+            "description": "Rezervujte si bezplatnou konzultaci a společně zjistěme, jaké IT školení může zlepšit efektivitu a bezpečnost vaší firmy.",
+            "button": "Objednat IT Školení"
+        }
+    },
+    "networkOptimization": {
+        "badge": "Optimalizace Sítě",
+        "title": "Zajistěte Stabilní a Rychlý Internet & Wi-Fi ve Vaší Firmě",
+        "subtitle": "Pomalé Wi-Fi, nestabilní připojení nebo nespolehlivá síť zpomaluje celou vaši firmu. Navrhujeme, optimalizujeme a udržujeme moderní síťové infrastruktury podnikové třídy, aby každé zařízení fungovalo rychle, bezpečně a spolehlivě.",
+        "features": {
+            "wifi": {
+                "title": "Stabilní firemní Wi-Fi s dobrým pokrytím",
+                "description": "Moderní přístupové body a návrh sítě zaručující silný Wi-Fi signál v každé místnosti – bez výpadků."
+            },
+            "speed": {
+                "title": "Rychlá a bezpečná síť pro všechna zařízení",
+                "description": "Optimalizovaná šířka pásma, oddělení VLAN a ladění výkonu – každé zařízení běží plynule."
+            },
+            "reliability": {
+                "title": "Spolehlivé připojení — bez prostojů",
+                "description": "Spolehlivé routery, síťový hardware podnikové třídy a nepřetržitý monitoring – díky tomu je vaše síť vždy dostupná."
+            }
+        },
+        "cta": "Požádat o Audit Sítě"
+    },
+    "networkOptimizationPage": {
+        "breadcrumb": {
+            "home": "Domů",
+            "networkOptimization": "Optimalizace Sítě"
+        },
+        "hero": {
+            "title": "Návrh, Optimalizace a Údržba Firemní Sítě a Wi-Fi",
+            "subtitle": "Udělejte síť své firmy stabilní, rychlou a bezpečnou",
+            "description": "Pokud je vaše Wi-Fi pomalé, připojení padá nebo je síť nespolehlivá, brzdí to produktivitu celé vaší firmy. SIRONIC navrhuje, optimalizuje a udržuje moderní sítě podnikové třídy – aby každé zařízení fungovalo rychle, bezpečně a spolehlivě.",
+            "cta": "Rezervovat Bezplatný Audit Sítě",
+            "scrollDown": "Posuňte dolů pro detaily"
+        },
+        "problems": {
+            "title": "Časté Síťové Problémy ve Firmách",
+            "subtitle": "Zní to povědomě?",
+            "items": [
+                "Pomalé nebo nestabilní Wi-Fi v práci",
+                "Slabý signál a mrtvé zóny v kanceláři",
+                "Zastaralé routery a přístupové body",
+                "Chybějící oddělení sítě pro hosty",
+                "Příliš mnoho zařízení v jedné síti – vše se zpomaluje",
+                "Bezpečnostní mezery a nechráněná síť",
+                "Žádný plán monitoringu nebo řešení problémů"
+            ]
+        },
+        "services": {
+            "title": "Co Nabízíme",
+            "subtitle": "Kompletní síťová řešení pro MSP",
+            "items": [
+                {
+                    "title": "Úplný audit sítě a diagnostika",
+                    "description": "Posoudíme vaši současnou síťovou infrastrukturu, identifikujeme problémy a navrhneme optimalizace."
+                },
+                {
+                    "title": "Mapování Wi-Fi signálu a analýza pokrytí",
+                    "description": "Navrhujeme Wi-Fi síť, abychom zajistili silný signál v každé místnosti – žádné mrtvé zóny."
+                },
+                {
+                    "title": "Návrh nové firemní sítě",
+                    "description": "Budujeme sítě podnikové třídy od nuly, které jsou škálovatelné, rychlé a bezpečné."
+                },
+                {
+                    "title": "Instalace firemního hardwaru (MikroTik, Ubiquiti, UniFi)",
+                    "description": "Profesionální výběr a instalace síťového hardwaru – routerů, switchů, přístupových bodů."
+                },
+                {
+                    "title": "Kabeláž a modernizace infrastruktury",
+                    "description": "Instalace strukturované kabeláže, patch panely, serverové skříně – organizovaná a do budoucna připravená infrastruktura."
+                },
+                {
+                    "title": "Bezpečnost, VLAN, konfigurace firewallu",
+                    "description": "Segmentace sítě, síť pro hosty, konfigurace firewallu – chrání vaše data."
+                },
+                {
+                    "title": "Monitoring sítě a správa",
+                    "description": "Nepřetržitý monitoring a proaktivní údržba – známe a řešíme problémy dříve, než se stanou potížemi."
+                }
+            ]
+        },
+        "technologies": {
+            "title": "Jaký Hardware Používáme?",
+            "subtitle": "Spolehlivá síťová řešení podnikové třídy",
+            "list": [
+                "MikroTik – výkonné, nákladově efektivní routery a switche",
+                "Ubiquiti UniFi – moderní, spravovatelné Wi-Fi systémy",
+                "TP-Link Omada – síťový hardware podnikové třídy",
+                "Cisco a HPE – infrastruktura na korporátní úrovni",
+                "Konfigurace VLAN a firewall",
+                "VPN a vzdálený přístup",
+                "Monitoring sítě a analýza"
+            ]
+        },
+        "benefits": {
+            "title": "Proč Investovat do Profesionální Sítě?",
+            "subtitle": "Konkrétní výhody, které přinášejí měřitelné výsledky",
+            "list": [
+                "Rychlejší práce – žádný pomalý internet či výpadky",
+                "Bezpečnější provoz – chráněná síť, oddělené Wi-Fi pro hosty",
+                "Méně prostojů – proaktivní monitoring a rychlé řešení problémů",
+                "Škálovatelná infrastruktura – síť roste s vaší firmou",
+                "Profesionální vzhled – stabilní připojení i pro klienty",
+                "Snížené náklady – méně ztraceného času a méně oprav"
+            ]
+        },
+        "process": {
+            "title": "Jak Pracujeme?",
+            "subtitle": "Transparentní proces – krok za krokem",
+            "steps": [
+                {
+                    "number": "1",
+                    "title": "Audit sítě a konzultace",
+                    "description": "Poznáme kancelář, současnou síť a potřeby. Identifikujeme problémy a příležitosti."
+                },
+                {
+                    "number": "2",
+                    "title": "Návrh sítě a cenová nabídka",
+                    "description": "Vytvoříme kompletní plán sítě, analýzu pokrytí Wi-Fi a seznam hardwaru. Fixní cena."
+                },
+                {
+                    "number": "3",
+                    "title": "Instalace a konfigurace",
+                    "description": "Implementujeme síť, instalujeme hardware, konfigurujeme bezpečnostní prvky. Vše otestováno a zdokumentováno."
+                },
+                {
+                    "number": "4",
+                    "title": "Testování a předání",
+                    "description": "Důkladné testy na každém zařízení, měření rychlosti, ověření pokrytí. Školení a předání dokumentace."
+                },
+                {
+                    "number": "5",
+                    "title": "Monitoring a údržba",
+                    "description": "Nepřetržitý monitoring, měsíční reporty, proaktivní údržba. Vždy k dispozici, když potřebujete pomoc."
+                }
+            ]
+        },
+        "useCases": {
+            "title": "Komu Doporučujeme?",
+            "subtitle": "Každá firma, která potřebuje stabilní síť",
+            "examples": [
+                "Kanceláře a malé firmy – 5-50 zaměstnanců",
+                "Gastronomie – rychlé a stabilní Wi-Fi pro hosty",
+                "Kliniky a lékařské ordinace – bezpečná zdravotnická síť",
+                "Sklady a logistická centra – robustní průmyslová síť",
+                "Vzdělávací instituce – vysokokapacitní Wi-Fi",
+                "Obchodní místa – rychlý pokladní systém a IP kamery"
+            ]
+        },
+        "pricing": {
+            "title": "Kolik Stojí Instalace Firemní Sítě?",
+            "subtitle": "Každý projekt je unikátní – cenu stanovujeme na základě potřeb",
+            "description": "Základní kancelářský Wi-Fi systém začíná na cca 400 € (1-2 přístupové body, router, konfigurace). Pro větší sítě – více zařízení, strukturovaná kabeláž, monitoring – očekávejte od 1 200 €+. Požádejte o bezplatný audit a přesnou nabídku!",
+            "process": "Bezplatný audit na místě zanalyzuje síťové potřeby, uděláme plán a dáme transparentní, fixní cenovou nabídku.",
+            "cta": "Požádat o Bezplatnou Nabídku"
+        },
+        "faq": {
+            "title": "Často Kladené Otázky",
+            "items": [
+                {
+                    "question": "Jak dlouho trvá instalace sítě?",
+                    "answer": "Jednoduchý kancelářský Wi-Fi systém zabere 1-2 dny, zatímco složitá firemní síť na více patrech může trvat 1-2 týdny."
+                },
+                {
+                    "question": "Jaké značky doporučujete?",
+                    "answer": "Pracujeme hlavně s hardwarem MikroTik, Ubiquiti UniFi a TP-Link Omada – spolehlivý, nákladově efektivní a vhodný pro firemní použití."
+                },
+                {
+                    "question": "Kdo se stává vlastníkem sítě?",
+                    "answer": "Vy! Veškerý hardware a konfigurace se stávají majetkem vaší firmy, žádné skryté závislosti či licenční poplatky."
+                },
+                {
+                    "question": "Co údržba?",
+                    "answer": "Nabízíme také balíčky údržby – nepřetržitý monitoring, pravidelné aktualizace a rychlé řešení problémů v měsíčním paušálu."
+                },
+                {
+                    "question": "Můžete optimalizovat stávající sítě?",
+                    "answer": "Ano! Nemusíte vše měnit – často dobrá konfigurace, extra přístupový bod nebo upgrade routeru stačí."
+                }
+            ]
+        },
+        "finalCta": {
+            "title": "Připraveni na Stabilní a Rychlou Síť?",
+            "description": "Požádejte o bezplatný audit sítě a vybudujme infrastrukturu, která podporuje růst vaší firmy.",
+            "button": "Rezervovat Bezplatný Audit Sítě"
+        }
+    },
+    "repairService": {
+        "badge": "Servis a Oprava",
+        "title": "IT Servis a Opravy – Na Místě nebo Poštou",
+        "subtitle": "Rychlé, spolehlivé IT opravy – notebooky, PC, servery, NAS zařízení",
+        "description": "Profesionální oprava počítačů, notebooků, serverů a síťových zařízení. Servis na místě v Székesfehérváru a okolí nebo poštovní služba. Každou opravu začínáme diagnostikou a předkládáme transparentní cenové nabídky před provedením jakékoli práce.",
+        "benefits": [
+            "Rychlá diagnostika a řešení problémů",
+            "Servis na místě nebo poštou – jak vám to vyhovuje",
+            "Transparentní ocenění opravy",
+            "Profesionální nástroje a experti",
+            "Zálohování dat a odstranění virů",
+            "Záruka na všechny opravy"
+        ],
+        "cards": {
+            "onsite": {
+                "title": "Servis na místě",
+                "description": "Přijedeme k vám v Székesfehérváru a blízkém okolí provést opravy nebo diagnostiku na místě."
+            },
+            "postal": {
+                "title": "Poštovní služba",
+                "description": "Pošlete nám své zařízení poštou, opravíme ho a pošleme zpět – jednoduše a rychle."
+            }
+        },
+        "cta": {
+            "main": "Poptat Cenu Opravy",
+            "learnMore": "Číst Více"
+        }
+    },
+    "repairServicePage": {
+        "breadcrumb": {
+            "repairService": "Servis a Oprava"
+        },
+        "hero": {
+            "title": "IT Servis a Opravy – Notebooky, PC, Servery, NAS Zařízení",
+            "subtitle": "Rychlé, spolehlivé IT opravy na místě nebo poštou",
+            "description": "Profesionální oprava počítačů, notebooků, serverů a síťových úložných zařízení. Servis na místě v Székesfehérváru a okolí nebo poštovní varianta. Transparentní ceny, rychlá realizace, expertní služba.",
+            "cta": "Nahlásit Problém Nyní",
+            "scrollDown": "Posuňte dolů pro detaily"
+        },
+        "services": {
+            "title": "Co Opravujeme?",
+            "subtitle": "Kompletní diagnostika a oprava IT zařízení",
+            "items": [
+                {
+                    "title": "Oprava a Údržba Notebooků",
+                    "description": "Výměna displeje, oprava klávesnice, výměna baterie, čištění chlazení, upgrade komponent."
+                },
+                {
+                    "title": "Diagnostika a Oprava PC",
+                    "description": "Řešení hardwarových problémů, výměna komponent, optimalizace výkonu, čištění systému a údržba."
+                },
+                {
+                    "title": "Oprava Serverů a Firemního Hardwaru",
+                    "description": "Diagnostika serverů, obnova RAID konfigurace, oprava hardwaru a údržba."
+                },
+                {
+                    "title": "Servis NAS a Úložných Zařízení",
+                    "description": "Diagnostika síťových úložišť, zálohování dat, obnova RAID, aktualizace firmwaru."
+                },
+                {
+                    "title": "Zálohování a Obnova Dat",
+                    "description": "Obnova kritických dat z poškozených zařízení, obnova SSD/HDD, vytváření záloh."
+                },
+                {
+                    "title": "Odstranění Virů a Optimalizace Systému",
+                    "description": "Odstranění virů a malwaru, čištění systému, zlepšení výkonu, optimalizace rychlosti."
+                }
+            ]
+        },
+        "process": {
+            "title": "Jak Funguje Oprava?",
+            "subtitle": "Jednoduchý a transparentní proces",
+            "steps": [
+                {
+                    "number": "1",
+                    "title": "Nahlášení Problému",
+                    "description": "Kontaktujte nás telefonicky, e-mailem nebo přes formulář. Probereme problém a metodu opravy."
+                },
+                {
+                    "number": "2",
+                    "title": "Diagnostika a Cenová Nabídka",
+                    "description": "Na místě nebo po obdržení zásilky zařízení vyšetříme, identifikujeme závadu a předložíme transparentní nabídku."
+                },
+                {
+                    "number": "3",
+                    "title": "Oprava Po Schválení",
+                    "description": "Po vašem schválení nabídky přistoupíme k opravě s použitím profesionálních nástrojů a dílů."
+                },
+                {
+                    "number": "4",
+                    "title": "Testování a Dodání",
+                    "description": "Opravené zařízení důkladně otestujeme, poté ho předáme nebo pošleme zpět. Záruka na všechny opravy."
+                }
+            ]
+        },
+        "onsite": {
+            "title": "Servis Na Místě – Přijedeme k Vám",
+            "description": "V Székesfehérváru a okolí provádíme opravy nebo diagnostiku na místě. Ideální pro kanceláře, firmy a ty, kteří nemohou nebo nechtějí zařízení převážet.",
+            "benefits": [
+                "Rychlá služba v Székesfehérváru a okruhu 30 km",
+                "Diagnostika a oprava na místě (pokud je to možné)",
+                "Minimální prostoj – není nutné zařízení odvážet",
+                "Profesionální nástroje a díly na místě",
+                "Může být provedeno v korporátním prostředí"
+            ]
+        },
+        "postal": {
+            "title": "Poštovní Služba – Z Pohodlí Domova",
+            "description": "Pokud jste dále nebo prostě dáváte přednost pohodlí, pošlete nám zařízení. Opravíme ho a pošleme zpět. Poskytujeme pokyny pro bezpečné zabalení.",
+            "benefits": [
+                "Celostátní pokrytí – pošlete odkudkoli",
+                "Detailní průvodce balením pro bezpečnost zařízení",
+                "Rychlá realizace – typicky 3-5 pracovních dnů",
+                "Bezpečné vrácení kurýrem",
+                "Průběžné aktualizace o stavu opravy"
+            ],
+            "howTo": "Kroky poštovního zaslání: 1) Kontaktujte nás a popište problém. 2) Zařízení bezpečně zabalte (poskytneme návod). 3) Pošlete na uvedenou adresu. 4) Diagnostikujeme, pošleme nabídku a po opravě zašleme zpět."
+        },
+        "pricing": {
+            "title": "Kolik Stojí Oprava?",
+            "subtitle": "Transparentní ceny – nejdřív diagnostika, pak nabídka",
+            "description": "Každou opravu začínáme bezplatnou diagnostikou (na místě nebo poštou). Cenu sdělíme až po vyšetření, takže přesně víte, co čekat. Práce začíná až po vašem schválení.",
+            "examples": [
+                "Výměna displeje notebooku: od 65 € (závisí na dílu)",
+                "Odvirování PC a optimalizace: od 20 €",
+                "Obnova dat z poškozeného zařízení: od 40 €",
+                "Diagnostika serveru a oprava: individuální nabídka"
+            ],
+            "note": "Ceny jsou orientační, přesné náklady stanovujeme vždy po vyšetření.",
+            "cta": "Požádat o Bezplatnou Diagnostiku"
+        },
+        "faq": {
+            "title": "Často Kladené Otázky",
+            "items": [
+                {
+                    "question": "Jak dlouho trvá oprava?",
+                    "answer": "Jednodušší opravy (např. odvirování, optimalizace) trvají typicky 1-2 pracovní dny. Složitější případy (např. výměna dílů, obnova dat) mohou trvat 3-5 pracovních dnů. Nabízíme také express službu v naléhavých případech."
+                },
+                {
+                    "question": "Co když zařízení nejde opravit?",
+                    "answer": "Pokud zařízení nelze opravit nebo je oprava nerentabilní, informujeme vás okamžitě. V takovém případě účtujeme pouze poplatek za diagnostiku (typicky 8-13 €) a pomůžeme s radou při nákupu nového zařízení."
+                },
+                {
+                    "question": "Jsou moje data během opravy v bezpečí?",
+                    "answer": "Ano! Se všemi zařízeními zacházíme důvěrně. Záloha dat se provádí pouze s vaším souhlasem a všechna data jsou po opravě bezpečně smazána (pokud je to nutné)."
+                },
+                {
+                    "question": "Je na opravy záruka?",
+                    "answer": "Ano, poskytujeme 30-90 dní záruky na všechny opravy (závisí na typu opravy). Nové díly mají také záruku výrobce."
+                },
+                {
+                    "question": "Jakou oblast pokrýváte servisem na místě?",
+                    "answer": "Poskytujeme služby na místě v Székesfehérváru a okruhu 30 km. Pro vzdálenější oblasti pracujeme na základě speciální dohody nebo poštovní služby."
+                },
+                {
+                    "question": "Jak mám zařízení zabalit pro odeslání?",
+                    "answer": "Posíláme podrobné instrukce pro balení e-mailem. Důležité: použijte bublinkovou fólii, pevnou krabici a označte 'Křehké'. Originální balení je nejlepší, pokud je k dispozici."
+                }
+            ]
+        },
+        "finalCta": {
+            "title": "Máte problémy se svým zařízením?",
+            "description": "Zavolejte nám nebo napište zprávu a vyřešíme to rychle! Rychlá diagnostika, transparentní ceny, spolehlivé opravy.",
+            "button": "Nahlásit Problém Nyní"
+        }
+    },
+    "onsitePresence": {
+        "badge": "Event IT Support",
+        "title": "IT Podpora na Místě pro Akce",
+        "subtitle": "Profesionální IT specialista na místě",
+        "description": "Zaručte technickou stabilitu své profesionální akce, konference nebo firemního setkání s dedikovanou IT podporou na místě.",
+        "cards": {
+            "onsite": {
+                "title": "Specialista IT na místě",
+                "description": "Dedikovaný IT profesionál doprovázející vaši akci od začátku do konce."
+            },
+            "stability": {
+                "title": "Technická Stabilita",
+                "description": "Proaktivní monitoring a okamžitá intervence."
+            },
+            "equipment": {
+                "title": "Správa Vybavení",
+                "description": "Konfigurace a dohled nad notebooky, sítěmi a streamovacím vybavením."
+            }
+        },
+        "cta": {
+            "main": "Získat Nabídku",
+            "learnMore": "Číst Více"
+        }
+    },
+    "onsitePresencePage": {
+        "breadcrumb": {
+            "home": "Domů",
+            "onsitePresence": "IT Podpora na Místě"
+        },
+        "hero": {
+            "title": "IT Podpora na Místě pro Akce",
+            "subtitle": "Profesionální IT podpora na místě pro konference a akce",
+            "description": "Chcete bezchybnou akci? Se službou IT Podpory na Místě od SIRONIC získáte záruku stabilní a spolehlivé IT infrastruktury.",
+            "cta": "Rezervovat Bezplatnou Konzultaci"
+        },
+        "intro": {
+            "title": "Proč vzít IT specialistu na svou akci?",
+            "content": [
+                "Úspěch profesionální akce často závisí na technické stabilitě. Pokud technika selže, trpí reputace akce.",
+                "S IT Podporou na Místě od SIRONIC získáte zkušeného IT specialistu, který se postará o hladký průběh."
+            ]
+        },
+        "services": {
+            "title": "Co nabízíme?",
+            "subtitle": "Komplexní Technická Podpora",
+            "items": [
+                {
+                    "title": "Příprava Akce a Konfigurace",
+                    "description": "Instalace a testování vybavení pro akci.",
+                    "topics": [
+                        "Instalace",
+                        "Testování",
+                        "Konfigurace"
+                    ]
+                },
+                {
+                    "title": "Síť a Wi-Fi",
+                    "description": "Zajištění stabilního internetu pro všechny účastníky.",
+                    "topics": [
+                        "Plánování Wi-Fi",
+                        "Šířka pásma",
+                        "Monitoring"
+                    ]
+                },
+                {
+                    "title": "Podpora Streamování",
+                    "description": "Technické zázemí pro živé přenosy a hybridní akce.",
+                    "topics": [
+                        "OBS",
+                        "Kamery",
+                        "Zvuk"
+                    ]
+                }
+            ]
+        },
+        "eventTypes": {
+            "title": "Podporované Akce",
+            "subtitle": "Každá akce, kde je IT klíčové",
+            "types": [
+                {
+                    "title": "Konference",
+                    "description": "Velká profesionální setkání."
+                },
+                {
+                    "title": "Hybridní Akce",
+                    "description": "Propojování online a offline účastníků."
+                },
+                {
+                    "title": "Workshopy",
+                    "description": "Technická podpora pro praktická školení."
+                }
+            ]
+        },
+        "benefits": {
+            "title": "Proč My?",
+            "items": [
+                "Zkušení Profesionálové",
+                "Okamžité Řešení Problémů",
+                "Flexibilní Dostupnost",
+                "Profesionální Vybavení"
+            ]
+        },
+        "process": {
+            "title": "Proces",
+            "subtitle": "Jak spolupracujeme",
+            "steps": [
+                {
+                    "title": "Posouzení",
+                    "description": "Diskuse o technických požadavcích."
+                },
+                {
+                    "title": "Plánování",
+                    "description": "Návrh nezbytné infrastruktury."
+                },
+                {
+                    "title": "Realizace",
+                    "description": "Konfigurace a provoz na místě."
+                },
+                {
+                    "title": "Monitoring",
+                    "description": "Neustálá přítomnost během akce."
+                },
+                {
+                    "title": "Uzavření",
+                    "description": "Demontáž a vyhodnocení."
+                }
+            ]
+        },
+        "faq": {
+            "title": "FAQ",
+            "items": [
+                {
+                    "question": "Jaké typy akcí podporujete?",
+                    "answer": "Vše od malých workshopů po velké konference."
+                },
+                {
+                    "question": "Dodáváte vybavení?",
+                    "answer": "Ano, nabízíme pronájem vybavení na vyžádání."
+                },
+                {
+                    "question": "Kolik to stojí?",
+                    "answer": "Založeno na individuální nabídce dle požadavků."
+                },
+                {
+                    "question": "Cestujete po celé zemi?",
+                    "answer": "Ano, přijímáme zakázky po celém Maďarsku."
+                }
+            ]
+        },
+        "pricing": {
+            "title": "Ceník",
+            "subtitle": "Založeno na Individuální Nabídce",
+            "description": "Každá akce je jiná, takže ceny přizpůsobujeme vašim potřebám.",
+            "process": "Získejte nabídku!",
+            "cta": "Objednat Nabídku"
+        },
+        "availabilityNote": "Tato služba je dostupná na celém území Maďarska.",
+        "finalCta": {
+            "title": "Zajistěte Úspěch!",
+            "description": "Nenechávejte technickou stránku náhodě.",
+            "button": "Získat Nabídku"
+        }
+    }
+}

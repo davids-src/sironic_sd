@@ -168,6 +168,16 @@
     "cta": "Ingyenes konzultáció",
     "learnMore": "Kapcsolatfelvétel"
   },
+  "euPresence": {
+    "title": "EU-szintű IT szolgáltatás – Bárhol ott vagyunk, ahol szükség van ránk",
+    "subtitle": "A SIRONIC európai jelenléttel, távoli és helyszíni IT támogatással segíti a vállalkozásokat – határok nélkül.",
+    "points": [
+      "Gyors reagálás Európa bármely pontján",
+      "Professzionális IT támogatás távolról vagy helyszínen",
+      "Vállalkozásoknak, rendezvényeknek, telephelyeknek"
+    ],
+    "cta": "Tudjon meg többet"
+  },
   "services": {
     "title": "Szolgáltatásaink",
     "subtitle": "Teljes körű IT megoldások vállalkozásod növekedéséhez",

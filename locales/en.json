@@ -166,6 +166,16 @@
     "cta": "Free Consultation",
     "learnMore": "Contact Us"
   },
+  "euPresence": {
+    "title": "EU-Level IT Service – We Are Wherever You Need Us",
+    "subtitle": "SIRONIC supports businesses with European presence, providing remote and on-site IT support – without borders.",
+    "points": [
+      "Rapid response anywhere in Europe",
+      "Professional IT support remotely or on-site",
+      "For businesses, events, and multiple locations"
+    ],
+    "cta": "Learn More"
+  },
   "services": {
     "title": "Our Services",
     "subtitle": "Comprehensive IT solutions for your business growth",

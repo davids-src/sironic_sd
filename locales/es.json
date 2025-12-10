@@ -166,6 +166,16 @@
     "cta": "Consulta Gratuita",
     "learnMore": "Saber Más"
   },
+  "euPresence": {
+    "title": "Servicios de TI a nivel de la UE – Estamos donde nos necesites",
+    "subtitle": "SIRONIC apoya a empresas con alcance europeo, brindando soporte de TI remoto y local – sin fronteras.",
+    "points": [
+      "Respuesta rápida en toda Europa",
+      "Soporte de TI profesional remoto o in situ",
+      "Para empresas, eventos y múltiples ubicaciones"
+    ],
+    "cta": "Saber más"
+  },
   "services": {
     "title": "Nuestros Servicios",
     "subtitle": "Soluciones TI integrales para acelerar el crecimiento de su negocio",

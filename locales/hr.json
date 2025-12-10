@@ -169,6 +169,16 @@
     "cta": "Besplatno savjetovanje",
     "learnMore": "Saznaj više"
   },
+  "euPresence": {
+    "title": "IT usluge na razini EU – Mi smo tamo gdje nas trebate",
+    "subtitle": "SIRONIC podržava tvrtke s europskim dosegom, pružajući daljinsku i lokalnu IT podršku – bez granica.",
+    "points": [
+      "Brz odgovor diljem Europe",
+      "Profesionalna IT podrška daljinski ili na licu mjesta",
+      "Za tvrtke, događaje i više lokacija"
+    ],
+    "cta": "Saznajte više"
+  },
   "services": {
     "title": "Naše usluge",
     "subtitle": "Kompletna IT rješenja za rast vašeg poslovanja",

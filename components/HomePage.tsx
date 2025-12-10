@@ -10,6 +10,7 @@ import { NetworkOptimizationSection } from '@/components/NetworkOptimizationSect
 import { ItTrainingSection } from '@/components/ItTrainingSection';
 import { OnsitePresenceSection } from '@/components/OnsitePresenceSection';
 import { RepairServiceSection } from '@/components/RepairServiceSection';
+import { EuGlobalPresenceSection } from '@/components/EuGlobalPresenceSection';
 import { OrganizationSchema } from '@/components/structured-data/OrganizationSchema';
 import { LocalBusinessSchema } from '@/components/structured-data/LocalBusinessSchema';
 import { Button } from '@/components/ui/button';
@@ -73,6 +74,8 @@ export function HomePage() {
     return (
         <>
             <Hero />
+
+            <EuGlobalPresenceSection />
 
             <section id="szolgaltatasok" className="py-20 lg:py-32 bg-gray-50 dark:bg-gray-900/50">
                 <div className="container mx-auto px-4 md:px-6">

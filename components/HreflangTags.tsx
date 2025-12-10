@@ -15,7 +15,13 @@ const pathMapping: Record<string, Record<string, string>> = {
         sl: 'servis-racunalnikov',
         fr: 'reparation-et-maintenance',
         it: 'riparazione-e-assistenza',
-        es: 'reparacion-y-servicio'
+        es: 'reparacion-y-servicio',
+        sv: 'reparation-service',
+        da: 'reparation-service',
+        no: 'reparasjon-service',
+        nl: 'reparatie-service',
+        pl: 'serwis-naprawy',
+        cs: 'opravy-servis'
     },
     'network-optimization': {
         hu: 'halozat-fejlesztes',
@@ -27,7 +33,13 @@ const pathMapping: Record<string, Record<string, string>> = {
         sl: 'mrezna-infrastruktura',
         fr: 'optimisation-reseau',
         it: 'ottimizzazione-rete',
-        es: 'optimizacion-de-red'
+        es: 'optimizacion-de-red',
+        sv: 'natverksoptimering',
+        da: 'netvaerksoptimering',
+        no: 'nettverksoptimalisering',
+        nl: 'netwerkoptimalisatie',
+        pl: 'optymalizacja-sieci',
+        cs: 'optimalizace-site'
     },
     'it-training': {
         hu: 'oktatas',
@@ -39,7 +51,13 @@ const pathMapping: Record<string, Record<string, string>> = {
         sl: 'it-usposabljanje',
         fr: 'formation-informatique',
         it: 'formazione-it',
-        es: 'formacion-informatica'
+        es: 'formacion-informatica',
+        sv: 'it-utbildning',
+        da: 'it-uddannelse',
+        no: 'it-opplaering',
+        nl: 'it-training',
+        pl: 'szkolenie-it',
+        cs: 'it-skoleni'
     },
     'custom-development': {
         hu: 'egyedi-alkalmazas-fejlesztes',
@@ -51,7 +69,13 @@ const pathMapping: Record<string, Record<string, string>> = {
         sl: 'razvoj-spletnih-aplikacij',
         fr: 'developpement-dapplications',
         it: 'sviluppo-applicazioni',
-        es: 'desarrollo-de-aplicaciones'
+        es: 'desarrollo-de-aplicaciones',
+        sv: 'anpassad-applikationsutveckling',
+        da: 'skraeddersyet-applikationsudvikling',
+        no: 'skreddersydd-applikasjonsutvikling',
+        nl: 'maatwerk-applicatieontwikkeling',
+        pl: 'dedykowane-tworzenie-aplikacji',
+        cs: 'vyvoj-aplikaci-na-miru'
     },
     'products': {
         hu: 'termekeink',
@@ -63,7 +87,13 @@ const pathMapping: Record<string, Record<string, string>> = {
         sl: 'produkti',
         fr: 'produits',
         it: 'prodotti',
-        es: 'productos'
+        es: 'productos',
+        sv: 'produkter',
+        da: 'produkter',
+        no: 'produkter',
+        nl: 'producten',
+        pl: 'produkty',
+        cs: 'produkty'
     },
     'pricing': {
         hu: 'arak',
@@ -75,7 +105,13 @@ const pathMapping: Record<string, Record<string, string>> = {
         sl: 'cenik',
         fr: 'tarifs',
         it: 'prezzi',
-        es: 'precios'
+        es: 'precios',
+        sv: 'priser',
+        da: 'priser',
+        no: 'priser',
+        nl: 'prijzen',
+        pl: 'cennik',
+        cs: 'cenik'
     },
     'about': {
         hu: 'rolunk',
@@ -87,7 +123,13 @@ const pathMapping: Record<string, Record<string, string>> = {
         sl: 'o-nas',
         fr: 'a-propos',
         it: 'chi-siamo',
-        es: 'sobre-nosotros'
+        es: 'sobre-nosotros',
+        sv: 'om-oss',
+        da: 'om-os',
+        no: 'om-oss',
+        nl: 'over-ons',
+        pl: 'o-nas',
+        cs: 'o-nas'
     },
     'contact': {
         hu: 'kapcsolat',
@@ -99,7 +141,13 @@ const pathMapping: Record<string, Record<string, string>> = {
         sl: 'kontakt',
         fr: 'contact',
         it: 'contatti',
-        es: 'contacto'
+        es: 'contacto',
+        sv: 'kontakt',
+        da: 'kontakt',
+        no: 'kontakt',
+        nl: 'contact',
+        pl: 'kontakt',
+        cs: 'kontakt'
     },
     'services': {
         hu: 'szolgaltatasok',
@@ -111,7 +159,13 @@ const pathMapping: Record<string, Record<string, string>> = {
         sl: 'storitve',
         fr: 'services',
         it: 'servizi',
-        es: 'servicios'
+        es: 'servicios',
+        sv: 'tjanster',
+        da: 'tjenester',
+        no: 'tjenester',
+        nl: 'diensten',
+        pl: 'uslugi',
+        cs: 'sluzby'
     },
     'minden-cegnek': {
         hu: 'minden-cegnek-legyen-informatikusa',
@@ -123,7 +177,13 @@ const pathMapping: Record<string, Record<string, string>> = {
         sl: 'it-podpora-podjetjem',
         fr: 'minden-cegnek-legyen-informatikusa',
         it: 'minden-cegnek-legyen-informatikusa',
-        es: 'minden-cegnek-legyen-informatikusa'
+        es: 'minden-cegnek-legyen-informatikusa',
+        sv: 'it-support-foretag',
+        da: 'it-stoette-virksomheder',
+        no: 'it-stoette-bedrifter',
+        nl: 'it-ondersteuning-bedrijven',
+        pl: 'wsparcie-it-firm',
+        cs: 'it-podpora-firem'
     },
     'onsite-presence': {
         hu: 'onsite-jelenlet',
@@ -135,7 +195,13 @@ const pathMapping: Record<string, Record<string, string>> = {
         sl: 'onsite-it-tehnik',
         fr: 'presence-it-sur-site',
         it: 'presenza-it-onsite',
-        es: 'presencia-it-onsite'
+        es: 'presencia-it-onsite',
+        sv: 'onsite-narvaro',
+        da: 'onsite-tilstedevarelse',
+        no: 'onsite-tilstedevarelse',
+        nl: 'onsite-aanwezigheid',
+        pl: 'onsite-obecnosc',
+        cs: 'onsite-pritomnost'
     }
 };
 
@@ -200,14 +266,36 @@ export default function HreflangTags() {
 
     return (
         <>
-            {locales.map((locale) => (
-                <link
-                    key={locale}
-                    rel="alternate"
-                    href={getUrl(locale, pathWithoutLocale)}
-                    hrefLang={locale}
-                />
-            ))}
+            {locales.map((locale) => {
+                // Map locale to proper region code for hreflang
+                const regionCode = {
+                    'hu': 'hu-HU',
+                    'en': 'en-US',
+                    'de': 'de-DE',
+                    'sk': 'sk-SK',
+                    'ro': 'ro-RO',
+                    'hr': 'hr-HR',
+                    'sl': 'sl-SI',
+                    'fr': 'fr-FR',
+                    'it': 'it-IT',
+                    'es': 'es-ES',
+                    'sv': 'sv-SE',
+                    'da': 'da-DK',
+                    'no': 'no-NO',
+                    'nl': 'nl-NL',
+                    'pl': 'pl-PL',
+                    'cs': 'cs-CZ'
+                }[locale] || locale;
+
+                return (
+                    <link
+                        key={locale}
+                        rel="alternate"
+                        href={getUrl(locale, pathWithoutLocale)}
+                        hrefLang={regionCode}
+                    />
+                );
+            })}
             <link
                 rel="alternate"
                 href={getUrl(null, pathWithoutLocale)}

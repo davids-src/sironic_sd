@@ -161,6 +161,16 @@
     "cta": "Bezplatná konzultácia",
     "learnMore": "Kontaktujte nás"
   },
+  "euPresence": {
+    "title": "IT Služby na úrovni EÚ – Sme tam, kde nás potrebujete",
+    "subtitle": "SIRONIC podporuje firmy s celoeurópskym dosahom, poskytujúci vzdialenú aj lokálnu IT podporu – bez hraníc.",
+    "points": [
+      "Rýchla reakcia po celej Európe",
+      "Profesionálna IT podpora vzdialene alebo na mieste",
+      "Pre firmy, podujatia a viacero pobočiek"
+    ],
+    "cta": "Zistiť viac"
+  },
   "services": {
     "title": "Naše služby",
     "subtitle": "Komplexné IT riešenia pre rast Vášho podnikania",
@@ -198,23 +208,23 @@
     "badge": "Vývoj vlastného softvéru",
     "title": "Vývoj vlastných aplikácií pre Vašu firmu",
     "subtitle": "Škálovateľný, bezpečný a obchodne zameraný softvér",
-    "description": "Tím SIRONIC ponúka komplexný vývoj vlastných aplikácií. Od webových aplikácií cez desktopový softvér pre Windows až po mobilné aplikácie – všetko prispôsobené modernými technológiami.",
+    "description": "Tím SIRONIC ponúka komplexný vývoj vlastných aplikácií pre Vaše podnikanie. Od webových aplikácií cez desktopový softvér pre Windows až po mobilné aplikácie – všetky riešenia prispôsobené Vašim obchodným potrebám s modernými technológiami.",
     "cards": {
       "webApps": {
-        "title": "Vývoj webových aplikácií",
-        "description": "Podnikové aplikácie založené na TailScript a React. Škálovateľné, rýchle riešenia pre komplexné procesy."
+        "title": "Vývoj vlastných webových aplikácií",
+        "description": "Podnikové webové aplikácie založené na TailScript a React. Škálovateľné, rýchle a užívateľsky prívetivé riešenia pre komplexné obchodné procesy."
       },
       "desktop": {
         "title": "Desktopový softvér pre Windows",
-        "description": "Vývoj natívnych Windows aplikácií. Efektívny, rýchly a spoľahlivý softvér pre kancelárie."
+        "description": "Vývoj natívnych Windows aplikácií s modernými technológiami. Efektívny, rýchly a spoľahlivý softvér pre kancelárske prostredie."
       },
       "mobile": {
         "title": "Vývoj mobilných aplikácií",
-        "description": "Vývoj Android a iOS aplikácií. Moderné, intuitívne mobilné riešenia pre všetky zariadenia."
+        "description": "Vývoj Android a iOS aplikácií. Moderné, intuitívne mobilné riešenia, ktoré dokonale fungujú na každom zariadení."
       }
     },
     "cta": {
-      "main": "Požiadať o ponuku na vývoj",
+      "main": "Požiadať o ponuku na vlastný vývoj",
       "learnMore": "Zistiť viac"
     }
   },
@@ -804,30 +814,6 @@
       "title": "Nepotrebujete vlastného IT-čkara, len spoľahlivého partnera",
       "description": "My zabezpečíme odbornosť, rýchlu reakciu a stabilnú prevádzku – vy sa môžete sústrediť na svoje podnikanie.",
       "button": "Vyžiadať ponuku"
-    }
-  },
-  "customDevelopment": {
-    "badge": "Vývoj vlastného softvéru",
-    "title": "Vývoj vlastných aplikácií pre Vašu firmu",
-    "subtitle": "Škálovateľný, bezpečný a obchodne zameraný softvér",
-    "description": "Tím SIRONIC ponúka komplexný vývoj vlastných aplikácií pre Vaše podnikanie. Od webových aplikácií cez desktopový softvér pre Windows až po mobilné aplikácie – všetky riešenia prispôsobené Vašim obchodným potrebám s modernými technológiami.",
-    "cards": {
-      "webApps": {
-        "title": "Vývoj vlastných webových aplikácií",
-        "description": "Podnikové webové aplikácie založené na TailScript a React. Škálovateľné, rýchle a užívateľsky prívetivé riešenia pre komplexné obchodné procesy."
-      },
-      "desktop": {
-        "title": "Desktopový softvér pre Windows",
-        "description": "Vývoj natívnych Windows aplikácií s modernými technológiami. Efektívny, rýchly a spoľahlivý softvér pre kancelárske prostredie."
-      },
-      "mobile": {
-        "title": "Vývoj mobilných aplikácií",
-        "description": "Vývoj Android a iOS aplikácií. Moderné, intuitívne mobilné riešenia, ktoré dokonale fungujú na každom zariadení."
-      }
-    },
-    "cta": {
-      "main": "Požiadať o ponuku na vlastný vývoj",
-      "learnMore": "Zistiť viac"
     }
   },
   "customDevelopmentPage": {

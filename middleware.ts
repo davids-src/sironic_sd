@@ -1,7 +1,7 @@
 import { NextResponse } from 'next/server';
 import type { NextRequest } from 'next/server';
 
-const locales = ['hu', 'en', 'de', 'sk', 'ro', 'hr', 'sl', 'fr', 'it', 'es'];
+const locales = ['hu', 'en', 'de', 'sk', 'ro', 'hr', 'sl', 'fr', 'it', 'es', 'sv', 'da', 'no', 'nl', 'pl', 'cs'];
 const defaultLocale = 'en'; // Global default as per requirements
 
 // Bot user agents to avoid redirecting (basic list)
@@ -92,6 +92,103 @@ export function middleware(request: NextRequest) {
       '/es/productos': '/es/termekeink',
       '/es/contacto': '/es/kapcsolat',
       '/es/privacidad': '/es/adatvedelem',
+
+      // Swedish
+      '/sv/priser': '/sv/arak',
+      '/sv/om-oss': '/sv/rolunk',
+      '/sv/tjanster': '/sv/szolgaltatasok',
+      '/sv/produkter': '/sv/termekeink',
+      '/sv/kontakt': '/sv/kapcsolat',
+      '/sv/integritetspolicy': '/sv/adatvedelem',
+
+      // Danish
+      '/da/priser': '/da/arak',
+      '/da/om-os': '/da/rolunk',
+      '/da/tjenester': '/da/szolgaltatasok',
+      '/da/produkter': '/da/termekeink',
+      '/da/kontakt': '/da/kapcsolat',
+      '/da/fortrolighedspolitik': '/da/adatvedelem',
+
+      // Norwegian
+      '/no/priser': '/no/arak',
+      '/no/om-oss': '/no/rolunk',
+      '/no/tjenester': '/no/szolgaltatasok',
+      '/no/produkter': '/no/termekeink',
+      '/no/kontakt': '/no/kapcsolat',
+      '/no/personvern': '/no/adatvedelem',
+
+      // Dutch
+      '/nl/prijzen': '/nl/arak',
+      '/nl/over-ons': '/nl/rolunk',
+      '/nl/diensten': '/nl/szolgaltatasok',
+      '/nl/producten': '/nl/termekeink',
+      '/nl/contact': '/nl/kapcsolat',
+      '/nl/privacybeleid': '/nl/adatvedelem',
+
+      // Polish
+      '/pl/cennik': '/pl/arak',
+      '/pl/o-nas': '/pl/rolunk',
+      '/pl/uslugi': '/pl/szolgaltatasok',
+      '/pl/produkty': '/pl/termekeink',
+      '/pl/kontakt': '/pl/kapcsolat',
+      '/pl/polityka-prywatnosci': '/pl/adatvedelem',
+
+      // Czech
+      '/cs/cenik': '/cs/arak',
+      '/cs/o-nas': '/cs/rolunk',
+      '/cs/sluzby': '/cs/szolgaltatasok',
+      '/cs/produkty': '/cs/termekeink',
+      '/cs/kontakt': '/cs/kapcsolat',
+      '/cs/ochrana-udaju': '/cs/adatvedelem',
+
+      // Service-specific routes for Swedish
+      '/sv/it-utbildning': '/sv/oktatas',
+      '/sv/anpassad-applikationsutveckling': '/sv/egyedi-alkalmazas-fejlesztes',
+      '/sv/natverksoptimering': '/sv/halozat-fejlesztes',
+      '/sv/onsite-narvaro': '/sv/onsite-jelenlet',
+      '/sv/reparation-service': '/sv/szerviz-javitas',
+      '/sv/it-support-foretag': '/sv/minden-cegnek-legyen-informatikusa',
+
+      // Service-specific routes for Danish
+      '/da/it-uddannelse': '/da/oktatas',
+      '/da/skraeddersyet-applikationsudvikling': '/da/egyedi-alkalmazas-fejlesztes',
+      '/da/netvaerksoptimering': '/da/halozat-fejlesztes',
+      '/da/onsite-tilstedevarelse': '/da/onsite-jelenlet',
+      '/da/reparation-service': '/da/szerviz-javitas',
+      '/da/it-stoette-virksomheder': '/da/minden-cegnek-legyen-informatikusa',
+
+      // Service-specific routes for Norwegian
+      '/no/it-opplaering': '/no/oktatas',
+      '/no/skreddersydd-applikasjonsutvikling': '/no/egyedi-alkalmazas-fejlesztes',
+      '/no/nettverksoptimalisering': '/no/halozat-fejlesztes',
+      '/no/onsite-tilstedevarelse': '/no/onsite-jelenlet',
+      '/no/reparasjon-service': '/no/szerviz-javitas',
+      '/no/it-stoette-bedrifter': '/no/minden-cegnek-legyen-informatikusa',
+
+      // Service-specific routes for Dutch
+      '/nl/it-training': '/nl/oktatas',
+      '/nl/maatwerk-applicatieontwikkeling': '/nl/egyedi-alkalmazas-fejlesztes',
+      '/nl/netwerkoptimalisatie': '/nl/halozat-fejlesztes',
+      '/nl/onsite-aanwezigheid': '/nl/onsite-jelenlet',
+      '/nl/reparatie-service': '/nl/szerviz-javitas',
+      '/nl/it-ondersteuning-bedrijven': '/nl/minden-cegnek-legyen-informatikusa',
+
+      // Service-specific routes for Polish
+      '/pl/szkolenie-it': '/pl/oktatas',
+      '/pl/dedykowane-tworzenie-aplikacji': '/pl/egyedi-alkalmazas-fejlesztes',
+      '/pl/optymalizacja-sieci': '/pl/halozat-fejlesztes',
+      '/pl/onsite-obecnosc': '/pl/onsite-jelenlet',
+      '/pl/serwis-naprawy': '/pl/szerviz-javitas',
+      '/pl/wsparcie-it-firm': '/pl/minden-cegnek-legyen-informatikusa',
+
+      // Service-specific routes for Czech
+      '/cs/it-skoleni': '/cs/oktatas',
+      '/cs/vyvoj-aplikaci-na-miru': '/cs/egyedi-alkalmazas-fejlesztes',
+      '/cs/optimalizace-site': '/cs/halozat-fejlesztes',
+      '/cs/onsite-pritomnost': '/cs/onsite-jelenlet',
+      '/cs/opravy-servis': '/cs/szerviz-javitas',
+      '/cs/it-podpora-firem': '/cs/minden-cegnek-legyen-informatikusa',
+
       // Privacy pages for all locales
       '/en/privacy-policy': '/en/adatvedelem',
       '/de/datenschutz': '/de/adatvedelem',
@@ -185,6 +282,13 @@ export function middleware(request: NextRequest) {
         case 'SK': // Slovakia
           targetLocale = 'sk';
           break;
+        case 'CN': // Czech Republic (wait, CN is China. CZ is Czech)
+        case 'CZ':
+          targetLocale = 'cs';
+          break;
+        case 'PL': // Poland
+          targetLocale = 'pl';
+          break;
         case 'RO': // Romania
         case 'MD': // Moldova
           targetLocale = 'ro';
@@ -193,6 +297,20 @@ export function middleware(request: NextRequest) {
         case 'AT': // Austria
         case 'CH': // Switzerland
           targetLocale = 'de';
+          break;
+        case 'NL': // Netherlands
+          targetLocale = 'nl';
+          break;
+        case 'SE': // Sweden
+          targetLocale = 'sv';
+          break;
+        case 'DK': // Denmark
+        case 'GL': // Greenland
+        case 'FO': // Faroe Islands
+          targetLocale = 'da';
+          break;
+        case 'NO': // Norway
+          targetLocale = 'no';
           break;
         case 'FR': // France
         case 'BE': // Belgium

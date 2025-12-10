@@ -160,6 +160,16 @@
     "cta": "Consultare gratuită",
     "learnMore": "Aflați mai multe"
   },
+  "euPresence": {
+    "title": "Servicii IT la nivel UE – Suntem acolo unde aveți nevoie de noi",
+    "subtitle": "SIRONIC sprijină companiile cu acoperire europeană, oferind suport IT la distanță și local – fără frontiere.",
+    "points": [
+      "Răspuns rapid în întreaga Europă",
+      "Suport IT profesional la distanță sau la fața locului",
+      "Pentru companii, evenimente și locații multiple"
+    ],
+    "cta": "Află mai multe"
+  },
   "services": {
     "title": "Serviciile noastre",
     "subtitle": "Soluții IT complete pentru creșterea afacerii dumneavoastră",

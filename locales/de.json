@@ -161,6 +161,16 @@
     "cta": "Kostenlose Beratung",
     "learnMore": "Kontakt aufnehmen"
   },
+  "euPresence": {
+    "title": "IT-Services auf EU-Ebene – Wir sind dort, wo Sie uns brauchen",
+    "subtitle": "SIRONIC unterstützt Unternehmen mit europäischer Reichweite und bietet Remote- sowie Vor-Ort-IT-Support – ohne Grenzen.",
+    "points": [
+      "Schnelle Reaktion in ganz Europa",
+      "Professioneller IT-Support remote oder vor Ort",
+      "Für Unternehmen, Events und mehrere Standorte"
+    ],
+    "cta": "Mehr erfahren"
+  },
   "services": {
     "title": "Unsere Dienstleistungen",
     "subtitle": "Umfassende IT-Lösungen für Ihr Unternehmenswachstum",
@@ -198,23 +208,23 @@
     "badge": "Individuelle Softwareentwicklung",
     "title": "Individuelle Anwendungsentwicklung für Ihr Unternehmen",
     "subtitle": "Skalierbare, sichere und geschäftsorientierte Software",
-    "description": "Das SIRONIC-Team bietet umfassende individuelle Anwendungsentwicklung. Von Webanwendungen bis hin zu Windows-Software und mobilen Apps – alle Lösungen maßgeschneidert mit modernen Technologien.",
+    "description": "Das SIRONIC-Team bietet umfassende individuelle Anwendungsentwicklung für Ihr Unternehmen. Von Webanwendungen über Windows-Desktop-Software bis hin zu mobilen Apps – alle Lösungen maßgeschneidert auf Ihre Geschäftsbedürfnisse mit modernen Technologien.",
     "cards": {
       "webApps": {
-        "title": "Webanwendungsentwicklung",
-        "description": "TailScript- und React-basierte Unternehmensanwendungen. Skalierbare, schnelle Lösungen für komplexe Prozesse."
+        "title": "Individuelle Webanwendungsentwicklung",
+        "description": "TailScript- und React-basierte Unternehmenswebanwendungen. Skalierbare, schnelle und benutzerfreundliche Lösungen für komplexe Geschäftsprozesse."
       },
       "desktop": {
         "title": "Windows-Desktop-Software",
-        "description": "Native Windows-Entwicklung. Effiziente, schnelle und zuverlässige Software für Büroumgebungen."
+        "description": "Native Windows-Anwendungsentwicklung mit modernen Technologien. Effiziente, schnelle und zuverlässige Software für Büroumgebungen."
       },
       "mobile": {
         "title": "Mobile App-Entwicklung",
-        "description": "Android- und iOS-App-Erstellung. Moderne, intuitive mobile Lösungen für alle Geräte."
+        "description": "Android- und iOS-Anwendungsentwicklung. Moderne, intuitive Mobile-Lösungen, die auf jedem Gerät perfekt funktionieren."
       }
     },
     "cta": {
-      "main": "Angebot für Entwicklung anfordern",
+      "main": "Angebot für individuelle Entwicklung anfordern",
       "learnMore": "Mehr erfahren"
     }
   },
@@ -804,30 +814,6 @@
       "title": "Kein eigener IT-ler nötig, nur ein zuverlässiger Partner",
       "description": "Wir bieten Fachwissen, schnelle Reaktion und stabilen Betrieb – damit Sie sich auf Ihr Geschäft konzentrieren können.",
       "button": "Angebot anfordern"
-    }
-  },
-  "customDevelopment": {
-    "badge": "Individuelle Softwareentwicklung",
-    "title": "Individuelle Anwendungsentwicklung für Ihr Unternehmen",
-    "subtitle": "Skalierbare, sichere und geschäftsorientierte Software",
-    "description": "Das SIRONIC-Team bietet umfassende individuelle Anwendungsentwicklung für Ihr Unternehmen. Von Webanwendungen über Windows-Desktop-Software bis hin zu mobilen Apps – alle Lösungen maßgeschneidert auf Ihre Geschäftsbedürfnisse mit modernen Technologien.",
-    "cards": {
-      "webApps": {
-        "title": "Individuelle Webanwendungsentwicklung",
-        "description": "TailScript- und React-basierte Unternehmenswebanwendungen. Skalierbare, schnelle und benutzerfreundliche Lösungen für komplexe Geschäftsprozesse."
-      },
-      "desktop": {
-        "title": "Windows-Desktop-Software",
-        "description": "Native Windows-Anwendungsentwicklung mit modernen Technologien. Effiziente, schnelle und zuverlässige Software für Büroumgebungen."
-      },
-      "mobile": {
-        "title": "Mobile App-Entwicklung",
-        "description": "Android- und iOS-Anwendungsentwicklung. Moderne, intuitive Mobile-Lösungen, die auf jedem Gerät perfekt funktionieren."
-      }
-    },
-    "cta": {
-      "main": "Angebot für individuelle Entwicklung anfordern",
-      "learnMore": "Mehr erfahren"
     }
   },
   "customDevelopmentPage": {

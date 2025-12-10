@@ -71,6 +71,36 @@ export function LocalBusinessSchema({ locale }: LocalBusinessSchema) {
             description: 'Operaciones IT profesionales, desarrollo web, infraestructura de red y seguridad IT para PYMES.',
             alternateName: 'SIRONIC Soluciones Informáticas',
         },
+        sv: {
+            name: 'SIRONIC IT Solutions',
+            description: 'Professionell IT-drift, webbutveckling, nätverksinfrastruktur och IT-säkerhet för små och medelstora företag.',
+            alternateName: 'SIRONIC IT-lösningar',
+        },
+        da: {
+            name: 'SIRONIC IT Solutions',
+            description: 'Professionel IT-drift, webudvikling, netværksinfrastruktur og IT-sikkerhed for SMV\'er.',
+            alternateName: 'SIRONIC IT-løsninger',
+        },
+        no: {
+            name: 'SIRONIC IT Solutions',
+            description: 'Profesjonell IT-drift, webutvikling, nettverksinfrastruktur og IT-sikkerhet for SMB-er.',
+            alternateName: 'SIRONIC IT-løsninger',
+        },
+        nl: {
+            name: 'SIRONIC IT Solutions',
+            description: 'Professionele IT-operaties, webontwikkeling, netwerkinfrastructuur en IT-beveiliging voor het MKB.',
+            alternateName: 'SIRONIC IT-oplossingen',
+        },
+        pl: {
+            name: 'SIRONIC IT Solutions',
+            description: 'Profesjonalne operacje IT, rozwój stron internetowych, infrastruktura sieciowa i bezpieczeństwo IT dla MŚP.',
+            alternateName: 'SIRONIC Rozwiązania IT',
+        },
+        cs: {
+            name: 'SIRONIC IT Solutions',
+            description: 'Profesionální IT provoz, vývoj webových stránek, síťová infrastruktura a IT bezpečnost pro malé a střední podniky.',
+            alternateName: 'SIRONIC IT Řešení',
+        },
     };
 
     const currentLocaleData = localeData[locale] || localeData.en;
@@ -148,6 +178,34 @@ export function LocalBusinessSchema({ locale }: LocalBusinessSchema) {
             {
                 '@type': 'Country',
                 name: 'Spain',
+            },
+            {
+                '@type': 'Country',
+                name: 'Sweden',
+            },
+            {
+                '@type': 'Country',
+                name: 'Denmark',
+            },
+            {
+                '@type': 'Country',
+                name: 'Norway',
+            },
+            {
+                '@type': 'Country',
+                name: 'Netherlands',
+            },
+            {
+                '@type': 'Country',
+                name: 'Poland',
+            },
+            {
+                '@type': 'Country',
+                name: 'Czech Republic',
+            },
+            {
+                '@type': 'Country',
+                name: 'Germany',
             },
         ],
         hasOfferCatalog: {
@@ -258,7 +316,7 @@ export function OrganizationSchema() {
                 telephone: '+36-30-123-4567',
                 contactType: 'customer service',
                 email: 'hello@sironic.hu',
-                availableLanguage: ['Hungarian', 'English', 'German', 'Slovak', 'Romanian', 'Croatian', 'Slovenian', 'French', 'Italian', 'Spanish'],
+                availableLanguage: ['Hungarian', 'English', 'German', 'Slovak', 'Romanian', 'Croatian', 'Slovenian', 'French', 'Italian', 'Spanish', 'Swedish', 'Danish', 'Norwegian', 'Dutch', 'Polish', 'Czech'],
             },
         ],
         sameAs: [

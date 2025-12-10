@@ -166,6 +166,16 @@
     "cta": "Consultation Gratuite",
     "learnMore": "En savoir plus"
   },
+  "euPresence": {
+    "title": "Services informatiques au niveau de l'UE – Nous sommes là où vous avez besoin de nous",
+    "subtitle": "SIRONIC soutient les entreprises à portée européenne, en fournissant un support informatique à distance et local – sans frontières.",
+    "points": [
+      "Réponse rapide dans toute l'Europe",
+      "Support informatique professionnel à distance ou sur site",
+      "Pour les entreprises, événements et sites multiples"
+    ],
+    "cta": "En savoir plus"
+  },
   "services": {
     "title": "Nos Services",
     "subtitle": "Solutions informatiques complètes pour accélérer la croissance de votre entreprise",

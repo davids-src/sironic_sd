@@ -1,0 +1,1763 @@
+{
+    "meta": {
+        "siteTitle": "SIRONIC IT Solutions: Complete IT-oplossingen voor MKB – Beheer, Ontwikkeling, Beveiliging",
+        "siteDescription": "Professioneel IT-beheer, webontwikkeling, netwerk en beveiliging. Toegewijde support voor MKB. Vraag gratis consultatie!",
+        "companyName": "SIRONIC IT Solutions",
+        "keywords": [
+            "IT-diensten",
+            "systeemadministrator",
+            "netwerkinstallatie",
+            "IT-beveiliging",
+            "webontwikkeling",
+            "CRM-ontwikkeling",
+            "IT-training",
+            "cybersecuritycursus",
+            "digitale vaardigheden",
+            "IT-apparatuur",
+            "hostingdiensten",
+            "webhosting",
+            "serverhuur",
+            "computerreparatie",
+            "laptop",
+            "on-site support",
+            "gegevensbescherming",
+            "onderhoud",
+            "Székesfehérvár",
+            "Hongarije",
+            "Oostenrijk",
+            "Slowakije",
+            "Roemenië",
+            "Tsjechië",
+            "Zweden",
+            "Denemarken",
+            "Noorwegen",
+            "Nederland"
+        ],
+        "ogImage": "/og/home-en.jpg",
+        "pages": {
+            "services": {
+                "title": "IT-diensten - Systeembeheer & Ontwikkeling",
+                "description": "Betrouwbare IT-diensten voor bedrijven: systeembeheer, netwerkinstallatie, webontwikkeling, hosting en reparatie. Vraag vandaag nog een offerte aan bij onze experts!",
+                "keywords": [
+                    "IT-diensten",
+                    "systeembeheer",
+                    "netwerkinfrastructuur",
+                    "IT-beveiliging",
+                    "webontwikkeling",
+                    "hosting",
+                    "reparatie",
+                    "Székesfehérvár"
+                ],
+                "ogImage": "/og/services-en.jpg"
+            },
+            "about": {
+                "title": "Over Ons - SIRONIC IT Solutions: Uw Betrouwbare Partner",
+                "description": "Maak kennis met SIRONIC IT Solutions! Meer dan 5 jaar ervaring, proactieve IT-support en klantgerichtheid voor het MKB.",
+                "keywords": [
+                    "IT-bedrijf",
+                    "Székesfehérvár",
+                    "betrouwbare IT-partner",
+                    "systeembeheer",
+                    "IT-support"
+                ],
+                "ogImage": "/og/about-en.jpg"
+            },
+            "contact": {
+                "title": "Contact - SIRONIC IT Solutions Székesfehérvár",
+                "description": "Heeft u vragen? Neem contact op voor een gratis consultatie! Bereik ons via telefoon, e-mail of persoonlijk in Székesfehérvár. Wij zijn er om te helpen.",
+                "keywords": [
+                    "IT-contact",
+                    "gratis consultatie",
+                    "Székesfehérvár IT",
+                    "hello@sironic.hu"
+                ],
+                "ogImage": "/og/contact-en.jpg"
+            },
+            "pricing": {
+                "title": "IT-diensten Prijzen & Pakketten - SIRONIC IT Solutions",
+                "description": "Ontdek onze concurrerende IT-prijzen! Vast maandelijks systeembeheer, ontwikkeling op maat en onderhoud zonder verborgen kosten en met volledige garantie.",
+                "keywords": [
+                    "IT-prijzen",
+                    "maandelijkse IT-support",
+                    "prijs systeembeheer",
+                    "IT-kosten",
+                    "Székesfehérvár"
+                ],
+                "ogImage": "/og/pricing-en.jpg"
+            },
+            "products": {
+                "title": "Software op Maat & IT-producten - SIRONIC Solutions",
+                "description": "Ontdek onze softwareoplossingen op maat en IT-producten! CRM-systemen, webapplicaties en mobiele apps ontworpen om uw bedrijf te helpen groeien.",
+                "keywords": [
+                    "IT-producten",
+                    "software op maat",
+                    "CRM-systeem",
+                    "webapplicatie",
+                    "mobiele app"
+                ],
+                "ogImage": "/og/products-en.jpg"
+            },
+            "blog": {
+                "title": "IT Blog & Kennisbank - Tips voor Bedrijven",
+                "description": "Lees ons laatste IT-nieuws en tips! Nuttig advies over cybersecurity, systeembeheer en digitale ontwikkeling voor bedrijven.",
+                "keywords": [
+                    "IT-blog",
+                    "IT-tips",
+                    "IT-beveiliging",
+                    "zakelijke IT",
+                    "kennisbank"
+                ],
+                "ogImage": "/og/blog-en.jpg"
+            },
+            "networkOptimization": {
+                "title": "Bedrijfsnetwerk & Wi-Fi Installatie - SIRONIC IT Solutions",
+                "description": "Ontwerp en implementatie van stabiele, snelle en veilige bedrijfsnetwerken. Moderne Wi-Fi-systemen, netwerkoptimalisatie en uitgebreid onderhoud voor bedrijven.",
+                "keywords": [
+                    "bedrijfsnetwerk",
+                    "wifi-installatie",
+                    "netwerkoptimalisatie",
+                    "bedrijfswifi",
+                    "MikroTik",
+                    "Ubiquiti",
+                    "UniFi",
+                    "netwerkbeveiliging",
+                    "Székesfehérvár",
+                    "Hongarije"
+                ],
+                "ogImage": "/og/network-optimization-en.jpg"
+            },
+            "repairService": {
+                "title": "IT Reparatie & Service - Laptop, PC, Server Reparatie | SIRONIC",
+                "description": "Snelle en betrouwbare IT-reparatie in Székesfehérvár. Professionele reparatie van laptops, PC's, servers en NAS-apparaten on-site of via post. Transparante prijzen, garantie.",
+                "keywords": [
+                    "laptopreparatie",
+                    "pcreparatie",
+                    "computerreparatie székesfehérvár",
+                    "serverreparatie",
+                    "nasreparatie",
+                    "gegevensherstel",
+                    "virusverwijdering",
+                    "reparatie on-site"
+                ],
+                "ogImage": "/og/repair-service-en.jpg"
+            },
+            "onsitePresence": {
+                "title": "IT On-Site Aanwezigheid - SIRONIC IT Solutions",
+                "description": "Professioneel IT-toezicht en technische support voor evenementen en conferenties. Toegewijde specialist on-site.",
+                "keywords": [
+                    "IT on-site",
+                    "event IT",
+                    "conferentietechniek",
+                    "IT-toezicht"
+                ]
+            }
+        }
+    },
+    "nav": {
+        "home": "Home",
+        "services": "Diensten",
+        "products": "Producten",
+        "pricing": "Prijzen",
+        "about": "Over ons",
+        "blog": "Blog",
+        "contact": "Contact",
+        "ctaButton": "Offerte Aanvragen"
+    },
+    "hero": {
+        "badge": "Nieuwe Dienst",
+        "title": "Professioneel IT-beheer & Netwerkbouw met Beveiliging op EU-niveau",
+        "subtitle": "Stabiele en veilige IT-oplossingen voor MKB met gegarandeerde uptime.",
+        "cta": "Gratis Consultatie",
+        "learnMore": "Neem Contact Op"
+    },
+    "euPresence": {
+        "title": "IT-service op EU-niveau – Wij zijn waar u ons nodig hebt",
+        "subtitle": "SIRONIC ondersteunt bedrijven met Europese aanwezigheid, en biedt remote en on-site IT-support – zonder grenzen.",
+        "points": [
+            "Snelle reactie overal in Europa",
+            "Professionele IT-support op afstand of on-site",
+            "Voor bedrijven, evenementen en meerdere locaties"
+        ],
+        "cta": "Lees meer"
+    },
+    "services": {
+        "title": "Onze Diensten",
+        "subtitle": "Uitgebreide IT-oplossingen voor uw bedrijfsgroei",
+        "viewAll": "Alle Diensten",
+        "systemOperation": {
+            "title": "Systeembeheer & IT-onderhoud",
+            "description": "Uitgebreid systeemonderhoud, continue monitoring en support voor MKB, volledig EU-conform."
+        },
+        "networking": {
+            "title": "Netwerkbouw & Ontwikkeling",
+            "description": "Ontwerp, aanleg en beheer van moderne, veilige netwerkinfrastructuren."
+        },
+        "security": {
+            "title": "IT-beveiliging & Privacy",
+            "description": "Beveiligingsaudits, toegangsbeheer en gegevensbescherming in overeenstemming met EU-regelgeving."
+        },
+        "development": {
+            "title": "Website- & Systeemontwikkeling",
+            "description": "Snelle en veilige ontwikkeling van bedrijfswebsites en webwinkels met moderne technologieën."
+        },
+        "commerce": {
+            "title": "Handel – IT-apparatuur & Software",
+            "description": "Verkrijg alles wat nodig is voor kantoorbeheer – computers, monitoren, printers, servers en softwarelicenties."
+        },
+        "hosting": {
+            "title": "Hosting & Cloudoplossingen",
+            "description": "Stabiele, snelle en veilige hostingoplossingen voor websites, e-mail en back-ups. Webhosting, serverhuur en cloud back-up."
+        },
+        "repair": {
+            "title": "Service & Reparatie",
+            "description": "Snelle en betrouwbare reparatie van computers, laptops en servers on-site of via post. Transparante offertes en snelle reparaties."
+        }
+    },
+    "customDevelopment": {
+        "badge": "Softwareontwikkeling op Maat",
+        "title": "Applicatieontwikkeling op Maat voor Uw Bedrijf",
+        "subtitle": "Schaalbare, veilige en bedrijfsgerichte software",
+        "description": "Het SIRONIC-team biedt uitgebreide applicatieontwikkeling op maat voor uw bedrijf. Van webapplicaties en Windows-desktopsoftware tot mobiele apps – alle oplossingen zijn op maat gemaakt naar uw zakelijke behoeften met moderne technologieën.",
+        "cards": {
+            "webApps": {
+                "title": "Webapp-ontwikkeling op Maat",
+                "description": "TailScript en React-gebaseerde bedrijfswebapplicaties. Schaalbare, snelle en gebruiksvriendelijke oplossingen voor complexe bedrijfsprocessen."
+            },
+            "desktop": {
+                "title": "Windows Desktopsoftware",
+                "description": "Ontwikkeling van native Windows-applicaties met moderne technologieën. Efficiënte, snelle en betrouwbare software voor kantooromgevingen."
+            },
+            "mobile": {
+                "title": "Mobiele App-ontwikkeling",
+                "description": "Ontwikkeling van Android- en iOS-applicaties. Moderne, intuïtieve mobiele oplossingen die perfect werken op elk apparaat."
+            }
+        },
+        "cta": {
+            "main": "Vraag offerte voor ontwikkeling op maat",
+            "learnMore": "Lees meer"
+        }
+    },
+    "mindenCegnek": {
+        "badge": "Maandelijkse IT-support",
+        "title": "Elk bedrijf verdient een IT-afdeling",
+        "subtitle": "IT-oplossing, alsof u uw eigen IT-specialist heeft",
+        "description": "U hoeft geen IT-specialist in te huren om stabiele, veilige en snelle systemen te hebben. SIRONIC's maandelijkse abonnement werkt alsof u een intern team had – maar u betaalt alleen voor wat u echt nodig heeft.",
+        "features": {
+            "costEffective": "Kosteneffectieve, infrastructuur-geoptimaliseerde IT-support – flexibel, betrouwbaar, transparant.",
+            "discount": "Geldig tot 1 feb. 2026: 10% korting op de eerste 3 maanden voor partners die een consultatie aanvragen!"
+        },
+        "cta": {
+            "consultation": "Boek een gratis IT-consultatie!",
+            "learnMore": "Lees meer"
+        }
+    },
+    "whyChooseUs": {
+        "title": "Waarom voor ons kiezen?",
+        "reasons": [
+            "Gegarandeerde reactietijd: We leveren snelle interventie met vaste SLA's aan onze contractpartners.",
+            "Continue systeembewaking: 24/7 monitoringdienst om storingen te voorkomen.",
+            "Proactief onderhoud: We denken vooruit, we handelen voordat problemen ontstaan.",
+            "Betrouwbaarheid: 5+ jaar ervaring in ontwerp en beheer van systemen.",
+            "Transparante kosten: Geen verborgen kosten, vast maandelijks onderhoud of ad-hoc oplossingen.",
+            "Echte menselijke communicatie: Geen 'ticketjungle' – u kunt ons altijd bereiken.",
+            "Moderne IT-beveiliging: Gegevensbescherming en netwerkbeveiliging met moderne firewalls, back-ups en toegangsbeheer – veiligheid is standaard, geen extra.",
+            "Webontwikkeling & digitale aanwezigheid: Professionele, responsieve websites en systemen op maat die uw online zichtbaarheid vergroten en klanten aantrekken."
+        ]
+    },
+    "trust": {
+        "partners": {
+            "title": "Onze Technologiepartners"
+        },
+        "reference": {
+            "quote": "Volledige IT-overname en opschoning: stabilisatie en modernisering van een kantoornetwerk voor 40 personen in minder dan 30 dagen."
+        }
+    },
+    "testimonials": {
+        "title": "Wat onze klanten zeggen",
+        "items": [
+            {
+                "quote": "Met het SIRONIC-team slapen we eindelijk goed: onze IT-systemen draaien stabiel, snel en veilig. Wanneer er problemen ontstaan, reageren ze direct en leggen alles uit in duidelijke taal – geen technisch jargon. Het is zeldzaam om zo'n betrouwbare partner in de IT-wereld te vinden.",
+                "company": "Pervector Ltd."
+            },
+            {
+                "quote": "We hadden vroeger constant problemen met computers en het netwerk, maar sinds we SIRONIC onze IT toevertrouwden, loopt alles soepel. Ze helpen snel, ongeacht het probleem, en we vinden altijd oplossingen samen met hen. Het is precies het soort support dat elk bedrijf nodig heeft.",
+                "company": "Bocskai Alba Flexum Ltd."
+            },
+            {
+                "quote": "SIRONIC creëerde een moderne, strakke en mobielvriendelijke website voor ons, die er niet alleen goed uitziet, maar ook onze klanten helpt ons gemakkelijk online te vinden. Ze hebben sindsdien het onderhoud verzorgd – elke update en wijziging gebeurt snel en nauwkeurig. We kregen een uitgebreide, professionele service.",
+                "company": "Bull & U Ltd."
+            },
+            {
+                "quote": "We wilden een schone, snelle en moderne website – SIRONIC leverde precies dat. Professioneel team, oog voor detail, en ze hebben altijd goede ideeën om het resultaat nog beter te maken. Onze nieuwe website weerspiegelt perfect onze bedrijfsidentiteit.",
+                "company": "Regia Dental Ltd."
+            }
+        ]
+    },
+    "workProcess": {
+        "title": "Hoe wij werken",
+        "steps": [
+            {
+                "step": "1",
+                "title": "Eerste contact",
+                "description": "Stuur ons een bericht of boek een gratis consultatie."
+            },
+            {
+                "step": "2",
+                "title": "IT-beoordeling",
+                "description": "We nemen uw behoeften door en geven deskundige aanbevelingen."
+            },
+            {
+                "step": "3",
+                "title": "Voorstel op maat",
+                "description": "We creëren een oplossing op maat ontworpen voor uw bedrijf."
+            }
+        ]
+    },
+    "faq": {
+        "title": "Veelgestelde Vragen",
+        "items": [
+            {
+                "question": "Welke bedrijven bedienen jullie?",
+                "answer": "SIRONIC specialiseert zich in het midden- en kleinbedrijf, maar we bieden ook oplossingen aan grotere bedrijven op basis van unieke behoeften. Of het nu gaat om ondersteuning bij systeembeheer, netwerkbouw of webontwikkeling – we vinden de perfecte IT-oplossing voor elk bedrijf."
+            },
+            {
+                "question": "Hoe onderscheidt SIRONIC zich van andere IT-dienstverleners?",
+                "answer": "We zijn niet zomaar 'reparateurs' – we monitoren systemen proactief, voorkomen problemen en communiceren in menselijke taal. We laten IT geen obstakel zijn, maar smeden er juist een concurrentievoordeel van."
+            },
+            {
+                "question": "Hoe snel reageren jullie op een foutmelding?",
+                "answer": "Over het algemeen reageren we binnen 1–4 uur, in noodgevallen zelfs onmiddellijk. Aan onze abonnementspartners geven we gegarandeerde reactietijden."
+            },
+            {
+                "question": "Komen jullie langs op locatie of geven jullie alleen support op afstand?",
+                "answer": "Ja, beide! We lossen de meeste fouten op via toegang op afstand, maar indien nodig gaan we ook persoonlijk naar de locatie."
+            },
+            {
+                "question": "Maken jullie websites helemaal vanaf nul?",
+                "answer": "Natuurlijk. We ontwikkelen unieke, responsieve websites met moderne technologieën (Next.js, React, Tailwind), en zorgen ervoor dat de site snel, veilig en zoekmachine-geoptimaliseerd is."
+            },
+            {
+                "question": "Wat is CRM Pro, en hoe helpt het mijn bedrijf?",
+                "answer": "CRM Pro is een klantbeheersysteem op maat, dat verkoopprocessen transparant maakt, administratie automatiseert en geïntegreerd kan worden met bestaande systemen. Beschikbaar in een prijscategorie die ook betaalbaar is voor kleinere bedrijven."
+            },
+            {
+                "question": "Welke veiligheidsmaatregelen gebruiken jullie?",
+                "answer": "We gebruiken moderne firewalls, databack-up-oplossingen, encryptie en toegangsbeheer. We ontwerpen al onze systemen om GDPR-conform te zijn, dus gegevensbeveiliging is standaard."
+            },
+            {
+                "question": "In welke vorm kunnen we een contract met jullie afsluiten?",
+                "answer": "We werken in twee hoofdconstructies: ad-hoc werkzaamheden (voor incidentele taken) en maandelijks onderhoudscontract (permanente werking en support). Beide zijn transparant, met vaste prijzen."
+            },
+            {
+                "question": "Hoeveel kost de ontwikkeling van een website of systeem?",
+                "answer": "Basiswebsites beginnen vanaf 250.000 HUF (ca. 700€), terwijl de prijs van unieke systemen of CRM-oplossingen wordt bepaald door functionaliteit. We geven een exacte prijsopgave voor elk project."
+            },
+            {
+                "question": "Waarom is het de moeite waard om voor cloudoplossingen te kiezen?",
+                "answer": "De cloud is snel, veilig en flexibel – geen noodzaak om uw eigen server te onderhouden, gegevens zijn altijd beschikbaar, en uitbreiding kan in een oogwenk worden geregeld."
+            }
+        ]
+    },
+    "finalCta": {
+        "title": "Klaar voor zorgeloze IT?",
+        "description": "Boek een gratis consultatie, en laten we samen de beste oplossing voor uw bedrijf vinden.",
+        "button": "Vraag nu offerte aan"
+    },
+    "contact": {
+        "title": "Neem contact op",
+        "subtitle": "Heeft u vragen, of wilt u een gratis consultatie? Neem contact op, we antwoorden snel!",
+        "form": {
+            "title": "Stuur een bericht",
+            "name": "Naam",
+            "companyName": "Bedrijfsnaam (Optioneel)",
+            "email": "E-mail",
+            "service": "In welke dienst bent u geïnteresseerd?",
+            "servicePlaceholder": "Maak een keuze...",
+            "message": "Bericht",
+            "submit": "Boek gratis IT-consultatie!",
+            "submitting": "Verzenden...",
+            "required": "*",
+            "success": "Uw bericht is verzonden! We nemen spoedig contact met u op.",
+            "error": "Er is een fout opgetreden bij het verzenden van uw bericht",
+            "noscript": "U kunt uw bericht ook sturen via e-mail:",
+            "options": {
+                "placeholder": "Kies een dienst",
+                "mindenCegnek": "Elk bedrijf zou een IT-specialist moeten hebben",
+                "systemOperation": "Systeembeheer en IT-onderhoud",
+                "networking": "Netwerkbouw en ontwikkeling",
+                "security": "IT-beveiliging en privacy",
+                "development": "Website- en systeemontwikkeling",
+                "commerce": "Handel – IT-apparaten en software",
+                "hosting": "Hosting en cloudoplossingen",
+                "repair": "Service en reparatie",
+                "training": "IT-training en kennisontwikkeling"
+            },
+            "errors": {
+                "general": "Er is een netwerkfout opgetreden. Probeer het later opnieuw."
+            }
+        },
+        "info": {
+            "title": "Contactinformatie",
+            "email": "E-mail",
+            "phone": "Telefoon",
+            "location": "Locatie",
+            "hours": "Openingstijden",
+            "hoursValue": "Maandag – Vrijdag\n8:00 – 17:00",
+            "quickResponse": "Snel antwoord",
+            "quickResponseText": "We beantwoorden doorgaans alle vragen binnen 24 uur op werkdagen. Voor noodgevallen, bel ons!"
+        }
+    },
+    "footer": {
+        "companyName": "SIRONIC IT Solutions",
+        "tagline": "Uitgebreide IT-oplossingen voor het midden- en kleinbedrijf",
+        "legalName": "Skoda Dávid András Eenmanszaak",
+        "address": "8000 Székesfehérvár, Lövölde utca 24 4/15",
+        "taxNumber": "BTW-ID: 45755754-2-27",
+        "links": "Snelle Links",
+        "hours": "Openingstijden",
+        "hoursValue": "Maandag – Vrijdag\n8:00 – 17:00",
+        "cookieSettings": "Cookie-instellingen",
+        "copyright": "© {year} SIRONIC IT Solutions. Alle rechten voorbehouden."
+    },
+    "common": {
+        "readMore": "Lees meer",
+        "learnMore": "Lees er meer over",
+        "getQuote": "Vraag offerte aan",
+        "contactUs": "Contact",
+        "loading": "Laden...",
+        "whatYouGet": "Wat u krijgt:"
+    },
+    "servicesPage": {
+        "title": "Onze Diensten",
+        "subtitle": "Complete IT-oplossingen om uw bedrijf veilig en efficiënt te houden. Van onderhoud tegen een vaste prijs tot ontwikkeling op maat – alles op één plek.",
+        "cta": {
+            "title": "Geïnteresseerd in een van onze diensten?",
+            "subtitle": "Boek een gratis consultatie, en laten we samen de beste oplossing voor uw bedrijf vinden.",
+            "requestQuote": "Vraag nu offerte aan",
+            "reportService": "Meld serviceprobleem"
+        },
+        "details": {
+            "systemOperation": {
+                "features": [
+                    "Proactieve monitoring en onderhoud",
+                    "Snelle probleemoplossing",
+                    "Regelmatige beveiligingsupdates",
+                    "Prestatie-optimalisatie"
+                ]
+            },
+            "networking": {
+                "features": [
+                    "Netwerkontwerp en implementatie",
+                    "Optimalisatie van WiFi-netwerken",
+                    "VPN en toegang op afstand",
+                    "Netwerkbeveiliging"
+                ]
+            },
+            "security": {
+                "features": [
+                    "Firewallconfiguratie en beheer",
+                    "Automatische back-ups",
+                    "Privacyregelgeving (GDPR)",
+                    "Virus- en malwarebescherming"
+                ]
+            },
+            "development": {
+                "features": [
+                    "Moderne, responsieve websites",
+                    "E-commerce oplossingen",
+                    "Softwareontwikkeling op maat",
+                    "SEO-optimalisatie"
+                ]
+            },
+            "commerce": {
+                "description": "U kunt alles wat nodig is voor kantoorbeheer bij ons verkrijgen – computers, monitoren, printers, servers, netwerkapparaten en softwarelicenties. We werken met betrouwbare merken en helpen u bij het kiezen van de beste prijs-kwaliteitverhouding. Of u nu nieuwe apparatuur nodig heeft of upgrades, wij zorgen ervoor.",
+                "features": [
+                    "Computers, laptops en servers",
+                    "Netwerkapparaten en randapparatuur",
+                    "Aanschaf van softwarelicenties",
+                    "Advies bij keuze van apparatuur"
+                ]
+            },
+            "hosting": {
+                "description": "We bieden stabiele, snelle en veilige hostingoplossingen voor websites, e-mail en databack-up. We zorgen ervoor dat uw gegevens altijd beschikbaar en beschermd zijn via ons eigen serverpark of betrouwbare internationale partners.",
+                "features": [
+                    "Webhosting en domeinregistratie",
+                    "E-mailhosting",
+                    "Cloud-based back-up en bestandsdeling",
+                    "Serverhuur en beheer"
+                ]
+            },
+            "repair": {
+                "title": "Service en Reparatie – On-site of via post",
+                "description": "Snelle en betrouwbare reparatie van computers, laptops, servers en netwerkapparaten. On-site service in Székesfehérvár en omgeving, of postservice. We starten elke reparatie met een diagnose, en gaan alleen verder na uw goedkeuring van de offerte. Ons doel is om uw systeem zo snel mogelijk weer draaiende te krijgen.",
+                "features": [
+                    "Service on-site (Székesfehérvár en omgeving)",
+                    "Mogelijkheid voor postinzending",
+                    "Transparante offerte voor reparatie",
+                    "Snelle reparatietijd"
+                ]
+            },
+            "training": {
+                "title": "IT-training en Kennisontwikkeling",
+                "description": "Ontwikkel de digitale vaardigheden van uw team! We bieden persoonlijke IT-training, bewustwordingstraining voor beveiliging en systeemniveau-kennisontwikkeling, zodat medewerkers veilig gebruik kunnen maken van moderne apparaten en software. Veilige werking begint bij informatie.",
+                "features": [
+                    "Persoonlijke IT-training",
+                    "Bewustwordingstraining beveiliging",
+                    "Gebruikerstraining software en apparaten",
+                    "Bedrijfskennisontwikkelingsprogramma's"
+                ]
+            }
+        }
+    },
+    "productsPage": {
+        "breadcrumb": {
+            "home": "Home",
+            "products": "Producten"
+        },
+        "title": "Onze Producten – Sironic-technologie in Echte Oplossingen",
+        "subtitle": "Onze interne ontwikkelingen werden tot leven gebracht door echte behoeften – deze systemen ondersteunen nu de werking van meerdere bedrijven. Zie hoe ze ook uw bedrijf kunnen helpen.",
+        "noProducts": "Er zijn momenteel geen producten om weer te geven. Ons assortiment wordt binnenkort uitgebreid!",
+        "cta": {
+            "title": "Geïnteresseerd in een van onze producten?",
+            "subtitle": "Neem contact met ons op, en we laten zien hoe onze systemen in uw bedrijf kunnen passen. Al onze producten zijn ontwikkeld op basis van echte zakelijke behoeften.",
+            "consultation": "Boek Consultatie",
+            "services": "Onze Diensten"
+        },
+        "whyChoose": {
+            "title": "Waarom kiezen voor Sironic-producten?",
+            "reasons": [
+                {
+                    "title": "Oplossingen voor echte problemen",
+                    "description": "Al onze producten zijn in de praktijk getest en bewezen bij actieve bedrijven."
+                },
+                {
+                    "title": "Hongaarse taalondersteuning",
+                    "description": "U kunt ons rechtstreeks bereiken, geen taalbarrière of geautomatiseerde antwoordsystemen."
+                },
+                {
+                    "title": "Continue Ontwikkeling",
+                    "description": "We breiden onze productfuncties regelmatig uit en verbeteren deze op basis van klantfeedback."
+                },
+                {
+                    "title": "Aanpassingsmogelijkheden",
+                    "description": "We kunnen onze producten aanpassen aan uw behoeften en integreren in uw bestaande systemen."
+                }
+            ]
+        }
+    },
+    "aboutPage": {
+        "title": "Over ons",
+        "intro": [
+            "SIRONIC IT Solutions startte tijdens de COVID-periode, waarin elk bedrijf gedwongen werd zijn IT-werking te heroverwegen. Sindsdien hebben we ons continu ontwikkeld en zijn we bijgebleven met de snelle veranderingen in de IT-wereld – omdat we geloven dat technologie een voordeel kan zijn, geen last, voor elk bedrijf.",
+            "Ons doel is dat het midden- en kleinbedrijf niet hoeft te worstelen met IT-problemen. We onderhouden niet alleen systemen – we bieden stabiliteit, zekerheid en gemoedsrust voor het bedrijf.",
+            "Of het nu gaat om systeembeheer, netwerkbouw, gegevensbeveiliging of webontwikkeling, elke IT-oplossing is bij ons in één hand – snel, transparant en in menselijke taal."
+        ],
+        "stats": [
+            {
+                "value": "5+",
+                "label": "Jaar Ervaring"
+            },
+            {
+                "value": "100+",
+                "label": "Tevreden Klanten"
+            },
+            {
+                "value": "24/7",
+                "label": "Beschikbaarheid"
+            },
+            {
+                "value": "99.9%",
+                "label": "Uptime"
+            }
+        ],
+        "mission": {
+            "title": "SIRONIC's Missie",
+            "paragraphs": [
+                "We weten dat voor een klein of middelgroot bedrijf IT geen obstakel moet zijn – het moet gewoon werken, elke dag, foutloos. Een storing, een traag netwerk of een verouderde beveiligingsinstelling kan vandaag de dag ernstige verliezen veroorzaken.",
+                "Daarom hebben we SIRONIC IT Solutions gecreëerd: om professionele, maar toch betaalbare IT-achtergrond toegankelijk te maken voor elk bedrijf. U hoeft geen eigen systeembeheerder in te huren, u hoeft geen complexe of dure infrastructuren te bouwen – wij zorgen voor alles.",
+                "Onze diensten dekken de volledige IT-werking: systeembeheer, netwerkbouw, back-up van gegevens, IT-beveiliging, firewallbeheer, webontwikkeling en IT-training. We passen ons altijd aan de huidige technologie aan, zodat onze klanten er zeker van kunnen zijn dat hun bedrijfs-IT-systemen up-to-date en veilig zijn.",
+                "SIRONIC levert niet alleen IT – maar gemoedsrust, voorspelbaarheid en steun. Wij zijn degenen die u op elk moment kunt bellen als er een probleem is – en vaak lossen we het op voordat u het überhaupt merkt.",
+                "We behandelen elke klant als een partner, onderhouden niet alleen hun systemen, maar zorgen voor hun bedrijf op lange termijn."
+            ]
+        },
+        "values": {
+            "title": "Waarom met ons werken?",
+            "items": [
+                {
+                    "title": "Proactieve Houding",
+                    "description": "We handelen niet alleen als er problemen zijn. We monitoren uw systemen continu om problemen te voorkomen."
+                },
+                {
+                    "title": "Menselijke Communicatie",
+                    "description": "Geen 'ticketjungle' hier. U spreekt met echte mensen die uw probleem begrijpen en snel helpen."
+                },
+                {
+                    "title": "Transparantie",
+                    "description": "Vast maandelijks onderhoud of eenmalige oplossingen – geen verborgen kosten, u weet altijd wat u kunt verwachten."
+                }
+            ]
+        },
+        "howWeWork": {
+            "title": "Hoe werken wij?",
+            "steps": [
+                "We luisteren naar uw behoeften en beoordelen uw huidige IT-systeem",
+                "We geven een aanbeveling over de beste oplossing voor u",
+                "We installeren, optimaliseren en monitoren uw systeem",
+                "We bieden doorlopende support wanneer u ons nodig heeft"
+            ]
+        },
+        "finalCta": {
+            "title": "Word een van onze partners!",
+            "subtitle": "Boek een gratis consultatie, dan vinden we samen de beste IT-oplossing voor uw bedrijf.",
+            "button": "Laten we in contact komen"
+        }
+    },
+    "pricingPage": {
+        "title": "Prijsstelling",
+        "subtitle": "We creëren aanbiedingen op maat op basis van uw zakelijke behoeften. Geen twee bedrijven zijn hetzelfde – dus we stemmen onze tarieven altijd af op uw infrastructuur en eisen.",
+        "heroTitle": "Transparante Prijsstelling – Duidelijk en Eenvoudig",
+        "heroDescription": "Geen verborgen kosten. We hebben onze diensten zo ontworpen dat elk bedrijf de juiste oplossing kan vinden – of het nu gaat om onderhoud, ontwikkeling of reparatie.",
+        "packages": {
+            "mindenCegnek": {
+                "title": "Elk bedrijf verdient een IT-afdeling",
+                "price": "vanaf 150 €/maand",
+                "description": "Volledig IT-beheer in een maandelijks abonnement – als het hebben van uw eigen IT-specialist.",
+                "features": [
+                    "Continue systeembewaking en onderhoud",
+                    "Snelle interventie bij storingen",
+                    "Consultatie over infrastructuurontwikkeling",
+                    "Beheer van back-up en updates",
+                    "Persoonlijke, Hongaarstalige IT-support"
+                ],
+                "badge": "🎁 Geldig tot 1 feb. 2026: 10% korting op de eerste 3 maanden voor consultatieaanvragen!",
+                "ctaText": "Boek Consultatie"
+            },
+            "systemOperation": {
+                "title": "Systeembeheer & IT-onderhoud",
+                "price": "vanaf 120 €/maand",
+                "description": "Continue monitoring en ononderbroken werking.",
+                "features": [
+                    "Regelmatig onderhoud en monitoring",
+                    "Snelle probleemoplossing en herstel",
+                    "Server- en netwerkmonitoring",
+                    "Proactief beheer en beveiligingsupdates"
+                ],
+                "ctaText": "Vraag Offerte Aan"
+            },
+            "networking": {
+                "title": "Netwerkbouw & Ontwikkeling",
+                "price": "vanaf 180 € / project",
+                "description": "Betrouwbaar, veilig ontwerp en implementatie van netwerkinfrastructuur.",
+                "features": [
+                    "Compleet netwerkontwerp en installatie",
+                    "Router, switch, Wi-Fi configuratie",
+                    "Netwerkoptimalisatie en -onderhoud",
+                    "Snelle, stabiele en veilige dataverbinding"
+                ],
+                "ctaText": "Vraag Offerte Aan"
+            },
+            "security": {
+                "title": "IT-beveiliging & Privacy",
+                "price": "vanaf 240 €",
+                "description": "Bescherm uw bedrijfsgegevens met moderne oplossingen.",
+                "features": [
+                    "Firewallinstallatie en netwerkbeveiliging",
+                    "Back-up en herstel",
+                    "Toegangsbeheer, encryptie",
+                    "GDPR-conforme gegevensbescherming"
+                ],
+                "ctaText": "Vraag Offerte Aan"
+            },
+            "development": {
+                "title": "Website- & Systeemontwikkeling",
+                "price": "vanaf 1.000 € (eenmalig)",
+                "description": "Professionele, op maat gemaakte ontwikkelingen voor de digitale groei van uw bedrijf.",
+                "features": [
+                    "Responsieve websites en portals",
+                    "Softwareoplossingen op maat",
+                    "SEO- en UX-optimalisatie",
+                    "Continue support en onderhoud"
+                ],
+                "ctaText": "Vraag Offerte Aan"
+            },
+            "commerce": {
+                "title": "Handel – IT-apparatuur & Software",
+                "price": "Op basis van offerte op maat",
+                "description": "Alles wat nodig is voor modern kantoorbeheer.",
+                "features": [
+                    "Computers, monitoren, servers",
+                    "Printers en netwerkapparaten",
+                    "Softwarelicenties en abonnementen",
+                    "Complete kantoorinfrastructuur"
+                ],
+                "ctaText": "Vraag Offerte Aan"
+            },
+            "hosting": {
+                "title": "Hosting & Cloudoplossingen",
+                "price": "vanaf 15 €/maand",
+                "description": "Snelle, veilige en schaalbare hosting voor bedrijven.",
+                "features": [
+                    "Web- en e-mailhosting",
+                    "Cloud-based back-up",
+                    "Private cloud-dienst",
+                    "Continue beschikbaarheid (99,9%)"
+                ],
+                "ctaText": "Vraag Offerte Aan"
+            },
+            "crm": {
+                "title": "CRM-ontwikkeling op maat",
+                "price": "vanaf 1.500 €",
+                "description": "Persoonlijk klantbeheersysteem dat de verkoopefficiëntie verhoogt.",
+                "features": [
+                    "Modulaire structuur, aanpasbare functies",
+                    "Integratie met bestaande systemen (ERP, e-mail, website)",
+                    "Geautomatiseerde rapporten en analyses",
+                    "Gebruiksvriendelijke interface"
+                ],
+                "ctaText": "Vraag Offerte Aan"
+            }
+        },
+        "customQuote": {
+            "title": "Heeft u unieke behoeften?",
+            "description": "Prijzen zijn indicatief; precieze offertes zijn altijd gebaseerd op de eisen.\nBoek een gratis consultatie, dan helpen we u de beste oplossing te vinden.",
+            "button": "Boek Gratis IT-consultatie"
+        },
+        "whyChoose": {
+            "title": "Waarom kiezen voor Sironic?",
+            "description": "Als geen enkel pakket perfect past, maken we een aanbieding op maat. Geen twee bedrijven zijn hetzelfde – en ook geen twee oplossingen.",
+            "reasons": [
+                {
+                    "title": "Transparante Prijsstelling",
+                    "description": "Geen verborgen kosten"
+                },
+                {
+                    "title": "Flexibele Pakketten",
+                    "description": "Maandelijkse en eenmalige oplossingen"
+                },
+                {
+                    "title": "Snelle Reactie",
+                    "description": "We helpen direct als het nodig is"
+                },
+                {
+                    "title": "Ondersteuning op Lange Termijn",
+                    "description": "We behandelen klanten als partners"
+                }
+            ],
+            "button": "Vraag Offerte op Maat"
+        }
+    },
+    "cookie": {
+        "title": "Cookie-instellingen",
+        "description": "We gebruiken cookies om uw gebruikerservaring te verbeteren en ons verkeer te analyseren. Door op \"Alles accepteren\" te klikken, stemt u in met ons gebruik van cookies.",
+        "accept": "Alles accepteren",
+        "decline": "Weigeren",
+        "manage": "Instellingen",
+        "privacy": "Privacybeleid"
+    },
+    "mindenCegnekPage": {
+        "hero": {
+            "badge": "Maandelijkse IT-support",
+            "title": "Elk bedrijf verdient een IT-afdeling",
+            "subtitle": "Alsof u uw eigen IT-specialist heeft",
+            "description": "Een dienst waarbij u geen IT-specialist hoeft in te huren – in plaats daarvan krijgt u een heel team dat alles op de achtergrond up-to-date houdt, monitort, onderhoudt en alleen ingrijpt als het nodig is.",
+            "cta": "Boek Consultatie",
+            "discount": "Geldig tot 1 feb. 2026: 10% korting op de eerste 3 maanden voor consultatieaanvragen!",
+            "scroll": "Scroll naar beneden voor meer info"
+        },
+        "whatYouGet": {
+            "title": "Wat krijgt u precies?",
+            "subtitle": "Een uitgebreide IT-oplossing die elke dag voor u werkt – onzichtbaar maar efficiënt.",
+            "features": {
+                "internet": {
+                    "title": "Continue internettoegang en stabiele werking",
+                    "description": "We zorgen ervoor dat uw bedrijfsnetwerk altijd beschikbaar, stabiel en veilig is – onopgemerkt, op de achtergrond."
+                },
+                "platform": {
+                    "title": "Uniek platform voor foutrapportage",
+                    "description": "U krijgt uw eigen interface waar u eenvoudig problemen of verzoeken kunt melden – we reageren direct."
+                },
+                "monitoring": {
+                    "title": "Continue monitoring en probleemoplossing",
+                    "description": "We monitoren servers, netwerken en systemen om fouten aan te pakken voordat u ze überhaupt merkt."
+                },
+                "cost": {
+                    "title": "Kosteneffectieve, transparante prijsstructuur",
+                    "description": "Bovenop de vaste maandelijkse kosten betaalt u alleen voor wat er daadwerkelijk opgelost moet worden – op basis van een overeengekomen prijslijst."
+                },
+                "reporting": {
+                    "title": "Geüpdatete systemen, maandrapport",
+                    "description": "We updaten en onderhouden systemen voortdurend en sturen aan het eind van elke maand een rapport over prestaties en systeemstatus."
+                }
+            }
+        },
+        "benefits": {
+            "title": "Waarom is dit goed voor u?",
+            "subtitle": "Kosteneffectieve, transparante en betrouwbare IT-support – zonder uw eigen IT-afdeling te onderhouden.",
+            "items": [
+                "Geen noodzaak om eigen IT-personeel in te huren – maar iemand waakt over uw systemen",
+                "Vaste maandelijkse kosten, voorspelbare uitgaven",
+                "Snelle reactietijd bij problemen",
+                "Proactief onderhoud en monitoring",
+                "Nederlands-, Engels- of Hongaarstalige persoonlijke support",
+                "Maandrapporten over systeemstatus",
+                "Schaalbare oplossing – als uw bedrijf groeit, breiden wij ook uit",
+                "Geen verrassingsrekeningen – alles wordt vooraf afgesproken"
+            ]
+        },
+        "pricing": {
+            "title": "Hoe werkt de prijsstelling?",
+            "subtitle": "Eenvoudige en transparante structuur – vast maandelijks tarief plus overeengekomen uurtarief indien nodig.",
+            "fixed": {
+                "title": "Vast maandelijks tarief",
+                "price": "vanaf 150 €/maand",
+                "description": "Inclusief monitoring, basisonderhoud, rapportage en support."
+            },
+            "hourly": {
+                "title": "Plus arbeidsloon",
+                "price": "Overeengekomen uurtarief",
+                "description": "U betaalt alleen als daadwerkelijke interventie of ontwikkeling nodig is."
+            },
+            "note": "Prijsstelling hangt af van contractduur en taaktypes. Vraag een offerte op maat!"
+        },
+        "finalCta": {
+            "title": "U heeft geen eigen IT-specialist nodig, alleen een betrouwbare partner",
+            "description": "Wij leveren expertise, snelle reactie en stabiele werking – u kunt zich focussen op uw bedrijf.",
+            "button": "Vraag Offerte Aan"
+        }
+    },
+    "customDevelopmentPage": {
+        "breadcrumb": {
+            "home": "Home",
+            "customDevelopment": "Applicatieontwikkeling op Maat"
+        },
+        "hero": {
+            "title": "Applicatieontwikkeling op Maat",
+            "subtitle": "Moderne, schaalbare en bedrijfsgerichte softwareoplossingen op maat van uw zakelijke behoeften",
+            "description": "Meer dan alleen websites bouwen – we ontwikkelen complexe applicaties die echte waarde creëren voor uw bedrijf. Van TailScript en React-gebaseerde webapplicaties tot native Windows-software en Android/iOS mobiele apps.",
+            "cta": "Boek Gratis Consultatie",
+            "scrollDown": "Scroll naar beneden voor details"
+        },
+        "what": {
+            "title": "Wat ontwikkelen wij?",
+            "subtitle": "Uitgebreide softwareoplossingen op maat met geavanceerde technologieën",
+            "items": [
+                {
+                    "title": "TailScript-gebaseerde Webapplicaties",
+                    "description": "Snelle, moderne en efficiënte websystemen met TailScript-technologie. Schaalbare oplossingen voor complexe bedrijfsprocessen die probleemloos werken in elke browser."
+                },
+                {
+                    "title": "React Bedrijfsapplicaties",
+                    "description": "Webapplicaties op bedrijfsniveau met React en Next.js. Intuïtieve gebruikersinterface, snelle laadtijd, SEO-geoptimaliseerde structuur – alles wat nodig is voor moderne bedrijfsapplicaties."
+                },
+                {
+                    "title": "Windows Desktopsoftware",
+                    "description": "Ontwikkeling van native Windows-applicaties met .NET en moderne C#-technologieën. Snelle, betrouwbare desktopoplossingen die naadloos integreren in bedrijfsomgevingen."
+                },
+                {
+                    "title": "Mobiele App-ontwikkeling – Android + iOS",
+                    "description": "Native en cross-platform mobiele applicaties met React Native en Flutter. Eén codebase, twee platforms – snelle ontwikkeling, uitstekende gebruikerservaring op beide systemen."
+                }
+            ]
+        },
+        "whyChoose": {
+            "title": "Waarom kiezen voor SIRONIC bij ontwikkeling op maat?",
+            "subtitle": "We coderen niet alleen – we zijn partners in het bereiken van uw bedrijfsdoelen",
+            "reasons": [
+                {
+                    "title": "Echt Zakelijk Inzicht",
+                    "description": "We zijn niet alleen programmeurs – we begrijpen bedrijfsprocessen. Elke ontwikkeling is afgestemd op uw behoeften om echte waarde te creëren."
+                },
+                {
+                    "title": "Moderne Technologie",
+                    "description": "React, Next.js, TailScript, .NET, React Native – we werken met de meest geavanceerde tools die snel, veilig en toekomstbestendig zijn."
+                },
+                {
+                    "title": "Langdurig Partnerschap",
+                    "description": "We stoppen niet bij ontwikkeling. We leveren doorlopende support, onderhoud en doorontwikkeling – software blijft altijd bij met uw bedrijfsbehoeften."
+                },
+                {
+                    "title": "Transparante Communicatie",
+                    "description": "Hongaars/Engels/Nederlandstalige, directe communicatie. Geen taalbarrières, geen misverstanden – u weet altijd waar het project staat."
+                },
+                {
+                    "title": "Veiligheid en Betrouwbaarheid",
+                    "description": "Al onze applicaties zijn gebouwd met veilige gegevensverwerking, GDPR-conforme structuur en stabiele werking."
+                },
+                {
+                    "title": "Schaalbaarheid",
+                    "description": "We ontwerpen onze systemen om met uw bedrijf mee te groeien – geen noodzaak om te herschrijven wanneer u uitbreidt."
+                }
+            ]
+        },
+        "technologies": {
+            "title": "Welke technologieën gebruiken we?",
+            "subtitle": "De meest moderne en betrouwbare tools op de markt",
+            "list": [
+                "React & Next.js – moderne, SEO-vriendelijke webapplicaties",
+                "TailScript – snelle en schaalbare websystemen",
+                "TypeScript – type-veilige, foutloze code",
+                "Node.js & Express – robuuste backend-oplossingen",
+                ".NET & C# – native Windows-software",
+                "React Native & Flutter – cross-platform mobiele applicaties",
+                "Tailwind CSS – modern, responsief ontwerp",
+                "PostgreSQL, MySQL – betrouwbaar databasebeheer",
+                "Docker & Cloud – schaalbare en veilige infrastructuur"
+            ]
+        },
+        "process": {
+            "title": "Hoe werken wij?",
+            "subtitle": "Transparant, gestructureerd ontwikkelingsproces – stap voor stap",
+            "steps": [
+                {
+                    "number": "1",
+                    "title": "Eisenanalyse en Consultatie",
+                    "description": "We leren uw bedrijfsdoelen, verwachtingen en huidige systemen kennen. We verduidelijken precies wat u wilt bereiken met de software."
+                },
+                {
+                    "number": "2",
+                    "title": "UX/UI-ontwerp en Opbouw van Structuur",
+                    "description": "We ontwerpen de gebruikerservaring en interface. Wireframes, designs en interactieplannen – zodat we precies weten wat we bouwen."
+                },
+                {
+                    "number": "3",
+                    "title": "Ontwikkeling en Continue Afstemming",
+                    "description": "Het daadwerkelijke coderen. We communiceren voortdurend, tonen voortgang en reageren op uw behoeften – zodat er geen verrassingen zijn bij oplevering."
+                },
+                {
+                    "number": "4",
+                    "title": "Testen en Kwaliteitsborging",
+                    "description": "Grondig testen op elk apparaat en browser. Prestatie-, veiligheids- en functietests – om er zeker van te zijn dat alles foutloos werkt."
+                },
+                {
+                    "number": "5",
+                    "title": "Live-gang en Training",
+                    "description": "Software-implementatie en gebruikerstraining. U krijgt alle documentatie en support voor probleemloze werking."
+                },
+                {
+                    "number": "6",
+                    "title": "Onderhoud en Doorontwikkeling",
+                    "description": "Doorlopende support, bugfixes en verdere ontwikkeling. Software blijft altijd up-to-date en houdt gelijke tred met uw behoeften."
+                }
+            ]
+        },
+        "useCases": {
+            "title": "Waar is een applicatie op maat goed voor?",
+            "subtitle": "Echte zakelijke problemen die we oplossen met software op maat",
+            "examples": [
+                "CRM en klantbeheersystemen – houd uw klanten onder controle",
+                "Magazijn- en logistieksoftware – geautomatiseerd voorraadbeheer",
+                "Interne bedrijfsportals – alle gegevens op één plek",
+                "E-commerce en webshopontwikkeling – online verkoopkanalen",
+                "Projectmanagementtools – teamwerk en taakopvolging",
+                "Geautomatiseerde rapporten en administratie – bespaar tijd",
+                "Integratie met bestaande systemen – ERP, facturatie, CRM-koppeling",
+                "Mobiele applicaties – in de handen van klanten en medewerkers"
+            ]
+        },
+        "pricing": {
+            "title": "Hoeveel kost een applicatie op maat?",
+            "subtitle": "Elk project is uniek – prijsstelling is altijd gebaseerd op eisen",
+            "description": "De prijs van applicatieontwikkeling op maat hangt af van de complexiteit, functionaliteit en tijdsduur van het project. Kleine applicaties beginnen vanaf 2.000 €, grotere bedrijfssystemen kunnen tienduizenden kosten – maar we stellen altijd een offerte op maat op.",
+            "process": "In een gratis consultatie beoordelen we uw behoeften, bespreken mogelijkheden en geven een duidelijk, vast aanbod voor het hele project.",
+            "cta": "Vraag Gratis Offerte Aan"
+        },
+        "faq": {
+            "title": "Veelgestelde Vragen",
+            "items": [
+                {
+                    "question": "Hoe lang duurt ontwikkeling op maat?",
+                    "answer": "Dat hangt af van de omvang van het project – een eenvoudigere webapplicatie duurt 4-8 weken, terwijl een complex bedrijfssysteem 3-6 maanden kan duren. We spreken altijd deadlines af in de offerte."
+                },
+                {
+                    "question": "Kunnen jullie integreren met bestaande systemen?",
+                    "answer": "Ja! We integreren regelmatig met ERP, CRM, facturatiesystemen en andere externe API's. Dit is een van de grootste voordelen van ontwikkeling op maat."
+                },
+                {
+                    "question": "Wie is eigenaar van de broncode?",
+                    "answer": "Na het project wordt de broncode uw volledige eigendom – geen verborgen licentiekosten of afhankelijkheden."
+                },
+                {
+                    "question": "Hoe zit het met onderhoud en doorontwikkeling?",
+                    "answer": "We bieden support na oplevering: bugfixes, updates, verdere ontwikkeling – met optionele maandelijkse of eenmalige oplossingen."
+                },
+                {
+                    "question": "Welke garantie krijgen we op de applicatie?",
+                    "answer": "Er is 6 maanden garantie op fouten na oplevering – we corrigeren alle functionele problemen gratis in deze periode."
+                }
+            ]
+        },
+        "finalCta": {
+            "title": "Klaar voor een softwareoplossing op maat?",
+            "description": "Laten we uw behoeften bespreken en samen een applicatie creëren die de efficiëntie van uw bedrijf echt verhoogt.",
+            "button": "Boek Gratis Consultatie"
+        }
+    },
+    "itTraining": {
+        "badge": "IT-training & Opleiding",
+        "title": "IT-training & Kennisontwikkeling",
+        "subtitle": "Ontwikkel de digitale vaardigheden van uw team",
+        "description": "We bieden persoonlijke IT-training, bewustwordingsworkshops over beveiliging en systeemniveau-kennisontwikkeling om ervoor te zorgen dat uw medewerkers moderne tools en software met vertrouwen gebruiken. Veilige werking begint bij informatie.",
+        "cards": {
+            "personalized": {
+                "title": "Persoonlijke IT-training",
+                "description": "Aangepaste trainingsprogramma's om de digitale vaardigheid van uw team te verbeteren. Praktische kennis die direct toepasbaar is in het dagelijkse werk."
+            },
+            "security": {
+                "title": "Bewustwordingstraining beveiliging",
+                "description": "Essentiële cybersecurity en gegevensbeschermingsworkshops. Leer uw team hoe ze bedrijfsgegevens en systemen effectief kunnen beschermen."
+            },
+            "software": {
+                "title": "Gebruikerstraining software & apparaten",
+                "description": "Effectief gebruik van Microsoft 365, Google Workspace en kantoortools. Verhoog de productiviteit door de juiste tools te beheersen."
+            },
+            "corporate": {
+                "title": "Bedrijfskennisontwikkelingsprogramma's",
+                "description": "Langdurige ontwikkeling van digitale competenties. Continue opleidingsprogramma's die gelijke tred houden met technologische vooruitgang."
+            }
+        },
+        "languageNote": "Trainingssessies zijn momenteel alleen beschikbaar in het Hongaars, zowel online als op locatie.",
+        "cta": {
+            "main": "Vraag Trainingsofferte Aan",
+            "learnMore": "Lees Meer"
+        }
+    },
+    "itTrainingPage": {
+        "meta": {
+            "title": "IT-training & Bedrijfsopleiding | SIRONIC",
+            "description": "Praktische IT-training voor bedrijven: bewustwording beveiliging, softwaregebruik en digitale competentieontwikkeling. Upgrade de vaardigheden van uw team!",
+            "keywords": [
+                "IT-training",
+                "bedrijfsopleiding",
+                "bewustwording beveiliging",
+                "digitale competentie",
+                "Excel-cursus",
+                "IT-workshop"
+            ],
+            "ogTitle": "IT-training & Bedrijfsopleiding - SIRONIC",
+            "ogDescription": "Praktische IT-training voor bedrijven. Upgrade de digitale vaardigheden van uw team met ons!"
+        },
+        "breadcrumb": {
+            "home": "Home",
+            "training": "IT-training"
+        },
+        "hero": {
+            "title": "IT-training & Kennisontwikkeling",
+            "subtitle": "Ontwikkel de digitale vaardigheden van uw team met professionele training",
+            "description": "SIRONIC beheert niet alleen IT-systemen – we ontwikkelen ook de digitale kennis van uw medewerkers. Met onze persoonlijke trainingen zal uw team moderne tools met vertrouwen gebruiken en zich bewust zijn van beveiligingsrisico's.",
+            "cta": "Boek Gratis Consultatie",
+            "scrollDown": "Scroll naar beneden voor details"
+        },
+        "intro": {
+            "title": "Waarom is Bedrijfs-IT-training Belangrijk?",
+            "content": [
+                "Zelfs de beste IT-infrastructuur is niet genoeg als medewerkers deze niet effectief kunnen gebruiken. Slechte toolkennis, gebrek aan beveiligingsbewustzijn en verouderde workflows verminderen de productiviteit en verhogen het risico.",
+                "Met SIRONIC's IT-trainingsprogramma's krijgt uw team up-to-date kennis, werkt met meer zelfvertrouwen en beschermt bedrijfsgegevens bewust. Al onze trainingen zijn praktisch, persoonlijk en direct toepasbaar in het dagelijkse werk."
+            ]
+        },
+        "services": {
+            "title": "Welke Training Bieden Wij?",
+            "subtitle": "Praktische, zakelijk gerichte training op elk niveau",
+            "items": [
+                {
+                    "title": "Persoonlijke IT-training",
+                    "description": "Aangepast lesplan en tempo naar de behoeften van uw team. Van beginner tot geavanceerde gebruikers – elke cursus is op maat gemaakt naar de echte eisen van uw bedrijf. Leren door praktische voorbeelden en situaties uit de praktijk.",
+                    "topics": [
+                        "Windows en macOS basisprincipes",
+                        "Bestandsbeheer en mapstructuur",
+                        "Back-up en herstel van gegevens",
+                        "Gebruik van randapparatuur en printers",
+                        "Snelle sneltoetsen en productiviteitstips"
+                    ]
+                },
+                {
+                    "title": "Bewustwordingstraining beveiliging",
+                    "description": "De meeste datalekken gebeuren door menselijke fouten – e-mailmisleiding, zwakke wachtwoorden, phishing. Onze training helpt medewerkers risico's te herkennen en te vermijden.",
+                    "topics": [
+                        "Herkenning van phishing-e-mails en oplichting",
+                        "Veilig wachtwoordbeheer en 2FA-gebruik",
+                        "Privacyprincipes (GDPR) in de praktijk",
+                        "Veilig bestanden delen en e-mailen",
+                        "Apparaatbeveiliging: laptops, telefoons, werken op afstand"
+                    ]
+                },
+                {
+                    "title": "Gebruikerstraining software & apparaten",
+                    "description": "Modern kantoorwerk is afhankelijk van softwaretools – maar vaak gebruiken we slechts een fractie van hun potentieel. We onderwijzen de tools en methoden voor efficiënt werk.",
+                    "topics": [
+                        "Microsoft 365: Word, Excel, PowerPoint, Outlook, Teams",
+                        "Google Workspace: Docs, Sheets, Drive, Meet",
+                        "Samenwerkingstools: Slack, Notion, Trello, Asana",
+                        "Gebruik van videoconferentietools",
+                        "Cloud-based bestandsdeling en synchronisatie"
+                    ]
+                },
+                {
+                    "title": "Bedrijfskennisontwikkelingsprogramma's",
+                    "description": "Langdurige, continue trainingsprogramma's die ervoor zorgen dat het team altijd up-to-date is. Opbouw van een bedrijfskennisbank en regelmatige ontwikkeling.",
+                    "topics": [
+                        "Creatie van aangepaste leermiddelen en gidsen",
+                        "Doorlopende online support en Q&A-sessies",
+                        "Regelmatige technische opfriscursus",
+                        "IT-onboardingtraining voor nieuwe medewerkers",
+                        "Training in specifieke bedrijfssystemen"
+                    ]
+                }
+            ]
+        },
+        "benefits": {
+            "title": "Waarom Investeren in Bedrijfs-IT-training?",
+            "subtitle": "Concrete voordelen die meetbare resultaten opleveren",
+            "list": [
+                "Hogere productiviteit – medewerkers werken sneller en efficiënter",
+                "Minder IT-fouten en helpdeskoproepen – verminderde belasting van technische support",
+                "Veiligere werking – bewuste medewerkers beschermen gegevens",
+                "Beter toolgebruik – volledig potentieel van software en systemen",
+                "Meer zelfverzekerd team – geen angst voor nieuwe technologie",
+                "Snellere aanpassing – soepelere introductie van nieuwe tools",
+                "Concurrentievermogen – een digitaal competent team betekent een moderner bedrijf"
+            ]
+        },
+        "targetGroups": {
+            "title": "Aan Wie Raden We Het Aan?",
+            "subtitle": "Voor elk bedrijf dat met digitale tools werkt",
+            "groups": [
+                {
+                    "title": "Kantoormedewerkers",
+                    "description": "Degenen die dagelijks computers, e-mail en Office-programma's gebruiken."
+                },
+                {
+                    "title": "Managers en Leidinggevenden",
+                    "description": "Degenen die digitale toolkennis nodig hebben voor besluitvorming, rapportage en communicatie."
+                },
+                {
+                    "title": "Niet-IT Collega's",
+                    "description": "Degenen voor wie technologie slechts een hulpmiddel is, maar een obstakel zonder de juiste kennis."
+                },
+                {
+                    "title": "Werknemers op Afstand",
+                    "description": "Degenen die ondersteuning nodig hebben voor veilig en efficiënt thuiswerken."
+                },
+                {
+                    "title": "Nieuwe Medewerkers",
+                    "description": "Degenen die bedrijfs-IT-systemen moeten leren als onderdeel van onboarding."
+                }
+            ]
+        },
+        "delivery": {
+            "title": "Hoe Wordt de Training Geleverd?",
+            "subtitle": "Flexibele trainingsvormen – U kiest wat het beste past",
+            "methods": [
+                {
+                    "title": "Training on-site",
+                    "description": "We komen naar uw kantoor en geven de training op locatie. Persoonlijk, interactief, met directe praktische voorbeelden op uw eigen systemen."
+                },
+                {
+                    "title": "Online Afstandsonderwijs",
+                    "description": "Live trainingssessies via videoconferentieplatformen. Flexibele planning, geen reizen, maar net zo effectief als de vorm on-site."
+                },
+                {
+                    "title": "Hybride Model",
+                    "description": "Combinatie van de twee: kick-off on-site, daarna online vervolg. Het beste van beide werelden."
+                }
+            ],
+            "languageNote": "Trainingssessies zijn momenteel alleen beschikbaar in het Hongaars, zowel online als op locatie."
+        },
+        "topics": {
+            "title": "Specifieke Onderwerpen Die We Onderwijzen",
+            "subtitle": "Praktische kennis die u meteen kunt toepassen",
+            "list": [
+                "Gebruik van Microsoft 365 (Word, Excel, PowerPoint, Outlook, OneDrive, Teams)",
+                "Google Workspace-tools (Gmail, Drive, Docs, Sheets, Meet)",
+                "Veilig wachtwoordbeheer en twee-factor-authenticatie",
+                "Herkenning van phishing-e-mails en online oplichting",
+                "Veilig bestanden delen en cloudopslag",
+                "Professioneel gebruik van videoconferentietools",
+                "Efficiënt e-mailbeheer en mailboxorganisatie",
+                "Project- en taakbeheer (Trello, Asana, Notion)",
+                "Windows en macOS basisfuncties en tips",
+                "Kantoorapparatuur: printers, scanners, multimedia"
+            ]
+        },
+        "methodology": {
+            "title": "Hoe Werken Wij?",
+            "subtitle": "Gestructureerd trainingsproces – stap voor stap",
+            "steps": [
+                {
+                    "number": "1",
+                    "title": "Behoefteanalyse",
+                    "description": "We leren het team, huidige kennisniveaus en bedrijfsprocessen kennen. We verduidelijken welke gebieden ontwikkeling nodig hebben."
+                },
+                {
+                    "number": "2",
+                    "title": "Creatie van Aangepast Lesplan",
+                    "description": "Persoonlijk trainingsplan en materiaal dat past bij de tools en workflows van uw bedrijf."
+                },
+                {
+                    "number": "3",
+                    "title": "Uitvoering van Training",
+                    "description": "Interactieve, praktische live-training – vragen, antwoorden, voorbeelden uit de praktijk in uw eigen omgeving."
+                },
+                {
+                    "number": "4",
+                    "title": "Opvolging en Ondersteuning",
+                    "description": "We zijn ook beschikbaar na de training – vragen, herzieningen, verdere hulp. We zorgen ervoor dat kennis echt in de dagelijkse routine integreert."
+                }
+            ]
+        },
+        "faq": {
+            "title": "Veelgestelde Vragen",
+            "items": [
+                {
+                    "question": "Hoe lang duurt een trainingssessie?",
+                    "answer": "De lengte hangt af van de behoeften. Een eenmalige workshop is 2-4 uur, terwijl een uitgebreid bedrijfsprogramma zich over meerdere weken kan uitstrekken met meerdere sessies. We spreken altijd het tijdsbestek af."
+                },
+                {
+                    "question": "Hoeveel mensen kunnen tegelijk deelnemen?",
+                    "answer": "Het ideale aantal is tussen de 5-15 personen, zodat iedereen genoeg aandacht krijgt. Voor grotere groepen kunnen we meerdere sessies of parallelle groepen houden."
+                },
+                {
+                    "question": "Hebben de deelnemers eerdere IT-kennis nodig?",
+                    "answer": "Nee! We passen de training aan het huidige kennisniveau van de deelnemers aan – van beginner tot gevorderd. We beoordelen vooraf waar iedereen staat."
+                },
+                {
+                    "question": "Krijgen de deelnemers materialen of notities?",
+                    "answer": "Ja! Na elke training ontvangen ze het materiaal, de presentaties en praktische gidsen in digitale vorm – zodat ze ze op elk moment kunnen doornemen."
+                },
+                {
+                    "question": "In welke taal worden de trainingssessies gehouden?",
+                    "answer": "Momenteel worden trainingssessies uitsluitend in het Hongaars gehouden, zowel online als op locatie."
+                },
+                {
+                    "question": "Hoeveel kost bedrijfs-IT-training?",
+                    "answer": "Prijsstelling is gebaseerd op een offerte op maat – afhankelijk van het aantal deelnemers, onderwerpen en duur. Vraag een offerte aan, dan bespreken we het!"
+                }
+            ]
+        },
+        "pricing": {
+            "title": "Hoeveel Kost IT-training?",
+            "subtitle": "We creëren offertes op maat – elk bedrijf heeft verschillende behoeften",
+            "description": "Trainingsprijzen hangen af van het aantal deelnemers, duur, onderwerpen en locatie (online/offline). Gemiddeld start een 4-uurs workshop vanaf 200 € voor kleine groepen, terwijl een langer, continu ontwikkelingsprogramma beschikbaar is in een maandelijks abonnementsmodel.",
+            "process": "Boek een gratis consultatie, we beoordelen de behoeften en werken een gedetailleerde, transparante offerte uit.",
+            "cta": "Vraag Nu Offerte Aan"
+        },
+        "finalCta": {
+            "title": "Start de Digitale Ontwikkeling van Uw Team!",
+            "description": "Boek een gratis consultatie, en laten we samen uitvinden welke IT-training uw bedrijfsefficiëntie en veiligheid kan verbeteren.",
+            "button": "Bestel IT-trainingsofferte"
+        }
+    },
+    "networkOptimization": {
+        "badge": "Netwerkoptimalisatie",
+        "title": "Zorg dat Uw Bedrijf Stabiel en Snel Internet & Wi-Fi Heeft",
+        "subtitle": "Traag Wi-Fi, onstabiele verbinding of een onbetrouwbaar netwerk vertraagt uw hele bedrijf. We ontwerpen, optimaliseren en onderhouden moderne netwerkinfrastructuren van bedrijfsklasse, zodat elk apparaat snel, veilig en betrouwbaar werkt.",
+        "features": {
+            "wifi": {
+                "title": "Stabiel bedrijfs-Wi-Fi met hoge dekking",
+                "description": "Moderne toegangspunten en netwerkontwerp om sterk Wi-Fi-signaal in elke kamer te garanderen – zonder uitval."
+            },
+            "speed": {
+                "title": "Snel en veilig netwerk voor alle apparaten",
+                "description": "Geoptimaliseerde bandbreedte, VLAN-scheiding en prestatieafstemming – elk apparaat werkt soepel."
+            },
+            "reliability": {
+                "title": "Betrouwbare verbinding — geen uitval",
+                "description": "Betrouwbare routers, netwerkapparatuur van bedrijfsklasse en continue monitoring – zodat uw netwerk altijd beschikbaar is."
+            }
+        },
+        "cta": "Vraag Netwerkbeoordeling Aan"
+    },
+    "networkOptimizationPage": {
+        "breadcrumb": {
+            "home": "Home",
+            "networkOptimization": "Netwerkoptimalisatie"
+        },
+        "hero": {
+            "title": "Bedrijfsnetwerk & Wi-Fi Ontwerp, Optimalisatie en Onderhoud",
+            "subtitle": "Maak het netwerk van uw bedrijf stabiel, snel en veilig",
+            "description": "Als uw Wi-Fi traag is, verbindingen uitvallen, of het netwerk onbetrouwbaar is, houdt dat uw hele bedrijfsprestaties tegen. SIRONIC ontwerpt, optimaliseert en onderhoudt moderne netwerken van bedrijfsklasse – zodat elk apparaat snel, veilig en betrouwbaar werkt.",
+            "cta": "Boek Gratis Netwerkbeoordeling",
+            "scrollDown": "Scroll naar beneden voor details"
+        },
+        "problems": {
+            "title": "Veelvoorkomende Netwerkproblemen voor Bedrijven",
+            "subtitle": "Klinkt dit bekend?",
+            "items": [
+                "Traag of onstabiel Wi-Fi op het werk",
+                "Zwak signaal en dode zones in het kantoor",
+                "Verouderde routers en toegangspunten",
+                "Geen scheiding van gastennetwerk",
+                "Te veel apparaten op één netwerk – alles wordt traag",
+                "Beveiligingskwetsbaarheden en onbeschermd netwerk",
+                "Geen monitoring- of probleemoplossingsplan"
+            ]
+        },
+        "services": {
+            "title": "Wat Wij Bieden",
+            "subtitle": "Complete netwerkoplossingen voor het midden- en kleinbedrijf",
+            "items": [
+                {
+                    "title": "Volledige netwerkbeoordeling en diagnose",
+                    "description": "We evalueren uw huidige netwerkinfrastructuur, identificeren problemen en stellen optimalisaties voor."
+                },
+                {
+                    "title": "Wi-Fi-signaalkartering en dekkingsanalyse",
+                    "description": "We ontwerpen het Wi-Fi-netwerk om sterk signaal in elke kamer te garanderen – geen dode zones."
+                },
+                {
+                    "title": "Nieuw bedrijfsnetwerkontwerp",
+                    "description": "We bouwen netwerken van bedrijfsklasse vanaf nul op die schaalbaar, snel en veilig zijn."
+                },
+                {
+                    "title": "Installatie van bedrijfshardware (MikroTik, Ubiquiti, UniFi)",
+                    "description": "Professionele selectie en installatie van netwerkapparatuur – routers, switches, toegangspunten."
+                },
+                {
+                    "title": "Bekabeling en infrastructuur-upgrades",
+                    "description": "Gestructureerde bekabelingsinstallatie, patchpanelen, serverracks – georganiseerde en toekomstbestendige infrastructuur."
+                },
+                {
+                    "title": "Beveiliging, VLAN, firewall-setup",
+                    "description": "Netwerksegmentatie, gastennetwerk, firewallconfiguratie – houdt uw gegevens veilig."
+                },
+                {
+                    "title": "Netwerkmonitoring en beheer",
+                    "description": "Continue monitoring en proactief onderhoud – we kennen en behandelen problemen voordat het problemen worden."
+                }
+            ]
+        },
+        "technologies": {
+            "title": "Welke Apparatuur Gebruiken We?",
+            "subtitle": "Betrouwbare netwerkoplossingen van bedrijfsklasse",
+            "list": [
+                "MikroTik – krachtige, kosteneffectieve routers en switches",
+                "Ubiquiti UniFi – moderne, beheersbare Wi-Fi-systemen",
+                "TP-Link Omada – netwerkapparatuur van bedrijfsklasse",
+                "Cisco en HPE – infrastructuur op bedrijfsniveau",
+                "VLAN en firewallconfiguratie",
+                "VPN en toegang op afstand",
+                "Netwerkmonitoring en analyse"
+            ]
+        },
+        "benefits": {
+            "title": "Waarom Investeren in een Professioneel Netwerk?",
+            "subtitle": "Concrete voordelen die meetbare resultaten leveren",
+            "list": [
+                "Sneller werken – geen traag internet of uitval",
+                "Veiligere werking – beschermd netwerk, gescheiden gasten-Wi-Fi",
+                "Minder downtime – proactieve monitoring en snelle probleemoplossing",
+                "Schaalbare infrastructuur – het netwerk groeit met uw bedrijf mee",
+                "Professionele uitstraling – stabiele verbinding ook voor klanten",
+                "Verlaagde kosten – minder tijdverspilling en minder reparaties"
+            ]
+        },
+        "process": {
+            "title": "Hoe Werken Wij?",
+            "subtitle": "Transparant proces – stap voor stap",
+            "steps": [
+                {
+                    "number": "1",
+                    "title": "Netwerkbeoordeling en consultatie",
+                    "description": "We leren over het kantoor, het huidige netwerk en de behoeften. We identificeren problemen en kansen."
+                },
+                {
+                    "number": "2",
+                    "title": "Netwerkontwerp en offerte",
+                    "description": "We maken een compleet netwerkplan, Wi-Fi-dekkingsanalyse en apparatuurlijst. Vaste prijsopgave."
+                },
+                {
+                    "number": "3",
+                    "title": "Installatie en configuratie",
+                    "description": "We rollen het netwerk uit, installeren apparatuur, configureren beveiligingselementen. Alles getest en gedocumenteerd."
+                },
+                {
+                    "number": "4",
+                    "title": "Testen en overdracht",
+                    "description": "Grondig testen op elk apparaat, snelheidsmeting, dekkingsverificatie. Training en levering van documentatie."
+                },
+                {
+                    "number": "5",
+                    "title": "Monitoring en onderhoud",
+                    "description": "Continue monitoring, maandrapporten, proactief onderhoud. Altijd beschikbaar als u hulp nodig heeft."
+                }
+            ]
+        },
+        "useCases": {
+            "title": "Aan Wie Raden We Het Aan?",
+            "subtitle": "Elk bedrijf dat een stabiel netwerk nodig heeft",
+            "examples": [
+                "Kantoren en kleine bedrijven – 5-50 werknemers",
+                "Horeca – snel en stabiel gasten-Wi-Fi",
+                "Klinieken en dokterspraktijken – veilig medisch netwerk",
+                "Magazijnen en logistieke centra – robuust industrieel netwerk",
+                "Onderwijsinstellingen – Wi-Fi met hoge capaciteit",
+                "Retailunits – snel kassasysteem en IP-camera's"
+            ]
+        },
+        "pricing": {
+            "title": "Hoeveel Kost Installatie van een Bedrijfsnetwerk?",
+            "subtitle": "Elk project is uniek – we bepalen de prijs op basis van behoeften",
+            "description": "Een basis kantoor-Wi-Fi-systeem start vanaf ca. 400 € (1-2 toegangspunten, router, configuratie). Voor grotere netwerken – meer apparaten, gestructureerde bekabeling, monitoring – verwacht vanaf 1.200 €+. Vraag een gratis beoordeling en exacte offerte aan!",
+            "process": "Gratis beoordeling on-site analyseert netwerkbehoeften, we maken een plan en geven een transparante, vaste prijsopgave.",
+            "cta": "Vraag Gratis Offerte Aan"
+        },
+        "faq": {
+            "title": "Veelgestelde Vragen",
+            "items": [
+                {
+                    "question": "Hoe lang duurt netwerkinstallatie?",
+                    "answer": "Een eenvoudig kantoor-Wi-Fi-systeem duurt 1-2 dagen, terwijl een complex bedrijfsnetwerk met meerdere verdiepingen 1-2 weken kan duren."
+                },
+                {
+                    "question": "Welke merken raden jullie aan?",
+                    "answer": "We werken voornamelijk met MikroTik, Ubiquiti UniFi en TP-Link Omada-apparatuur – betrouwbaar, kosteneffectief en geschikt voor zakelijk gebruik."
+                },
+                {
+                    "question": "Wie wordt eigenaar van het netwerk?",
+                    "answer": "Dat wordt u! Alle apparatuur en configuratie worden eigendom van uw bedrijf, geen verborgen afhankelijkheden of licentiekosten."
+                },
+                {
+                    "question": "Hoe zit het met onderhoud?",
+                    "answer": "We bieden ook onderhoudspakketten – continue monitoring, regelmatige updates en snelle probleemoplossing in een maandelijks abonnement."
+                },
+                {
+                    "question": "Kunnen jullie bestaande netwerken optimaliseren?",
+                    "answer": "Ja! U hoeft niet alles te vervangen – vaak is een goede configuratie, een extra toegangspunt of routerupgrade genoeg."
+                }
+            ]
+        },
+        "finalCta": {
+            "title": "Klaar voor een Stabiel en Snel Netwerk?",
+            "description": "Vraag een gratis netwerkbeoordeling aan, en laten we samen een infrastructuur bouwen die uw bedrijfsgroei ondersteunt.",
+            "button": "Boek Gratis Netwerkbeoordeling"
+        }
+    },
+    "repairService": {
+        "badge": "Reparatie & Service",
+        "title": "IT-reparatie & Service – On-site of via Post",
+        "subtitle": "Snelle, betrouwbare IT-reparaties – laptops, PC's, servers, NAS-apparaten",
+        "description": "Professionele reparatie van computers, laptops, servers en netwerkapparaten. On-site service in Székesfehérvár en omgeving, of postservice. We starten elke reparatie met een diagnose en geven transparante offertes voordat er werk wordt verricht.",
+        "benefits": [
+            "Snelle diagnose en probleemoplossing",
+            "Service on-site of via post – wat u schikt",
+            "Transparante offerte voor reparatie",
+            "Professionele tools en experts",
+            "Gegevensback-up en virusverwijdering",
+            "Garantie op alle reparaties"
+        ],
+        "cards": {
+            "onsite": {
+                "title": "Service on-site",
+                "description": "We komen naar u in Székesfehérvár en nabijgelegen gebieden om reparaties of diagnoses ter plaatse uit te voeren."
+            },
+            "postal": {
+                "title": "Postservice",
+                "description": "Stuur ons uw apparaat per post, we repareren het en sturen het terug – eenvoudig en snel."
+            }
+        },
+        "cta": {
+            "main": "Vraag Reparatieofferte Aan",
+            "learnMore": "Lees Meer"
+        }
+    },
+    "repairServicePage": {
+        "breadcrumb": {
+            "repairService": "Reparatie & Service"
+        },
+        "hero": {
+            "title": "IT-reparatie & Service – Laptops, PC's, Servers, NAS-apparaten",
+            "subtitle": "Snelle, betrouwbare IT-reparaties on-site of via post",
+            "description": "Professionele reparatie van computers, laptops, servers en netwerkopslagapparaten. On-site service in Székesfehérvár en omgeving, of postmogelijkheid. Transparante offertes, snelle afhandeling, expertservice.",
+            "cta": "Meld Probleem Nu",
+            "scrollDown": "Scroll naar beneden voor details"
+        },
+        "services": {
+            "title": "Wat Repareren We?",
+            "subtitle": "Complete IT-apparaatdiagnose en reparatie",
+            "items": [
+                {
+                    "title": "Laptopreparatie & Onderhoud",
+                    "description": "Schermvervanging, toetsenbordreparatie, batterijvervanging, reiniging koelsysteem, componentupgrades."
+                },
+                {
+                    "title": "Desktop PC Diagnose & Reparatie",
+                    "description": "Probleemoplossing hardware, componentvervanging, prestatie-optimalisatie, systeemreiniging en onderhoud."
+                },
+                {
+                    "title": "Server & Bedrijfsapparatuur Reparatie",
+                    "description": "Serverdiagnose, herstel van RAID-configuraties, hardwarereparatie en onderhoud."
+                },
+                {
+                    "title": "NAS & Opslagapparaat Service",
+                    "description": "Netwerkopslagdiagnose, gegevensback-up, RAID-herstel, firmware-updates."
+                },
+                {
+                    "title": "Gegevensback-up en Herstel",
+                    "description": "Kritieke gegevensherstel van defecte apparaten, SSD/HDD-gegevensherstel, creatie van back-ups."
+                },
+                {
+                    "title": "Virusverwijdering & Systeemoptimalisatie",
+                    "description": "Virus-en malwareverwijdering, systeemopschoning, prestatieverbetering, snelheidsoptimalisatie."
+                }
+            ]
+        },
+        "process": {
+            "title": "Hoe Werkt Reparatie?",
+            "subtitle": "Eenvoudig en transparant proces",
+            "steps": [
+                {
+                    "number": "1",
+                    "title": "Probleemrapport",
+                    "description": "Neem contact met ons op via telefoon, e-mail of formulier. We bespreken het probleem en de reparatiemethode."
+                },
+                {
+                    "number": "2",
+                    "title": "Diagnose & Offerte",
+                    "description": "On-site of na postinzending onderzoeken we het apparaat, identificeren de fout en geven een transparante offerte."
+                },
+                {
+                    "number": "3",
+                    "title": "Reparatie Na Goedkeuring",
+                    "description": "Na acceptatie van de offerte voeren we de reparatie uit met professionele tools en onderdelen."
+                },
+                {
+                    "number": "4",
+                    "title": "Testen & Levering",
+                    "description": "We testen het gerepareerde apparaat grondig, overhandigen het vervolgens of sturen het terug. Garantie op alle reparaties."
+                }
+            ]
+        },
+        "onsite": {
+            "title": "Service on-site – We Komen naar U",
+            "description": "In Székesfehérvár en omgeving voeren we reparaties of diagnoses ter plaatse uit. Ideaal voor kantoren, bedrijven en degenen die het apparaat niet kunnen of willen vervoeren.",
+            "benefits": [
+                "Snelle service naar Székesfehérvár en 30 km straal",
+                "Diagnose en reparatie on-site (wanneer mogelijk)",
+                "Minimale downtime – geen noodzaak om het apparaat te verwijderen",
+                "Professionele tools en onderdelen ter plaatse",
+                "Kan uitgevoerd worden in bedrijfsomgevingen"
+            ]
+        },
+        "postal": {
+            "title": "Postservice – Gemakkelijk vanuit huis",
+            "description": "Als u verder weg bent of gewoon de voorkeur geeft aan gemak, stuur uw apparaat. We repareren en retourneren het. We leveren veilige verpakkingsrichtlijnen.",
+            "benefits": [
+                "Nationale dekking – verzend van overal",
+                "Gedetailleerde verpakkingsgids voor apparaatveiligheid",
+                "Snelle afhandeling – typisch 3-5 werkdagen",
+                "Veilige retour via koerierdienst",
+                "Continue updates over reparatiestatus"
+            ],
+            "howTo": "Stappen voor postinzending: 1) Neem contact op en beschrijf het probleem. 2) Verpak het apparaat veilig (we leveren richtlijnen). 3) Stuur naar het opgegeven adres. 4) We diagnosticeren, sturen offerte en retourneren na reparatie."
+        },
+        "pricing": {
+            "title": "Hoeveel Kost een Reparatie?",
+            "subtitle": "Transparante prijsstelling – diagnose eerst, dan offerte",
+            "description": "We starten elke reparatie met gratis diagnose (on-site of via post). De offerte wordt pas na onderzoek gegeven, zodat u precies weet wat u kunt verwachten. Het werk begint pas na uw goedkeuring.",
+            "examples": [
+                "Vervanging laptopscherm: vanaf 65 € (afhankelijk van onderdeel)",
+                "PC-virusverwijdering en optimalisatie: vanaf 20 €",
+                "Gegevensherstel van defect apparaat: vanaf 40 €",
+                "Serverdiagnose en reparatie: offerte op maat"
+            ],
+            "note": "Prijzen zijn indicatief, precieze kosten worden altijd na onderzoek bepaald.",
+            "cta": "Vraag Gratis Diagnose Aan"
+        },
+        "faq": {
+            "title": "Veelgestelde Vragen",
+            "items": [
+                {
+                    "question": "Hoe lang duurt een reparatie?",
+                    "answer": "Eenvoudigere reparaties (bijv. virusverwijdering, optimalisatie) duren typisch 1-2 werkdagen. Complexe gevallen (bijv. vervanging onderdelen, gegevensherstel) kunnen 3-5 werkdagen duren. We bieden ook express-service voor noodgevallen."
+                },
+                {
+                    "question": "Wat als het apparaat niet gerepareerd kan worden?",
+                    "answer": "Als het apparaat niet te repareren is, of reparatie oneconomisch is, informeren we u direct. In dat geval brengen we alleen diagnose in rekening (typisch 8-13 €) en helpen we bij het adviseren over aankoop van een nieuw apparaat."
+                },
+                {
+                    "question": "Zijn mijn gegevens veilig tijdens reparatie?",
+                    "answer": "Ja! We behandelen alle apparaten vertrouwelijk. Gegevensback-up wordt alleen uitgevoerd met uw goedkeuring, en alle gegevens worden veilig gewist na reparatie (indien nodig)."
+                },
+                {
+                    "question": "Zit er garantie op reparaties?",
+                    "answer": "Ja, we geven 30-90 dagen garantie op alle reparaties (afhankelijk van reparatietype). Nieuwe onderdelen worden ook geleverd met fabrieksgarantie."
+                },
+                {
+                    "question": "Welk gebied bestrijken jullie voor service on-site?",
+                    "answer": "We leveren service on-site aan Székesfehérvár en 30 km straal. Voor gebieden verder weg werken we volgens speciale afspraak of postservice."
+                },
+                {
+                    "question": "Hoe moet ik het apparaat inpakken voor postinzending?",
+                    "answer": "We sturen gedetailleerde verpakkingsinstructies via e-mail. Belangrijk: gebruik bubbeltjesplastic, stevige doos en markeer 'Breekbaar'. Originele verpakking is het beste indien beschikbaar."
+                }
+            ]
+        },
+        "finalCta": {
+            "title": "Heeft u problemen met uw apparaat?",
+            "description": "Bel ons of stuur een bericht, en we lossen het snel op! Snelle diagnose, transparante prijzen, betrouwbare reparaties.",
+            "button": "Meld Probleem Nu"
+        }
+    },
+    "onsitePresence": {
+        "badge": "Event-IT-support",
+        "title": "IT On-Site Aanwezigheid voor Events",
+        "subtitle": "Professionele IT-specialist on-site",
+        "description": "Garandeer de technische stabiliteit van uw professionele evenement, conferentie of bedrijfsbijeenkomst met toegewijde IT-support on-site.",
+        "cards": {
+            "onsite": {
+                "title": "IT-specialist on-site",
+                "description": "Toegewijde IT-professional die uw evenement van begin tot eind begeleidt."
+            },
+            "stability": {
+                "title": "Technische Stabiliteit",
+                "description": "Proactieve monitoring en onmiddellijke interventie."
+            },
+            "equipment": {
+                "title": "Apparatuurbeheer",
+                "description": "Opzetten en toezicht houden op laptops, netwerken en streamingapparatuur."
+            }
+        },
+        "cta": {
+            "main": "Krijg een Offerte",
+            "learnMore": "Lees Meer"
+        }
+    },
+    "onsitePresencePage": {
+        "breadcrumb": {
+            "home": "Home",
+            "onsitePresence": "IT On-Site Aanwezigheid"
+        },
+        "hero": {
+            "title": "IT On-Site Aanwezigheid voor Events",
+            "subtitle": "Professionele IT-support on-site voor conferenties en events",
+            "description": "Wilt u een vlekkeloos evenement? Met SIRONIC's IT On-Site Aanwezigheidsservice krijgt u gegarandeerd stabiele en betrouwbare IT-infrastructuur.",
+            "cta": "Boek Gratis Consultatie"
+        },
+        "intro": {
+            "title": "Waarom een IT-specialist meenemen naar uw evenement?",
+            "content": [
+                "Het succes van een professioneel evenement hangt vaak af van technische stabiliteit. Als de techniek faalt, lijdt de reputatie van het evenement.",
+                "Met SIRONIC's IT On-Site Aanwezigheid krijgt u een ervaren IT-specialist die zorgt voor een soepele werking."
+            ]
+        },
+        "services": {
+            "title": "Wat bieden wij?",
+            "subtitle": "Uitgebreide Technische Support",
+            "items": [
+                {
+                    "title": "Eventvoorbereiding & Opzet",
+                    "description": "Installatie en testen van apparatuur voor het evenement.",
+                    "topics": [
+                        "Installatie",
+                        "Testen",
+                        "Configuratie"
+                    ]
+                },
+                {
+                    "title": "Netwerk & Wi-Fi",
+                    "description": "Zorg voor stabiel internet voor alle deelnemers.",
+                    "topics": [
+                        "Wi-Fi planning",
+                        "Bandbreedte",
+                        "Monitoring"
+                    ]
+                },
+                {
+                    "title": "Streaming-support",
+                    "description": "Technische achtergrond voor livestreams en hybride evenementen.",
+                    "topics": [
+                        "OBS",
+                        "Camera's",
+                        "Geluid"
+                    ]
+                }
+            ]
+        },
+        "eventTypes": {
+            "title": "Ondersteunde Events",
+            "subtitle": "Elk evenement waarbij IT cruciaal is",
+            "types": [
+                {
+                    "title": "Conferenties",
+                    "description": "Grote professionele bijeenkomsten."
+                },
+                {
+                    "title": "Hybride evenementen",
+                    "description": "Verbindt online en offline deelnemers."
+                },
+                {
+                    "title": "Workshops",
+                    "description": "Technische support voor praktische trainingssessies."
+                }
+            ]
+        },
+        "benefits": {
+            "title": "Waarom Wij?",
+            "items": [
+                "Ervaren Professionals",
+                "Onmiddellijke Probleemoplossing",
+                "Flexibele Beschikbaarheid",
+                "Professionele Apparatuur"
+            ]
+        },
+        "process": {
+            "title": "Proces",
+            "subtitle": "Hoe we samenwerken",
+            "steps": [
+                {
+                    "title": "Beoordeling",
+                    "description": "Bespreking van technische vereisten."
+                },
+                {
+                    "title": "Planning",
+                    "description": "Ontwerp van benodigde infrastructuur."
+                },
+                {
+                    "title": "Uitvoering",
+                    "description": "Opzet en werking on-site."
+                },
+                {
+                    "title": "Monitoring",
+                    "description": "Continue aanwezigheid tijdens het evenement."
+                },
+                {
+                    "title": "Afsluiting",
+                    "description": "Afbreken en evaluatie."
+                }
+            ]
+        },
+        "faq": {
+            "title": "FAQ",
+            "items": [
+                {
+                    "question": "Welke type evenementen ondersteunen jullie?",
+                    "answer": "Alles van kleine workshops tot grote conferenties."
+                },
+                {
+                    "question": "Leveren jullie apparatuur?",
+                    "answer": "Ja, we bieden verhuurdiensten op aanvraag."
+                },
+                {
+                    "question": "Hoeveel kost het?",
+                    "answer": "Gebaseerd op een offerte op maat afhankelijk van vereisten."
+                },
+                {
+                    "question": "Reizen jullie door het hele land?",
+                    "answer": "Ja, we nemen opdrachten aan door heel Hongarije."
+                }
+            ]
+        },
+        "pricing": {
+            "title": "Prijsstelling",
+            "subtitle": "Gebaseerd op Offerte op Maat",
+            "description": "Elk evenement is anders, dus we stemmen onze prijzen af op uw behoeften.",
+            "process": "Krijg een offerte!",
+            "cta": "Bestel Offerte"
+        },
+        "availabilityNote": "Deze dienst is beschikbaar in heel Hongarije.",
+        "finalCta": {
+            "title": "Verzeker Succes!",
+            "description": "Laat de technische kant niet aan het toeval over.",
+            "button": "Krijg een Offerte"
+        }
+    }
+}

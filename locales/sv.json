@@ -1,0 +1,1762 @@
+{
+    "meta": {
+        "siteTitle": "SIRONIC IT Solutions: Omfattande IT-lösningar för SMF – Drift, Utveckling, Säkerhet",
+        "siteDescription": "Professionell IT-drift, webbutveckling, nätverk och IT-säkerhet. Dedikerad support för SMF. Begär gratis konsultation!",
+        "companyName": "SIRONIC IT Solutions",
+        "keywords": [
+            "IT-tjänster",
+            "systemförvaltning",
+            "nätverksinstallation",
+            "IT-säkerhet",
+            "webbutveckling",
+            "CRM-utveckling",
+            "IT-utbildning",
+            "cybersäkerhetsutbildning",
+            "digitala färdigheter",
+            "IT-utrustning",
+            "hostingtjänster",
+            "webbhotell",
+            "serverhyra",
+            "datorreparation",
+            "laptopsverige",
+            "support på plats",
+            "datasäkerhet",
+            "underhåll",
+            "Székesfehérvár",
+            "Ungern",
+            "Österrike",
+            "Slovakien",
+            "Rumänien",
+            "Tjeckien",
+            "Sverige",
+            "Danmark",
+            "Norge"
+        ],
+        "ogImage": "/og/home-en.jpg",
+        "pages": {
+            "services": {
+                "title": "IT-tjänster - Systemadministration & Utveckling",
+                "description": "Pålitliga IT-tjänster för företag: systemadministration, nätverksinstallation, webbutveckling, hosting och reparation. Begär en offert från våra experter idag!",
+                "keywords": [
+                    "IT-tjänster",
+                    "systemförvaltning",
+                    "nätverksinfrastruktur",
+                    "IT-säkerhet",
+                    "webbutveckling",
+                    "hosting",
+                    "reparation",
+                    "Székesfehérvár"
+                ],
+                "ogImage": "/og/services-en.jpg"
+            },
+            "about": {
+                "title": "Om oss - SIRONIC IT Solutions: Din pålitliga partner",
+                "description": "Möt SIRONIC IT Solutions! Över 5 års erfarenhet, proaktiv IT-support och kundfokus för små och medelstora företag.",
+                "keywords": [
+                    "IT-företag",
+                    "Székesfehérvár",
+                    "pålitlig IT-partner",
+                    "systemförvaltning",
+                    "IT-support"
+                ],
+                "ogImage": "/og/about-en.jpg"
+            },
+            "contact": {
+                "title": "Kontakta oss - SIRONIC IT Solutions Székesfehérvár",
+                "description": "Har du frågor? Kontakta oss för en gratis konsultation! Nå oss via telefon, e-post eller personligen i Székesfehérvár. Vi är här för att hjälpa till.",
+                "keywords": [
+                    "IT-kontakt",
+                    "gratis konsultation",
+                    "Székesfehérvár IT",
+                    "hello@sironic.hu"
+                ],
+                "ogImage": "/og/contact-en.jpg"
+            },
+            "pricing": {
+                "title": "IT-tjänsteprissättning & Paket - SIRONIC IT Solutions",
+                "description": "Upptäck våra konkurrenskraftiga IT-priser! Fast månatlig systemadministration, anpassad utveckling och underhåll utan dolda kostnader och med full garanti.",
+                "keywords": [
+                    "IT-priser",
+                    "månatlig IT-support",
+                    "kostnad för systemförvaltning",
+                    "IT-utgifter",
+                    "Székesfehérvár"
+                ],
+                "ogImage": "/og/pricing-en.jpg"
+            },
+            "products": {
+                "title": "Anpassad Programvara & IT-produkter - SIRONIC Solutions",
+                "description": "Utforska våra anpassade programvarulösningar och IT-produkter! CRM-system, webbapplikationer och mobilappar utformade för att hjälpa ditt företag att växa.",
+                "keywords": [
+                    "IT-produkter",
+                    "anpassad programvara",
+                    "CRM-system",
+                    "webbapplikation",
+                    "mobilapp"
+                ],
+                "ogImage": "/og/products-en.jpg"
+            },
+            "blog": {
+                "title": "IT-blogg & Kunskapsbas - Tips för Företag",
+                "description": "Läs våra senaste IT-nyheter och tips! Användbara råd om cybersäkerhet, systemadministration och digital utveckling för företag.",
+                "keywords": [
+                    "IT-blogg",
+                    "IT-tips",
+                    "IT-säkerhet",
+                    "företags-IT",
+                    "kunskapsbas"
+                ],
+                "ogImage": "/og/blog-en.jpg"
+            },
+            "networkOptimization": {
+                "title": "Företagsnätverk & Wi-Fi-installation - SIRONIC IT Solutions",
+                "description": "Design och driftsättning av stabila, snabba och säkra företagsnätverk. Moderna Wi-Fi-system, nätverksoptimering och omfattande underhåll för företag.",
+                "keywords": [
+                    "företagsnätverk",
+                    "wifi-installation",
+                    "nätverksoptimering",
+                    "företagswifi",
+                    "MikroTik",
+                    "Ubiquiti",
+                    "UniFi",
+                    "nätverkssäkerhet",
+                    "Székesfehérvár",
+                    "Ungern"
+                ],
+                "ogImage": "/og/network-optimization-en.jpg"
+            },
+            "repairService": {
+                "title": "IT-reparation & Service - Laptop, PC, Serverreparation | SIRONIC",
+                "description": "Snabb och pålitlig IT-reparation i Székesfehérvár. Professionell reparation av bärbara datorer, PC, servrar och NAS-enheter på plats eller via post. Transparent prissättning, garanti.",
+                "keywords": [
+                    "laptopreparation",
+                    "pcreparation",
+                    "datorreparation székesfehérvár",
+                    "serverreparation",
+                    "nasreparation",
+                    "dataåterställning",
+                    "virusborttagning",
+                    "reparation på plats"
+                ],
+                "ogImage": "/og/repair-service-en.jpg"
+            },
+            "onsitePresence": {
+                "title": "IT På Plats-närvaro - SIRONIC IT Solutions",
+                "description": "Professionell IT-övervakning och teknisk support för evenemang och konferenser. Dedikerad specialist på plats.",
+                "keywords": [
+                    "IT på plats",
+                    "event-IT",
+                    "konferensteknik",
+                    "IT-övervakning"
+                ]
+            }
+        }
+    },
+    "nav": {
+        "home": "Hem",
+        "services": "Tjänster",
+        "products": "Produkter",
+        "pricing": "Priser",
+        "about": "Om oss",
+        "blog": "Blogg",
+        "contact": "Kontakt",
+        "ctaButton": "Begär offert"
+    },
+    "hero": {
+        "badge": "Ny Tjänst",
+        "title": "Professionell IT-drift & Nätverksbyggande med Säkerhet på EU-nivå",
+        "subtitle": "Stabila och säkra IT-lösningar för SMF med garanterad tillgänglighet.",
+        "cta": "Gratis Konsultation",
+        "learnMore": "Kontakta oss"
+    },
+    "euPresence": {
+        "title": "IT-tjänst på EU-nivå – Vi är där du behöver oss",
+        "subtitle": "SIRONIC stöder företag med europeisk närvaro, och erbjuder IT-support på distans och på plats – utan gränser.",
+        "points": [
+            "Snabb respons var som helst i Europa",
+            "Professionell IT-support på distans eller på plats",
+            "För företag, evenemang och flera platser"
+        ],
+        "cta": "Läs mer"
+    },
+    "services": {
+        "title": "Våra Tjänster",
+        "subtitle": "Omfattande IT-lösningar för din företagstillväxt",
+        "viewAll": "Alla Tjänster",
+        "systemOperation": {
+            "title": "Systemhantering & IT-underhåll",
+            "description": "Omfattande systemunderhåll, kontinuerlig övervakning och support för SMF:er, helt EU-kompatibelt."
+        },
+        "networking": {
+            "title": "Nätverksbyggande & Utveckling",
+            "description": "Design, konstruktion och drift av moderna, säkra nätverksinfrastrukturer."
+        },
+        "security": {
+            "title": "IT-säkerhet & Dataskydd",
+            "description": "Säkerhetsrevisioner, åtkomsthantering och dataskydd i enlighet med EU-förordningar."
+        },
+        "development": {
+            "title": "Webbplats- & Systemutveckling",
+            "description": "Snabb och säker utveckling av företagswebbplatser och webbutiker med modern teknik."
+        },
+        "commerce": {
+            "title": "Handel – IT-utrustning & Programvara",
+            "description": "Få allt som behövs för kontorsdrift – datorer, bildskärmar, skrivare, servrar och programvarulicenser."
+        },
+        "hosting": {
+            "title": "Hosting & Molnlösningar",
+            "description": "Stabila, snabba och säkra hostinglösningar för webbplatser, e-post och säkerhetskopiering. Webbhotell, serverhyra och molnbackup."
+        },
+        "repair": {
+            "title": "Service & Reparation",
+            "description": "Snabb och pålitlig reparation av datorer, bärbara datorer och servrar på plats eller via post. Transparenta offerter och snabba reparationer."
+        }
+    },
+    "customDevelopment": {
+        "badge": "Anpassad Programvaruutveckling",
+        "title": "Anpassad Applikationsutveckling för Ditt Företag",
+        "subtitle": "Skalbar, säker och affärsfokuserad programvara",
+        "description": "SIRONIC-teamet erbjuder omfattande anpassad applikationsutveckling för ditt företag. Från webbappar till Windows skrivbordsprogramvara och mobilappar – alla lösningar är skräddarsydda för dina affärsbehov med modern teknik.",
+        "cards": {
+            "webApps": {
+                "title": "Anpassad Webbappsutveckling",
+                "description": "TailScript och React-baserade företagswebbappar. Skalbara, snabba och användarvänliga lösningar för komplexa affärsprocesser."
+            },
+            "desktop": {
+                "title": "Windows Skrivbordsprogramvara",
+                "description": "Utveckling av inbyggda Windows-applikationer. Effektiv, snabb och pålitlig programvara för kontorsmiljöer."
+            },
+            "mobile": {
+                "title": "Mobilappsutveckling",
+                "description": "Skapande av Android- och iOS-appar. Moderna, intuitiva mobila lösningar som fungerar perfekt på varje enhet."
+            }
+        },
+        "cta": {
+            "main": "Begär offert för anpassad utveckling",
+            "learnMore": "Läs mer"
+        }
+    },
+    "mindenCegnek": {
+        "badge": "Månatlig IT-support",
+        "title": "Varje företag förtjänar en IT-avdelning",
+        "subtitle": "IT-lösning, som att ha din egen IT-specialist",
+        "description": "Du behöver inte anställa en IT-specialist för att ha stabila, säkra och snabba system. SIRONICs månatliga prenumeration fungerar som om du hade ett internt team – men du betalar bara för vad du faktiskt behöver.",
+        "features": {
+            "costEffective": "Kostnadseffektiv, infrastrukturoptimerad IT-support – flexibel, pålitlig, transparent.",
+            "discount": "Gäller till 1 feb 2026: 10% rabatt på de första 3 månaderna för partners som begär konsultation!"
+        },
+        "cta": {
+            "consultation": "Begär gratis IT-konsultation!",
+            "learnMore": "Läs mer"
+        }
+    },
+    "whyChooseUs": {
+        "title": "Varför välja oss?",
+        "reasons": [
+            "Garanterad svarstid: Vi tillhandahåller snabb intervention med fasta SLA för våra kontrakterade partners.",
+            "Kontinuerlig systemövervakning: 24/7 övervakningstjänst för att förhindra fel.",
+            "Proaktivt underhåll: Vi tänker framåt, vi agerar innan det blir problem.",
+            "Pålitlighet: 5+ års erfarenhet av att designa och driva system.",
+            "Transparenta kostnader: Inga dolda avgifter, fast månatligt underhåll eller ad-hoc-lösningar.",
+            "Äkta mänsklig kommunikation: Ingen 'biljettjungel' – du kan alltid nå oss.",
+            "Modern IT-säkerhet: Dataskydd och nätverkssäkerhet med moderna brandväggar, säkerhetskopior och åtkomsthantering – säkerhet är standard, inte extra.",
+            "Webbutveckling & digital närvaro: Professionella, responsiva webbplatser och anpassade system som ökar din onlinesynlighet och lockar kunder."
+        ]
+    },
+    "trust": {
+        "partners": {
+            "title": "Våra Teknikpartners"
+        },
+        "reference": {
+            "quote": "Fullständigt IT-övertagande och uppstädning: stabilisering och modernisering av ett kontorsnätverk för 40 personer på mindre än 30 dagar."
+        }
+    },
+    "testimonials": {
+        "title": "Vad våra kunder säger",
+        "items": [
+            {
+                "quote": "Med SIRONIC-teamet sover vi äntligen gott: våra IT-system körs stabilt, snabbt och säkert. När problem uppstår svarar de omedelbart och förklarar allt på klarspråk – ingen teknisk jargong. Det är sällsynt att hitta en så pålitlig partner i IT-världen.",
+                "company": "Pervector Ltd."
+            },
+            {
+                "quote": "Vi brukade ha ständiga problem med datorer och nätverket, men sedan vi anförtrodde SIRONIC vår IT, går allt smidigt. De hjälper snabbt, oavsett problem, och vi hittar alltid lösningar med dem. Detta är exakt den typ av support varje företag behöver.",
+                "company": "Bocskai Alba Flexum Ltd."
+            },
+            {
+                "quote": "SIRONIC skapade en modern, ren och mobilvänlig webbplats åt oss som inte bara ser bra ut, utan hjälper våra kunder att hitta oss online enkelt. De har hanterat underhåll sedan dess – varje uppdatering och modifiering sker snabbt och exakt. Vi fick omfattande, professionell service.",
+                "company": "Bull & U Ltd."
+            },
+            {
+                "quote": "Vi ville ha en ren, snabb och modern webbplats – SIRONIC levererade exakt det. Professionellt team, uppmärksamhet på detaljer, och de har alltid bra idéer för att göra resultatet ännu bättre. Vår nya webbplats återspeglar perfekt vårt företags identitet.",
+                "company": "Regia Dental Ltd."
+            }
+        ]
+    },
+    "workProcess": {
+        "title": "Hur vi arbetar",
+        "steps": [
+            {
+                "step": "1",
+                "title": "Initial kontakt",
+                "description": "Skicka oss ett meddelande eller begär en gratis konsultation."
+            },
+            {
+                "step": "2",
+                "title": "IT-bedömning",
+                "description": "Vi granskar dina behov och ger expertrekommendationer."
+            },
+            {
+                "step": "3",
+                "title": "Anpassat förslag",
+                "description": "Vi skapar en skräddarsydd lösning utformad för ditt företag."
+            }
+        ]
+    },
+    "faq": {
+        "title": "Vanliga frågor",
+        "items": [
+            {
+                "question": "Vilka företag betjänar ni?",
+                "answer": "SIRONIC specialiserar sig på små och medelstora företag, men vi erbjuder också lösningar för större företag baserat på unika behov. Oavsett om det är systemadministrationssupport, nätverksbyggande eller webbutveckling – vi hittar den perfekta IT-lösningen för varje företag."
+            },
+            {
+                "question": "Hur skiljer sig SIRONIC från andra IT-leverantörer?",
+                "answer": "Vi är inte bara 'reparatörer' – vi övervakar proaktivt system, förhindrar problem och kommunicerar på mänskligt språk. Vi låter inte IT vara ett hinder, utan smider snarare en konkurrensfördel av det."
+            },
+            {
+                "question": "Hur snabbt reagerar ni på en felrapport?",
+                "answer": "Generellt reagerar vi inom 1–4 timmar, i brådskande fall till och med omedelbart. För våra prenumerationspartners tillhandahåller vi garanterade svarstider."
+            },
+            {
+                "question": "Åtar ni er besök på plats eller tillhandahåller ni bara fjärrsupport?",
+                "answer": "Ja, båda! Vi löser de flesta fel på distans, men om nödvändigt åker vi också ut till platsen personligen."
+            },
+            {
+                "question": "Skapar ni webbplatser helt från grunden?",
+                "answer": "Naturligtvis. Vi utvecklar unika, responsiva webbplatser med modern teknik (Next.js, React, Tailwind), och ser till att webbplatsen är snabb, säker och sökmotoroptimerad."
+            },
+            {
+                "question": "Vad är CRM Pro och hur hjälper det mitt företag?",
+                "answer": "CRM Pro är ett anpassat kundhanteringssystem som gör försäljningsprocesser transparenta, automatiserar administration och kan integreras med befintliga system. Tillgängligt i en prisklass som är tillgänglig även för mindre företag."
+            },
+            {
+                "question": "Vilka säkerhetsåtgärder tillämpar ni?",
+                "answer": "Vi använder moderna brandväggar, lösningar för säkerhetskopiering av data, kryptering och åtkomsthantering. Vi designar alla våra system att vara GDPR-kompatibla, så datasäkerhet är standard."
+            },
+            {
+                "question": "I vilken form kan vi teckna avtal med er?",
+                "answer": "Vi arbetar i två huvudkonstruktioner: ad-hoc-uppdrag (för tillfälliga uppgifter) och månatligt underhållsavtal (permanent drift och support). Båda är transparenta, med fast prissättning."
+            },
+            {
+                "question": "Hur mycket kostar utveckling av webbplats eller system?",
+                "answer": "Grundläggande webbplatser börjar från 250 000 HUF (ca 700€), medan priset på unika system eller CRM-lösningar bestäms beroende på funktionalitet. Vi ger en exakt prisoffert före varje projekt."
+            },
+            {
+                "question": "Varför är det värt att välja molnbaserade lösningar?",
+                "answer": "Molnet är snabbt, säkert och flexibelt – inget behov av att underhålla din egen server, data är alltid tillgängliga och expansion kan lösas på ett ögonblick."
+            }
+        ]
+    },
+    "finalCta": {
+        "title": "Redo för bekymmersfri IT?",
+        "description": "Begär en gratis konsultation och låt oss hitta den bästa lösningen för ditt företag tillsammans.",
+        "button": "Begär offert nu"
+    },
+    "contact": {
+        "title": "Kontakta oss",
+        "subtitle": "Har du frågor eller vill du ha en gratis konsultation? Hör av dig till oss, så svarar vi snabbt!",
+        "form": {
+            "title": "Skicka ett meddelande",
+            "name": "Namn",
+            "companyName": "Företagsnamn (Valfritt)",
+            "email": "E-post",
+            "service": "Vilken tjänst är du intresserad av?",
+            "servicePlaceholder": "Vänligen välj...",
+            "message": "Meddelande",
+            "submit": "Begär gratis IT-konsultation!",
+            "submitting": "Skickar...",
+            "required": "*",
+            "success": "Ditt meddelande har skickats framgångskt! Vi kontaktar dig strax.",
+            "error": "Ett fel uppstod när ditt meddelande skickades",
+            "noscript": "Du kan också skicka ditt meddelande via e-post:",
+            "options": {
+                "placeholder": "Välj en tjänst",
+                "mindenCegnek": "Varje företag bör ha en IT-specialist",
+                "systemOperation": "Systemdrift och IT-underhåll",
+                "networking": "Nätverksbyggande och utveckling",
+                "security": "IT-säkerhet och dataskydd",
+                "development": "Webbplats- och systemutveckling",
+                "commerce": "Handel – IT-enheter och programvara",
+                "hosting": "Hosting och molnlösningar",
+                "repair": "Service och reparation",
+                "training": "IT-utbildning och kunskapsutveckling"
+            },
+            "errors": {
+                "general": "Ett nätverksfel uppstod. Vänligen försök igen senare."
+            }
+        },
+        "info": {
+            "title": "Kontaktinformation",
+            "email": "E-post",
+            "phone": "Telefon",
+            "location": "Plats",
+            "hours": "Öppettider",
+            "hoursValue": "Måndag – Fredag\n8:00 – 17:00",
+            "quickResponse": "Snabbt svar",
+            "quickResponseText": "Vi svarar vanligtvis på alla förfrågningar inom 24 timmar på vardagar. För brådskande ärenden, vänligen ring oss!"
+        }
+    },
+    "footer": {
+        "companyName": "SIRONIC IT Solutions",
+        "tagline": "Omfattande IT-lösningar för små och medelstora företag",
+        "legalName": "Skoda Dávid András Enskild firma",
+        "address": "8000 Székesfehérvár, Lövölde utca 24 4/15",
+        "taxNumber": "Skatte-ID: 45755754-2-27",
+        "links": "Snabblänkar",
+        "hours": "Öppettider",
+        "hoursValue": "Måndag – Fredag\n8:00 – 17:00",
+        "cookieSettings": "Cookie-inställningar",
+        "copyright": "© {year} SIRONIC IT Solutions. Alla rättigheter förbehållna."
+    },
+    "common": {
+        "readMore": "Läs mer",
+        "learnMore": "Läs mer om det",
+        "getQuote": "Begär offert",
+        "contactUs": "Kontakt",
+        "loading": "Laddar...",
+        "whatYouGet": "Vad du får:"
+    },
+    "servicesPage": {
+        "title": "Våra Tjänster",
+        "subtitle": "Kompletta IT-lösningar för att hålla ditt företag säkert och effektivt. Från underhåll till fast avgift till anpassad utveckling – allt på ett ställe.",
+        "cta": {
+            "title": "Intresserad av någon av våra tjänster?",
+            "subtitle": "Begär en gratis konsultation och låt oss hitta den bästa lösningen för ditt företag tillsammans.",
+            "requestQuote": "Begär offert nu",
+            "reportService": "Rapportera serviceproblem"
+        },
+        "details": {
+            "systemOperation": {
+                "features": [
+                    "Proaktiv övervakning och underhåll",
+                    "Snabb felsökning",
+                    "Regelbundna säkerhetsuppdateringar",
+                    "Prestandaoptimering"
+                ]
+            },
+            "networking": {
+                "features": [
+                    "Nätverksdesign och implementering",
+                    "Optimering av WiFi-nätverk",
+                    "VPN och fjärråtkomst",
+                    "Nätverkssäkerhet"
+                ]
+            },
+            "security": {
+                "features": [
+                    "Brandväggskonfiguration och hantering",
+                    "Automatiska säkerhetskopior",
+                    "Dataskyddsförordning (GDPR)",
+                    "Virus- och skadlig kod-skydd"
+                ]
+            },
+            "development": {
+                "features": [
+                    "Moderna, responsiva webbplatser",
+                    "E-handelslösningar",
+                    "Anpassad programvaruutveckling",
+                    "SEO-optimering"
+                ]
+            },
+            "commerce": {
+                "description": "Du kan få allt som behövs för kontorsdrift från oss – datorer, bildskärmar, skrivare, servrar, nätverksenheter och programvarulicenser. Vi arbetar med pålitliga varumärken och hjälper dig att välja bästa pris-prestanda-förhållande. Oavsett om du behöver ny utrustning eller uppgraderingar tar vi hand om det.",
+                "features": [
+                    "Datorer, bärbara datorer och servrar",
+                    "Nätverksenheter och kringutrustning",
+                    "Anskaffning av programvarulicenser",
+                    "Rådgivning vid val av utrustning"
+                ]
+            },
+            "hosting": {
+                "description": "Vi erbjuder stabila, snabba och säkra hostinglösningar för webbplatser, e-post och databackup. Vi säkerställer att dina data alltid är tillgängliga och skyddade genom vår egen serverpark eller pålitliga internationella partners.",
+                "features": [
+                    "Webbhotell och domänregistrering",
+                    "E-posthosting",
+                    "Molnbaserad backup och fildelning",
+                    "Serverhyra och hantering"
+                ]
+            },
+            "repair": {
+                "title": "Service och Reparation – På plats eller via post",
+                "description": "Snabb och pålitlig reparation av datorer, bärbara datorer, servrar och nätverksenheter. På plats-service i Székesfehérvár och omgivningar, eller postservice. Vi börjar varje reparation med diagnostik, och fortsätter endast efter ditt godkännande av offerten. Vårt mål är att få ditt system igång igen så snart som möjligt.",
+                "features": [
+                    "Service på plats (Székesfehérvár och omgivningar)",
+                    "Alternativ för postinsändning",
+                    "Transparent offert före reparation",
+                    "Snabb reparationstid"
+                ]
+            },
+            "training": {
+                "title": "IT-utbildning och Kunskapsutveckling",
+                "description": "Utveckla ditt teams digitala färdigheter! Vi erbjuder personlig IT-utbildning, säkerhetsmedvetenhetsträning och systemnivåkunskapsutveckling så att anställda tryggt kan använda moderna enheter och programvara. Säker drift börjar med information.",
+                "features": [
+                    "Personlig IT-utbildning",
+                    "Säkerhetsmedvetenhetsträning",
+                    "Användarutbildning för programvara och enheter",
+                    "Företagskunskapsutvecklingsprogram"
+                ]
+            }
+        }
+    },
+    "productsPage": {
+        "breadcrumb": {
+            "home": "Hem",
+            "products": "Produkter"
+        },
+        "title": "Våra Produkter – Sironic-teknik i Verkliga Lösningar",
+        "subtitle": "Våra interna utvecklingar väcktes till liv av verkliga behov – dessa system stöder nu driften av flera företag. Se hur de kan hjälpa ditt företag också.",
+        "noProducts": "Det finns för närvarande inga produkter att visa. Vårt utbud kommer att utökas snart!",
+        "cta": {
+            "title": "Intresserad av någon av våra produkter?",
+            "subtitle": "Kontakta oss, så visar vi hur våra system kan passa in i din verksamhet. Alla våra produkter utvecklades baserat på verkliga affärsbehov.",
+            "consultation": "Begär Konsultation",
+            "services": "Våra Tjänster"
+        },
+        "whyChoose": {
+            "title": "Varför välja Sironic-produkter?",
+            "reasons": [
+                {
+                    "title": "Lösningar för verkliga problem",
+                    "description": "Alla våra produkter är testade i praktiken och beprövade hos verksamma företag."
+                },
+                {
+                    "title": "Ungersk språkstöd",
+                    "description": "Du kan nå oss direkt, ingen språkbarriär eller automatiserade svarssystem."
+                },
+                {
+                    "title": "Kontinuerlig Utveckling",
+                    "description": "Vi utökar och förbättrar regelbundet våra produktfunktioner baserat på kundfeedback."
+                },
+                {
+                    "title": "Anpassningsmöjligheter",
+                    "description": "Vi kan anpassa våra produkter efter dina behov och integrera dem i dina befintliga system."
+                }
+            ]
+        }
+    },
+    "aboutPage": {
+        "title": "Om oss",
+        "intro": [
+            "SIRONIC IT Solutions startade under COVID-perioden när varje företag var tvunget att tänka om sin IT-verksamhet. Sedan dess har vi kontinuerligt utvecklats och hållit oss uppdaterade med de snabba förändringarna i IT-världen – eftersom vi tror att teknik kan vara en fördel, inte en börda, för varje företag.",
+            "Vårt mål är att små och medelstora företag inte ska behöva kämpa med IT-problem. Vi underhåller inte bara system – vi ger stabilitet, säkerhet och sinnesfrid för verksamheten.",
+            "Oavsett om det är systemhantering, nätverksbyggande, datasäkerhet eller webbutveckling, så finns varje IT-lösning hos oss i en hand – snabbt, transparent och på mänskligt språk."
+        ],
+        "stats": [
+            {
+                "value": "5+",
+                "label": "Års Erfarenhet"
+            },
+            {
+                "value": "100+",
+                "label": "Nöjda Kunder"
+            },
+            {
+                "value": "24/7",
+                "label": "Tillgänglighet"
+            },
+            {
+                "value": "99.9%",
+                "label": "Upptid"
+            }
+        ],
+        "mission": {
+            "title": "SIRONICs Uppdrag",
+            "paragraphs": [
+                "Vi vet att för ett litet eller medelstort företag borde IT inte vara ett hinder – det måste bara fungera, varje dag, felfritt. Ett driftstopp, ett långsamt nätverk eller en föråldrad säkerhetsinställning kan orsaka allvarliga förluster idag.",
+                "Det var därför vi skapade SIRONIC IT Solutions: för att göra professionell men ändå prisvärd IT-bakgrund tillgänglig för varje företag. Du behöver inte anställa din egen systemadministratör, du behöver inte bygga komplexa eller dyra infrastrukturer – vi tar hand om allt.",
+                "Våra tjänster täcker hela IT-verksamheten: systemhantering, nätverksbyggande, säkerhetskopiering av data, IT-säkerhet, brandväggshantering, webbutveckling och IT-utbildning. Vi anpassar oss alltid till aktuell teknik, så att våra kunder kan vara säkra på att deras företags IT-system är uppdaterade och säkra.",
+                "SIRONIC tillhandahåller inte bara IT – utan sinnesfrid, förutsägbarhet och stöd. Vi är de du kan nå när som helst om det finns ett problem – och ofta löser vi det innan du ens märker det.",
+                "Vi behandlar varje kund som en partner, underhåller inte bara deras system, utan tar hand om deras verksamhet på lång sikt."
+            ]
+        },
+        "values": {
+            "title": "Varför arbeta med oss?",
+            "items": [
+                {
+                    "title": "Proaktiv Attityd",
+                    "description": "Vi agerar inte bara när det är problem. Vi övervakar kontinuerligt dina system för att förhindra problem."
+                },
+                {
+                    "title": "Mänsklig Kommunikation",
+                    "description": "Ingen 'biljettjungel' här. Du pratar med riktiga människor som förstår ditt problem och hjälper till snabbt."
+                },
+                {
+                    "title": "Transparens",
+                    "description": "Fast månatligt underhåll eller engångslösningar – inga dolda avgifter, du vet alltid vad du kan förvänta dig."
+                }
+            ]
+        },
+        "howWeWork": {
+            "title": "Hur arbetar vi?",
+            "steps": [
+                "Vi lyssnar på dina behov och bedömer ditt nuvarande IT-system",
+                "Vi ger en rekommendation om den bästa lösningen för dig",
+                "Vi installerar, optimerar och övervakar ditt system",
+                "Vi tillhandahåller kontinuerligt stöd när du behöver oss"
+            ]
+        },
+        "finalCta": {
+            "title": "Bli en av våra partners!",
+            "subtitle": "Begär en gratis konsultation, så hittar vi den bästa IT-lösningen för ditt företag tillsammans.",
+            "button": "Låt oss komma i kontakt"
+        }
+    },
+    "pricingPage": {
+        "title": "Prissättning",
+        "subtitle": "Vi skapar anpassade erbjudanden baserat på dina affärsbehov. Inga två företag är lika – så vi skräddarsyr alltid våra avgifter efter din infrastruktur och dina krav.",
+        "heroTitle": "Transparent Prissättning – Tydligt och Enkelt",
+        "heroDescription": "Inga dolda kostnader. Vi har utformat våra tjänster så att varje företag kan hitta rätt lösning – oavsett om det är underhåll, utveckling eller reparation.",
+        "packages": {
+            "mindenCegnek": {
+                "title": "Varje företag förtjänar en IT-avdelning",
+                "price": "från 150 €/månad",
+                "description": "Full IT-drift i en månatlig prenumeration – som att ha din egen IT-specialist.",
+                "features": [
+                    "Kontinuerlig systemövervakning och underhåll",
+                    "Snabb intervention vid fel",
+                    "Konsultation om infrastrukturutveckling",
+                    "Hantering av backup och uppdateringar",
+                    "Personlig, ungersktalande IT-support"
+                ],
+                "badge": "🎁 Gäller till 1 feb 2026: 10% rabatt på de första 3 månaderna för konsultationsförfrågningar!",
+                "ctaText": "Begär Konsultation"
+            },
+            "systemOperation": {
+                "title": "Systemdrift & IT-underhåll",
+                "price": "från 120 €/månad",
+                "description": "Kontinuerlig övervakning och oavbruten drift.",
+                "features": [
+                    "Regelbundet underhåll och övervakning",
+                    "Snabb felsökning och återställning",
+                    "Övervakning av server och nätverk",
+                    "Proaktiv drift och säkerhetsuppdateringar"
+                ],
+                "ctaText": "Begär Offert"
+            },
+            "networking": {
+                "title": "Nätverksbyggande & Utveckling",
+                "price": "från 180 € / projekt",
+                "description": "Pålitlig, säker design och implementering av nätverksinfrastruktur.",
+                "features": [
+                    "Komplett nätverksdesign och installation",
+                    "Router, switch, Wi-Fi-konfiguration",
+                    "Nätverksoptimering och underhåll",
+                    "Snabb, stabil och säker dataanslutning"
+                ],
+                "ctaText": "Begär Offert"
+            },
+            "security": {
+                "title": "IT-säkerhet & Dataskydd",
+                "price": "från 240 €",
+                "description": "Skydda dina företagsdata med moderna lösningar.",
+                "features": [
+                    "Brandväggsinstallation och nätverkssäkerhet",
+                    "Säkerhetskopiering och återställning",
+                    "Åtkomsthantering, kryptering",
+                    "GDPR-kompatibelt dataskydd"
+                ],
+                "ctaText": "Begär Offert"
+            },
+            "development": {
+                "title": "Webbplats- & Systemutveckling",
+                "price": "från 1 000 € (engångs)",
+                "description": "Professionella, anpassade utvecklingar för ditt företags digitala tillväxt.",
+                "features": [
+                    "Responsiva webbplatser och portaler",
+                    "Anpassade programvarulösningar",
+                    "SEO- och UX-optimering",
+                    "Kontinuerligt stöd och underhåll"
+                ],
+                "ctaText": "Begär Offert"
+            },
+            "commerce": {
+                "title": "Handel – IT-utrustning & Programvara",
+                "price": "Baserat på anpassad offert",
+                "description": "Allt som behövs för modern kontorsdrift.",
+                "features": [
+                    "Datorer, bildskärmar, servrar",
+                    "Skrivare och nätverksenheter",
+                    "Programvarulicenser och prenumerationer",
+                    "Komplett kontorsinfrastruktur"
+                ],
+                "ctaText": "Begär Offert"
+            },
+            "hosting": {
+                "title": "Hosting & Molnlösningar",
+                "price": "från 15 €/månad",
+                "description": "Snabb, säker och skalbar hosting för företag.",
+                "features": [
+                    "Webb- och e-posthosting",
+                    "Molnbaserad backup",
+                    "Privat molntjänst",
+                    "Kontinuerlig tillgänglighet (99,9%)"
+                ],
+                "ctaText": "Begär Offert"
+            },
+            "crm": {
+                "title": "Anpassad CRM-utveckling",
+                "price": "från 1 500 €",
+                "description": "Personligt kundhanteringssystem som ökar försäljningseffektiviteten.",
+                "features": [
+                    "Modulär struktur, anpassningsbara funktioner",
+                    "Integration med befintliga system (ERP, e-post, webbplats)",
+                    "Automatiserade rapporter och analyser",
+                    "Användarvänligt gränssnitt"
+                ],
+                "ctaText": "Begär Offert"
+            }
+        },
+        "customQuote": {
+            "title": "Har du unika behov?",
+            "description": "Priser är vägledande; exakta offerter baseras alltid på krav.\nBegär en gratis konsultation, så hjälper vi dig att hitta den bästa lösningen.",
+            "button": "Begär Gratis IT-konsultation"
+        },
+        "whyChoose": {
+            "title": "Varför välja SIRONIC?",
+            "description": "Om inget paket passar perfekt, skapar vi ett anpassat erbjudande. Inga två företag är lika – och inte heller två lösningar.",
+            "reasons": [
+                {
+                    "title": "Transparent Prissättning",
+                    "description": "Inga dolda kostnader"
+                },
+                {
+                    "title": "Flexibla Paket",
+                    "description": "Månatliga och engångslösningar"
+                },
+                {
+                    "title": "Snabb Respons",
+                    "description": "Vi hjälper omedelbart om det behövs"
+                },
+                {
+                    "title": "Långsiktigt Stöd",
+                    "description": "Vi behandlar kunder som partners"
+                }
+            ],
+            "button": "Begär Anpassad Offert"
+        }
+    },
+    "cookie": {
+        "title": "Cookie-inställningar",
+        "description": "Vi använder cookies för att förbättra din surfupplevelse och analysera vår trafik. Genom att klicka på \"Acceptera alla\" samtycker du till vår användning av cookies.",
+        "accept": "Acceptera alla",
+        "decline": "Avböj",
+        "manage": "Inställningar",
+        "privacy": "Integritetspolicy"
+    },
+    "mindenCegnekPage": {
+        "hero": {
+            "badge": "Månatlig IT-support",
+            "title": "Varje företag förtjänar en IT-avdelning",
+            "subtitle": "Som att ha din egen IT-specialist",
+            "description": "En tjänst där du inte behöver anställa en IT-specialist – istället får du ett helt team som håller allt uppdaterat i bakgrunden, övervakar, underhåller och bara griper in när det behövs.",
+            "cta": "Begär Konsultation",
+            "discount": "Gäller till 1 feb 2026: 10% rabatt på de första 3 månaderna för konsultationsförfrågningar!",
+            "scroll": "Skrolla ner för mer info"
+        },
+        "whatYouGet": {
+            "title": "Vad får du exakt?",
+            "subtitle": "En omfattande IT-lösning som fungerar för dig varje dag – osynligt men effektivt.",
+            "features": {
+                "internet": {
+                    "title": "Kontinuerlig internetåtkomst och stabil drift",
+                    "description": "Vi ser till att ditt företagsnätverk alltid är tillgängligt, stabilt och säkert – obemärkt, i bakgrunden."
+                },
+                "platform": {
+                    "title": "Unik plattform för felrapportering",
+                    "description": "Du får ditt eget gränssnitt där du enkelt kan rapportera problem eller önskemål – vi svarar omedelbart."
+                },
+                "monitoring": {
+                    "title": "Kontinuerlig övervakning och felsökning",
+                    "description": "Vi övervakar servrar, nätverk och system för att hantera fel innan du ens märker dem."
+                },
+                "cost": {
+                    "title": "Kostnadseffektiv, transparent prisstruktur",
+                    "description": "Utöver den fasta månadsavgiften betalar du bara för det som faktiskt behöver åtgärdas – baserat på en överenskommen prislista."
+                },
+                "reporting": {
+                    "title": "Uppdaterade system, månadsrapport",
+                    "description": "Vi uppdaterar och underhåller kontinuerligt system och skickar en rapport i slutet av varje månad om prestanda och systemstatus."
+                }
+            }
+        },
+        "benefits": {
+            "title": "Varför är detta bra för dig?",
+            "subtitle": "Kostnadseffektiv, transparent och pålitlig IT-support – utan att upprätthålla din egen IT-avdelning.",
+            "items": [
+                "Inget behov av att anställa din egen IT-personal – men någon bevakar dina system",
+                "Fast månadsavgift, förutsägbara kostnader",
+                "Snabb svarstid vid problem",
+                "Proaktivt underhåll och övervakning",
+                "Svensk-, engelsk- eller ungersktalande personlig support",
+                "Månadsrapporter om systemstatus",
+                "Skalbar lösning – när ditt företag växer, expanderar vi också",
+                "Inga överraskningsräkningar – allt överenskommet i förväg"
+            ]
+        },
+        "pricing": {
+            "title": "Hur fungerar prissättningen?",
+            "subtitle": "Enkel och transparent struktur – fast månadsavgift plus överenskommen timtaxa vid behov.",
+            "fixed": {
+                "title": "Fast månadsavgift",
+                "price": "från 150 €/månad",
+                "description": "Inkluderar övervakning, grundläggande underhåll, rapportering och support."
+            },
+            "hourly": {
+                "title": "Plus arbetskostnad",
+                "price": "Överenskommen timtaxa",
+                "description": "Du betalar bara om faktisk intervention eller utveckling behövs."
+            },
+            "note": "Prissättning beror på avtalslängd och uppgiftstyper. Begär en anpassad offert!"
+        },
+        "finalCta": {
+            "title": "Du behöver inte din egen IT-specialist, bara en pålitlig partner",
+            "description": "Vi tillhandahåller expertis, snabb respons och stabil drift – du kan fokusera på ditt företag.",
+            "button": "Begär Offert"
+        }
+    },
+    "customDevelopmentPage": {
+        "breadcrumb": {
+            "home": "Hem",
+            "customDevelopment": "Anpassad Applikationsutveckling"
+        },
+        "hero": {
+            "title": "Anpassad Applikationsutveckling",
+            "subtitle": "Moderna, skalbara och affärsfokuserade programvarulösningar skräddarsydda för dina affärsbehov",
+            "description": "Mer än bara skapande av webbplatser – vi utvecklar komplexa applikationer som skapar verkligt värde för ditt företag. Från TailScript och React-baserade webbapplikationer till inbyggd Windows-programvara och Android/iOS-mobilappar.",
+            "cta": "Begär Gratis Konsultation",
+            "scrollDown": "Skrolla ner för detaljer"
+        },
+        "what": {
+            "title": "Vad utvecklar vi?",
+            "subtitle": "Omfattande anpassade programvarulösningar med spjutspetsteknik",
+            "items": [
+                {
+                    "title": "TailScript-baserade Webbapplikationer",
+                    "description": "Snabba, moderna och effektiva webbsystem med TailScript-teknik. Skalbara lösningar för komplexa affärsprocesser som fungerar smidigt i varje webbläsare."
+                },
+                {
+                    "title": "React Företagsapplikationer",
+                    "description": "Webbapplikationer på företagsnivå med React och Next.js. Intuitivt användargränssnitt, snabb laddning, SEO-optimerad struktur – allt som behövs för moderna affärsapplikationer."
+                },
+                {
+                    "title": "Windows Skrivbordsprogramvara",
+                    "description": "Utveckling av inbyggda Windows-applikationer med .NET och modern C#-teknik. Snabba, pålitliga skrivbordslösningar som integreras sömlöst i företagsmiljöer."
+                },
+                {
+                    "title": "Mobilappsutveckling – Android + iOS",
+                    "description": "Inbyggda och plattformsoberoende mobilapplikationer med React Native och Flutter. En kodbas, två plattformar – snabb utveckling, utmärkt användarupplevelse på båda operativsystemen."
+                }
+            ]
+        },
+        "whyChoose": {
+            "title": "Varför välja SIRONIC för anpassad utveckling?",
+            "subtitle": "Vi kodar inte bara – vi är partners i att uppnå dina affärsmål",
+            "reasons": [
+                {
+                    "title": "Verklig Affärsförståelse",
+                    "description": "Vi är inte bara programmerare – vi förstår affärsprocesser. Varje utveckling är skräddarsydd för dina behov för att skapa verkligt värde."
+                },
+                {
+                    "title": "Modern Teknik",
+                    "description": "React, Next.js, TailScript, .NET, React Native – vi arbetar med de mest avancerade verktygen som är snabba, säkra och framtidssäkra."
+                },
+                {
+                    "title": "Långsiktigt Partnerskap",
+                    "description": "Vi slutar inte vid utveckling. Vi tillhandahåller löpande support, underhåll och vidareutveckling – programvaran håller alltid jämna steg med dina affärsbehov."
+                },
+                {
+                    "title": "Transparent Kommunikation",
+                    "description": "Ungersk/Engelsk/Svensktalande, direkt kommunikation. Inga språkbarriärer, inga missförstånd – du vet alltid var projektet står."
+                },
+                {
+                    "title": "Säkerhet och Pålitlighet",
+                    "description": "Alla våra applikationer är byggda med säker datahantering, GDPR-kompatibel struktur och stabil drift."
+                },
+                {
+                    "title": "Skalbarhet",
+                    "description": "Vi designar våra system för att växa med ditt företag – inget behov av att skriva om när du expanderar."
+                }
+            ]
+        },
+        "technologies": {
+            "title": "Vilka teknologier använder vi?",
+            "subtitle": "De mest moderna och pålitliga verktygen på marknaden",
+            "list": [
+                "React & Next.js – moderna, SEO-vänliga webbapplikationer",
+                "TailScript – snabba och skalbara webbsystem",
+                "TypeScript – typsäker, felfri kod",
+                "Node.js & Express – robusta backend-lösningar",
+                ".NET & C# – inbyggd Windows-programvara",
+                "React Native & Flutter – plattformsoberoende mobilapplikationer",
+                "Tailwind CSS – modern, responsiv design",
+                "PostgreSQL, MySQL – pålitlig databashantering",
+                "Docker & Cloud – skalbar och säker infrastruktur"
+            ]
+        },
+        "process": {
+            "title": "Hur arbetar vi?",
+            "subtitle": "Transparent, strukturerad utvecklingsprocess – steg för steg",
+            "steps": [
+                {
+                    "number": "1",
+                    "title": "Kravanalys och Konsultation",
+                    "description": "Vi lär oss om dina affärsmål, förväntningar och nuvarande system. Vi klargör exakt vad du vill uppnå med programvaran."
+                },
+                {
+                    "number": "2",
+                    "title": "UX/UI-design och Strukturbyggande",
+                    "description": "Vi designar användarupplevelsen och gränssnittet. Trådmodeller, designer och interaktionsplaner – så vi vet exakt vad vi bygger."
+                },
+                {
+                    "number": "3",
+                    "title": "Utveckling och Kontinuerlig Samordning",
+                    "description": "Den faktiska kodningen. Vi kommunicerar kontinuerligt, visar framsteg och svarar på dina behov – så det finns inga överraskningar vid leverans."
+                },
+                {
+                    "number": "4",
+                    "title": "Testning och Kvalitetssäkring",
+                    "description": "Noggrann testning på varje enhet och webbläsare. Prestanda-, säkerhets- och funktionstester – för att säkerställa att allt fungerar felfritt."
+                },
+                {
+                    "number": "5",
+                    "title": "Live-lansering och Utbildning",
+                    "description": "Programvarudriftsättning och användarutbildning. Du får all dokumentation och support för smidig drift."
+                },
+                {
+                    "number": "6",
+                    "title": "Underhåll och Vidareutveckling",
+                    "description": "Löpande support, buggfixar och vidareutveckling. Programvaran håller sig alltid uppdaterad och håller jämna steg med dina behov."
+                }
+            ]
+        },
+        "useCases": {
+            "title": "Vad är en anpassad applikation bra för?",
+            "subtitle": "Verkliga affärsproblem vi löser med anpassad programvara",
+            "examples": [
+                "CRM och kundhanteringssystem – håll dina kunder under kontroll",
+                "Lager- och logistikprogramvara – automatiserad lagerhantering",
+                "Interna företagsportaler – all data på ett ställe",
+                "E-handel och webbutiksutveckling – online-försäljningskanaler",
+                "Projektledningsverktyg – teamarbete och uppgiftsspårning",
+                "Automatiserade rapporter och administration – spara tid",
+                "Integration med befintliga system – ERP, fakturering, CRM-anslutning",
+                "Mobilapplikationer – i händerna på kunder och anställda"
+            ]
+        },
+        "pricing": {
+            "title": "Hur mycket kostar en anpassad applikation?",
+            "subtitle": "Varje projekt är unikt – prissättningen baseras alltid på krav",
+            "description": "Priset på anpassad applikationsutveckling beror på projektets komplexitet, funktionalitet och tidskrav. Små applikationer börjar från 2 000 €, större företagssystem kan kosta tiotusentals – men vi förbereder alltid en anpassad offert.",
+            "process": "I en gratis konsultation bedömer vi dina behov, diskuterar möjligheter och tillhandahåller en transparent, fast offert för hela projektet.",
+            "cta": "Begär Gratis Offert"
+        },
+        "faq": {
+            "title": "Vanliga frågor",
+            "items": [
+                {
+                    "question": "Hur lång tid tar anpassad applikationsutveckling?",
+                    "answer": "Det beror på projektets storlek – en enklare webbapplikation tar 4-8 veckor, medan ett komplext företagssystem kan ta 3-6 månader. Vi kommer alltid överens om tidsfrister i offerten."
+                },
+                {
+                    "question": "Kan ni integrera med befintliga system?",
+                    "answer": "Ja! Vi integrerar regelbundet med ERP, CRM, faktureringssystem och andra externa API:er. Detta är en av de största fördelarna med anpassad utveckling."
+                },
+                {
+                    "question": "Vem äger källkoden?",
+                    "answer": "Efter projektet blir källkoden din fullständiga egendom – inga dolda licensavgifter eller beroenden."
+                },
+                {
+                    "question": "Vad sägs om underhåll och vidareutveckling?",
+                    "answer": "Vi tillhandahåller support efter leverans: buggfixar, uppdateringar, vidareutveckling – med valfria månatliga eller engångslösningar."
+                },
+                {
+                    "question": "Vilken garanti får vi på applikationen?",
+                    "answer": "Det finns en 6-månaders garanti på buggar efter leverans – vi fixar alla funktionella problem gratis under denna period."
+                }
+            ]
+        },
+        "finalCta": {
+            "title": "Redo för en anpassad programvarulösning?",
+            "description": "Låt oss diskutera dina behov och skapa en applikation tillsammans som verkligen ökar din affärseffektivitet.",
+            "button": "Begär Gratis Konsultation"
+        }
+    },
+    "itTraining": {
+        "badge": "IT-utbildning & Träning",
+        "title": "IT-utbildning & Företagskunskapsutveckling",
+        "subtitle": "Utveckla ditt teams digitala färdigheter",
+        "description": "Vi erbjuder personlig IT-utbildning, säkerhetsmedvetenhetsworkshops och systemnivåkunskapsutveckling för att säkerställa att dina anställda använder moderna verktyg och programvara med tillförsikt. Säker drift börjar med information.",
+        "cards": {
+            "personalized": {
+                "title": "Personlig IT-utbildning",
+                "description": "Anpassade utbildningsprogram för att förbättra ditt teams digitala färdighet. Praktisk kunskap som omedelbart kan tillämpas på dagliga uppgifter."
+            },
+            "security": {
+                "title": "Säkerhetsmedvetenhetsträning",
+                "description": "Cybersäkerhetsgrunder och dataskyddsworkshops. Lär ditt team hur man skyddar företagets data och system effektivt."
+            },
+            "software": {
+                "title": "Programvara & Enhetsanvändningsträning",
+                "description": "Effektiv användning av Microsoft 365, Google Workspace och kontorsverktyg. Öka produktiviteten genom att behärska rätt verktyg."
+            },
+            "corporate": {
+                "title": "Företagskunskapsutvecklingsprogram",
+                "description": "Långsiktig digital kompetensutveckling. Kontinuerliga utbildningsprogram som håller jämna steg med tekniska framsteg."
+            }
+        },
+        "languageNote": "Utbildningstillfällen är för närvarande endast tillgängliga på ungerska, antingen online eller på plats.",
+        "cta": {
+            "main": "Begär Utbildningsoffert",
+            "learnMore": "Läs Mer"
+        }
+    },
+    "itTrainingPage": {
+        "meta": {
+            "title": "IT-utbildning & Företagsträning | SIRONIC",
+            "description": "Praktisk IT-utbildning för företag: säkerhetsmedvetenhet, programvaruanvändning och digital kompetensutveckling. Uppgradera ditt teams färdigheter!",
+            "keywords": [
+                "IT-utbildning",
+                "företagsträning",
+                "säkerhetsmedvetenhet",
+                "digital kompetens",
+                "Excel-kurs",
+                "IT-workshop"
+            ],
+            "ogTitle": "IT-utbildning & Företagsträning - SIRONIC",
+            "ogDescription": "Praktisk IT-utbildning för företag. Uppgradera ditt teams digitala färdigheter med oss!"
+        },
+        "breadcrumb": {
+            "home": "Hem",
+            "training": "IT-utbildning"
+        },
+        "hero": {
+            "title": "IT-utbildning & Företagskunskapsutveckling",
+            "subtitle": "Utveckla ditt teams digitala färdigheter med professionell träning",
+            "description": "SIRONIC driver inte bara IT-system – vi utvecklar också dina anställdas digitala kunskap. Med vår personliga utbildning kommer ditt team att använda moderna verktyg med tillförsikt och vara medvetna om säkerhetsrisker.",
+            "cta": "Begär Gratis Konsultation",
+            "scrollDown": "Skrolla ner för detaljer"
+        },
+        "intro": {
+            "title": "Varför är Företags-IT-utbildning Viktig?",
+            "content": [
+                "Även den bästa IT-infrastrukturen räcker inte om anställda inte kan använda den effektivt. Dålig verktygskunskap, brist på säkerhetsmedvetenhet och föråldrade arbetsflöden minskar produktiviteten och ökar riskerna.",
+                "Med SIRONICs IT-utbildningsprogram får ditt team uppdaterad kunskap, arbetar mer självsäkert och skyddar företagsdata medvetet. All vår utbildning är praktisk, personlig och direkt tillämplig på dagligt arbete."
+            ]
+        },
+        "services": {
+            "title": "Vilken Utbildning Erbjuder Vi?",
+            "subtitle": "Praktisk, affärsfokuserad utbildning på varje nivå",
+            "items": [
+                {
+                    "title": "Personlig IT-utbildning",
+                    "description": "Anpassad läroplan och takt enligt ditt teams behov. Från nybörjare till avancerade användare – varje kurs är skräddarsydd för ditt företags verkliga krav. Lärande genom praktiska exempel och verkliga situationer.",
+                    "topics": [
+                        "Windows och macOS grunder",
+                        "Filhantering och mappstruktur",
+                        "Säkerhetskopiering och återställning av data",
+                        "Använda kringutrustning och skrivare",
+                        "Snabba tangentbordsgenvägar och produktivitetstips"
+                    ]
+                },
+                {
+                    "title": "Säkerhetsmedvetenhetsträning",
+                    "description": "De flesta dataskyddsincidenter sker på grund av mänskliga fel – e-postbaserade bedrägerier, svaga lösenord, nätfiske. Vår utbildning hjälper anställda att känna igen och undvika risker.",
+                    "topics": [
+                        "Känna igen nätfiske-e-post och bedrägerier",
+                        "Säker lösenordshantering och 2FA-användning",
+                        "Dataskyddsprinciper (GDPR) i praktiken",
+                        "Säker fildelning och e-post",
+                        "Enhetssäkerhet: bärbara datorer, telefoner, distansarbete"
+                    ]
+                },
+                {
+                    "title": "Programvara & Enhetsanvändningsträning",
+                    "description": "Modernt kontorsarbete bygger på programvaruverktyg – men ofta använder vi bara en bråkdel av deras potential. Vi lär ut verktygen och metoderna för effektivt arbete.",
+                    "topics": [
+                        "Microsoft 365: Word, Excel, PowerPoint, Outlook, Teams",
+                        "Google Workspace: Docs, Sheets, Drive, Meet",
+                        "Samarbetsverktyg: Slack, Notion, Trello, Asana",
+                        "Använda videokonferensverktyg",
+                        "Molnbaserad fildelning och synkronisering"
+                    ]
+                },
+                {
+                    "title": "Företagskunskapsutvecklingsprogram",
+                    "description": "Långsiktiga, kontinuerliga utbildningsprogram som säkerställer att teamet alltid är uppdaterat. Bygga en företagskunskapsbas och regelbunden utveckling.",
+                    "topics": [
+                        "Skapa anpassade läromedel och guider",
+                        "Löpande onlinesupport och Q&A-sessioner",
+                        "Regelbunden teknisk repetitionsutbildning",
+                        "IT-onboardingutbildning för nyanstälda",
+                        "Utbildning på specifika företagssystem"
+                    ]
+                }
+            ]
+        },
+        "benefits": {
+            "title": "Varför Investera i Företags-IT-utbildning?",
+            "subtitle": "Konkreta fördelar som ger mätbara resultat",
+            "list": [
+                "Högre produktivitet – anställda arbetar snabbare och effektivare",
+                "Färre IT-fel och helpdesk-samtal – minskad belastning på teknisk support",
+                "Säkrare drift – medvetna anställda skyddar data",
+                "Bättre verktygsutnyttjande – full potential av programvara och system",
+                "Mer självsäkert team – ingen rädsla för ny teknik",
+                "Snabbare anpassning – smidigare introduktion av nya verktyg",
+                "Konkurrenskraft – ett digitalt kompetent team innebär ett modernare företag"
+            ]
+        },
+        "targetGroups": {
+            "title": "Vem Rekommenderar Vi Det För?",
+            "subtitle": "För varje företag som arbetar med digitala verktyg",
+            "groups": [
+                {
+                    "title": "Kontorsarbetare",
+                    "description": "De som använder datorer, e-post och Office-program dagligen."
+                },
+                {
+                    "title": "Ledare och Chefer",
+                    "description": "De som behöver digital verktygskunskap för beslutsfattande, rapportering och kommunikation."
+                },
+                {
+                    "title": "Icke-IT Kollegor",
+                    "description": "De för vilka teknik bara är ett verktyg, men ett hinder utan rätt kunskap."
+                },
+                {
+                    "title": "Distansarbetare",
+                    "description": "De som behöver stöd för säkert och effektivt hemarbete."
+                },
+                {
+                    "title": "Nyanställda",
+                    "description": "De som behöver lära sig företags-IT-system som en del av onboarding."
+                }
+            ]
+        },
+        "delivery": {
+            "title": "Hur Levereras Utbildningen?",
+            "subtitle": "Flexibla utbildningsformer – Du väljer vad som passar bäst",
+            "methods": [
+                {
+                    "title": "Utbildning på plats",
+                    "description": "Vi kommer till ditt kontor och håller utbildningen på plats. Personlig, interaktiv, med omedelbara praktiska exempel på dina egna system."
+                },
+                {
+                    "title": "Online Fjärrutbildning",
+                    "description": "Live-utbildningssessioner via videokonferensplattformar. Flexibel schemaläggning, ingen resa, men lika effektiv som formen på plats."
+                },
+                {
+                    "title": "Hybridmodell",
+                    "description": "Kombination av de två: kick-off på plats, sedan online-fortsättning. Det bästa av två världar."
+                }
+            ],
+            "languageNote": "Utbildningstillfällen är för närvarande endast tillgängliga på ungerska, antingen online eller på plats."
+        },
+        "topics": {
+            "title": "Specifika Ämnen Vi Lär Ut",
+            "subtitle": "Praktisk kunskap du kan tillämpa omedelbart",
+            "list": [
+                "Använda Microsoft 365 (Word, Excel, PowerPoint, Outlook, OneDrive, Teams)",
+                "Google Workspace-verktyg (Gmail, Drive, Docs, Sheets, Meet)",
+                "Säker lösenordshantering och tvåfaktorsautentisering",
+                "Känna igen nätfiske-e-post och onlinescam",
+                "Säker fildelning och molnlagring",
+                "Professionell användning av videokonferensverktyg",
+                "Effektiv e-posthantering och inkorgsorganisation",
+                "Projekt- och uppgiftshantering (Trello, Asana, Notion)",
+                "Windows och macOS grundläggande funktioner och tips",
+                "Kontorsenheter: skrivare, skannrar, multimedia"
+            ]
+        },
+        "methodology": {
+            "title": "Hur Arbetar Vi?",
+            "subtitle": "Strukturerad utbildningsprocess – steg för steg",
+            "steps": [
+                {
+                    "number": "1",
+                    "title": "Behovsbedömning",
+                    "description": "Vi lär känna teamet, nuvarande kunskapsnivåer och företagsprocesser. Vi klargör vilka områden som behöver utveckling."
+                },
+                {
+                    "number": "2",
+                    "title": "Skapa Anpassad Läroplan",
+                    "description": "Personlig utbildningsplan och material som passar ditt företags verktyg och arbetsflöden."
+                },
+                {
+                    "number": "3",
+                    "title": "Genomföra Utbildning",
+                    "description": "Interaktiv, praktisk live-utbildning – frågor, svar, verkliga exempel i din egen miljö."
+                },
+                {
+                    "number": "4",
+                    "title": "Uppföljning och Stöd",
+                    "description": "Vi är tillgängliga efter utbildning också – frågor, revideringar, ytterligare hjälp. Vi säkerställer att kunskapen verkligen integreras i den dagliga rutinen."
+                }
+            ]
+        },
+        "faq": {
+            "title": "Vanliga frågor",
+            "items": [
+                {
+                    "question": "Hur lång tid tar ett utbildningstillfälle?",
+                    "answer": "Längden beror på behov. En engångsworkshop är 2-4 timmar, medan ett omfattande företagsprogram kan sträcka sig över flera veckor med flera sessioner. Vi kommer alltid överens om tidsramen."
+                },
+                {
+                    "question": "Hur många personer kan delta samtidigt?",
+                    "answer": "Det ideala antalet är mellan 5-15 personer så att alla får tillräckligt med uppmärksamhet. För större grupper kan vi hålla flera skift eller parallella grupper."
+                },
+                {
+                    "question": "Behöver deltagarna tidigare IT-kunskap?",
+                    "answer": "Nej! Vi anpassar utbildningen till deltagarnas nuvarande kunskapsnivå – från nybörjare till avancerad. Vi bedömer var alla står i förväg."
+                },
+                {
+                    "question": "Får deltagarna material eller anteckningar?",
+                    "answer": "Ja! Efter varje utbildning får de materialet, presentationerna och praktiska guider i digital form – så att de kan granska dem när som helst."
+                },
+                {
+                    "question": "På vilket språk hålls utbildningstillfällena?",
+                    "answer": "För närvarande hålls utbildningstillfällen uteslutande på ungerska, antingen online eller på plats."
+                },
+                {
+                    "question": "Hur mycket kostar företags-IT-utbildning?",
+                    "answer": "Prissättning baseras på en anpassad offert – beroende på antalet deltagare, ämnen och varaktighet. Begär en offert, så diskuterar vi det!"
+                }
+            ]
+        },
+        "pricing": {
+            "title": "Hur Mycket Kostar IT-utbildning?",
+            "subtitle": "Vi skapar anpassade erbjudanden – varje företag har olika behov",
+            "description": "Utbildningspriser beror på antalet deltagare, varaktighet, ämnen och plats (online/offline). I genomsnitt börjar en 4-timmars workshop från 200 € för små grupper, medan ett längre, kontinuerligt utvecklingsprogram är tillgängligt i en månadsprenumerationsmodell.",
+            "process": "Begär en gratis konsultation, vi bedömer behoven och förbereder en detaljerad, transparent offert.",
+            "cta": "Begär Offert Nu"
+        },
+        "finalCta": {
+            "title": "Starta Ditt Teams Digitala Utveckling!",
+            "description": "Begär en gratis konsultation, och låt oss ta reda på tillsammans vilken IT-utbildning som kan förbättra din affärseffektivitet och säkerhet.",
+            "button": "Begär IT-utbildningsoffert"
+        }
+    },
+    "networkOptimization": {
+        "badge": "Nätverksoptimering",
+        "title": "Säkerställ att Ditt Företag Har Stabilt och Snabbt Internet & Wi-Fi",
+        "subtitle": "Långsamt Wi-Fi, instabil anslutning eller ett otillförlitligt nätverk saktar ner hela din verksamhet. Vi designar, optimerar och underhåller moderna nätverksinfrastrukturer av företagsklass så att varje enhet körs snabbt, säkert och pålitligt.",
+        "features": {
+            "wifi": {
+                "title": "Stabilt företags-Wi-Fi med hög täckning",
+                "description": "Moderna åtkomstpunkter och nätverksdesign för att säkerställa stark Wi-Fi-signal i varje rum – utan avbrott."
+            },
+            "speed": {
+                "title": "Snabbt och säkert nätverk för alla enheter",
+                "description": "Optimerad bandbredd, VLAN-separation och prestandajustering – varje enhet fungerar smidigt."
+            },
+            "reliability": {
+                "title": "Pålitlig anslutning — inga avbrott",
+                "description": "Pålitliga routrar, nätverksutrustning av företagsklass och kontinuerlig övervakning – så ditt nätverk alltid är tillgängligt."
+            }
+        },
+        "cta": "Begär Nätverksbedömning"
+    },
+    "networkOptimizationPage": {
+        "breadcrumb": {
+            "home": "Hem",
+            "networkOptimization": "Nätverksoptimering"
+        },
+        "hero": {
+            "title": "Företagsnätverk & Wi-Fi-design, Optimering och Underhåll",
+            "subtitle": "Gör ditt företags nätverk stabilt, snabbt och säkert",
+            "description": "Om ditt Wi-Fi är långsamt, anslutningar bryts eller nätverket är otillförlitligt, håller det tillbaka hela din affärsprestanda. SIRONIC designar, optimerar och underhåller moderna nätverk av företagsklass – så att varje enhet fungerar snabbt, säkert och pålitligt.",
+            "cta": "Begär Gratis Nätverksbedömning",
+            "scrollDown": "Skrolla ner för detaljer"
+        },
+        "problems": {
+            "title": "Vanliga Nätverksproblem Företag Möter",
+            "subtitle": "Låter det bekant?",
+            "items": [
+                "Långsamt eller instabilt Wi-Fi på jobbet",
+                "Svag signal och döda zoner på kontoret",
+                "Föråldrade routrar och åtkomstpunkter",
+                "Ingen gästnätverksseparation",
+                "För många enheter på ett nätverk – allt saktar ner",
+                "Säkerhetssårbarheter och oskyddat nätverk",
+                "Ingen övervaknings- eller felsökningsplan"
+            ]
+        },
+        "services": {
+            "title": "Vad Vi Tillhandahåller",
+            "subtitle": "Kompletta nätverkslösningar för små och medelstora företag",
+            "items": [
+                {
+                    "title": "Fullständig nätverksbedömning och diagnostik",
+                    "description": "Vi utvärderar din nuvarande nätverksinfrastruktur, identifierar problem och föreslår optimeringar."
+                },
+                {
+                    "title": "Wi-Fi-signalkartläggning och täckningsanalys",
+                    "description": "Vi designar Wi-Fi-nätverket för att säkerställa stark signal i varje rum – inga döda zoner."
+                },
+                {
+                    "title": "Ny företagsnätverksdesign",
+                    "description": "Vi bygger nätverk av företagsklass från grunden som är skalbara, snabba och säkra."
+                },
+                {
+                    "title": "Installation av företagshårdvara (MikroTik, Ubiquiti, UniFi)",
+                    "description": "Professionellt val och installation av nätverksutrustning – routrar, switchar, åtkomstpunkter."
+                },
+                {
+                    "title": "Kablage och infrastrukturuppgraderingar",
+                    "description": "Strukturerad kabelinstallation, patchpaneler, serverrack – organiserad och framtidssäker infrastruktur."
+                },
+                {
+                    "title": "Säkerhet, VLAN, brandväggsinställning",
+                    "description": "Nätverkssegmentering, gästnätverk, brandväggskonfiguration – håller dina data säkra."
+                },
+                {
+                    "title": "Nätverksövervakning och hantering",
+                    "description": "Kontinuerlig övervakning och proaktivt underhåll – vi känner till och hanterar problem innan de blir problem."
+                }
+            ]
+        },
+        "technologies": {
+            "title": "Vilken Utrustning Använder Vi?",
+            "subtitle": "Pålitliga nätverkslösningar av företagsklass",
+            "list": [
+                "MikroTik – kraftfulla, kostnadseffektiva routrar och switchar",
+                "Ubiquiti UniFi – moderna, hanterbara Wi-Fi-system",
+                "TP-Link Omada – nätverksutrustning av företagsklass",
+                "Cisco och HPE – infrastruktur på företagsnivå",
+                "VLAN och brandväggskonfiguration",
+                "VPN och fjärråtkomst",
+                "Nätverksövervakning och analys"
+            ]
+        },
+        "benefits": {
+            "title": "Varför Investera i ett Professionellt Nätverk?",
+            "subtitle": "Konkreta fördelar som ger mätbara resultat",
+            "list": [
+                "Snabbare arbete – inget långsamt internet eller avbrott",
+                "Säkrare drift – skyddat nätverk, separerat gäst-Wi-Fi",
+                "Mindre driftstopp – proaktiv övervakning och snabb felsökning",
+                "Skalbar infrastruktur – nätverket växer med ditt företag",
+                "Professionellt utseende – stabil anslutning även för kunder",
+                "Minskade kostnader – mindre tid bortkastad och färre reparationer"
+            ]
+        },
+        "process": {
+            "title": "Hur Arbetar Vi?",
+            "subtitle": "Transparent process – steg för steg",
+            "steps": [
+                {
+                    "number": "1",
+                    "title": "Nätverksbedömning och konsultation",
+                    "description": "Vi lär oss om kontoret, nuvarande nätverk och behov. Vi identifierar problem och möjligheter."
+                },
+                {
+                    "number": "2",
+                    "title": "Nätverksdesign och offert",
+                    "description": "Vi skapar komplett nätverksplan, Wi-Fi-täckningsanalys och utrustningslista. Fast prisoffert."
+                },
+                {
+                    "number": "3",
+                    "title": "Installation och konfiguration",
+                    "description": "Vi distribuerar nätverket, installerar utrustning, konfigurerar säkerhetselement. Allt testat och dokumenterat."
+                },
+                {
+                    "number": "4",
+                    "title": "Testning och överlämning",
+                    "description": "Noggrann testning på varje enhet, hastighetsmätning, täckningsverifiering. Utbildning och leverans av dokumentation."
+                },
+                {
+                    "number": "5",
+                    "title": "Övervakning och underhåll",
+                    "description": "Kontinuerlig övervakning, månadsrapporter, proaktivt underhåll. Alltid tillgänglig när du behöver hjälp."
+                }
+            ]
+        },
+        "useCases": {
+            "title": "Vem Rekommenderar Vi Det För?",
+            "subtitle": "Varje företag som behöver ett stabilt nätverk",
+            "examples": [
+                "Kontor och småföretag – 5-50 anställda",
+                "Hotell- och restaurangbranschen – snabbt och stabilt gäst-Wi-Fi",
+                "Kliniker och medicinska mottagningar – säkert medicinskt nätverk",
+                "Lager och logistikcenter – robust industriellt nätverk",
+                "Utbildningsinstitutioner – Wi-Fi med hög kapacitet",
+                "Detaljhandelsenheter – snabbt POS-system och IP-kameror"
+            ]
+        },
+        "pricing": {
+            "title": "Hur Mycket Kostar Företagsnätverksinstallation?",
+            "subtitle": "Varje projekt är unikt – vi bestämmer pris baserat på behov",
+            "description": "Ett grundläggande kontors-Wi-Fi-system startar från ca 400 € (1-2 åtkomstpunkter, router, konfiguration). För större nätverk – fler enheter, strukturerat kablage, övervakning – räkna med från 1 200 €+. Begär gratis bedömning och exakt offert!",
+            "process": "Gratis bedömning på plats analyserar nätverksbehov, vi skapar plan och tillhandahåller transparent offert med fast pris.",
+            "cta": "Begär Gratis Offert"
+        },
+        "faq": {
+            "title": "Vanliga frågor",
+            "items": [
+                {
+                    "question": "Hur lång tid tar nätverksinstallation?",
+                    "answer": "Ett enkelt kontors-Wi-Fi-system tar 1-2 dagar, medan ett komplext företagsnätverk med flera våningar kan ta 1-2 veckor."
+                },
+                {
+                    "question": "Vilka märken rekommenderar ni?",
+                    "answer": "Vi arbetar främst med MikroTik, Ubiquiti UniFi och TP-Link Omada-utrustning – pålitlig, kostnadseffektiv och lämplig för företagsbruk."
+                },
+                {
+                    "question": "Vem kommer att äga nätverket?",
+                    "answer": "Du kommer att göra det! All utrustning och konfiguration tillhör ditt företag, inga dolda beroenden eller licensavgifter."
+                },
+                {
+                    "question": "Vad sägs om underhåll?",
+                    "answer": "Vi erbjuder också underhållspaket – kontinuerlig övervakning, regelbundna uppdateringar och snabb felsökning i månadsprenumeration."
+                },
+                {
+                    "question": "Kan ni optimera befintliga nätverk?",
+                    "answer": "Ja! Du behöver inte byta ut allt – ofta räcker en bra konfiguration, en extra åtkomstpunkt eller routeruppgradering."
+                }
+            ]
+        },
+        "finalCta": {
+            "title": "Redo för ett Stabilt och Snabbt Nätverk?",
+            "description": "Begär gratis nätverksbedömning, och låt oss bygga infrastruktur tillsammans som stöder din företagstillväxt.",
+            "button": "Begär Gratis Nätverksbedömning"
+        }
+    },
+    "repairService": {
+        "badge": "Reparation & Service",
+        "title": "IT-reparation & Service – På plats eller via Post",
+        "subtitle": "Snabba, pålitliga IT-reparationer – bärbara datorer, PC, servrar, NAS-enheter",
+        "description": "Professionell reparation av datorer, bärbara datorer, servrar och nätverksenheter. På plats-service i Székesfehérvár och omgivande områden, eller postservice. Vi börjar varje reparation med diagnostik och tillhandahåller transparenta offerter innan något arbete påbörjas.",
+        "benefits": [
+            "Snabb diagnostik och felsökning",
+            "Service på plats eller via post – vad som passar dig",
+            "Transparent offert före reparation",
+            "Professionella verktyg och experter",
+            "Säkerhetskopiering av data och virusborttagning",
+            "Garanti på alla reparationer"
+        ],
+        "cards": {
+            "onsite": {
+                "title": "Service på plats",
+                "description": "Vi kommer till dig i Székesfehérvár och närliggande områden för att utföra reparationer eller diagnostik på plats."
+            },
+            "postal": {
+                "title": "Postservice",
+                "description": "Skicka oss din enhet med posten, vi reparerar den och skickar tillbaka den – enkelt och snabbt."
+            }
+        },
+        "cta": {
+            "main": "Begär Reparationsoffert",
+            "learnMore": "Läs Mer"
+        }
+    },
+    "repairServicePage": {
+        "breadcrumb": {
+            "repairService": "Reparation & Service"
+        },
+        "hero": {
+            "title": "IT-reparation & Service – Bärbara datorer, PC, Servrar, NAS-enheter",
+            "subtitle": "Snabba, pålitliga IT-reparationer på plats eller via post",
+            "description": "Professionell reparation av datorer, bärbara datorer, servrar och nätverkslagringsenheter. På plats-service i Székesfehérvár och omgivande områden, eller postalternativ. Transparenta offerter, snabb vändning, expertservice.",
+            "cta": "Rapportera Problem Nu",
+            "scrollDown": "Skrolla ner för detaljer"
+        },
+        "services": {
+            "title": "Vad Reparerar Vi?",
+            "subtitle": "Komplett IT-enhetsdiagnostik och reparation",
+            "items": [
+                {
+                    "title": "Laptopreparation & Underhåll",
+                    "description": "Skärmbyte, tangentbordsreparation, batteribyte, rengöring av kylsystem, komponentuppgraderingar."
+                },
+                {
+                    "title": "Stationär PC-diagnostik & Reparation",
+                    "description": "Felsökning av hårdvara, komponentbyte, prestandaoptimering, systemrengöring och underhåll."
+                },
+                {
+                    "title": "Server & Företagsutrustningsreparation",
+                    "description": "Serverdiagnostik, RAID-konfigurationsåterställning, hårdvarureparation och underhåll."
+                },
+                {
+                    "title": "NAS & Lagringsenhetsservice",
+                    "description": "Nätverkslagringsdiagnostik, säkerhetskopiering av data, RAID-återställning, firmware-uppdateringar."
+                },
+                {
+                    "title": "Säkerhetskopiering och Återställning av Data",
+                    "description": "Kritisk dataåterställning från felaktiga enheter, SSD/HDD-dataåterställning, skapande av säkerhetskopior."
+                },
+                {
+                    "title": "Virusborttagning & Systemoptimering",
+                    "description": "Virus- och skadlig kod-borttagning, systemrensning, prestandaförbättring, hastighetsoptimering."
+                }
+            ]
+        },
+        "process": {
+            "title": "Hur Fungerar Reparation?",
+            "subtitle": "Enkel och transparent process",
+            "steps": [
+                {
+                    "number": "1",
+                    "title": "Problemrapport",
+                    "description": "Kontakta oss via telefon, e-post eller formulär. Vi diskuterar problemet och reparationsmetoden."
+                },
+                {
+                    "number": "2",
+                    "title": "Diagnostik & Offert",
+                    "description": "På plats eller efter postinsändning undersöker vi enheten, identifierar felet och ger en transparent offert."
+                },
+                {
+                    "number": "3",
+                    "title": "Reparation Efter Godkännande",
+                    "description": "Efter att ha accepterat offerten utför vi reparationen med professionella verktyg och delar."
+                },
+                {
+                    "number": "4",
+                    "title": "Testning & Leverans",
+                    "description": "Vi testar noggrant den reparerade enheten, överlämnar den sedan eller skickar tillbaka den. Garanti på alla reparationer."
+                }
+            ]
+        },
+        "onsite": {
+            "title": "Service på plats – Vi Kommer till Dig",
+            "description": "I Székesfehérvár och omgivande områden utför vi reparationer eller diagnostik på plats. Perfekt för kontor, företag och de som inte kan eller vill transportera enheten.",
+            "benefits": [
+                "Snabb service till Székesfehérvár och 30 km radie",
+                "Diagnostik och reparation på plats (när möjligt)",
+                "Minimal driftstopp – inget behov av att ta bort enheten",
+                "Professionella verktyg och delar på plats",
+                "Kan utföras i företagsmiljöer"
+            ]
+        },
+        "postal": {
+            "title": "Postservice – Bekvämt hemifrån",
+            "description": "Om du är längre bort eller helt enkelt föredrar bekvämlighet, skicka din enhet. Vi reparerar och returnerar den. Vi tillhandahåller säkra förpackningsriktlinjer.",
+            "benefits": [
+                "Nationell täckning – skicka från var som helst",
+                "Detaljerad förpackningsguide för enhetssäkerhet",
+                "Snabb vändning – vanligtvis 3-5 arbetsdagar",
+                "Säker retur via budtjänst",
+                "Kontinuerliga uppdateringar om reparationsstatus"
+            ],
+            "howTo": "Steg för postinsändning: 1) Kontakta oss och beskriv problemet. 2) Paketera enheten säkert (vi tillhandahåller riktlinjer). 3) Skicka till den angivna adressen. 4) Vi diagnostiserar, skickar offert och returnerar efter reparation."
+        },
+        "pricing": {
+            "title": "Hur Mycket Kostar en Reparation?",
+            "subtitle": "Transparent prissättning – diagnostik först, sedan offert",
+            "description": "Vi börjar varje reparation med gratis diagnostik (på plats eller via post). Offerten ges endast efter undersökning, så du vet exakt vad du kan förvänta dig. Arbetet påbörjas först efter ditt godkännande.",
+            "examples": [
+                "Byte av laptopskärm: från 65 € (beror på del)",
+                "PC-virusborttagning och optimering: från 20 €",
+                "Dataåterställning från felaktig enhet: från 40 €",
+                "Serverdiagnostik och reparation: anpassad offert"
+            ],
+            "note": "Priser är vägledande, exakt kostnad bestäms alltid efter undersökning.",
+            "cta": "Begär Gratis Diagnostik"
+        },
+        "faq": {
+            "title": "Vanliga frågor",
+            "items": [
+                {
+                    "question": "Hur lång tid tar en reparation?",
+                    "answer": "Enklare reparationer (t.ex. virusborttagning, optimering) tar vanligtvis 1-2 arbetsdagar. Komplexa fall (t.ex. byte av delar, dataåterställning) kan ta 3-5 arbetsdagar. Vi erbjuder också expresservice för brådskande fall."
+                },
+                {
+                    "question": "Vad händer om enheten inte kan repareras?",
+                    "answer": "Om enheten inte kan repareras eller reparation är oekonomisk informerar vi dig omedelbart. I detta fall debiterar vi endast för diagnostik (vanligtvis 8-13 €) och hjälper till att ge råd om köp av en ny enhet."
+                },
+                {
+                    "question": "Är mina data säkra under reparation?",
+                    "answer": "Ja! Vi behandlar alla enheter konfidentiellt. Säkerhetskopiering av data utförs endast med ditt godkännande, och alla data raderas säkert efter reparation (om nödvändigt)."
+                },
+                {
+                    "question": "Finns det garanti på reparationer?",
+                    "answer": "Ja, vi ger 30-90 dagars garanti på alla reparationer (beroende på typ av reparation). Nya delar kommer också med tillverkargaranti."
+                },
+                {
+                    "question": "Vilket område täcker ni för service på plats?",
+                    "answer": "Vi tillhandahåller service på plats till Székesfehérvár och 30 km radie. För områden längre bort arbetar vi efter särskild överenskommelse eller postservice."
+                },
+                {
+                    "question": "Hur ska jag paketera enheten för postinsändning?",
+                    "answer": "Vi skickar detaljerade förpackningsinstruktioner via e-post. Viktigt: använd bubbelplast, robust låda och märk 'Ömtåligt'. Originalförpackning är bäst om tillgänglig."
+                }
+            ]
+        },
+        "finalCta": {
+            "title": "Har du problem med din enhet?",
+            "description": "Ring oss eller skicka ett meddelande, så fixar vi det snart! Snabb diagnostik, transparenta priser, pålitliga reparationer.",
+            "button": "Rapportera Problem Nu"
+        }
+    },
+    "onsitePresence": {
+        "badge": "Event-IT-support",
+        "title": "IT På Plats-närvaro för Evenemang",
+        "subtitle": "Professionell IT-specialist på plats",
+        "description": "Säkerställ den tekniska stabiliteten för ditt professionella evenemang, konferens eller företagssammankomst med dedikerad IT-support på plats.",
+        "cards": {
+            "onsite": {
+                "title": "IT-specialist på plats",
+                "description": "Dedikerat IT-proffs som följer ditt evenemang från början till slut."
+            },
+            "stability": {
+                "title": "Teknisk Stabilitet",
+                "description": "Proaktiv övervakning och omedelbar intervention."
+            },
+            "equipment": {
+                "title": "Utrustningshantering",
+                "description": "Installation och övervakning av bärbara datorer, nätverk och streamingutrustning."
+            }
+        },
+        "cta": {
+            "main": "Få en offert",
+            "learnMore": "Läs Mer"
+        }
+    },
+    "onsitePresencePage": {
+        "breadcrumb": {
+            "home": "Hem",
+            "onsitePresence": "IT På Plats-närvaro"
+        },
+        "hero": {
+            "title": "IT På Plats-närvaro för Evenemang",
+            "subtitle": "Professionell IT-support på plats för konferenser och evenemang",
+            "description": "Vill du ha ett felfritt evenemang? Med SIRONICs IT På Plats-närvaroservice får du garanterad stabil och pålitlig IT-infrastruktur.",
+            "cta": "Begär Gratis Konsultation"
+        },
+        "intro": {
+            "title": "Varför ta med en IT-specialist till ditt evenemang?",
+            "content": [
+                "Framgången för ett professionellt evenemang hänger ofta på teknisk stabilitet. Om tekniken misslyckas lider evenemangets rykte.",
+                "Med SIRONICs IT På Plats-närvaro får du en erfaren IT-specialist som säkerställer smidig drift."
+            ]
+        },
+        "services": {
+            "title": "Vad erbjuder vi?",
+            "subtitle": "Omfattande Teknisk Support",
+            "items": [
+                {
+                    "title": "Eventförberedelse & Installation",
+                    "description": "Installation och testning av utrustning före evenemanget.",
+                    "topics": [
+                        "Installation",
+                        "Testning",
+                        "Konfiguration"
+                    ]
+                },
+                {
+                    "title": "Nätverk & Wi-Fi",
+                    "description": "Säkerställa stabilt internet för alla deltagare.",
+                    "topics": [
+                        "Wi-Fi-planering",
+                        "Bandbredd",
+                        "Övervakning"
+                    ]
+                },
+                {
+                    "title": "Streaming-support",
+                    "description": "Teknisk bakgrund för livestreams och hybridevenemang.",
+                    "topics": [
+                        "OBS",
+                        "Kameror",
+                        "Ljud"
+                    ]
+                }
+            ]
+        },
+        "eventTypes": {
+            "title": "Stödda Evenemang",
+            "subtitle": "Alla evenemang där IT är kritiskt",
+            "types": [
+                {
+                    "title": "Konferenser",
+                    "description": "Stora professionella sammankomster."
+                },
+                {
+                    "title": "Hybridevenemang",
+                    "description": "Ansluta online- och offline-deltagare."
+                },
+                {
+                    "title": "Workshops",
+                    "description": "Teknisk support för praktiska utbildningstillfällen."
+                }
+            ]
+        },
+        "benefits": {
+            "title": "Varför Oss?",
+            "items": [
+                "Erfarna Proffs",
+                "Omedelbar Felsökning",
+                "Flexibel Tillgänglighet",
+                "Professionell Utrustning"
+            ]
+        },
+        "process": {
+            "title": "Process",
+            "subtitle": "Hur vi arbetar tillsammans",
+            "steps": [
+                {
+                    "title": "Bedömning",
+                    "description": "Diskutera tekniska krav."
+                },
+                {
+                    "title": "Planering",
+                    "description": "Designa nödvändig infrastruktur."
+                },
+                {
+                    "title": "Utförande",
+                    "description": "Installation och drift på plats."
+                },
+                {
+                    "title": "Övervakning",
+                    "description": "Kontinuerlig närvaro under evenemanget."
+                },
+                {
+                    "title": "Avslutning",
+                    "description": "Demontering och utvärdering."
+                }
+            ]
+        },
+        "faq": {
+            "title": "FAQ",
+            "items": [
+                {
+                    "question": "Vilka typer av evenemang stöder ni?",
+                    "answer": "Allt från små workshops till stora konferenser."
+                },
+                {
+                    "question": "Tillhandahåller ni utrustning?",
+                    "answer": "Ja, vi erbjuder uthyrningstjänster på begäran."
+                },
+                {
+                    "question": "Hur mycket kostar det?",
+                    "answer": "Baserat på en anpassad offert beroende på krav."
+                },
+                {
+                    "question": "Reser ni över hela landet?",
+                    "answer": "Ja, vi accepterar uppdrag i hela Ungern."
+                }
+            ]
+        },
+        "pricing": {
+            "title": "Prissättning",
+            "subtitle": "Baserat på Anpassad Offert",
+            "description": "Varje evenemang är annorlunda, så vi skräddarsyr våra priser efter dina behov.",
+            "process": "Få en offert!",
+            "cta": "Begär Offert"
+        },
+        "availabilityNote": "Denna tjänst är tillgänglig i hela Ungern.",
+        "finalCta": {
+            "title": "Säkerställ Framgång!",
+            "description": "Lämna inte den tekniska sidan åt slumpen.",
+            "button": "Få en Offert"
+        }
+    }
+}
