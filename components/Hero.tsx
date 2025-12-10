@@ -6,6 +6,7 @@ import { CTAButton } from './CTAButton';
 import { Button } from './ui/button';
 import { ArrowRight } from 'lucide-react';
 import { useTranslation } from '@/hooks/useTranslation';
+import { getLocalizedPath } from '@/lib/routes';
 
 export function Hero() {
   const { t } = useTranslation();
@@ -35,7 +36,7 @@ export function Hero() {
               size="lg"
               className="w-full sm:w-auto text-lg px-8 py-6 h-auto"
             >
-              <Link href={`/${locale}/kapcsolat`}>
+              <Link href={`/${locale}/${getLocalizedPath('contact', locale)}`}>
                 {t('hero.cta')}
                 <ArrowRight className="ml-2 h-5 w-5" />
               </Link>

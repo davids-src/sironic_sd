@@ -6,6 +6,7 @@ import { ArrowRight, Sparkles, CheckCircle, Gift } from 'lucide-react';
 import Link from 'next/link';
 import { useParams } from 'next/navigation';
 import { useTranslation } from '@/hooks/useTranslation';
+import { getLocalizedPath } from '@/lib/routes';
 
 export function MindenCegnekSection() {
   const { t } = useTranslation();
@@ -71,7 +72,7 @@ export function MindenCegnekSection() {
               size="lg"
               className="w-full sm:w-auto text-lg px-8 py-6 h-auto"
             >
-              <Link href={`/${locale}/kapcsolat?subject=Minden%20cégnek%20legyen%20informatikusa`}>
+              <Link href={`/${locale}/${getLocalizedPath('contact', locale)}?subject=Minden%20cégnek%20legyen%20informatikusa`}>
                 {t('mindenCegnek.cta.consultation')}
               </Link>
             </CTAButton>

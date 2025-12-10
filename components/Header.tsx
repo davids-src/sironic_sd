@@ -7,6 +7,7 @@ import { Button } from './ui/button';
 import { ThemeToggle } from './ThemeToggle';
 import { LanguageSwitcher } from './LanguageSwitcher';
 import { useTranslation } from '@/hooks/useTranslation';
+import { getLocalizedPath } from '@/lib/routes';
 
 export function Header() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
@@ -14,12 +15,12 @@ export function Header() {
 
   const navigation = [
     { name: t('nav.home'), href: `/${locale}` },
-    { name: t('nav.services'), href: `/${locale}/szolgaltatasok` },
-    { name: t('nav.products'), href: `/${locale}/termekeink` },
-    { name: t('nav.pricing'), href: `/${locale}/arak` },
-    { name: t('nav.about'), href: `/${locale}/rolunk` },
-    { name: t('nav.blog'), href: `/${locale}/blog` },
-    { name: t('nav.contact'), href: `/${locale}/kapcsolat` },
+    { name: t('nav.services'), href: `/${locale}/${getLocalizedPath('services', locale)}` },
+    { name: t('nav.products'), href: `/${locale}/${getLocalizedPath('products', locale)}` },
+    { name: t('nav.pricing'), href: `/${locale}/${getLocalizedPath('pricing', locale)}` },
+    { name: t('nav.about'), href: `/${locale}/${getLocalizedPath('about', locale)}` },
+    { name: t('nav.blog'), href: `/${locale}/${getLocalizedPath('blog', locale)}` },
+    { name: t('nav.contact'), href: `/${locale}/${getLocalizedPath('contact', locale)}` },
   ];
 
   return (
@@ -63,7 +64,7 @@ export function Header() {
           <LanguageSwitcher />
           <ThemeToggle />
           <Button asChild className="bg-brand-red hover:bg-brand-red/90 button-press glow-red-hover shadow-md">
-            <Link href={`/${locale}/kapcsolat`}>{t('nav.ctaButton')}</Link>
+            <Link href={`/${locale}/${getLocalizedPath('contact', locale)}`}>{t('nav.ctaButton')}</Link>
           </Button>
         </div>
       </nav>
@@ -82,7 +83,7 @@ export function Header() {
             ))}
             <div className="pt-2 w-full max-w-xs">
               <Button asChild className="w-full bg-brand-red hover:bg-brand-red/90 button-press shadow-lg">
-                <Link href={`/${locale}/kapcsolat`} onClick={() => setMobileMenuOpen(false)}>
+                <Link href={`/${locale}/${getLocalizedPath('contact', locale)}`} onClick={() => setMobileMenuOpen(false)}>
                   {t('nav.ctaButton')}
                 </Link>
               </Button>

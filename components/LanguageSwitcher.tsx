@@ -11,7 +11,8 @@ import {
     DropdownMenuTrigger,
 } from '@/components/ui/dropdown-menu';
 import { Globe, Check } from 'lucide-react';
-import { locales, localeNames, localeFlags } from '@/i18n';
+import { locales, localeNames, localeFlags, type Locale } from '@/i18n';
+import { translatePath } from '@/lib/routes';
 
 /**
  * Enhanced Language Switcher Component
@@ -22,13 +23,14 @@ import { locales, localeNames, localeFlags } from '@/i18n';
  * - Better accessibility with ARIA labels
  * - Check mark for current language
  * - Smooth transitions
+ * - URL slug translation when switching languages
  */
 export function LanguageSwitcher() {
     const pathname = usePathname();
     const router = useRouter();
 
     // Extract current locale from pathname
-    const currentLocale = (pathname?.split('/')[1] as keyof typeof localeNames) || 'hu';
+    const currentLocale = (pathname?.split('/')[1] as Locale) || 'hu';
     const currentLocaleName = localeNames[currentLocale as keyof typeof localeNames] || localeNames['hu'];
 
     const handleLanguageChange = (newLocale: string) => {
@@ -37,9 +39,24 @@ export function LanguageSwitcher() {
         // Set cookie for middleware persistence (1 year)
         document.cookie = `NEXT_LOCALE=${newLocale}; path=/; max-age=31536000; SameSite=Lax`;
 
-        const segments = pathname.split('/');
-        segments[1] = newLocale;
-        const newPath = segments.join('/');
+        const segments = pathname.split('/').filter(Boolean);
+        // segments[0] is the current locale
+        // segments[1] is the current page slug (if any)
+
+        const currentSlug = segments[1] || ''; // Empty string for homepage
+        const translatedSlug = translatePath(currentSlug, currentLocale as Locale, newLocale as Locale);
+
+        //Rebuild the path with new locale and translated slug
+        const newSegments = [newLocale];
+        if (translatedSlug) {
+            newSegments.push(translatedSlug);
+        }
+        // Add any remaining path segments (subpages, query params will be handled by router)
+        if (segments.length > 2) {
+            newSegments.push(...segments.slice(2));
+        }
+
+        const newPath = '/' + newSegments.join('/');
 
         router.push(newPath);
     };

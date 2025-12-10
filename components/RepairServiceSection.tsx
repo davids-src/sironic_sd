@@ -8,6 +8,7 @@ import { MapPin, Mail, CheckCircle, Wrench } from 'lucide-react';
 import Link from 'next/link';
 import { useParams } from 'next/navigation';
 import { useTranslation } from '@/hooks/useTranslation';
+import { getLocalizedPath } from '@/lib/routes';
 
 export function RepairServiceSection() {
   const { t } = useTranslation();
@@ -78,7 +79,7 @@ export function RepairServiceSection() {
         </div>
 
         <div className="flex flex-col items-center justify-center gap-4 sm:flex-row">
-          <Link href={`/${locale}/kapcsolat?subject=Szerviz%20és%20javítás`}>
+          <Link href={`/${locale}/${getLocalizedPath('contact', locale)}?subject=Szerviz%20és%20javítás`}>
             <CTAButton className="w-full sm:w-auto">
               {t('repairService.cta.main')}
             </CTAButton>

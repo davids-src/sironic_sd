@@ -34,7 +34,76 @@ export function middleware(request: NextRequest) {
   );
 
   if (pathnameHasLocale) {
-    // If we're on a localized path, just let it pass
+    // URL Rewriting: Map localized URLs to Hungarian directory structure
+    // This allows /de/preise to work even though the directory is /de/arak
+    const urlRewriteMap: Record<string, string> = {
+      // English
+      '/en/pricing': '/en/arak',
+      '/en/about-us': '/en/rolunk',
+      '/en/services': '/en/szolgaltatasok',
+      '/en/products': '/en/termekeink',
+      '/en/contact': '/en/kapcsolat',
+      // German
+      '/de/preise': '/de/arak',
+      '/de/uber-uns': '/de/rolunk',
+      '/de/dienstleistungen': '/de/szolgaltatasok',
+      '/de/produkte': '/de/termekeink',
+      '/de/kontakt': '/de/kapcsolat',
+      // Slovak
+      '/sk/cennik': '/sk/arak',
+      '/sk/o-nas': '/sk/rolunk',
+      '/sk/sluzby': '/sk/szolgaltatasok',
+      '/sk/produkty': '/sk/termekeink',
+      '/sk/kontakt': '/sk/kapcsolat',
+      // Romanian
+      '/ro/preturi': '/ro/arak',
+      '/ro/despre-noi': '/ro/rolunk',
+      '/ro/servicii': '/ro/szolgaltatasok',
+      '/ro/produse': '/ro/termekeink',
+      '/ro/contact': '/ro/kapcsolat',
+      // Croatian
+      '/hr/cjenik': '/hr/arak',
+      '/hr/o-nama': '/hr/rolunk',
+      '/hr/usluge': '/hr/szolgaltatasok',
+      '/hr/proizvodi': '/hr/termekeink',
+      '/hr/kontakt': '/hr/kapcsolat',
+      // Slovenian
+      '/sl/cenik': '/sl/arak',
+      '/sl/o-nas': '/sl/rolunk',
+      '/sl/storitve': '/sl/szolgaltatasok',
+      '/sl/produkti': '/sl/termekeink',
+      '/sl/kontakt': '/sl/kapcsolat',
+      // French
+      '/fr/tarifs': '/fr/arak',
+      '/fr/a-propos': '/fr/rolunk',
+      '/fr/services': '/fr/szolgaltatasok',
+      '/fr/produits': '/fr/termekeink',
+      '/fr/contact': '/fr/kapcsolat',
+      // Italian
+      '/it/prezzi': '/it/arak',
+      '/it/chi-siamo': '/it/rolunk',
+      '/it/servizi': '/it/szolgaltatasok',
+      '/it/prodotti': '/it/termekeink',
+      '/it/contatti': '/it/kapcsolat',
+      // Spanish
+      '/es/precios': '/es/arak',
+      '/es/sobre-nosotros': '/es/rolunk',
+      '/es/servicios': '/es/szolgaltatasok',
+      '/es/productos': '/es/termekeink',
+      '/es/contacto': '/es/kapcsolat',
+    };
+
+    // Check if this URL needs to be rewritten
+    const rewritePath = urlRewriteMap[pathname];
+    if (rewritePath) {
+      // Rewrite the URL to the Hungarian directory structure
+      // This is transparent to the user - they see /de/preise but we serve /de/arak
+      const url = request.nextUrl.clone();
+      url.pathname = rewritePath;
+      return NextResponse.rewrite(url);
+    }
+
+    // If we're on a localized path that doesn't need rewriting, just let it pass
     return NextResponse.next();
   }
 
