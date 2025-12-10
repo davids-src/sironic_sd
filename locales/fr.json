@@ -176,6 +176,9 @@
     ],
     "cta": "En savoir plus"
   },
+  "euBlock": {
+    "alt": "Carte abstraite montrant la couverture des services informatiques de Sironic à l'échelle de l'UE."
+  },
   "services": {
     "title": "Nos Services",
     "subtitle": "Solutions informatiques complètes pour accélérer la croissance de votre entreprise",

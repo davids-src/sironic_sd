@@ -180,6 +180,9 @@
         ],
         "cta": "Lees meer"
     },
+    "euBlock": {
+        "alt": "Abstracte kaart die de EU-brede IT-service dekking van Sironic toont."
+    },
     "services": {
         "title": "Onze Diensten",
         "subtitle": "Uitgebreide IT-oplossingen voor uw bedrijfsgroei",

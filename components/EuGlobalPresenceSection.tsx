@@ -9,6 +9,8 @@ import { getLocalizedPath } from '@/lib/routes';
 import { Locale } from '@/i18n';
 import { SectionTitle } from '@/components/SectionTitle';
 
+import { EUVisualBlock } from '@/components/EUVisualBlock';
+
 export function EuGlobalPresenceSection() {
     const { t } = useTranslation();
     const params = useParams();
@@ -26,6 +28,8 @@ export function EuGlobalPresenceSection() {
                     title={t('euPresence.title')}
                     subtitle={t('euPresence.subtitle')}
                 />
+
+                <EUVisualBlock />
 
                 <div className="grid gap-8 md:grid-cols-3 max-w-6xl mx-auto mb-16">
                     {points.map((point, index) => {

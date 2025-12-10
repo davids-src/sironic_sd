@@ -171,6 +171,9 @@
     ],
     "cta": "Zistiť viac"
   },
+  "euBlock": {
+    "alt": "Abstraktná mapa zobrazujúca pokrytie IT služieb Sironic v celej EÚ."
+  },
   "services": {
     "title": "Naše služby",
     "subtitle": "Komplexné IT riešenia pre rast Vášho podnikania",

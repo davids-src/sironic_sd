@@ -181,6 +181,9 @@
         ],
         "cta": "Dowiedz się więcej"
     },
+    "euBlock": {
+        "alt": "Abstrakcyjna mapa pokazująca zasięg usług IT Sironic w całej UE."
+    },
     "services": {
         "title": "Nasze Usługi",
         "subtitle": "Kompleksowe rozwiązania IT dla rozwoju Twojej firmy",
@@ -754,1012 +757,1011 @@
         "decline": "Odrzuć",
         "manage": "Ustawienia",
         "privacy": "Polityka Prywatności"
-    }
-},
-"mindenCegnekPage": {
-    "hero": {
-        "badge": "Miesięczne Wsparcie IT",
-        "title": "Każda firma zasługuje na dział IT",
-        "subtitle": "Jakbyś miał własnego specjalistę IT",
-        "description": "Usługa, w której nie musisz zatrudniać specjalisty IT – zamiast tego otrzymujesz cały zespół, który utrzymuje wszystko aktualne w tle, monitoruje, konserwuje i interweniuje tylko wtedy, gdy to konieczne.",
-        "cta": "Zarezerwuj Konsultację",
-        "discount": "Ważne do 1 lutego 2026: 10% zniżki na pierwsze 3 miesiące dla wniosków o konsultację!",
-        "scroll": "Przewiń w dół po więcej informacji"
     },
-    "whatYouGet": {
-        "title": "Co dokładnie otrzymujesz?",
-        "subtitle": "Kompleksowe rozwiązanie IT, które pracuje dla Ciebie każdego dnia – niewidoczne, ale skuteczne.",
-        "features": {
-            "internet": {
-                "title": "Ciągły dostęp do Internetu i stabilne działanie",
-                "description": "Zapewniamy, że Twoja sieć firmowa jest zawsze dostępna, stabilna i bezpieczna – niezauważalnie, w tle."
-            },
-            "platform": {
-                "title": "Unikalna platforma zgłaszania błędów",
-                "description": "Otrzymujesz własny interfejs, gdzie łatwo zgłosisz problemy lub prośby – reagujemy natychmiast."
-            },
-            "monitoring": {
-                "title": "Ciągły monitoring i rozwiązywanie problemów",
-                "description": "Monitorujemy serwery, sieci i systemy, aby wyłapać błędy, zanim w ogóle je zauważysz."
-            },
-            "cost": {
-                "title": "Efektywna kosztowo, przejrzysta struktura cenowa",
-                "description": "Oprócz stałej opłaty miesięcznej płacisz tylko za to, co faktycznie trzeba rozwiązać – na podstawie uzgodnionego cennika."
-            },
-            "reporting": {
-                "title": "Zaktualizowane systemy, raport miesięczny",
-                "description": "Nieustannie aktualizujemy i konserwujemy systemy oraz wysyłamy raport na koniec każdego miesiąca o wydajności i statusie systemu."
+    "mindenCegnekPage": {
+        "hero": {
+            "badge": "Miesięczne Wsparcie IT",
+            "title": "Każda firma zasługuje na dział IT",
+            "subtitle": "Jakbyś miał własnego specjalistę IT",
+            "description": "Usługa, w której nie musisz zatrudniać specjalisty IT – zamiast tego otrzymujesz cały zespół, który utrzymuje wszystko aktualne w tle, monitoruje, konserwuje i interweniuje tylko wtedy, gdy to konieczne.",
+            "cta": "Zarezerwuj Konsultację",
+            "discount": "Ważne do 1 lutego 2026: 10% zniżki na pierwsze 3 miesiące dla wniosków o konsultację!",
+            "scroll": "Przewiń w dół po więcej informacji"
+        },
+        "whatYouGet": {
+            "title": "Co dokładnie otrzymujesz?",
+            "subtitle": "Kompleksowe rozwiązanie IT, które pracuje dla Ciebie każdego dnia – niewidoczne, ale skuteczne.",
+            "features": {
+                "internet": {
+                    "title": "Ciągły dostęp do Internetu i stabilne działanie",
+                    "description": "Zapewniamy, że Twoja sieć firmowa jest zawsze dostępna, stabilna i bezpieczna – niezauważalnie, w tle."
+                },
+                "platform": {
+                    "title": "Unikalna platforma zgłaszania błędów",
+                    "description": "Otrzymujesz własny interfejs, gdzie łatwo zgłosisz problemy lub prośby – reagujemy natychmiast."
+                },
+                "monitoring": {
+                    "title": "Ciągły monitoring i rozwiązywanie problemów",
+                    "description": "Monitorujemy serwery, sieci i systemy, aby wyłapać błędy, zanim w ogóle je zauważysz."
+                },
+                "cost": {
+                    "title": "Efektywna kosztowo, przejrzysta struktura cenowa",
+                    "description": "Oprócz stałej opłaty miesięcznej płacisz tylko za to, co faktycznie trzeba rozwiązać – na podstawie uzgodnionego cennika."
+                },
+                "reporting": {
+                    "title": "Zaktualizowane systemy, raport miesięczny",
+                    "description": "Nieustannie aktualizujemy i konserwujemy systemy oraz wysyłamy raport na koniec każdego miesiąca o wydajności i statusie systemu."
+                }
             }
+        },
+        "benefits": {
+            "title": "Dlaczego jest to dla Ciebie dobre?",
+            "subtitle": "Efektywne kosztowo, przejrzyste i niezawodne wsparcie IT – bez utrzymywania własnego działu IT.",
+            "items": [
+                "Brak konieczności zatrudniania własnego personelu IT – ale ktoś czuwa nad Twoimi systemami",
+                "Stałe koszty miesięczne, przewidywalne wydatki",
+                "Szybki czas reakcji w przypadku problemów",
+                "Proaktywna konserwacja i monitoring",
+                "Osobiste wsparcie w języku polskim, angielskim lub węgierskim",
+                "Miesięczne raporty o stanie systemu",
+                "Skalowalne rozwiązanie – gdy Twoja firma rośnie, my również się rozwijamy",
+                "Żadnych rachunków z niespodzianką – wszystko ustalone z góry"
+            ]
+        },
+        "pricing": {
+            "title": "Jak działa cennik?",
+            "subtitle": "Prosta i przejrzysta struktura – stała opłata miesięczna plus uzgodniona stawka godzinowa w razie potrzeby.",
+            "fixed": {
+                "title": "Stała opłata miesięczna",
+                "price": "od 150 €/miesiąc",
+                "description": "Obejmuje monitoring, podstawową konserwację, raportowanie i wsparcie."
+            },
+            "hourly": {
+                "title": "Plus opłata za pracę",
+                "price": "Uzgodniona stawka godzinowa",
+                "description": "Płacisz tylko wtedy, gdy wymagana jest faktyczna interwencja lub rozwój."
+            },
+            "note": "Ceny zależą od długości umowy i rodzaju zadań. Poproś o indywidualną wycenę!"
+        },
+        "finalCta": {
+            "title": "Nie potrzebujesz własnego specjalisty IT, tylko zaufanego partnera",
+            "description": "Dostarczamy ekspertyzę, szybką reakcję i stabilne działanie – Ty możesz skupić się na swojej firmie.",
+            "button": "Poproś o Wycenę"
         }
     },
-    "benefits": {
-        "title": "Dlaczego jest to dla Ciebie dobre?",
-        "subtitle": "Efektywne kosztowo, przejrzyste i niezawodne wsparcie IT – bez utrzymywania własnego działu IT.",
-        "items": [
-            "Brak konieczności zatrudniania własnego personelu IT – ale ktoś czuwa nad Twoimi systemami",
-            "Stałe koszty miesięczne, przewidywalne wydatki",
-            "Szybki czas reakcji w przypadku problemów",
-            "Proaktywna konserwacja i monitoring",
-            "Osobiste wsparcie w języku polskim, angielskim lub węgierskim",
-            "Miesięczne raporty o stanie systemu",
-            "Skalowalne rozwiązanie – gdy Twoja firma rośnie, my również się rozwijamy",
-            "Żadnych rachunków z niespodzianką – wszystko ustalone z góry"
-        ]
-    },
-    "pricing": {
-        "title": "Jak działa cennik?",
-        "subtitle": "Prosta i przejrzysta struktura – stała opłata miesięczna plus uzgodniona stawka godzinowa w razie potrzeby.",
-        "fixed": {
-            "title": "Stała opłata miesięczna",
-            "price": "od 150 €/miesiąc",
-            "description": "Obejmuje monitoring, podstawową konserwację, raportowanie i wsparcie."
+    "customDevelopmentPage": {
+        "breadcrumb": {
+            "home": "Strona główna",
+            "customDevelopment": "Tworzenie Aplikacji na Miarę"
         },
-        "hourly": {
-            "title": "Plus opłata za pracę",
-            "price": "Uzgodniona stawka godzinowa",
-            "description": "Płacisz tylko wtedy, gdy wymagana jest faktyczna interwencja lub rozwój."
+        "hero": {
+            "title": "Tworzenie Aplikacji na Miarę",
+            "subtitle": "Nowoczesne, skalowalne i zorientowane na biznes rozwiązania programistyczne dopasowane do Twoich potrzeb",
+            "description": "Więcej niż tylko budowanie stron – tworzymy złożone aplikacje, które generują prawdziwą wartość dla Twojej firmy. Od aplikacji webowych opartych na TailScript i React po natywne oprogramowanie Windows i aplikacje mobilne Android/iOS.",
+            "cta": "Zarezerwuj Darmową Konsultację",
+            "scrollDown": "Przewiń w dół po szczegóły"
         },
-        "note": "Ceny zależą od długości umowy i rodzaju zadań. Poproś o indywidualną wycenę!"
-    },
-    "finalCta": {
-        "title": "Nie potrzebujesz własnego specjalisty IT, tylko zaufanego partnera",
-        "description": "Dostarczamy ekspertyzę, szybką reakcję i stabilne działanie – Ty możesz skupić się na swojej firmie.",
-        "button": "Poproś o Wycenę"
-    }
-},
-"customDevelopmentPage": {
-    "breadcrumb": {
-        "home": "Strona główna",
-        "customDevelopment": "Tworzenie Aplikacji na Miarę"
-    },
-    "hero": {
-        "title": "Tworzenie Aplikacji na Miarę",
-        "subtitle": "Nowoczesne, skalowalne i zorientowane na biznes rozwiązania programistyczne dopasowane do Twoich potrzeb",
-        "description": "Więcej niż tylko budowanie stron – tworzymy złożone aplikacje, które generują prawdziwą wartość dla Twojej firmy. Od aplikacji webowych opartych na TailScript i React po natywne oprogramowanie Windows i aplikacje mobilne Android/iOS.",
-        "cta": "Zarezerwuj Darmową Konsultację",
-        "scrollDown": "Przewiń w dół po szczegóły"
-    },
-    "what": {
-        "title": "Co tworzymy?",
-        "subtitle": "Kompleksowe, dedykowane rozwiązania programistyczne z zaawansowanymi technologiami",
-        "items": [
-            {
-                "title": "Aplikacje Webowe oparte na TailScript",
-                "description": "Szybkie, nowoczesne i wydajne systemy webowe z technologią TailScript. Skalowalne rozwiązania dla złożonych procesów biznesowych, które działają bezproblemowo w każdej przeglądarce."
-            },
-            {
-                "title": "Aplikacje Biznesowe React",
-                "description": "Aplikacje webowe klasy enterprise z React i Next.js. Intuicyjny interfejs użytkownika, szybki czas ładowania, struktura zoptymalizowana pod SEO – wszystko, czego potrzeba nowoczesnym aplikacjom biznesowym."
-            },
-            {
-                "title": "Oprogramowanie Desktopowe Windows",
-                "description": "Tworzenie natywnych aplikacji Windows z .NET i nowoczesnymi technologiami C#. Wydajne, szybkie i niezawodne rozwiązania desktopowe, które bezproblemowo integrują się w środowiskach korporacyjnych."
-            },
-            {
-                "title": "Tworzenie Aplikacji Mobilnych – Android + iOS",
-                "description": "Natywne i wieloplatformowe aplikacje mobilne z React Native i Flutter. Jeden kod bazowy, dwie platformy – szybki rozwój, doskonałe doświadczenie użytkownika na obu systemach."
-            }
-        ]
-    },
-    "whyChoose": {
-        "title": "Dlaczego wybrać SIRONIC do dedykowanego developmentu?",
-        "subtitle": "Nie tylko kodujemy – jesteśmy partnerami w osiąganiu Twoich celów biznesowych",
-        "reasons": [
-            {
-                "title": "Prawdziwe Zrozumienie Biznesu",
-                "description": "Nie jesteśmy tylko programistami – rozumiemy procesy biznesowe. Każda realizacja jest dopasowana do Twoich potrzeb, aby tworzyć realną wartość."
-            },
-            {
-                "title": "Nowoczesna Technologia",
-                "description": "React, Next.js, TailScript, .NET, React Native – pracujemy z najbardziej zaawansowanymi narzędziami, które są szybkie, bezpieczne i przyszłościowe."
-            },
-            {
-                "title": "Długoterminowe Partnerstwo",
-                "description": "Nie kończymy na wdrożeniu. Zapewniamy ciągłe wsparcie, konserwację i dalszy rozwój – oprogramowanie zawsze nadąża za potrzebami Twojej firmy."
-            },
-            {
-                "title": "Przejrzysta Komunikacja",
-                "description": "Bezpośrednia komunikacja w języku węgierskim/angielskim/polskim. Żadnych barier językowych, żadnych nieporozumień – zawsze wiesz, na jakim etapie jest projekt."
-            },
-            {
-                "title": "Bezpieczeństwo i Niezawodność",
-                "description": "Wszystkie nasze aplikacje są zbudowane z bezpiecznym przetwarzaniem danych, strukturą zgodną z RODO i stabilnym działaniem."
-            },
-            {
-                "title": "Skalowalność",
-                "description": "Projektujemy nasze systemy tak, by rosły wraz z Twoją firmą – brak konieczności przepisywania, gdy się rozwijasz."
-            }
-        ]
-    },
-    "technologies": {
-        "title": "Jakich technologii używamy?",
-        "subtitle": "Najnowocześniejsze i najbardziej niezawodne narzędzia na rynku",
-        "list": [
-            "React & Next.js – nowoczesne, przyjazne SEO aplikacje webowe",
-            "TailScript – szybkie i skalowalne systemy webowe",
-            "TypeScript – bezpieczny typowo, bezbłędny kod",
-            "Node.js & Express – solidne rozwiązania backendowe",
-            ".NET & C# – natywne oprogramowanie Windows",
-            "React Native & Flutter – wieloplatformowe aplikacje mobilne",
-            "Tailwind CSS – nowoczesny, responsywny design",
-            "PostgreSQL, MySQL – niezawodne zarządzanie bazami danych",
-            "Docker & Cloud – skalowalna i bezpieczna infrastruktura"
-        ]
-    },
-    "process": {
-        "title": "Jak pracujemy?",
-        "subtitle": "Przejrzysty, ustrukturyzowany proces rozwoju – krok po kroku",
-        "steps": [
-            {
-                "number": "1",
-                "title": "Analiza Wymagań i Konsultacja",
-                "description": "Poznajemy Twoje cele biznesowe, oczekiwania i obecne systemy. Wyjaśniamy dokładnie, co chcesz osiągnąć za pomocą oprogramowania."
-            },
-            {
-                "number": "2",
-                "title": "Projekt UX/UI i Budowa Struktury",
-                "description": "Projektujemy doświadczenie użytkownika i interfejs. Makiety, projekty i plany interakcji – tak abyśmy dokładnie wiedzieli, co budujemy."
-            },
-            {
-                "number": "3",
-                "title": "Rozwój i Ciągła Koordynacja",
-                "description": "Właściwe kodowanie. Komunikujemy się stale, pokazujemy postęp i reagujemy na Twoje potrzeby – więc przy dostawie nie ma niespodzianek."
-            },
-            {
-                "number": "4",
-                "title": "Testowanie i Zapewnienie Jakości",
-                "description": "Dokładne testy na każdym urządzeniu i przeglądarce. Testy wydajności, bezpieczeństwa i funkcjonalności – aby mieć pewność, że wszystko działa bezbłędnie."
-            },
-            {
-                "number": "5",
-                "title": "Wdrożenie i Szkolenie",
-                "description": "Wdrożenie oprogramowania i szkolenie użytkowników. Otrzymujesz całą dokumentację i wsparcie dla bezproblemowego działania."
-            },
-            {
-                "number": "6",
-                "title": "Konserwacja i Dalszy Rozwój",
-                "description": "Ciągłe wsparcie, poprawki błędów i dalszy rozwój. Oprogramowanie pozostaje zawsze aktualne i dotrzymuje kroku Twoim potrzebom."
-            }
-        ]
-    },
-    "useCases": {
-        "title": "Do czego przydaje się dedykowana aplikacja?",
-        "subtitle": "Prawdziwe problemy biznesowe, które rozwiązujemy dedykowanym oprogramowaniem",
-        "examples": [
-            "CRM i systemy zarządzania klientami – trzymaj rękę na pulsie",
-            "Oprogramowanie magazynowe i logistyczne – zautomatyzowane zarządzanie zapasami",
-            "Wewnętrzne portale firmowe – wszystkie dane w jednym miejscu",
-            "Rozwój e-commerce i sklepów internetowych – kanały sprzedaży online",
-            "Narzędzia do zarządzania projektami – praca zespołowa i śledzenie zadań",
-            "Zautomatyzowane raporty i administracja – oszczędzaj czas",
-            "Integracja z istniejącymi systemami – ERP, fakturowanie, połączenie CRM",
-            "Aplikacje mobilne – w rękach klientów i pracowników"
-        ]
-    },
-    "pricing": {
-        "title": "Ile kosztuje dedykowana aplikacja?",
-        "subtitle": "Każdy projekt jest unikalny – cennik zawsze opiera się na wymaganiach",
-        "description": "Cena dedykowanego tworzenia aplikacji zależy od złożoności, funkcjonalności i ram czasowych projektu. Małe aplikacje zaczynają się od 2 000 €, większe systemy korporacyjne mogą kosztować dziesiątki tysięcy – ale zawsze przygotowujemy indywidualną wycenę.",
-        "process": "Podczas darmowej konsultacji oceniamy Twoje potrzeby, omawiamy możliwości i przedstawiamy jasną, stałą ofertę na cały projekt.",
-        "cta": "Zapytaj o Darmową Wycenę"
-    },
-    "faq": {
-        "title": "Często Zadawane Pytania",
-        "items": [
-            {
-                "question": "Jak długo trwa dedykowany development?",
-                "answer": "Zależy to od skali projektu – prostsza aplikacja webowa zajmuje 4-8 tygodni, podczas gdy złożony system korporacyjny może zająć 3-6 miesięcy. Zawsze ustalamy terminy w ofercie."
-            },
-            {
-                "question": "Czy możecie zintegrować się z istniejącymi systemami?",
-                "answer": "Tak! Regularnie integrujemy się z ERP, CRM, systemami fakturowania i innymi zewnętrznymi API. To jedna z największych zalet dedykowanego developmentu."
-            },
-            {
-                "question": "Kto jest właścicielem kodu źródłowego?",
-                "answer": "Po zakończeniu projektu kod źródłowy staje się Twoją wyłączną własnością – żadnych ukrytych opłat licencyjnych czy zależności."
-            },
-            {
-                "question": "Co z konserwacją i dalszym rozwojem?",
-                "answer": "Oferujemy wsparcie po wdrożeniu: poprawki błędów, aktualizacje, dalszy rozwój – z opcjonalnymi rozwiązaniami miesięcznymi lub jednorazowymi."
-            },
-            {
-                "question": "Jaką gwarancję otrzymujemy na aplikację?",
-                "answer": "Po wdrożeniu obowiązuje 6-miesięczna gwarancja na błędy – naprawiamy wszelkie problemy funkcjonalne za darmo w tym okresie."
-            }
-        ]
-    },
-    "finalCta": {
-        "title": "Gotowy na dedykowane rozwiązanie programistyczne?",
-        "description": "Porozmawiajmy o Twoich potrzebach i stwórzmy wspólnie aplikację, która naprawdę zwiększy efektywność Twojej firmy.",
-        "button": "Zarezerwuj Darmową Konsultację"
-    }
-},
-"itTraining": {
-    "badge": "Szkolenia IT i Edukacja",
-    "title": "Szkolenia IT i Rozwój Wiedzy",
-    "subtitle": "Rozwijaj kompetencje cyfrowe swojego zespołu",
-    "description": "Oferujemy spersonalizowane szkolenia IT, warsztaty ze świadomości bezpieczeństwa i rozwój wiedzy na poziomie systemowym, aby zapewnić, że Twoi pracownicy używają nowoczesnych narzędzi i oprogramowania z pewnością siebie. Bezpieczne działanie zaczyna się od informacji.",
-    "cards": {
-        "personalized": {
-            "title": "Spersonalizowane szkolenia IT",
-            "description": "Dostosowane programy szkoleniowe, by poprawić biegłość cyfrową Twojego zespołu. Praktyczna wiedza bezpośrednio aplikowalna w codziennej pracy."
+        "what": {
+            "title": "Co tworzymy?",
+            "subtitle": "Kompleksowe, dedykowane rozwiązania programistyczne z zaawansowanymi technologiami",
+            "items": [
+                {
+                    "title": "Aplikacje Webowe oparte na TailScript",
+                    "description": "Szybkie, nowoczesne i wydajne systemy webowe z technologią TailScript. Skalowalne rozwiązania dla złożonych procesów biznesowych, które działają bezproblemowo w każdej przeglądarce."
+                },
+                {
+                    "title": "Aplikacje Biznesowe React",
+                    "description": "Aplikacje webowe klasy enterprise z React i Next.js. Intuicyjny interfejs użytkownika, szybki czas ładowania, struktura zoptymalizowana pod SEO – wszystko, czego potrzeba nowoczesnym aplikacjom biznesowym."
+                },
+                {
+                    "title": "Oprogramowanie Desktopowe Windows",
+                    "description": "Tworzenie natywnych aplikacji Windows z .NET i nowoczesnymi technologiami C#. Wydajne, szybkie i niezawodne rozwiązania desktopowe, które bezproblemowo integrują się w środowiskach korporacyjnych."
+                },
+                {
+                    "title": "Tworzenie Aplikacji Mobilnych – Android + iOS",
+                    "description": "Natywne i wieloplatformowe aplikacje mobilne z React Native i Flutter. Jeden kod bazowy, dwie platformy – szybki rozwój, doskonałe doświadczenie użytkownika na obu systemach."
+                }
+            ]
         },
-        "security": {
-            "title": "Szkolenie ze świadomości bezpieczeństwa",
-            "description": "Niezbędne warsztaty z cyberbezpieczeństwa i ochrony danych. Naucz swój zespół, jak skutecznie chronić dane firmowe i systemy."
+        "whyChoose": {
+            "title": "Dlaczego wybrać SIRONIC do dedykowanego developmentu?",
+            "subtitle": "Nie tylko kodujemy – jesteśmy partnerami w osiąganiu Twoich celów biznesowych",
+            "reasons": [
+                {
+                    "title": "Prawdziwe Zrozumienie Biznesu",
+                    "description": "Nie jesteśmy tylko programistami – rozumiemy procesy biznesowe. Każda realizacja jest dopasowana do Twoich potrzeb, aby tworzyć realną wartość."
+                },
+                {
+                    "title": "Nowoczesna Technologia",
+                    "description": "React, Next.js, TailScript, .NET, React Native – pracujemy z najbardziej zaawansowanymi narzędziami, które są szybkie, bezpieczne i przyszłościowe."
+                },
+                {
+                    "title": "Długoterminowe Partnerstwo",
+                    "description": "Nie kończymy na wdrożeniu. Zapewniamy ciągłe wsparcie, konserwację i dalszy rozwój – oprogramowanie zawsze nadąża za potrzebami Twojej firmy."
+                },
+                {
+                    "title": "Przejrzysta Komunikacja",
+                    "description": "Bezpośrednia komunikacja w języku węgierskim/angielskim/polskim. Żadnych barier językowych, żadnych nieporozumień – zawsze wiesz, na jakim etapie jest projekt."
+                },
+                {
+                    "title": "Bezpieczeństwo i Niezawodność",
+                    "description": "Wszystkie nasze aplikacje są zbudowane z bezpiecznym przetwarzaniem danych, strukturą zgodną z RODO i stabilnym działaniem."
+                },
+                {
+                    "title": "Skalowalność",
+                    "description": "Projektujemy nasze systemy tak, by rosły wraz z Twoją firmą – brak konieczności przepisywania, gdy się rozwijasz."
+                }
+            ]
         },
-        "software": {
-            "title": "Szkolenie użytkowników z oprogramowania i urządzeń",
-            "description": "Efektywne wykorzystanie Microsoft 365, Google Workspace i narzędzi biurowych. Zwiększ produktywność poprzez opanowanie właściwych narzędzi."
+        "technologies": {
+            "title": "Jakich technologii używamy?",
+            "subtitle": "Najnowocześniejsze i najbardziej niezawodne narzędzia na rynku",
+            "list": [
+                "React & Next.js – nowoczesne, przyjazne SEO aplikacje webowe",
+                "TailScript – szybkie i skalowalne systemy webowe",
+                "TypeScript – bezpieczny typowo, bezbłędny kod",
+                "Node.js & Express – solidne rozwiązania backendowe",
+                ".NET & C# – natywne oprogramowanie Windows",
+                "React Native & Flutter – wieloplatformowe aplikacje mobilne",
+                "Tailwind CSS – nowoczesny, responsywny design",
+                "PostgreSQL, MySQL – niezawodne zarządzanie bazami danych",
+                "Docker & Cloud – skalowalna i bezpieczna infrastruktura"
+            ]
         },
-        "corporate": {
-            "title": "Programy rozwoju wiedzy firmowej",
-            "description": "Długoterminowy rozwój kompetencji cyfrowych. Ciągłe programy edukacyjne, które dotrzymują kroku postępowi technologicznemu."
+        "process": {
+            "title": "Jak pracujemy?",
+            "subtitle": "Przejrzysty, ustrukturyzowany proces rozwoju – krok po kroku",
+            "steps": [
+                {
+                    "number": "1",
+                    "title": "Analiza Wymagań i Konsultacja",
+                    "description": "Poznajemy Twoje cele biznesowe, oczekiwania i obecne systemy. Wyjaśniamy dokładnie, co chcesz osiągnąć za pomocą oprogramowania."
+                },
+                {
+                    "number": "2",
+                    "title": "Projekt UX/UI i Budowa Struktury",
+                    "description": "Projektujemy doświadczenie użytkownika i interfejs. Makiety, projekty i plany interakcji – tak abyśmy dokładnie wiedzieli, co budujemy."
+                },
+                {
+                    "number": "3",
+                    "title": "Rozwój i Ciągła Koordynacja",
+                    "description": "Właściwe kodowanie. Komunikujemy się stale, pokazujemy postęp i reagujemy na Twoje potrzeby – więc przy dostawie nie ma niespodzianek."
+                },
+                {
+                    "number": "4",
+                    "title": "Testowanie i Zapewnienie Jakości",
+                    "description": "Dokładne testy na każdym urządzeniu i przeglądarce. Testy wydajności, bezpieczeństwa i funkcjonalności – aby mieć pewność, że wszystko działa bezbłędnie."
+                },
+                {
+                    "number": "5",
+                    "title": "Wdrożenie i Szkolenie",
+                    "description": "Wdrożenie oprogramowania i szkolenie użytkowników. Otrzymujesz całą dokumentację i wsparcie dla bezproblemowego działania."
+                },
+                {
+                    "number": "6",
+                    "title": "Konserwacja i Dalszy Rozwój",
+                    "description": "Ciągłe wsparcie, poprawki błędów i dalszy rozwój. Oprogramowanie pozostaje zawsze aktualne i dotrzymuje kroku Twoim potrzebom."
+                }
+            ]
+        },
+        "useCases": {
+            "title": "Do czego przydaje się dedykowana aplikacja?",
+            "subtitle": "Prawdziwe problemy biznesowe, które rozwiązujemy dedykowanym oprogramowaniem",
+            "examples": [
+                "CRM i systemy zarządzania klientami – trzymaj rękę na pulsie",
+                "Oprogramowanie magazynowe i logistyczne – zautomatyzowane zarządzanie zapasami",
+                "Wewnętrzne portale firmowe – wszystkie dane w jednym miejscu",
+                "Rozwój e-commerce i sklepów internetowych – kanały sprzedaży online",
+                "Narzędzia do zarządzania projektami – praca zespołowa i śledzenie zadań",
+                "Zautomatyzowane raporty i administracja – oszczędzaj czas",
+                "Integracja z istniejącymi systemami – ERP, fakturowanie, połączenie CRM",
+                "Aplikacje mobilne – w rękach klientów i pracowników"
+            ]
+        },
+        "pricing": {
+            "title": "Ile kosztuje dedykowana aplikacja?",
+            "subtitle": "Każdy projekt jest unikalny – cennik zawsze opiera się na wymaganiach",
+            "description": "Cena dedykowanego tworzenia aplikacji zależy od złożoności, funkcjonalności i ram czasowych projektu. Małe aplikacje zaczynają się od 2 000 €, większe systemy korporacyjne mogą kosztować dziesiątki tysięcy – ale zawsze przygotowujemy indywidualną wycenę.",
+            "process": "Podczas darmowej konsultacji oceniamy Twoje potrzeby, omawiamy możliwości i przedstawiamy jasną, stałą ofertę na cały projekt.",
+            "cta": "Zapytaj o Darmową Wycenę"
+        },
+        "faq": {
+            "title": "Często Zadawane Pytania",
+            "items": [
+                {
+                    "question": "Jak długo trwa dedykowany development?",
+                    "answer": "Zależy to od skali projektu – prostsza aplikacja webowa zajmuje 4-8 tygodni, podczas gdy złożony system korporacyjny może zająć 3-6 miesięcy. Zawsze ustalamy terminy w ofercie."
+                },
+                {
+                    "question": "Czy możecie zintegrować się z istniejącymi systemami?",
+                    "answer": "Tak! Regularnie integrujemy się z ERP, CRM, systemami fakturowania i innymi zewnętrznymi API. To jedna z największych zalet dedykowanego developmentu."
+                },
+                {
+                    "question": "Kto jest właścicielem kodu źródłowego?",
+                    "answer": "Po zakończeniu projektu kod źródłowy staje się Twoją wyłączną własnością – żadnych ukrytych opłat licencyjnych czy zależności."
+                },
+                {
+                    "question": "Co z konserwacją i dalszym rozwojem?",
+                    "answer": "Oferujemy wsparcie po wdrożeniu: poprawki błędów, aktualizacje, dalszy rozwój – z opcjonalnymi rozwiązaniami miesięcznymi lub jednorazowymi."
+                },
+                {
+                    "question": "Jaką gwarancję otrzymujemy na aplikację?",
+                    "answer": "Po wdrożeniu obowiązuje 6-miesięczna gwarancja na błędy – naprawiamy wszelkie problemy funkcjonalne za darmo w tym okresie."
+                }
+            ]
+        },
+        "finalCta": {
+            "title": "Gotowy na dedykowane rozwiązanie programistyczne?",
+            "description": "Porozmawiajmy o Twoich potrzebach i stwórzmy wspólnie aplikację, która naprawdę zwiększy efektywność Twojej firmy.",
+            "button": "Zarezerwuj Darmową Konsultację"
         }
     },
-    "languageNote": "Sesje szkoleniowe są obecnie dostępne wyłącznie w języku węgierskim, zarówno online, jak i na miejscu.",
-    "cta": {
-        "main": "Zapytaj o Ofertę Szkoleniową",
-        "learnMore": "Czytaj Więcej"
-    }
-},
-"itTrainingPage": {
-    "meta": {
-        "title": "Szkolenia IT i Edukacja Biznesowa | SIRONIC",
-        "description": "Praktyczne szkolenia IT dla firm: świadomość bezpieczeństwa, obsługa oprogramowania i rozwój kompetencji cyfrowych. Podnieś kwalifikacje swojego zespołu!",
-        "keywords": [
-            "szkolenie IT",
-            "edukacja biznesowa",
-            "świadomość bezpieczeństwa",
-            "kompetencje cyfrowe",
-            "kurs Excel",
-            "warsztaty IT"
-        ],
-        "ogTitle": "Szkolenia IT i Edukacja Biznesowa - SIRONIC",
-        "ogDescription": "Praktyczne szkolenia IT dla firm. Podnieś cyfrowe umiejętności swojego zespołu z nami!"
-    },
-    "breadcrumb": {
-        "home": "Strona główna",
-        "training": "Szkolenia IT"
-    },
-    "hero": {
+    "itTraining": {
+        "badge": "Szkolenia IT i Edukacja",
         "title": "Szkolenia IT i Rozwój Wiedzy",
-        "subtitle": "Rozwijaj kompetencje cyfrowe swojego zespołu dzięki profesjonalnym szkoleniom",
-        "description": "SIRONIC nie tylko zarządza systemami IT – rozwijamy również cyfrową wiedzę Twoich pracowników. Dzięki naszym spersonalizowanym szkoleniom Twój zespół będzie używał nowoczesnych narzędzi z pewnością siebie i będzie świadomy zagrożeń bezpieczeństwa.",
-        "cta": "Zarezerwuj Darmową Konsultację",
-        "scrollDown": "Przewiń w dół po szczegóły"
-    },
-    "intro": {
-        "title": "Dlaczego szkolenia IT dla firm są ważne?",
-        "content": [
-            "Nawet najlepsza infrastruktura IT nie wystarczy, jeśli pracownicy nie potrafią jej efektywnie używać. Słaba znajomość narzędzi, brak świadomości bezpieczeństwa i przestarzałe przepływy pracy obniżają produktywność i zwiększają ryzyko.",
-            "Z programami szkoleniowymi IT SIRONIC Twój zespół zdobywa aktualną wiedzę, pracuje pewniej i świadomie chroni dane firmowe. Wszystkie nasze szkolenia są praktyczne, spersonalizowane i bezpośrednio aplikowalne w codziennej pracy."
-        ]
-    },
-    "services": {
-        "title": "Jakie Szkolenia Oferujemy?",
-        "subtitle": "Praktyczne, zorientowane na biznes szkolenia na każdym poziomie",
-        "items": [
-            {
+        "subtitle": "Rozwijaj kompetencje cyfrowe swojego zespołu",
+        "description": "Oferujemy spersonalizowane szkolenia IT, warsztaty ze świadomości bezpieczeństwa i rozwój wiedzy na poziomie systemowym, aby zapewnić, że Twoi pracownicy używają nowoczesnych narzędzi i oprogramowania z pewnością siebie. Bezpieczne działanie zaczyna się od informacji.",
+        "cards": {
+            "personalized": {
                 "title": "Spersonalizowane szkolenia IT",
-                "description": "Plan lekcji i tempo dostosowane do potrzeb Twojego zespołu. Od początkujących do zaawansowanych użytkowników – każdy kurs jest skrojony na miarę rzeczywistych wymagań Twojej firmy. Nauka poprzez praktyczne przykłady i sytuacje z życia wzięte.",
-                "topics": [
-                    "Podstawy Windows i macOS",
-                    "Zarządzanie plikami i struktura folderów",
-                    "Kopia zapasowa i przywracanie danych",
-                    "Używanie urządzeń peryferyjnych i drukarek",
-                    "Szybkie skróty klawiszowe i wskazówki dotyczące produktywności"
-                ]
+                "description": "Dostosowane programy szkoleniowe, by poprawić biegłość cyfrową Twojego zespołu. Praktyczna wiedza bezpośrednio aplikowalna w codziennej pracy."
             },
-            {
+            "security": {
                 "title": "Szkolenie ze świadomości bezpieczeństwa",
-                "description": "Większość wycieków danych zdarza się przez błąd ludzki – oszustwa e-mailowe, słabe hasła, phishing. Nasze szkolenie pomaga pracownikom rozpoznawać i unikać ryzyka.",
-                "topics": [
-                    "Rozpoznawanie e-maili phishingowych i oszustw",
-                    "Bezpieczne zarządzanie hasłami i użycie 2FA",
-                    "Zasady prywatności (RODO) w praktyce",
-                    "Bezpieczne udostępnianie plików i e-mail",
-                    "Bezpieczeństwo urządzeń: laptopy, telefony, praca zdalna"
-                ]
+                "description": "Niezbędne warsztaty z cyberbezpieczeństwa i ochrony danych. Naucz swój zespół, jak skutecznie chronić dane firmowe i systemy."
             },
-            {
+            "software": {
                 "title": "Szkolenie użytkowników z oprogramowania i urządzeń",
-                "description": "Nowoczesna praca biurowa opiera się na narzędziach programowych – ale często używamy tylko ułamka ich potencjału. Uczymy narzędzi i metod efektywnej pracy.",
-                "topics": [
-                    "Microsoft 365: Word, Excel, PowerPoint, Outlook, Teams",
-                    "Google Workspace: Docs, Sheets, Drive, Meet",
-                    "Narzędzia do współpracy: Slack, Notion, Trello, Asana",
-                    "Używanie narzędzi do wideokonferencji",
-                    "Udostępnianie plików w chmurze i synchronizacja"
-                ]
+                "description": "Efektywne wykorzystanie Microsoft 365, Google Workspace i narzędzi biurowych. Zwiększ produktywność poprzez opanowanie właściwych narzędzi."
             },
-            {
+            "corporate": {
                 "title": "Programy rozwoju wiedzy firmowej",
-                "description": "Długoterminowe, ciągłe programy szkoleniowe zapewniające, że zespół jest zawsze na bieżąco. Budowa bazy wiedzy firmowej i regularny rozwój.",
-                "topics": [
-                    "Tworzenie niestandardowych materiałów edukacyjnych i przewodników",
-                    "Ciągłe wsparcie online i sesje Q&A",
-                    "Regularne odświeżanie wiedzy technicznej",
-                    "Szkolenie on-boardingowe IT dla nowych pracowników",
-                    "Szkolenie z konkretnych systemów firmowych"
-                ]
+                "description": "Długoterminowy rozwój kompetencji cyfrowych. Ciągłe programy edukacyjne, które dotrzymują kroku postępowi technologicznemu."
             }
-        ]
-    },
-    "benefits": {
-        "title": "Dlaczego Inwestować w Szkolenia IT dla Firm?",
-        "subtitle": "Konkretne korzyści, które przynoszą mierzalne rezultaty",
-        "list": [
-            "Wyższa produktywność – pracownicy pracują szybciej i wydajniej",
-            "Mniej błędów IT i zgłoszeń do helpdesku – mniejsze obciążenie wsparcia technicznego",
-            "Bezpieczniejsze działanie – świadomi pracownicy chronią dane",
-            "Lepsze wykorzystanie narzędzi – pełny potencjał oprogramowania i systemów",
-            "Bardziej pewny siebie zespół – brak strachu przed nową technologią",
-            "Szybsza adaptacja – płynniejsze wprowadzanie nowych narzędzi",
-            "Konkurencyjność – kompetentny cyfrowo zespół oznacza nowocześniejszą firmę"
-        ]
-    },
-    "targetGroups": {
-        "title": "Komu Polecamy?",
-        "subtitle": "Dla każdej firmy pracującej z narzędziami cyfrowymi",
-        "groups": [
-            {
-                "title": "Pracownicy Biurowi",
-                "description": "Ci, którzy codziennie używają komputerów, e-maili i programów biurowych."
-            },
-            {
-                "title": "Menedżerowie i Kadra Kierownicza",
-                "description": "Ci, którzy potrzebują wiedzy o narzędziach cyfrowych do podejmowania decyzji, raportowania i komunikacji."
-            },
-            {
-                "title": "Koledzy spoza IT",
-                "description": "Ci, dla których technologia jest tylko narzędziem, ale przeszkodą bez odpowiedniej wiedzy."
-            },
-            {
-                "title": "Pracownicy Zdalni",
-                "description": "Ci, którzy potrzebują wsparcia dla bezpiecznej i efektywnej pracy w domu."
-            },
-            {
-                "title": "Nowi Pracownicy",
-                "description": "Ci, którzy muszą poznać systemy IT firmy w ramach wdrożenia."
-            }
-        ]
-    },
-    "delivery": {
-        "title": "Jak Dostarczane Jest Szkolenie?",
-        "subtitle": "Elastyczne formy szkolenia – Wybierasz to, co pasuje najlepiej",
-        "methods": [
-            {
-                "title": "Szkolenie na miejscu",
-                "description": "Przyjeżdżamy do Twojego biura i prowadzimy szkolenie na miejscu. Osobiście, interaktywnie, z bezpośrednimi przykładami praktycznymi na Twoich własnych systemach."
-            },
-            {
-                "title": "Edukacja Zdalna Online",
-                "description": "Sesje szkoleniowe na żywo przez platformy wideokonferencyjne. Elastyczne planowanie, brak podróży, ale równie skuteczne jak forma na miejscu."
-            },
-            {
-                "title": "Model Hybrydowy",
-                "description": "Połączenie obu: start na miejscu, potem kontynuacja online. Najlepsze z obu światów."
-            }
-        ],
-        "languageNote": "Sesje szkoleniowe są obecnie dostępne wyłącznie w języku węgierskim, zarówno online, jak i na miejscu."
-    },
-    "topics": {
-        "title": "Konkretne Tematy, Których Uczymy",
-        "subtitle": "Praktyczna wiedza, którą możesz zastosować natychmiast",
-        "list": [
-            "Używanie Microsoft 365 (Word, Excel, PowerPoint, Outlook, OneDrive, Teams)",
-            "Narzędzia Google Workspace (Gmail, Drive, Docs, Sheets, Meet)",
-            "Bezpieczne zarządzanie hasłami i uwierzytelnianie dwuskładnikowe",
-            "Rozpoznawanie e-maili phishingowych i oszustw internetowych",
-            "Bezpieczne udostępnianie plików i przechowywanie w chmurze",
-            "Profesjonalne używanie narzędzi do wideokonferencji",
-            "Efektywne zarządzanie e-mailem i organizacja skrzynki pocztowej",
-            "Zarządzanie projektami i zadaniami (Trello, Asana, Notion)",
-            "Podstawowe funkcje i wskazówki Windows i macOS",
-            "Sprzęt biurowy: drukarki, skanery, multimedia"
-        ]
-    },
-    "methodology": {
-        "title": "Jak Pracujemy?",
-        "subtitle": "Ustrukturyzowany proces szkoleniowy – krok po kroku",
-        "steps": [
-            {
-                "number": "1",
-                "title": "Analiza Potrzeb",
-                "description": "Poznajemy zespół, obecne poziomy wiedzy i procesy biznesowe. Wyjaśniamy, które obszary wymagają rozwoju."
-            },
-            {
-                "number": "2",
-                "title": "Tworzenie Dostosowanego Planu Lekcji",
-                "description": "Spersonalizowany plan szkoleniowy i materiały pasujące do narzędzi i przepływów pracy Twojej firmy."
-            },
-            {
-                "number": "3",
-                "title": "Przeprowadzenie Szkolenia",
-                "description": "Interaktywne, praktyczne szkolenie na żywo – pytania, odpowiedzi, przykłady z życia wzięte w Twoim własnym środowisku."
-            },
-            {
-                "number": "4",
-                "title": "Kontynuacja i Wsparcie",
-                "description": "Jesteśmy dostępni również po szkoleniu – pytania, powtórki, dalsza pomoc. Zapewniamy, że wiedza naprawdę integruje się z codzienną rutyną."
-            }
-        ]
-    },
-    "faq": {
-        "title": "Często Zadawane Pytania",
-        "items": [
-            {
-                "question": "Jak długo trwa sesja szkoleniowa?",
-                "answer": "Długość zależy od potrzeb. Jednorazowy warsztat to 2-4 godziny, podczas gdy kompleksowy program firmowy może rozciągać się na kilka tygodni z wieloma sesjami. Zawsze uzgadniamy ramy czasowe."
-            },
-            {
-                "question": "Ile osób może uczestniczyć jednocześnie?",
-                "answer": "Idealna liczba to 5-15 osób, aby każdy otrzymał wystarczająco dużo uwagi. Dla większych grup możemy zorganizować wiele sesji lub grupy równoległe."
-            },
-            {
-                "question": "Czy uczestnicy potrzebują wcześniejszej wiedzy IT?",
-                "answer": "Nie! Dostosowujemy szkolenie do obecnego poziomu wiedzy uczestników – od początkujących do zaawansowanych. Oceniamy wcześniej, gdzie każdy się znajduje."
-            },
-            {
-                "question": "Czy uczestnicy otrzymują materiały lub notatki?",
-                "answer": "Tak! Po każdym szkoleniu otrzymują materiał, prezentacje i praktyczne przewodniki w formie cyfrowej – aby mogli do nich w każdej chwili wrócić."
-            },
-            {
-                "question": "W jakim języku prowadzone są szkolenia?",
-                "answer": "Obecnie sesje szkoleniowe są prowadzone wyłącznie w języku węgierskim, zarówno online, jak i na miejscu."
-            },
-            {
-                "question": "Ile kosztuje szkolenie IT dla firm?",
-                "answer": "Ceny opierają się na indywidualnej wycenie – w zależności od liczby uczestników, tematów i czasu trwania. Zapytaj o wycenę, a omówimy szczegóły!"
-            }
-        ]
-    },
-    "pricing": {
-        "title": "Ile Kosztuje Szkolenie IT?",
-        "subtitle": "Tworzymy oferty na miarę – każda firma ma inne potrzeby",
-        "description": "Ceny szkoleń zależą od liczby uczestników, czasu trwania, tematów i lokalizacji (online/offline). Średnio 4-godzinny warsztat zaczyna się od około 200 € dla małych grup, podczas gdy dłuższy, ciągły program rozwoju jest dostępny w modelu miesięcznego abonamentu.",
-        "process": "Zarezerwuj darmową konsultację, ocenimy potrzeby i opracujemy szczegółową, przejrzystą ofertę.",
-        "cta": "Zapytaj o Wycenę Teraz"
-    },
-    "finalCta": {
-        "title": "Rozpocznij Cyfrowy Rozwój Swojego Zespołu!",
-        "description": "Zarezerwuj darmową konsultację i wspólnie dowiedzmy się, jakie szkolenie IT może poprawić efektywność i bezpieczeństwo Twojej firmy.",
-        "button": "Zamów Ofertę Szkoleniową IT"
-    }
-},
-"networkOptimization": {
-    "badge": "Optymalizacja Sieci",
-    "title": "Zadbaj o Stabilny i Szybki Internet & Wi-Fi w Twojej Firmie",
-    "subtitle": "Wolne Wi-Fi, niestabilne połączenie lub zawodna sieć spowalnia całą Twoją firmę. Projektujemy, optymalizujemy i konserwujemy nowoczesne infrastruktury sieciowe klasy enterprise, aby każde urządzenie działało szybko, bezpiecznie i niezawodnie.",
-    "features": {
-        "wifi": {
-            "title": "Stabilne Wi-Fi firmowe z dobrym zasięgiem",
-            "description": "Nowoczesne punkty dostępowe i projekt sieci gwarantujące silny sygnał Wi-Fi w każdym pokoju – bez przerw."
         },
-        "speed": {
-            "title": "Szybka i bezpieczna sieć dla wszystkich urządzeń",
-            "description": "Zoptymalizowana przepustowość, separacja VLAN i dostrajanie wydajności – każde urządzenie działa płynnie."
-        },
-        "reliability": {
-            "title": "Niezawodne połączenie — bez przestojów",
-            "description": "Niezawodne routery, sprzęt sieciowy klasy enterprise i ciągły monitoring – dzięki temu Twoja sieć jest zawsze dostępna."
+        "languageNote": "Sesje szkoleniowe są obecnie dostępne wyłącznie w języku węgierskim, zarówno online, jak i na miejscu.",
+        "cta": {
+            "main": "Zapytaj o Ofertę Szkoleniową",
+            "learnMore": "Czytaj Więcej"
         }
     },
-    "cta": "Zapytaj o Audyt Sieci"
-},
-"networkOptimizationPage": {
-    "breadcrumb": {
-        "home": "Strona główna",
-        "networkOptimization": "Optymalizacja Sieci"
+    "itTrainingPage": {
+        "meta": {
+            "title": "Szkolenia IT i Edukacja Biznesowa | SIRONIC",
+            "description": "Praktyczne szkolenia IT dla firm: świadomość bezpieczeństwa, obsługa oprogramowania i rozwój kompetencji cyfrowych. Podnieś kwalifikacje swojego zespołu!",
+            "keywords": [
+                "szkolenie IT",
+                "edukacja biznesowa",
+                "świadomość bezpieczeństwa",
+                "kompetencje cyfrowe",
+                "kurs Excel",
+                "warsztaty IT"
+            ],
+            "ogTitle": "Szkolenia IT i Edukacja Biznesowa - SIRONIC",
+            "ogDescription": "Praktyczne szkolenia IT dla firm. Podnieś cyfrowe umiejętności swojego zespołu z nami!"
+        },
+        "breadcrumb": {
+            "home": "Strona główna",
+            "training": "Szkolenia IT"
+        },
+        "hero": {
+            "title": "Szkolenia IT i Rozwój Wiedzy",
+            "subtitle": "Rozwijaj kompetencje cyfrowe swojego zespołu dzięki profesjonalnym szkoleniom",
+            "description": "SIRONIC nie tylko zarządza systemami IT – rozwijamy również cyfrową wiedzę Twoich pracowników. Dzięki naszym spersonalizowanym szkoleniom Twój zespół będzie używał nowoczesnych narzędzi z pewnością siebie i będzie świadomy zagrożeń bezpieczeństwa.",
+            "cta": "Zarezerwuj Darmową Konsultację",
+            "scrollDown": "Przewiń w dół po szczegóły"
+        },
+        "intro": {
+            "title": "Dlaczego szkolenia IT dla firm są ważne?",
+            "content": [
+                "Nawet najlepsza infrastruktura IT nie wystarczy, jeśli pracownicy nie potrafią jej efektywnie używać. Słaba znajomość narzędzi, brak świadomości bezpieczeństwa i przestarzałe przepływy pracy obniżają produktywność i zwiększają ryzyko.",
+                "Z programami szkoleniowymi IT SIRONIC Twój zespół zdobywa aktualną wiedzę, pracuje pewniej i świadomie chroni dane firmowe. Wszystkie nasze szkolenia są praktyczne, spersonalizowane i bezpośrednio aplikowalne w codziennej pracy."
+            ]
+        },
+        "services": {
+            "title": "Jakie Szkolenia Oferujemy?",
+            "subtitle": "Praktyczne, zorientowane na biznes szkolenia na każdym poziomie",
+            "items": [
+                {
+                    "title": "Spersonalizowane szkolenia IT",
+                    "description": "Plan lekcji i tempo dostosowane do potrzeb Twojego zespołu. Od początkujących do zaawansowanych użytkowników – każdy kurs jest skrojony na miarę rzeczywistych wymagań Twojej firmy. Nauka poprzez praktyczne przykłady i sytuacje z życia wzięte.",
+                    "topics": [
+                        "Podstawy Windows i macOS",
+                        "Zarządzanie plikami i struktura folderów",
+                        "Kopia zapasowa i przywracanie danych",
+                        "Używanie urządzeń peryferyjnych i drukarek",
+                        "Szybkie skróty klawiszowe i wskazówki dotyczące produktywności"
+                    ]
+                },
+                {
+                    "title": "Szkolenie ze świadomości bezpieczeństwa",
+                    "description": "Większość wycieków danych zdarza się przez błąd ludzki – oszustwa e-mailowe, słabe hasła, phishing. Nasze szkolenie pomaga pracownikom rozpoznawać i unikać ryzyka.",
+                    "topics": [
+                        "Rozpoznawanie e-maili phishingowych i oszustw",
+                        "Bezpieczne zarządzanie hasłami i użycie 2FA",
+                        "Zasady prywatności (RODO) w praktyce",
+                        "Bezpieczne udostępnianie plików i e-mail",
+                        "Bezpieczeństwo urządzeń: laptopy, telefony, praca zdalna"
+                    ]
+                },
+                {
+                    "title": "Szkolenie użytkowników z oprogramowania i urządzeń",
+                    "description": "Nowoczesna praca biurowa opiera się na narzędziach programowych – ale często używamy tylko ułamka ich potencjału. Uczymy narzędzi i metod efektywnej pracy.",
+                    "topics": [
+                        "Microsoft 365: Word, Excel, PowerPoint, Outlook, Teams",
+                        "Google Workspace: Docs, Sheets, Drive, Meet",
+                        "Narzędzia do współpracy: Slack, Notion, Trello, Asana",
+                        "Używanie narzędzi do wideokonferencji",
+                        "Udostępnianie plików w chmurze i synchronizacja"
+                    ]
+                },
+                {
+                    "title": "Programy rozwoju wiedzy firmowej",
+                    "description": "Długoterminowe, ciągłe programy szkoleniowe zapewniające, że zespół jest zawsze na bieżąco. Budowa bazy wiedzy firmowej i regularny rozwój.",
+                    "topics": [
+                        "Tworzenie niestandardowych materiałów edukacyjnych i przewodników",
+                        "Ciągłe wsparcie online i sesje Q&A",
+                        "Regularne odświeżanie wiedzy technicznej",
+                        "Szkolenie on-boardingowe IT dla nowych pracowników",
+                        "Szkolenie z konkretnych systemów firmowych"
+                    ]
+                }
+            ]
+        },
+        "benefits": {
+            "title": "Dlaczego Inwestować w Szkolenia IT dla Firm?",
+            "subtitle": "Konkretne korzyści, które przynoszą mierzalne rezultaty",
+            "list": [
+                "Wyższa produktywność – pracownicy pracują szybciej i wydajniej",
+                "Mniej błędów IT i zgłoszeń do helpdesku – mniejsze obciążenie wsparcia technicznego",
+                "Bezpieczniejsze działanie – świadomi pracownicy chronią dane",
+                "Lepsze wykorzystanie narzędzi – pełny potencjał oprogramowania i systemów",
+                "Bardziej pewny siebie zespół – brak strachu przed nową technologią",
+                "Szybsza adaptacja – płynniejsze wprowadzanie nowych narzędzi",
+                "Konkurencyjność – kompetentny cyfrowo zespół oznacza nowocześniejszą firmę"
+            ]
+        },
+        "targetGroups": {
+            "title": "Komu Polecamy?",
+            "subtitle": "Dla każdej firmy pracującej z narzędziami cyfrowymi",
+            "groups": [
+                {
+                    "title": "Pracownicy Biurowi",
+                    "description": "Ci, którzy codziennie używają komputerów, e-maili i programów biurowych."
+                },
+                {
+                    "title": "Menedżerowie i Kadra Kierownicza",
+                    "description": "Ci, którzy potrzebują wiedzy o narzędziach cyfrowych do podejmowania decyzji, raportowania i komunikacji."
+                },
+                {
+                    "title": "Koledzy spoza IT",
+                    "description": "Ci, dla których technologia jest tylko narzędziem, ale przeszkodą bez odpowiedniej wiedzy."
+                },
+                {
+                    "title": "Pracownicy Zdalni",
+                    "description": "Ci, którzy potrzebują wsparcia dla bezpiecznej i efektywnej pracy w domu."
+                },
+                {
+                    "title": "Nowi Pracownicy",
+                    "description": "Ci, którzy muszą poznać systemy IT firmy w ramach wdrożenia."
+                }
+            ]
+        },
+        "delivery": {
+            "title": "Jak Dostarczane Jest Szkolenie?",
+            "subtitle": "Elastyczne formy szkolenia – Wybierasz to, co pasuje najlepiej",
+            "methods": [
+                {
+                    "title": "Szkolenie na miejscu",
+                    "description": "Przyjeżdżamy do Twojego biura i prowadzimy szkolenie na miejscu. Osobiście, interaktywnie, z bezpośrednimi przykładami praktycznymi na Twoich własnych systemach."
+                },
+                {
+                    "title": "Edukacja Zdalna Online",
+                    "description": "Sesje szkoleniowe na żywo przez platformy wideokonferencyjne. Elastyczne planowanie, brak podróży, ale równie skuteczne jak forma na miejscu."
+                },
+                {
+                    "title": "Model Hybrydowy",
+                    "description": "Połączenie obu: start na miejscu, potem kontynuacja online. Najlepsze z obu światów."
+                }
+            ],
+            "languageNote": "Sesje szkoleniowe są obecnie dostępne wyłącznie w języku węgierskim, zarówno online, jak i na miejscu."
+        },
+        "topics": {
+            "title": "Konkretne Tematy, Których Uczymy",
+            "subtitle": "Praktyczna wiedza, którą możesz zastosować natychmiast",
+            "list": [
+                "Używanie Microsoft 365 (Word, Excel, PowerPoint, Outlook, OneDrive, Teams)",
+                "Narzędzia Google Workspace (Gmail, Drive, Docs, Sheets, Meet)",
+                "Bezpieczne zarządzanie hasłami i uwierzytelnianie dwuskładnikowe",
+                "Rozpoznawanie e-maili phishingowych i oszustw internetowych",
+                "Bezpieczne udostępnianie plików i przechowywanie w chmurze",
+                "Profesjonalne używanie narzędzi do wideokonferencji",
+                "Efektywne zarządzanie e-mailem i organizacja skrzynki pocztowej",
+                "Zarządzanie projektami i zadaniami (Trello, Asana, Notion)",
+                "Podstawowe funkcje i wskazówki Windows i macOS",
+                "Sprzęt biurowy: drukarki, skanery, multimedia"
+            ]
+        },
+        "methodology": {
+            "title": "Jak Pracujemy?",
+            "subtitle": "Ustrukturyzowany proces szkoleniowy – krok po kroku",
+            "steps": [
+                {
+                    "number": "1",
+                    "title": "Analiza Potrzeb",
+                    "description": "Poznajemy zespół, obecne poziomy wiedzy i procesy biznesowe. Wyjaśniamy, które obszary wymagają rozwoju."
+                },
+                {
+                    "number": "2",
+                    "title": "Tworzenie Dostosowanego Planu Lekcji",
+                    "description": "Spersonalizowany plan szkoleniowy i materiały pasujące do narzędzi i przepływów pracy Twojej firmy."
+                },
+                {
+                    "number": "3",
+                    "title": "Przeprowadzenie Szkolenia",
+                    "description": "Interaktywne, praktyczne szkolenie na żywo – pytania, odpowiedzi, przykłady z życia wzięte w Twoim własnym środowisku."
+                },
+                {
+                    "number": "4",
+                    "title": "Kontynuacja i Wsparcie",
+                    "description": "Jesteśmy dostępni również po szkoleniu – pytania, powtórki, dalsza pomoc. Zapewniamy, że wiedza naprawdę integruje się z codzienną rutyną."
+                }
+            ]
+        },
+        "faq": {
+            "title": "Często Zadawane Pytania",
+            "items": [
+                {
+                    "question": "Jak długo trwa sesja szkoleniowa?",
+                    "answer": "Długość zależy od potrzeb. Jednorazowy warsztat to 2-4 godziny, podczas gdy kompleksowy program firmowy może rozciągać się na kilka tygodni z wieloma sesjami. Zawsze uzgadniamy ramy czasowe."
+                },
+                {
+                    "question": "Ile osób może uczestniczyć jednocześnie?",
+                    "answer": "Idealna liczba to 5-15 osób, aby każdy otrzymał wystarczająco dużo uwagi. Dla większych grup możemy zorganizować wiele sesji lub grupy równoległe."
+                },
+                {
+                    "question": "Czy uczestnicy potrzebują wcześniejszej wiedzy IT?",
+                    "answer": "Nie! Dostosowujemy szkolenie do obecnego poziomu wiedzy uczestników – od początkujących do zaawansowanych. Oceniamy wcześniej, gdzie każdy się znajduje."
+                },
+                {
+                    "question": "Czy uczestnicy otrzymują materiały lub notatki?",
+                    "answer": "Tak! Po każdym szkoleniu otrzymują materiał, prezentacje i praktyczne przewodniki w formie cyfrowej – aby mogli do nich w każdej chwili wrócić."
+                },
+                {
+                    "question": "W jakim języku prowadzone są szkolenia?",
+                    "answer": "Obecnie sesje szkoleniowe są prowadzone wyłącznie w języku węgierskim, zarówno online, jak i na miejscu."
+                },
+                {
+                    "question": "Ile kosztuje szkolenie IT dla firm?",
+                    "answer": "Ceny opierają się na indywidualnej wycenie – w zależności od liczby uczestników, tematów i czasu trwania. Zapytaj o wycenę, a omówimy szczegóły!"
+                }
+            ]
+        },
+        "pricing": {
+            "title": "Ile Kosztuje Szkolenie IT?",
+            "subtitle": "Tworzymy oferty na miarę – każda firma ma inne potrzeby",
+            "description": "Ceny szkoleń zależą od liczby uczestników, czasu trwania, tematów i lokalizacji (online/offline). Średnio 4-godzinny warsztat zaczyna się od około 200 € dla małych grup, podczas gdy dłuższy, ciągły program rozwoju jest dostępny w modelu miesięcznego abonamentu.",
+            "process": "Zarezerwuj darmową konsultację, ocenimy potrzeby i opracujemy szczegółową, przejrzystą ofertę.",
+            "cta": "Zapytaj o Wycenę Teraz"
+        },
+        "finalCta": {
+            "title": "Rozpocznij Cyfrowy Rozwój Swojego Zespołu!",
+            "description": "Zarezerwuj darmową konsultację i wspólnie dowiedzmy się, jakie szkolenie IT może poprawić efektywność i bezpieczeństwo Twojej firmy.",
+            "button": "Zamów Ofertę Szkoleniową IT"
+        }
     },
-    "hero": {
-        "title": "Projektowanie, Optymalizacja i Konserwacja Sieci Firmowej i Wi-Fi",
-        "subtitle": "Uczyń sieć swojej firmy stabilną, szybką i bezpieczną",
-        "description": "Jeśli Twoje Wi-Fi jest wolne, połączenia zrywają lub sieć jest zawodna, hamuje to wydajność całej Twojej firmy. SIRONIC projektuje, optymalizuje i konserwuje nowoczesne sieci klasy enterprise – aby każde urządzenie działało szybko, bezpiecznie i niezawodnie.",
-        "cta": "Zarezerwuj Darmowy Audyt Sieci",
-        "scrollDown": "Przewiń w dół po szczegóły"
-    },
-    "problems": {
-        "title": "Częste Problemy Sieciowe w Firmach",
-        "subtitle": "Brzmi znajomo?",
-        "items": [
-            "Wolne lub niestabilne Wi-Fi w pracy",
-            "Słaby sygnał i martwe strefy w biurze",
-            "Przestarzałe routery i punkty dostępowe",
-            "Brak oddzielenia sieci dla gości",
-            "Zbyt wiele urządzeń w jednej sieci – wszystko zwalnia",
-            "Luki w zabezpieczeniach i niechroniona sieć",
-            "Brak planu monitoringu lub rozwiązywania problemów"
-        ]
-    },
-    "services": {
-        "title": "Co Oferujemy",
-        "subtitle": "Kompletne rozwiązania sieciowe dla MŚP",
-        "items": [
-            {
-                "title": "Pełny audyt sieci i diagnoza",
-                "description": "Oceniamy Twoją obecną infrastrukturę sieciową, identyfikujemy problemy i proponujemy optymalizacje."
+    "networkOptimization": {
+        "badge": "Optymalizacja Sieci",
+        "title": "Zadbaj o Stabilny i Szybki Internet & Wi-Fi w Twojej Firmie",
+        "subtitle": "Wolne Wi-Fi, niestabilne połączenie lub zawodna sieć spowalnia całą Twoją firmę. Projektujemy, optymalizujemy i konserwujemy nowoczesne infrastruktury sieciowe klasy enterprise, aby każde urządzenie działało szybko, bezpiecznie i niezawodnie.",
+        "features": {
+            "wifi": {
+                "title": "Stabilne Wi-Fi firmowe z dobrym zasięgiem",
+                "description": "Nowoczesne punkty dostępowe i projekt sieci gwarantujące silny sygnał Wi-Fi w każdym pokoju – bez przerw."
             },
-            {
-                "title": "Mapowanie sygnału Wi-Fi i analiza zasięgu",
-                "description": "Projektujemy sieć Wi-Fi, aby zapewnić silny sygnał w każdym pomieszczeniu – brak martwych stref."
+            "speed": {
+                "title": "Szybka i bezpieczna sieć dla wszystkich urządzeń",
+                "description": "Zoptymalizowana przepustowość, separacja VLAN i dostrajanie wydajności – każde urządzenie działa płynnie."
             },
-            {
-                "title": "Projektowanie nowej sieci firmowej",
-                "description": "Budujemy sieci klasy enterprise od podstaw, które są skalowalne, szybkie i bezpieczne."
-            },
-            {
-                "title": "Instalacja sprzętu firmowego (MikroTik, Ubiquiti, UniFi)",
-                "description": "Profesjonalny dobór i instalacja sprzętu sieciowego – routerów, switchy, punktów dostępowych."
-            },
-            {
-                "title": "Okablowanie i modernizacje infrastruktury",
-                "description": "Instalacja okablowania strukturalnego, patch panele, szafy serwerowe – zorganizowana i przyszłościowa infrastruktura."
-            },
-            {
-                "title": "Bezpieczeństwo, VLAN, konfiguracja firewalla",
-                "description": "Segmentacja sieci, sieć dla gości, konfiguracja firewalla – chroni Twoje dane."
-            },
-            {
-                "title": "Monitoring sieci i zarządzanie",
-                "description": "Ciągły monitoring i proaktywna konserwacja – znamy i rozwiązujemy problemy, zanim staną się problemami."
+            "reliability": {
+                "title": "Niezawodne połączenie — bez przestojów",
+                "description": "Niezawodne routery, sprzęt sieciowy klasy enterprise i ciągły monitoring – dzięki temu Twoja sieć jest zawsze dostępna."
             }
-        ]
+        },
+        "cta": "Zapytaj o Audyt Sieci"
     },
-    "technologies": {
-        "title": "Jakiego Sprzętu Używamy?",
-        "subtitle": "Niezawodne rozwiązania sieciowe klasy enterprise",
-        "list": [
-            "MikroTik – potężne, efektywne kosztowo routery i switche",
-            "Ubiquiti UniFi – nowoczesne, zarządzalne systemy Wi-Fi",
-            "TP-Link Omada – sprzęt sieciowy klasy enterprise",
-            "Cisco i HPE – infrastruktura na poziomie korporacyjnym",
-            "Konfiguracja VLAN i firewall",
-            "VPN i dostęp zdalny",
-            "Monitoring sieci i analiza"
-        ]
+    "networkOptimizationPage": {
+        "breadcrumb": {
+            "home": "Strona główna",
+            "networkOptimization": "Optymalizacja Sieci"
+        },
+        "hero": {
+            "title": "Projektowanie, Optymalizacja i Konserwacja Sieci Firmowej i Wi-Fi",
+            "subtitle": "Uczyń sieć swojej firmy stabilną, szybką i bezpieczną",
+            "description": "Jeśli Twoje Wi-Fi jest wolne, połączenia zrywają lub sieć jest zawodna, hamuje to wydajność całej Twojej firmy. SIRONIC projektuje, optymalizuje i konserwuje nowoczesne sieci klasy enterprise – aby każde urządzenie działało szybko, bezpiecznie i niezawodnie.",
+            "cta": "Zarezerwuj Darmowy Audyt Sieci",
+            "scrollDown": "Przewiń w dół po szczegóły"
+        },
+        "problems": {
+            "title": "Częste Problemy Sieciowe w Firmach",
+            "subtitle": "Brzmi znajomo?",
+            "items": [
+                "Wolne lub niestabilne Wi-Fi w pracy",
+                "Słaby sygnał i martwe strefy w biurze",
+                "Przestarzałe routery i punkty dostępowe",
+                "Brak oddzielenia sieci dla gości",
+                "Zbyt wiele urządzeń w jednej sieci – wszystko zwalnia",
+                "Luki w zabezpieczeniach i niechroniona sieć",
+                "Brak planu monitoringu lub rozwiązywania problemów"
+            ]
+        },
+        "services": {
+            "title": "Co Oferujemy",
+            "subtitle": "Kompletne rozwiązania sieciowe dla MŚP",
+            "items": [
+                {
+                    "title": "Pełny audyt sieci i diagnoza",
+                    "description": "Oceniamy Twoją obecną infrastrukturę sieciową, identyfikujemy problemy i proponujemy optymalizacje."
+                },
+                {
+                    "title": "Mapowanie sygnału Wi-Fi i analiza zasięgu",
+                    "description": "Projektujemy sieć Wi-Fi, aby zapewnić silny sygnał w każdym pomieszczeniu – brak martwych stref."
+                },
+                {
+                    "title": "Projektowanie nowej sieci firmowej",
+                    "description": "Budujemy sieci klasy enterprise od podstaw, które są skalowalne, szybkie i bezpieczne."
+                },
+                {
+                    "title": "Instalacja sprzętu firmowego (MikroTik, Ubiquiti, UniFi)",
+                    "description": "Profesjonalny dobór i instalacja sprzętu sieciowego – routerów, switchy, punktów dostępowych."
+                },
+                {
+                    "title": "Okablowanie i modernizacje infrastruktury",
+                    "description": "Instalacja okablowania strukturalnego, patch panele, szafy serwerowe – zorganizowana i przyszłościowa infrastruktura."
+                },
+                {
+                    "title": "Bezpieczeństwo, VLAN, konfiguracja firewalla",
+                    "description": "Segmentacja sieci, sieć dla gości, konfiguracja firewalla – chroni Twoje dane."
+                },
+                {
+                    "title": "Monitoring sieci i zarządzanie",
+                    "description": "Ciągły monitoring i proaktywna konserwacja – znamy i rozwiązujemy problemy, zanim staną się problemami."
+                }
+            ]
+        },
+        "technologies": {
+            "title": "Jakiego Sprzętu Używamy?",
+            "subtitle": "Niezawodne rozwiązania sieciowe klasy enterprise",
+            "list": [
+                "MikroTik – potężne, efektywne kosztowo routery i switche",
+                "Ubiquiti UniFi – nowoczesne, zarządzalne systemy Wi-Fi",
+                "TP-Link Omada – sprzęt sieciowy klasy enterprise",
+                "Cisco i HPE – infrastruktura na poziomie korporacyjnym",
+                "Konfiguracja VLAN i firewall",
+                "VPN i dostęp zdalny",
+                "Monitoring sieci i analiza"
+            ]
+        },
+        "benefits": {
+            "title": "Dlaczego Inwestować w Profesjonalną Sieć?",
+            "subtitle": "Konkretne korzyści, które przynoszą mierzalne rezultaty",
+            "list": [
+                "Szybsza praca – brak wolnego internetu czy przestojów",
+                "Bezpieczniejsze działanie – chroniona sieć, oddzielne Wi-Fi dla gości",
+                "Mniej przestojów – proaktywny monitoring i szybkie rozwiązywanie problemów",
+                "Skalowalna infrastruktura – sieć rośnie wraz z Twoją firmą",
+                "Profesjonalny wygląd – stabilne połączenie również dla klientów",
+                "Obniżone koszty – mniej straconego czasu i mniej napraw"
+            ]
+        },
+        "process": {
+            "title": "Jak Pracujemy?",
+            "subtitle": "Przejrzysty proces – krok po kroku",
+            "steps": [
+                {
+                    "number": "1",
+                    "title": "Audyt sieci i konsultacja",
+                    "description": "Poznajemy biuro, obecną sieć i potrzeby. Identyfikujemy problemy i możliwości."
+                },
+                {
+                    "number": "2",
+                    "title": "Projekt sieci i wycena",
+                    "description": "Tworzymy kompletny plan sieci, analizę zasięgu Wi-Fi i listę sprzętu. Wycena stała."
+                },
+                {
+                    "number": "3",
+                    "title": "Instalacja i konfiguracja",
+                    "description": "Wdrażamy sieć, instalujemy sprzęt, konfigurujemy elementy bezpieczeństwa. Wszystko przetestowane i udokumentowane."
+                },
+                {
+                    "number": "4",
+                    "title": "Testowanie i przekazanie",
+                    "description": "Dokładne testy na każdym urządzeniu, pomiar prędkości, weryfikacja zasięgu. Szkolenie i przekazanie dokumentacji."
+                },
+                {
+                    "number": "5",
+                    "title": "Monitoring i konserwacja",
+                    "description": "Ciągły monitoring, miesięczne raporty, proaktywna konserwacja. Zawsze dostępni, gdy potrzebujesz pomocy."
+                }
+            ]
+        },
+        "useCases": {
+            "title": "Komu Polecamy?",
+            "subtitle": "Każda firma, która potrzebuje stabilnej sieci",
+            "examples": [
+                "Biura i małe firmy – 5-50 pracowników",
+                "Gastronomia – szybkie i stabilne Wi-Fi dla gości",
+                "Kliniki i gabinety lekarskie – bezpieczna sieć medyczna",
+                "Magazyny i centra logistyczne – solidna sieć przemysłowa",
+                "Instytucje edukacyjne – Wi-Fi o dużej pojemności",
+                "Punkty handlowe – szybki system kasowy i kamery IP"
+            ]
+        },
+        "pricing": {
+            "title": "Ile Kosztuje Instalacja Sieci Firmowej?",
+            "subtitle": "Każdy projekt jest unikalny – cenę ustalamy na podstawie potrzeb",
+            "description": "Podstawowy system Wi-Fi biurowego zaczyna się od ok. 400 € (1-2 punkty dostępowe, router, konfiguracja). Dla większych sieci – więcej urządzeń, okablowanie strukturalne, monitoring – oczekuj od 1 200 €+. Poproś o darmowy audyt i dokładną wycenę!",
+            "process": "Darmowy audyt na miejscu analizuje potrzeby sieciowe, robimy plan i dajemy przejrzystą, stałą ofertę cenową.",
+            "cta": "Zapytaj o Darmową Wycenę"
+        },
+        "faq": {
+            "title": "Często Zadawane Pytania",
+            "items": [
+                {
+                    "question": "Jak długo trwa instalacja sieci?",
+                    "answer": "Prosty system Wi-Fi biurowego zajmuje 1-2 dni, podczas gdy złożona sieć firmowa na wielu piętrach może zająć 1-2 tygodnie."
+                },
+                {
+                    "question": "Jakie marki polecacie?",
+                    "answer": "Pracujemy głównie ze sprzętem MikroTik, Ubiquiti UniFi i TP-Link Omada – niezawodny, efektywny kosztowo i odpowiedni do użytku biznesowego."
+                },
+                {
+                    "question": "Kto staje się właścicielem sieci?",
+                    "answer": "Ty! Cały sprzęt i konfiguracja stają się własnością Twojej firmy, żadnych ukrytych zależności czy opłat licencyjnych."
+                },
+                {
+                    "question": "Co z konserwacją?",
+                    "answer": "Oferujemy również pakiety konserwacyjne – ciągły monitoring, regularne aktualizacje i szybkie rozwiązywanie problemów w miesięcznym abonamencie."
+                },
+                {
+                    "question": "Czy możecie zoptymalizować istniejące sieci?",
+                    "answer": "Tak! Nie musisz wszystkiego wymieniać – często dobra konfiguracja, dodatkowy punkt dostępowy lub aktualizacja routera wystarczą."
+                }
+            ]
+        },
+        "finalCta": {
+            "title": "Gotowy na Stabilną i Szybką Sieć?",
+            "description": "Poproś o darmowy audyt sieci i zbudujmy infrastrukturę, która wspiera rozwój Twojej firmy.",
+            "button": "Zarezerwuj Darmowy Audyt Sieci"
+        }
     },
-    "benefits": {
-        "title": "Dlaczego Inwestować w Profesjonalną Sieć?",
-        "subtitle": "Konkretne korzyści, które przynoszą mierzalne rezultaty",
-        "list": [
-            "Szybsza praca – brak wolnego internetu czy przestojów",
-            "Bezpieczniejsze działanie – chroniona sieć, oddzielne Wi-Fi dla gości",
-            "Mniej przestojów – proaktywny monitoring i szybkie rozwiązywanie problemów",
-            "Skalowalna infrastruktura – sieć rośnie wraz z Twoją firmą",
-            "Profesjonalny wygląd – stabilne połączenie również dla klientów",
-            "Obniżone koszty – mniej straconego czasu i mniej napraw"
-        ]
-    },
-    "process": {
-        "title": "Jak Pracujemy?",
-        "subtitle": "Przejrzysty proces – krok po kroku",
-        "steps": [
-            {
-                "number": "1",
-                "title": "Audyt sieci i konsultacja",
-                "description": "Poznajemy biuro, obecną sieć i potrzeby. Identyfikujemy problemy i możliwości."
+    "repairService": {
+        "badge": "Serwis i Naprawa",
+        "title": "Serwis i Naprawa IT – Na Miejscu lub Wysyłkowo",
+        "subtitle": "Szybkie, niezawodne naprawy IT – laptopy, komputery PC, serwery, urządzenia NAS",
+        "description": "Profesjonalna naprawa komputerów, laptopów, serwerów i urządzeń sieciowych. Serwis na miejscu w Székesfehérvár i okolicach lub usługa pocztowa. Każdą naprawę zaczynamy od diagnozy i przedstawiamy przejrzyste wyceny przed wykonaniem jakiejkolwiek pracy.",
+        "benefits": [
+            "Szybka diagnoza i rozwiązywanie problemów",
+            "Serwis na miejscu lub wysyłkowo – jak Ci wygodnie",
+            "Przejrzysta wycena naprawy",
+            "Profesjonalne narzędzia i eksperci",
+            "Kopia zapasowa danych i usuwanie wirusów",
+            "Gwarancja na wszystkie naprawy"
+        ],
+        "cards": {
+            "onsite": {
+                "title": "Serwis na miejscu",
+                "description": "Przyjeżdżamy do Ciebie w Székesfehérvár i pobliskich obszarach, by przeprowadzić naprawy lub diagnostykę na miejscu."
             },
-            {
-                "number": "2",
-                "title": "Projekt sieci i wycena",
-                "description": "Tworzymy kompletny plan sieci, analizę zasięgu Wi-Fi i listę sprzętu. Wycena stała."
-            },
-            {
-                "number": "3",
-                "title": "Instalacja i konfiguracja",
-                "description": "Wdrażamy sieć, instalujemy sprzęt, konfigurujemy elementy bezpieczeństwa. Wszystko przetestowane i udokumentowane."
-            },
-            {
-                "number": "4",
-                "title": "Testowanie i przekazanie",
-                "description": "Dokładne testy na każdym urządzeniu, pomiar prędkości, weryfikacja zasięgu. Szkolenie i przekazanie dokumentacji."
-            },
-            {
-                "number": "5",
-                "title": "Monitoring i konserwacja",
-                "description": "Ciągły monitoring, miesięczne raporty, proaktywna konserwacja. Zawsze dostępni, gdy potrzebujesz pomocy."
+            "postal": {
+                "title": "Usługa pocztowa",
+                "description": "Wyślij nam swoje urządzenie pocztą, naprawimy je i odeślemy – prosto i szybko."
             }
-        ]
+        },
+        "cta": {
+            "main": "Zapytaj o Wycenę Naprawy",
+            "learnMore": "Czytaj Więcej"
+        }
     },
-    "useCases": {
-        "title": "Komu Polecamy?",
-        "subtitle": "Każda firma, która potrzebuje stabilnej sieci",
-        "examples": [
-            "Biura i małe firmy – 5-50 pracowników",
-            "Gastronomia – szybkie i stabilne Wi-Fi dla gości",
-            "Kliniki i gabinety lekarskie – bezpieczna sieć medyczna",
-            "Magazyny i centra logistyczne – solidna sieć przemysłowa",
-            "Instytucje edukacyjne – Wi-Fi o dużej pojemności",
-            "Punkty handlowe – szybki system kasowy i kamery IP"
-        ]
-    },
-    "pricing": {
-        "title": "Ile Kosztuje Instalacja Sieci Firmowej?",
-        "subtitle": "Każdy projekt jest unikalny – cenę ustalamy na podstawie potrzeb",
-        "description": "Podstawowy system Wi-Fi biurowego zaczyna się od ok. 400 € (1-2 punkty dostępowe, router, konfiguracja). Dla większych sieci – więcej urządzeń, okablowanie strukturalne, monitoring – oczekuj od 1 200 €+. Poproś o darmowy audyt i dokładną wycenę!",
-        "process": "Darmowy audyt na miejscu analizuje potrzeby sieciowe, robimy plan i dajemy przejrzystą, stałą ofertę cenową.",
-        "cta": "Zapytaj o Darmową Wycenę"
-    },
-    "faq": {
-        "title": "Często Zadawane Pytania",
-        "items": [
-            {
-                "question": "Jak długo trwa instalacja sieci?",
-                "answer": "Prosty system Wi-Fi biurowego zajmuje 1-2 dni, podczas gdy złożona sieć firmowa na wielu piętrach może zająć 1-2 tygodnie."
-            },
-            {
-                "question": "Jakie marki polecacie?",
-                "answer": "Pracujemy głównie ze sprzętem MikroTik, Ubiquiti UniFi i TP-Link Omada – niezawodny, efektywny kosztowo i odpowiedni do użytku biznesowego."
-            },
-            {
-                "question": "Kto staje się właścicielem sieci?",
-                "answer": "Ty! Cały sprzęt i konfiguracja stają się własnością Twojej firmy, żadnych ukrytych zależności czy opłat licencyjnych."
-            },
-            {
-                "question": "Co z konserwacją?",
-                "answer": "Oferujemy również pakiety konserwacyjne – ciągły monitoring, regularne aktualizacje i szybkie rozwiązywanie problemów w miesięcznym abonamencie."
-            },
-            {
-                "question": "Czy możecie zoptymalizować istniejące sieci?",
-                "answer": "Tak! Nie musisz wszystkiego wymieniać – często dobra konfiguracja, dodatkowy punkt dostępowy lub aktualizacja routera wystarczą."
-            }
-        ]
-    },
-    "finalCta": {
-        "title": "Gotowy na Stabilną i Szybką Sieć?",
-        "description": "Poproś o darmowy audyt sieci i zbudujmy infrastrukturę, która wspiera rozwój Twojej firmy.",
-        "button": "Zarezerwuj Darmowy Audyt Sieci"
-    }
-},
-"repairService": {
-    "badge": "Serwis i Naprawa",
-    "title": "Serwis i Naprawa IT – Na Miejscu lub Wysyłkowo",
-    "subtitle": "Szybkie, niezawodne naprawy IT – laptopy, komputery PC, serwery, urządzenia NAS",
-    "description": "Profesjonalna naprawa komputerów, laptopów, serwerów i urządzeń sieciowych. Serwis na miejscu w Székesfehérvár i okolicach lub usługa pocztowa. Każdą naprawę zaczynamy od diagnozy i przedstawiamy przejrzyste wyceny przed wykonaniem jakiejkolwiek pracy.",
-    "benefits": [
-        "Szybka diagnoza i rozwiązywanie problemów",
-        "Serwis na miejscu lub wysyłkowo – jak Ci wygodnie",
-        "Przejrzysta wycena naprawy",
-        "Profesjonalne narzędzia i eksperci",
-        "Kopia zapasowa danych i usuwanie wirusów",
-        "Gwarancja na wszystkie naprawy"
-    ],
-    "cards": {
+    "repairServicePage": {
+        "breadcrumb": {
+            "repairService": "Serwis i Naprawa"
+        },
+        "hero": {
+            "title": "Serwis i Naprawa IT – Laptopy, PC, Serwery, Urządzenia NAS",
+            "subtitle": "Szybkie, niezawodne naprawy IT na miejscu lub wysyłkowo",
+            "description": "Profesjonalna naprawa komputerów, laptopów, serwerów i sieciowych urządzeń pamięci masowej. Serwis na miejscu w Székesfehérvár i okolicach lub opcja pocztowa. Przejrzyste wyceny, szybka realizacja, usługa ekspercka.",
+            "cta": "Zgłoś Problem Teraz",
+            "scrollDown": "Przewiń w dół po szczegóły"
+        },
+        "services": {
+            "title": "Co Naprawiamy?",
+            "subtitle": "Kompletna diagnostyka i naprawa urządzeń IT",
+            "items": [
+                {
+                    "title": "Naprawa i Konserwacja Laptopów",
+                    "description": "Wymiana ekranu, naprawa klawiatury, wymiana baterii, czyszczenie układu chłodzenia, modernizacja komponentów."
+                },
+                {
+                    "title": "Diagnostyka i Naprawa Komputerów PC",
+                    "description": "Rozwiązywanie problemów sprzętowych, wymiana komponentów, optymalizacja wydajności, czyszczenie systemu i konserwacja."
+                },
+                {
+                    "title": "Naprawa Serwerów i Sprzętu Firmowego",
+                    "description": "Diagnostyka serwerów, odzyskiwanie konfiguracji RAID, naprawa sprzętu i konserwacja."
+                },
+                {
+                    "title": "Serwis NAS i Urządzeń Pamięci Masowej",
+                    "description": "Diagnostyka pamięci sieciowej, kopia zapasowa danych, odzyskiwanie RAID, aktualizacje firmware'u."
+                },
+                {
+                    "title": "Kopia Zapasowa i Odzyskiwanie Danych",
+                    "description": "Odzyskiwanie krytycznych danych z uszkodzonych urządzeń, odzyskiwanie danych SSD/HDD, tworzenie kopii zapasowych."
+                },
+                {
+                    "title": "Usuwanie Wirusów i Optymalizacja Systemu",
+                    "description": "Usuwanie wirusów i malware, czyszczenie systemu, poprawa wydajności, optymalizacja prędkości."
+                }
+            ]
+        },
+        "process": {
+            "title": "Jak Działa Naprawa?",
+            "subtitle": "Prosty i przejrzysty proces",
+            "steps": [
+                {
+                    "number": "1",
+                    "title": "Raport Problemu",
+                    "description": "Skontaktuj się z nami telefonicznie, mailowo lub przez formularz. Omawiamy problem i metodę naprawy."
+                },
+                {
+                    "number": "2",
+                    "title": "Diagnoza i Wycena",
+                    "description": "Na miejscu lub po otrzymaniu przesyłki badamy urządzenie, identyfikujemy usterkę i przedstawiamy przejrzystą wycenę."
+                },
+                {
+                    "number": "3",
+                    "title": "Naprawa Po Zatwierdzeniu",
+                    "description": "Po zaakceptowaniu wyceny przystępujemy do naprawy używając profesjonalnych narzędzi i części."
+                },
+                {
+                    "number": "4",
+                    "title": "Testowanie i Dostawa",
+                    "description": "Dokładnie testujemy naprawione urządzenie, następnie przekazujemy je lub odsyłamy. Gwarancja na wszystkie naprawy."
+                }
+            ]
+        },
         "onsite": {
-            "title": "Serwis na miejscu",
-            "description": "Przyjeżdżamy do Ciebie w Székesfehérvár i pobliskich obszarach, by przeprowadzić naprawy lub diagnostykę na miejscu."
+            "title": "Serwis Na Miejscu – Przyjeżdżamy do Ciebie",
+            "description": "W Székesfehérvár i okolicach przeprowadzamy naprawy lub diagnostykę na miejscu. Idealne dla biur, firm i tych, którzy nie mogą lub nie chcą transportować urządzenia.",
+            "benefits": [
+                "Szybka usługa w Székesfehérvár i w promieniu 30 km",
+                "Diagnoza i naprawa na miejscu (gdy to możliwe)",
+                "Minimalny przestój – brak konieczności zabierania urządzenia",
+                "Profesjonalne narzędzia i części na miejscu",
+                "Może być wykonane w środowisku korporacyjnym"
+            ]
         },
         "postal": {
-            "title": "Usługa pocztowa",
-            "description": "Wyślij nam swoje urządzenie pocztą, naprawimy je i odeślemy – prosto i szybko."
+            "title": "Usługa Pocztowa – Wygodnie z Domu",
+            "description": "Jeśli jesteś dalej lub po prostu wolisz wygodę, wyślij swoje urządzenie. Naprawimy je i odeślemy. Dostarczamy wytyczne bezpiecznego pakowania.",
+            "benefits": [
+                "Zasięg krajowy – wyślij z dowolnego miejsca",
+                "Szczegółowy przewodnik pakowania dla bezpieczeństwa urządzenia",
+                "Szybka realizacja – typowo 3-5 dni roboczych",
+                "Bezpieczny zwrot kurierem",
+                "Ciągłe aktualizacje o statusie naprawy"
+            ],
+            "howTo": "Kroki wysyłki pocztowej: 1) Skontaktuj się i opisz problem. 2) Zapakuj bezpiecznie urządzenie (dostarczamy wytyczne). 3) Wyślij na podany adres. 4) Diagnozujemy, wysyłamy wycenę i odsyłamy po naprawie."
+        },
+        "pricing": {
+            "title": "Ile Kosztuje Naprawa?",
+            "subtitle": "Przejrzyste ceny – najpierw diagnoza, potem wycena",
+            "description": "Każdą naprawę zaczynamy od darmowej diagnozy (na miejscu lub pocztą). Wycenę podajemy dopiero po zbadaniu, więc wiesz dokładnie, czego się spodziewać. Praca zaczyna się dopiero po Twojej akceptacji.",
+            "examples": [
+                "Wymiana ekranu laptopa: od 65 € (zależy od części)",
+                "Usuwanie wirusów PC i optymalizacja: od 20 €",
+                "Odzyskiwanie danych z uszkodzonego urządzenia: od 40 €",
+                "Diagnoza serwera i naprawa: wycena indywidualna"
+            ],
+            "note": "Ceny są orientacyjne, dokładne koszty ustalamy zawsze po zbadaniu.",
+            "cta": "Zapytaj o Darmową Diagnozę"
+        },
+        "faq": {
+            "title": "Często Zadawane Pytania",
+            "items": [
+                {
+                    "question": "Jak długo trwa naprawa?",
+                    "answer": "Prostsze naprawy (np. usuwanie wirusów, optymalizacja) trwają typowo 1-2 dni robocze. Złożone przypadki (np. wymiana części, odzyskiwanie danych) mogą trwać 3-5 dni roboczych. Oferujemy również usługę typ express w nagłych wypadkach."
+                },
+                {
+                    "question": "Co jeśli urządzenia nie da się naprawić?",
+                    "answer": "Jeśli urządzenia nie da się naprawić lub naprawa jest nieopłacalna, informujemy o tym natychmiast. W takim przypadku pobieramy opłatę tylko za diagnozę (typowo 8-13 €) i pomagamy doradzić przy zakupie nowego urządzenia."
+                },
+                {
+                    "question": "Czy moje dane są bezpieczne podczas naprawy?",
+                    "answer": "Tak! Traktujemy wszystkie urządzenia poufnie. Kopia zapasowa danych jest wykonywana tylko za Twoją zgodą, a wszystkie dane są bezpiecznie usuwane po naprawie (jeśli to konieczne)."
+                },
+                {
+                    "question": "Czy jest gwarancja na naprawy?",
+                    "answer": "Tak, dajemy 30-90 dni gwarancji na wszystkie naprawy (zależy od typu naprawy). Nowe części są również objęte gwarancją producenta."
+                },
+                {
+                    "question": "Jaki obszar obejmujecie serwisem na miejscu?",
+                    "answer": "Świadczymy usługi na miejscu w Székesfehérvár i w promieniu 30 km. Dla obszarów dalej pracujemy na podstawie specjalnych ustaleń lub usługi pocztowej."
+                },
+                {
+                    "question": "Jak mam zapakować urządzenie do wysyłki?",
+                    "answer": "Wysyłamy szczegółowe instrukcje pakowania mailem. Ważne: użyj folii bąbelkowej, solidnego pudełka i oznacz 'Ostrożnie'. Oryginalne opakowanie jest najlepsze, jeśli dostępne."
+                }
+            ]
+        },
+        "finalCta": {
+            "title": "Masz problemy ze swoim urządzeniem?",
+            "description": "Zadzwoń do nas lub napisz wiadomość, a rozwiążemy to szybko! Szybka diagnoza, przejrzyste ceny, niezawodne naprawy.",
+            "button": "Zgłoś Problem Teraz"
         }
     },
-    "cta": {
-        "main": "Zapytaj o Wycenę Naprawy",
-        "learnMore": "Czytaj Więcej"
-    }
-},
-"repairServicePage": {
-    "breadcrumb": {
-        "repairService": "Serwis i Naprawa"
-    },
-    "hero": {
-        "title": "Serwis i Naprawa IT – Laptopy, PC, Serwery, Urządzenia NAS",
-        "subtitle": "Szybkie, niezawodne naprawy IT na miejscu lub wysyłkowo",
-        "description": "Profesjonalna naprawa komputerów, laptopów, serwerów i sieciowych urządzeń pamięci masowej. Serwis na miejscu w Székesfehérvár i okolicach lub opcja pocztowa. Przejrzyste wyceny, szybka realizacja, usługa ekspercka.",
-        "cta": "Zgłoś Problem Teraz",
-        "scrollDown": "Przewiń w dół po szczegóły"
-    },
-    "services": {
-        "title": "Co Naprawiamy?",
-        "subtitle": "Kompletna diagnostyka i naprawa urządzeń IT",
-        "items": [
-            {
-                "title": "Naprawa i Konserwacja Laptopów",
-                "description": "Wymiana ekranu, naprawa klawiatury, wymiana baterii, czyszczenie układu chłodzenia, modernizacja komponentów."
-            },
-            {
-                "title": "Diagnostyka i Naprawa Komputerów PC",
-                "description": "Rozwiązywanie problemów sprzętowych, wymiana komponentów, optymalizacja wydajności, czyszczenie systemu i konserwacja."
-            },
-            {
-                "title": "Naprawa Serwerów i Sprzętu Firmowego",
-                "description": "Diagnostyka serwerów, odzyskiwanie konfiguracji RAID, naprawa sprzętu i konserwacja."
-            },
-            {
-                "title": "Serwis NAS i Urządzeń Pamięci Masowej",
-                "description": "Diagnostyka pamięci sieciowej, kopia zapasowa danych, odzyskiwanie RAID, aktualizacje firmware'u."
-            },
-            {
-                "title": "Kopia Zapasowa i Odzyskiwanie Danych",
-                "description": "Odzyskiwanie krytycznych danych z uszkodzonych urządzeń, odzyskiwanie danych SSD/HDD, tworzenie kopii zapasowych."
-            },
-            {
-                "title": "Usuwanie Wirusów i Optymalizacja Systemu",
-                "description": "Usuwanie wirusów i malware, czyszczenie systemu, poprawa wydajności, optymalizacja prędkości."
-            }
-        ]
-    },
-    "process": {
-        "title": "Jak Działa Naprawa?",
-        "subtitle": "Prosty i przejrzysty proces",
-        "steps": [
-            {
-                "number": "1",
-                "title": "Raport Problemu",
-                "description": "Skontaktuj się z nami telefonicznie, mailowo lub przez formularz. Omawiamy problem i metodę naprawy."
-            },
-            {
-                "number": "2",
-                "title": "Diagnoza i Wycena",
-                "description": "Na miejscu lub po otrzymaniu przesyłki badamy urządzenie, identyfikujemy usterkę i przedstawiamy przejrzystą wycenę."
-            },
-            {
-                "number": "3",
-                "title": "Naprawa Po Zatwierdzeniu",
-                "description": "Po zaakceptowaniu wyceny przystępujemy do naprawy używając profesjonalnych narzędzi i części."
-            },
-            {
-                "number": "4",
-                "title": "Testowanie i Dostawa",
-                "description": "Dokładnie testujemy naprawione urządzenie, następnie przekazujemy je lub odsyłamy. Gwarancja na wszystkie naprawy."
-            }
-        ]
-    },
-    "onsite": {
-        "title": "Serwis Na Miejscu – Przyjeżdżamy do Ciebie",
-        "description": "W Székesfehérvár i okolicach przeprowadzamy naprawy lub diagnostykę na miejscu. Idealne dla biur, firm i tych, którzy nie mogą lub nie chcą transportować urządzenia.",
-        "benefits": [
-            "Szybka usługa w Székesfehérvár i w promieniu 30 km",
-            "Diagnoza i naprawa na miejscu (gdy to możliwe)",
-            "Minimalny przestój – brak konieczności zabierania urządzenia",
-            "Profesjonalne narzędzia i części na miejscu",
-            "Może być wykonane w środowisku korporacyjnym"
-        ]
-    },
-    "postal": {
-        "title": "Usługa Pocztowa – Wygodnie z Domu",
-        "description": "Jeśli jesteś dalej lub po prostu wolisz wygodę, wyślij swoje urządzenie. Naprawimy je i odeślemy. Dostarczamy wytyczne bezpiecznego pakowania.",
-        "benefits": [
-            "Zasięg krajowy – wyślij z dowolnego miejsca",
-            "Szczegółowy przewodnik pakowania dla bezpieczeństwa urządzenia",
-            "Szybka realizacja – typowo 3-5 dni roboczych",
-            "Bezpieczny zwrot kurierem",
-            "Ciągłe aktualizacje o statusie naprawy"
-        ],
-        "howTo": "Kroki wysyłki pocztowej: 1) Skontaktuj się i opisz problem. 2) Zapakuj bezpiecznie urządzenie (dostarczamy wytyczne). 3) Wyślij na podany adres. 4) Diagnozujemy, wysyłamy wycenę i odsyłamy po naprawie."
-    },
-    "pricing": {
-        "title": "Ile Kosztuje Naprawa?",
-        "subtitle": "Przejrzyste ceny – najpierw diagnoza, potem wycena",
-        "description": "Każdą naprawę zaczynamy od darmowej diagnozy (na miejscu lub pocztą). Wycenę podajemy dopiero po zbadaniu, więc wiesz dokładnie, czego się spodziewać. Praca zaczyna się dopiero po Twojej akceptacji.",
-        "examples": [
-            "Wymiana ekranu laptopa: od 65 € (zależy od części)",
-            "Usuwanie wirusów PC i optymalizacja: od 20 €",
-            "Odzyskiwanie danych z uszkodzonego urządzenia: od 40 €",
-            "Diagnoza serwera i naprawa: wycena indywidualna"
-        ],
-        "note": "Ceny są orientacyjne, dokładne koszty ustalamy zawsze po zbadaniu.",
-        "cta": "Zapytaj o Darmową Diagnozę"
-    },
-    "faq": {
-        "title": "Często Zadawane Pytania",
-        "items": [
-            {
-                "question": "Jak długo trwa naprawa?",
-                "answer": "Prostsze naprawy (np. usuwanie wirusów, optymalizacja) trwają typowo 1-2 dni robocze. Złożone przypadki (np. wymiana części, odzyskiwanie danych) mogą trwać 3-5 dni roboczych. Oferujemy również usługę typ express w nagłych wypadkach."
-            },
-            {
-                "question": "Co jeśli urządzenia nie da się naprawić?",
-                "answer": "Jeśli urządzenia nie da się naprawić lub naprawa jest nieopłacalna, informujemy o tym natychmiast. W takim przypadku pobieramy opłatę tylko za diagnozę (typowo 8-13 €) i pomagamy doradzić przy zakupie nowego urządzenia."
-            },
-            {
-                "question": "Czy moje dane są bezpieczne podczas naprawy?",
-                "answer": "Tak! Traktujemy wszystkie urządzenia poufnie. Kopia zapasowa danych jest wykonywana tylko za Twoją zgodą, a wszystkie dane są bezpiecznie usuwane po naprawie (jeśli to konieczne)."
-            },
-            {
-                "question": "Czy jest gwarancja na naprawy?",
-                "answer": "Tak, dajemy 30-90 dni gwarancji na wszystkie naprawy (zależy od typu naprawy). Nowe części są również objęte gwarancją producenta."
-            },
-            {
-                "question": "Jaki obszar obejmujecie serwisem na miejscu?",
-                "answer": "Świadczymy usługi na miejscu w Székesfehérvár i w promieniu 30 km. Dla obszarów dalej pracujemy na podstawie specjalnych ustaleń lub usługi pocztowej."
-            },
-            {
-                "question": "Jak mam zapakować urządzenie do wysyłki?",
-                "answer": "Wysyłamy szczegółowe instrukcje pakowania mailem. Ważne: użyj folii bąbelkowej, solidnego pudełka i oznacz 'Ostrożnie'. Oryginalne opakowanie jest najlepsze, jeśli dostępne."
-            }
-        ]
-    },
-    "finalCta": {
-        "title": "Masz problemy ze swoim urządzeniem?",
-        "description": "Zadzwoń do nas lub napisz wiadomość, a rozwiążemy to szybko! Szybka diagnoza, przejrzyste ceny, niezawodne naprawy.",
-        "button": "Zgłoś Problem Teraz"
-    }
-},
-"onsitePresence": {
-    "badge": "Event IT Support",
-    "title": "Obecność IT na Miejscu dla Eventów",
-    "subtitle": "Profesjonalny specjalista IT na miejscu",
-    "description": "Zagwarantuj stabilność techniczną swojego profesjonalnego wydarzenia, konferencji lub spotkania firmowego dzięki dedykowanemu wsparciu IT na miejscu.",
-    "cards": {
-        "onsite": {
-            "title": "Specjalista IT na miejscu",
-            "description": "Dedykowany profesjonalista IT towarzyszący Twojemu wydarzeniu od początku do końca."
-        },
-        "stability": {
-            "title": "Stabilność Techniczna",
-            "description": "Proaktywny monitoring i natychmiastowa interwencja."
-        },
-        "equipment": {
-            "title": "Zarządzanie Sprzętem",
-            "description": "Konfiguracja i nadzór nad laptopami, sieciami i sprzętem do streamingu."
-        }
-    },
-    "cta": {
-        "main": "Uzyskaj Wycenę",
-        "learnMore": "Czytaj Więcej"
-    }
-},
-"onsitePresencePage": {
-    "breadcrumb": {
-        "home": "Strona główna",
-        "onsitePresence": "Obecność IT na Miejscu"
-    },
-    "hero": {
+    "onsitePresence": {
+        "badge": "Event IT Support",
         "title": "Obecność IT na Miejscu dla Eventów",
-        "subtitle": "Profesjonalne wsparcie IT na miejscu dla konferencji i eventów",
-        "description": "Chcesz bezbłędnego wydarzenia? Dzięki usłudze Obecności IT na Miejscu SIRONIC otrzymujesz gwarancję stabilnej i niezawodnej infrastruktury IT.",
-        "cta": "Zarezerwuj Darmową Konsultację"
-    },
-    "intro": {
-        "title": "Dlaczego zabrać specjalistę IT na swoje wydarzenie?",
-        "content": [
-            "Sukces profesjonalnego wydarzenia często zależy od stabilności technicznej. Jeśli technika zawodzi, cierpi reputacja wydarzenia.",
-            "Dzięki Obecności IT na Miejscu SIRONIC otrzymujesz doświadczonego specjalistę IT, który dba o płynne działanie."
-        ]
-    },
-    "services": {
-        "title": "Co oferujemy?",
-        "subtitle": "Kompleksowe Wsparcie Techniczne",
-        "items": [
-            {
-                "title": "Przygotowanie Eventu i Konfiguracja",
-                "description": "Instalacja i testowanie sprzętu na wydarzenie.",
-                "topics": [
-                    "Instalacja",
-                    "Testowanie",
-                    "Konfiguracja"
-                ]
+        "subtitle": "Profesjonalny specjalista IT na miejscu",
+        "description": "Zagwarantuj stabilność techniczną swojego profesjonalnego wydarzenia, konferencji lub spotkania firmowego dzięki dedykowanemu wsparciu IT na miejscu.",
+        "cards": {
+            "onsite": {
+                "title": "Specjalista IT na miejscu",
+                "description": "Dedykowany profesjonalista IT towarzyszący Twojemu wydarzeniu od początku do końca."
             },
-            {
-                "title": "Sieć i Wi-Fi",
-                "description": "Zapewnienie stabilnego internetu dla wszystkich uczestników.",
-                "topics": [
-                    "Planowanie Wi-Fi",
-                    "Przepustowość",
-                    "Monitoring"
-                ]
+            "stability": {
+                "title": "Stabilność Techniczna",
+                "description": "Proaktywny monitoring i natychmiastowa interwencja."
             },
-            {
-                "title": "Wsparcie Streamingu",
-                "description": "Zaplecze techniczne dla transmisji na żywo i wydarzeń hybrydowych.",
-                "topics": [
-                    "OBS",
-                    "Kamery",
-                    "Dźwięk"
-                ]
+            "equipment": {
+                "title": "Zarządzanie Sprzętem",
+                "description": "Konfiguracja i nadzór nad laptopami, sieciami i sprzętem do streamingu."
             }
-        ]
+        },
+        "cta": {
+            "main": "Uzyskaj Wycenę",
+            "learnMore": "Czytaj Więcej"
+        }
     },
-    "eventTypes": {
-        "title": "Obsługiwane Eventy",
-        "subtitle": "Każde wydarzenie, gdzie IT jest kluczowe",
-        "types": [
-            {
-                "title": "Konferencje",
-                "description": "Duże spotkania profesjonalne."
-            },
-            {
-                "title": "Wydarzenia Hybrydowe",
-                "description": "Łączenie uczestników online i offline."
-            },
-            {
-                "title": "Warsztaty",
-                "description": "Wsparcie techniczne dla praktycznych sesji szkoleniowych."
-            }
-        ]
-    },
-    "benefits": {
-        "title": "Dlaczego My?",
-        "items": [
-            "Doświadczeni Profesjonaliści",
-            "Natychmiastowe Rozwiązywanie Problemów",
-            "Elastyczna Dostępność",
-            "Profesjonalny Sprzęt"
-        ]
-    },
-    "process": {
-        "title": "Proces",
-        "subtitle": "Jak współpracujemy",
-        "steps": [
-            {
-                "title": "Ocena",
-                "description": "Omówienie wymagań technicznych."
-            },
-            {
-                "title": "Planowanie",
-                "description": "Projekt niezbędnej infrastruktury."
-            },
-            {
-                "title": "Realizacja",
-                "description": "Konfiguracja i działanie na miejscu."
-            },
-            {
-                "title": "Monitoring",
-                "description": "Ciągła obecność podczas wydarzenia."
-            },
-            {
-                "title": "Zamknięcie",
-                "description": "Demontaż i ewaluacja."
-            }
-        ]
-    },
-    "faq": {
-        "title": "FAQ",
-        "items": [
-            {
-                "question": "Jakie rodzaje wydarzeń obsługujecie?",
-                "answer": "Wszystko od małych warsztatów po duże konferencje."
-            },
-            {
-                "question": "Czy dostarczacie sprzęt?",
-                "answer": "Tak, oferujemy usługi wynajmu na życzenie."
-            },
-            {
-                "question": "Ile to kosztuje?",
-                "answer": "Oparte na indywidualnej wycenie zależnej od wymagań."
-            },
-            {
-                "question": "Czy podróżujecie po całym kraju?",
-                "answer": "Tak, podejmujemy zlecenia na terenie całych Węgier."
-            }
-        ]
-    },
-    "pricing": {
-        "title": "Cennik",
-        "subtitle": "Oparty na Indywidualnej Wycenie",
-        "description": "Każde wydarzenie jest inne, więc dostosowujemy ceny do Twoich potrzeb.",
-        "process": "Uzyskaj wycenę!",
-        "cta": "Zamów Wycenę"
-    },
-    "availabilityNote": "Ta usługa jest dostępna na terenie całych Węgier.",
-    "finalCta": {
-        "title": "Zapewnij Sukces!",
-        "description": "Nie pozostawiaj strony technicznej przypadkowi.",
-        "button": "Uzyskaj Wycenę"
+    "onsitePresencePage": {
+        "breadcrumb": {
+            "home": "Strona główna",
+            "onsitePresence": "Obecność IT na Miejscu"
+        },
+        "hero": {
+            "title": "Obecność IT na Miejscu dla Eventów",
+            "subtitle": "Profesjonalne wsparcie IT na miejscu dla konferencji i eventów",
+            "description": "Chcesz bezbłędnego wydarzenia? Dzięki usłudze Obecności IT na Miejscu SIRONIC otrzymujesz gwarancję stabilnej i niezawodnej infrastruktury IT.",
+            "cta": "Zarezerwuj Darmową Konsultację"
+        },
+        "intro": {
+            "title": "Dlaczego zabrać specjalistę IT na swoje wydarzenie?",
+            "content": [
+                "Sukces profesjonalnego wydarzenia często zależy od stabilności technicznej. Jeśli technika zawodzi, cierpi reputacja wydarzenia.",
+                "Dzięki Obecności IT na Miejscu SIRONIC otrzymujesz doświadczonego specjalistę IT, który dba o płynne działanie."
+            ]
+        },
+        "services": {
+            "title": "Co oferujemy?",
+            "subtitle": "Kompleksowe Wsparcie Techniczne",
+            "items": [
+                {
+                    "title": "Przygotowanie Eventu i Konfiguracja",
+                    "description": "Instalacja i testowanie sprzętu na wydarzenie.",
+                    "topics": [
+                        "Instalacja",
+                        "Testowanie",
+                        "Konfiguracja"
+                    ]
+                },
+                {
+                    "title": "Sieć i Wi-Fi",
+                    "description": "Zapewnienie stabilnego internetu dla wszystkich uczestników.",
+                    "topics": [
+                        "Planowanie Wi-Fi",
+                        "Przepustowość",
+                        "Monitoring"
+                    ]
+                },
+                {
+                    "title": "Wsparcie Streamingu",
+                    "description": "Zaplecze techniczne dla transmisji na żywo i wydarzeń hybrydowych.",
+                    "topics": [
+                        "OBS",
+                        "Kamery",
+                        "Dźwięk"
+                    ]
+                }
+            ]
+        },
+        "eventTypes": {
+            "title": "Obsługiwane Eventy",
+            "subtitle": "Każde wydarzenie, gdzie IT jest kluczowe",
+            "types": [
+                {
+                    "title": "Konferencje",
+                    "description": "Duże spotkania profesjonalne."
+                },
+                {
+                    "title": "Wydarzenia Hybrydowe",
+                    "description": "Łączenie uczestników online i offline."
+                },
+                {
+                    "title": "Warsztaty",
+                    "description": "Wsparcie techniczne dla praktycznych sesji szkoleniowych."
+                }
+            ]
+        },
+        "benefits": {
+            "title": "Dlaczego My?",
+            "items": [
+                "Doświadczeni Profesjonaliści",
+                "Natychmiastowe Rozwiązywanie Problemów",
+                "Elastyczna Dostępność",
+                "Profesjonalny Sprzęt"
+            ]
+        },
+        "process": {
+            "title": "Proces",
+            "subtitle": "Jak współpracujemy",
+            "steps": [
+                {
+                    "title": "Ocena",
+                    "description": "Omówienie wymagań technicznych."
+                },
+                {
+                    "title": "Planowanie",
+                    "description": "Projekt niezbędnej infrastruktury."
+                },
+                {
+                    "title": "Realizacja",
+                    "description": "Konfiguracja i działanie na miejscu."
+                },
+                {
+                    "title": "Monitoring",
+                    "description": "Ciągła obecność podczas wydarzenia."
+                },
+                {
+                    "title": "Zamknięcie",
+                    "description": "Demontaż i ewaluacja."
+                }
+            ]
+        },
+        "faq": {
+            "title": "FAQ",
+            "items": [
+                {
+                    "question": "Jakie rodzaje wydarzeń obsługujecie?",
+                    "answer": "Wszystko od małych warsztatów po duże konferencje."
+                },
+                {
+                    "question": "Czy dostarczacie sprzęt?",
+                    "answer": "Tak, oferujemy usługi wynajmu na życzenie."
+                },
+                {
+                    "question": "Ile to kosztuje?",
+                    "answer": "Oparte na indywidualnej wycenie zależnej od wymagań."
+                },
+                {
+                    "question": "Czy podróżujecie po całym kraju?",
+                    "answer": "Tak, podejmujemy zlecenia na terenie całych Węgier."
+                }
+            ]
+        },
+        "pricing": {
+            "title": "Cennik",
+            "subtitle": "Oparty na Indywidualnej Wycenie",
+            "description": "Każde wydarzenie jest inne, więc dostosowujemy ceny do Twoich potrzeb.",
+            "process": "Uzyskaj wycenę!",
+            "cta": "Zamów Wycenę"
+        },
+        "availabilityNote": "Ta usługa jest dostępna na terenie całych Węgier.",
+        "finalCta": {
+            "title": "Zapewnij Sukces!",
+            "description": "Nie pozostawiaj strony technicznej przypadkowi.",
+            "button": "Uzyskaj Wycenę"
+        }
     }
-}
 }

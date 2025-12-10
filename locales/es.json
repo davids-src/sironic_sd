@@ -176,6 +176,9 @@
     ],
     "cta": "Saber más"
   },
+  "euBlock": {
+    "alt": "Mapa abstracto que muestra la cobertura de servicios de TI de Sironic en toda la UE."
+  },
   "services": {
     "title": "Nuestros Servicios",
     "subtitle": "Soluciones TI integrales para acelerar el crecimiento de su negocio",

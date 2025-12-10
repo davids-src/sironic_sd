@@ -178,6 +178,9 @@
     ],
     "cta": "Tudjon meg többet"
   },
+  "euBlock": {
+    "alt": "Absztrakt térkép, amely a Sironic EU-szintű IT szolgáltatási lefedettségét mutatja."
+  },
   "services": {
     "title": "Szolgáltatásaink",
     "subtitle": "Teljes körű IT megoldások vállalkozásod növekedéséhez",

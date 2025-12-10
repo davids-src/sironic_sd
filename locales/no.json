@@ -179,6 +179,9 @@
         ],
         "cta": "Les mer"
     },
+    "euBlock": {
+        "alt": "Abstrakt kart som viser Sironics EU-dekkende IT-tjenestdekning."
+    },
     "services": {
         "title": "Våre Tjenester",
         "subtitle": "Omfattende IT-løsninger for din bedriftsvekst",

@@ -170,6 +170,9 @@
     ],
     "cta": "Află mai multe"
   },
+  "euBlock": {
+    "alt": "Hartă abstractă care arată acoperirea serviciilor IT Sironic la nivelul UE."
+  },
   "services": {
     "title": "Serviciile noastre",
     "subtitle": "Soluții IT complete pentru creșterea afacerii dumneavoastră",

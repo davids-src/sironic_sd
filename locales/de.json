@@ -171,6 +171,9 @@
     ],
     "cta": "Mehr erfahren"
   },
+  "euBlock": {
+    "alt": "Abstrakte Karte, die die EU-weite IT-Serviceabdeckung von Sironic zeigt."
+  },
   "services": {
     "title": "Unsere Dienstleistungen",
     "subtitle": "Umfassende IT-Lösungen für Ihr Unternehmenswachstum",

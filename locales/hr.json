@@ -179,6 +179,9 @@
     ],
     "cta": "Saznajte više"
   },
+  "euBlock": {
+    "alt": "Apstraktna karta koja prikazuje pokrivenost Sironic IT uslugama diljem EU."
+  },
   "services": {
     "title": "Naše usluge",
     "subtitle": "Kompletna IT rješenja za rast vašeg poslovanja",
