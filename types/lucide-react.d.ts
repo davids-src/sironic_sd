@@ -21,6 +21,7 @@ declare module 'lucide-react' {
     export const Facebook: Icon;
     export const Linkedin: Icon;
     export const Cookie: Icon;
+    export const CheckCircle: Icon;
     // ...
 
     // Or just a general catch-all if we don't want to list them all
