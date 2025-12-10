@@ -69,6 +69,9 @@ declare module 'lucide-react' {
     export const Dot: Icon;
     export const BookOpen: Icon;
     export const Info: Icon;
+    export const Wallet: Icon;
+    export const CalendarCheck: Icon;
+    export const Package: Icon;
 
     // Or just export everything catch-all style
     const content: { [key: string]: Icon };

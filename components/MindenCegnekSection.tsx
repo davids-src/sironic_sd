@@ -7,11 +7,12 @@ import Link from 'next/link';
 import { useParams } from 'next/navigation';
 import { useTranslation } from '@/hooks/useTranslation';
 import { getLocalizedPath } from '@/lib/routes';
+import { Locale } from '@/i18n';
 
 export function MindenCegnekSection() {
   const { t } = useTranslation();
   const params = useParams();
-  const locale = (params?.locale as string) || 'hu';
+  const locale = (params?.locale as Locale) || 'hu';
 
   return (
     <section
@@ -72,7 +73,7 @@ export function MindenCegnekSection() {
               size="lg"
               className="w-full sm:w-auto text-lg px-8 py-6 h-auto"
             >
-              <Link href={`/${locale}/${getLocalizedPath('contact', locale)}?subject=Minden%20cégnek%20legyen%20informatikusa`}>
+              <Link href={`/${locale}/${getLocalizedPath('contact', locale as Locale)}?subject=Minden%20cégnek%20legyen%20informatikusa`}>
                 {t('mindenCegnek.cta.consultation')}
               </Link>
             </CTAButton>

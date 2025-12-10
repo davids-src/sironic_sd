@@ -9,11 +9,12 @@ import Link from 'next/link';
 import { useParams } from 'next/navigation';
 import { useTranslation } from '@/hooks/useTranslation';
 import { getLocalizedPath } from '@/lib/routes';
+import { Locale } from '@/i18n';
 
 export function RepairServiceSection() {
   const { t } = useTranslation();
   const params = useParams();
-  const locale = (params?.locale as string) || 'hu';
+  const locale = (params?.locale as Locale) || 'hu';
 
   const benefits = t('repairService.benefits', []) as string[];
 
@@ -79,7 +80,7 @@ export function RepairServiceSection() {
         </div>
 
         <div className="flex flex-col items-center justify-center gap-4 sm:flex-row">
-          <Link href={`/${locale}/${getLocalizedPath('contact', locale)}?subject=Szerviz%20és%20javítás`}>
+          <Link href={`/${locale}/${getLocalizedPath('contact', locale as Locale)}?subject=Szerviz%20és%20javítás`}>
             <CTAButton className="w-full sm:w-auto">
               {t('repairService.cta.main')}
             </CTAButton>

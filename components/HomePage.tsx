@@ -20,6 +20,7 @@ import { Server, Network, Shield, Code, CheckCircle, ShoppingCart, Cloud, Wrench
 import Link from 'next/link';
 import { useTranslation } from '@/hooks/useTranslation';
 import { getLocalizedPath } from '@/lib/routes';
+import { Locale } from '@/i18n';
 import { useParams } from 'next/navigation';
 
 export function HomePage() {
@@ -91,7 +92,7 @@ export function HomePage() {
                     </div>
                     <div className="mt-12 text-center">
                         <CTAButton asChild size="lg">
-                            <Link href={`/${locale}/${getLocalizedPath('services', locale)}`}>
+                            <Link href={`/${locale}/${getLocalizedPath('services', locale as Locale)}`}>
                                 {t('services.viewAll')}
                                 <ArrowRight className="ml-2 h-4 w-4" />
                             </Link>
@@ -179,7 +180,7 @@ export function HomePage() {
                         size="lg"
                         className="bg-white text-brand-red hover:bg-gray-100 border-none text-lg px-8 py-6 h-auto"
                     >
-                        <Link href={`/${locale}/${getLocalizedPath('contact', locale)}`}>
+                        <Link href={`/${locale}/${getLocalizedPath('contact', locale as Locale)}`}>
                             {t('finalCta.button')}
                             <ArrowRight className="ml-2 h-5 w-5" />
                         </Link>

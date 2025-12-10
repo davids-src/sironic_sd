@@ -6,6 +6,7 @@ import { MessageCircle } from 'lucide-react';
 import Link from 'next/link';
 import { useParams } from 'next/navigation';
 import { getLocalizedPath } from '@/lib/routes';
+import { Locale } from '@/i18n';
 
 interface FaqItem {
   question: string;
@@ -57,7 +58,7 @@ export function FaqSection() {
           <div className="text-center mt-12">
             <p className="text-muted-foreground">
               Nem találtad a válaszodat?{' '}
-              <Link href={`/${locale}/${getLocalizedPath('contact', locale)}`} className="text-brand-red font-semibold hover:underline">
+              <Link href={`/${locale}/${getLocalizedPath('contact', locale as Locale)}`} className="text-brand-red font-semibold hover:underline">
                 Vedd fel velünk a kapcsolatot
               </Link>
             </p>

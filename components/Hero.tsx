@@ -3,10 +3,12 @@
 import Link from 'next/link';
 import { useParams } from 'next/navigation';
 import { CTAButton } from './CTAButton';
+import { SectionTitle } from './SectionTitle';
 import { Button } from './ui/button';
 import { ArrowRight } from 'lucide-react';
 import { useTranslation } from '@/hooks/useTranslation';
 import { getLocalizedPath } from '@/lib/routes';
+import { Locale } from '@/i18n';
 
 export function Hero() {
   const { t } = useTranslation();
@@ -36,7 +38,7 @@ export function Hero() {
               size="lg"
               className="w-full sm:w-auto text-lg px-8 py-6 h-auto"
             >
-              <Link href={`/${locale}/${getLocalizedPath('contact', locale)}`}>
+              <Link href={`/${locale}/${getLocalizedPath('contact', locale as Locale)}`}>
                 {t('hero.cta')}
                 <ArrowRight className="ml-2 h-5 w-5" />
               </Link>
