@@ -156,10 +156,10 @@
   },
   "hero": {
     "badge": "Nová služba",
-    "title": "IT riešenia, akoby ste mali vlastný tím",
-    "subtitle": "Profesionálna správa IT infraštruktúry, rýchla údržba a osobná podpora pre malé a stredné podniky.",
+    "title": "Profesionálna IT prevádzka a budovanie sietí s bezpečnosťou na úrovni EÚ",
+    "subtitle": "Stabilné a bezpečné IT riešenia pre MSP s garantovanou dostupnosťou.",
     "cta": "Bezplatná konzultácia",
-    "learnMore": "Zistiť viac"
+    "learnMore": "Kontaktujte nás"
   },
   "services": {
     "title": "Naše služby",
@@ -167,77 +167,109 @@
     "viewAll": "Zobraziť všetky služby",
     "systemOperation": {
       "title": "Správa systémov & IT údržba",
-      "description": "Stabilná, bezpečná a rýchla prevádzka – priebežne monitorujeme Vaše systémy skôr, ako sa objavia problémy. Menej prestojov, vyššia efektivita."
+      "description": "Komplexná údržba systémov, nepretržité monitorovanie a podpora pre MSP, plne v súlade s EÚ."
     },
     "networking": {
       "title": "Návrh a vývoj sietí",
-      "description": "Navrhujeme, implementujeme a optimalizujeme sieťovú infraštruktúru Vašej spoločnosti, aby sa každé zariadenie pripájalo spoľahlivo, rýchlo a bezpečne."
+      "description": "Plánovanie, budovanie a prevádzka moderných, bezpečných sieťových infraštruktúr."
     },
     "security": {
       "title": "IT bezpečnosť & ochrana údajov",
-      "description": "Chráňte údaje Vašej firmy! Moderné firewally, bezpečné zálohy, správa prístupov – u nás je bezpečnosť údajov štandardom, nie možnosťou navyše."
+      "description": "Bezpečnostné audity, správa prístupov a ochrana údajov v súlade s predpismi EÚ."
     },
     "development": {
       "title": "Vývoj webových stránok & softvéru",
-      "description": "Vytvárame profesionálne, responzívne webové stránky a softvérové riešenia na mieru, aby Vaša firma vynikla online."
+      "description": "Rýchle a bezpečné firemné webové stránky a vývoj e-shopov s modernými technológiami."
     },
     "commerce": {
       "title": "Dodávka IT zariadení & softvéru",
-      "description": "Všetko, čo potrebujete pre prevádzku kancelárie – počítače, monitory, tlačiarne, servery a softvérové licencie, všetko z jedného zdroja."
+      "description": "Všetko pre prevádzku kancelárie – počítače, monitory, tlačiarne, servery a softvérové licencie z jedného zdroja."
     },
     "hosting": {
       "title": "Hosting & cloudové riešenia",
-      "description": "Stabilný, rýchly a bezpečný hosting pre webové stránky, e-mail a zálohovanie údajov. Webhosting, dedikované servery a cloudové úložisko."
+      "description": "Stabilný, rýchly a bezpečný hosting pre webstránky, e-maily a zálohy. Webhosting, prenájom serverov a cloudové zálohovanie."
     },
     "repair": {
-      "title": "Opravárenský & servisný servis",
-      "description": "Rýchla a spoľahlivá oprava počítačov, notebookov a serverov, či už na mieste alebo zaslaním poštou. Transparentné cenové ponuky a rýchle vybavenie."
+      "title": "Servis a oprava",
+      "description": "Rýchla a spoľahlivá oprava počítačov, notebookov a serverov na mieste alebo zaslaním poštou. Transparentné ponuky."
+    }
+  },
+  "customDevelopment": {
+    "badge": "Vývoj vlastného softvéru",
+    "title": "Vývoj vlastných aplikácií pre Vašu firmu",
+    "subtitle": "Škálovateľný, bezpečný a obchodne zameraný softvér",
+    "description": "Tím SIRONIC ponúka komplexný vývoj vlastných aplikácií. Od webových aplikácií cez desktopový softvér pre Windows až po mobilné aplikácie – všetko prispôsobené modernými technológiami.",
+    "cards": {
+      "webApps": {
+        "title": "Vývoj webových aplikácií",
+        "description": "Podnikové aplikácie založené na TailScript a React. Škálovateľné, rýchle riešenia pre komplexné procesy."
+      },
+      "desktop": {
+        "title": "Desktopový softvér pre Windows",
+        "description": "Vývoj natívnych Windows aplikácií. Efektívny, rýchly a spoľahlivý softvér pre kancelárie."
+      },
+      "mobile": {
+        "title": "Vývoj mobilných aplikácií",
+        "description": "Vývoj Android a iOS aplikácií. Moderné, intuitívne mobilné riešenia pre všetky zariadenia."
+      }
+    },
+    "cta": {
+      "main": "Požiadať o ponuku na vývoj",
+      "learnMore": "Zistiť viac"
     }
   },
   "mindenCegnek": {
     "badge": "Mesačná IT podpora",
     "title": "Každá firma si zaslúži IT oddelenie",
     "subtitle": "IT riešenia, akoby ste mali vlastný IT tím",
-    "description": "Nemusíte zamestnávať IT špecialistu na plný úväzok, aby ste mali stabilné, bezpečné a rýchle systémy. Mesačný predplatný model SIRONIC funguje, ako keby sme boli súčasťou Vašej firmy – ale platíte len za to, čo skutočne potrebujete.",
+    "description": "Nemusíte zamestnávať IT špecialistu, aby ste mali stabilné systémy. Mesačný model SIRONIC funguje ako interný tím – platíte však len za to, čo potrebujete.",
     "features": {
-      "costEffective": "Nákladovo efektívna, na infraštruktúru optimalizovaná IT podpora – flexibilná, spoľahlivá a transparentná.",
-      "discount": "Platné do 1. februára 2026: každý partner, ktorý požiada o konzultáciu, získa 10 % zľavu na prvé 3 mesiace!"
+      "costEffective": "Nákladovo efektívna, optimalizovaná IT podpora – flexibilná, spoľahlivá, transparentná.",
+      "discount": "Platné do 1. februára 2026: 10 % zľava na prvé 3 mesiace pri žiadosti o konzultáciu!"
     },
     "cta": {
-      "consultation": "Požiadať o konzultáciu",
+      "consultation": "Požiadať o bezplatnú IT konzultáciu!",
       "learnMore": "Zistiť viac"
     }
   },
   "whyChooseUs": {
     "title": "Prečo si vybrať nás?",
     "reasons": [
-      "Spoľahlivosť: Viac ako 5 rokov skúseností s navrhovaním a správou IT systémov.",
-      "Proaktívny prístup: Myslíme dopredu – konáme skôr, ako sa objavia problémy, nie až potom.",
-      "Transparentné ceny: Žiadne skryté poplatky, pevná mesačná údržba alebo riešenia na mieru.",
-      "Skutočná ľudská komunikácia: Žiadne nekonečné rady s tikketmi – vždy nás môžete kontaktovať priamo.",
-      "Komplexná prevádzka IT: Priebežne pracujeme na tom, aby Vaše systémy fungovali stabilne a rýchlo – menej prestojov, vyššia efektivita, bezpečná infraštruktúra.",
-      "Moderná IT bezpečnosť: Ochrana údajov a bezpečnosť siete s najmodernejšími firewalmi, zálohovacími riešeniami a správou prístupov – bezpečnosť je u nás štandard, nie možnosť navyše.",
-      "Vývoj webových stránok a digitálna prítomnosť: Profesionálne, responzívne webové stránky a systémy na mieru, ktoré zvyšujú Vašu online viditeľnosť a priťahujú zákazníkov.",
-      "Cloudové riešenia a hosting: Rýchly, bezpečný a škálovateľný hosting pre Vaše webové stránky, e-maily a zálohy údajov – vždy dostupný, vždy stabilný."
+      "Garantovaný reakčný čas: Pre zmluvných partnerov ponúkame rýchly zásah s pevne stanovenými SLA.",
+      "Nepretržité monitorovanie systému: 24/7 monitorovacia služba na prevenciu chýb.",
+      "Proaktívna údržba: Myslíme dopredu a konáme skôr, než nastanú problémy.",
+      "Spoľahlivosť: 5+ rokov skúseností s plánovaním a prevádzkou systémov.",
+      "Transparentné ceny: Žiadne skryté poplatky, pevná mesačná údržba alebo ad-hoc riešenia.",
+      "Skutočná ľudská komunikácia: Žiadne nekonečné rady s tikketmi – vždy nás dosiahnete.",
+      "Moderná IT bezpečnosť: Ochrana údajov a sieťová bezpečnosť s modernými firewallmi, zálohami a správou prístupov – bezpečnosť je štandard.",
+      "Vývoj webových stránok a digitálna prítomnosť: Profesionálne webstránky a systémy na mieru, ktoré zvyšujú Vašu online viditeľnosť."
     ]
+  },
+  "trust": {
+    "partners": {
+      "title": "Naši technologickí partneri"
+    },
+    "reference": {
+      "quote": "Kompletné prevzatie a vyčistenie IT: stabilizácia a modernizácia kancelárskej siete pre 40 osôb za menej ako 30 dní."
+    }
   },
   "testimonials": {
     "title": "Čo hovoria naši klienti",
     "items": [
       {
-        "quote": "S tímom SIRONIC konečne spíme pokojne: naše IT systémy fungujú stabilne, rýchlo a bezpečne. Keď sa vyskytnú problémy, reagujú okamžite a všetko vysvetľujú zrozumiteľným jazykom – žiadny technický žargón. Takého spoľahlivého partnera v IT svete sa nájde len zriedka.",
+        "quote": "S tímom SIRONIC konečne spíme pokojne: naše IT systémy fungujú stabilne, rýchlo a bezpečne. Reagujú okamžite a vysvetľujú zrozumiteľne. Taký spoľahlivý partner je vzácny.",
         "company": "Pervector s.r.o."
       },
       {
-        "quote": "Predtým sme mali neustále problémy s počítačmi a sieťou, ale odvtedy, ako sme SIRONIC zverili naše IT, všetko funguje hladko. Rýchlo pomáhajú bez ohľadu na problém a vždy s nimi nájdeme riešenia. Práve takúto podporu potrebuje každá firma.",
+        "quote": "Predtým sme mali neustále problémy, ale odkedy spravuje IT SIRONIC, všetko ide hladko. Rýchlo pomáhajú pri každom probléme. Takúto podporu potrebuje každá firma.",
         "company": "Bocskai Alba Flexum s.r.o."
       },
       {
-        "quote": "SIRONIC pre nás vytvoril modernú, prehľadnú a mobilnú webovú stránku, ktorá nielen skvelo vyzerá, ale pomáha našim klientom nás ľahko nájsť online. Od tej doby sa starajú o údržbu – každá aktualizácia a úprava prebieha rýchlo a presne. Dostali sme komplexnú, profesionálnu službu.",
+        "quote": "SIRONIC vytvoril modernú, prehľadnú webstránku, ktorá skvelo vyzerá a pomáha klientom nás nájsť. Údržba je rýchla a presná. Komplexná, profesionálna služba.",
         "company": "Bull & U s.r.o."
       },
       {
-        "quote": "Chceli sme čistú, rýchlu a modernú webovú stránku – SIRONIC dodal presne to. Profesionálny tím, pozornosť k detailom a vždy majú skvelé nápady na to, aby bol výsledok ešte lepší. Naša nová webová stránka dokonale odráža identitu našej firmy.",
+        "quote": "Chceli sme čistú, rýchlu a modernú stránku – SIRONIC dodal presne to. Profesionálny tím so skvelými nápadmi. Naša nová stránka dokonale odráža našu firmu.",
         "company": "Regia Dental s.r.o."
       }
     ]
@@ -267,69 +299,70 @@
     "items": [
       {
         "question": "Akým firmám poskytujete služby?",
-        "answer": "SIRONIC sa špecializuje na malé a stredné podniky, ale ponúkame riešenia aj pre väčšie firmy na základe individuálnych potrieb. Či už ide o správu systémov, budovanie sietí alebo vývoj webu – nájdeme ideálne IT riešenie pre každé podnikanie."
+        "answer": "SIRONIC sa špecializuje na malé a stredné podniky, ale ponúkame riešenia aj pre väčšie firmy. Či už ide o správu systémov, siete alebo vývoj webu – nájdeme ideálne riešenie."
       },
       {
-        "question": "V čom sa líši SIRONIC od iných poskytovateľov IT?",
-        "answer": "Nie sme len 'opravári' – proaktívne monitorujeme systémy, predchádzame problémom a komunikujeme ľudskou rečou. Nedovolíme, aby bolo IT prekážkou, ale robíme z neho konkurenčnú výhodu."
+        "question": "V čom sa líši SIRONIC od iných?",
+        "answer": "Nie sme len 'opravári' – proaktívne monitorujeme, predchádzame problémom a komunikujeme ľudsky. IT nemá byť prekážkou, ale výhodou."
       },
       {
-        "question": "Ako rýchlo reagujete na nahlásenie chyby?",
-        "answer": "Všeobecne reagujeme do 1–4 hodín, v urgentných prípadoch aj okamžite. Pre našich zmluvných partnerov garantujeme reakčné časy."
+        "question": "Ako rýchlo reagujete na chyby?",
+        "answer": "Všeobecne do 1–4 hodín, urgentne okamžite. Pre zmluvných partnerov garantujeme reakčné časy."
       },
       {
-        "question": "Vykonávate aj výjazdy na miesto alebo len vzdialenú podporu?",
-        "answer": "Áno, oboje! Väčšinu chýb odstraňujeme na diaľku, ale ak je to potrebné, prídeme aj osobne."
+        "question": "Chodíte aj osobne?",
+        "answer": "Áno! Väčšinu riešime na diaľku, ale v prípade potreby prídeme aj osobne."
       },
       {
-        "question": "Vytvárate webové stránky aj úplne od nuly?",
-        "answer": "Samozrejme. Vyvíjame jedinečné, responzívne webové stránky s modernými technológiami (Next.js, React, Tailwind) a staráme sa o to, aby bola stránka rýchla, bezpečná a optimalizovaná pre vyhľadávače."
+        "question": "Vytvárate webstránky od nuly?",
+        "answer": "Samozrejme. Vyvíjame jedinečné, responzívne stránky s modernými technológiami (Next.js, React), rýchlo, bezpečne a SEO optimalizované."
       },
       {
-        "question": "Čo je CRM Pro a ako pomôže môjmu podnikaniu?",
-        "answer": "CRM Pro je individuálne vyvinutý systém na správu zákazníkov, ktorý sprehľadňuje predajné procesy, automatizuje administratívu a dá sa integrovať s existujúcimi systémami. Dostupný aj pre menšie firmy."
+        "question": "Čo je CRM Pro?",
+        "answer": "Individuálne vyvinutý systém na správu zákazníkov, ktorý sprehľadňuje predaj a automatizuje administratívu. Dostupný aj pre menšie firmy."
       },
       {
         "question": "Aké bezpečnostné opatrenia používate?",
-        "answer": "Používame moderné firewally, riešenia na zálohovanie dát, šifrovanie a správu prístupov. Všetky naše systémy navrhujeme v súlade s GDPR, takže bezpečnosť dát je štandard."
+        "answer": "Moderné firewally, zálohovanie, šifrovanie a správa prístupov. Všetko v súlade s GDPR, bezpečnosť je štandard."
       },
       {
-        "question": "Akou formou s vami možno spolupracovať?",
-        "answer": "Pracujeme v dvoch hlavných formách: jednorazová zákazka (pre občasné úlohy) a mesačná zmluva o údržbe (trvalá prevádzka a podpora). Obe sú transparentné, s fixnými cenami."
+        "question": "Aké sú modely spolupráce?",
+        "answer": "Dva hlavné modely: jednorazová zákazka (občasné úlohy) a mesačná zmluva (trvalá podpora). Obe transparentné s fixnými cenami."
       },
       {
-        "question": "Koľko stojí vývoj webovej stránky alebo systému?",
-        "answer": "Základné webové stránky začínajú od 250 000 HUF, zatiaľ čo cena jedinečných systémov alebo CRM riešení sa určuje v závislosti od funkcionality. Pred každým projektom dávame presnú cenovú ponuku."
+        "question": "Koľko stojí webstránka alebo systém?",
+        "answer": "Základné stránky od 250 000 HUF, systémy podľa funkcionality. Vždy dávame presnú ponuku."
       },
       {
-        "question": "Prečo sa oplatí zvoliť cloudové riešenia?",
-        "answer": "Cloud je rýchly, bezpečný a flexibilný – nie je potrebné udržiavať vlastný server, dáta sú vždy dostupné a rozšírenie je možné vyriešiť v priebehu okamihu."
+        "question": "Prečo cloudové riešenia?",
+        "answer": "Rýchle, bezpečné a flexibilné – žiadny vlastný server, dáta vždy dostupné, rozšírenie možné okamžite."
       }
     ]
   },
   "finalCta": {
     "title": "Pripravení na bezstarostné IT?",
-    "description": "Požiadajte o bezplatnú konzultáciu a spoločne nájdeme najlepšie riešenie pre Vaše podnikanie.",
+    "description": "Požiadajte o bezplatnú konzultáciu a nájdime spoločne najlepšie riešenie.",
     "button": "Požiadať o ponuku teraz"
   },
   "contact": {
     "title": "Kontakt",
-    "subtitle": "Máte otázky alebo chcete bezplatnú konzultáciu? Kontaktujte nás, rýchlo odpovieme!",
+    "subtitle": "Máte otázky alebo chcete bezplatnú konzultáciu? Kontaktujte nás!",
     "form": {
       "title": "Poslať správu",
       "name": "Meno",
+      "companyName": "Názov spoločnosti (Voliteľné)",
       "email": "E-mail",
       "service": "O ktorú službu máte záujem?",
-      "servicePlaceholder": "Vyberte službu",
+      "servicePlaceholder": "Prosím vyberte...",
       "message": "Správa",
-      "submit": "Odoslať",
+      "submit": "Požiadať o bezplatnú IT konzultáciu!",
       "submitting": "Odosiela sa...",
       "required": "*",
-      "success": "Vaša správa bola úspešne odoslaná! Čoskoro Vás budeme kontaktovať.",
-      "error": "Pri odosielaní správy došlo k chybe",
-      "noscript": "Svoju správu môžete poslať aj e-mailom:",
+      "success": "Správa úspešne odoslaná! Čoskoro Vás budeme kontaktovať.",
+      "error": "Chyba pri odosielaní správy.",
+      "noscript": "Môžete poslať aj e-mailom:",
       "options": {
-        "placeholder": "Vyberte službu",
+        "placeholder": "Prosím vyberte",
         "mindenCegnek": "Každá firma by mala mať IT špecialistu",
         "systemOperation": "Prevádzka systémov a IT údržba",
         "networking": "Budovanie a rozvoj sietí",
@@ -352,7 +385,7 @@
       "hours": "Pracovné hodiny",
       "hoursValue": "Pondelok – Piatok\n8:00 – 17:00",
       "quickResponse": "Rýchla odpoveď",
-      "quickResponseText": "Obvykle odpovedáme na všetky otázky do 24 hodín v pracovných dňoch. V prípade naliehavosti nás prosím zavolajte!"
+      "quickResponseText": "Obvykle odpovedáme do 24 hodín v pracovných dňoch. V prípade urgencie volajte!"
     }
   },
   "footer": {
@@ -693,6 +726,14 @@
       ],
       "button": "Požiadať o individuálnu ponuku"
     }
+  },
+  "cookie": {
+    "title": "Nastavenia súborov cookie",
+    "description": "Používame súbory cookie na zlepšenie vášho prehliadania a analýzu návštevnosti. Kliknutím na \"Prijať všetky\" súhlasíte s používaním súborov cookie.",
+    "accept": "Prijať všetky",
+    "decline": "Odmietnuť",
+    "manage": "Nastavenia",
+    "privacy": "Zásady ochrany osobných údajov"
   },
   "mindenCegnekPage": {
     "hero": {

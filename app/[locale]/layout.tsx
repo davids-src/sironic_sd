@@ -10,6 +10,7 @@ import { locales } from '@/i18n';
 import HreflangTags from '@/components/HreflangTags';
 import { TranslationsProvider } from '@/components/TranslationsProvider';
 import { LocalBusinessSchema, OrganizationSchema, WebSiteSchema } from '@/components/StructuredData';
+import { CookieBanner } from '@/components/CookieBanner';
 
 const inter = Inter({ subsets: ['latin'], variable: '--font-inter' });
 
@@ -109,6 +110,7 @@ export default async function RootLayout({
           <SkipToContent />
           <Header />
           <main id="main-content">{children}</main>
+          <CookieBanner />
           <Footer />
         </TranslationsProvider>
       </body>

@@ -118,7 +118,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     // ============================================
     // CAMPAIGN: "Every Company Needs IT" (HU, HR, SL Only)
     // ============================================
-    { path: 'minden-cegnek-legyen-informatikusa', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['hu'] },
+    { path: 'minden-cegnek-legyen-informatikusa', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['hu', 'en', 'de', 'sk', 'ro', 'fr', 'it', 'es'] },
     { path: 'it-podrska-tvrtkama', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['hr'] },
     { path: 'it-podpora-podjetjem', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['sl'] },
 

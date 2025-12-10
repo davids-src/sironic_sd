@@ -226,6 +226,14 @@
       "Soluciones en la nube y hosting: Alojamiento rápido, seguro y escalable para sus web, correo y backups – siempre accesible, siempre estable."
     ]
   },
+  "trust": {
+    "partners": {
+      "title": "Nuestros socios tecnológicos"
+    },
+    "reference": {
+      "quote": "Adquisición completa y limpieza TI: estabilización y modernización de la red de oficina para 40 personas en menos de 30 días."
+    }
+  },
   "testimonials": {
     "title": "Lo Que Dicen Nuestros Clientes",
     "items": [
@@ -698,6 +706,14 @@
       ],
       "button": "Solicitar Presupuesto Personalizado"
     }
+  },
+  "cookie": {
+    "title": "Configuración de cookies",
+    "description": "Utilizamos cookies para mejorar su experiencia de navegación y analizar nuestro tráfico. Al hacer clic en \"Aceptar todo\", acepta el uso de cookies.",
+    "accept": "Aceptar todo",
+    "decline": "Rechazar",
+    "manage": "Configuración",
+    "privacy": "Política de privacidad"
   },
   "mindenCegnekPage": {
     "hero": {

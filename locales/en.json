@@ -161,70 +161,102 @@
   },
   "hero": {
     "badge": "New Service",
-    "title": "IT solutions that work like your own in-house team",
-    "subtitle": "Professional IT infrastructure management, rapid maintenance and dedicated support for small and medium-sized businesses.",
+    "title": "Professional IT Operations & Network Building with EU-Level Security",
+    "subtitle": "Stable and secure IT solutions for SMBs with guaranteed availability.",
     "cta": "Free Consultation",
-    "learnMore": "Learn More"
+    "learnMore": "Contact Us"
   },
   "services": {
     "title": "Our Services",
-    "subtitle": "Comprehensive IT solutions to accelerate your business growth",
-    "viewAll": "View All Services",
+    "subtitle": "Comprehensive IT solutions for your business growth",
+    "viewAll": "All Services",
     "systemOperation": {
       "title": "System Management & IT Maintenance",
-      "description": "Stable, secure and fast operations – we continuously monitor your systems before anything goes wrong. Less downtime, greater efficiency."
+      "description": "Comprehensive system maintenance, continuous monitoring, and support for SMBs, fully EU-compliant."
     },
     "networking": {
-      "title": "Network Design & Development",
-      "description": "We design, deploy and optimize your company's network infrastructure to ensure every device connects reliably, quickly and securely."
+      "title": "Network Building & Development",
+      "description": "Design, construction, and operation of modern, secure network infrastructures."
     },
     "security": {
       "title": "IT Security & Data Protection",
-      "description": "Protect your business data! Modern firewalls, secure backups, access control – with us, data security isn't an extra, it's standard."
+      "description": "Security audits, access management, and data protection in compliance with EU regulations."
     },
     "development": {
-      "title": "Website & Software Development",
-      "description": "We create professional, responsive websites and custom software solutions to make your company stand out online."
+      "title": "Website & System Development",
+      "description": "Fast and secure corporate websites and webshop development with modern technologies."
     },
     "commerce": {
-      "title": "IT Equipment & Software Supply",
-      "description": "Everything you need for office operations – computers, monitors, printers, servers and software licenses, all from one trusted source."
+      "title": "Commerce – IT Equipment & Software",
+      "description": "Get everything needed for office operations – computers, monitors, printers, servers, and software licenses."
     },
     "hosting": {
       "title": "Hosting & Cloud Solutions",
-      "description": "Stable, fast and secure hosting for websites, email and data backup. Web hosting, dedicated servers and cloud-based storage."
+      "description": "Stable, fast, and secure hosting solutions for websites, email, and data backup. Web hosting, server rental, and cloud backup."
     },
     "repair": {
-      "title": "Repair & Maintenance Services",
-      "description": "Fast and reliable repair of computers, laptops and servers, either on-site or via mail-in service. Transparent quotes and quick turnaround."
+      "title": "Service & Repair",
+      "description": "Fast and reliable repair of computers, laptops, and servers on-site or via mail-in. Transparent quotes and quick repairs."
+    }
+  },
+  "customDevelopment": {
+    "badge": "Custom Software Development",
+    "title": "Custom Application Development for Your Business",
+    "subtitle": "Scalable, secure, and business-focused software",
+    "description": "The SIRONIC team offers comprehensive custom application development for your business. From web apps to Windows desktop software and mobile apps – all solutions are tailored to your business needs using modern technologies.",
+    "cards": {
+      "webApps": {
+        "title": "Custom Web App Development",
+        "description": "TailScript and React-based enterprise web apps. Scalable, fast, user-friendly solutions for complex business processes."
+      },
+      "desktop": {
+        "title": "Windows Desktop Software",
+        "description": "Native Windows application development. Efficient, fast, and reliable software for office environments."
+      },
+      "mobile": {
+        "title": "Mobile App Development",
+        "description": "Android and iOS app creation. Modern, intuitive mobile solutions that work perfectly on every device."
+      }
+    },
+    "cta": {
+      "main": "Request a Quote for Custom Development",
+      "learnMore": "Learn More"
     }
   },
   "mindenCegnek": {
     "badge": "Monthly IT Support",
     "title": "Every Company Deserves an IT Department",
-    "subtitle": "IT solutions as if you had your own IT team",
-    "description": "You don't need to hire a full-time IT specialist to have stable, secure and fast systems. SIRONIC's monthly subscription works as if we're part of your company – but you only pay for what you actually need.",
+    "subtitle": "IT solution, like having your own IT specialist",
+    "description": "You don't need to hire an IT specialist to have stable, secure, and fast systems. SIRONIC's monthly subscription works as if you had an in-house team – but you only pay for what you actually need.",
     "features": {
-      "costEffective": "Cost-effective, infrastructure-optimized IT support – flexible, reliable and transparent.",
-      "discount": "Valid until February 1, 2026: every partner requesting a consultation receives a 10% discount on the first 3 months!"
+      "costEffective": "Cost-effective, infrastructure-optimized IT support – flexible, reliable, transparent.",
+      "discount": "Valid until Feb 1, 2026: 10% discount on first 3 months for partners requesting consultation!"
     },
     "cta": {
-      "consultation": "Request a Consultation",
+      "consultation": "Request Free IT Consultation!",
       "learnMore": "Learn More"
     }
   },
   "whyChooseUs": {
     "title": "Why Choose Us?",
     "reasons": [
-      "Reliability: 5+ years of experience in designing and managing IT systems.",
-      "Proactive approach: We think ahead – we act before problems arise, not after.",
-      "Transparent pricing: No hidden fees, fixed monthly maintenance or one-time solutions.",
-      "Genuine human communication: No endless ticket queues – you can always reach us directly.",
-      "Comprehensive IT operations: We continuously work to keep your systems stable and fast – less downtime, greater efficiency, secure infrastructure.",
-      "Modern IT security: Data protection and network security with cutting-edge firewalls, backup solutions and access management – security is standard, not optional.",
-      "Web development and digital presence: Professional, responsive websites and custom systems that increase your online visibility and attract customers.",
-      "Cloud-based solutions and hosting: Fast, secure and scalable hosting for your websites, email and data backups – always accessible, always stable."
+      "Guaranteed response time: We provide rapid intervention with fixed SLAs for our contracted partners.",
+      "Continuous system monitoring: 24/7 monitoring service to prevent errors.",
+      "Proactive maintenance: We think ahead, we act before there is trouble.",
+      "Reliability: 5+ years of experience in designing and operating systems.",
+      "Transparent costs: No hidden fees, fixed monthly maintenance or ad-hoc solutions.",
+      "Genuine human communication: No 'ticket jungle' – you can always reach us.",
+      "Modern IT security: Data protection and network security with modern firewalls, backups, and access management – security is standard, not extra.",
+      "Web development & digital presence: Professional, responsive websites and custom systems that increase your online visibility and attract customers."
     ]
+  },
+  "trust": {
+    "partners": {
+      "title": "Our Technology Partners"
+    },
+    "reference": {
+      "quote": "Complete IT takeover and cleanup: stabilizing and modernizing a 40-person office network in less than 30 days."
+    }
   },
   "testimonials": {
     "title": "What Our Clients Say",
@@ -323,11 +355,12 @@
     "form": {
       "title": "Send a Message",
       "name": "Name",
+      "companyName": "Company Name (Optional)",
       "email": "Email",
       "service": "Which service are you interested in?",
-      "servicePlaceholder": "Select a service",
+      "servicePlaceholder": "Please select...",
       "message": "Message",
-      "submit": "Send",
+      "submit": "Request Free IT Consultation!",
       "submitting": "Sending...",
       "required": "*",
       "success": "Your message has been sent successfully! We'll contact you shortly.",
@@ -698,6 +731,14 @@
       ],
       "button": "Request Custom Quote"
     }
+  },
+  "cookie": {
+    "title": "Cookie Settings",
+    "description": "We use cookies to enhance your browsing experience and analyze our traffic. By clicking \"Accept All\", you consent to our use of cookies.",
+    "accept": "Accept All",
+    "decline": "Decline",
+    "manage": "Settings",
+    "privacy": "Privacy Policy"
   },
   "mindenCegnekPage": {
     "hero": {

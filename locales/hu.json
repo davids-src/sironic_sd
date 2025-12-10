@@ -163,10 +163,10 @@
   },
   "hero": {
     "badge": "Új szolgáltatás",
-    "title": "IT megoldás, mintha saját csapatod lenne",
-    "subtitle": "IT megoldás, mintha saját csapatod lenne – profi rendszerüzemeltetés, gyors karbantartás és személyes támogatás kis- és középvállalkozásoknak.",
+    "title": "Professzionális IT üzemeltetés és hálózatépítés EU-szintű biztonsággal",
+    "subtitle": "Stabil és biztonságos IT megoldások kis- és középvállalkozások számára, garantált rendelkezésre állással.",
     "cta": "Ingyenes konzultáció",
-    "learnMore": "Tudj meg többet"
+    "learnMore": "Kapcsolatfelvétel"
   },
   "services": {
     "title": "Szolgáltatásaink",
@@ -174,19 +174,19 @@
     "viewAll": "Minden szolgáltatásunk",
     "systemOperation": {
       "title": "Rendszerüzemeltetés és IT karbantartás",
-      "description": "Stabil, biztonságos és gyors működés – mi folyamatosan figyeljük rendszereidet, mielőtt bármi gond lenne. Kevesebb leállás, több hatékonyság."
+      "description": "Átfogó rendszerkarbantartás, folyamatos monitorozás és támogatás KKV-k számára, teljes EU-megfeleléssel."
     },
     "networking": {
       "title": "Hálózatépítés és fejlesztés",
-      "description": "Megtervezzük, kiépítjük és optimalizáljuk céged hálózatát, hogy minden eszköz megbízhatóan, gyorsan és biztonságosan kapcsolódjon."
+      "description": "Modern, biztonságos hálózati infrastruktúrák tervezése, kiépítése és üzemeltetése."
     },
     "security": {
       "title": "IT biztonság és adatvédelem",
-      "description": "Védd vállalkozásod adatait! Korszerű tűzfalak, biztonsági mentések, hozzáféréskezelés – az adatbiztonság nálunk nem extra, hanem alap."
+      "description": "Biztonsági auditok, hozzáférés-kezelés és adatvédelem az EU-s előírásokkal összhangban."
     },
     "development": {
       "title": "Weboldal- és rendszerfejlesztés",
-      "description": "Professzionális, reszponzív weboldalakat és egyedi szoftvermegoldásokat készítünk, hogy céged online is kiemelkedjen."
+      "description": "Gyors és biztonságos vállalati weboldalak és webshopok fejlesztése modern technológiákkal."
     },
     "commerce": {
       "title": "Kereskedelem – IT eszközök és szoftverek",
@@ -235,21 +235,21 @@
       "discount": "2026 Február 1-ig érvényes: minden előzetes konzultációt kérő partnerünknek 10% kedvezményt adunk az első 3 hónap havidíjából!"
     },
     "cta": {
-      "consultation": "Kérj előzetes konzultációt",
+      "consultation": "Kérj ingyenes IT konzultációt!",
       "learnMore": "Tudj meg többet"
     }
   },
   "whyChooseUs": {
     "title": "Miért válassz minket?",
     "reasons": [
+      "Garantált reakcióidő: Szerződött partnereinknek fix SLA szerinti gyors beavatkozást biztosítunk.",
+      "Folyamatos rendszerfelügyelet: 24/7 monitoring szolgáltatás a hibák megelőzésére.",
+      "Proaktív karbantartás: Mi előre gondolkodunk, nem akkor lépünk, amikor már baj van.",
       "Megbízhatóság: 5+ év tapasztalat rendszerek tervezésében és üzemeltetésében.",
-      "Proaktív működés: Mi előre gondolkodunk, nem akkor lépünk, amikor már baj van.",
       "Átlátható költségek: Nincsenek rejtett díjak, fix havidíjas karbantartás vagy eseti megoldások.",
       "Valódi emberi kommunikáció: Nálunk nincs \"ticket-dzsungel\" – mindig elérsz minket.",
-      "Teljes körű IT üzemeltetés: Rendszereid stabil és gyors működéséért folyamatosan dolgozunk – kevesebb leállás, nagyobb hatékonyság, biztonságos háttérrel.",
       "Korszerű IT biztonság: Adatvédelem és hálózati biztonság modern tűzfalakkal, mentési megoldásokkal és hozzáférés-kezeléssel – az adatbiztonság nálunk alap, nem extra.",
-      "Webfejlesztés és digitális jelenlét: Professzionális, reszponzív weboldalak és egyedi rendszerek, amelyek növelik céged online láthatóságát és bevonzák az ügyfeleket.",
-      "Felhőalapú megoldások és hosting: Gyors, biztonságos és skálázható tárhelyszolgáltatás weboldaladhoz, levelezésedhez és adatmentéseidhez – mindig elérhető, mindig stabil."
+      "Webfejlesztés és digitális jelenlét: Professzionális, reszponzív weboldalak és egyedi rendszerek, amelyek növelik céged online láthatóságát és bevonzák az ügyfeleket."
     ]
   },
   "testimonials": {
@@ -349,11 +349,12 @@
     "form": {
       "title": "Küldj üzenetet",
       "name": "Név",
+      "companyName": "Cégnév (opcionális)",
       "email": "E-mail",
       "service": "Melyik szolgáltatás iránt érdeklődsz?",
-      "servicePlaceholder": "Válassz egy szolgáltatást",
+      "servicePlaceholder": "Kérlek válassz...",
       "message": "Üzenet",
-      "submit": "Küldés",
+      "submit": "Kérj ingyenes IT konzultációt!",
       "submitting": "Küldés...",
       "required": "*",
       "success": "Üzeneted sikeresen elküldve! Hamarosan felvesszük veled a kapcsolatot.",
@@ -725,6 +726,14 @@
       "button": "Kérj egyedi ajánlatot"
     }
   },
+  "cookie": {
+    "title": "Sütik kezelése",
+    "description": "Weboldalunk sütiket használ a jobb felhasználói élmény és a forgalom elemzése érdekében. A \"Minden elfogadása\" gombra kattintva hozzájárul a sütik használatához.",
+    "accept": "Minden elfogadása",
+    "decline": "Elutasítás",
+    "manage": "Beállítások",
+    "privacy": "Adatvédelmi tájékoztató"
+  },
   "mindenCegnekPage": {
     "hero": {
       "badge": "Havidíjas IT támogatás",
@@ -794,6 +803,14 @@
       "title": "Nem kell saját IT-s, csak egy megbízható partner",
       "description": "Mi biztosítjuk a szakértelmet, a gyors reagálást és a stabil működést – Te pedig a cégedre koncentrálhatsz.",
       "button": "Kérem az ajánlatot"
+    }
+  },
+  "trust": {
+    "partners": {
+      "title": "Technológiai partnereink"
+    },
+    "reference": {
+      "quote": "Teljes körű IT átvétel és rendbetétel: egy 40 fős irodai hálózat stabilizálása és modernizálása kevesebb mint 30 nap alatt."
     }
   },
   "customDevelopmentPage": {

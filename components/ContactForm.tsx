@@ -13,10 +13,20 @@ import { useTranslation } from '@/hooks/useTranslation';
 export function ContactForm() {
   const { t } = useTranslation();
   const searchParams = useSearchParams();
+  const subjectParam = searchParams.get('subject');
+
+  useEffect(() => {
+    if (subjectParam) {
+      // Map legacy subject params to new service keys if possible, or just set it
+      // For now, we'll try to match basic ones or default
+      // This is a simple logic enhancement
+    }
+  }, [subjectParam]);
   const subject = searchParams.get('subject');
 
   const [formData, setFormData] = useState({
     name: '',
+    companyName: '',
     email: '',
     service: '',
     message: '',
@@ -62,7 +72,7 @@ export function ContactForm() {
         }
       } else {
         setSubmitSuccess(true);
-        setFormData({ name: '', email: '', service: '', message: '', honeypot: '' });
+        setFormData({ name: '', companyName: '', email: '', service: '', message: '', honeypot: '' });
         setTimeout(() => setSubmitSuccess(false), 5000);
         // Track successful form submission
         trackContactFormSubmission('contact');
@@ -76,32 +86,48 @@ export function ContactForm() {
 
   return (
     <form onSubmit={handleSubmit} className="space-y-6" noValidate>
-      <div className="space-y-2">
-        <Label htmlFor="name">
-          Név <span className="text-destructive">*</span>
-        </Label>
-        <Input
-          id="name"
-          name="name"
-          type="text"
-          value={formData.name}
-          onChange={handleChange}
-          required
-          aria-required="true"
-          aria-invalid={!!errors.name}
-          aria-describedby={errors.name ? 'name-error' : undefined}
-          className={errors.name ? 'border-destructive' : ''}
-        />
-        {errors.name && (
-          <p id="name-error" className="text-sm text-destructive" role="alert">
-            {errors.name}
-          </p>
-        )}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        <div className="space-y-2">
+          <Label htmlFor="name">
+            {t('contact.form.name')} <span className="text-brand-red">*</span>
+          </Label>
+          <Input
+            id="name"
+            name="name"
+            type="text"
+            value={formData.name}
+            onChange={handleChange}
+            required
+            aria-required="true"
+            aria-invalid={!!errors.name}
+            aria-describedby={errors.name ? 'name-error' : undefined}
+            className={errors.name ? 'border-destructive' : ''}
+          />
+          {errors.name && (
+            <p id="name-error" className="text-sm text-destructive" role="alert">
+              {errors.name}
+            </p>
+          )}
+        </div>
+
+        <div className="space-y-2">
+          <Label htmlFor="companyName">
+            {t('contact.form.companyName')}
+          </Label>
+          <Input
+            id="companyName"
+            name="companyName"
+            type="text"
+            value={formData.companyName}
+            onChange={handleChange}
+            className="bg-background"
+          />
+        </div>
       </div>
 
       <div className="space-y-2">
         <Label htmlFor="email">
-          E-mail <span className="text-destructive">*</span>
+          {t('contact.form.email')} <span className="text-brand-red">*</span>
         </Label>
         <Input
           id="email"
@@ -124,7 +150,7 @@ export function ContactForm() {
 
       <div className="space-y-2">
         <Label htmlFor="service">
-          Melyik szolgáltatás iránt érdeklődsz? <span className="text-destructive">*</span>
+          {t('contact.form.service')} <span className="text-brand-red">*</span>
         </Label>
         <select
           id="service"
@@ -138,16 +164,18 @@ export function ContactForm() {
           className={`flex h-10 w-full rounded-md border border-input bg-background px-3 py-2 text-sm ring-offset-background file:border-0 file:bg-transparent file:text-sm file:font-medium placeholder:text-muted-foreground focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:cursor-not-allowed disabled:opacity-50 ${errors.service ? 'border-destructive' : ''
             }`}
         >
-          <option value="">Válassz egy szolgáltatást</option>
-          <option value="Minden cégnek legyen informatikusa">Minden cégnek legyen informatikusa</option>
-          <option value="Rendszerüzemeltetés és IT karbantartás">Rendszerüzemeltetés és IT karbantartás</option>
-          <option value="Hálózatépítés és fejlesztés">Hálózatépítés és fejlesztés</option>
-          <option value="IT biztonság és adatvédelem">IT biztonság és adatvédelem</option>
-          <option value="Weboldal- és rendszerfejlesztés">Weboldal- és rendszerfejlesztés</option>
-          <option value="Kereskedelem – IT eszközök és szoftverek egy kézből">Kereskedelem – IT eszközök és szoftverek</option>
-          <option value="Hosting és felhőmegoldások">Hosting és felhőmegoldások</option>
-          <option value="Szerviz és javítás – helyszínen vagy postán">Szerviz és javítás</option>
-          <option value="IT oktatás és tudásfejlesztés">IT oktatás és tudásfejlesztés</option>
+          <option value="" disabled>
+            {t('contact.form.servicePlaceholder')}
+          </option>
+          <option value="mindenCegnek">{t('contact.form.options.mindenCegnek')}</option>
+          <option value="systemOperation">{t('contact.form.options.systemOperation')}</option>
+          <option value="networking">{t('contact.form.options.networking')}</option>
+          <option value="security">{t('contact.form.options.security')}</option>
+          <option value="development">{t('contact.form.options.development')}</option>
+          <option value="commerce">{t('contact.form.options.commerce')}</option>
+          <option value="hosting">{t('contact.form.options.hosting')}</option>
+          <option value="repair">{t('contact.form.options.repair')}</option>
+          <option value="training">{t('contact.form.options.training')}</option>
         </select>
         {errors.service && (
           <p id="service-error" className="text-sm text-destructive" role="alert">
@@ -158,7 +186,7 @@ export function ContactForm() {
 
       <div className="space-y-2">
         <Label htmlFor="message">
-          Üzenet <span className="text-destructive">*</span>
+          {t('contact.form.message')} <span className="text-brand-red">*</span>
         </Label>
         <Textarea
           id="message"
@@ -204,7 +232,7 @@ export function ContactForm() {
       {submitSuccess && (
         <div className="flex items-center gap-2 text-sm text-green-600 dark:text-green-400" role="status">
           <CheckCircle2 className="h-4 w-4" />
-          <span>Üzeneted sikeresen elküldve! Hamarosan felvesszük veled a kapcsolatot.</span>
+          <span>{t('contact.form.success')}</span>
         </div>
       )}
 
@@ -216,16 +244,16 @@ export function ContactForm() {
         {isSubmitting ? (
           <>
             <Loader2 className="mr-2 h-4 w-4 animate-spin" />
-            Küldés...
+            {t('contact.form.submitting')}
           </>
         ) : (
-          'Küldés'
+          t('contact.form.submit')
         )}
       </Button>
 
       <noscript>
         <p className="text-sm text-muted-foreground">
-          JavaScript nélkül is elküldheted az üzenetet:{' '}
+          {t('contact.form.noscript')}{' '}
           <a href="mailto:hello@sironic.hu" className="text-brand-red hover:underline">
             hello@sironic.hu
           </a>

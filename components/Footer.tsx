@@ -5,17 +5,19 @@ import { Mail, Phone, MapPin, Facebook, Linkedin } from 'lucide-react';
 import { trackPhoneClick, trackEmailClick } from '@/lib/analytics';
 import { useTranslation } from '@/hooks/useTranslation';
 import { getLocalizedPath } from '@/lib/routes';
+import { Locale } from '@/i18n';
 
 export function Footer() {
   const { t, locale } = useTranslation();
+  const currentLocale = locale as Locale;
 
   const footerLinks = [
-    { name: t('nav.services'), href: `/${locale}/${getLocalizedPath('services', locale)}` },
-    { name: t('nav.products'), href: `/${locale}/${getLocalizedPath('products', locale)}` },
-    { name: t('nav.pricing'), href: `/${locale}/${getLocalizedPath('pricing', locale)}` },
-    { name: t('nav.about'), href: `/${locale}/${getLocalizedPath('about', locale)}` },
-    { name: t('nav.blog'), href: `/${locale}/${getLocalizedPath('blog', locale)}` },
-    { name: t('nav.contact'), href: `/${locale}/${getLocalizedPath('contact', locale)}` },
+    { name: t('nav.services'), href: `/${locale}/${getLocalizedPath('services', currentLocale)}` },
+    { name: t('nav.products'), href: `/${locale}/${getLocalizedPath('products', currentLocale)}` },
+    { name: t('nav.pricing'), href: `/${locale}/${getLocalizedPath('pricing', currentLocale)}` },
+    { name: t('nav.about'), href: `/${locale}/${getLocalizedPath('about', currentLocale)}` },
+    { name: t('nav.blog'), href: `/${locale}/${getLocalizedPath('blog', currentLocale)}` },
+    { name: t('nav.contact'), href: `/${locale}/${getLocalizedPath('contact', currentLocale)}` },
   ];
 
   return (

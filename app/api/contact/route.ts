@@ -6,6 +6,7 @@ const DISCORD_WEBHOOK_URL = process.env.DISCORD_WEBHOOK_URL || 'https://discord.
 
 async function sendDiscordNotification(data: {
   name: string;
+  companyName?: string;
   email: string;
   service: string;
   message: string;
@@ -19,6 +20,11 @@ async function sendDiscordNotification(data: {
       {
         name: '👤 Név',
         value: data.name,
+        inline: true,
+      },
+      {
+        name: '🏢 Cégnév',
+        value: data.companyName || 'Nincs megadva',
         inline: true,
       },
       {
@@ -107,6 +113,7 @@ export async function POST(request: NextRequest) {
 
     const sanitizedData = {
       name: sanitizeInput(body.name),
+      companyName: body.companyName ? sanitizeInput(body.companyName) : undefined,
       email: sanitizeInput(body.email),
       service: sanitizeInput(body.service),
       message: sanitizeInput(body.message),
@@ -117,6 +124,7 @@ export async function POST(request: NextRequest) {
     // Send Discord notification
     const discordSuccess = await sendDiscordNotification({
       name: sanitizedData.name,
+      companyName: sanitizedData.companyName,
       email: sanitizedData.email,
       service: sanitizedData.service,
       message: sanitizedData.message,

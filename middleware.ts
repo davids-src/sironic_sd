@@ -91,6 +91,16 @@ export function middleware(request: NextRequest) {
       '/es/servicios': '/es/szolgaltatasok',
       '/es/productos': '/es/termekeink',
       '/es/contacto': '/es/kapcsolat',
+      '/es/privacidad': '/es/adatvedelem',
+      // Privacy pages for all locales
+      '/en/privacy-policy': '/en/adatvedelem',
+      '/de/datenschutz': '/de/adatvedelem',
+      '/sk/ochrana-udajov': '/sk/adatvedelem',
+      '/ro/confidentialitate': '/ro/adatvedelem',
+      '/hr/zastita-podataka': '/hr/adatvedelem',
+      '/sl/zasebnost': '/sl/adatvedelem',
+      '/fr/politique-de-confidentialite': '/fr/adatvedelem',
+      '/it/privacy': '/it/adatvedelem',
     };
 
     // Check if this URL needs to be rewritten

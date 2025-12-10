@@ -220,6 +220,14 @@
       "Soluții cloud și hosting: Hosting rapid, sigur și scalabil pentru site-urile web, e-mailurile și backup-urile de date – întotdeauna accesibil, întotdeauna stabil."
     ]
   },
+  "trust": {
+    "partners": {
+      "title": "Partenerii noștri tehnologici"
+    },
+    "reference": {
+      "quote": "Prereluare completă IT și curățare: stabilizarea și modernizarea rețelei de birouri pentru 40 de persoane în mai puțin de 30 de zile."
+    }
+  },
   "testimonials": {
     "title": "Ce spun clienții noștri",
     "items": [
@@ -692,6 +700,14 @@
       ],
       "button": "Solicită ofertă personalizată"
     }
+  },
+  "cookie": {
+    "title": "Setări cookie-uri",
+    "description": "Folosim cookie-uri pentru a vă îmbunătăți experiența de navigare și pentru a analiza traficul. Făcând clic pe \"Acceptă toate\", sunteți de acord cu utilizarea cookie-urilor.",
+    "accept": "Acceptă toate",
+    "decline": "Refuză",
+    "manage": "Setări",
+    "privacy": "Politica de confidențialitate"
   },
   "mindenCegnekPage": {
     "hero": {

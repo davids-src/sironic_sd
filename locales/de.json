@@ -156,88 +156,120 @@
   },
   "hero": {
     "badge": "Neuer Service",
-    "title": "IT-Lösungen, als hätten Sie Ihr eigenes Team",
-    "subtitle": "Professionelles IT-Infrastrukturmanagement, schnelle Wartung und persönliche Unterstützung für kleine und mittelständische Unternehmen.",
+    "title": "Professioneller IT-Betrieb & Netzwerkaufbau mit EU-Sicherheitsstandards",
+    "subtitle": "Stabile und sichere IT-Lösungen für KMU mit garantierter Verfügbarkeit.",
     "cta": "Kostenlose Beratung",
-    "learnMore": "Mehr erfahren"
+    "learnMore": "Kontakt aufnehmen"
   },
   "services": {
     "title": "Unsere Dienstleistungen",
-    "subtitle": "Umfassende IT-Lösungen für das Wachstum Ihres Unternehmens",
-    "viewAll": "Alle Dienstleistungen ansehen",
+    "subtitle": "Umfassende IT-Lösungen für Ihr Unternehmenswachstum",
+    "viewAll": "Alle Leistungen",
     "systemOperation": {
       "title": "Systemverwaltung & IT-Wartung",
-      "description": "Stabiler, sicherer und schneller Betrieb – wir überwachen Ihre Systeme kontinuierlich, bevor Probleme entstehen. Weniger Ausfallzeiten, höhere Effizienz."
+      "description": "Umfassende Systemwartung, kontinuierliche Überwachung und Support für KMU, vollständig EU-konform."
     },
     "networking": {
-      "title": "Netzwerkplanung & -entwicklung",
-      "description": "Wir planen, implementieren und optimieren die Netzwerkinfrastruktur Ihres Unternehmens, damit jedes Gerät zuverlässig, schnell und sicher verbunden ist."
+      "title": "Netzwerkaufbau & -entwicklung",
+      "description": "Planung, Aufbau und Betrieb moderner, sicherer Netzwerkinfrastrukturen."
     },
     "security": {
       "title": "IT-Sicherheit & Datenschutz",
-      "description": "Schützen Sie Ihre Unternehmensdaten! Moderne Firewalls, sichere Backups, Zugriffskontrolle – Datensicherheit ist bei uns Standard, nicht optional."
+      "description": "Sicherheitsaudits, Zugriffsmanagement und Datenschutz gemäß EU-Vorschriften."
     },
     "development": {
-      "title": "Website- & Softwareentwicklung",
-      "description": "Wir erstellen professionelle, responsive Websites und maßgeschneiderte Softwarelösungen, damit Ihr Unternehmen online hervorsticht."
+      "title": "Webseiten- & Systementwicklung",
+      "description": "Schnelle und sichere Firmenwebseiten und Webshop-Entwicklung mit modernen Technologien."
     },
     "commerce": {
-      "title": "IT-Ausstattung & Software-Beschaffung",
-      "description": "Alles, was Sie für den Bürobetrieb benötigen – Computer, Monitore, Drucker, Server und Softwarelizenzen, alles aus einer Hand."
+      "title": "Handel – IT-Geräte & Software",
+      "description": "Alles für den Bürobetrieb – Computer, Monitore, Drucker, Server und Softwarelizenzen aus einer Hand."
     },
     "hosting": {
       "title": "Hosting & Cloud-Lösungen",
-      "description": "Stabiles, schnelles und sicheres Hosting für Websites, E-Mail und Datensicherung. Webhosting, dedizierte Server und Cloud-Speicher."
+      "description": "Stabiles, schnelles und sicheres Hosting für Webseiten, E-Mails und Backups. Webhosting, Serververmietung und Cloud-Backup."
     },
     "repair": {
-      "title": "Reparatur & Wartungsservice",
-      "description": "Schnelle und zuverlässige Reparatur von Computern, Laptops und Servern, entweder vor Ort oder per Einsendung. Transparente Kostenvoranschläge und schnelle Bearbeitung."
+      "title": "Service & Reparatur",
+      "description": "Schnelle und zuverlässige Reparatur von Computern, Laptops und Servern vor Ort oder per Einsendung. Transparente Angebote."
+    }
+  },
+  "customDevelopment": {
+    "badge": "Individuelle Softwareentwicklung",
+    "title": "Individuelle Anwendungsentwicklung für Ihr Unternehmen",
+    "subtitle": "Skalierbare, sichere und geschäftsorientierte Software",
+    "description": "Das SIRONIC-Team bietet umfassende individuelle Anwendungsentwicklung. Von Webanwendungen bis hin zu Windows-Software und mobilen Apps – alle Lösungen maßgeschneidert mit modernen Technologien.",
+    "cards": {
+      "webApps": {
+        "title": "Webanwendungsentwicklung",
+        "description": "TailScript- und React-basierte Unternehmensanwendungen. Skalierbare, schnelle Lösungen für komplexe Prozesse."
+      },
+      "desktop": {
+        "title": "Windows-Desktop-Software",
+        "description": "Native Windows-Entwicklung. Effiziente, schnelle und zuverlässige Software für Büroumgebungen."
+      },
+      "mobile": {
+        "title": "Mobile App-Entwicklung",
+        "description": "Android- und iOS-App-Erstellung. Moderne, intuitive mobile Lösungen für alle Geräte."
+      }
+    },
+    "cta": {
+      "main": "Angebot für Entwicklung anfordern",
+      "learnMore": "Mehr erfahren"
     }
   },
   "mindenCegnek": {
     "badge": "Monatlicher IT-Support",
     "title": "Jedes Unternehmen verdient eine IT-Abteilung",
-    "subtitle": "IT-Lösungen, als hätten Sie Ihr eigenes IT-Team",
-    "description": "Sie müssen keinen Vollzeit-IT-Spezialisten einstellen, um stabile, sichere und schnelle Systeme zu haben. SIRONICs monatliches Abo funktioniert, als wären wir Teil Ihres Unternehmens – Sie zahlen aber nur für das, was Sie tatsächlich benötigen.",
+    "subtitle": "IT-Lösungen, als hätten Sie Ihren eigenen IT-Spezialisten",
+    "description": "Sie müssen keinen IT-Spezialisten einstellen, um stabile Systeme zu haben. Das monatliche Abo von SIRONIC funktioniert wie ein internes Team – Sie zahlen aber nur für das, was Sie brauchen.",
     "features": {
-      "costEffective": "Kosteneffiziente, infrastrukturoptimierte IT-Unterstützung – flexibel, zuverlässig und transparent.",
-      "discount": "Gültig bis 1. Februar 2026: Alle Partner, die eine Beratung anfordern, erhalten 10 % Rabatt auf die ersten 3 Monate!"
+      "costEffective": "Kosteneffizienter, optimierter IT-Support – flexibel, zuverlässig, transparent.",
+      "discount": "Gültig bis 1. Feb. 2026: 10% Rabatt auf die ersten 3 Monate bei Beratungsanfragen!"
     },
     "cta": {
-      "consultation": "Beratung anfordern",
+      "consultation": "Kostenlose IT-Beratung anfordern!",
       "learnMore": "Mehr erfahren"
     }
   },
   "whyChooseUs": {
     "title": "Warum uns wählen?",
     "reasons": [
-      "Zuverlässigkeit: Über 5 Jahre Erfahrung in der Planung und Verwaltung von IT-Systemen.",
-      "Proaktiver Ansatz: Wir denken voraus – wir handeln, bevor Probleme entstehen, nicht danach.",
-      "Transparente Preisgestaltung: Keine versteckten Gebühren, feste monatliche Wartung oder einmalige Lösungen.",
-      "Echte menschliche Kommunikation: Keine endlosen Ticket-Warteschlangen – Sie erreichen uns immer direkt.",
-      "Umfassender IT-Betrieb: Wir arbeiten kontinuierlich daran, Ihre Systeme stabil und schnell zu halten – weniger Ausfallzeiten, höhere Effizienz, sichere Infrastruktur.",
-      "Moderne IT-Sicherheit: Datenschutz und Netzwerksicherheit mit modernsten Firewalls, Backup-Lösungen und Zugriffsverwaltung – Sicherheit ist Standard, nicht optional.",
-      "Webentwicklung und digitale Präsenz: Professionelle, responsive Websites und individuelle Systeme, die Ihre Online-Sichtbarkeit erhöhen und Kunden anziehen.",
-      "Cloud-basierte Lösungen und Hosting: Schnelles, sicheres und skalierbares Hosting für Ihre Websites, E-Mails und Datensicherungen – immer erreichbar, immer stabil."
+      "Garantierte Reaktionszeit: Wir bieten schnelles Eingreifen mit festen SLAs für unsere Vertragspartner.",
+      "Kontinuierliche Systemüberwachung: 24/7 Monitoring-Service zur Fehlerprävention.",
+      "Proaktive Wartung: Wir denken voraus und handeln, bevor Probleme entstehen.",
+      "Zuverlässigkeit: 5+ Jahre Erfahrung in Planung und Betrieb von Systemen.",
+      "Transparente Kosten: Keine versteckten Gebühren, feste monatliche Wartung oder Ad-hoc-Lösungen.",
+      "Echte menschliche Kommunikation: Kein 'Ticket-Dschungel' – Sie erreichen uns immer.",
+      "Moderne IT-Sicherheit: Datenschutz und Netzwerksicherheit mit modernen Firewalls, Backups und Zugriffsmanagement – Sicherheit ist Standard.",
+      "Webentwicklung & digitale Präsenz: Professionelle Webseiten und individuelle Systeme, die Ihre Online-Sichtbarkeit erhöhen."
     ]
+  },
+  "trust": {
+    "partners": {
+      "title": "Unsere Technologiepartner"
+    },
+    "reference": {
+      "quote": "Komplette IT-Übernahme und Bereinigung: Stabilisierung und Modernisierung eines Büronetzwerks für 40 Personen in weniger als 30 Tagen."
+    }
   },
   "testimonials": {
     "title": "Was unsere Kunden sagen",
     "items": [
       {
-        "quote": "Mit dem SIRONIC-Team schlafen wir endlich ruhig: Unsere IT-Systeme laufen stabil, schnell und sicher. Bei Problemen reagieren sie sofort und erklären alles in verständlicher Sprache – kein Fachjargon. Solch einen zuverlässigen Partner in der IT-Welt zu finden, ist selten.",
+        "quote": "Mit dem SIRONIC-Team schlafen wir endlich ruhig: Unsere IT-Systeme laufen stabil, schnell und sicher. Bei Problemen reagieren sie sofort und erklären alles verständlich. Ein so zuverlässiger Partner ist selten.",
         "company": "Pervector GmbH"
       },
       {
-        "quote": "Früher hatten wir ständig Probleme mit Computern und dem Netzwerk, aber seit wir SIRONIC mit unserer IT betraut haben, läuft alles reibungslos. Sie helfen schnell, unabhängig vom Problem, und wir finden immer Lösungen mit ihnen. Genau diese Art von Support braucht jedes Unternehmen.",
+        "quote": "Früher hatten wir ständig Probleme, aber seit SIRONIC unsere IT betreut, läuft alles glatt. Sie helfen schnell, egal welches Problem auftritt. Genau diesen Support braucht jedes Unternehmen.",
         "company": "Bocskai Alba Flexum GmbH"
       },
       {
-        "quote": "SIRONIC hat eine moderne, übersichtliche und mobilfreundliche Website für uns erstellt, die nicht nur großartig aussieht, sondern unseren Kunden hilft, uns online leicht zu finden. Sie kümmern sich seitdem um die Wartung – jedes Update und jede Änderung erfolgt schnell und präzise. Wir haben umfassenden, professionellen Service erhalten.",
+        "quote": "SIRONIC hat eine moderne, übersichtliche Webseite für uns erstellt, die toll aussieht und Kunden hilft, uns zu finden. Wartung und Updates erfolgen schnell und präzise. Umfassender, professioneller Service.",
         "company": "Bull & U GmbH"
       },
       {
-        "quote": "Wir wollten eine klare, schnelle und moderne Website – SIRONIC hat genau das geliefert. Professionelles Team, Liebe zum Detail, und sie haben immer großartige Ideen, um das Ergebnis noch besser zu machen. Unsere neue Website spiegelt perfekt die Identität unseres Unternehmens wider.",
+        "quote": "Wir wollten eine klare, schnelle und moderne Webseite – SIRONIC hat genau das geliefert. Professionelles Team mit tollen Ideen. Unsere neue Webseite spiegelt unser Unternehmen perfekt wider.",
         "company": "Regia Dental GmbH"
       }
     ]
@@ -253,7 +285,7 @@
       {
         "step": "2",
         "title": "IT-Bewertung",
-        "description": "Wir prüfen Ihre Anforderungen und geben fachkundige Empfehlungen."
+        "description": "Wir prüfen Ihre Bedürfnisse und geben fachkundige Empfehlungen."
       },
       {
         "step": "3",
@@ -267,74 +299,75 @@
     "items": [
       {
         "question": "Welche Unternehmen bedienen Sie?",
-        "answer": "SIRONIC ist auf kleine und mittlere Unternehmen spezialisiert, bietet aber auch Lösungen für größere Unternehmen an. Ob Systemadministration, Netzwerkaufbau oder Webentwicklung – wir finden die ideale IT-Lösung für jedes Unternehmen."
+        "answer": "SIRONIC ist auf KMU spezialisiert, bietet aber auch Lösungen für größere Unternehmen. Ob Systemadministration, Netzwerkaufbau oder Webentwicklung – wir finden die ideale Lösung."
       },
       {
-        "question": "Wie unterscheidet sich SIRONIC von anderen IT-Dienstleistern?",
-        "answer": "Wir sind nicht nur 'Problemlöser' – wir überwachen Systeme proaktiv, verhindern Probleme und kommunizieren in verständlicher Sprache. Wir lassen IT kein Hindernis sein, sondern machen sie zum Wettbewerbsvorteil."
+        "question": "Wie unterscheidet sich SIRONIC von anderen?",
+        "answer": "Wir sind nicht nur 'Problemlöser' – wir überwachen proaktiv, verhindern Probleme und kommunizieren verständlich. IT soll kein Hindernis sein, sondern ein Wettbewerbsvorteil."
       },
       {
-        "question": "Wie schnell reagieren Sie auf eine Fehlermeldung?",
-        "answer": "Im Allgemeinen reagieren wir innerhalb von 1–4 Stunden, in dringenden Fällen sogar sofort. Für unsere Vertragspartner garantieren wir Reaktionszeiten."
+        "question": "Wie schnell reagieren Sie auf Fehler?",
+        "answer": "Allgemein innerhalb von 1–4 Stunden, in dringenden Fällen sofort. Für Vertragspartner garantieren wir Reaktionszeiten."
       },
       {
-        "question": "Übernehmen Sie auch Vor-Ort-Einsätze oder nur Fernwartung?",
-        "answer": "Ja, beides! Wir beheben die meisten Fehler aus der Ferne, kommen aber bei Bedarf auch persönlich vorbei."
+        "question": "Kommen Sie auch vor Ort?",
+        "answer": "Ja! Wir lösen das Meiste aus der Ferne, kommen aber bei Bedarf auch persönlich vorbei."
       },
       {
-        "question": "Erstellen Sie Websites auch komplett von Grund auf?",
-        "answer": "Natürlich. Wir entwickeln individuelle, responsive Websites mit modernen Technologien (Next.js, React, Tailwind) und sorgen dafür, dass die Seite schnell, sicher und suchmaschinenoptimiert ist."
+        "question": "Erstellen Sie Webseiten von Grund auf?",
+        "answer": "Natürlich. Wir entwickeln individuelle, responsive Webseiten mit modernen Technologien (Next.js, React), schnell, sicher und SEO-optimiert."
       },
       {
-        "question": "Was ist CRM Pro und wie hilft es meinem Unternehmen?",
-        "answer": "CRM Pro ist ein individuell entwickeltes Kundenmanagementsystem, das Vertriebsprozesse transparent macht, die Verwaltung automatisiert und in bestehende Systeme integriert werden kann. Auch für kleinere Unternehmen erschwinglich."
+        "question": "Was ist CRM Pro?",
+        "answer": "Ein individuell entwickeltes Kundenmanagementsystem, das Vertriebsprozesse transparent macht und Administration automatisiert. Auch für kleinere Firmen erschwinglich."
       },
       {
-        "question": "Welche Sicherheitsmaßnahmen wenden Sie an?",
-        "answer": "Wir verwenden moderne Firewalls, Datensicherungslösungen, Verschlüsselung und Zugriffsverwaltung. Wir gestalten alle unsere Systeme DSGVO-konform, sodass Datensicherheit Standard ist."
+        "question": "Welche Sicherheitsmaßnahmen nutzen Sie?",
+        "answer": "Moderne Firewalls, Backups, Verschlüsselung und Zugriffsverwaltung. Alle Systeme sind DSGVO-konform, Sicherheit ist Standard."
       },
       {
-        "question": "In welcher Form kann man Sie beauftragen?",
-        "answer": "Wir arbeiten in zwei Hauptmodellen: Einzelauftrag (für gelegentliche Aufgaben) und monatlicher Wartungsvertrag (dauerhafter Betrieb und Support). Beide sind transparent und haben Festpreise."
+        "question": "Wie sind die Vertragsmodelle?",
+        "answer": "Zwei Hauptmodelle: Einzelauftrag (gelegentliche Aufgaben) und monatlicher Wartungsvertrag (dauerhafter Support). Beide transparent mit Festpreisen."
       },
       {
-        "question": "Wie viel kostet die Entwicklung einer Website oder eines Systems?",
-        "answer": "Basis-Websites beginnen ab 250.000 HUF, während der Preis für individuelle Systeme oder CRM-Lösungen je nach Funktionalität festgelegt wird. Wir geben vor jedem Projekt ein genaues Preisangebot ab."
+        "question": "Was kostet eine Webseite oder System?",
+        "answer": "Basis-Webseiten ab 250.000 HUF, individuelle Systeme je nach Funktionalität. Wir geben immer ein genaues Angebot ab."
       },
       {
-        "question": "Warum lohnt es sich, Cloud-Lösungen zu wählen?",
-        "answer": "Die Cloud ist schnell, sicher und flexibel – kein eigener Server nötig, Daten sind immer verfügbar und Erweiterungen sind in Momenten möglich."
+        "question": "Warum Cloud-Lösungen?",
+        "answer": "Schnell, sicher und flexibel – kein eigener Server nötig, Daten immer verfügbar, Erweiterung in Momenten möglich."
       }
     ]
   },
   "finalCta": {
     "title": "Bereit für sorgenfreie IT?",
-    "description": "Fordern Sie eine kostenlose Beratung an und lassen Sie uns gemeinsam die beste Lösung für Ihr Unternehmen finden.",
+    "description": "Fordern Sie eine kostenlose Beratung an und lassen Sie uns die beste Lösung finden.",
     "button": "Jetzt Angebot anfordern"
   },
   "contact": {
     "title": "Kontakt",
-    "subtitle": "Haben Sie Fragen oder möchten Sie eine kostenlose Beratung? Kontaktieren Sie uns, wir antworten umgehend!",
+    "subtitle": "Haben Sie Fragen oder möchten Sie eine kostenlose Beratung? Kontaktieren Sie uns!",
     "form": {
       "title": "Nachricht senden",
       "name": "Name",
+      "companyName": "Firmenname (Optional)",
       "email": "E-Mail",
       "service": "Welcher Service interessiert Sie?",
-      "servicePlaceholder": "Wählen Sie einen Service",
+      "servicePlaceholder": "Bitte auswählen...",
       "message": "Nachricht",
-      "submit": "Senden",
+      "submit": "Kostenlose IT-Beratung anfordern!",
       "submitting": "Wird gesendet...",
       "required": "*",
-      "success": "Ihre Nachricht wurde erfolgreich gesendet! Wir melden uns in Kürze bei Ihnen.",
-      "error": "Beim Senden Ihrer Nachricht ist ein Fehler aufgetreten",
-      "noscript": "Sie können Ihre Nachricht auch per E-Mail senden:",
+      "success": "Nachricht erfolgreich gesendet! Wir melden uns in Kürze.",
+      "error": "Fehler beim Senden der Nachricht.",
+      "noscript": "Sie können auch per E-Mail senden:",
       "options": {
-        "placeholder": "Wählen Sie eine Dienstleistung",
+        "placeholder": "Bitte auswählen",
         "mindenCegnek": "Jedes Unternehmen sollte einen IT-Spezialisten haben",
         "systemOperation": "Systembetrieb und IT-Wartung",
         "networking": "Netzwerkaufbau und -entwicklung",
         "security": "IT-Sicherheit und Datenschutz",
-        "development": "Website- und Systementwicklung",
+        "development": "Webseiten- und Systementwicklung",
         "commerce": "Handel – IT-Geräte und Software",
         "hosting": "Hosting und Cloud-Lösungen",
         "repair": "Service und Reparatur",
@@ -352,7 +385,7 @@
       "hours": "Öffnungszeiten",
       "hoursValue": "Montag – Freitag\n8:00 – 17:00 Uhr",
       "quickResponse": "Schnelle Antwort",
-      "quickResponseText": "Wir antworten in der Regel innerhalb von 24 Stunden an Werktagen auf alle Anfragen. Bei dringenden Angelegenheiten rufen Sie uns bitte an!"
+      "quickResponseText": "Wir antworten i.d.R. innerhalb von 24 Stunden an Werktagen. Bei Dringlichkeit bitte anrufen!"
     }
   },
   "footer": {
@@ -693,6 +726,14 @@
       ],
       "button": "Individuelles Angebot anfordern"
     }
+  },
+  "cookie": {
+    "title": "Cookie-Einstellungen",
+    "description": "Wir verwenden Cookies, um Ihr Browsing-Erlebnis zu verbessern und unseren Traffic zu analysieren. Durch Klicken auf \"Alle akzeptieren\" stimmen Sie der Verwendung von Cookies zu.",
+    "accept": "Alle akzeptieren",
+    "decline": "Ablehnen",
+    "manage": "Einstellungen",
+    "privacy": "Datenschutzerklärung"
   },
   "mindenCegnekPage": {
     "hero": {

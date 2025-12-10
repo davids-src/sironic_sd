@@ -226,6 +226,14 @@
       "Soluzioni cloud e hosting: Hosting veloce, sicuro e scalabile per i tuoi siti web, email e backup dati – sempre accessibile, sempre stabile."
     ]
   },
+  "trust": {
+    "partners": {
+      "title": "I nostri partner tecnologici"
+    },
+    "reference": {
+      "quote": "Acquisizione completa e pulizia IT: stabilizzazione e modernizzazione della rete d'ufficio per 40 persone in meno di 30 giorni."
+    }
+  },
   "testimonials": {
     "title": "Cosa Dicono i Nostri Clienti",
     "items": [
@@ -698,6 +706,14 @@
       ],
       "button": "Richiedi Preventivo Personalizzato"
     }
+  },
+  "cookie": {
+    "title": "Impostazioni cookie",
+    "description": "Utilizziamo i cookie per migliorare la tua esperienza di navigazione e analizzare il nostro traffico. Facendo clic su \"Accetta tutto\", acconsenti all'uso dei cookie.",
+    "accept": "Accetta tutto",
+    "decline": "Rifiuta",
+    "manage": "Impostazioni",
+    "privacy": "Informativa sulla privacy"
   },
   "mindenCegnekPage": {
     "hero": {

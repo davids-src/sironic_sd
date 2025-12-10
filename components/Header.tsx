@@ -8,19 +8,21 @@ import { ThemeToggle } from './ThemeToggle';
 import { LanguageSwitcher } from './LanguageSwitcher';
 import { useTranslation } from '@/hooks/useTranslation';
 import { getLocalizedPath } from '@/lib/routes';
+import { Locale } from '@/i18n';
 
 export function Header() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
   const { t, locale } = useTranslation();
+  const currentLocale = locale as Locale;
 
   const navigation = [
     { name: t('nav.home'), href: `/${locale}` },
-    { name: t('nav.services'), href: `/${locale}/${getLocalizedPath('services', locale)}` },
-    { name: t('nav.products'), href: `/${locale}/${getLocalizedPath('products', locale)}` },
-    { name: t('nav.pricing'), href: `/${locale}/${getLocalizedPath('pricing', locale)}` },
-    { name: t('nav.about'), href: `/${locale}/${getLocalizedPath('about', locale)}` },
-    { name: t('nav.blog'), href: `/${locale}/${getLocalizedPath('blog', locale)}` },
-    { name: t('nav.contact'), href: `/${locale}/${getLocalizedPath('contact', locale)}` },
+    { name: t('nav.services'), href: `/${locale}/${getLocalizedPath('services', currentLocale)}` },
+    { name: t('nav.products'), href: `/${locale}/${getLocalizedPath('products', currentLocale)}` },
+    { name: t('nav.pricing'), href: `/${locale}/${getLocalizedPath('pricing', currentLocale)}` },
+    { name: t('nav.about'), href: `/${locale}/${getLocalizedPath('about', currentLocale)}` },
+    { name: t('nav.blog'), href: `/${locale}/${getLocalizedPath('blog', currentLocale)}` },
+    { name: t('nav.contact'), href: `/${locale}/${getLocalizedPath('contact', currentLocale)}` },
   ];
 
   return (
@@ -64,7 +66,7 @@ export function Header() {
           <LanguageSwitcher />
           <ThemeToggle />
           <Button asChild className="bg-brand-red hover:bg-brand-red/90 button-press glow-red-hover shadow-md">
-            <Link href={`/${locale}/${getLocalizedPath('contact', locale)}`}>{t('nav.ctaButton')}</Link>
+            <Link href={`/${locale}/${getLocalizedPath('contact', currentLocale)}`}>{t('nav.ctaButton')}</Link>
           </Button>
         </div>
       </nav>
@@ -83,7 +85,7 @@ export function Header() {
             ))}
             <div className="pt-2 w-full max-w-xs">
               <Button asChild className="w-full bg-brand-red hover:bg-brand-red/90 button-press shadow-lg">
-                <Link href={`/${locale}/${getLocalizedPath('contact', locale)}`} onClick={() => setMobileMenuOpen(false)}>
+                <Link href={`/${locale}/${getLocalizedPath('contact', currentLocale)}`} onClick={() => setMobileMenuOpen(false)}>
                   {t('nav.ctaButton')}
                 </Link>
               </Button>

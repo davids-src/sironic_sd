@@ -253,6 +253,14 @@
       "Cloud rješenja i hosting: Brza, sigurna i skalabilna usluga hostinga za vašu web stranicu, e-poštu i backup podataka – uvijek dostupno, uvijek stabilno."
     ]
   },
+  "trust": {
+    "partners": {
+      "title": "Naši tehnološki partneri"
+    },
+    "reference": {
+      "quote": "Kompletno IT preuzimanje i čišćenje: stabilizacija i modernizacija uredske mreže za 40 osoba u manje od 30 dana."
+    }
+  },
   "testimonials": {
     "title": "Što kažu naši klijenti?",
     "items": [
@@ -726,15 +734,23 @@
       "button": "Zatraži jedinstvenu ponudu"
     }
   },
+  "cookie": {
+    "title": "Postavke kolačića",
+    "description": "Koristimo kolačiće kako bismo poboljšali vaše iskustvo pregledavanja i analizirali promet. Klikom na \"Prihvati sve\" pristajete na upotrebu kolačića.",
+    "accept": "Prihvati sve",
+    "decline": "Odbij",
+    "manage": "Postavke",
+    "privacy": "Politika privatnosti"
+  },
   "mindenCegnekPage": {
     "hero": {
-      "badge": "Havidíjas IT támogatás",
-      "title": "Minden cégnek legyen informatikusa",
-      "subtitle": "Mintha saját IT-sod lenne",
-      "description": "Egy szolgáltatás, ahol nem alkalmaznod kell egy informatikust – hanem kapsz egy teljes csapatot, aki a háttérben mindent naprakészen tart, figyel, karbantart, és csak akkor avatkozik be, amikor kell.",
-      "cta": "Kérj előzetes konzultációt",
-      "discount": "2026 Február 1-ig érvényes minden előzetes konzultációt kérő partnerünknek 10% kedvezményt adunk az első 3 hónap havidíjából!",
-      "scroll": "Görgess lejjebb a további információkhoz"
+      "badge": "Mjesečna IT podrška",
+      "title": "Svaka tvrtka treba informatičara",
+      "subtitle": "Kao da imate vlastitog informatičara",
+      "description": "Usluga gdje ne morate zaposliti informatičara – već dobivate cijeli tim koji u pozadini sve održava ažurnim, prati, održava i intervenira samo kada je potrebno.",
+      "cta": "Zatražite prethodno savjetovanje",
+      "discount": "Vrijedi do 1. veljače 2026.: 10% popusta na mjesečnu naknadu za prva 3 mjeseca za sve partnere koji zatraže savjetovanje!",
+      "scroll": "Skrolajte dolje za više informacija"
     },
     "whatYouGet": {
       "title": "Što točno dobivate?",
@@ -753,7 +769,7 @@
           "description": "Pratimo servere, mrežu i sustave kako bismo greške riješili i prije nego što ih primijetite."
         },
         "cost": {
-          "title": "Költséghatékony, transparentna struktura cijena",
+          "title": "Isplativa, transparentna struktura cijena",
           "description": "Uz fiksnu mjesečnu naknadu plaćate samo ono čime se stvarno treba baviti – na temelju unaprijed dogovorenog cjenika."
         },
         "reporting": {
@@ -764,7 +780,7 @@
     },
     "benefits": {
       "title": "Zašto je to dobro za vas?",
-      "subtitle": "Költséghatékony, transparentna i pouzdana IT podrška – bez potrebe za održavanjem vlastitog IT odjela.",
+      "subtitle": "Isplativa, transparentna i pouzdana IT podrška – bez potrebe za održavanjem vlastitog IT odjela.",
       "items": [
         "Ne morate zaposliti vlastitog informatičara – ali netko pazi na vaše sustave",
         "Fiksna mjesečna naknada, predvidljivi troškovi",
@@ -794,7 +810,7 @@
     "finalCta": {
       "title": "Ne treba vam vlastiti informatičar, samo pouzdan partner",
       "description": "Mi osiguravamo stručnost, brzu reakciju i stabilan rad – a vi se možete koncentrirati na svoju tvrtku.",
-      "button": "Kérem az ajánlatot"
+      "button": "Zatraži ponudu"
     }
   },
   "customDevelopmentPage": {

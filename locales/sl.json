@@ -226,6 +226,14 @@
             "Oblačne rešitve in gostovanje: Hitro, varno in razširljivo gostovanje za vaše spletne strani, e-pošto in varnostne kopije – vedno dostopno, vedno stabilno."
         ]
     },
+    "trust": {
+        "partners": {
+            "title": "Naši tehnološki partnerji"
+        },
+        "reference": {
+            "quote": "Popoln prevzem in čiščenje IT: stabilizacija in posodobitev pisarniškega omrežja za 40 oseb v manj kot 30 dneh."
+        }
+    },
     "testimonials": {
         "title": "Kaj pravijo naše stranke",
         "items": [
@@ -698,6 +706,14 @@
             ],
             "button": "Zahtevaj ponudbo po meri"
         }
+    },
+    "cookie": {
+        "title": "Nastavitve piškotkov",
+        "description": "Uporabljamo piškotke za izboljšanje vaše izkušnje brskanja in analizo prometa. S klikom na \"Sprejmi vse\" se strinjate z uporabo piškotkov.",
+        "accept": "Sprejmi vse",
+        "decline": "Zavrni",
+        "manage": "Nastavitve",
+        "privacy": "Politika zasebnosti"
     },
     "mindenCegnekPage": {
         "hero": {

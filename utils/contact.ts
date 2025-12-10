@@ -1,5 +1,6 @@
 export interface ContactFormData {
   name: string;
+  companyName?: string;
   email: string;
   service: string;
   message: string;

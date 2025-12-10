@@ -226,6 +226,14 @@
       "Solutions cloud et hébergement : Hébergement rapide, sûr et évolutif pour vos sites, emails et sauvegardes – toujours accessible, toujours stable."
     ]
   },
+  "trust": {
+    "partners": {
+      "title": "Nos partenaires technologiques"
+    },
+    "reference": {
+      "quote": "Reprise complète et nettoyage IT : stabilisation et modernisation du réseau de bureau pour 40 personnes en moins de 30 jours."
+    }
+  },
   "testimonials": {
     "title": "Ce que disent nos clients",
     "items": [
@@ -698,6 +706,14 @@
       ],
       "button": "Demander un devis personnalisé"
     }
+  },
+  "cookie": {
+    "title": "Paramètres des cookies",
+    "description": "Nous utilisons des cookies pour améliorer votre expérience de navigation et analyser notre trafic. En cliquant sur \"Tout accepter\", vous consentez à l'utilisation de cookies.",
+    "accept": "Tout accepter",
+    "decline": "Refuser",
+    "manage": "Paramètres",
+    "privacy": "Politique de confidentialité"
   },
   "mindenCegnekPage": {
     "hero": {
