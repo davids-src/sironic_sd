@@ -4,7 +4,6 @@ import { Inter } from 'next/font/google';
 import { Header } from '@/components/Header';
 import { Footer } from '@/components/Footer';
 import { SkipToContent } from '@/components/SkipToContent';
-import { GoogleAnalytics } from '@/components/GoogleAnalytics';
 import { notFound } from 'next/navigation';
 import { locales } from '@/i18n';
 import HreflangTags from '@/components/HreflangTags';
@@ -23,7 +22,7 @@ export async function generateMetadata({ params }: { params: { locale: string } 
     messages = (await import(`@/locales/hu.json`)).default;
   }
 
-  const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://sironic.hu';
+  const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://sironic.eu';
 
   return {
     metadataBase: new URL(baseUrl),
@@ -118,7 +117,6 @@ export default async function RootLayout({
         <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
         <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
         <HreflangTags />
-        <GoogleAnalytics gaId={process.env.NEXT_PUBLIC_GA_ID || ''} />
       </head>
       <body className={inter.className}>
         <LocalBusinessSchema locale={locale} />

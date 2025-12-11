@@ -32,8 +32,8 @@ export const organizationSchema = {
   '@context': 'https://schema.org',
   '@type': 'Organization',
   name: 'SIRONIC Rendszerház',
-  url: 'https://sironic.hu',
-  logo: 'https://sironic.hu/images/logo.png',
+  url: 'https://sironic.eu',
+  logo: 'https://sironic.eu/images/logo.png',
   contactPoint: {
     '@type': 'ContactPoint',
     telephone: '+36-70-273-5532',
@@ -54,9 +54,9 @@ export const localBusinessSchema = {
   '@type': 'LocalBusiness',
   name: 'SIRONIC Rendszerház',
   description: 'Professzionális IT szolgáltatások Székesfehérváron: rendszerüzemeltetés, hálózatépítés, IT biztonság, webfejlesztés, IT oktatás és vállalati tudásfejlesztés.',
-  image: 'https://sironic.hu/images/logo.png',
-  '@id': 'https://sironic.hu',
-  url: 'https://sironic.hu',
+  image: 'https://sironic.eu/images/logo.png',
+  '@id': 'https://sironic.eu',
+  url: 'https://sironic.eu',
   telephone: '+36-70-273-5532',
   email: 'hello@sironic.hu',
   address: {

@@ -18,7 +18,7 @@ export default function ItTrainingPage() {
   const { t } = useTranslation();
   const params = useParams();
   const locale = (params?.locale as string) || 'hu';
-  const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://sironic.hu';
+  const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://sironic.eu';
 
   const serviceIcons = [GraduationCap, Shield, Monitor, Users];
   const benefitIcons = [Zap, Target, Shield, TrendingUp, Users, Zap, TrendingUp];

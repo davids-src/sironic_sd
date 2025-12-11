@@ -142,14 +142,14 @@ Common icons you can use (must match exact name):
 - **ID:** `tdarts`
 - **Description:** Performance and process tracking system
 - **Features:** Task management, performance metrics, custom workflows
-- **Link:** https://tdarts.sironic.hu
+- **Link:** https://tdarts.hu
 - **Icon:** Target
 
 ### 2. Cloud Suite
 - **ID:** `cloud-suite`
 - **Description:** Private cloud solution for file sharing and collaboration
 - **Features:** File sharing, group calendar, document collaboration, mobile access
-- **Link:** https://sironic.hu/cloudsuite
+- **Link:** https://sironic.eu/cloudsuite
 - **Icon:** Cloud
 
 ### 3. IT Partner Portal

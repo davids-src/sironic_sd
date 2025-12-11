@@ -15,7 +15,7 @@ export default function CustomDevelopmentPage() {
   const { t } = useTranslation();
   const params = useParams();
   const locale = (params?.locale as string) || 'hu';
-  const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://sironic.hu';
+  const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://sironic.eu';
 
   const whatWeDoIcons = [Code2, Code2, MonitorSmartphone, Smartphone];
   const whyChooseUsIcons = [Users, Zap, TrendingUp, MessageSquare, Shield, Scale];

@@ -15,7 +15,7 @@ export async function generateMetadata({ params }: { params: { locale: string } 
     title: messages.meta.siteTitle,
     description: messages.meta.siteDescription,
     alternates: {
-      canonical: `https://sironic.hu/${locale}`,
+      canonical: `https://sironic.eu/${locale}`,
     },
   };
 }

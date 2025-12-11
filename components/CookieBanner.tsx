@@ -26,22 +26,11 @@ export function CookieBanner() {
     const handleAccept = () => {
         localStorage.setItem('cookie-consent', 'accepted');
         setIsVisible(false);
-        // Here you would typically initialize GA/Pixel if not already done
-        if (typeof window !== 'undefined' && (window as any).gtag) {
-            (window as any).gtag('consent', 'update', {
-                'analytics_storage': 'granted'
-            });
-        }
     };
 
     const handleDecline = () => {
         localStorage.setItem('cookie-consent', 'declined');
         setIsVisible(false);
-        if (typeof window !== 'undefined' && (window as any).gtag) {
-            (window as any).gtag('consent', 'update', {
-                'analytics_storage': 'denied'
-            });
-        }
     };
 
     if (!isVisible) return null;

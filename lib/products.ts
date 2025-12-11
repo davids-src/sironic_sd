@@ -65,7 +65,7 @@ export const products: Product[] = [
       'Teljesítménymérés és riportolás',
       'Testreszabható munkafolyamatok',
     ],
-    link: 'https://tdarts.sironic.hu',
+    link: 'https://tdarts.hu',
     icon: 'Target',
   },
   {
@@ -79,7 +79,7 @@ export const products: Product[] = [
       'Dokumentum együttműködés',
       'Mobil hozzáférés',
     ],
-    link: 'https://sironic.hu/cloudsuite',
+    link: 'https://sironic.eu/cloudsuite',
     icon: 'Cloud',
   },
   {

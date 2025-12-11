@@ -29,12 +29,12 @@ export default function MindenCegnekPage() {
     provider: {
       '@type': 'Organization',
       name: t('meta.companyName'),
-      url: 'https://sironic.hu',
+      url: 'https://sironic.eu',
     },
     areaServed: 'HU',
     availableChannel: {
       '@type': 'ServiceChannel',
-      serviceUrl: `https://sironic.hu/${locale}/kontakt`,
+      serviceUrl: `https://sironic.eu/${locale}/kontakt`,
     },
   };
 

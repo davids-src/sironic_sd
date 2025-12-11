@@ -17,7 +17,7 @@ interface LocalBusinessSchema {
  * - Traditional search engines
  */
 export function LocalBusinessSchema({ locale }: LocalBusinessSchema) {
-    const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://sironic.hu';
+    const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://sironic.eu';
 
     // Locale-specific business data
     const localeData: Record<string, any> = {
@@ -286,7 +286,7 @@ export function LocalBusinessSchema({ locale }: LocalBusinessSchema) {
  * Optimized for knowledge graph and AI search
  */
 export function OrganizationSchema() {
-    const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://sironic.hu';
+    const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://sironic.eu';
 
     const schema = {
         '@context': 'https://schema.org',
@@ -346,7 +346,7 @@ interface BreadcrumbSchemaProps {
 }
 
 export function BreadcrumbSchema({ items }: BreadcrumbSchemaProps) {
-    const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://sironic.hu';
+    const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://sironic.eu';
 
     const schema = {
         '@context': 'https://schema.org',
@@ -373,7 +373,7 @@ export function BreadcrumbSchema({ items }: BreadcrumbSchemaProps) {
  * Enables sitelinks search box
  */
 export function WebSiteSchema({ locale }: { locale: string }) {
-    const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://sironic.hu';
+    const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://sironic.eu';
 
     const schema = {
         '@context': 'https://schema.org',

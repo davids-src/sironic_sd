@@ -9,7 +9,7 @@ interface ServiceListSchemaProps {
 
 export function ServiceListSchema({ locale }: ServiceListSchemaProps) {
     const { t } = useTranslation();
-    const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://sironic.hu';
+    const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://sironic.eu';
 
     const services = [
         {

@@ -22,7 +22,7 @@ export function ServiceSchema({
     locale,
     url,
 }: ServiceSchemaProps) {
-    const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://sironic.hu';
+    const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://sironic.eu';
 
     const schema = {
         '@context': 'https://schema.org',
@@ -85,7 +85,7 @@ interface FAQSchemaProps {
 }
 
 export function FAQSchema({ faqs, url }: FAQSchemaProps) {
-    const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://sironic.hu';
+    const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://sironic.eu';
 
     const schema = {
         '@context': 'https://schema.org',
@@ -126,7 +126,7 @@ export function LocalServiceSchema({
     serviceDescription,
     url,
 }: LocalServiceSchemaProps) {
-    const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://sironic.hu';
+    const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://sironic.eu';
 
     const schema = {
         '@context': 'https://schema.org',

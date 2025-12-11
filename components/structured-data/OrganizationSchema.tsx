@@ -12,7 +12,7 @@ interface OrganizationSchemaProps {
 }
 
 export function OrganizationSchema({ locale }: OrganizationSchemaProps) {
-    const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://sironic.hu';
+    const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://sironic.eu';
 
     const schema = {
         '@context': 'https://schema.org',
