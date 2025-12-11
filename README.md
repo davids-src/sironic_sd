@@ -91,11 +91,11 @@ SENDGRID_API_KEY=your_sendgrid_api_key
 CONTACT_RECIPIENT_EMAIL=hello@sironic.hu
 
 # Analytics (opcionális)
-NEXT_PUBLIC_GA_ID=G-XXXXXXXXXX
+NEXT_PUBLIC_GA_ID=G-6R5N50C5R8
 NEXT_PUBLIC_META_PIXEL_ID=your_pixel_id
 
 # Éles domain
-NEXT_PUBLIC_SITE_URL=https://sironic.hu
+NEXT_PUBLIC_SITE_URL=https://sironic.eu
 ```
 
 ### 3. Fejlesztői szerver indítása
@@ -126,7 +126,7 @@ npm start
 
 A Vercel Project Settings > Environment Variables menüpontban add meg:
 
-- `NEXT_PUBLIC_SITE_URL` - pl. `https://sironic.hu`
+- `NEXT_PUBLIC_SITE_URL` - pl. `https://sironic.eu`
 - `DISCORD_WEBHOOK_URL` - (opcionális, Discord értesítésekhez a kapcsolati űrlapról)
 - `SENDGRID_API_KEY` - (opcionális, email küldéshez)
 - `CONTACT_RECIPIENT_EMAIL` - pl. `hello@sironic.hu`
@@ -203,10 +203,18 @@ npm run lint
 
 ### Google Analytics (GA4)
 
-1. Hozz létre GA4 property-t: [analytics.google.com](https://analytics.google.com)
-2. Másold ki a Measurement ID-t (pl. `G-XXXXXXXXXX`)
-3. Add hozzá környezeti változóként: `NEXT_PUBLIC_GA_ID=G-XXXXXXXXXX`
-4. A script automatikusan betöltődik az `app/layout.tsx`-ben (opcionális implementáció szükséges)
+A Google Analytics már integrálva van a projektbe és automatikusan követi:
+
+- **Oldalnézetek**: Minden oldalváltás automatikusan követve
+- **Kattintások**: Email, telefon, navigációs linkek, CTA gombok
+- **Form beküldések**: Kapcsolati űrlap beküldések
+- **GDPR-kompatibilis**: Consent Mode v2 használata cookie banner-rel
+
+**Beállítás:**
+
+1. Add hozzá a környezeti változót: `NEXT_PUBLIC_GA_ID=G-6R5N50C5R8`
+2. Ha nincs beállítva, az alapértelmezett ID (`G-6R5N50C5R8`) lesz használva
+3. A script automatikusan betöltődik minden oldalon
 
 ### Meta Pixel
 

@@ -4,12 +4,14 @@ import { Inter } from 'next/font/google';
 import { Header } from '@/components/Header';
 import { Footer } from '@/components/Footer';
 import { SkipToContent } from '@/components/SkipToContent';
+import { GoogleAnalytics } from '@/components/GoogleAnalytics';
 import { notFound } from 'next/navigation';
 import { locales } from '@/i18n';
 import HreflangTags from '@/components/HreflangTags';
 import { TranslationsProvider } from '@/components/TranslationsProvider';
 import { LocalBusinessSchema, OrganizationSchema, WebSiteSchema } from '@/components/StructuredData';
 import { CookieBanner } from '@/components/CookieBanner';
+import { PageViewTracker } from '@/components/PageViewTracker';
 
 const inter = Inter({ subsets: ['latin'], variable: '--font-inter' });
 
@@ -117,12 +119,14 @@ export default async function RootLayout({
         <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
         <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
         <HreflangTags />
+        <GoogleAnalytics gaId={process.env.NEXT_PUBLIC_GA_ID || 'G-6R5N50C5R8'} />
       </head>
       <body className={inter.className}>
         <LocalBusinessSchema locale={locale} />
         <OrganizationSchema />
         <WebSiteSchema locale={locale} />
         <TranslationsProvider messages={messages} locale={locale}>
+          <PageViewTracker />
           <SkipToContent />
           <Header />
           <main id="main-content">{children}</main>

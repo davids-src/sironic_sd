@@ -2,6 +2,7 @@
 
 import Link from 'next/link';
 import { Mail, Phone, MapPin, Facebook, Linkedin } from 'lucide-react';
+import { trackPhoneClick, trackEmailClick } from '@/lib/analytics';
 import { useTranslation } from '@/hooks/useTranslation';
 import { getLocalizedPath } from '@/lib/routes';
 import { Locale } from '@/i18n';
@@ -40,6 +41,7 @@ export function Footer() {
               <Mail className="h-4 w-4 text-brand-red" aria-hidden="true" />
               <a
                 href="mailto:hello@sironic.hu"
+                onClick={trackEmailClick}
                 className="hover:text-brand-red transition-colors focus:outline-none focus:ring-2 focus:ring-brand-red rounded-sm"
               >
                 hello@sironic.hu
@@ -49,6 +51,7 @@ export function Footer() {
               <Phone className="h-4 w-4 text-brand-red" aria-hidden="true" />
               <a
                 href="tel:+36702735532"
+                onClick={trackPhoneClick}
                 className="hover:text-brand-red transition-colors focus:outline-none focus:ring-2 focus:ring-brand-red rounded-sm"
               >
                 +36 70 273 5532

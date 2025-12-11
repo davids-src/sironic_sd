@@ -17,20 +17,48 @@ export function CookieBanner() {
         // Check if consent has already been made
         const consent = localStorage.getItem('cookie-consent');
         if (!consent) {
+            // Initialize Google Analytics with denied consent by default (GDPR compliance)
+            if (typeof window !== 'undefined' && window.gtag) {
+                window.gtag('consent', 'default', {
+                    'analytics_storage': 'denied',
+                    'ad_storage': 'denied',
+                    'ad_user_data': 'denied',
+                    'ad_personalization': 'denied'
+                });
+            }
             // Show banner after a small delay for better UX
             const timer = setTimeout(() => setIsVisible(true), 1000);
             return () => clearTimeout(timer);
+        } else {
+            // If consent was already given, update GA consent
+            if (consent === 'accepted' && typeof window !== 'undefined' && window.gtag) {
+                window.gtag('consent', 'update', {
+                    'analytics_storage': 'granted'
+                });
+            }
         }
     }, []);
 
     const handleAccept = () => {
         localStorage.setItem('cookie-consent', 'accepted');
         setIsVisible(false);
+        // Update Google Analytics consent
+        if (typeof window !== 'undefined' && window.gtag) {
+            window.gtag('consent', 'update', {
+                'analytics_storage': 'granted'
+            });
+        }
     };
 
     const handleDecline = () => {
         localStorage.setItem('cookie-consent', 'declined');
         setIsVisible(false);
+        // Ensure Google Analytics consent is denied
+        if (typeof window !== 'undefined' && window.gtag) {
+            window.gtag('consent', 'update', {
+                'analytics_storage': 'denied'
+            });
+        }
     };
 
     if (!isVisible) return null;

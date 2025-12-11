@@ -7,6 +7,7 @@ import { Input } from './ui/input';
 import { Label } from './ui/label';
 import { Textarea } from './ui/textarea';
 import { Loader2, CheckCircle2 } from 'lucide-react';
+import { trackContactFormSubmission } from '@/lib/analytics';
 import { useTranslation } from '@/hooks/useTranslation';
 
 export function ContactForm() {
@@ -73,6 +74,8 @@ export function ContactForm() {
         setSubmitSuccess(true);
         setFormData({ name: '', companyName: '', email: '', service: '', message: '', honeypot: '' });
         setTimeout(() => setSubmitSuccess(false), 5000);
+        // Track successful form submission
+        trackContactFormSubmission('contact');
       }
     } catch (error) {
       setErrors({ general: t('contact.form.errors.general') });

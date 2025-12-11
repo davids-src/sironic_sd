@@ -9,6 +9,7 @@ import { LanguageSwitcher } from './LanguageSwitcher';
 import { useTranslation } from '@/hooks/useTranslation';
 import { getLocalizedPath } from '@/lib/routes';
 import { Locale } from '@/i18n';
+import { trackButtonClick, trackLinkClick } from '@/lib/analytics';
 
 export function Header() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
@@ -56,6 +57,7 @@ export function Header() {
             <Link
               key={item.name}
               href={item.href}
+              onClick={() => trackLinkClick(item.href, `nav_${item.name}`)}
               className="text-sm font-semibold leading-6 transition-colors hover:text-brand-red focus:outline-none focus:ring-2 focus:ring-brand-red focus:ring-offset-2 rounded-sm px-2 py-1 button-press"
             >
               {item.name}
@@ -66,7 +68,12 @@ export function Header() {
           <LanguageSwitcher />
           <ThemeToggle />
           <Button asChild className="bg-brand-red hover:bg-brand-red/90 button-press glow-red-hover shadow-md">
-            <Link href={`/${locale}/${getLocalizedPath('contact', currentLocale)}`}>{t('nav.ctaButton')}</Link>
+            <Link 
+              href={`/${locale}/${getLocalizedPath('contact', currentLocale)}`}
+              onClick={() => trackButtonClick('header_cta', 'desktop')}
+            >
+              {t('nav.ctaButton')}
+            </Link>
           </Button>
         </div>
       </nav>
@@ -78,14 +85,23 @@ export function Header() {
                 key={item.name}
                 href={item.href}
                 className="block rounded-lg px-3 py-2 text-base font-semibold leading-7 hover:bg-accent text-center w-full button-press"
-                onClick={() => setMobileMenuOpen(false)}
+                onClick={() => {
+                  setMobileMenuOpen(false);
+                  trackLinkClick(item.href, `nav_mobile_${item.name}`);
+                }}
               >
                 {item.name}
               </Link>
             ))}
             <div className="pt-2 w-full max-w-xs">
               <Button asChild className="w-full bg-brand-red hover:bg-brand-red/90 button-press shadow-lg">
-                <Link href={`/${locale}/${getLocalizedPath('contact', currentLocale)}`} onClick={() => setMobileMenuOpen(false)}>
+                <Link 
+                  href={`/${locale}/${getLocalizedPath('contact', currentLocale)}`} 
+                  onClick={() => {
+                    setMobileMenuOpen(false);
+                    trackButtonClick('header_cta', 'mobile');
+                  }}
+                >
                   {t('nav.ctaButton')}
                 </Link>
               </Button>
