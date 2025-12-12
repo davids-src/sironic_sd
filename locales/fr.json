@@ -1,7 +1,7 @@
 {
   "meta": {
     "siteTitle": "SIRONIC IT Solutions : Solutions informatiques complètes pour PME – Opérations, Développement, Sécurité",
-    "siteDescription": "Opérations informatiques professionnelles, développement web (Next.js/TS), infrastructure réseau et sécurité IT. Support informatique dédié pour PME. Demandez une consultation gratuite !",
+    "siteDescription": "Opérations informatiques professionnelles, développement web (Next.js/TS), infrastructure réseau et sécurité IT. Services IT managés, hébergement cloud, cybersécurité renforcée, supervision 24/7 et support à distance conforme RGPD dans toute l'Europe. Support informatique dédié pour PME. Demandez une consultation gratuite !",
     "companyName": "SIRONIC IT Solutions",
     "keywords": [
       "Services informatiques",
@@ -27,7 +27,20 @@
       "Autriche",
       "Slovaquie",
       "Roumanie",
-      "République Tchèque"
+      "République Tchèque",
+      "services IT managés",
+      "conseil informatique",
+      "solutions cloud",
+      "cybersécurité",
+      "conformité RGPD",
+      "support à distance",
+      "supervision 24/7",
+      "support Microsoft 365",
+      "sauvegarde cloud",
+      "reprise après sinistre",
+      "configuration VPN",
+      "infogérance IT",
+      "transformation numérique"
     ],
     "ogImage": "/og/home-fr.jpg",
     "pages": {

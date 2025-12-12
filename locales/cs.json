@@ -1,7 +1,7 @@
 {
     "meta": {
         "siteTitle": "SIRONIC IT Solutions: Komplexní IT řešení pro malé a střední podniky – Správa, Vývoj, Bezpečnost",
-        "siteDescription": "Profesionální správa IT, vývoj webů, sítě a bezpečnost. Dedikovaná podpora pro MSP. Objednejte bezplatnou konzultaci!",
+        "siteDescription": "Profesionální správa IT, vývoj webů, sítě a bezpečnost. Managed IT služby, cloud hosting, posílená kyberbezpečnost, 24/7 monitoring a GDPR-kompatibilní vzdálená podpora po celé Evropě. Dedikovaná podpora pro MSP. Objednejte bezplatnou konzultaci!",
         "companyName": "SIRONIC IT Solutions",
         "keywords": [
             "IT služby",
@@ -32,7 +32,20 @@
             "Dánsko",
             "Norsko",
             "Nizozemsko",
-            "Polsko"
+            "Polsko",
+            "managed IT služby",
+            "IT poradenství",
+            "cloudová řešení",
+            "kybernetická bezpečnost",
+            "soulad s GDPR",
+            "vzdálená podpora",
+            "24/7 monitoring",
+            "podpora Microsoft 365",
+            "cloudové zálohy",
+            "obnova po havárii",
+            "nastavení VPN",
+            "IT outsourcing",
+            "digitální transformace"
         ],
         "ogImage": "/og/home-en.jpg",
         "pages": {

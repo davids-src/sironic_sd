@@ -1,7 +1,7 @@
 {
     "meta": {
         "siteTitle": "SIRONIC IT Solutions: Komplette IT-løsninger for SMB-er – Drift, Utvikling, Sikkerhet",
-        "siteDescription": "Profesjonell IT-drift, webutvikling, nettverk og IT-sikkerhet. Dedikert support for SMB. Bestill gratis konsultasjon!",
+        "siteDescription": "Profesjonell IT-drift, webutvikling, nettverk og IT-sikkerhet. Administrerte IT-tjenester, skyløsninger, styrket cybersikkerhet, 24/7 overvåking og GDPR-etterlevelse med fjernsupport i hele Europa. Dedikert support for SMB. Bestill gratis konsultasjon!",
         "companyName": "SIRONIC IT Solutions",
         "keywords": [
             "IT-tjenester",
@@ -30,7 +30,20 @@
             "Tsjekkia",
             "Sverige",
             "Danmark",
-            "Norge"
+            "Norge",
+            "administrerte IT-tjenester",
+            "IT-rådgivning",
+            "skyløsninger",
+            "cybersikkerhet",
+            "GDPR-etterlevelse",
+            "fjernsupport",
+            "24/7 overvåking",
+            "Microsoft 365-støtte",
+            "skylagring backup",
+            "beredskapsgjenoppretting",
+            "VPN-oppsett",
+            "IT-outsourcing",
+            "digital transformasjon"
         ],
         "ogImage": "/og/home-en.jpg",
         "pages": {

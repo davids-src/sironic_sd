@@ -1,7 +1,7 @@
 {
   "meta": {
     "siteTitle": "SIRONIC IT Solutions: Soluciones TI Integrales para PYMES – Operaciones, Desarrollo, Seguridad",
-    "siteDescription": "Operaciones TI profesionales, desarrollo web (Next.js/TS), infraestructura de red y seguridad TI. Soporte TI dedicado para PYMES. ¡Solicite una consulta gratuita!",
+    "siteDescription": "Operaciones TI profesionales, desarrollo web (Next.js/TS), infraestructura de red y seguridad TI. Servicios TI gestionados, hosting en la nube, ciberseguridad reforzada, monitorización 24/7 y soporte remoto conforme RGPD en toda Europa. Soporte TI dedicado para PYMES. ¡Solicite una consulta gratuita!",
     "companyName": "SIRONIC IT Solutions",
     "keywords": [
       "Servicios TI",
@@ -27,7 +27,20 @@
       "Austria",
       "Eslovaquia",
       "Rumanía",
-      "República Checa"
+      "República Checa",
+      "servicios TI gestionados",
+      "consultoría TI",
+      "soluciones en la nube",
+      "ciberseguridad",
+      "cumplimiento RGPD",
+      "soporte remoto",
+      "monitoreo 24/7",
+      "soporte Microsoft 365",
+      "copia de seguridad en la nube",
+      "recuperación ante desastres",
+      "configuración VPN",
+      "outsourcing TI",
+      "transformación digital"
     ],
     "ogImage": "/og/home-es.jpg",
     "pages": {

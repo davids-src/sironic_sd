@@ -1,7 +1,7 @@
 {
     "meta": {
         "siteTitle": "SIRONIC IT Rešitve: Celovite IT rešitve za mala in srednja podjetja – Upravljanje, Razvoj, Varnost",
-        "siteDescription": "Profesionalno upravljanje IT sistemov, spletni razvoj (Next.js/TS), izgradnja omrežij in IT varnost. Namenska IT podpora za podjetja. Zahtevajte brezplačen posvet!",
+        "siteDescription": "Profesionalno upravljanje IT sistemov, spletni razvoj (Next.js/TS), izgradnja omrežij in IT varnost. Upravljane IT storitve, cloud hosting, okrepljena kibernetska varnost, 24/7 nadzor in GDPR-skladna oddaljena podpora po vsej Evropi. Namenska IT podpora za podjetja. Zahtevajte brezplačen posvet!",
         "companyName": "SIRONIC IT Solutions",
         "keywords": [
             "IT storitve",
@@ -27,7 +27,20 @@
             "Avstrija",
             "Slovaška",
             "Romunija",
-            "Češka"
+            "Češka",
+            "upravljane IT storitve",
+            "IT svetovanje",
+            "cloud rešitve",
+            "kibernetska varnost",
+            "skladnost z GDPR",
+            "oddaljena podpora",
+            "24/7 nadzor",
+            "podpora Microsoft 365",
+            "varnostne kopije v oblaku",
+            "obnovitev po nesreči",
+            "nastavitev VPN",
+            "IT outsourcing",
+            "digitalna transformacija"
         ],
         "ogImage": "/og/home-en.jpg",
         "pages": {

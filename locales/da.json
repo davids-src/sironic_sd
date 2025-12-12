@@ -1,7 +1,7 @@
 {
     "meta": {
         "siteTitle": "SIRONIC IT Solutions: Komplette IT-løsninger til SMV'er – Drift, Udvikling, Sikkerhed",
-        "siteDescription": "Professionel IT-drift, webudvikling, netværk og IT-sikkerhed. Dedikeret support til SMV'er. Bestil gratis konsultation!",
+        "siteDescription": "Professionel IT-drift, webudvikling, netværk og IT-sikkerhed. Managed IT-services, cloud-hosting, stærk cybersikkerhed, 24/7 overvågning og GDPR-compliant fjernsupport i hele Europa. Dedikeret support til SMV'er. Bestil gratis konsultation!",
         "companyName": "SIRONIC IT Solutions",
         "keywords": [
             "IT-tjenester",
@@ -30,7 +30,20 @@
             "Tjekkiet",
             "Sverige",
             "Danmark",
-            "Norge"
+            "Norge",
+            "managed IT-services",
+            "IT-rådgivning",
+            "cloud-løsninger",
+            "cybersikkerhed",
+            "GDPR-compliance",
+            "fjernsupport",
+            "24/7 overvågning",
+            "Microsoft 365 support",
+            "cloud backup",
+            "disaster recovery",
+            "VPN opsætning",
+            "IT-outsourcing",
+            "digital transformation"
         ],
         "ogImage": "/og/home-en.jpg",
         "pages": {

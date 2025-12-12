@@ -1,7 +1,7 @@
 {
     "meta": {
         "siteTitle": "SIRONIC IT Solutions: Omfattande IT-lösningar för SMF – Drift, Utveckling, Säkerhet",
-        "siteDescription": "Professionell IT-drift, webbutveckling, nätverk och IT-säkerhet. Dedikerad support för SMF. Begär gratis konsultation!",
+        "siteDescription": "Professionell IT-drift, webbutveckling, nätverk och IT-säkerhet. Managerade IT-tjänster, molnhosting, stärkt cybersäkerhet, 24/7 övervakning och GDPR-efterlevande fjärrsupport i hela Europa. Dedikerad support för SMF. Begär gratis konsultation!",
         "companyName": "SIRONIC IT Solutions",
         "keywords": [
             "IT-tjänster",
@@ -30,7 +30,20 @@
             "Tjeckien",
             "Sverige",
             "Danmark",
-            "Norge"
+            "Norge",
+            "managerade IT-tjänster",
+            "IT-rådgivning",
+            "molnlösningar",
+            "cybersäkerhet",
+            "GDPR-efterlevnad",
+            "fjärrsupport",
+            "24/7 övervakning",
+            "Microsoft 365-stöd",
+            "molnbackup",
+            "disaster recovery",
+            "VPN-konfiguration",
+            "IT-outsourcing",
+            "digital transformation"
         ],
         "ogImage": "/og/home-en.jpg",
         "pages": {

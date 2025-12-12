@@ -1,7 +1,7 @@
 {
   "meta": {
     "siteTitle": "SIRONIC Rendszerház: Teljes körű IT Megoldások KKV-knak – Üzemeltetés, Fejlesztés, Biztonság",
-    "siteDescription": "Professzionális IT üzemeltetés, webfejlesztés (Next.js/TS), hálózatépítés és IT biztonság. Saját informatikus támogatás KKV-knak. Kérjen ingyenes konzultációt!",
+    "siteDescription": "Professzionális IT üzemeltetés, webfejlesztés (Next.js/TS), hálózatépítés és IT biztonság. Menedzselt IT szolgáltatások, felhőhosting, kiberbiztonsági erősítés, 24/7 monitorozás és GDPR-kompatibilis távtámogatás Európa-szerte. Saját informatikus támogatás KKV-knak. Kérjen ingyenes konzultációt!",
     "companyName": "SIRONIC Rendszerház",
     "keywords": [
       "IT szolgáltatás",
@@ -29,7 +29,20 @@
       "Ausztria",
       "Szlovákia",
       "Románia",
-      "Csehország"
+      "Csehország",
+      "menedzselt IT szolgáltatás",
+      "IT tanácsadás",
+      "felhőmegoldások",
+      "kiberbiztonság",
+      "GDPR megfelelés",
+      "távfelügyelet",
+      "24/7 monitorozás",
+      "Microsoft 365 támogatás",
+      "felhőmentés",
+      "üzletmenet-folytonosság",
+      "VPN kialakítás",
+      "IT outsourcing",
+      "digitális transzformáció"
     ],
     "ogImage": "/og/home-hu.jpg",
     "pages": {
@@ -235,7 +248,7 @@
     },
     "development": {
       "title": "Weboldal- és rendszerfejlesztés",
-      "description": "Gyors, biztonságos és keresőoptimalizált vállalati weboldalak, webshopok és egyedi üzleti rendszerek fejlesztése Next.js, React és TypeScript technológiákkal. Reszponzív design, modern UX és teljesítmény-optimalizálás."
+      "description": "Gyors, biztonságos és keresőoptimalizált vállalati weboldalak, webshopok és egyedi üzleti rendszerek fejlesztése Next.js, React és TypeScript technológiákkal. Reszponzív design, modern UX és teljesítmény-optimalizálás. Weboldal készítésnél az első konzultáció ingyenes, az alap weboldalak már 100.000 Ft + áfa-tól indulnak."
     },
     "commerce": {
       "title": "Kereskedelem – IT eszközök és szoftverek",
@@ -381,7 +394,7 @@
       },
       {
         "question": "Mennyibe kerül egy weboldal vagy rendszer fejlesztése?",
-        "answer": "Az alap weboldalak 250.000 Ft-tól indulnak, míg egyedi rendszerek vagy CRM megoldások ára a funkcionalitástól függően kerül meghatározásra. Minden projekt előtt pontos árajánlatot adunk."
+        "answer": "Az alap weboldalak 100.000 Ft + áfa-tól indulnak, míg egyedi rendszerek vagy CRM megoldások ára a funkcionalitástól függően kerül meghatározásra. Minden projekt előtt pontos árajánlatot adunk, az első konzultáció weboldal készítésnél ingyenes."
       },
       {
         "question": "Miért érdemes felhőalapú megoldásokat választani?",
@@ -730,13 +743,14 @@
       },
       "development": {
         "title": "Weboldal- és rendszerfejlesztés",
-        "price": "250.000 Ft-tól (egyszeri díj)",
-        "description": "Professzionális, egyedi fejlesztések a céged digitális növekedéséért.",
+        "price": "100.000 Ft-tól (+ áfa, egyszeri díj)",
+        "description": "Professzionális, egyedi fejlesztések a céged digitális növekedéséért. Weboldal készítés megkereséskor az első konzultáció ingyenes, az alap weboldalak már 100.000 Ft + áfa-tól elérhetők.",
         "features": [
           "Reszponzív weboldalak és portálok",
           "Egyedi szoftver megoldások",
           "SEO és UX optimalizálás",
-          "Folyamatos támogatás és karbantartás"
+          "Folyamatos támogatás és karbantartás",
+          "Ingyenes első konzultáció weboldal készítéshez"
         ],
         "ctaText": "Kérj ajánlatot"
       },

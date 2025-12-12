@@ -1,7 +1,7 @@
 {
   "meta": {
     "siteTitle": "SIRONIC IT-Systemhaus: Umfassende IT-Lösungen für KMU – Betrieb, Entwicklung, Sicherheit",
-    "siteDescription": "Professioneller IT-Betrieb, Webentwicklung (Next.js/TS), Netzwerkaufbau und IT-Sicherheit. Eigener IT-Support für KMU. Fordern Sie eine kostenlose Beratung an!",
+    "siteDescription": "Professioneller IT-Betrieb, Webentwicklung (Next.js/TS), Netzwerkaufbau und IT-Sicherheit. Managed IT-Services, Cloud-Hosting, Cybersicherheit, 24/7 Monitoring und DSGVO-konformer Remote-Support in ganz Europa. Eigener IT-Support für KMU. Fordern Sie eine kostenlose Beratung an!",
     "companyName": "SIRONIC IT-Systemhaus",
     "keywords": [
       "IT-Dienstleistungen",
@@ -24,7 +24,20 @@
       "Wartung",
       "Székesfehérvár",
       "Ungarn",
-      "Österreich"
+      "Österreich",
+      "Managed IT-Services",
+      "IT-Beratung",
+      "Cloud-Lösungen",
+      "Cybersicherheit",
+      "DSGVO-Compliance",
+      "Remote Support",
+      "24/7 Monitoring",
+      "Microsoft 365 Support",
+      "Cloud Backup",
+      "Notfallwiederherstellung",
+      "VPN Einrichtung",
+      "IT-Outsourcing",
+      "Digitale Transformation"
     ],
     "ogImage": "/og/home-de.jpg",
     "pages": {

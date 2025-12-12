@@ -1,7 +1,7 @@
 {
   "meta": {
     "siteTitle": "SIRONIC IT Riešenia: Komplexné IT riešenia pre MSP – Prevádzka, Vývoj, Bezpečnosť",
-    "siteDescription": "Profesionálna prevádzka IT, vývoj webových stránok (Next.js/TS), budovanie sietí a IT bezpečnosť. Vlastná IT podpora pre MSP. Požiadajte o bezplatnú konzultáciu!",
+    "siteDescription": "Profesionálna prevádzka IT, vývoj webových stránok (Next.js/TS), budovanie sietí a IT bezpečnosť. Managed IT služby, cloud hosting, posilnená kyberbezpečnosť, 24/7 monitoring a GDPR-kompatibilná vzdialená podpora v celej Európe. Vlastná IT podpora pre MSP. Požiadajte o bezplatnú konzultáciu!",
     "companyName": "SIRONIC IT Riešenia",
     "keywords": [
       "IT služby",
@@ -25,7 +25,20 @@
       "Székesfehérvár",
       "Maďarsko",
       "Slovensko",
-      "Česká republika"
+      "Česká republika",
+      "managed IT služby",
+      "IT poradenstvo",
+      "cloudové riešenia",
+      "kybernetická bezpečnosť",
+      "GDPR súlad",
+      "vzdialená podpora",
+      "24/7 monitoring",
+      "podpora Microsoft 365",
+      "cloudové zálohovanie",
+      "obnova po havárii",
+      "nastavenie VPN",
+      "IT outsourcing",
+      "digitálna transformácia"
     ],
     "ogImage": "/og/home-sk.jpg",
     "pages": {

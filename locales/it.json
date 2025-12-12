@@ -1,7 +1,7 @@
 {
   "meta": {
     "siteTitle": "SIRONIC IT Solutions: Soluzioni IT complete per le PMI – Operazioni, Sviluppo, Sicurezza",
-    "siteDescription": "Operazioni IT professionali, sviluppo web (Next.js/TS), creazione reti e sicurezza IT. Supporto dedicato per le PMI. Richiedi una consulenza gratuita!",
+    "siteDescription": "Operazioni IT professionali, sviluppo web (Next.js/TS), creazione reti e sicurezza IT. Servizi IT gestiti, hosting cloud, cybersicurezza avanzata, monitoraggio 24/7 e supporto remoto conforme GDPR in tutta Europa. Supporto dedicato per le PMI. Richiedi una consulenza gratuita!",
     "companyName": "SIRONIC IT Solutions",
     "keywords": [
       "Servizi IT",
@@ -27,7 +27,20 @@
       "Austria",
       "Slovacchia",
       "Romania",
-      "Repubblica Ceca"
+      "Repubblica Ceca",
+      "servizi IT gestiti",
+      "consulenza IT",
+      "soluzioni cloud",
+      "cybersicurezza",
+      "conformità GDPR",
+      "supporto remoto",
+      "monitoraggio 24/7",
+      "supporto Microsoft 365",
+      "backup cloud",
+      "disaster recovery",
+      "configurazione VPN",
+      "outsourcing IT",
+      "trasformazione digitale"
     ],
     "ogImage": "/og/home-it.jpg",
     "pages": {

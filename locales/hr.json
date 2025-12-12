@@ -1,7 +1,7 @@
 {
   "meta": {
     "siteTitle": "SIRONIC Sistem Kuća: Kompletna IT rješenja za mala i srednja poduzeća – Održavanje, Razvoj, Sigurnost",
-    "siteDescription": "Profesionalno IT održavanje, web razvoj (Next.js/TS), izgradnja mreža i IT sigurnost. Vlastita IT podrška za MSP. Zatražite besplatno savjetovanje!",
+    "siteDescription": "Profesionalno IT održavanje, web razvoj (Next.js/TS), izgradnja mreža i IT sigurnost. Upravljane IT usluge, cloud hosting, pojačana kibernetička sigurnost, 24/7 nadzor i GDPR-uskladjena udaljena podrška diljem Europe. Vlastita IT podrška za MSP. Zatražite besplatno savjetovanje!",
     "companyName": "SIRONIC Sistem Kuća",
     "keywords": [
       "IT usluge",
@@ -30,7 +30,20 @@
       "Slovačka",
       "Rumunjska",
       "Češka",
-      "Hrvatska"
+      "Hrvatska",
+      "upravljane IT usluge",
+      "IT savjetovanje",
+      "cloud rješenja",
+      "kibernetička sigurnost",
+      "GDPR usklađenost",
+      "udaljena podrška",
+      "24/7 nadzor",
+      "Microsoft 365 podrška",
+      "cloud sigurnosne kopije",
+      "oporavak od katastrofe",
+      "VPN konfiguracija",
+      "IT outsourcing",
+      "digitalna transformacija"
     ],
     "ogImage": "/og/home-hr.jpg",
     "pages": {

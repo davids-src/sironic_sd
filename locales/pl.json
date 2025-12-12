@@ -1,7 +1,7 @@
 {
     "meta": {
         "siteTitle": "SIRONIC IT Solutions: Kompleksowe rozwiązania IT dla MŚP – Administracja, Development, Bezpieczeństwo",
-        "siteDescription": "Profesjonalna administracja IT, tworzenie stron, sieci i bezpieczeństwo. Wsparcie dla MŚP. Zamów darmową konsultację!",
+        "siteDescription": "Profesjonalna administracja IT, tworzenie stron, sieci i bezpieczeństwo. Usługi IT zarządzane, hosting w chmurze, wzmocnione cyberbezpieczeństwo, monitoring 24/7 oraz zdalne wsparcie zgodne z RODO w całej Europie. Wsparcie dla MŚP. Zamów darmową konsultację!",
         "companyName": "SIRONIC IT Solutions",
         "keywords": [
             "usługi IT",
@@ -32,7 +32,20 @@
             "Dania",
             "Norwegia",
             "Holandia",
-            "Polska"
+            "Polska",
+            "usługi IT zarządzane",
+            "doradztwo IT",
+            "rozwiązania chmurowe",
+            "cyberbezpieczeństwo",
+            "zgodność z RODO",
+            "zdalne wsparcie",
+            "monitoring 24/7",
+            "wsparcie Microsoft 365",
+            "kopie zapasowe w chmurze",
+            "odtwarzanie awaryjne",
+            "konfiguracja VPN",
+            "outsourcing IT",
+            "transformacja cyfrowa"
         ],
         "ogImage": "/og/home-en.jpg",
         "pages": {
