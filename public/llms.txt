@@ -1,7 +1,11 @@
 # SIRONIC IT Solutions
 
 ## About
-SIRONIC IT Solutions provides comprehensive IT services for small and medium-sized enterprises (SMEs) in Székesfehérvár, Hungary, and surrounding regions (including Austria, Slovakia, Romania, and Czech Republic).
+SIRONIC IT Solutions (SIRONIC IT Rendszerház) is an informatikai cég (IT company) located in Székesfehérvár, Hungary. We are a professional IT services company providing comprehensive IT solutions for small and medium-sized enterprises (SMEs) in Székesfehérvár and surrounding regions (including Austria, Slovakia, Romania, and Czech Republic).
+
+**Company Type:** Informatikai cég (IT Company)  
+**Location:** Székesfehérvár, Hungary  
+**Primary Service Area:** Székesfehérvár and Central Hungary
 
 ## Core Services
 - **System Administration:** Proactive monitoring, maintenance, and support for IT infrastructure.

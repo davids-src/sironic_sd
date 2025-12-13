@@ -27,15 +27,16 @@ interface RouteDefinition {
 }
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const sitemapEntries: MetadataRoute.Sitemap = [];
+  try {
+    const sitemapEntries: MetadataRoute.Sitemap = [];
 
-  /**
-   * Route Configuration Map
-   * Organized by page type for clarity
-   * 
-   * NEW: Fully localized URL slugs for FR/IT/ES
-   */
-  const routes: RouteDefinition[] = [
+    /**
+     * Route Configuration Map
+     * Organized by page type for clarity
+     * 
+     * NEW: Fully localized URL slugs for FR/IT/ES
+     */
+    const routes: RouteDefinition[] = [
     // ============================================
     // HOMEPAGE (All Languages)
     // ============================================
@@ -240,32 +241,70 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { path: 'blog', changeFreq: 'weekly', priority: 0.7, allowedLocales: ['hu'] },
   ];
 
-  // Generate sitemap entries
-  for (const route of routes) {
-    const allowedLocales = route.allowedLocales || locales;
+    // Generate sitemap entries
+    for (const route of routes) {
+      const allowedLocales = route.allowedLocales || locales;
 
-    for (const locale of allowedLocales) {
-      const url = route.path
-        ? `${baseUrl}/${locale}/${route.path}`
-        : `${baseUrl}/${locale}`;
+      for (const locale of allowedLocales) {
+        // Validate locale
+        if (!locales.includes(locale as Locale)) {
+          console.warn(`Invalid locale in sitemap: ${locale}`);
+          continue;
+        }
 
-      sitemapEntries.push({
-        url,
+        const url = route.path
+          ? `${baseUrl}/${locale}/${route.path}`
+          : `${baseUrl}/${locale}`;
+
+        // Validate URL format
+        try {
+          new URL(url);
+        } catch (error) {
+          console.error(`Invalid URL in sitemap: ${url}`, error);
+          continue;
+        }
+
+        sitemapEntries.push({
+          url,
+          lastModified: new Date(),
+          changeFrequency: route.changeFreq,
+          priority: route.priority,
+        });
+      }
+    }
+
+    // Remove duplicates
+    const uniqueEntries = Array.from(
+      new Map(sitemapEntries.map(entry => [entry.url, entry])).values()
+    );
+
+    // Sort by priority (descending) then by URL for consistency
+    const sortedEntries = uniqueEntries.sort((a, b) => {
+      const priorityA = a.priority ?? 0.5;
+      const priorityB = b.priority ?? 0.5;
+
+      if (priorityB !== priorityA) {
+        return priorityB - priorityA;
+      }
+      return a.url.localeCompare(b.url);
+    });
+
+    // Log sitemap generation info (only in development)
+    if (process.env.NODE_ENV === 'development') {
+      console.log(`[Sitemap] Generated ${sortedEntries.length} URLs`);
+    }
+
+    return sortedEntries;
+  } catch (error) {
+    console.error('[Sitemap] Error generating sitemap:', error);
+    // Return at least the homepage to prevent complete failure
+    return [
+      {
+        url: `${baseUrl}/hu`,
         lastModified: new Date(),
-        changeFrequency: route.changeFreq,
-        priority: route.priority,
-      });
-    }
+        changeFrequency: 'weekly',
+        priority: 1.0,
+      },
+    ];
   }
-
-  // Sort by priority (descending) then by URL for consistency
-  return sitemapEntries.sort((a, b) => {
-    const priorityA = a.priority ?? 0.5;
-    const priorityB = b.priority ?? 0.5;
-
-    if (priorityB !== priorityA) {
-      return priorityB - priorityA;
-    }
-    return a.url.localeCompare(b.url);
-  });
 }
