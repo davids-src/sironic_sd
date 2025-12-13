@@ -1827,5 +1827,144 @@
       "description": "Ne bízza a véletlenre a technikát.",
       "button": "Kérek ajánlatot"
     }
+  },
+  "privacyPage": {
+    "title": "Adatkezelési Tájékoztató",
+    "effectiveDate": "Hatályos: 2025.11.01",
+    "website": "Weboldal: https://sironic.eu",
+    "sections": {
+      "dataController": {
+        "title": "1. Adatkezelő adatai",
+        "name": "Adatkezelő neve: Skoda Dávid András egyéni vállalkozó",
+        "businessName": "Vállalkozás neve: Sironic Rendszerház",
+        "address": "Székhely: 8000 Székesfehérvár, Lövölde utca 24 4/15",
+        "email": "E-mail: hello@sironic.hu",
+        "phone": "Telefonszám: +36702735532",
+        "note": "Az adatkezelő az Európai Parlament és Tanács (EU) 2016/679 rendelete (GDPR) alapján jár el."
+      },
+      "principles": {
+        "title": "2. Az adatkezelés alapelvei",
+        "description": "Az adatkezelő a személyes adatokat az alábbi elvek szerint kezeli:",
+        "items": [
+          "jogszerűség, tisztességes eljárás és átláthatóság",
+          "célhoz kötöttség",
+          "adattakarékosság",
+          "pontosság",
+          "korlátozott tárolhatóság",
+          "integritás és bizalmas jelleg"
+        ]
+      },
+      "dataScope": {
+        "title": "3. Kezelt adatok köre",
+        "contactData": {
+          "title": "3.1. Kapcsolatfelvétel során megadott adatok",
+          "items": [
+            "név",
+            "e-mail cím",
+            "telefonszám (nem kötelező)",
+            "üzenet tartalma"
+          ]
+        },
+        "technicalData": {
+          "title": "3.2. Technikai adatok",
+          "items": [
+            "IP cím",
+            "böngésző típusa és verziója",
+            "operációs rendszer",
+            "látogatás időpontja",
+            "meglátogatott aloldalak"
+          ]
+        },
+        "cookies": {
+          "title": "3.3. Cookie-k (sütik)",
+          "description": "A weboldal működéséhez szükséges, valamint – hozzájárulás esetén – statisztikai sütiket használhat."
+        }
+      },
+      "purpose": {
+        "title": "4. Az adatkezelés célja és jogalapja",
+        "table": {
+          "purpose": "Adatkezelés célja",
+          "legalBasis": "Jogalap",
+          "contact": "Kapcsolattartás",
+          "contactBasis": "Hozzájárulás (GDPR 6. cikk (1) a))",
+          "website": "Weboldal működtetése",
+          "websiteBasis": "Jogos érdek (GDPR 6. cikk (1) f))",
+          "security": "Biztonsági naplózás",
+          "securityBasis": "Jogos érdek",
+          "cookies": "Cookie-k használata",
+          "cookiesBasis": "Hozzájárulás / jogos érdek"
+        }
+      },
+      "retention": {
+        "title": "5. Adatmegőrzési idő",
+        "items": [
+          "Kapcsolati adatok: legfeljebb 12 hónap",
+          "Technikai naplók: legfeljebb 12 hónap",
+          "Cookie-k: a cookie tájékoztatóban meghatározott ideig"
+        ]
+      },
+      "processors": {
+        "title": "6. Adatfeldolgozók",
+        "description": "Az adatkezelő az alábbi adatfeldolgozókat veheti igénybe:",
+        "items": [
+          "tárhelyszolgáltató",
+          "e-mail szolgáltató",
+          "analitikai szolgáltató (pl. Google Analytics – ha alkalmazásra kerül)"
+        ],
+        "note": "Az adatfeldolgozók az adatokat kizárólag az adatkezelő utasításai szerint kezelik."
+      },
+      "transfer": {
+        "title": "7. Adattovábbítás",
+        "description": "Személyes adatok harmadik fél részére kizárólag:",
+        "items": [
+          "jogszabályi kötelezettség alapján, vagy",
+          "az érintett kifejezett hozzájárulásával"
+        ],
+        "conclusion": "kerülnek továbbításra."
+      },
+      "rights": {
+        "title": "8. Az érintettek jogai",
+        "description": "Az érintett jogosult:",
+        "items": [
+          "tájékoztatást kérni",
+          "hozzáférést kérni",
+          "helyesbítést kérni",
+          "törlést kérni (elfeledtetés joga)",
+          "adatkezelés korlátozását kérni",
+          "tiltakozni az adatkezelés ellen",
+          "adathordozhatóságot kérni",
+          "panaszt tenni felügyeleti hatóságnál"
+        ],
+        "authority": {
+          "title": "Felügyeleti hatóság:",
+          "name": "Nemzeti Adatvédelmi és Információszabadság Hatóság (NAIH)",
+          "address": "1055 Budapest, Falk Miksa utca 9–11."
+        }
+      },
+      "security": {
+        "title": "9. Adatbiztonság",
+        "description": "Az adatkezelő megfelelő technikai és szervezési intézkedéseket alkalmaz az adatok védelme érdekében, különösen:",
+        "items": [
+          "HTTPS / SSL titkosítás",
+          "jogosultságkezelés",
+          "rendszeres frissítések",
+          "biztonságos tárhelyhasználat"
+        ]
+      },
+      "modification": {
+        "title": "10. Tájékoztató módosítása",
+        "description": "Az adatkezelő jogosult jelen adatkezelési tájékoztatót bármikor módosítani. A módosítás a weboldalon történő közzététellel lép hatályba."
+      },
+      "contact": {
+        "title": "11. Kapcsolat",
+        "description": "Adatkezeléssel kapcsolatos kérdés esetén:",
+        "email": "E-mail: hello@sironic.hu",
+        "phone": "Telefon: +36702735532"
+      },
+      "compliance": {
+        "title": "Megfelelőség",
+        "description": "Jelen dokumentum megfelel az EU GDPR követelményeinek, és weboldalon történő közzétételre alkalmas."
+      }
+    }
   }
 }

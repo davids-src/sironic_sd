@@ -239,6 +239,26 @@ export default function sitemap(): MetadataRoute.Sitemap {
     // BLOG (Currently HU only)
     // ============================================
     { path: 'blog', changeFreq: 'weekly', priority: 0.7, allowedLocales: ['hu'] },
+
+    // ============================================
+    // PRIVACY POLICY / DATA PROTECTION (All Languages - Fully Localized)
+    // ============================================
+    { path: 'adatvedelem', changeFreq: 'monthly', priority: 0.6, allowedLocales: ['hu'] },
+    { path: 'privacy-policy', changeFreq: 'monthly', priority: 0.6, allowedLocales: ['en'] },
+    { path: 'datenschutz', changeFreq: 'monthly', priority: 0.6, allowedLocales: ['de'] },
+    { path: 'ochrana-udajov', changeFreq: 'monthly', priority: 0.6, allowedLocales: ['sk'] },
+    { path: 'confidentialitate', changeFreq: 'monthly', priority: 0.6, allowedLocales: ['ro'] },
+    { path: 'zastita-podataka', changeFreq: 'monthly', priority: 0.6, allowedLocales: ['hr'] },
+    { path: 'zasebnost', changeFreq: 'monthly', priority: 0.6, allowedLocales: ['sl'] },
+    { path: 'politique-de-confidentialite', changeFreq: 'monthly', priority: 0.6, allowedLocales: ['fr'] },
+    { path: 'privacy', changeFreq: 'monthly', priority: 0.6, allowedLocales: ['it'] },
+    { path: 'privacidad', changeFreq: 'monthly', priority: 0.6, allowedLocales: ['es'] },
+    { path: 'integritetspolicy', changeFreq: 'monthly', priority: 0.6, allowedLocales: ['sv'] },
+    { path: 'fortrolighedspolitik', changeFreq: 'monthly', priority: 0.6, allowedLocales: ['da'] },
+    { path: 'personvernregler', changeFreq: 'monthly', priority: 0.6, allowedLocales: ['no'] },
+    { path: 'privacybeleid', changeFreq: 'monthly', priority: 0.6, allowedLocales: ['nl'] },
+    { path: 'polityka-prywatnosci', changeFreq: 'monthly', priority: 0.6, allowedLocales: ['pl'] },
+    { path: 'ochrana-soukromi', changeFreq: 'monthly', priority: 0.6, allowedLocales: ['cs'] },
   ];
 
     // Generate sitemap entries
