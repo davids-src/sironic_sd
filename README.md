@@ -18,33 +18,21 @@ Teljes körű IT szolgáltató vállalkozás modern, responsive Next.js weboldal
 
 ```
 ├── app/
-│   ├── layout.tsx              # Fő layout (header, footer)
-│   ├── page.tsx                # Főoldal
-│   ├── sitemap.ts              # Dinamikus sitemap generálás
-│   ├── globals.css             # Globális stílusok és CSS változók
+│   ├── [locale]/               # Többnyelvű oldalak (16 nyelv)
+│   │   ├── layout.tsx          # Locale-specifikus layout
+│   │   ├── page.tsx            # Főoldal
+│   │   └── [oldalak]/          # Lokalizált oldalak
 │   ├── api/
 │   │   └── contact/
 │   │       └── route.ts        # Kapcsolat form API endpoint
-│   ├── szolgaltatasok/
-│   │   └── page.tsx            # Szolgáltatások oldal
-│   ├── rolunk/
-│   │   └── page.tsx            # Rólunk oldal
-│   ├── blog/
-│   │   ├── page.tsx            # Blog lista
-│   │   └── [slug]/
-│   │       └── page.tsx        # Dinamikus blog cikkek
-│   └── kapcsolat/
-│       └── page.tsx            # Kapcsolat oldal
+│   ├── sitemap.ts              # Dinamikus sitemap generálás
+│   ├── robots.ts               # Dinamikus robots.txt
+│   └── globals.css             # Globális stílusok és CSS változók
 ├── components/
 │   ├── Header.tsx              # Sticky navigáció logóval
 │   ├── Footer.tsx              # Footer elérhetőségekkel
 │   ├── Hero.tsx                # Hero szekció CTA gombokkal
-│   ├── ServiceCard.tsx         # Újrahasználható szolgáltatás kártya
-│   ├── Testimonial.tsx         # Ügyfél vélemény komponens
-│   ├── ContactForm.tsx         # Validált kapcsolat form
-│   ├── BlogCard.tsx            # Blog kártya komponens
-│   ├── ThemeToggle.tsx         # Dark/Light mode váltó
-│   ├── SkipToContent.tsx       # Accessibility skip link
+│   ├── structured-data/        # Schema.org strukturált adatok
 │   └── ui/                     # shadcn/ui komponensek
 ├── utils/
 │   ├── seo.ts                  # SEO utility és schema generálás
@@ -59,6 +47,17 @@ Teljes körű IT szolgáltató vállalkozás modern, responsive Next.js weboldal
 ├── tailwind.config.ts          # Tailwind konfig brand színekkel
 └── tsconfig.json               # TypeScript konfiguráció
 ```
+
+## 📚 Dokumentáció
+
+A projekt részletes dokumentációja a [`docs/`](./docs/) mappában található:
+
+- **Többnyelvűség**: 16 nyelv támogatás, fordítások, i18n konfiguráció
+- **SEO**: Google AI keresés, sitemap, strukturált adatok
+- **Deployment**: Telepítési útmutatók, frissítési összefoglalók
+- **Funkciók**: Új oldalak, szolgáltatások, FAQ implementáció
+
+Tekintse meg a [`docs/README.md`](./docs/README.md) fájlt a teljes dokumentáció listáért.
 
 ## 🛠️ Telepítés és Futtatás
 
