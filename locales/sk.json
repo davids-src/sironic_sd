@@ -1820,5 +1820,144 @@
       "description": "Nenechávajte techniku na náhodu.",
       "button": "Vyžiadať ponuku"
     }
+  },
+  "privacyPage": {
+    "title": "Informácie o spracovaní údajov",
+    "effectiveDate": "Platné od: 2025.11.01",
+    "website": "Webová stránka: https://sironic.eu",
+    "sections": {
+      "dataController": {
+        "title": "1. Údaje o správcovi údajov",
+        "name": "Meno správcu údajov: Skoda Dávid András samostatne zárobkovo činná osoba",
+        "businessName": "Názov podniku: Sironic Rendszerház",
+        "address": "Sídlo: 8000 Székesfehérvár, Lövölde utca 24 4/15",
+        "email": "E-mail: hello@sironic.hu",
+        "phone": "Telefón: +36702735532",
+        "note": "Správca údajov koná v súlade s nariadením Európskeho parlamentu a Rady (EÚ) 2016/679 (GDPR)."
+      },
+      "principles": {
+        "title": "2. Zásady spracovania údajov",
+        "description": "Správca údajov spracúva osobné údaje podľa nasledujúcich zásad:",
+        "items": [
+          "zákonnosť, spravodlivosť a transparentnosť",
+          "obmedzenie účelu",
+          "minimalizácia údajov",
+          "presnosť",
+          "obmedzenie uloženia",
+          "integrita a dôvernosť"
+        ]
+      },
+      "dataScope": {
+        "title": "3. Rozsah spracovaných údajov",
+        "contactData": {
+          "title": "3.1. Údaje poskytnuté pri kontakte",
+          "items": [
+            "meno",
+            "e-mailová adresa",
+            "telefónne číslo (voliteľné)",
+            "obsah správy"
+          ]
+        },
+        "technicalData": {
+          "title": "3.2. Technické údaje",
+          "items": [
+            "IP adresa",
+            "typ a verzia prehliadača",
+            "operačný systém",
+            "čas návštevy",
+            "navštívené podstránky"
+          ]
+        },
+        "cookies": {
+          "title": "3.3. Cookies",
+          "description": "Webová stránka môže používať cookies potrebné na fungovanie, ako aj – so súhlasom – štatistické cookies."
+        }
+      },
+      "purpose": {
+        "title": "4. Účel a právny základ spracovania údajov",
+        "table": {
+          "purpose": "Účel spracovania údajov",
+          "legalBasis": "Právny základ",
+          "contact": "Kontakt",
+          "contactBasis": "Súhlas (GDPR článok 6(1)(a))",
+          "website": "Prevádzka webovej stránky",
+          "websiteBasis": "Oprávnený záujem (GDPR článok 6(1)(f))",
+          "security": "Bezpečnostné protokolovanie",
+          "securityBasis": "Oprávnený záujem",
+          "cookies": "Použitie cookies",
+          "cookiesBasis": "Súhlas / Oprávnený záujem"
+        }
+      },
+      "retention": {
+        "title": "5. Doba uchovávania údajov",
+        "items": [
+          "Kontaktné údaje: najviac 12 mesiacov",
+          "Technické protokoly: najviac 12 mesiacov",
+          "Cookies: podľa doby uvedenej v informáciách o cookies"
+        ]
+      },
+      "processors": {
+        "title": "6. Spracovatelia údajov",
+        "description": "Správca údajov môže využiť nasledujúcich spracovateľov údajov:",
+        "items": [
+          "poskytovateľ hostingu",
+          "poskytovateľ e-mailu",
+          "poskytovateľ analytiky (napr. Google Analytics – ak sa používa)"
+        ],
+        "note": "Spracovatelia údajov spracúvajú údaje výlučne podľa pokynov správcu údajov."
+      },
+      "transfer": {
+        "title": "7. Prenos údajov",
+        "description": "Osobné údaje sa prenášajú tretím stranám len:",
+        "items": [
+          "na základe právnej povinnosti, alebo",
+          "s výslovným súhlasom dotknutej osoby"
+        ],
+        "conclusion": "sa prenášajú."
+      },
+      "rights": {
+        "title": "8. Práva dotknutých osôb",
+        "description": "Dotknutá osoba má právo:",
+        "items": [
+          "požadovať informácie",
+          "požadovať prístup",
+          "požadovať opravu",
+          "požadovať vymazanie (právo na zabudnutie)",
+          "požadovať obmedzenie spracovania",
+          "namietať proti spracovaniu údajov",
+          "požadovať prenosnosť údajov",
+          "podávať sťažnosť dozornému orgánu"
+        ],
+        "authority": {
+          "title": "Dozorný orgán:",
+          "name": "Národný úrad pre ochranu údajov a slobodu informácií (NAIH)",
+          "address": "1055 Budapest, Falk Miksa utca 9–11."
+        }
+      },
+      "security": {
+        "title": "9. Bezpečnosť údajov",
+        "description": "Správca údajov uplatňuje primerané technické a organizačné opatrenia na ochranu údajov, najmä:",
+        "items": [
+          "HTTPS / SSL šifrovanie",
+          "správa oprávnení",
+          "pravidelné aktualizácie",
+          "bezpečné uloženie"
+        ]
+      },
+      "modification": {
+        "title": "10. Zmena informácií",
+        "description": "Správca údajov má právo kedykoľvek zmeniť tieto informácie o spracovaní údajov. Zmeny nadobúdajú platnosť zverejnením na webovej stránke."
+      },
+      "contact": {
+        "title": "11. Kontakt",
+        "description": "V prípade otázok týkajúcich sa spracovania údajov:",
+        "email": "E-mail: hello@sironic.hu",
+        "phone": "Telefón: +36702735532"
+      },
+      "compliance": {
+        "title": "Súlad",
+        "description": "Tento dokument je v súlade s požiadavkami GDPR EÚ a je vhodný na zverejnenie na webovej stránke."
+      }
+    }
   }
 }

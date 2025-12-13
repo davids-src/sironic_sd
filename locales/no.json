@@ -1828,5 +1828,144 @@
             "description": "Overlat ikke den tekniske siden til tilfellet.",
             "button": "Få et Tilbud"
         }
+    },
+    "privacyPage": {
+        "title": "Personvernregler",
+        "effectiveDate": "Gjelder fra: 2025.11.01",
+        "website": "Nettsted: https://sironic.eu",
+        "sections": {
+            "dataController": {
+                "title": "1. Opplysninger om dataansvarlig",
+                "name": "Navn på dataansvarlig: Skoda Dávid András Enkeltpersonforetak",
+                "businessName": "Bedriftsnavn: Sironic Rendszerház",
+                "address": "Forretningsadresse: 8000 Székesfehérvár, Lövölde utca 24 4/15",
+                "email": "E-post: hello@sironic.hu",
+                "phone": "Telefon: +36702735532",
+                "note": "Dataansvarlig handler i samsvar med Europaparlamentets og Rådets forordning (EU) 2016/679 (GDPR)."
+            },
+            "principles": {
+                "title": "2. Prinsipper for behandling av personopplysninger",
+                "description": "Dataansvarlig behandler personopplysninger i samsvar med følgende prinsipper:",
+                "items": [
+                    "lovlighet, rettferdighet og åpenhet",
+                    "formålsbegrensning",
+                    "dataminimering",
+                    "nøyaktighet",
+                    "begrenset lagring",
+                    "integritet og konfidensialitet"
+                ]
+            },
+            "dataScope": {
+                "title": "3. Omfang av behandlede opplysninger",
+                "contactData": {
+                    "title": "3.1. Opplysninger oppgitt ved kontakt",
+                    "items": [
+                        "navn",
+                        "e-postadresse",
+                        "telefonnummer (valgfritt)",
+                        "meldingsinnhold"
+                    ]
+                },
+                "technicalData": {
+                    "title": "3.2. Tekniske opplysninger",
+                    "items": [
+                        "IP-adresse",
+                        "nettlesertype og versjon",
+                        "operativsystem",
+                        "besøkstidspunkt",
+                        "besøkte undersider"
+                    ]
+                },
+                "cookies": {
+                    "title": "3.3. Informasjonskapsler",
+                    "description": "Nettstedet kan bruke informasjonskapsler som er nødvendige for funksjonen, samt – med samtykke – statistiske informasjonskapsler."
+                }
+            },
+            "purpose": {
+                "title": "4. Formål og rettslig grunnlag for behandling av opplysninger",
+                "table": {
+                    "purpose": "Formål med behandlingen",
+                    "legalBasis": "Rettslig grunnlag",
+                    "contact": "Kontakt",
+                    "contactBasis": "Samtykke (GDPR artikkel 6(1)(a))",
+                    "website": "Nettstedsdrift",
+                    "websiteBasis": "Berettiget interesse (GDPR artikkel 6(1)(f))",
+                    "security": "Sikkerhetslogging",
+                    "securityBasis": "Berettiget interesse",
+                    "cookies": "Bruk av informasjonskapsler",
+                    "cookiesBasis": "Samtykke / Berettiget interesse"
+                }
+            },
+            "retention": {
+                "title": "5. Oppbevaringstid for opplysninger",
+                "items": [
+                    "Kontaktopplysninger: høyst 12 måneder",
+                    "Tekniske logger: høyst 12 måneder",
+                    "Informasjonskapsler: i henhold til den periode som er angitt i informasjonen om informasjonskapsler"
+                ]
+            },
+            "processors": {
+                "title": "6. Databehandlere",
+                "description": "Dataansvarlig kan engasjere følgende databehandlere:",
+                "items": [
+                    "hostingleverandør",
+                    "e-postleverandør",
+                    "analyseleverandør (f.eks. Google Analytics – hvis anvendt)"
+                ],
+                "note": "Databehandlere behandler opplysninger utelukkende i henhold til dataansvarligs instruksjoner."
+            },
+            "transfer": {
+                "title": "7. Overføring av opplysninger",
+                "description": "Personopplysninger overføres til tredjeparter kun:",
+                "items": [
+                    "på grunnlag av en juridisk forpliktelse, eller",
+                    "med den registrertes uttrykkelige samtykke"
+                ],
+                "conclusion": "overføres."
+            },
+            "rights": {
+                "title": "8. De registrertes rettigheter",
+                "description": "Den registrerte har rett til å:",
+                "items": [
+                    "be om opplysninger",
+                    "be om tilgang",
+                    "be om retting",
+                    "be om sletting (rett til å bli glemt)",
+                    "be om begrensning av behandlingen",
+                    "gjøre innsigelse mot behandling av opplysninger",
+                    "be om dataportabilitet",
+                    "klage til en tilsynsmyndighet"
+                ],
+                "authority": {
+                    "title": "Tilsynsmyndighet:",
+                    "name": "Nasjonal myndighet for databeskyttelse og informasjonsfrihet (NAIH)",
+                    "address": "1055 Budapest, Falk Miksa utca 9–11."
+                }
+            },
+            "security": {
+                "title": "9. Datasikkerhet",
+                "description": "Dataansvarlig anvender passende tekniske og organisatoriske tiltak for å beskytte opplysninger, spesielt:",
+                "items": [
+                    "HTTPS / SSL-kryptering",
+                    "tillatelseshåndtering",
+                    "regelmessige oppdateringer",
+                    "sikker lagring"
+                ]
+            },
+            "modification": {
+                "title": "10. Endring av reglene",
+                "description": "Dataansvarlig har rett til å endre disse personvernreglene når som helst. Endringer trer i kraft ved publisering på nettstedet."
+            },
+            "contact": {
+                "title": "11. Kontakt",
+                "description": "For spørsmål vedrørende behandling av opplysninger:",
+                "email": "E-post: hello@sironic.hu",
+                "phone": "Telefon: +36702735532"
+            },
+            "compliance": {
+                "title": "Overholdelse",
+                "description": "Dette dokumentet overholder EUs GDPR-krav og er egnet for publisering på nettstedet."
+            }
+        }
     }
 }

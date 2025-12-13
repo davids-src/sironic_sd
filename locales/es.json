@@ -1824,5 +1824,144 @@
       "description": "No deje el lado técnico al azar.",
       "button": "Obtener un Presupuesto"
     }
+  },
+  "privacyPage": {
+    "title": "Política de Privacidad",
+    "effectiveDate": "Vigente desde: 2025.11.01",
+    "website": "Sitio web: https://sironic.eu",
+    "sections": {
+      "dataController": {
+        "title": "1. Datos del responsable del tratamiento",
+        "name": "Nombre del responsable: Skoda Dávid András Empresario individual",
+        "businessName": "Nombre de la empresa: Sironic Rendszerház",
+        "address": "Domicilio: 8000 Székesfehérvár, Lövölde utca 24 4/15",
+        "email": "Correo electrónico: hello@sironic.hu",
+        "phone": "Teléfono: +36702735532",
+        "note": "El responsable del tratamiento actúa de conformidad con el Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo (GDPR)."
+      },
+      "principles": {
+        "title": "2. Principios del tratamiento de datos",
+        "description": "El responsable del tratamiento procesa los datos personales de acuerdo con los siguientes principios:",
+        "items": [
+          "licitud, lealtad y transparencia",
+          "limitación de la finalidad",
+          "minimización de datos",
+          "exactitud",
+          "limitación del almacenamiento",
+          "integridad y confidencialidad"
+        ]
+      },
+      "dataScope": {
+        "title": "3. Alcance de los datos tratados",
+        "contactData": {
+          "title": "3.1. Datos proporcionados durante el contacto",
+          "items": [
+            "nombre",
+            "dirección de correo electrónico",
+            "número de teléfono (opcional)",
+            "contenido del mensaje"
+          ]
+        },
+        "technicalData": {
+          "title": "3.2. Datos técnicos",
+          "items": [
+            "dirección IP",
+            "tipo y versión del navegador",
+            "sistema operativo",
+            "marca de tiempo de la visita",
+            "subpáginas visitadas"
+          ]
+        },
+        "cookies": {
+          "title": "3.3. Cookies",
+          "description": "El sitio web puede utilizar cookies necesarias para el funcionamiento, así como – con consentimiento – cookies estadísticas."
+        }
+      },
+      "purpose": {
+        "title": "4. Finalidad y base legal del tratamiento de datos",
+        "table": {
+          "purpose": "Finalidad del tratamiento",
+          "legalBasis": "Base legal",
+          "contact": "Contacto",
+          "contactBasis": "Consentimiento (GDPR artículo 6(1)(a))",
+          "website": "Funcionamiento del sitio web",
+          "websiteBasis": "Interés legítimo (GDPR artículo 6(1)(f))",
+          "security": "Registro de seguridad",
+          "securityBasis": "Interés legítimo",
+          "cookies": "Uso de cookies",
+          "cookiesBasis": "Consentimiento / Interés legítimo"
+        }
+      },
+      "retention": {
+        "title": "5. Período de conservación de datos",
+        "items": [
+          "Datos de contacto: máximo 12 meses",
+          "Registros técnicos: máximo 12 meses",
+          "Cookies: según el período especificado en la información sobre cookies"
+        ]
+      },
+      "processors": {
+        "title": "6. Encargados del tratamiento",
+        "description": "El responsable del tratamiento puede contratar a los siguientes encargados del tratamiento:",
+        "items": [
+          "proveedor de alojamiento",
+          "proveedor de correo electrónico",
+          "proveedor de análisis (ej. Google Analytics – si aplica)"
+        ],
+        "note": "Los encargados del tratamiento procesan los datos exclusivamente según las instrucciones del responsable del tratamiento."
+      },
+      "transfer": {
+        "title": "7. Transferencia de datos",
+        "description": "Los datos personales se transfieren a terceros solo:",
+        "items": [
+          "sobre la base de una obligación legal, o",
+          "con el consentimiento explícito del interesado"
+        ],
+        "conclusion": "se transfieren."
+      },
+      "rights": {
+        "title": "8. Derechos de los interesados",
+        "description": "El interesado tiene derecho a:",
+        "items": [
+          "solicitar información",
+          "solicitar acceso",
+          "solicitar rectificación",
+          "solicitar supresión (derecho al olvido)",
+          "solicitar limitación del tratamiento",
+          "oponerse al tratamiento de datos",
+          "solicitar portabilidad de datos",
+          "presentar una reclamación ante una autoridad de control"
+        ],
+        "authority": {
+          "title": "Autoridad de control:",
+          "name": "Autoridad Nacional de Protección de Datos y Libertad de Información (NAIH)",
+          "address": "1055 Budapest, Falk Miksa utca 9–11."
+        }
+      },
+      "security": {
+        "title": "9. Seguridad de datos",
+        "description": "El responsable del tratamiento aplica medidas técnicas y organizativas apropiadas para proteger los datos, en particular:",
+        "items": [
+          "Cifrado HTTPS / SSL",
+          "gestión de permisos",
+          "actualizaciones regulares",
+          "almacenamiento seguro"
+        ]
+      },
+      "modification": {
+        "title": "10. Modificación de la política",
+        "description": "El responsable del tratamiento tiene derecho a modificar esta política de privacidad en cualquier momento. Las modificaciones entran en vigor con la publicación en el sitio web."
+      },
+      "contact": {
+        "title": "11. Contacto",
+        "description": "Para preguntas relacionadas con el tratamiento de datos:",
+        "email": "Correo electrónico: hello@sironic.hu",
+        "phone": "Teléfono: +36702735532"
+      },
+      "compliance": {
+        "title": "Cumplimiento",
+        "description": "Este documento cumple con los requisitos del GDPR de la UE y es adecuado para su publicación en el sitio web."
+      }
+    }
   }
 }

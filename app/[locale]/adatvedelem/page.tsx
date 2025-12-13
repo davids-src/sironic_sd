@@ -12,7 +12,22 @@ export default function PrivacyPage() {
   const locale = (params?.locale as string) || 'hu';
   const privacyPath = getLocalizedPath('privacy', locale as Locale);
 
-  const sections = t('privacyPage.sections', []);
+  // Get sections with safe fallback
+  const sections = t('privacyPage.sections', []) as any;
+  
+  // If sections is undefined or missing, show error message
+  if (!sections || !sections.dataController) {
+    return (
+      <section className="py-20 lg:py-32 bg-gray-50 dark:bg-gray-900/50">
+        <div className="container mx-auto px-4 md:px-6">
+          <div className="mx-auto max-w-4xl text-center">
+            <h1 className="text-4xl font-bold mb-4">Privacy Policy</h1>
+            <p className="text-muted-foreground">Translations are being added. Please check back soon.</p>
+          </div>
+        </div>
+      </section>
+    );
+  }
 
   return (
     <>

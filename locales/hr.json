@@ -1813,5 +1813,144 @@
       "description": "Ne prepuštajte tehniku slučaju.",
       "button": "Tražim ponudu"
     }
+  },
+  "privacyPage": {
+    "title": "Obavijest o obradi podataka",
+    "effectiveDate": "Na snazi od: 2025.11.01",
+    "website": "Web stranica: https://sironic.eu",
+    "sections": {
+      "dataController": {
+        "title": "1. Podaci o voditelju obrade",
+        "name": "Ime voditelja obrade: Skoda Dávid András obrtnik",
+        "businessName": "Naziv tvrtke: Sironic Rendszerház",
+        "address": "Sjedište: 8000 Székesfehérvár, Lövölde utca 24 4/15",
+        "email": "E-mail: hello@sironic.hu",
+        "phone": "Telefon: +36702735532",
+        "note": "Voditelj obrade djeluje u skladu s Uredbom (EU) 2016/679 Europskog parlamenta i Vijeća (GDPR)."
+      },
+      "principles": {
+        "title": "2. Načela obrade podataka",
+        "description": "Voditelj obrade obrađuje osobne podatke u skladu sa sljedećim načelima:",
+        "items": [
+          "zakonitost, poštenje i transparentnost",
+          "ograničenje svrhe",
+          "minimizacija podataka",
+          "točnost",
+          "ograničenje pohrane",
+          "integritet i povjerljivost"
+        ]
+      },
+      "dataScope": {
+        "title": "3. Opseg obrađenih podataka",
+        "contactData": {
+          "title": "3.1. Podaci navedeni pri kontaktu",
+          "items": [
+            "ime",
+            "e-mail adresa",
+            "broj telefona (neobavezno)",
+            "sadržaj poruke"
+          ]
+        },
+        "technicalData": {
+          "title": "3.2. Tehnički podaci",
+          "items": [
+            "IP adresa",
+            "tip i verzija preglednika",
+            "operacijski sustav",
+            "vrijeme posjeta",
+            "posjećene podstranice"
+          ]
+        },
+        "cookies": {
+          "title": "3.3. Kolačići",
+          "description": "Web stranica može koristiti kolačiće potrebne za rad, kao i – uz pristanak – statističke kolačiće."
+        }
+      },
+      "purpose": {
+        "title": "4. Svrha i pravna osnova obrade podataka",
+        "table": {
+          "purpose": "Svrha obrade podataka",
+          "legalBasis": "Pravna osnova",
+          "contact": "Kontakt",
+          "contactBasis": "Pristanak (GDPR članak 6(1)(a))",
+          "website": "Rad web stranice",
+          "websiteBasis": "Opravdani interes (GDPR članak 6(1)(f))",
+          "security": "Sigurnosno zapisivanje",
+          "securityBasis": "Opravdani interes",
+          "cookies": "Korištenje kolačića",
+          "cookiesBasis": "Pristanak / Opravdani interes"
+        }
+      },
+      "retention": {
+        "title": "5. Razdoblje čuvanja podataka",
+        "items": [
+          "Kontaktni podaci: najviše 12 mjeseci",
+          "Tehnički zapisi: najviše 12 mjeseci",
+          "Kolačići: prema razdoblju navedenom u informacijama o kolačićima"
+        ]
+      },
+      "processors": {
+        "title": "6. Izvršitelji obrade",
+        "description": "Voditelj obrade može angažirati sljedeće izvršitelje obrade:",
+        "items": [
+          "pružatelj usluge hostinga",
+          "pružatelj usluge e-pošte",
+          "pružatelj usluge analitike (npr. Google Analytics – ako se primjenjuje)"
+        ],
+        "note": "Izvršitelji obrade obrađuju podatke isključivo prema uputama voditelja obrade."
+      },
+      "transfer": {
+        "title": "7. Prijenos podataka",
+        "description": "Osobni podaci se prenose trećim stranama samo:",
+        "items": [
+          "na temelju zakonske obveze, ili",
+          "uz izričit pristanak dotične osobe"
+        ],
+        "conclusion": "se prenose."
+      },
+      "rights": {
+        "title": "8. Prava dotičnih osoba",
+        "description": "Dotična osoba ima pravo:",
+        "items": [
+          "zatražiti informacije",
+          "zatražiti pristup",
+          "zatražiti ispravak",
+          "zatražiti brisanje (pravo na zaborav)",
+          "zatražiti ograničenje obrade",
+          "prigovoriti obradi podataka",
+          "zatražiti prenosivost podataka",
+          "podnijeti pritužbu nadzornom tijelu"
+        ],
+        "authority": {
+          "title": "Nadzorno tijelo:",
+          "name": "Nacionalna agencija za zaštitu podataka i slobodu informacija (NAIH)",
+          "address": "1055 Budapest, Falk Miksa utca 9–11."
+        }
+      },
+      "security": {
+        "title": "9. Sigurnost podataka",
+        "description": "Voditelj obrade primjenjuje odgovarajuće tehničke i organizacijske mjere za zaštitu podataka, posebno:",
+        "items": [
+          "HTTPS / SSL šifriranje",
+          "upravljanje dozvolama",
+          "redovita ažuriranja",
+          "sigurno pohranjivanje"
+        ]
+      },
+      "modification": {
+        "title": "10. Izmjena obavijesti",
+        "description": "Voditelj obrade ima pravo izmijeniti ovu obavijest o obradi podataka u bilo kojem trenutku. Izmjene stupaju na snagu objavom na web stranici."
+      },
+      "contact": {
+        "title": "11. Kontakt",
+        "description": "Za pitanja u vezi s obrađom podataka:",
+        "email": "E-mail: hello@sironic.hu",
+        "phone": "Telefon: +36702735532"
+      },
+      "compliance": {
+        "title": "Usklađenost",
+        "description": "Ovaj dokument je u skladu sa zahtjevima GDPR-a EU-a i prikladan je za objavu na web stranici."
+      }
+    }
   }
 }

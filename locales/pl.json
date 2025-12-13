@@ -1830,5 +1830,144 @@
             "description": "Nie pozostawiaj strony technicznej przypadkowi.",
             "button": "Uzyskaj Wycenę"
         }
+    },
+    "privacyPage": {
+        "title": "Polityka Prywatności",
+        "effectiveDate": "Obowiązuje od: 2025.11.01",
+        "website": "Strona internetowa: https://sironic.eu",
+        "sections": {
+            "dataController": {
+                "title": "1. Dane administratora danych",
+                "name": "Nazwa administratora: Skoda Dávid András Jednoosobowa działalność gospodarcza",
+                "businessName": "Nazwa firmy: Sironic Rendszerház",
+                "address": "Siedziba: 8000 Székesfehérvár, Lövölde utca 24 4/15",
+                "email": "E-mail: hello@sironic.hu",
+                "phone": "Telefon: +36702735532",
+                "note": "Administrator działa zgodnie z Rozporządzeniem (UE) 2016/679 Parlamentu Europejskiego i Rady (RODO)."
+            },
+            "principles": {
+                "title": "2. Zasady przetwarzania danych",
+                "description": "Administrator przetwarza dane osobowe zgodnie z następującymi zasadami:",
+                "items": [
+                    "zgodność z prawem, rzetelność i przejrzystość",
+                    "ograniczenie celu",
+                    "minimalizacja danych",
+                    "dokładność",
+                    "ograniczenie przechowywania",
+                    "integralność i poufność"
+                ]
+            },
+            "dataScope": {
+                "title": "3. Zakres przetwarzanych danych",
+                "contactData": {
+                    "title": "3.1. Dane podane podczas kontaktu",
+                    "items": [
+                        "imię i nazwisko",
+                        "adres e-mail",
+                        "numer telefonu (opcjonalnie)",
+                        "treść wiadomości"
+                    ]
+                },
+                "technicalData": {
+                    "title": "3.2. Dane techniczne",
+                    "items": [
+                        "adres IP",
+                        "typ i wersja przeglądarki",
+                        "system operacyjny",
+                        "czas wizyty",
+                        "odwiedzone podstrony"
+                    ]
+                },
+                "cookies": {
+                    "title": "3.3. Pliki cookie",
+                    "description": "Strona internetowa może używać plików cookie niezbędnych do funkcjonowania, a także – za zgodą – plików cookie statystycznych."
+                }
+            },
+            "purpose": {
+                "title": "4. Cel i podstawa prawna przetwarzania danych",
+                "table": {
+                    "purpose": "Cel przetwarzania",
+                    "legalBasis": "Podstawa prawna",
+                    "contact": "Kontakt",
+                    "contactBasis": "Zgoda (RODO art. 6(1)(a))",
+                    "website": "Funkcjonowanie strony internetowej",
+                    "websiteBasis": "Prawnie uzasadniony interes (RODO art. 6(1)(f))",
+                    "security": "Rejestrowanie bezpieczeństwa",
+                    "securityBasis": "Prawnie uzasadniony interes",
+                    "cookies": "Używanie plików cookie",
+                    "cookiesBasis": "Zgoda / Prawnie uzasadniony interes"
+                }
+            },
+            "retention": {
+                "title": "5. Okres przechowywania danych",
+                "items": [
+                    "Dane kontaktowe: maksymalnie 12 miesięcy",
+                    "Dzienniki techniczne: maksymalnie 12 miesięcy",
+                    "Pliki cookie: zgodnie z okresem określonym w informacjach o plikach cookie"
+                ]
+            },
+            "processors": {
+                "title": "6. Podmioty przetwarzające",
+                "description": "Administrator może korzystać z następujących podmiotów przetwarzających:",
+                "items": [
+                    "dostawca hostingu",
+                    "dostawca poczty e-mail",
+                    "dostawca analityki (np. Google Analytics – jeśli dotyczy)"
+                ],
+                "note": "Podmioty przetwarzające przetwarzają dane wyłącznie zgodnie z instrukcjami administratora."
+            },
+            "transfer": {
+                "title": "7. Przekazywanie danych",
+                "description": "Dane osobowe są przekazywane osobom trzecim wyłącznie:",
+                "items": [
+                    "na podstawie obowiązku prawnego, lub",
+                    "za wyraźną zgodą osoby, której dane dotyczą"
+                ],
+                "conclusion": "są przekazywane."
+            },
+            "rights": {
+                "title": "8. Prawa osób, których dane dotyczą",
+                "description": "Osoba, której dane dotyczą, ma prawo do:",
+                "items": [
+                    "żądania informacji",
+                    "żądania dostępu",
+                    "żądania sprostowania",
+                    "żądania usunięcia (prawo do bycia zapomnianym)",
+                    "żądania ograniczenia przetwarzania",
+                    "wniesienia sprzeciwu wobec przetwarzania danych",
+                    "żądania przenoszenia danych",
+                    "wniesienia skargi do organu nadzorczego"
+                ],
+                "authority": {
+                    "title": "Organ nadzorczy:",
+                    "name": "Narodowa Agencja Ochrony Danych i Wolności Informacji (NAIH)",
+                    "address": "1055 Budapest, Falk Miksa utca 9–11."
+                }
+            },
+            "security": {
+                "title": "9. Bezpieczeństwo danych",
+                "description": "Administrator stosuje odpowiednie środki techniczne i organizacyjne w celu ochrony danych, w szczególności:",
+                "items": [
+                    "Szyfrowanie HTTPS / SSL",
+                    "zarządzanie uprawnieniami",
+                    "regularne aktualizacje",
+                    "bezpieczne przechowywanie"
+                ]
+            },
+            "modification": {
+                "title": "10. Zmiana polityki",
+                "description": "Administrator ma prawo zmienić tę politykę prywatności w dowolnym momencie. Zmiany wchodzą w życie z chwilą opublikowania na stronie internetowej."
+            },
+            "contact": {
+                "title": "11. Kontakt",
+                "description": "W przypadku pytań dotyczących przetwarzania danych:",
+                "email": "E-mail: hello@sironic.hu",
+                "phone": "Telefon: +36702735532"
+            },
+            "compliance": {
+                "title": "Zgodność",
+                "description": "Niniejszy dokument jest zgodny z wymogami RODO UE i nadaje się do publikacji na stronie internetowej."
+            }
+        }
     }
 }

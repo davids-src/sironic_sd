@@ -1824,5 +1824,144 @@
             "description": "Ne prepustite tehnične strani naključju.",
             "button": "Pridobi ponudbo"
         }
+    },
+    "privacyPage": {
+        "title": "Obvestilo o obdelavi podatkov",
+        "effectiveDate": "Veljavno od: 2025.11.01",
+        "website": "Spletna stran: https://sironic.eu",
+        "sections": {
+            "dataController": {
+                "title": "1. Podatki o upravljavcu podatkov",
+                "name": "Ime upravljavca podatkov: Skoda Dávid András samostojni podjetnik",
+                "businessName": "Ime podjetja: Sironic Rendszerház",
+                "address": "Sedež: 8000 Székesfehérvár, Lövölde utca 24 4/15",
+                "email": "E-pošta: hello@sironic.hu",
+                "phone": "Telefon: +36702735532",
+                "note": "Upravljavec podatkov deluje v skladu z Uredbo (EU) 2016/679 Evropskega parlamenta in Sveta (GDPR)."
+            },
+            "principles": {
+                "title": "2. Načela obdelave podatkov",
+                "description": "Upravljavec podatkov obdeluje osebne podatke v skladu z naslednjimi načeli:",
+                "items": [
+                    "zakonitost, poštenost in transparentnost",
+                    "omejitev namena",
+                    "zmanjšanje podatkov",
+                    "natančnost",
+                    "omejitev shranjevanja",
+                    "integriteta in zaupnost"
+                ]
+            },
+            "dataScope": {
+                "title": "3. Obseg obdelanih podatkov",
+                "contactData": {
+                    "title": "3.1. Podatki, navedeni pri stiku",
+                    "items": [
+                        "ime",
+                        "e-poštni naslov",
+                        "telefonska številka (neobvezno)",
+                        "vsebina sporočila"
+                    ]
+                },
+                "technicalData": {
+                    "title": "3.2. Tehnični podatki",
+                    "items": [
+                        "IP naslov",
+                        "vrsta in različica brskalnika",
+                        "operacijski sistem",
+                        "čas obiska",
+                        "obiskane podstrani"
+                    ]
+                },
+                "cookies": {
+                    "title": "3.3. Piškotki",
+                    "description": "Spletna stran lahko uporablja piškotke, potrebne za delovanje, ter – s privolitvijo – statistične piškotke."
+                }
+            },
+            "purpose": {
+                "title": "4. Namen in pravna podlaga obdelave podatkov",
+                "table": {
+                    "purpose": "Namen obdelave podatkov",
+                    "legalBasis": "Pravna podlaga",
+                    "contact": "Stik",
+                    "contactBasis": "Privolitev (GDPR člen 6(1)(a))",
+                    "website": "Delovanje spletne strani",
+                    "websiteBasis": "Upravičen interes (GDPR člen 6(1)(f))",
+                    "security": "Varnostno beleženje",
+                    "securityBasis": "Upravičen interes",
+                    "cookies": "Uporaba piškotkov",
+                    "cookiesBasis": "Privolitev / Upravičen interes"
+                }
+            },
+            "retention": {
+                "title": "5. Obdobje hranjenja podatkov",
+                "items": [
+                    "Kontaktni podatki: največ 12 mesecev",
+                    "Tehnični zapisi: največ 12 mesecev",
+                    "Piškotki: glede na obdobje, navedeno v informacijah o piškotkih"
+                ]
+            },
+            "processors": {
+                "title": "6. Obvladovalci obdelave",
+                "description": "Upravljavec podatkov lahko angažira naslednje obvladovalce obdelave:",
+                "items": [
+                    "ponudnik gostovanja",
+                    "ponudnik e-pošte",
+                    "ponudnik analitike (npr. Google Analytics – če se uporablja)"
+                ],
+                "note": "Obvladovalci obdelave obdelujejo podatke izključno v skladu z navodili upravljavca podatkov."
+            },
+            "transfer": {
+                "title": "7. Prenos podatkov",
+                "description": "Osebni podatki se prenašajo tretjim osebam samo:",
+                "items": [
+                    "na podlagi zakonske obveze, ali",
+                    "z izrecno privolitvijo zadevne osebe"
+                ],
+                "conclusion": "se prenašajo."
+            },
+            "rights": {
+                "title": "8. Pravice zadevnih oseb",
+                "description": "Zadevna oseba ima pravico:",
+                "items": [
+                    "zahtevati informacije",
+                    "zahtevati dostop",
+                    "zahtevati popravek",
+                    "zahtevati izbris (pravica do pozabe)",
+                    "zahtevati omejitev obdelave",
+                    "ugovarjati obdelavi podatkov",
+                    "zahtevati prenosljivost podatkov",
+                    "vložiti pritožbo nadzornemu organu"
+                ],
+                "authority": {
+                    "title": "Nadzorni organ:",
+                    "name": "Nacionalna agencija za varstvo podatkov in svobodo informacij (NAIH)",
+                    "address": "1055 Budapest, Falk Miksa utca 9–11."
+                }
+            },
+            "security": {
+                "title": "9. Varnost podatkov",
+                "description": "Upravljavec podatkov uporablja ustrezne tehnične in organizacijske ukrepe za zaščito podatkov, zlasti:",
+                "items": [
+                    "HTTPS / SSL šifriranje",
+                    "upravljanje dovoljenj",
+                    "redne posodobitve",
+                    "varno shranjevanje"
+                ]
+            },
+            "modification": {
+                "title": "10. Sprememba obvestila",
+                "description": "Upravljavec podatkov ima pravico kadarkoli spremeniti to obvestilo o obdelavi podatkov. Spremembe začnejo veljati z objavo na spletni strani."
+            },
+            "contact": {
+                "title": "11. Kontakt",
+                "description": "Za vprašanja v zvezi z obdelavo podatkov:",
+                "email": "E-pošta: hello@sironic.hu",
+                "phone": "Telefon: +36702735532"
+            },
+            "compliance": {
+                "title": "Skladnost",
+                "description": "Ta dokument je v skladu z zahtevami GDPR EU in je primeren za objavo na spletni strani."
+            }
+        }
     }
 }

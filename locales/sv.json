@@ -1828,5 +1828,144 @@
             "description": "Lämna inte den tekniska sidan åt slumpen.",
             "button": "Få en Offert"
         }
+    },
+    "privacyPage": {
+        "title": "Integritetspolicy",
+        "effectiveDate": "Gäller från: 2025.11.01",
+        "website": "Webbplats: https://sironic.eu",
+        "sections": {
+            "dataController": {
+                "title": "1. Uppgifter om personuppgiftsansvarig",
+                "name": "Namn på personuppgiftsansvarig: Skoda Dávid András Ensamföretagare",
+                "businessName": "Företagsnamn: Sironic Rendszerház",
+                "address": "Säte: 8000 Székesfehérvár, Lövölde utca 24 4/15",
+                "email": "E-post: hello@sironic.hu",
+                "phone": "Telefon: +36702735532",
+                "note": "Personuppgiftsansvarig agerar i enlighet med Europaparlamentets och rådets förordning (EU) 2016/679 (GDPR)."
+            },
+            "principles": {
+                "title": "2. Principer för behandling av personuppgifter",
+                "description": "Personuppgiftsansvarig behandlar personuppgifter enligt följande principer:",
+                "items": [
+                    "laglighet, rättvisa och transparens",
+                    "ändamålsbegränsning",
+                    "dataminimering",
+                    "noggrannhet",
+                    "begränsad lagring",
+                    "integritet och konfidentialitet"
+                ]
+            },
+            "dataScope": {
+                "title": "3. Omfattning av behandlade uppgifter",
+                "contactData": {
+                    "title": "3.1. Uppgifter som lämnas vid kontakt",
+                    "items": [
+                        "namn",
+                        "e-postadress",
+                        "telefonnummer (valfritt)",
+                        "meddelandeinnehåll"
+                    ]
+                },
+                "technicalData": {
+                    "title": "3.2. Tekniska uppgifter",
+                    "items": [
+                        "IP-adress",
+                        "webbläsartyp och version",
+                        "operativsystem",
+                        "besökstidpunkt",
+                        "besökta undersidor"
+                    ]
+                },
+                "cookies": {
+                    "title": "3.3. Cookies",
+                    "description": "Webbplatsen kan använda cookies som är nödvändiga för funktionen, samt – med samtycke – statistiska cookies."
+                }
+            },
+            "purpose": {
+                "title": "4. Syfte och rättslig grund för behandling av uppgifter",
+                "table": {
+                    "purpose": "Syfte med behandlingen",
+                    "legalBasis": "Rättslig grund",
+                    "contact": "Kontakt",
+                    "contactBasis": "Samtycke (GDPR artikel 6(1)(a))",
+                    "website": "Webbplatsdrift",
+                    "websiteBasis": "Berättigat intresse (GDPR artikel 6(1)(f))",
+                    "security": "Säkerhetsloggning",
+                    "securityBasis": "Berättigat intresse",
+                    "cookies": "Användning av cookies",
+                    "cookiesBasis": "Samtycke / Berättigat intresse"
+                }
+            },
+            "retention": {
+                "title": "5. Lagringstid för uppgifter",
+                "items": [
+                    "Kontaktuppgifter: högst 12 månader",
+                    "Tekniska loggar: högst 12 månader",
+                    "Cookies: enligt den tid som anges i cookie-informationen"
+                ]
+            },
+            "processors": {
+                "title": "6. Personuppgiftsbiträden",
+                "description": "Personuppgiftsansvarig kan anlita följande personuppgiftsbiträden:",
+                "items": [
+                    "värdtjänstleverantör",
+                    "e-postleverantör",
+                    "analysleverantör (t.ex. Google Analytics – om tillämpligt)"
+                ],
+                "note": "Personuppgiftsbiträden behandlar uppgifter enbart enligt personuppgiftsansvarigs instruktioner."
+            },
+            "transfer": {
+                "title": "7. Överföring av uppgifter",
+                "description": "Personuppgifter överförs till tredje part endast:",
+                "items": [
+                    "på grundval av en laglig skyldighet, eller",
+                    "med den registrerades uttryckliga samtycke"
+                ],
+                "conclusion": "överförs."
+            },
+            "rights": {
+                "title": "8. De registrerades rättigheter",
+                "description": "Den registrerade har rätt att:",
+                "items": [
+                    "begära information",
+                    "begära tillgång",
+                    "begära rättelse",
+                    "begära radering (rätt att bli glömd)",
+                    "begära begränsning av behandlingen",
+                    "invända mot behandling av uppgifter",
+                    "begära dataportabilitet",
+                    "lämna klagomål till en tillsynsmyndighet"
+                ],
+                "authority": {
+                    "title": "Tillsynsmyndighet:",
+                    "name": "Nationella myndigheten för dataskydd och informationsfrihet (NAIH)",
+                    "address": "1055 Budapest, Falk Miksa utca 9–11."
+                }
+            },
+            "security": {
+                "title": "9. Datasäkerhet",
+                "description": "Personuppgiftsansvarig tillämpar lämpliga tekniska och organisatoriska åtgärder för att skydda uppgifterna, särskilt:",
+                "items": [
+                    "HTTPS / SSL-kryptering",
+                    "behörighetshantering",
+                    "regelbundna uppdateringar",
+                    "säker lagring"
+                ]
+            },
+            "modification": {
+                "title": "10. Ändring av policyn",
+                "description": "Personuppgiftsansvarig har rätt att ändra denna integritetspolicy när som helst. Ändringar träder i kraft vid publicering på webbplatsen."
+            },
+            "contact": {
+                "title": "11. Kontakt",
+                "description": "För frågor om behandling av uppgifter:",
+                "email": "E-post: hello@sironic.hu",
+                "phone": "Telefon: +36702735532"
+            },
+            "compliance": {
+                "title": "Efterlevnad",
+                "description": "Detta dokument följer EU:s GDPR-krav och är lämpligt för publicering på webbplatsen."
+            }
+        }
     }
 }

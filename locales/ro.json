@@ -1818,5 +1818,144 @@
       "description": "Nu lăsați tehnologia la voia întâmplării.",
       "button": "Cere Ofertă"
     }
+  },
+  "privacyPage": {
+    "title": "Politica de Confidențialitate",
+    "effectiveDate": "Efectivă din: 2025.11.01",
+    "website": "Site web: https://sironic.eu",
+    "sections": {
+      "dataController": {
+        "title": "1. Datele operatorului de date",
+        "name": "Numele operatorului de date: Skoda Dávid András PFA",
+        "businessName": "Numele afacerii: Sironic Rendszerház",
+        "address": "Sediu: 8000 Székesfehérvár, Lövölde utca 24 4/15",
+        "email": "E-mail: hello@sironic.hu",
+        "phone": "Telefon: +36702735532",
+        "note": "Operatorul de date acționează în conformitate cu Regulamentul (UE) 2016/679 al Parlamentului European și al Consiliului (GDPR)."
+      },
+      "principles": {
+        "title": "2. Principiile prelucrării datelor",
+        "description": "Operatorul de date prelucrează datele personale în conformitate cu următoarele principii:",
+        "items": [
+          "legalitate, corectitudine și transparență",
+          "limitarea scopului",
+          "minimizarea datelor",
+          "exactitate",
+          "limitarea stocării",
+          "integritate și confidențialitate"
+        ]
+      },
+      "dataScope": {
+        "title": "3. Domeniul datelor prelucrate",
+        "contactData": {
+          "title": "3.1. Date furnizate la contact",
+          "items": [
+            "nume",
+            "adresă e-mail",
+            "număr de telefon (opțional)",
+            "conținutul mesajului"
+          ]
+        },
+        "technicalData": {
+          "title": "3.2. Date tehnice",
+          "items": [
+            "adresă IP",
+            "tipul și versiunea browser-ului",
+            "sistemul de operare",
+            "momentul vizitei",
+            "subpagini vizitate"
+          ]
+        },
+        "cookies": {
+          "title": "3.3. Cookie-uri",
+          "description": "Site-ul poate folosi cookie-uri necesare pentru funcționare, precum și – cu consimțământ – cookie-uri statistice."
+        }
+      },
+      "purpose": {
+        "title": "4. Scopul și baza legală a prelucrării datelor",
+        "table": {
+          "purpose": "Scopul prelucrării datelor",
+          "legalBasis": "Baza legală",
+          "contact": "Contact",
+          "contactBasis": "Consimțământ (GDPR articolul 6(1)(a))",
+          "website": "Funcționarea site-ului",
+          "websiteBasis": "Interes legitim (GDPR articolul 6(1)(f))",
+          "security": "Înregistrare securitate",
+          "securityBasis": "Interes legitim",
+          "cookies": "Utilizarea cookie-urilor",
+          "cookiesBasis": "Consimțământ / Interes legitim"
+        }
+      },
+      "retention": {
+        "title": "5. Perioada de păstrare a datelor",
+        "items": [
+          "Date de contact: maximum 12 luni",
+          "Jurnale tehnice: maximum 12 luni",
+          "Cookie-uri: conform perioadei specificate în informațiile despre cookie-uri"
+        ]
+      },
+      "processors": {
+        "title": "6. Operatorii de prelucrare",
+        "description": "Operatorul de date poate angaja următorii operatori de prelucrare:",
+        "items": [
+          "furnizor de hosting",
+          "furnizor de e-mail",
+          "furnizor de analiză (de ex. Google Analytics – dacă se aplică)"
+        ],
+        "note": "Operatorii de prelucrare prelucrează datele exclusiv conform instrucțiunilor operatorului de date."
+      },
+      "transfer": {
+        "title": "7. Transferul datelor",
+        "description": "Datele personale sunt transferate către terți doar:",
+        "items": [
+          "pe baza unei obligații legale, sau",
+          "cu consimțământul explicit al persoanei vizate"
+        ],
+        "conclusion": "sunt transferate."
+      },
+      "rights": {
+        "title": "8. Drepturile persoanelor vizate",
+        "description": "Persoana vizată are dreptul să:",
+        "items": [
+          "solicite informații",
+          "solicite acces",
+          "solicite rectificare",
+          "solicite ștergere (dreptul de a fi uitat)",
+          "solicite restricționarea prelucrării",
+          "se opună prelucrării datelor",
+          "solicite portabilitatea datelor",
+          "depună plângere la o autoritate de supraveghere"
+        ],
+        "authority": {
+          "title": "Autoritatea de supraveghere:",
+          "name": "Autoritatea Națională pentru Protecția Datelor și Libertatea Informațiilor (NAIH)",
+          "address": "1055 Budapest, Falk Miksa utca 9–11."
+        }
+      },
+      "security": {
+        "title": "9. Securitatea datelor",
+        "description": "Operatorul de date aplică măsuri tehnice și organizatorice adecvate pentru protejarea datelor, în special:",
+        "items": [
+          "Criptare HTTPS / SSL",
+          "gestionarea permisiunilor",
+          "actualizări regulate",
+          "stocare sigură"
+        ]
+      },
+      "modification": {
+        "title": "10. Modificarea politicii",
+        "description": "Operatorul de date are dreptul să modifice această politică de confidențialitate oricând. Modificările intră în vigoare prin publicarea pe site."
+      },
+      "contact": {
+        "title": "11. Contact",
+        "description": "Pentru întrebări privind prelucrarea datelor:",
+        "email": "E-mail: hello@sironic.hu",
+        "phone": "Telefon: +36702735532"
+      },
+      "compliance": {
+        "title": "Conformitate",
+        "description": "Acest document este în conformitate cu cerințele GDPR UE și este potrivit pentru publicare pe site."
+      }
+    }
   }
 }

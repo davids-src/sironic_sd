@@ -1846,5 +1846,144 @@
       "description": "Don't leave the technical side to chance.",
       "button": "Get a Quote"
     }
+  },
+  "privacyPage": {
+    "title": "Data Protection Notice",
+    "effectiveDate": "Effective: 2025.11.01",
+    "website": "Website: https://sironic.eu",
+    "sections": {
+      "dataController": {
+        "title": "1. Data Controller Information",
+        "name": "Data Controller Name: Skoda Dávid András Sole Proprietor",
+        "businessName": "Business Name: Sironic Rendszerház",
+        "address": "Registered Office: 8000 Székesfehérvár, Lövölde utca 24 4/15",
+        "email": "Email: hello@sironic.hu",
+        "phone": "Phone: +36702735532",
+        "note": "The data controller acts in accordance with Regulation (EU) 2016/679 of the European Parliament and Council (GDPR)."
+      },
+      "principles": {
+        "title": "2. Data Processing Principles",
+        "description": "The data controller processes personal data in accordance with the following principles:",
+        "items": [
+          "lawfulness, fairness and transparency",
+          "purpose limitation",
+          "data minimization",
+          "accuracy",
+          "storage limitation",
+          "integrity and confidentiality"
+        ]
+      },
+      "dataScope": {
+        "title": "3. Scope of Data Processed",
+        "contactData": {
+          "title": "3.1. Data Provided During Contact",
+          "items": [
+            "name",
+            "email address",
+            "phone number (optional)",
+            "message content"
+          ]
+        },
+        "technicalData": {
+          "title": "3.2. Technical Data",
+          "items": [
+            "IP address",
+            "browser type and version",
+            "operating system",
+            "visit timestamp",
+            "visited subpages"
+          ]
+        },
+        "cookies": {
+          "title": "3.3. Cookies",
+          "description": "The website may use cookies necessary for operation, and – with consent – statistical cookies."
+        }
+      },
+      "purpose": {
+        "title": "4. Purpose and Legal Basis of Data Processing",
+        "table": {
+          "purpose": "Data Processing Purpose",
+          "legalBasis": "Legal Basis",
+          "contact": "Contact",
+          "contactBasis": "Consent (GDPR Article 6(1)(a))",
+          "website": "Website Operation",
+          "websiteBasis": "Legitimate Interest (GDPR Article 6(1)(f))",
+          "security": "Security Logging",
+          "securityBasis": "Legitimate Interest",
+          "cookies": "Cookie Usage",
+          "cookiesBasis": "Consent / Legitimate Interest"
+        }
+      },
+      "retention": {
+        "title": "5. Data Retention Period",
+        "items": [
+          "Contact data: maximum 12 months",
+          "Technical logs: maximum 12 months",
+          "Cookies: as specified in the cookie notice"
+        ]
+      },
+      "processors": {
+        "title": "6. Data Processors",
+        "description": "The data controller may engage the following data processors:",
+        "items": [
+          "hosting provider",
+          "email provider",
+          "analytics provider (e.g., Google Analytics – if applicable)"
+        ],
+        "note": "Data processors process data solely in accordance with the data controller's instructions."
+      },
+      "transfer": {
+        "title": "7. Data Transfer",
+        "description": "Personal data is transferred to third parties only:",
+        "items": [
+          "based on legal obligation, or",
+          "with the explicit consent of the data subject"
+        ],
+        "conclusion": "are transferred."
+      },
+      "rights": {
+        "title": "8. Rights of Data Subjects",
+        "description": "The data subject is entitled to:",
+        "items": [
+          "request information",
+          "request access",
+          "request rectification",
+          "request erasure (right to be forgotten)",
+          "request restriction of processing",
+          "object to data processing",
+          "request data portability",
+          "lodge a complaint with a supervisory authority"
+        ],
+        "authority": {
+          "title": "Supervisory Authority:",
+          "name": "National Authority for Data Protection and Freedom of Information (NAIH)",
+          "address": "1055 Budapest, Falk Miksa utca 9–11."
+        }
+      },
+      "security": {
+        "title": "9. Data Security",
+        "description": "The data controller implements appropriate technical and organizational measures to protect data, in particular:",
+        "items": [
+          "HTTPS / SSL encryption",
+          "access control",
+          "regular updates",
+          "secure storage"
+        ]
+      },
+      "modification": {
+        "title": "10. Modification of Notice",
+        "description": "The data controller is entitled to modify this data protection notice at any time. Modifications take effect upon publication on the website."
+      },
+      "contact": {
+        "title": "11. Contact",
+        "description": "For questions regarding data processing:",
+        "email": "Email: hello@sironic.hu",
+        "phone": "Phone: +36702735532"
+      },
+      "compliance": {
+        "title": "Compliance",
+        "description": "This document complies with EU GDPR requirements and is suitable for publication on the website."
+      }
+    }
   }
 }

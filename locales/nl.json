@@ -1829,5 +1829,144 @@
             "description": "Laat de technische kant niet aan het toeval over.",
             "button": "Krijg een Offerte"
         }
+    },
+    "privacyPage": {
+        "title": "Privacybeleid",
+        "effectiveDate": "Van kracht vanaf: 2025.11.01",
+        "website": "Website: https://sironic.eu",
+        "sections": {
+            "dataController": {
+                "title": "1. Gegevens van de verwerkingsverantwoordelijke",
+                "name": "Naam verwerkingsverantwoordelijke: Skoda Dávid András Eenmanszaak",
+                "businessName": "Bedrijfsnaam: Sironic Rendszerház",
+                "address": "Vestigingsadres: 8000 Székesfehérvár, Lövölde utca 24 4/15",
+                "email": "E-mail: hello@sironic.hu",
+                "phone": "Telefoon: +36702735532",
+                "note": "De verwerkingsverantwoordelijke handelt in overeenstemming met Verordening (EU) 2016/679 van het Europees Parlement en de Raad (GDPR)."
+            },
+            "principles": {
+                "title": "2. Beginselen van gegevensverwerking",
+                "description": "De verwerkingsverantwoordelijke verwerkt persoonsgegevens volgens de volgende beginselen:",
+                "items": [
+                    "wettigheid, billijkheid en transparantie",
+                    "doelbinding",
+                    "gegevensminimalisatie",
+                    "nauwkeurigheid",
+                    "beperkte opslag",
+                    "integriteit en vertrouwelijkheid"
+                ]
+            },
+            "dataScope": {
+                "title": "3. Omvang van verwerkte gegevens",
+                "contactData": {
+                    "title": "3.1. Bij contact verstrekte gegevens",
+                    "items": [
+                        "naam",
+                        "e-mailadres",
+                        "telefoonnummer (optioneel)",
+                        "berichtinhoud"
+                    ]
+                },
+                "technicalData": {
+                    "title": "3.2. Technische gegevens",
+                    "items": [
+                        "IP-adres",
+                        "browsertype en versie",
+                        "besturingssysteem",
+                        "bezoektijdstip",
+                        "bezochte subpagina's"
+                    ]
+                },
+                "cookies": {
+                    "title": "3.3. Cookies",
+                    "description": "De website kan cookies gebruiken die nodig zijn voor de werking, alsmede – met toestemming – statistische cookies."
+                }
+            },
+            "purpose": {
+                "title": "4. Doel en rechtsgrondslag van gegevensverwerking",
+                "table": {
+                    "purpose": "Doel van verwerking",
+                    "legalBasis": "Rechtsgrondslag",
+                    "contact": "Contact",
+                    "contactBasis": "Toestemming (GDPR artikel 6(1)(a))",
+                    "website": "Websitebedrijf",
+                    "websiteBasis": "Gerechtvaardigd belang (GDPR artikel 6(1)(f))",
+                    "security": "Beveiligingslogboek",
+                    "securityBasis": "Gerechtvaardigd belang",
+                    "cookies": "Gebruik van cookies",
+                    "cookiesBasis": "Toestemming / Gerechtvaardigd belang"
+                }
+            },
+            "retention": {
+                "title": "5. Bewaartermijn van gegevens",
+                "items": [
+                    "Contactgegevens: maximaal 12 maanden",
+                    "Technische logboeken: maximaal 12 maanden",
+                    "Cookies: volgens de in de cookie-informatie aangegeven periode"
+                ]
+            },
+            "processors": {
+                "title": "6. Verwerkers",
+                "description": "De verwerkingsverantwoordelijke kan de volgende verwerkers inschakelen:",
+                "items": [
+                    "hostingprovider",
+                    "e-mailprovider",
+                    "analyseprovider (bijv. Google Analytics – indien van toepassing)"
+                ],
+                "note": "Verwerkers verwerken gegevens uitsluitend volgens de instructies van de verwerkingsverantwoordelijke."
+            },
+            "transfer": {
+                "title": "7. Doorgifte van gegevens",
+                "description": "Persoonsgegevens worden alleen aan derden doorgegeven:",
+                "items": [
+                    "op grond van een wettelijke verplichting, of",
+                    "met uitdrukkelijke toestemming van de betrokkene"
+                ],
+                "conclusion": "worden doorgegeven."
+            },
+            "rights": {
+                "title": "8. Rechten van betrokkenen",
+                "description": "De betrokkene heeft het recht om:",
+                "items": [
+                    "informatie te verzoeken",
+                    "toegang te verzoeken",
+                    "rectificatie te verzoeken",
+                    "wissing te verzoeken (recht op vergetelheid)",
+                    "beperking van verwerking te verzoeken",
+                    "bezwaar te maken tegen gegevensverwerking",
+                    "gegevensoverdraagbaarheid te verzoeken",
+                    "een klacht in te dienen bij een toezichthoudende autoriteit"
+                ],
+                "authority": {
+                    "title": "Toezichthoudende autoriteit:",
+                    "name": "Nationale Autoriteit voor Gegevensbescherming en Informatievrijheid (NAIH)",
+                    "address": "1055 Budapest, Falk Miksa utca 9–11."
+                }
+            },
+            "security": {
+                "title": "9. Gegevensbeveiliging",
+                "description": "De verwerkingsverantwoordelijke past passende technische en organisatorische maatregelen toe om gegevens te beschermen, met name:",
+                "items": [
+                    "HTTPS / SSL-versleuteling",
+                    "machtigingsbeheer",
+                    "regelmatige updates",
+                    "veilige opslag"
+                ]
+            },
+            "modification": {
+                "title": "10. Wijziging van het beleid",
+                "description": "De verwerkingsverantwoordelijke heeft het recht om dit privacybeleid te allen tijde te wijzigen. Wijzigingen treden in werking bij publicatie op de website."
+            },
+            "contact": {
+                "title": "11. Contact",
+                "description": "Voor vragen over gegevensverwerking:",
+                "email": "E-mail: hello@sironic.hu",
+                "phone": "Telefoon: +36702735532"
+            },
+            "compliance": {
+                "title": "Naleving",
+                "description": "Dit document voldoet aan de EU-GDPR-vereisten en is geschikt voor publicatie op de website."
+            }
+        }
     }
 }
