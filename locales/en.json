@@ -2161,6 +2161,18 @@
       "disclaimer": "This is a rough estimate. Actual pricing depends on specific requirements. Let's discuss your needs for an accurate quote.",
       "cta": "Request Detailed Quote",
       "ctaSecondary": "Book a Call to Discuss"
+    },
+    "contact": {
+      "title": "Final Step: Contact Details",
+      "subtitle": "Provide your details to get a precise quote. Our team will contact you shortly.",
+      "name": "Full Name",
+      "company": "Company Name",
+      "email": "Email Address",
+      "phone": "Phone Number",
+      "submit": "Get My Quote",
+      "submitting": "Sending...",
+      "successTitle": "Request Sent!",
+      "successSubtitle": "We have received your details. Our team will contact you shortly with a precise estimate."
     }
   },
   "euDev": {

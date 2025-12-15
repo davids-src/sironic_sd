@@ -8,33 +8,27 @@ type CalculatorData = {
     companySize: string;
     serviceType: string;
     timeline: string;
-    estimate: string;
-    timestamp?: string;
+    contact: {
+        name: string;
+        company: string;
+        email: string;
+        phone: string;
+    };
 };
 
 async function sendDiscordNotification(data: CalculatorData & { ipAddress: string }) {
     const embed = {
-        title: '🧮 Új árkalkuláció',
+        title: '🧮 Új Árajánlat Kérés (Kalkulátor)',
         color: 0xffaa00, // Orange
         fields: [
             {
-                name: '👥 Cégméret',
-                value: data.companySize,
-                inline: true,
+                name: '👤 Kapcsolattartó',
+                value: `**Név:** ${data.contact.name}\n**Cég:** ${data.contact.company}\n**Email:** ${data.contact.email}\n**Tel:** ${data.contact.phone}`,
+                inline: false,
             },
             {
-                name: '🛠️ Szolgáltatás Típus',
-                value: data.serviceType,
-                inline: true,
-            },
-            {
-                name: '⏱️ Határidő',
-                value: data.timeline,
-                inline: true,
-            },
-            {
-                name: '💰 Becsült Költség',
-                value: data.estimate,
+                name: '📊 Projekt Adatok',
+                value: `**Méret:** ${data.companySize}\n**Típus:** ${data.serviceType}\n**Időkeret:** ${data.timeline}`,
                 inline: false,
             },
             {
@@ -49,7 +43,7 @@ async function sendDiscordNotification(data: CalculatorData & { ipAddress: strin
             },
         ],
         footer: {
-            text: 'SIRONIC Rendszerház - Kalkulátor',
+            text: 'SIRONIC Rendszerház - Kalkulátor Lead',
         },
         timestamp: new Date().toISOString(),
     };

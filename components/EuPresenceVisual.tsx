@@ -11,19 +11,19 @@ const countries = [
     { id: 'hu', x: 450, y: 350, label: 'Hungary (HQ)', r: 8, featured: true },
     { id: 'at', x: 380, y: 340, label: 'Austria', r: 6 },
     { id: 'sk', x: 450, y: 300, label: 'Slovakia', r: 5 },
-    { id: 'ro', x: 550, y: 380, label: 'Romania', r: 5 },
+    { id: 'ro', x: 550, y: 400, label: 'Romania', r: 5 },
     { id: 'de', x: 300, y: 280, label: 'Germany', r: 6 },
     { id: 'cz', x: 380, y: 290, label: 'Czechia', r: 5 },
     { id: 'pl', x: 460, y: 220, label: 'Poland', r: 5 },
-    { id: 'uk', x: 180, y: 220, label: 'UK / Ireland', r: 5 },
-    { id: 'fr', x: 200, y: 350, label: 'France', r: 4, ghost: true },
-    { id: 'it', x: 340, y: 460, label: 'Italy', r: 4, ghost: true },
-    { id: 'es', x: 120, y: 480, label: 'Spain', r: 4, ghost: true },
-    { id: 'nl', x: 260, y: 200, label: 'Netherlands', r: 4, ghost: true },
-    { id: 'be', x: 240, y: 230, label: 'Belgium', r: 4, ghost: true },
-    { id: 'se', x: 420, y: 120, label: 'Sweden', r: 4, ghost: true },
-    { id: 'dk', x: 320, y: 160, label: 'Denmark', r: 4, ghost: true },
-    { id: 'hr', x: 400, y: 410, label: 'Croatia', r: 4, ghost: true },
+    { id: 'uk', x: 180, y: 220, label: 'UK', r: 5 },
+    { id: 'fr', x: 200, y: 350, label: 'France', r: 4 },
+    { id: 'it', x: 340, y: 460, label: 'Italy', r: 4 },
+    { id: 'es', x: 120, y: 480, label: 'Spain', r: 4 },
+    { id: 'nl', x: 260, y: 200, label: 'Netherlands', r: 4 },
+    { id: 'be', x: 240, y: 230, label: 'Belgium', r: 4 },
+    { id: 'se', x: 420, y: 120, label: 'Sweden', r: 4 },
+    { id: 'dk', x: 320, y: 160, label: 'Denmark', r: 4 },
+    { id: 'hr', x: 400, y: 410, label: 'Croatia', r: 4 },
 ];
 
 export function EuPresenceVisual() {
@@ -132,20 +132,18 @@ export function EuPresenceVisual() {
                                     />
 
                                     {/* Label */}
-                                    {!country.ghost && (
-                                        <text
-                                            x={country.x}
-                                            y={country.y + 20}
-                                            textAnchor="middle"
-                                            fill="currentColor"
-                                            fontSize="12"
-                                            fontWeight={country.featured ? 'bold' : 'normal'}
-                                            className="text-gray-300"
-                                            style={{ textShadow: '0 2px 4px rgba(0,0,0,0.5)' }}
-                                        >
-                                            {country.label}
-                                        </text>
-                                    )}
+                                    <text
+                                        x={country.x}
+                                        y={country.y + 20}
+                                        textAnchor="middle"
+                                        fill="currentColor"
+                                        fontSize="12"
+                                        fontWeight={country.featured ? 'bold' : 'normal'}
+                                        className="text-gray-300"
+                                        style={{ textShadow: '0 2px 4px rgba(0,0,0,0.5)' }}
+                                    >
+                                        {country.label}
+                                    </text>
                                 </g>
                             ))}
                         </svg>

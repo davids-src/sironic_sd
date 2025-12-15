@@ -268,6 +268,18 @@
       "disclaimer": "Ez egy becsült irányár. A pontos árazás a konkrét igényektől függ. Egyeztessünk a részletekért!",
       "cta": "Részletes árajánlat kérése",
       "ctaSecondary": "Időpontfoglalás konzultációra"
+    },
+    "contact": {
+      "title": "Utolsó Lépés: Elérhetőségek",
+      "subtitle": "Adja meg adatait a pontos árajánlathoz. Kollégáink hamarosan keresni fogják.",
+      "name": "Teljes Név",
+      "company": "Cégnév",
+      "email": "E-mail Cím",
+      "phone": "Telefonszám",
+      "submit": "Ajánlatkérés Küldése",
+      "submitting": "Küldés...",
+      "successTitle": "Köszönjük!",
+      "successSubtitle": "Megkaptuk az ajánlatkérést. Hamarosan felvesszük Önnel a kapcsolatot a megadott elérhetőségeken."
     }
   },
   "euBlock": {
