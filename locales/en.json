@@ -206,11 +206,11 @@
   },
   "euPresence": {
     "title": "EU-Level IT Service – We Are Wherever You Need Us",
-    "subtitle": "SIRONIC supports businesses with European presence, providing remote and on-site IT support – without borders.",
+    "subtitle": "Serving 16 countries, communicating in English and Hungarian. SIRONIC supports businesses with European presence – without borders.",
     "points": [
       "Rapid response anywhere in Europe",
       "Professional IT support remotely or on-site",
-      "For businesses, events, and multiple locations"
+      "Seamless cross-border IT operations and compliance"
     ],
     "cta": "Learn More"
   },
@@ -886,30 +886,6 @@
       "title": "You don't need your own IT specialist, just a reliable partner",
       "description": "We provide the expertise, fast response, and stable operation – you can focus on your company.",
       "button": "Request Quote"
-    }
-  },
-  "customDevelopment": {
-    "badge": "Custom Software Development",
-    "title": "Custom Application Development for Your Business",
-    "subtitle": "Scalable, secure and business-focused software",
-    "description": "The SIRONIC team offers comprehensive custom application development for your business. From web applications and Windows desktop software to mobile apps – all solutions tailored to your business needs with modern technologies.",
-    "cards": {
-      "webApps": {
-        "title": "Custom Web Application Development",
-        "description": "TailScript and React-based enterprise web applications. Scalable, fast and user-friendly solutions for complex business processes."
-      },
-      "desktop": {
-        "title": "Windows Desktop Software",
-        "description": "Native Windows application development with modern technologies. Efficient, fast and reliable software for office environments."
-      },
-      "mobile": {
-        "title": "Mobile App Development",
-        "description": "Android and iOS application development. Modern, intuitive mobile solutions that work perfectly on every device."
-      }
-    },
-    "cta": {
-      "main": "Request a Quote for Custom Development",
-      "learnMore": "Learn More"
     }
   },
   "customDevelopmentPage": {
@@ -1984,6 +1960,418 @@
         "title": "Compliance",
         "description": "This document complies with EU GDPR requirements and is suitable for publication on the website."
       }
+    }
+  },
+  "portfolio": {
+    "title": "Proven Solutions in Action",
+    "subtitle": "Real projects that deliver measurable business results",
+    "cards": [
+      {
+        "industry": "E-commerce / Retail",
+        "problem": "Legacy PHP webshop with slow performance and security vulnerabilities",
+        "solution": "Complete Next.js migration with Stripe integration and headless CMS",
+        "stack": "Next.js 13, TypeScript, Stripe, Sanity CMS, Vercel",
+        "outcome": "3x faster page loads, 45% conversion increase, zero downtime migration"
+      },
+      {
+        "industry": "Professional Services",
+        "problem": "Manual client onboarding process causing delays and errors",
+        "solution": "Custom CRM and client portal with automated workflows",
+        "stack": "React, Node.js, PostgreSQL, AWS",
+        "outcome": "80% reduction in onboarding time, 95% client satisfaction score"
+      },
+      {
+        "industry": "Manufacturing / SMB",
+        "problem": "Unstable office network with frequent WiFi dropouts and security gaps",
+        "solution": "Complete network redesign with UniFi infrastructure and firewall hardening",
+        "stack": "UniFi WiFi 6, MikroTik RB5009, VPN, VLAN segmentation",
+        "outcome": "99.9% uptime, 5x faster internal speeds, zero security incidents"
+      },
+      {
+        "industry": "SaaS Startup",
+        "problem": "MVP needed in 6 weeks to secure seed funding",
+        "solution": "Rapid MVP development with core features and payment integration",
+        "stack": "Next.js, Supabase, Stripe, Tailwind, Vercel",
+        "outcome": "Delivered in 5 weeks, €200K seed funding secured, 500+ beta users"
+      },
+      {
+        "industry": "Healthcare / Clinic",
+        "problem": "GDPR-compliant patient data management system needed",
+        "solution": "Secure patient portal with appointment scheduling and encrypted storage",
+        "stack": "Next.js, PostgreSQL, end-to-end encryption, Azure",
+        "outcome": "Full GDPR compliance, 70% reduction in admin workload"
+      },
+      {
+        "industry": "Event Management",
+        "problem": "On-site IT support needed for 3-day international conference (500+ attendees)",
+        "solution": "Dedicated on-site tech team, network setup, live-stream support",
+        "stack": "Enterprise WiFi, video streaming, multi-site coordination",
+        "outcome": "Zero technical incidents, 98% attendee satisfaction, client renewed for next year"
+      }
+    ],
+    "ctaPrimary": "Request a Scope Call",
+    "ctaSecondary": "View All Projects"
+  },
+  "caseStudies": {
+    "title": "How We Solve Real Business Challenges",
+    "subtitle": "Deep-dive case studies from our recent work",
+    "items": [
+      {
+        "title": "Complete IT Infrastructure Overhaul (Budapest Office, 40 users)",
+        "summary": "A growing professional services firm needed urgent stabilization of their chaotic IT environment. We took over full operations, cleaned up network mess, and modernized security in under 30 days.",
+        "bullets": [
+          "Replaced unreliable consumer routers with enterprise MikroTik + UniFi stack",
+          "Migrated all users to Microsoft 365 with 2FA and conditional access policies",
+          "Implemented automated backup (NAS + cloud) and disaster recovery plan"
+        ]
+      },
+      {
+        "title": "Next.js E-commerce Platform for EU Market (Remote Delivery)",
+        "summary": "An Austrian retailer wanted to expand online but their WordPress/WooCommerce setup couldn't handle EU traffic and GDPR requirements. We built a modern, scalable solution.",
+        "bullets": [
+          "Headless architecture (Next.js + Sanity CMS + Stripe) for maximum performance",
+          "GDPR-compliant cookie consent and data processing workflows",
+          "Multi-currency support (EUR, CHF) with localized checkout (DE/EN)"
+        ]
+      },
+      {
+        "title": "Custom SaaS MVP for Czech Fintech Startup (Remote Delivery)",
+        "summary": "A Prague-based startup needed a functional MVP in 6 weeks to demo to investors. We delivered on time with core features, payment integration, and scalable architecture.",
+        "bullets": [
+          "Rapid development with Next.js 14 App Router and Supabase backend",
+          "Integrated Stripe subscription billing and customer portal",
+          "Deployed on Vercel with CI/CD pipeline for continuous updates"
+        ]
+      }
+    ],
+    "cta": "See How We Can Help Your Business"
+  },
+  "process": {
+    "title": "Our Proven 4-Step Process",
+    "steps": [
+      {
+        "title": "Discovery",
+        "description": "We listen to your challenges, assess your current setup, and understand your business goals. Free consultation, no obligations."
+      },
+      {
+        "title": "Proposal",
+        "description": "We provide a detailed proposal with clear scope, timeline, and transparent pricing. You know exactly what you're getting."
+      },
+      {
+        "title": "Delivery",
+        "description": "We execute with regular check-ins, incremental milestones, and continuous communication. No surprises, just results."
+      },
+      {
+        "title": "Support",
+        "description": "We don't disappear after launch. Ongoing maintenance, monitoring, and optimization ensure long-term success."
+      }
+    ]
+  },
+  "sla": {
+    "title": "Our Service Level Agreement",
+    "highlights": [
+      "Response SLA: Within 4 hours for standard issues, 1 hour for critical outages (contracted clients)",
+      "24/7 System Monitoring: Proactive alerts before users notice problems",
+      "Uptime Guarantee: 99.9% availability for managed infrastructure",
+      "Maintenance Windows: Scheduled updates during off-peak hours with advance notice",
+      "Escalation Path: Clear escalation process for unresolved issues"
+    ]
+  },
+  "leadMagnet": {
+    "title": "Free Download: EU SMB IT Security Checklist",
+    "subtitle": "Is your business protected? Get our comprehensive 20-point security audit checklist.",
+    "description": "Discover the most common security gaps we find in European SMBs and how to fix them. Covers network security, data protection, GDPR compliance, backup strategy, and employee training.",
+    "form": {
+      "email": "Work Email",
+      "emailPlaceholder": "you@company.com",
+      "company": "Company Name",
+      "companyPlaceholder": "Your Company Ltd.",
+      "country": "Country",
+      "countryPlaceholder": "Select your country",
+      "submit": "Download Free Checklist",
+      "submitting": "Sending...",
+      "privacy": "We respect your privacy. No spam, ever. Unsubscribe anytime."
+    },
+    "successMessage": "Success! Check your email for the download link.",
+    "errorMessage": "Something went wrong. Please try again or contact us directly."
+  },
+  "booking": {
+    "title": "Book a 15-Minute Discovery Call",
+    "subtitle": "Let's discuss your IT challenges and see if we're a good fit. No sales pitch, just honest advice.",
+    "form": {
+      "name": "Your Name",
+      "namePlaceholder": "John Doe",
+      "email": "Email",
+      "emailPlaceholder": "you@company.com",
+      "company": "Company Name",
+      "companyPlaceholder": "Your Company Ltd.",
+      "phone": "Phone (optional)",
+      "phonePlaceholder": "+36 XX XXX XXXX",
+      "dateRange": "Preferred Date Range",
+      "dateRangePlaceholder": "E.g., Jan 20-25, 2025",
+      "timezone": "Your Timezone",
+      "timezonePlaceholder": "E.g., CET (Budapest)",
+      "topic": "What would you like to discuss?",
+      "topicPlaceholder": "Briefly describe your IT challenge or project",
+      "submit": "Request Call",
+      "submitting": "Sending..."
+    },
+    "successMessage": "Thanks! We'll reach out within 24 hours to schedule your call.",
+    "errorMessage": "An error occurred. Please try again or email us at hello@sironic.hu"
+  },
+  "calculator": {
+    "title": "Quick IT Cost Estimator",
+    "subtitle": "Get a rough estimate in 30 seconds",
+    "step1": {
+      "title": "What's your company size?",
+      "options": [
+        "1-10 employees",
+        "11-50 employees",
+        "51+ employees"
+      ]
+    },
+    "step2": {
+      "title": "What type of service do you need?",
+      "options": [
+        "Custom Software Development (Web/Mobile App)",
+        "IT Operations & Support (Managed Services)",
+        "Network Setup & Optimization",
+        "Mixed / Not Sure"
+      ]
+    },
+    "step3": {
+      "title": "What's your timeline?",
+      "options": [
+        "Standard (4-12 weeks)",
+        "Priority (2-4 weeks)",
+        "Urgent / Emergency (ASAP)"
+      ]
+    },
+    "result": {
+      "title": "Estimated Monthly Cost",
+      "range1_10_dev": "€800 - €2,500/month (or one-time €3,000 - €15,000)",
+      "range11_50_dev": "€1,500 - €5,000/month (or one-time €8,000 - €40,000)",
+      "range51_dev": "€3,000 - €10,000+/month (or custom project pricing)",
+      "range1_10_ops": "€150 - €500/month",
+      "range11_50_ops": "€400 - €1,200/month",
+      "range51_ops": "€1,000 - €3,000+/month",
+      "range1_10_network": "€500 - €2,000 (one-time setup)",
+      "range11_50_network": "€1,500 - €5,000 (one-time setup)",
+      "range51_network": "€4,000 - €15,000+ (one-time setup)",
+      "disclaimer": "This is a rough estimate. Actual pricing depends on specific requirements. Let's discuss your needs for an accurate quote.",
+      "cta": "Request Detailed Quote",
+      "ctaSecondary": "Book a Call to Discuss"
+    }
+  },
+  "euDev": {
+    "meta": {
+      "title": "EU Web App Development | Custom Software for European Businesses | SIRONIC",
+      "description": "Professional custom web application development for EU SMBs. Next.js, TypeScript, React experts. Remote-first delivery across Europe. GDPR-compliant. From MVP to enterprise scale. Free consultation.",
+      "keywords": [
+        "EU web app development",
+        "custom software development Europe",
+        "Next.js development services",
+        "React development EU",
+        "TypeScript developers Europe",
+        "remote software development team",
+        "GDPR-compliant software",
+        "European SMB software solutions",
+        "cross-border IT services",
+        "web application development Austria Germany Slovakia Czech"
+      ]
+    },
+    "hero": {
+      "badge": "Trusted by EU Businesses",
+      "title": "Custom Web App Development for European SMBs",
+      "subtitle": "Modern, scalable, secure software delivered remotely across the EU. From MVP to enterprise.",
+      "cta": "Request a Project Scope Call",
+      "ctaSecondary": "See Our Work"
+    },
+    "services": {
+      "title": "End-to-End Development Services",
+      "subtitle": "We handle the entire software lifecycle",
+      "items": [
+        {
+          "title": "Discovery & Scoping",
+          "description": "We start by understanding your business challenge. Free consultation,  requirements analysis, and transparent project scoping."
+        },
+        {
+          "title": "UX/UI Design",
+          "description": "User-centered design that balances aesthetics with usability. Wireframes, prototypes, and design systems."
+        },
+        {
+          "title": "Frontend Development",
+          "description": "Modern React/Next.js applications. Fast, responsive, accessible. Optimized for performance and SEO."
+        },
+        {
+          "title": "Backend & APIs",
+          "description": "Scalable Node.js/Python backends. RESTful and GraphQL APIs. Database design and optimization."
+        },
+        {
+          "title": "Integrations",
+          "description": "Connect to payment gateways (Stripe, PayPal), CRMs, ERPs, marketing tools, and third-party APIs."
+        },
+        {
+          "title": "Maintenance & Support",
+          "description": "We don't disappear after launch. Ongoing updates, monitoring, security patches, and feature enhancements."
+        }
+      ]
+    },
+    "techStack": {
+      "title": "Modern, Proven Technology Stack",
+      "subtitle": "We use battle-tested technologies that scale",
+      "items": [
+        {
+          "name": "Next.js 14",
+          "description": "React framework for production-grade web apps"
+        },
+        {
+          "name": "TypeScript",
+          "description": "Type-safe code that prevents bugs before they happen"
+        },
+        {
+          "name": "React",
+          "description": "Industry-standard UI library for modern interfaces"
+        },
+        {
+          "name": "Tailwind CSS",
+          "description": "Utility-first CSS for rapid, consistent UI development"
+        },
+        {
+          "name": "Node.js / Python",
+          "description": "Scalable backend services and APIs"
+        },
+        {
+          "name": "PostgreSQL / MongoDB",
+          "description": "Reliable databases for mission-critical data"
+        },
+        {
+          "name": "AWS / Vercel / Azure",
+          "description": "Enterprise hosting with EU data residency options"
+        }
+      ]
+    },
+    "engagementModels": {
+      "title": "Flexible Engagement Models",
+      "subtitle": "Choose the model that fits your business stage",
+      "mvp": {
+        "title": "MVP Launch",
+        "description": "Perfect for startups and market validation",
+        "timeline": "4-8 weeks",
+        "price": "from €5,000",
+        "features": [
+          "Core features only (lean approach)",
+          "Modern UI/UX design",
+          "Deployed and production-ready",
+          "2 weeks post-launch support"
+        ]
+      },
+      "growth": {
+        "title": "Growth & Scale",
+        "description": "For established businesses ready to expand",
+        "timeline": "8-16 weeks",
+        "price": "from €15,000",
+        "features": [
+          "Full feature set with integrations",
+          "Custom design system",
+          "API development and third-party integrations",
+          "Ongoing maintenance and updates"
+        ]
+      },
+      "enterprise": {
+        "title": "Enterprise Solutions",
+        "description": "Complex, mission-critical systems",
+        "timeline": "3-6+ months",
+        "price": "Custom pricing",
+        "features": [
+          "Advanced features and workflows",
+          "Multi-system integrations",
+          "Dedicated team and project manager",
+          "SLA-backed support and maintenance"
+        ]
+      }
+    },
+    "timeline": {
+      "title": "Realistic Timeline Expectations",
+      "subtitle": "We don't overpromise. Here's what to expect.",
+      "ranges": [
+        {
+          "type": "Simple Landing Page / MVP",
+          "duration": "2-4 weeks"
+        },
+        {
+          "type": "Multi-page Web App (Auth, Dashboard, CRUD)",
+          "duration": "6-10 weeks"
+        },
+        {
+          "type": "SaaS Platform with Payments & Integrations",
+          "duration": "12-20 weeks"
+        },
+        {
+          "type": "Enterprise System (Complex Workflows, Integrations)",
+          "duration": "6+ months"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "items": [
+        {
+          "question": "Do you work with clients outside Hungary?",
+          "answer": "Absolutely. We work remotely with clients across the EU (Austria, Germany, Slovakia, Czech Republic, Romania, and more). All communication in English, German, or other EU languages. We can also provide on-site kickoff meetings if needed."
+        },
+        {
+          "question": "What if I only have a rough idea, not detailed requirements?",
+          "answer": "That's completely normal. We start with a free discovery call to understand your business challenge. We'll help you refine requirements, prioritize features, and define a realistic scope."
+        },
+        {
+          "question": "Are your solutions GDPR-compliant?",
+          "answer": "Yes. All software we build follows GDPR best practices: data minimization, user consent management, right to deletion, and EU-based hosting options. We can also assist with GDPR compliance consulting."
+        },
+        {
+          "question": "What's the payment structure?",
+          "answer": "Typically 30% upfront, 40% at midpoint milestone, 30% at delivery. For ongoing projects, we can also work on monthly retainers. All payments are invoiced (EU VAT-compliant)."
+        },
+        {
+          "question": "Do you provide ongoing maintenance after launch?",
+          "answer": "Yes. We offer maintenance packages starting at €200/month covering updates, bug fixes, security patches, and minor enhancements.  We don't build and disappear — we're here for the long term."
+        },
+        {
+          "question": "Can you integrate with our existing systems (CRM, ERP, etc.)?",
+          "answer": "Absolutely. We have experience integrating with Salesforce, HubSpot, SAP, Microsoft Dynamics, custom APIs, and more. We'll assess integration complexity during discovery."
+        },
+        {
+          "question": "What if we need changes or new features after launch?",
+          "answer": "We provide ongoing development services. You can request enhancements via monthly retainer or one-off project pricing. We prioritize existing clients for urgent requests."
+        },
+        {
+          "question": "How do you ensure code quality and security?",
+          "answer": "We follow industry best practices: TypeScript for type safety, code reviews, automated testing, security audits, and regular dependency updates. All code is documented and version-controlled (Git)."
+        },
+        {
+          "question": "Can you help us migrate from an old system to a modern one?",
+          "answer": "Yes. We've successfully migrated clients from WordPress, PHP, .NET, and legacy systems to modern Next.js/React stacks. We plan migrations carefully to ensure zero downtime and data integrity."
+        },
+        {
+          "question": "Do you work in Agile/Scrum?",
+          "answer": "Yes. We use agile methodology with weekly check-ins, incremental deliveries, and continuous feedback loops. You're involved throughout, not just at the end."
+        }
+      ]
+    },
+    "cta": {
+      "title": "Ready to Build Your Custom Solution?",
+      "subtitle": "Let's discuss your project. Free consultation, no obligations.",
+      "button": "Request a Scope Call",
+      "buttonSecondary": "Download EU SMB IT Checklist"
+    }
+  },
+  "solutions": {
+    "meta": {
+      "titleTemplate": "{topic} | SIRONIC IT Solutions"
+    },
+    "cta": {
+      "title": "Need Help with This?",
+      "button": "Request Consultation"
     }
   }
 }

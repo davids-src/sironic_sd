@@ -4,13 +4,11 @@ import { Hero } from '@/components/Hero';
 import { ServiceCard } from '@/components/ServiceCard';
 import { Testimonial } from '@/components/Testimonial';
 import { FaqSection } from '@/components/FaqSection';
-import { EuGlobalPresenceSection } from '@/components/EuGlobalPresenceSection';
 import { OrganizationSchema } from '@/components/structured-data/OrganizationSchema';
 import { LocalBusinessSchema } from '@/components/structured-data/LocalBusinessSchema';
 import { Button } from '@/components/ui/button';
 import { CTAButton } from '@/components/CTAButton';
 import { SectionTitle } from '@/components/SectionTitle';
-import { InfoCard } from '@/components/InfoCard';
 import { Server, Network, Shield, Code, CheckCircle, ShoppingCart, Cloud, Wrench, ArrowRight } from 'lucide-react';
 import Link from 'next/link';
 import { useTranslation } from '@/hooks/useTranslation';
@@ -37,6 +35,23 @@ const ItTrainingSection = dynamic(() => import('@/components/ItTrainingSection')
 });
 const OnsitePresenceSection = dynamic(() => import('@/components/OnsitePresenceSection').then(mod => ({ default: mod.OnsitePresenceSection })), {
     loading: () => <div className="h-96 bg-white dark:bg-gray-950 animate-pulse" />
+});
+
+// Wave Starter Pack - New lead generation components
+const PortfolioPreview = dynamic(() => import('@/components/PortfolioPreview').then(mod => ({ default: mod.PortfolioPreview })), {
+    loading: () => <div className="h-96 bg-white dark:bg-gray-950 animate-pulse" />
+});
+const CaseStudiesPreview = dynamic(() => import('@/components/CaseStudiesPreview').then(mod => ({ default: mod.CaseStudiesPreview })), {
+    loading: () => <div className="h-96 bg-gray-50 dark:bg-gray-900/50 animate-pulse" />
+});
+const ProcessAndSLA = dynamic(() => import('@/components/ProcessAndSLA').then(mod => ({ default: mod.ProcessAndSLA })), {
+    loading: () => <div className="h-96 bg-white dark:bg-gray-950 animate-pulse" />
+});
+const QuickQuoteCalculator = dynamic(() => import('@/components/QuickQuoteCalculator').then(mod => ({ default: mod.QuickQuoteCalculator })), {
+    loading: () => <div className="h-96 bg-gradient-to-br from-gray-50 to-white dark:from-gray-900 dark:to-gray-950 animate-pulse" />
+});
+const EuPresenceVisual = dynamic(() => import('@/components/EuPresenceVisual').then(mod => ({ default: mod.EuPresenceVisual })), {
+    loading: () => <div className="h-96 bg-gray-900 animate-pulse" />
 });
 
 
@@ -85,13 +100,17 @@ export function HomePage() {
 
     const whyChooseUs = t('whyChooseUs.reasons', []);
     const testimonials = t('testimonials.items', []);
-    const workProcess = t('workProcess.steps', []);
 
     return (
         <>
             <Hero />
 
-            <EuGlobalPresenceSection />
+            <EuPresenceVisual />
+
+            <div className="space-y-0">
+                <PortfolioPreview />
+                <CaseStudiesPreview />
+            </div>
 
             <section id="szolgaltatasok" className="py-20 lg:py-32 bg-gray-50 dark:bg-gray-900/50">
                 <div className="container mx-auto px-4 md:px-6">
@@ -119,6 +138,8 @@ export function HomePage() {
                     </div>
                 </div>
             </section>
+
+            <QuickQuoteCalculator />
 
             <MindenCegnekSection />
 
@@ -165,24 +186,7 @@ export function HomePage() {
                 </div>
             </section>
 
-            <section className="py-20 lg:py-32 bg-white dark:bg-gray-950">
-                <div className="container mx-auto px-4 md:px-6">
-                    <SectionTitle
-                        title={t('workProcess.title')}
-                    />
-                    <div className="grid gap-8 md:grid-cols-3 max-w-5xl mx-auto">
-                        {workProcess.map((step: any, index: number) => (
-                            <div key={index} className="text-center group">
-                                <div className="inline-flex items-center justify-center w-16 h-16 rounded-full bg-brand-red text-white text-2xl font-bold mb-6 shadow-lg shadow-red-200 dark:shadow-none group-hover:scale-110 transition-transform duration-300">
-                                    {step.step}
-                                </div>
-                                <h3 className="text-xl font-bold mb-3">{step.title}</h3>
-                                <p className="text-muted-foreground leading-relaxed">{step.description}</p>
-                            </div>
-                        ))}
-                    </div>
-                </div>
-            </section>
+            <ProcessAndSLA />
 
             <FaqSection />
 
@@ -208,8 +212,8 @@ export function HomePage() {
             </section>
 
             {/* Structured Data */}
-            <OrganizationSchema locale={locale} />
-            <LocalBusinessSchema locale={locale} />
+            <OrganizationSchema locale={locale as Locale} />
+            <LocalBusinessSchema locale={locale as Locale} />
         </>
     );
 }

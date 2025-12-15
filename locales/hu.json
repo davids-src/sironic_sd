@@ -218,14 +218,57 @@
   },
   "euPresence": {
     "title": "EU-szintű IT szolgáltatás – Bárhol ott vagyunk, ahol szükség van ránk",
-    "subtitle": "A SIRONIC európai jelenléttel, távoli és helyszíni IT támogatással segíti a vállalkozásokat – határok nélkül. 16 nyelven kommunikálunk, és tapasztalattal rendelkezünk magyarországi, osztrák, német, szlovák és román piaci projektekben. Modern projektmenedzsment eszközeinkkel a távolság nem akadály.",
+    "subtitle": "A SIRONIC európai jelenléttel, távoli és helyszíni IT támogatással segíti a vállalkozásokat – határok nélkül. 16 országban szolgálunk ki, Magyar és Angol nyelven kommunikálunk, és tapasztalattal rendelkezünk több EU-s piacon. Modern projektmenedzsment eszközeinkkel a távolság nem akadály.",
     "points": [
       "Gyors reagálás Európa bármely pontján távoli vagy helyszíni támogatással",
       "Professzionális IT infrastruktúra építés és üzemeltetés GDPR-kompatibilisen",
-      "Vállalkozásoknak, rendezvényeknek és több telephellyel rendelkező cégeknek",
-      "Többnyelvű ügyfélszolgálat és technikai dokumentáció 16 európai nyelven"
+      "Zökkenőmentes határokon átnyúló IT üzemeltetés és megfelelés"
     ],
     "cta": "Tudjon meg többet"
+  },
+  "calculator": {
+    "title": "Gyors IT Költségkalkulátor",
+    "subtitle": "Becsült költségek 30 másodperc alatt",
+    "step1": {
+      "title": "Mekkora a cége?",
+      "options": [
+        "1-10 fő",
+        "11-50 fő",
+        "51+ fő"
+      ]
+    },
+    "step2": {
+      "title": "Milyen szolgáltatásra van szüksége?",
+      "options": [
+        "Egyedi Szoftverfejlesztés (Web/Mobil App)",
+        "IT Üzemeltetés és Támogatás (Menedzselt Szolgáltatások)",
+        "Hálózatépítés és Optimalizálás",
+        "Vegyes / Nem vagyok biztos benne"
+      ]
+    },
+    "step3": {
+      "title": "Milyen határidővel?",
+      "options": [
+        "Normál (4-12 hét)",
+        "Prioritás (2-4 hét)",
+        "Sürgős / Vészhelyzet (AZONNAL)"
+      ]
+    },
+    "result": {
+      "title": "Becsült Havi Költség",
+      "range1_10_dev": "€800 - €2,500/hó (vagy egyszeri €3,000 - €15,000)",
+      "range11_50_dev": "€1,500 - €5,000/hó (vagy egyszeri €8,000 - €40,000)",
+      "range51_dev": "€3,000 - €10,000+/hó (vagy egyedi projekt árazás)",
+      "range1_10_ops": "€150 - €500/hó",
+      "range11_50_ops": "€400 - €1,200/hó",
+      "range51_ops": "€1,000 - €3,000+/hó",
+      "range1_10_network": "€500 - €2,000 (egyszeri kiépítés)",
+      "range11_50_network": "€1,500 - €5,000 (egyszeri kiépítés)",
+      "range51_network": "€4,000 - €15,000+ (egyszeri kiépítés)",
+      "disclaimer": "Ez egy becsült irányár. A pontos árazás a konkrét igényektől függ. Egyeztessünk a részletekért!",
+      "cta": "Részletes árajánlat kérése",
+      "ctaSecondary": "Időpontfoglalás konzultációra"
+    }
   },
   "euBlock": {
     "alt": "Absztrakt térkép, amely a Sironic EU-szintű IT szolgáltatási lefedettségét mutatja."
