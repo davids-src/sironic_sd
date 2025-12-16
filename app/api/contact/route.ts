@@ -2,7 +2,9 @@ import { NextRequest, NextResponse } from 'next/server';
 import { validateContactForm, sanitizeInput, ContactFormData } from '@/utils/contact';
 import { rateLimit } from '@/utils/rateLimit';
 
-const DISCORD_WEBHOOK_URL = process.env.DISCORD_WEBHOOK_URL || 'https://discord.com/api/webhooks/1435287913402208468/N1uRR3hpu9P7kIi3uXJEi7aq2jRsS96r4nYIQiL-MM7ZTy1xtJpyNYgRt3ZVRObOSU5i';
+// Discord webhook URL - csak környezeti változóból, nincs fallback (biztonsági okokból)
+const DISCORD_WEBHOOK_URL = process.env.DISCORD_WEBHOOK_URL;
+const NODE_ENV = process.env.NODE_ENV || 'development';
 
 async function sendDiscordNotification(data: {
   name: string;
@@ -52,6 +54,11 @@ async function sendDiscordNotification(data: {
         value: data.ipAddress,
         inline: true,
       },
+      {
+        name: '🌍 Környezet',
+        value: NODE_ENV,
+        inline: true,
+      },
     ],
     footer: {
       text: 'SIRONIC Rendszerház - Kapcsolati űrlap',
@@ -60,7 +67,7 @@ async function sendDiscordNotification(data: {
   };
 
   if (!DISCORD_WEBHOOK_URL) {
-    console.warn('Discord webhook URL not configured');
+    console.warn(`[${NODE_ENV}] Discord webhook URL not configured - DISCORD_WEBHOOK_URL environment variable is missing`);
     return false;
   }
 
@@ -78,13 +85,15 @@ async function sendDiscordNotification(data: {
     });
 
     if (!response.ok) {
-      console.error('Discord webhook failed:', response.status, await response.text());
+      const errorText = await response.text();
+      console.error(`[${NODE_ENV}] Discord webhook failed:`, response.status, errorText);
       return false;
     }
 
+    console.log(`[${NODE_ENV}] Discord notification sent successfully`);
     return true;
   } catch (error) {
-    console.error('Discord webhook error:', error);
+    console.error(`[${NODE_ENV}] Discord webhook error:`, error);
     return false;
   }
 }
@@ -158,7 +167,8 @@ export async function GET(request: NextRequest) {
   const test = request.nextUrl.searchParams.get('test');
 
   if (test === 'discord') {
-    const webhookUrl = process.env.DISCORD_WEBHOOK_URL || DISCORD_WEBHOOK_URL;
+    const webhookUrl = process.env.DISCORD_WEBHOOK_URL;
+    const nodeEnv = process.env.NODE_ENV || 'development';
 
     if (!webhookUrl) {
       return NextResponse.json(
@@ -166,6 +176,8 @@ export async function GET(request: NextRequest) {
           status: 'error',
           message: 'Discord webhook URL nincs beállítva',
           webhookConfigured: false,
+          environment: nodeEnv,
+          hint: 'Ellenőrizd a DISCORD_WEBHOOK_URL környezeti változót a Vercel/production környezetben',
         },
         { status: 200 }
       );

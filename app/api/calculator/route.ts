@@ -2,7 +2,9 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { rateLimit } from '@/utils/rateLimit';
 
-const DISCORD_WEBHOOK_URL = process.env.DISCORD_WEBHOOK_URL || 'https://discord.com/api/webhooks/1435287913402208468/N1uRR3hpu9P7kIi3uXJEi7aq2jRsS96r4nYIQiL-MM7ZTy1xtJpyNYgRt3ZVRObOSU5i';
+// Discord webhook URL - csak környezeti változóból, nincs fallback (biztonsági okokból)
+const DISCORD_WEBHOOK_URL = process.env.DISCORD_WEBHOOK_URL;
+const NODE_ENV = process.env.NODE_ENV || 'development';
 
 type CalculatorData = {
     companySize: string;
@@ -41,6 +43,11 @@ async function sendDiscordNotification(data: CalculatorData & { ipAddress: strin
                 value: data.ipAddress,
                 inline: true,
             },
+            {
+                name: '🌍 Környezet',
+                value: NODE_ENV,
+                inline: true,
+            },
         ],
         footer: {
             text: 'SIRONIC Rendszerház - Kalkulátor Lead',
@@ -48,7 +55,10 @@ async function sendDiscordNotification(data: CalculatorData & { ipAddress: strin
         timestamp: new Date().toISOString(),
     };
 
-    if (!DISCORD_WEBHOOK_URL) return false;
+    if (!DISCORD_WEBHOOK_URL) {
+        console.warn(`[${NODE_ENV}] Discord webhook URL not configured - DISCORD_WEBHOOK_URL environment variable is missing`);
+        return false;
+    }
 
     try {
         const response = await fetch(DISCORD_WEBHOOK_URL, {
@@ -60,9 +70,17 @@ async function sendDiscordNotification(data: CalculatorData & { ipAddress: strin
                 embeds: [embed],
             }),
         });
-        return response.ok;
+        
+        if (!response.ok) {
+            const errorText = await response.text();
+            console.error(`[${NODE_ENV}] Discord webhook failed:`, response.status, errorText);
+            return false;
+        }
+        
+        console.log(`[${NODE_ENV}] Discord notification sent successfully`);
+        return true;
     } catch (error) {
-        console.error('Discord webhook error:', error);
+        console.error(`[${NODE_ENV}] Discord webhook error:`, error);
         return false;
     }
 }
