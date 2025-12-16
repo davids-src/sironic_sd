@@ -42,8 +42,8 @@
     "ogImage": "/og/home-de.jpg",
     "pages": {
       "services": {
-        "title": "IT-Dienstleistungen - Systemadministration & Entwicklung",
-        "description": "Zuverlässige IT-Services für Unternehmen: Systemadministration, Netzwerk, Webentwicklung, Hosting und Reparatur. Fordern Sie noch heute ein Angebot an!",
+        "title": "IT-Dienstleistungen - Systemverwaltung, Netzwerkentwicklung & Individuelle Software | SIRONIC",
+        "description": "Professionelle IT-Services für KMU: 24/7 Systemverwaltung, Netzwerkinfrastruktur, Webentwicklung (Next.js/React), Hosting, Cybersicherheit und IT-Reparatur. EU-weite Unterstützung. Kostenlose Beratung anfordern!",
         "keywords": [
           "IT-Dienstleistungen",
           "Systemverwaltung",
@@ -218,31 +218,31 @@
     "viewAll": "Alle Leistungen",
     "systemOperation": {
       "title": "Systemverwaltung & IT-Wartung",
-      "description": "Umfassende Systemwartung, kontinuierliche Überwachung und Support für KMU, vollständig EU-konform."
+      "description": "Umfassende Systemwartung, 24/7 kontinuierliche Überwachung und proaktiver Support für KMU. Vollständige EU-Konformität und DSGVO-kompatible Betriebsführung mit festen SLA-Reaktionszeiten und transparenter Preisgestaltung."
     },
     "networking": {
       "title": "Netzwerkaufbau & -entwicklung",
-      "description": "Planung, Aufbau und Betrieb moderner, sicherer Netzwerkinfrastrukturen."
+      "description": "Professionelle Planung, Implementierung und langfristige Verwaltung moderner, sicherer Netzwerkinfrastrukturen. UniFi- und MikroTik-Geräte, schnelle WiFi-Netzwerke, VPN- und Fernzugriffseinrichtung."
     },
     "security": {
       "title": "IT-Sicherheit & Datenschutz",
-      "description": "Sicherheitsaudits, Zugriffsmanagement und Datenschutz gemäß EU-Vorschriften."
+      "description": "Umfassende Sicherheitsaudits, Firewall-Konfiguration, automatisierte Zugriffsverwaltung und Datenschutz im Einklang mit EU-DSGVO-Vorschriften. Moderner Virenschutz, Backup-Strategien und Cybersicherheitsschulungen."
     },
     "development": {
       "title": "Webseiten- & Systementwicklung",
-      "description": "Schnelle und sichere Firmenwebseiten und Webshop-Entwicklung mit modernen Technologien."
+      "description": "Schnelle, sichere und suchmaschinenoptimierte Firmenwebseiten, E-Commerce-Plattformen und individuelle Geschäftssysteme entwickelt mit Next.js, React und TypeScript. Responsives Design, moderne UX und Performance-Optimierung. Die erste Beratung ist bei Webseitenprojekten kostenlos, Basis-Webseiten beginnen ab 250 € + MwSt."
     },
     "commerce": {
       "title": "Handel – IT-Geräte & Software",
-      "description": "Alles für den Bürobetrieb – Computer, Monitore, Drucker, Server und Softwarelizenzen aus einer Hand."
+      "description": "Alles, was Sie für den Bürobetrieb und die Unternehmens-IT-Infrastruktur benötigen – Computer, Monitore, Drucker, Netzwerkgeräte, Server, NAS-Systeme und Softwarelizenzen. Komplett mit Beratung und Installationsservice."
     },
     "hosting": {
       "title": "Hosting & Cloud-Lösungen",
-      "description": "Stabiles, schnelles und sicheres Hosting für Webseiten, E-Mails und Backups. Webhosting, Serververmietung und Cloud-Backup."
+      "description": "Stabile, schnelle und sichere Hosting-Lösungen für Webseiten, E-Mail, Dateifreigabe und Datensicherung. Webhosting, dedizierte Serververmietung, cloudbasierte Backups und Private-Cloud-Dienste mit 99,9% Verfügbarkeitsgarantie."
     },
     "repair": {
       "title": "Service & Reparatur",
-      "description": "Schnelle und zuverlässige Reparatur von Computern, Laptops und Servern vor Ort oder per Einsendung. Transparente Angebote."
+      "description": "Schnelle und zuverlässige Reparatur von Computern, Laptops, Servern und Netzwerkgeräten vor Ort in Székesfehérvár und Umgebung oder per Einsendung. Transparente Angebote vor der Reparatur, Datenrettung und Virenentfernung. Schnelle Bearbeitungszeit mit Garantie."
     }
   },
   "customDevelopment": {
@@ -461,7 +461,7 @@
   },
   "servicesPage": {
     "title": "Unsere Dienstleistungen",
-    "subtitle": "Komplette IT-Lösungen, damit Ihr Unternehmen sicher und effizient läuft. Von der Wartung zum Festpreis bis zur individuellen Entwicklung – alles an einem Ort.",
+    "subtitle": "Umfassende IT-Lösungen, die Ihr Unternehmen sicher und effizient halten. Von fester monatlicher Wartung und 24/7-Monitoring bis hin zu individueller Softwareentwicklung und Netzwerkinfrastruktur – alles, was Ihr KMU benötigt, an einem Ort, mit DSGVO-konformem Betrieb und transparenter Preisgestaltung.",
     "cta": {
       "title": "Interessiert an einem unserer Dienste?",
       "subtitle": "Fordern Sie eine kostenlose Beratung an und lassen Sie uns gemeinsam die beste Lösung für Ihr Unternehmen finden.",
@@ -502,7 +502,7 @@
         ]
       },
       "commerce": {
-        "description": "Bei uns erhalten Sie alles, was Sie für den Bürobetrieb benötigen – Computer, Monitore, Drucker, Server, Netzwerkgeräte und Softwarelizenzen. Wir arbeiten mit zuverlässigen Marken und helfen Ihnen, das beste Preis-Leistungs-Verhältnis zu wählen. Ob Neuanschaffung oder Aufrüstung, wir kümmern uns darum.",
+        "description": "Alles, was Sie für den Bürobetrieb und die Unternehmens-IT-Infrastruktur benötigen – Computer, Monitore, Drucker, Server, Netzwerkgeräte, NAS-Systeme und Softwarelizenzen. Wir arbeiten mit zuverlässigen Marken und helfen Ihnen, das beste Preis-Leistungs-Verhältnis zu wählen. Ob Neuanschaffung, Aufrüstung oder Erweiterung, wir kümmern uns um alles mit Beratung und Installationsservice.",
         "features": [
           "Computer, Laptops und Server",
           "Netzwerkgeräte und Peripherie",
@@ -511,7 +511,7 @@
         ]
       },
       "hosting": {
-        "description": "Wir bieten stabile, schnelle und sichere Hosting-Lösungen für Websites, E-Mail und Datensicherung. Wir sorgen dafür, dass Ihre Daten immer verfügbar und geschützt sind, entweder über unseren eigenen Serverpark oder zuverlässige internationale Partner.",
+        "description": "Stabile, schnelle und sichere Hosting-Lösungen für Websites, E-Mail, Dateifreigabe und Datensicherung. Über unsere eigene Serverinfrastruktur oder vertrauenswürdige internationale Partner stellen wir sicher, dass Ihre Daten immer verfügbar und geschützt sind, mit 99,9% Verfügbarkeitsgarantie. Webhosting, dedizierte Serververmietung, cloudbasierte Backups und Private-Cloud-Dienste.",
         "features": [
           "Webhosting und Domainregistrierung",
           "E-Mail-Hosting",
@@ -521,7 +521,7 @@
       },
       "repair": {
         "title": "Service und Reparatur – Vor Ort oder per Post",
-        "description": "Schnelle und zuverlässige Reparatur von Computern, Laptops, Servern und Netzwerkgeräten. Vor-Ort-Service in Székesfehérvár und Umgebung oder per Einsendung. Wir beginnen jede Reparatur mit einer Diagnose und arbeiten erst nach Ihrer Genehmigung des Kostenvoranschlags. Unser Ziel ist es, Ihr System so schnell wie möglich wieder zum Laufen zu bringen.",
+        "description": "Schnelle und zuverlässige Reparatur von Computern, Laptops, Servern und Netzwerkgeräten. Vor-Ort-Service in Székesfehérvár und Umgebung oder per Einsendung für Ihre Bequemlichkeit. Jede Reparatur beginnt mit umfassender Diagnostik, und wir arbeiten erst nach Ihrer Genehmigung des transparenten Kostenvoranschlags. Datenrettung und Virenentfernung inklusive. Unser Ziel ist es, Ihr System so schnell wie möglich wieder zum Laufen zu bringen, mit Garantieabdeckung.",
         "features": [
           "Vor-Ort-Service (Székesfehérvár und Umgebung)",
           "Einsendeoption",
@@ -531,7 +531,7 @@
       },
       "training": {
         "title": "IT-Schulung und Wissensentwicklung",
-        "description": "Entwickeln Sie die digitalen Fähigkeiten Ihres Teams! Wir bieten personalisierte IT-Schulungen, Sicherheitsbewusstseins-Trainings und systembezogene Wissensentwicklung an, damit Mitarbeiter moderne Geräte und Software sicher nutzen können. Sicherer Betrieb beginnt mit Information.",
+        "description": "Entwickeln Sie die digitalen Fähigkeiten und das Cybersicherheitsbewusstsein Ihres Teams! Wir bieten personalisierte IT-Schulungen, Sicherheitsbewusstseins-Trainings und systembezogene Wissensentwicklung an, damit Mitarbeiter moderne Geräte und Software sicher nutzen können. Von Microsoft 365 und Google Workspace bis hin zu Cybersicherheitsbest Practices und DSGVO-Compliance – sicherer Betrieb beginnt mit ordnungsgemäßer Schulung und Information.",
         "features": [
           "Personalisierte IT-Schulungen",
           "Sicherheitsbewusstseins-Trainings",

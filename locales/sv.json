@@ -48,8 +48,8 @@
         "ogImage": "/og/home-en.jpg",
         "pages": {
             "services": {
-                "title": "IT-tjänster - Systemadministration & Utveckling",
-                "description": "Pålitliga IT-tjänster för företag: systemadministration, nätverksinstallation, webbutveckling, hosting och reparation. Begär en offert från våra experter idag!",
+                "title": "IT-tjänster - Systemhantering, Nätverksutveckling & Anpassad Programvara | SIRONIC",
+                "description": "Professionella IT-tjänster för SMF: 24/7 systemhantering, nätverksinfrastruktur, webbutveckling (Next.js/React), hosting, cybersäkerhet och IT-reparation. Stöd i hela EU. Begär en gratis konsultation!",
                 "keywords": [
                     "IT-tjänster",
                     "systemförvaltning",
@@ -226,31 +226,31 @@
         "viewAll": "Alla Tjänster",
         "systemOperation": {
             "title": "Systemhantering & IT-underhåll",
-            "description": "Omfattande systemunderhåll, kontinuerlig övervakning och support för SMF:er, helt EU-kompatibelt."
+            "description": "Omfattande systemunderhåll, kontinuerlig övervakning 24/7 och proaktiv support för SMF:er. Full EU-konformitet och GDPR-kompatibel drift med fasta SLA-svarstider och transparent prissättning."
         },
         "networking": {
             "title": "Nätverksbyggande & Utveckling",
-            "description": "Design, konstruktion och drift av moderna, säkra nätverksinfrastrukturer."
+            "description": "Professionell design, implementering och långsiktig förvaltning av moderna, säkra nätverksinfrastrukturer. UniFi- och MikroTik-utrustning, snabba WiFi-nätverk, VPN- och fjärråtkomstkonfiguration."
         },
         "security": {
             "title": "IT-säkerhet & Dataskydd",
-            "description": "Säkerhetsrevisioner, åtkomsthantering och dataskydd i enlighet med EU-förordningar."
+            "description": "Omfattande säkerhetsrevisioner, brandväggskonfiguration, automatiserad åtkomsthantering och dataskydd i enlighet med EU:s GDPR-förordningar. Modern antivirus-skydd, säkerhetskopieringsstrategier och cybersäkerhetsutbildning."
         },
         "development": {
             "title": "Webbplats- & Systemutveckling",
-            "description": "Snabb och säker utveckling av företagswebbplatser och webbutiker med modern teknik."
+            "description": "Snabba, säkra och sökmotoroptimerade företagswebbplatser, e-handelsplattformar och anpassade affärssystem utvecklade med Next.js, React och TypeScript-teknologier. Responsiv design, modern UX och prestandaoptimering. Första konsultationen är gratis för webbplatsprojekt, grundläggande webbplatser börjar från 250 € + moms."
         },
         "commerce": {
             "title": "Handel – IT-utrustning & Programvara",
-            "description": "Få allt som behövs för kontorsdrift – datorer, bildskärmar, skrivare, servrar och programvarulicenser."
+            "description": "Allt du behöver för kontorsdrift och företags IT-infrastruktur – datorer, bildskärmar, skrivare, nätverksutrustning, servrar, NAS-system och programvarulicenser. Komplett med rådgivning och installationsservice."
         },
         "hosting": {
             "title": "Hosting & Molnlösningar",
-            "description": "Stabila, snabba och säkra hostinglösningar för webbplatser, e-post och säkerhetskopiering. Webbhotell, serverhyra och molnbackup."
+            "description": "Stabila, snabba och säkra hostinglösningar för webbplatser, e-post, fildelning och datasäkerhetskopiering. Webhosting, dedikerad serverhyra, molnbaserad säkerhetskopiering och privata molntjänster med 99,9% tillgänglighetsgaranti."
         },
         "repair": {
             "title": "Service & Reparation",
-            "description": "Snabb och pålitlig reparation av datorer, bärbara datorer och servrar på plats eller via post. Transparenta offerter och snabba reparationer."
+            "description": "Snabb och pålitlig reparation av datorer, bärbara datorer, servrar och nätverksutrustning på plats i Székesfehérvár och omgivningar, eller via post. Transparenta offerter före reparation, dataåterställning och virusborttagning. Snabb reparations tid med garanti."
         }
     },
     "customDevelopment": {
@@ -469,7 +469,7 @@
     },
     "servicesPage": {
         "title": "Våra Tjänster",
-        "subtitle": "Kompletta IT-lösningar för att hålla ditt företag säkert och effektivt. Från underhåll till fast avgift till anpassad utveckling – allt på ett ställe.",
+        "subtitle": "Omfattande IT-lösningar som håller ditt företag säkert och effektivt. Från fast månatligt underhåll och 24/7-övervakning till anpassad programvaruutveckling och nätverksinfrastruktur – allt din SMF behöver på ett ställe, med GDPR-kompatibel drift och transparent prissättning.",
         "cta": {
             "title": "Intresserad av någon av våra tjänster?",
             "subtitle": "Begär en gratis konsultation och låt oss hitta den bästa lösningen för ditt företag tillsammans.",
@@ -510,7 +510,7 @@
                 ]
             },
             "commerce": {
-                "description": "Du kan få allt som behövs för kontorsdrift från oss – datorer, bildskärmar, skrivare, servrar, nätverksenheter och programvarulicenser. Vi arbetar med pålitliga varumärken och hjälper dig att välja bästa pris-prestanda-förhållande. Oavsett om du behöver ny utrustning eller uppgraderingar tar vi hand om det.",
+                "description": "Allt du behöver för kontorsdrift och företagets IT-infrastruktur – datorer, bildskärmar, skrivare, servrar, nätverksutrustning, NAS-system och programvarulicenser. Vi arbetar med pålitliga varumärken och hjälper dig att välja bästa pris-prestanda-förhållande. Oavsett om du behöver ny utrustning, uppgraderingar eller expansion tar vi hand om allt med rådgivning och installationsservice inkluderade.",
                 "features": [
                     "Datorer, bärbara datorer och servrar",
                     "Nätverksenheter och kringutrustning",
@@ -519,7 +519,7 @@
                 ]
             },
             "hosting": {
-                "description": "Vi erbjuder stabila, snabba och säkra hostinglösningar för webbplatser, e-post och databackup. Vi säkerställer att dina data alltid är tillgängliga och skyddade genom vår egen serverpark eller pålitliga internationella partners.",
+                "description": "Stabila, snabba och säkra hostinglösningar för webbplatser, e-post, fildelning och databackup. Genom vår egen serverinfrastruktur eller pålitliga internationella partners säkerställer vi att dina data alltid är tillgängliga och skyddade med 99,9% tillgänglighetsgaranti. Webbhotell, dedikerad serverhyra, molnbaserad backup och privata molntjänster.",
                 "features": [
                     "Webbhotell och domänregistrering",
                     "E-posthosting",
@@ -529,7 +529,7 @@
             },
             "repair": {
                 "title": "Service och Reparation – På plats eller via post",
-                "description": "Snabb och pålitlig reparation av datorer, bärbara datorer, servrar och nätverksenheter. På plats-service i Székesfehérvár och omgivningar, eller postservice. Vi börjar varje reparation med diagnostik, och fortsätter endast efter ditt godkännande av offerten. Vårt mål är att få ditt system igång igen så snart som möjligt.",
+                "description": "Snabb och pålitlig reparation av datorer, bärbara datorer, servrar och nätverksutrustning. På plats-service i Székesfehérvár och omgivningar, eller postservice för din bekvämlighet. Vi börjar varje reparation med omfattande diagnostik, och fortsätter endast efter ditt godkännande av den transparenta offerten. Dataåterställning och virusborttagning ingår. Vårt mål är att få ditt system igång igen så snart som möjligt med garantitäckning.",
                 "features": [
                     "Service på plats (Székesfehérvár och omgivningar)",
                     "Alternativ för postinsändning",
@@ -539,7 +539,7 @@
             },
             "training": {
                 "title": "IT-utbildning och Kunskapsutveckling",
-                "description": "Utveckla ditt teams digitala färdigheter! Vi erbjuder personlig IT-utbildning, säkerhetsmedvetenhetsträning och systemnivåkunskapsutveckling så att anställda tryggt kan använda moderna enheter och programvara. Säker drift börjar med information.",
+                "description": "Utveckla ditt teams digitala färdigheter och cybersäkerhetsmedvetenhet! Vi erbjuder personlig IT-utbildning, säkerhetsmedvetenhetsträning och systemnivåkunskapsutveckling så att anställda tryggt kan använda moderna enheter och programvara. Från Microsoft 365 och Google Workspace till bästa praxis för cybersäkerhet och GDPR-efterlevnad – säker drift börjar med rätt utbildning och information.",
                 "features": [
                     "Personlig IT-utbildning",
                     "Säkerhetsmedvetenhetsträning",

@@ -17,13 +17,15 @@ export function OrganizationSchema({ locale }: OrganizationSchemaProps) {
     const schema = {
         '@context': 'https://schema.org',
         '@type': 'Organization',
-        name: 'SIRONIC IT Rendszerház',
+        '@id': `${baseUrl}/#organization`,
+        name: 'SIRONIC IT Solutions',
+        alternateName: 'SIRONIC IT Rendszerház',
         legalName: 'Skoda Dávid András Egyéni Vállalkozó',
         url: baseUrl,
         logo: `${baseUrl}/logo.png`,
         description: locale === 'hu'
-            ? 'Teljes körű IT megoldások kis- és középvállalkozásoknak Székesfehérváron'
-            : 'Comprehensive IT solutions for small and medium-sized businesses',
+            ? 'Teljes körű IT megoldások kis- és középvállalkozásoknak Székesfehérváron. Rendszerüzemeltetés, hálózatépítés, webfejlesztés, IT biztonság, hosting és szerviz szolgáltatások 24/7 támogatással.'
+            : 'Comprehensive IT solutions for small and medium-sized businesses. System management, network development, web development, IT security, hosting, and repair services with 24/7 support.',
         email: 'hello@sironic.hu',
         telephone: '+36702735532',
         address: {
@@ -33,21 +35,42 @@ export function OrganizationSchema({ locale }: OrganizationSchemaProps) {
             postalCode: '8000',
             addressCountry: 'HU',
         },
-        areaServed: {
-            '@type': 'GeoCircle',
-            geoMidpoint: {
-                '@type': 'GeoCoordinates',
-                latitude: 47.1926,
-                longitude: 18.4289,
+        areaServed: [
+            {
+                '@type': 'GeoCircle',
+                geoMidpoint: {
+                    '@type': 'GeoCoordinates',
+                    latitude: 47.1926,
+                    longitude: 18.4289,
+                },
+                geoRadius: '50000', // 50km radius
             },
-            geoRadius: '50000', // 50km radius
-        },
+            {
+                '@type': 'Country',
+                name: 'Hungary'
+            },
+            {
+                '@type': 'Place',
+                name: 'European Union'
+            }
+        ],
+        knowsAbout: [
+            'IT System Management',
+            'Network Infrastructure',
+            'Web Development',
+            'Cybersecurity',
+            'Cloud Hosting',
+            'IT Support for SMEs',
+            'GDPR Compliance',
+            'Network Security',
+            'Custom Software Development'
+        ],
         contactPoint: {
             '@type': 'ContactPoint',
             contactType: 'Customer Service',
             telephone: '+36702735532',
             email: 'hello@sironic.hu',
-            availableLanguage: ['hu', 'en', 'de', 'sk', 'ro'],
+            availableLanguage: ['hu', 'en', 'de', 'sk', 'ro', 'hr', 'sl', 'fr', 'it', 'es', 'sv', 'da', 'no', 'nl', 'pl', 'cs'],
             hoursAvailable: {
                 '@type': 'OpeningHoursSpecification',
                 dayOfWeek: ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday'],

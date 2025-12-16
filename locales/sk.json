@@ -43,8 +43,8 @@
     "ogImage": "/og/home-sk.jpg",
     "pages": {
       "services": {
-        "title": "Profesionálne IT Služby - Správa Systémov a Vývoj",
-        "description": "Spoľahlivé IT služby pre firmy: správa systémov, budovanie sietí, vývoj webových stránok, hosting a servis. Požiadajte o ponuku od našich odborníkov!",
+        "title": "IT Služby - Správa Systémov, Vývoj Sietí a Vlastný Softvér | SIRONIC",
+        "description": "Profesionálne IT služby pre MSP: 24/7 správa systémov, sieťová infraštruktúra, vývoj webových stránok (Next.js/React), hosting, kybernetická bezpečnosť a IT servis. Podpora v rámci EÚ. Požiadajte o bezplatnú konzultáciu!",
         "keywords": [
           "IT služby",
           "správa systémov",
@@ -218,31 +218,31 @@
     "viewAll": "Zobraziť všetky služby",
     "systemOperation": {
       "title": "Správa systémov & IT údržba",
-      "description": "Komplexná údržba systémov, nepretržité monitorovanie a podpora pre MSP, plne v súlade s EÚ."
+      "description": "Komplexná údržba systémov, 24/7 nepretržité monitorovanie a proaktívna podpora pre MSP. Úplná súladnosť s EÚ a GDPR-kompatibilná prevádzka s pevne stanovenými SLA reakčnými časmi a transparentným cenovým nastavením."
     },
     "networking": {
       "title": "Návrh a vývoj sietí",
-      "description": "Plánovanie, budovanie a prevádzka moderných, bezpečných sieťových infraštruktúr."
+      "description": "Profesionálne plánovanie, nasadenie a dlhodobá správa moderných, bezpečných sieťových infraštruktúr. UniFi a MikroTik zariadenia, rýchle WiFi siete, VPN a nastavenie vzdialeného prístupu."
     },
     "security": {
       "title": "IT bezpečnosť & ochrana údajov",
-      "description": "Bezpečnostné audity, správa prístupov a ochrana údajov v súlade s predpismi EÚ."
+      "description": "Komplexné bezpečnostné audity, konfigurácia firewallov, automatizovaná správa prístupov a ochrana údajov v súlade s predpismi EÚ GDPR. Moderná ochrana pred vírusmi, záložné stratégie a školenia v oblasti kybernetickej bezpečnosti."
     },
     "development": {
       "title": "Vývoj webových stránok & softvéru",
-      "description": "Rýchle a bezpečné firemné webové stránky a vývoj e-shopov s modernými technológiami."
+      "description": "Rýchle, bezpečné a vyhľadávačmi optimalizované firemné webové stránky, e-commerce platformy a vlastné obchodné systémy vyvinuté pomocou technológií Next.js, React a TypeScript. Responzívny dizajn, moderná UX a optimalizácia výkonu. Prvá konzultácia je pri projektoch webových stránok bezplatná, základné webové stránky začínajú od 250 € + DPH."
     },
     "commerce": {
       "title": "Dodávka IT zariadení & softvéru",
-      "description": "Všetko pre prevádzku kancelárie – počítače, monitory, tlačiarne, servery a softvérové licencie z jedného zdroja."
+      "description": "Všetko, čo potrebujete pre prevádzku kancelárie a firemnú IT infraštruktúru – počítače, monitory, tlačiarne, sieťové zariadenia, servery, NAS systémy a softvérové licencie. Kompletná služba vrátane konzultácií a inštalácie."
     },
     "hosting": {
       "title": "Hosting & cloudové riešenia",
-      "description": "Stabilný, rýchly a bezpečný hosting pre webstránky, e-maily a zálohy. Webhosting, prenájom serverov a cloudové zálohovanie."
+      "description": "Stabilné, rýchle a bezpečné hostingové riešenia pre webové stránky, e-mail, zdieľanie súborov a zálohovanie údajov. Webhosting, prenájom dedikovaných serverov, cloudové zálohovanie a služby privátneho cloudu so zárukou dostupnosti 99,9%."
     },
     "repair": {
       "title": "Servis a oprava",
-      "description": "Rýchla a spoľahlivá oprava počítačov, notebookov a serverov na mieste alebo zaslaním poštou. Transparentné ponuky."
+      "description": "Rýchla a spoľahlivá oprava počítačov, notebookov, serverov a sieťových zariadení na mieste v Székesfehérváre a okolí alebo zaslaním poštou. Transparentné ponuky pred opravou, obnova údajov a odstránenie vírusov. Rýchla doba opravy so zárukou."
     }
   },
   "customDevelopment": {
@@ -461,7 +461,7 @@
   },
   "servicesPage": {
     "title": "Naše služby",
-    "subtitle": "Komplexné IT riešenia, aby Vaše podnikanie fungovalo bezpečne a efektívne. Od údržby za fixný poplatok až po vývoj na mieru – všetko na jednom mieste.",
+    "subtitle": "Komplexné IT riešenia, ktoré udržiavajú Vaše podnikanie bezpečné a efektívne. Od pevnej mesačnej údržby a 24/7 monitorovania až po vývoj vlastného softvéru a sieťovej infraštruktúry – všetko, čo Vaše MSP potrebuje, na jednom mieste, s GDPR-kompatibilnou prevádzkou a transparentným cenovým nastavením.",
     "cta": {
       "title": "Máte záujem o niektorú z našich služieb?",
       "subtitle": "Požiadajte o bezplatnú konzultáciu a spoločne nájdeme najlepšie riešenie pre Vaše podnikanie.",
@@ -502,7 +502,7 @@
         ]
       },
       "commerce": {
-        "description": "U nás získate všetko potrebné pre prevádzku kancelárie – počítače, monitory, tlačiarne, servery, sieťové zariadenia a softvérové licencie. Spolupracujeme so spoľahlivými značkami a pomôžeme Vám vybrať najlepší pomer ceny a výkonu. Či už potrebujete nové vybavenie alebo upgrade, postaráme sa o to.",
+        "description": "Všetko, čo potrebujete pre prevádzku kancelárie a firemnú IT infraštruktúru – počítače, monitory, tlačiarne, servery, sieťové zariadenia, NAS systémy a softvérové licencie. Spolupracujeme so spoľahlivými značkami a pomôžeme Vám vybrať najlepší pomer ceny a výkonu. Či už potrebujete nové vybavenie, upgrade alebo rozšírenie, postaráme sa o všetko s konzultáciami a inštalačnými službami.",
         "features": [
           "Počítače, notebooky a servery",
           "Sieťové zariadenia a periférie",
@@ -511,7 +511,7 @@
         ]
       },
       "hosting": {
-        "description": "Ponúkame stabilné, rýchle a bezpečné hostingové riešenia pre webové stránky, e-mail a zálohovanie údajov. Zabezpečujeme, aby boli Vaše údaje vždy dostupné a chránené prostredníctvom nášho vlastného serverového parku alebo spoľahlivých medzinárodných partnerov.",
+        "description": "Stabilné, rýchle a bezpečné hostingové riešenia pre webové stránky, e-mail, zdieľanie súborov a zálohovanie údajov. Prostredníctvom našej vlastnej serverovej infraštruktúry alebo dôveryhodných medzinárodných partnerov zabezpečujeme, aby boli Vaše údaje vždy dostupné a chránené so zárukou dostupnosti 99,9%. Webhosting, prenájom dedikovaných serverov, cloudové zálohovanie a služby privátneho cloudu.",
         "features": [
           "Webhosting a registrácia domén",
           "E-mail hosting",
@@ -521,7 +521,7 @@
       },
       "repair": {
         "title": "Servis a oprava – na mieste alebo poštou",
-        "description": "Rýchla a spoľahlivá oprava počítačov, notebookov, serverov a sieťových zariadení. Servis na mieste v Székesfehérvári a okolí alebo zaslaním poštou. Každú opravu začíname diagnostikou a pracujeme až po Vašom schválení cenovej ponuky. Naším cieľom je čo najskôr sprevádzkovať Váš systém.",
+        "description": "Rýchla a spoľahlivá oprava počítačov, notebookov, serverov a sieťových zariadení. Servis na mieste v Székesfehérvári a okolí alebo zaslaním poštou pre Vaše pohodlie. Každú opravu začíname komplexnou diagnostikou a pracujeme až po Vašom schválení transparentnej cenovej ponuky. Obnova údajov a odstránenie vírusov sú zahrnuté. Naším cieľom je čo najskôr sprevádzkovať Váš systém so záručným pokrytím.",
         "features": [
           "Servis na mieste (Székesfehérvár a okolie)",
           "Možnosť zaslania poštou",
@@ -531,7 +531,7 @@
       },
       "training": {
         "title": "IT školenia a rozvoj vedomostí",
-        "description": "Rozvíjajte digitálne zručnosti svojho tímu! Ponúkame personalizované IT školenia, školenia o bezpečnostnom povedomí a rozvoj systémových vedomostí, aby zamestnanci mohli s istotou používať moderné zariadenia a softvér. Bezpečná prevádzka začína informáciami.",
+        "description": "Rozvíjajte digitálne zručnosti a kybernetické bezpečnostné povedomie svojho tímu! Ponúkame personalizované IT školenia, školenia o bezpečnostnom povedomí a rozvoj systémových vedomostí, aby zamestnanci mohli s istotou používať moderné zariadenia a softvér. Od Microsoft 365 a Google Workspace až po najlepšie postupy v kybernetickej bezpečnosti a súladnosť s GDPR – bezpečná prevádzka začína správnym školením a informáciami.",
         "features": [
           "Personalizované IT školenia",
           "Školenia o bezpečnostnom povedomí",

@@ -42,8 +42,8 @@
     "ogImage": "/og/home-ro.jpg",
     "pages": {
       "services": {
-        "title": "Servicii IT Profesionale - Administrare și Dezvoltare",
-        "description": "Servicii IT de încredere pentru companii: administrare sisteme, rețele, dezvoltare web, hosting și reparații. Solicitați o ofertă de la experții noștri!",
+        "title": "Servicii IT - Administrare Sisteme, Dezvoltare Rețele și Software Personalizat | SIRONIC",
+        "description": "Servicii IT profesionale pentru IMM-uri: administrare sisteme 24/7, infrastructură rețea, dezvoltare web (Next.js/React), hosting, securitate cibernetică și reparații IT. Suport în întreaga UE. Solicitați o consultație gratuită!",
         "keywords": [
           "servicii IT",
           "administrare sisteme",
@@ -217,31 +217,31 @@
     "viewAll": "Vezi toate serviciile",
     "systemOperation": {
       "title": "Administrare sisteme & Întreținere IT",
-      "description": "Funcționare stabilă, sigură și rapidă – monitorizăm continuu sistemele dumneavoastră înainte ca problemele să apară. Mai puține întreruperi, eficiență mai mare."
+      "description": "Întreținere completă a sistemelor, monitorizare continuă 24/7 și suport proactiv pentru IMM-uri. Conformitate completă cu UE și funcționare compatibilă cu GDPR, cu timpi de răspuns SLA fixe și prețuri transparente."
     },
     "networking": {
       "title": "Proiectare și dezvoltare rețele",
-      "description": "Proiectăm, implementăm și optimizăm infrastructura de rețea a companiei dumneavoastră pentru ca fiecare dispozitiv să se conecteze fiabil, rapid și sigur."
+      "description": "Proiectare profesională, implementare și management pe termen lung al infrastructurilor de rețea moderne și sigure. Echipamente UniFi și MikroTik, rețele WiFi rapide, configurare VPN și acces la distanță."
     },
     "security": {
       "title": "Securitate IT & Protecția datelor",
-      "description": "Protejați-vă datele companiei! Firewall-uri moderne, backup-uri securizate, control al accesului – la noi securitatea datelor este standard, nu opțională."
+      "description": "Audituri de securitate complete, configurare firewall, management automat al accesului și protecție a datelor în conformitate cu reglementările GDPR ale UE. Protecție antivirus modernă, strategii de backup și traininguri de securitate cibernetică."
     },
     "development": {
       "title": "Dezvoltare website & Software",
-      "description": "Creăm site-uri web profesionale, responsive și soluții software personalizate pentru ca firma dumneavoastră să se remarce online."
+      "description": "Site-uri web corporative rapide, sigure și optimizate pentru motoarele de căutare, platforme e-commerce și sisteme de afaceri personalizate dezvoltate cu tehnologii Next.js, React și TypeScript. Design responsive, UX modernă și optimizare performanță. Prima consultație este gratuită pentru proiectele de site-uri web, site-urile de bază încep de la 250 € + TVA."
     },
     "commerce": {
       "title": "Furnizare echipamente IT & Software",
-      "description": "Tot ce aveți nevoie pentru funcționarea biroului – calculatoare, monitoare, imprimante, servere și licențe software, totul dintr-o singură sursă."
+      "description": "Tot ce aveți nevoie pentru funcționarea biroului și infrastructura IT corporativă – calculatoare, monitoare, imprimante, echipamente de rețea, servere, sisteme NAS și licențe software. Complet cu consultanță și servicii de instalare."
     },
     "hosting": {
       "title": "Hosting & Soluții cloud",
-      "description": "Hosting stabil, rapid și sigur pentru site-uri web, e-mail și backup de date. Web hosting, servere dedicate și stocare în cloud."
+      "description": "Soluții de hosting stabile, rapide și sigure pentru site-uri web, e-mail, partajare de fișiere și backup de date. Web hosting, închiriere servere dedicate, backup bazat pe cloud și servicii cloud private cu garanție de disponibilitate 99,9%."
     },
     "repair": {
       "title": "Servicii de reparații & Întreținere",
-      "description": "Repararea rapidă și fiabilă a calculatoarelor, laptopurilor și serverelor, fie la fața locului, fie prin expediere poștală. Oferte transparente și finalizare rapidă."
+      "description": "Repararea rapidă și fiabilă a calculatoarelor, laptopurilor, serverelor și echipamentelor de rețea la fața locului în Székesfehérvár și împrejurimi, sau prin expediere poștală. Oferte transparente înainte de reparație, recuperare date și eliminare viruși. Timp rapid de reparație cu garanție."
     }
   },
   "mindenCegnek": {
@@ -435,7 +435,7 @@
   },
   "servicesPage": {
     "title": "Serviciile noastre",
-    "subtitle": "Soluții IT complete pentru ca afacerea dumneavoastră să funcționeze sigur și eficient. De la întreținere cu tarif fix la dezvoltare personalizată – totul într-un singur loc.",
+    "subtitle": "Soluții IT complete care mențin afacerea dumneavoastră sigură și eficientă. De la întreținere lunară fixă și monitorizare 24/7 până la dezvoltare software personalizată și infrastructură rețea – tot ce are nevoie IMM-ul dumneavoastră într-un singur loc, cu funcționare compatibilă GDPR și prețuri transparente.",
     "cta": {
       "title": "Sunteți interesat de vreunul dintre serviciile noastre?",
       "subtitle": "Solicitați o consultație gratuită și să găsim împreună cea mai bună soluție pentru afacerea dumneavoastră.",
@@ -476,7 +476,7 @@
         ]
       },
       "commerce": {
-        "description": "Puteți obține tot ce aveți nevoie pentru funcționarea biroului de la noi – calculatoare, monitoare, imprimante, servere, dispozitive de rețea și licențe software. Lucrăm cu mărci de încredere și vă ajutăm să alegeți cel mai bun raport preț-performanță. Fie că aveți nevoie de echipamente noi sau de upgrade-uri, ne ocupăm noi.",
+        "description": "Tot ce aveți nevoie pentru funcționarea biroului și infrastructura IT corporativă – calculatoare, monitoare, imprimante, servere, echipamente de rețea, sisteme NAS și licențe software. Lucrăm cu mărci de încredere și vă ajutăm să alegeți cel mai bun raport preț-performanță. Fie că aveți nevoie de echipamente noi, upgrade-uri sau extindere, ne ocupăm de tot cu consultanță și servicii de instalare incluse.",
         "features": [
           "Calculatoare, laptopuri și servere",
           "Dispozitive de rețea și periferice",
@@ -485,7 +485,7 @@
         ]
       },
       "hosting": {
-        "description": "Oferim soluții de hosting stabile, rapide și sigure pentru site-uri web, e-mail și backup de date. Asigurăm că datele dumneavoastră sunt întotdeauna accesibile și protejate prin propriul nostru parc de servere sau parteneri internaționali de încredere.",
+        "description": "Soluții de hosting stabile, rapide și sigure pentru site-uri web, e-mail, partajare fișiere și backup de date. Prin infrastructura noastră de servere sau parteneri internaționali de încredere, asigurăm că datele dumneavoastră sunt întotdeauna accesibile și protejate cu garanție de disponibilitate 99,9%. Web hosting, închiriere servere dedicate, backup bazat pe cloud și servicii cloud private.",
         "features": [
           "Web hosting și înregistrare domenii",
           "E-mail hosting",
@@ -495,7 +495,7 @@
       },
       "repair": {
         "title": "Service și reparații – La fața locului sau prin poștă",
-        "description": "Repararea rapidă și fiabilă a calculatoarelor, laptopurilor, serverelor și dispozitivelor de rețea. Service la fața locului în Székesfehérvár și împrejurimi, sau prin expediere poștală. Începem fiecare reparație cu diagnosticare și lucrăm doar după aprobarea ofertei de către dumneavoastră. Scopul nostru este să vă repunem sistemul în funcțiune cât mai curând posibil.",
+        "description": "Repararea rapidă și fiabilă a calculatoarelor, laptopurilor, serverelor și dispozitivelor de rețea. Service la fața locului în Székesfehérvár și împrejurimi, sau prin expediere poștală pentru confortul dumneavoastră. Începem fiecare reparație cu diagnosticare completă și lucrăm doar după aprobarea ofertei transparente de către dumneavoastră. Recuperare date și eliminare viruși incluse. Scopul nostru este să vă repunem sistemul în funcțiune cât mai curând posibil cu acoperire garanție.",
         "features": [
           "Service la fața locului (Székesfehérvár și împrejurimi)",
           "Opțiune de expediere prin poștă",
@@ -505,7 +505,7 @@
       },
       "training": {
         "title": "Instruire IT și dezvoltare cunoștințe",
-        "description": "Dezvoltați abilitățile digitale ale echipei dumneavoastră! Oferim instruire IT personalizată, instruire privind conștientizarea securității și dezvoltarea cunoștințelor la nivel de sistem, astfel încât angajații să poată utiliza cu încredere dispozitivele și software-ul modern. Funcționarea sigură începe cu informația.",
+        "description": "Dezvoltați abilitățile digitale și conștientizarea securității cibernetice ale echipei dumneavoastră! Oferim instruire IT personalizată, instruire privind conștientizarea securității și dezvoltarea cunoștințelor la nivel de sistem, astfel încât angajații să poată utiliza cu încredere dispozitivele și software-ul modern. De la Microsoft 365 și Google Workspace până la cele mai bune practici de securitate cibernetică și conformitate GDPR – funcționarea sigură începe cu instruirea și informația corectă.",
         "features": [
           "Instruire IT personalizată",
           "Instruire privind conștientizarea securității",

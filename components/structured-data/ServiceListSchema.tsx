@@ -65,22 +65,49 @@ export function ServiceListSchema({ locale }: ServiceListSchemaProps) {
     const schema = {
         '@context': 'https://schema.org',
         '@type': 'ItemList',
+        name: t('servicesPage.title') || 'Our Services',
+        description: t('servicesPage.subtitle') || 'Comprehensive IT solutions for your business',
         itemListElement: services.map((service, index) => ({
             '@type': 'ListItem',
             position: index + 1,
             item: {
                 '@type': 'Service',
+                '@id': `${service.url}#service`,
                 name: service.name,
                 description: service.description,
                 url: service.url,
-                provider: {
-                    '@type': 'LocalBusiness',
-                    name: 'SIRONIC IT Rendszerház',
-                    image: `${baseUrl}/logo.png`
+                category: 'Information Technology Services',
+                audience: {
+                    '@type': 'Audience',
+                    audienceType: 'Small and Medium-sized Enterprises'
                 },
-                areaServed: {
-                    '@type': 'City',
-                    name: 'Székesfehérvár'
+                provider: {
+                    '@type': 'Organization',
+                    '@id': `${baseUrl}/#organization`,
+                    name: 'SIRONIC IT Solutions',
+                    logo: `${baseUrl}/logo.png`,
+                    url: baseUrl
+                },
+                areaServed: [
+                    {
+                        '@type': 'City',
+                        name: 'Székesfehérvár'
+                    },
+                    {
+                        '@type': 'Country',
+                        name: 'Hungary'
+                    },
+                    {
+                        '@type': 'Place',
+                        name: 'European Union'
+                    }
+                ],
+                availableLanguage: ['hu', 'en', 'de', 'sk', 'ro', 'hr', 'sl', 'fr', 'it', 'es', 'sv', 'da', 'no', 'nl', 'pl', 'cs'],
+                inLanguage: locale,
+                offers: {
+                    '@type': 'Offer',
+                    availability: 'https://schema.org/InStock',
+                    priceCurrency: 'EUR'
                 }
             }
         }))

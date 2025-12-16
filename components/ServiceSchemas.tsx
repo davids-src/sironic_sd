@@ -29,27 +29,46 @@ export function ServiceSchema({
         '@type': 'Service',
         '@id': `${baseUrl}${url}#service`,
         serviceType,
+        category: 'Information Technology Services',
         name: serviceName,
         description,
+        audience: {
+            '@type': 'Audience',
+            audienceType: 'Small and Medium-sized Enterprises',
+            geographicArea: {
+                '@type': 'Place',
+                name: 'European Union'
+            }
+        },
         provider: {
             '@type': 'Organization',
             '@id': `${baseUrl}/#organization`,
             name: 'SIRONIC IT Solutions',
+            logo: `${baseUrl}/logo.png`,
+            url: baseUrl
         },
         areaServed:
             areaServed === 'EU'
-                ? {
-                    '@type': 'Place',
-                    name: 'European Union',
-                }
+                ? [
+                    {
+                        '@type': 'Place',
+                        name: 'European Union',
+                    },
+                    {
+                        '@type': 'Country',
+                        name: 'Hungary'
+                    }
+                ]
                 : [
                     { '@type': 'City', name: 'Székesfehérvár' },
                     { '@type': 'City', name: 'Budapest' },
                     { '@type': 'AdministrativeArea', name: 'Fejér megye' },
                     { '@type': 'Country', name: 'Hungary' },
+                    { '@type': 'Place', name: 'European Union' },
                 ],
         url: `${baseUrl}${url}`,
         inLanguage: locale,
+        availableLanguage: ['hu', 'en', 'de', 'sk', 'ro', 'hr', 'sl', 'fr', 'it', 'es', 'sv', 'da', 'no', 'nl', 'pl', 'cs'],
         availableChannel: {
             '@type': 'ServiceChannel',
             serviceUrl: `${baseUrl}${url}`,
@@ -58,6 +77,11 @@ export function ServiceSchema({
                 name: locale,
             },
         },
+        offers: {
+            '@type': 'Offer',
+            availability: 'https://schema.org/InStock',
+            priceCurrency: 'EUR'
+        }
     };
 
     return (
@@ -91,8 +115,9 @@ export function FAQSchema({ faqs, url }: FAQSchemaProps) {
         '@context': 'https://schema.org',
         '@type': 'FAQPage',
         '@id': `${baseUrl}${url}#faq`,
-        mainEntity: faqs.map((faq) => ({
+        mainEntity: faqs.map((faq, index) => ({
             '@type': 'Question',
+            '@id': `${baseUrl}${url}#faq-question-${index + 1}`,
             name: faq.question,
             acceptedAnswer: {
                 '@type': 'Answer',

@@ -45,8 +45,8 @@
     "ogImage": "/og/home-en.jpg",
     "pages": {
       "services": {
-        "title": "IT Services - System Administration & Development",
-        "description": "Reliable IT services for businesses: system administration, network setup, web development, hosting, and repair. Request a quote from our experts today!",
+        "title": "IT Services - System Management, Network Development & Custom Software | SIRONIC",
+        "description": "Professional IT services for SMEs: 24/7 system management, network infrastructure, web development (Next.js/React), hosting, cybersecurity, and IT repair. EU-wide support. Request a free consultation!",
         "keywords": [
           "IT services",
           "system management",
@@ -220,31 +220,31 @@
     "viewAll": "All Services",
     "systemOperation": {
       "title": "System Management & IT Maintenance",
-      "description": "Comprehensive system maintenance, continuous monitoring, and support for SMBs, fully EU-compliant."
+      "description": "Comprehensive system maintenance, 24/7 continuous monitoring, and proactive support for SMEs. Full EU compliance and GDPR-compatible operations with fixed SLA response times and transparent pricing."
     },
     "networking": {
       "title": "Network Building & Development",
-      "description": "Design, construction, and operation of modern, secure network infrastructures."
+      "description": "Professional design, deployment, and long-term management of modern, secure network infrastructures. UniFi and MikroTik equipment, high-speed WiFi networks, VPN and remote access setup."
     },
     "security": {
       "title": "IT Security & Data Protection",
-      "description": "Security audits, access management, and data protection in compliance with EU regulations."
+      "description": "Comprehensive security audits, firewall configuration, automated access management, and data protection aligned with EU GDPR regulations. Modern antivirus protection, backup strategies, and cybersecurity training."
     },
     "development": {
       "title": "Website & System Development",
-      "description": "Fast and secure corporate websites and webshop development with modern technologies."
+      "description": "Fast, secure, and search-optimized corporate websites, e-commerce platforms, and custom business systems developed with Next.js, React, and TypeScript technologies. Responsive design, modern UX, and performance optimization. First consultation is free for website projects, basic websites start from €250 + VAT."
     },
     "commerce": {
       "title": "Commerce – IT Equipment & Software",
-      "description": "Get everything needed for office operations – computers, monitors, printers, servers, and software licenses."
+      "description": "Everything you need for office operations and corporate IT infrastructure – computers, monitors, printers, network equipment, servers, NAS systems, and software licenses. Complete with consultation and installation services."
     },
     "hosting": {
       "title": "Hosting & Cloud Solutions",
-      "description": "Stable, fast, and secure hosting solutions for websites, email, and data backup. Web hosting, server rental, and cloud backup."
+      "description": "Stable, fast, and secure hosting solutions for websites, email, file sharing, and data backup. Web hosting, dedicated server rental, cloud-based backup, and private cloud services with 99.9% uptime guarantee."
     },
     "repair": {
       "title": "Service & Repair",
-      "description": "Fast and reliable repair of computers, laptops, and servers on-site or via mail-in. Transparent quotes and quick repairs."
+      "description": "Fast and reliable repair of computers, laptops, servers, and network equipment on-site in Székesfehérvár and surrounding areas, or via mail-in service. Transparent quotes before repair, data recovery and virus removal. Quick turnaround time with warranty."
     }
   },
   "customDevelopment": {
@@ -463,7 +463,7 @@
   },
   "servicesPage": {
     "title": "Our Services",
-    "subtitle": "Complete IT solutions to keep your business secure and efficient. From fixed-fee maintenance to custom development – everything in one place.",
+    "subtitle": "Comprehensive IT solutions that keep your business secure and efficient. From fixed monthly maintenance and 24/7 monitoring to custom software development and network infrastructure – everything your SME needs in one place, with GDPR-compliant operations and transparent pricing.",
     "cta": {
       "title": "Interested in any of our services?",
       "subtitle": "Request a free consultation and let's find the best solution for your business together.",
@@ -504,7 +504,7 @@
         ]
       },
       "commerce": {
-        "description": "You can get everything needed for office operations from us – computers, monitors, printers, servers, network devices, and software licenses. We work with reliable brands and help you choose the best price-performance ratio. Whether you need new equipment or upgrades, we take care of it.",
+        "description": "Everything you need for office operations and corporate IT infrastructure – computers, monitors, printers, servers, network equipment, NAS systems, and software licenses. We work with reliable brands and help you select the best price-performance ratio. Whether you need new equipment, upgrades, or expansion, we handle it all with consultation and installation services included.",
         "features": [
           "Computers, laptops, and servers",
           "Network devices and peripherals",
@@ -513,7 +513,7 @@
         ]
       },
       "hosting": {
-        "description": "We offer stable, fast, and secure hosting solutions for websites, email, and data backup. We ensure your data is always accessible and protected through our own server park or reliable international partners.",
+        "description": "Stable, fast, and secure hosting solutions for websites, email, file sharing, and data backup. Through our own server infrastructure or trusted international partners, we ensure your data is always accessible and protected with 99.9% uptime guarantee. Web hosting, dedicated server rental, cloud-based backup, and private cloud services.",
         "features": [
           "Web hosting and domain registration",
           "Email hosting",
@@ -523,7 +523,7 @@
       },
       "repair": {
         "title": "Service and Repair – On-site or Mail-in",
-        "description": "Fast and reliable repair of computers, laptops, servers, and network devices. On-site service in Székesfehérvár and surroundings, or mail-in service. We start every repair with diagnostics, and only proceed after your approval of the quote. Our goal is to get your system back up and running as soon as possible.",
+        "description": "Fast and reliable repair of computers, laptops, servers, and network devices. On-site service in Székesfehérvár and surrounding areas, or mail-in service for your convenience. Every repair starts with comprehensive diagnostics, and we only proceed after your approval of the transparent quote. Data recovery and virus removal included. Our goal is to get your system back up and running as quickly as possible with warranty coverage.",
         "features": [
           "On-site service (Székesfehérvár and surroundings)",
           "Mail-in option",
@@ -533,7 +533,7 @@
       },
       "training": {
         "title": "IT Training and Knowledge Development",
-        "description": "Develop your team's digital skills! We offer personalized IT training, security awareness training, and system-level knowledge development so employees can confidently use modern devices and software. Secure operation starts with information.",
+        "description": "Develop your team's digital skills and cybersecurity awareness! We offer personalized IT training, security awareness training, and system-level knowledge development so employees can confidently use modern devices and software. From Microsoft 365 and Google Workspace to cybersecurity best practices and GDPR compliance – secure operation starts with proper training and information.",
         "features": [
           "Personalized IT training",
           "Security awareness training",

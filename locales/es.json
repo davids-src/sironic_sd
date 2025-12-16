@@ -45,8 +45,8 @@
     "ogImage": "/og/home-es.jpg",
     "pages": {
       "services": {
-        "title": "Servicios TI - Administración de Sistemas y Desarrollo",
-        "description": "Servicios TI fiables para empresas: administración de sistemas, configuración de red, desarrollo web, hosting y reparación. ¡Solicite presupuesto a nuestros expertos!",
+        "title": "Servicios TI - Gestión de Sistemas, Desarrollo de Redes y Software a Medida | SIRONIC",
+        "description": "Servicios TI profesionales para PYME: gestión de sistemas 24/7, infraestructura de red, desarrollo web (Next.js/React), hosting, ciberseguridad y reparación TI. Soporte en toda la UE. ¡Solicite una consulta gratuita!",
         "keywords": [
           "Servicios TI",
           "gestión de sistemas",
@@ -223,31 +223,31 @@
     "viewAll": "Ver Todos los Servicios",
     "systemOperation": {
       "title": "Gestión de Sistemas y Mantenimiento TI",
-      "description": "Operaciones estables, seguras y rápidas – monitorizamos continuamente sus sistemas antes de que ocurra cualquier problema. Menos inactividad, mayor eficiencia."
+      "description": "Mantenimiento completo de sistemas, monitoreo continuo 24/7 y soporte proactivo para PYME. Conformidad total UE y funcionamiento compatible con GDPR con tiempos de respuesta SLA fijos y precios transparentes."
     },
     "networking": {
       "title": "Diseño y Desarrollo de Redes",
-      "description": "Diseñamos, implementamos y optimizamos la infraestructura de red de su empresa para garantizar que cada dispositivo se conecte de forma fiable, rápida y segura."
+      "description": "Diseño profesional, implementación y gestión a largo plazo de infraestructuras de red modernas y seguras. Equipos UniFi y MikroTik, redes WiFi rápidas, configuración VPN y acceso remoto."
     },
     "security": {
       "title": "Seguridad TI y Protección de Datos",
-      "description": "¡Proteja los datos de su empresa! Cortafuegos modernos, copias de seguridad seguras, control de acceso – con nosotros, la seguridad no es un extra, es el estándar."
+      "description": "Auditorías de seguridad completas, configuración de cortafuegos, gestión automática de accesos y protección de datos conforme a las normativas GDPR de la UE. Protección antivirus moderna, estrategias de respaldo y formación en ciberseguridad."
     },
     "development": {
       "title": "Desarrollo Web y de Software",
-      "description": "Creamos sitios web profesionales y responsivos y soluciones de software a medida para que su empresa destaque en línea."
+      "description": "Sitios web corporativos rápidos, seguros y optimizados para motores de búsqueda, plataformas de comercio electrónico y sistemas empresariales personalizados desarrollados con tecnologías Next.js, React y TypeScript. Diseño responsive, UX moderna y optimización de rendimiento. La primera consulta es gratuita para proyectos de sitios web, los sitios básicos comienzan desde 250 € + IVA."
     },
     "commerce": {
       "title": "Suministro de Equipos y Software TI",
-      "description": "Todo lo que necesita para las operaciones de oficina – ordenadores, monitores, impresoras, servidores y licencias de software, todo de una fuente de confianza."
+      "description": "Todo lo que necesita para las operaciones de oficina y la infraestructura TI empresarial – ordenadores, monitores, impresoras, equipos de red, servidores, sistemas NAS y licencias de software. Completo con consultoría y servicios de instalación."
     },
     "hosting": {
       "title": "Hosting y Soluciones en la Nube",
-      "description": "Alojamiento estable, rápido y seguro para sitios web, correo electrónico y copias de seguridad. Web hosting, servidores dedicados y almacenamiento en la nube."
+      "description": "Soluciones de hosting estables, rápidas y seguras para sitios web, correo electrónico, intercambio de archivos y copias de seguridad de datos. Web hosting, alquiler de servidores dedicados, copias de seguridad en la nube y servicios de nube privada con garantía de disponibilidad del 99,9%."
     },
     "repair": {
       "title": "Servicios de Reparación y Mantenimiento",
-      "description": "Reparación rápida y fiable de ordenadores, portátiles y servidores, ya sea in situ o por servicio postal. Presupuestos transparentes y entrega rápida."
+      "description": "Reparación rápida y fiable de ordenadores, portátiles, servidores y equipos de red in situ en Székesfehérvár y alrededores, o por servicio postal. Presupuestos transparentes antes de la reparación, recuperación de datos y eliminación de virus. Tiempo de reparación rápido con garantía."
     }
   },
   "mindenCegnek": {
@@ -441,7 +441,7 @@
   },
   "servicesPage": {
     "title": "Nuestros Servicios",
-    "subtitle": "Soluciones TI completas para mantener su empresa segura y eficiente. Desde mantenimiento de tarifa fija hasta desarrollo a medida – todo en un solo lugar.",
+    "subtitle": "Soluciones TI completas que mantienen su empresa segura y eficiente. Desde mantenimiento mensual fijo y monitoreo 24/7 hasta desarrollo de software a medida e infraestructura de red – todo lo que su PYME necesita en un solo lugar, con funcionamiento compatible con GDPR y precios transparentes.",
     "cta": {
       "title": "¿Interesado en alguno de nuestros servicios?",
       "subtitle": "Solicite una consulta gratuita y encontremos juntos la mejor solución para su negocio.",
@@ -482,7 +482,7 @@
         ]
       },
       "commerce": {
-        "description": "Puede obtener todo lo necesario para las operaciones de oficina con nosotros – ordenadores, monitores, impresoras, servidores, dispositivos de red y licencias de software. Trabajamos con marcas fiables y le ayudamos a elegir la mejor relación calidad-precio. Ya sea que necesite nuevos equipos o actualizaciones, nosotros nos encargamos.",
+        "description": "Todo lo que necesita para las operaciones de oficina y la infraestructura TI empresarial – ordenadores, monitores, impresoras, servidores, equipos de red, sistemas NAS y licencias de software. Trabajamos con marcas fiables y le ayudamos a elegir la mejor relación calidad-precio. Ya sea que necesite nuevos equipos, actualizaciones o expansión, nosotros nos encargamos de todo con consultoría y servicios de instalación incluidos.",
         "features": [
           "Ordenadores, portátiles y servidores",
           "Dispositivos de red y periféricos",
@@ -491,7 +491,7 @@
         ]
       },
       "hosting": {
-        "description": "Ofrecemos soluciones de hosting estables, rápidas y seguras para sitios web, correo electrónico y copias de seguridad de datos. Aseguramos que sus datos estén siempre accesibles y protegidos a través de nuestro propio parque de servidores o socios internacionales de confianza.",
+        "description": "Soluciones de hosting estables, rápidas y seguras para sitios web, correo electrónico, intercambio de archivos y copias de seguridad de datos. A través de nuestra propia infraestructura de servidores o socios internacionales de confianza, aseguramos que sus datos estén siempre accesibles y protegidos con garantía de disponibilidad del 99,9%. Alojamiento web, alquiler de servidores dedicados, copias de seguridad en la nube y servicios de nube privada.",
         "features": [
           "Alojamiento web y registro de dominios",
           "Alojamiento de correo electrónico",
@@ -501,7 +501,7 @@
       },
       "repair": {
         "title": "Servicio y Reparación – In situ o por Correo",
-        "description": "Reparación rápida y fiable de ordenadores, portátiles, servidores y dispositivos de red. Servicio in situ en Székesfehérvár y alrededores, o servicio por correo. Comenzamos cada reparación con diagnósticos y solo procedemos tras su aprobación del presupuesto. Nuestro objetivo es que su sistema vuelva a funcionar lo antes posible.",
+        "description": "Reparación rápida y fiable de ordenadores, portátiles, servidores y equipos de red. Servicio in situ en Székesfehérvár y alrededores, o servicio por correo para su comodidad. Comenzamos cada reparación con diagnóstico completo, y solo procedemos tras su aprobación del presupuesto transparente. Recuperación de datos y eliminación de virus incluidas. Nuestro objetivo es que su sistema vuelva a funcionar lo antes posible con cobertura de garantía.",
         "features": [
           "Servicio in situ (Székesfehérvár y alrededores)",
           "Opción de envío por correo",
@@ -511,7 +511,7 @@
       },
       "training": {
         "title": "Formación TI y Desarrollo de Conocimientos",
-        "description": "¡Desarrolle las habilidades digitales de su equipo! Ofrecemos formación TI personalizada, concienciación sobre seguridad y desarrollo de conocimientos a nivel de sistema para que los empleados puedan utilizar dispositivos y software modernos con confianza. La operación segura comienza con la información.",
+        "description": "¡Desarrolle las habilidades digitales y la concienciación sobre ciberseguridad de su equipo! Ofrecemos formación TI personalizada, concienciación sobre seguridad y desarrollo de conocimientos a nivel de sistema para que los empleados puedan utilizar dispositivos y software modernos con confianza. De Microsoft 365 y Google Workspace a las mejores prácticas de ciberseguridad y conformidad GDPR – la operación segura comienza con la formación e información adecuadas.",
         "features": [
           "Formación TI personalizada",
           "Formación en concienciación de seguridad",

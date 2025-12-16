@@ -45,8 +45,8 @@
         "ogImage": "/og/home-en.jpg",
         "pages": {
             "services": {
-                "title": "IT Storitve - Sistemska Administracija & Razvoj",
-                "description": "Zanesljive IT storitve za podjetja: sistemska administracija, vzpostavitev omrežja, spletni razvoj, gostovanje in popravila. Zahtevajte ponudbo naših strokovnjakov še danes!",
+                "title": "IT Storitve - Upravljanje Sistemov, Razvoj Omrežij in Programska Oprema po Meri | SIRONIC",
+                "description": "Profesionalne IT storitve za mala in srednja podjetja: 24/7 upravljanje sistemov, omrežna infrastruktura, spletni razvoj (Next.js/React), gostovanje, kibernetska varnost in IT servis. Podpora v celotni EU. Zahtevajte brezplačen posvet!",
                 "keywords": [
                     "IT storitve",
                     "sistemska administracija",
@@ -223,31 +223,31 @@
         "viewAll": "Oglejte si vse storitve",
         "systemOperation": {
             "title": "Upravljanje sistemov & IT vzdrževanje",
-            "description": "Stabilno, varno in hitro delovanje – vaše sisteme nenehno spremljamo, še preden gre kaj narobe. Manj izpadov, večja učinkovitost."
+            "description": "Celovito vzdrževanje sistemov, neprekinjeno spremljanje 24/7 in proaktivna podpora za mala in srednja podjetja. Popolna skladnost z EU in GDPR-kompatibilno delovanje s fiksnimi SLA časi odziva in transparentnimi cenami."
         },
         "networking": {
             "title": "Načrtovanje & razvoj omrežij",
-            "description": "Načrtujemo, uvajamo in optimiziramo omrežno infrastrukturo vašega podjetja, da zagotovimo zanesljivo, hitro in varno povezavo vsake naprave."
+            "description": "Profesionalno načrtovanje, uvedba in dolgoročno upravljanje sodobnih, varnih omrežnih infrastruktur. UniFi in MikroTik oprema, hitre WiFi omrežja, VPN in nastavitev oddaljenega dostopa."
         },
         "security": {
             "title": "IT Varnost & Varstvo podatkov",
-            "description": "Zaščitite svoje poslovne podatke! Sodobni požarni zidovi, varne varnostne kopije, nadzor dostopa – pri nas varnost podatkov ni dodatek, ampak standard."
+            "description": "Celovite varnostne revizije, konfiguracija požarnega zidu, avtomatizirano upravljanje dostopa in varstvo podatkov v skladu z določbami EU GDPR. Sodobna zaščita pred virusi, strategije varnostnega kopiranja in usposabljanja za kibernetsko varnost."
         },
         "development": {
             "title": "Spletni razvoj & Razvoj programske opreme",
-            "description": "Ustvarjamo profesionalne, odzivne spletne strani in programske rešitve po meri, da vaše podjetje izstopa na spletu."
+            "description": "Hitre, varne in iskalnikom optimizirane korporativne spletne strani, e-trgovinske platforme in prilagojeni poslovni sistemi, razviti s tehnologijami Next.js, React in TypeScript. Odziven dizajn, sodobna UX in optimizacija zmogljivosti. Prva konzultacija je brezplačna za projekte spletnih strani, osnovne spletne strani se začnejo pri 250 € + DDV."
         },
         "commerce": {
             "title": "Dobava IT opreme & programske opreme",
-            "description": "Vse, kar potrebujete za pisarniško poslovanje – računalniki, monitorji, tiskalniki, strežniki in licence za programsko opremo, vse iz enega zanesljivega vira."
+            "description": "Vse, kar potrebujete za pisarniško poslovanje in korporativno IT infrastrukturo – računalniki, monitorji, tiskalniki, omrežna oprema, strežniki, NAS sistemi in licence za programsko opremo. Popolno s konzultacijami in storitvami namestitve."
         },
         "hosting": {
             "title": "Gostovanje & Oblačne rešitve",
-            "description": "Stabilno, hitro in varno gostovanje za spletne strani, e-pošto in varnostne kopije podatkov. Spletno gostovanje, namenski strežniki in oblačno shranjevanje."
+            "description": "Stabilne, hitre in varne hosting rešitve za spletne strani, e-pošto, izmenjavo datotek in varnostno kopiranje podatkov. Spletno gostovanje, najem namenskih strežnikov, oblačno varnostno kopiranje in zasebne oblačne storitve z jamstvom razpoložljivosti 99,9%."
         },
         "repair": {
             "title": "Servis & Vzdrževanje",
-            "description": "Hitro in zanesljivo popravilo računalnikov, prenosnikov in strežnikov, bodisi na lokaciji bodisi po pošti. Transparentne ponudbe in hitra izvedba."
+            "description": "Hitro in zanesljivo popravilo računalnikov, prenosnikov, strežnikov in omrežne opreme na lokaciji v Székesfehérváru in okolici ali po pošti. Transparentne ponudbe pred popravilom, obnovitev podatkov in odstranitev virusov. Hitro čas popravila z jamstvom."
         }
     },
     "mindenCegnek": {
@@ -441,7 +441,7 @@
     },
     "servicesPage": {
         "title": "Naše storitve",
-        "subtitle": "Popolne IT rešitve za varno in učinkovito poslovanje vašega podjetja. Od vzdrževanja s fiksno ceno do razvoja po meri – vse na enem mestu.",
+        "subtitle": "Celovite IT rešitve, ki ohranjajo vaše podjetje varno in učinkovito. Od fiksnega mesečnega vzdrževanja in 24/7 spremljanja do razvoja programske opreme po meri in omrežne infrastrukture – vse, kar vaše MSP potrebuje, na enem mestu, z GDPR-kompatibilnim delovanjem in transparentnimi cenami.",
         "cta": {
             "title": "Vas zanima katera od naših storitev?",
             "subtitle": "Zahtevajte brezplačen posvet in skupaj poiščimo najboljšo rešitev za vaše podjetje.",
@@ -482,7 +482,7 @@
                 ]
             },
             "commerce": {
-                "description": "Pri nas dobite vse, kar potrebujete za pisarniško poslovanje – računalnike, monitorje, tiskalnike, strežnike, omrežne naprave in licence za programsko opremo. Sodelujemo z zanesljivimi blagovnimi znamkami in vam pomagamo izbrati najboljše razmerje med ceno in kakovostjo. Ne glede na to, ali potrebujete novo opremo ali nadgradnje, poskrbimo za to.",
+                "description": "Vse, kar potrebujete za pisarniško poslovanje in korporativno IT infrastrukturo – računalnike, monitorje, tiskalnike, strežnike, omrežno opremo, NAS sisteme in licence za programsko opremo. Sodelujemo z zanesljivimi blagovnimi znamkami in vam pomagamo izbrati najboljše razmerje med ceno in kakovostjo. Ne glede na to, ali potrebujete novo opremo, nadgradnje ali razširitev, poskrbimo za vse s posvetovanjem in storitvami namestitve vključenimi.",
                 "features": [
                     "Računalniki, prenosniki in strežniki",
                     "Omrežne naprave in zunanje naprave",
@@ -491,7 +491,7 @@
                 ]
             },
             "hosting": {
-                "description": "Ponujamo stabilne, hitre in varne rešitve gostovanja za spletne strani, e-pošto in varnostno kopiranje podatkov. Zagotavljamo, da so vaši podatki vedno dostopni in zaščiteni preko našega lastnega strežniškega parka ali zanesljivih mednarodnih partnerjev.",
+                "description": "Stabilne, hitre in varne rešitve gostovanja za spletne strani, e-pošto, izmenjavo datotek in varnostno kopiranje podatkov. Preko naše lastne strežniške infrastrukture ali zanesljivih mednarodnih partnerjev zagotavljamo, da so vaši podatki vedno dostopni in zaščiteni z jamstvom razpoložljivosti 99,9%. Spletno gostovanje, najem namenskih strežnikov, oblačno varnostno kopiranje in zasebne oblačne storitve.",
                 "features": [
                     "Spletno gostovanje in registracija domen",
                     "Gostovanje e-pošte",
@@ -501,7 +501,7 @@
             },
             "repair": {
                 "title": "Servis in popravilo – Na lokaciji ali po pošti",
-                "description": "Hitro in zanesljivo popravilo računalnikov, prenosnikov, strežnikov in omrežnih naprav. Servis na lokaciji v Székesfehérvárju in okolici ali storitev po pošti. Vsako popravilo začnemo z diagnostiko in nadaljujemo šele po vaši potrditvi ponudbe. Naš cilj je, da vaš sistem čim prej ponovno deluje.",
+                "description": "Hitro in zanesljivo popravilo računalnikov, prenosnikov, strežnikov in omrežnih naprav. Servis na lokaciji v Székesfehérvárju in okolici ali storitev po pošti za vašo udobnost. Vsako popravilo začnemo s celovito diagnostiko in nadaljujemo šele po vaši potrditvi transparentne ponudbe. Obnova podatkov in odstranitev virusov vključeni. Naš cilj je, da vaš sistem čim prej ponovno deluje z jamstvenim pokritjem.",
                 "features": [
                     "Servis na lokaciji (Székesfehérvár in okolica)",
                     "Možnost pošiljanja po pošti",
@@ -511,7 +511,7 @@
             },
             "training": {
                 "title": "IT izobraževanje in razvoj znanja",
-                "description": "Razvijte digitalne veščine svoje ekipe! Ponujamo personalizirano IT izobraževanje, usposabljanje za varnostno ozaveščenost in razvoj sistemskega znanja, tako da lahko zaposleni samozavestno uporabljajo sodobne naprave in programsko opremo. Varno delovanje se začne z informacijami.",
+                "description": "Razvijte digitalne veščine in kibernetsko varnostno ozaveščenost svoje ekipe! Ponujamo personalizirano IT izobraževanje, usposabljanje za varnostno ozaveščenost in razvoj sistemskega znanja, tako da lahko zaposleni samozavestno uporabljajo sodobne naprave in programsko opremo. Od Microsoft 365 in Google Workspace do najboljših praks kibernetske varnosti in GDPR skladnosti – varno delovanje se začne s pravilnim usposabljanjem in informacijami.",
                 "features": [
                     "Personalizirano IT izobraževanje",
                     "Usposabljanje za varnostno ozaveščenost",

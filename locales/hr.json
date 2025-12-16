@@ -48,8 +48,8 @@
     "ogImage": "/og/home-hr.jpg",
     "pages": {
       "services": {
-        "title": "IT Usluge - Održavanje Sustava i Razvoj",
-        "description": "Pouzdane IT usluge za tvrtke: sistem administratorski poslovi, izgradnja mreža, web razvoj, hosting i servis. Zatražite ponudu od naših stručnjaka!",
+        "title": "IT Usluge - Upravljanje Sustavima, Razvoj Mreža i Prilagođeni Softver | SIRONIC",
+        "description": "Profesionalne IT usluge za mala i srednja poduzeća: 24/7 upravljanje sustavima, mrežna infrastruktura, web razvoj (Next.js/React), hosting, kibernetička sigurnost i IT servis. Podrška u cijeloj EU. Zatražite besplatnu konzultaciju!",
         "keywords": [
           "IT usluge",
           "održavanje sustava",
@@ -226,31 +226,31 @@
     "viewAll": "Sve naše usluge",
     "systemOperation": {
       "title": "Održavanje sustava i IT podrška",
-      "description": "Stabilan, siguran i brz rad – mi kontinuirano pratimo vaše sustave prije nego što se pojavi problem. Manje zastoja, veća učinkovitost."
+      "description": "Sveobuhvatno održavanje sustava, kontinuirano praćenje 24/7 i proaktivna podrška za mala i srednja poduzeća. Potpuna usklađenost s EU i GDPR-kompatibilno poslovanje s fiksnim SLA vremenima odgovora i transparentnim cijenama."
     },
     "networking": {
       "title": "Izgradnja i razvoj mreža",
-      "description": "Projektiramo, gradimo i optimiziramo mrežu vaše tvrtke kako bi se svi uređaji povezivali pouzdano, brzo i sigurno."
+      "description": "Profesionalno projektiranje, implementacija i dugoročno upravljanje modernim, sigurnim mrežnim infrastrukturama. UniFi i MikroTik oprema, brze WiFi mreže, VPN i postavljanje daljinskog pristupa."
     },
     "security": {
       "title": "IT sigurnost i zaštita podataka",
-      "description": "Zaštitite podatke svoje tvrtke! Moderni vatrozidi, sigurnosne kopije, upravljanje pristupom – sigurnost podataka kod nas nije dodatak, već osnova."
+      "description": "Sveobuhvatne sigurnosne provjere, konfiguracija vatrozida, automatizirano upravljanje pristupom i zaštita podataka u skladu s propisima EU GDPR. Moderna zaštita od virusa, strategije sigurnosnog kopiranja i edukacije o kibernetičkoj sigurnosti."
     },
     "development": {
       "title": "Razvoj web stranica i sustava",
-      "description": "Izrađujemo profesionalne, responzivne web stranice i jedinstvena softverska rješenja kako bi se vaša tvrtka istaknula i online."
+      "description": "Brze, sigurne i pretraživačima optimizirane korporativne web stranice, e-commerce platforme i prilagođeni poslovni sustavi razvijeni s Next.js, React i TypeScript tehnologijama. Responzivni dizajn, moderna UX i optimizacija performansi. Prva konzultacija je besplatna za projekte web stranica, osnovne web stranice počinju od 250 € + PDV."
     },
     "commerce": {
       "title": "Trgovina – IT oprema i softver",
-      "description": "Kod nas možete nabaviti sve što je potrebno za uredsko poslovanje – računala, monitore, pisače, servere i softverske licence."
+      "description": "Sve što vam je potrebno za uredsko poslovanje i korporativnu IT infrastrukturu – računala, monitori, pisači, mrežna oprema, serveri, NAS sustavi i softverske licence. Kompletno s konzultacijama i uslugama instalacije."
     },
     "hosting": {
       "title": "Hosting i cloud rješenja",
-      "description": "Stabilna, brza i sigurna rješenja za hosting web stranica, e-pošte i sigurnosnih kopija. Web hosting, najam servera i cloud backup."
+      "description": "Stabilna, brza i sigurna hosting rješenja za web stranice, e-poštu, dijeljenje datoteka i sigurnosno kopiranje podataka. Web hosting, najam namjenskih servera, cloud sigurnosno kopiranje i privatne cloud usluge s jamstvom dostupnosti od 99,9%."
     },
     "repair": {
       "title": "Servis i popravak",
-      "description": "Brz i pouzdan popravak računala, laptopa i servera na licu mjesta ili slanjem poštom. Transparentna ponuda i brz popravak."
+      "description": "Brz i pouzdan popravak računala, laptopa, servera i mrežne opreme na licu mjesta u Székesfehérváru i okolici ili slanjem poštom. Transparentne ponude prije popravka, oporavak podataka i uklanjanje virusa. Brzo vrijeme popravka s jamstvom."
     }
   },
   "customDevelopment": {
@@ -468,7 +468,7 @@
   },
   "servicesPage": {
     "title": "Naše usluge",
-    "subtitle": "Kompletna IT rješenja koja omogućuju sigurno i učinkovito poslovanje vaše tvrtke. Od održavanja s fiksnom mjesečnom naknadom do jedinstvenog razvoja – sve na jednom mjestu.",
+    "subtitle": "Sveobuhvatna IT rješenja koja održavaju vašu tvrtku sigurnom i učinkovitom. Od fiksne mjesečne održavanja i 24/7 praćenja do prilagođenog razvoja softvera i mrežne infrastrukture – sve što vaše MSP treba na jednom mjestu, s GDPR-kompatibilnim poslovanjem i transparentnim cijenama.",
     "cta": {
       "title": "Zanima vas neka od naših usluga?",
       "subtitle": "Zatražite besplatno savjetovanje i pronađimo zajedno najbolje rješenje za vaše poslovanje.",
@@ -509,7 +509,7 @@
         ]
       },
       "commerce": {
-        "description": "Kod nas možete nabaviti sve što je potrebno za uredsko poslovanje – računala, monitore, pisače, servere, mrežne uređaje i softverske licence. Radimo s pouzdanim brendovima i pomažemo vam odabrati najbolji omjer cijene i kvalitete. Bilo da trebate novu opremu ili proširenje, mi ćemo se pobrinuti za to.",
+        "description": "Sve što vam je potrebno za uredsko poslovanje i korporativnu IT infrastrukturu – računala, monitore, pisače, servere, mrežnu opremu, NAS sustave i softverske licence. Radimo s pouzdanim brendovima i pomažemo vam odabrati najbolji omjer cijene i kvalitete. Bilo da trebate novu opremu, proširenje ili nadogradnju, mi ćemo se pobrinuti za sve s konzultacijama i uslugama instalacije uključenim.",
         "features": [
           "Računala, laptopi i serveri",
           "Mrežni uređaji i periferija",
@@ -518,7 +518,7 @@
         ]
       },
       "hosting": {
-        "description": "Nudimo stabilna, brza i sigurna rješenja za hosting web stranica, e-pošte i sigurnosnih kopija. Osiguravamo dostupnost i zaštitu vaših podataka putem vlastitog serverskog parka ili pouzdanih međunarodnih partnera.",
+        "description": "Stabilna, brza i sigurna hosting rješenja za web stranice, e-poštu, dijeljenje datoteka i sigurnosno kopiranje podataka. Putem naše vlastite server infrastrukture ili pouzdanih međunarodnih partnera osiguravamo da su vaši podaci uvijek dostupni i zaštićeni s jamstvom dostupnosti od 99,9%. Web hosting, najam namjenskih servera, cloud sigurnosno kopiranje i privatne cloud usluge.",
         "features": [
           "Web hosting i registracija domena",
           "Email hosting",
@@ -528,7 +528,7 @@
       },
       "repair": {
         "title": "Servis i popravak – na licu mjesta ili poštom",
-        "description": "Brz i pouzdan popravak računala, laptopa, servera i mrežnih uređaja. Izlazak na teren u Stolnom Biogradu i okolici, ili slanje uređaja poštom. Svaki popravak započinjemo dijagnostikom, a nakon ponude radimo samo uz vaše odobrenje. Cilj nam je da vaš sustav što prije ponovno proradi.",
+        "description": "Brz i pouzdan popravak računala, laptopa, servera i mrežnih uređaja. Izlazak na teren u Székesfehérváru i okolici, ili slanje uređaja poštom za vašu udobnost. Svaki popravak započinjemo sveobuhvatnom dijagnostikom, a nakon transparentne ponude radimo samo uz vaše odobrenje. Oporavak podataka i uklanjanje virusa uključeni. Cilj nam je da vaš sustav što prije ponovno proradi s jamstvenim pokrićem.",
         "features": [
           "Servis na licu mjesta (Stolni Biograd i okolica)",
           "Mogućnost slanja poštom",
@@ -538,7 +538,7 @@
       },
       "training": {
         "title": "IT edukacija i razvoj znanja",
-        "description": "Unaprijedite digitalno znanje svog tima! Nudimo personalizirane IT edukacije, treninge sigurnosne svijesti i razvoj sistemskog znanja kako bi zaposlenici samouvjereno koristili moderne alate i softvere. Sigurno poslovanje počinje s informacijama.",
+        "description": "Unaprijedite digitalno znanje i kibernetičku sigurnosnu svijest svog tima! Nudimo personalizirane IT edukacije, treninge sigurnosne svijesti i razvoj sistemskog znanja kako bi zaposlenici samouvjereno koristili moderne alate i softvere. Od Microsoft 365 i Google Workspace do najboljih praksi kibernetičke sigurnosti i GDPR usklađenosti – sigurno poslovanje počinje s pravilnom edukacijom i informacijama.",
         "features": [
           "Personalizirane IT edukacije",
           "Treninzi sigurnosne svijesti",

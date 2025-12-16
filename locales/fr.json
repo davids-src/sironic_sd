@@ -45,8 +45,8 @@
     "ogImage": "/og/home-fr.jpg",
     "pages": {
       "services": {
-        "title": "Services IT - Administration Système & Développement",
-        "description": "Services informatiques fiables pour entreprises : administration système, réseau, développement web, hébergement et réparation. Demandez un devis à nos experts !",
+        "title": "Services IT - Gestion Système, Développement Réseau & Logiciel sur Mesure | SIRONIC",
+        "description": "Services informatiques professionnels pour PME : gestion système 24/7, infrastructure réseau, développement web (Next.js/React), hébergement, cybersécurité et réparation IT. Support dans toute l'UE. Demandez une consultation gratuite !",
         "keywords": [
           "Services informatiques",
           "gestion de système",
@@ -223,31 +223,31 @@
     "viewAll": "Voir tous les services",
     "systemOperation": {
       "title": "Gestion Système & Maintenance IT",
-      "description": "Opérations stables, sécurisées et rapides – nous surveillons vos systèmes en continu avant le moindre problème. Moins d'arrêts, plus d'efficacité."
+      "description": "Maintenance complète des systèmes, surveillance continue 24/7 et support proactif pour les PME. Conformité totale UE et fonctionnement compatible RGPD avec temps de réponse SLA fixes et tarification transparente."
     },
     "networking": {
       "title": "Conception & Développement Réseau",
-      "description": "Nous concevons, déployons et optimisons l'infrastructure réseau de votre entreprise pour garantir une connexion fiable, rapide et sécurisée à chaque appareil."
+      "description": "Conception professionnelle, déploiement et gestion à long terme d'infrastructures réseau modernes et sécurisées. Équipements UniFi et MikroTik, réseaux WiFi rapides, configuration VPN et accès à distance."
     },
     "security": {
       "title": "Sécurité IT & Protection des Données",
-      "description": "Protégez vos données d'entreprise ! Pare-feu modernes, sauvegardes sécurisées, contrôle d'accès – avec nous, la sécurité n'est pas une option, c'est un standard."
+      "description": "Audits de sécurité complets, configuration de pare-feu, gestion automatique des accès et protection des données conformément aux réglementations RGPD de l'UE. Protection antivirus moderne, stratégies de sauvegarde et formations en cybersécurité."
     },
     "development": {
       "title": "Développement Web & Logiciel",
-      "description": "Nous créons des sites web professionnels et réactifs ainsi que des solutions logicielles sur mesure pour que votre entreprise se démarque en ligne."
+      "description": "Sites web d'entreprise rapides, sécurisés et optimisés pour les moteurs de recherche, plateformes e-commerce et systèmes métier personnalisés développés avec les technologies Next.js, React et TypeScript. Design responsive, UX moderne et optimisation des performances. La première consultation est gratuite pour les projets de sites web, les sites de base commencent à partir de 250 € + TVA."
     },
     "commerce": {
       "title": "Fourniture d'Équipements & Logiciels",
-      "description": "Tout ce dont vous avez besoin pour le bureau – ordinateurs, écrans, imprimantes, serveurs et licences logicielles, le tout auprès d'une source unique de confiance."
+      "description": "Tout ce dont vous avez besoin pour les opérations de bureau et l'infrastructure IT d'entreprise – ordinateurs, écrans, imprimantes, équipements réseau, serveurs, systèmes NAS et licences logicielles. Complet avec conseil et services d'installation."
     },
     "hosting": {
       "title": "Hébergement & Solutions Cloud",
-      "description": "Hébergement stable, rapide et sécurisé pour sites web, emails et sauvegardes. Hébergement web, serveurs dédiés et stockage cloud."
+      "description": "Solutions d'hébergement stables, rapides et sécurisées pour sites web, email, partage de fichiers et sauvegarde de données. Hébergement web, location de serveurs dédiés, sauvegarde cloud et services cloud privés avec garantie de disponibilité de 99,9%."
     },
     "repair": {
       "title": "Services de Réparation & Maintenance",
-      "description": "Réparation rapide et fiable d'ordinateurs, laptops et serveurs, sur site ou par service postal. Devis transparents et délais courts."
+      "description": "Réparation rapide et fiable d'ordinateurs, laptops, serveurs et équipements réseau sur site à Székesfehérvár et environs, ou par service postal. Devis transparents avant réparation, récupération de données et suppression de virus. Délai de réparation rapide avec garantie."
     }
   },
   "mindenCegnek": {
@@ -441,7 +441,7 @@
   },
   "servicesPage": {
     "title": "Nos Services",
-    "subtitle": "Solutions informatiques complètes pour garder votre entreprise sécurisée et efficace. De la maintenance à tarif fixe au développement sur mesure – tout au même endroit.",
+    "subtitle": "Solutions informatiques complètes qui maintiennent votre entreprise sécurisée et efficace. De la maintenance mensuelle fixe et surveillance 24/7 au développement logiciel sur mesure et infrastructure réseau – tout ce dont votre PME a besoin au même endroit, avec fonctionnement compatible RGPD et tarification transparente.",
     "cta": {
       "title": "Intéressé par l'un de nos services ?",
       "subtitle": "Demandez une consultation gratuite et trouvons ensemble la meilleure solution pour votre entreprise.",
@@ -482,7 +482,7 @@
         ]
       },
       "commerce": {
-        "description": "Vous pouvez obtenir tout le nécessaire pour le bureau chez nous – ordinateurs, écrans, imprimantes, serveurs, périphériques réseau et licences logicielles. Nous travaillons avec des marques fiables et vous aidons à choisir le meilleur rapport qualité-prix. Que vous ayez besoin de nouveaux équipements ou de mises à niveau, nous nous en occupons.",
+        "description": "Tout ce dont vous avez besoin pour les opérations de bureau et l'infrastructure IT d'entreprise – ordinateurs, écrans, imprimantes, serveurs, équipements réseau, systèmes NAS et licences logicielles. Nous travaillons avec des marques fiables et vous aidons à choisir le meilleur rapport qualité-prix. Que vous ayez besoin de nouveaux équipements, de mises à niveau ou d'expansion, nous nous occupons de tout avec conseil et services d'installation inclus.",
         "features": [
           "Ordinateurs, laptops et serveurs",
           "Périphériques réseau et accessoires",
@@ -491,7 +491,7 @@
         ]
       },
       "hosting": {
-        "description": "Nous offrons des solutions d'hébergement stables, rapides et sécurisées pour sites web, emails et sauvegardes. Nous assurons que vos données sont toujours accessibles et protégées via notre propre parc de serveurs ou des partenaires internationaux fiables.",
+        "description": "Solutions d'hébergement stables, rapides et sécurisées pour sites web, email, partage de fichiers et sauvegarde de données. Via notre propre infrastructure serveur ou des partenaires internationaux de confiance, nous assurons que vos données sont toujours accessibles et protégées avec garantie de disponibilité de 99,9%. Hébergement web, location de serveurs dédiés, sauvegarde cloud et services cloud privés.",
         "features": [
           "Hébergement web et enregistrement de domaine",
           "Hébergement email",
@@ -501,7 +501,7 @@
       },
       "repair": {
         "title": "Service et Réparation – Sur site ou par envoi",
-        "description": "Réparation rapide et fiable d'ordinateurs, laptops, serveurs et périphériques réseau. Service sur site à Székesfehérvár et ses environs, ou service par envoi postal. Nous commençons chaque réparation par un diagnostic et ne procédons qu'après votre validation du devis. Notre but est de remettre votre système en marche le plus vite possible.",
+        "description": "Réparation rapide et fiable d'ordinateurs, laptops, serveurs et équipements réseau. Service sur site à Székesfehérvár et environs, ou service par envoi postal pour votre commodité. Chaque réparation commence par un diagnostic complet, et nous ne procédons qu'après votre validation du devis transparent. Récupération de données et suppression de virus incluses. Notre but est de remettre votre système en marche le plus vite possible avec couverture garantie.",
         "features": [
           "Service sur site (Székesfehérvár et environs)",
           "Option d'envoi postal",
@@ -511,7 +511,7 @@
       },
       "training": {
         "title": "Formation IT et Développement des Connaissances",
-        "description": "Développez les compétences numériques de votre équipe ! Nous proposons des formations IT personnalisées, une sensibilisation à la sécurité et un développement des connaissances systèmes pour que les employés utilisent les appareils et logiciels modernes en toute confiance. La sécurité commence par l'information.",
+        "description": "Développez les compétences numériques et la sensibilisation à la cybersécurité de votre équipe ! Nous proposons des formations IT personnalisées, une sensibilisation à la sécurité et un développement des connaissances systèmes pour que les employés utilisent les appareils et logiciels modernes en toute confiance. De Microsoft 365 et Google Workspace aux meilleures pratiques de cybersécurité et conformité RGPD – la sécurité commence par la formation et l'information appropriées.",
         "features": [
           "Formation IT personnalisée",
           "Sensibilisation à la sécurité",

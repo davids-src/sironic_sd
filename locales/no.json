@@ -48,8 +48,8 @@
         "ogImage": "/og/home-en.jpg",
         "pages": {
             "services": {
-                "title": "IT-tjenester - Systemadministrasjon & Utvikling",
-                "description": "Pålitelige IT-tjenester for bedrifter: systemadministrasjon, nettverksinstallasjon, webutvikling, hosting og reparasjon. Be om tilbud fra våre eksperter i dag!",
+                "title": "IT-tjenester - Systemadministrasjon, Nettverksutvikling & Skreddersydd Programvare | SIRONIC",
+                "description": "Profesjonelle IT-tjenester for SMB-er: 24/7 systemadministrasjon, nettverksinfrastruktur, webutvikling (Next.js/React), hosting, cybersikkerhet og IT-reparasjon. Støtte i hele EU. Be om en gratis konsultasjon!",
                 "keywords": [
                     "IT-tjenester",
                     "systemadministrasjon",
@@ -226,31 +226,31 @@
         "viewAll": "Alle Tjenester",
         "systemOperation": {
             "title": "Systemadministrasjon & IT-vedlikehold",
-            "description": "Omfattende systemvedlikehold, løpende overvåking og support for SMB-er, fullt EU-kompatibelt."
+            "description": "Omfattende systemvedlikehold, løpende overvåking 24/7 og proaktiv support for SMB-er. Full EU-overensstemmelse og GDPR-kompatibel drift med faste SLA-svarstider og transparent prissetting."
         },
         "networking": {
             "title": "Nettverksbygging & Utvikling",
-            "description": "Design, konstruksjon og drift av moderne, sikre nettverksinfrastrukturer."
+            "description": "Profesjonell design, implementering og langsiktig forvaltning av moderne, sikre nettverksinfrastrukturer. UniFi- og MikroTik-utstyr, raske WiFi-nettverk, VPN- og fjernadgangskonfigurasjon."
         },
         "security": {
             "title": "IT-sikkerhet & Personvern",
-            "description": "Sikkerhetsrevisjoner, tilgangsstyring og databeskyttelse i samsvar med EU-forskrifter."
+            "description": "Omfattende sikkerhetsrevisjoner, brannmurkonfigurasjon, automatisert tilgangsstyring og databeskyttelse i samsvar med EUs GDPR-forskrifter. Moderne antivirusbeskyttelse, sikkerhetskopistrategier og cybersikkerhetsutdanning."
         },
         "development": {
             "title": "Nettside- & Systemutvikling",
-            "description": "Rask og sikker utvikling av bedriftsnettsider og nettbutikker med moderne teknologi."
+            "description": "Raske, sikre og søkemotoroptimaliserte bedriftsnettsider, e-handelsplattformer og skreddersydde forretningssystemer utviklet med Next.js, React og TypeScript-teknologier. Responsivt design, moderne UX og ytelsesoptimalisering. Første konsultasjon er gratis for nettsideprosjekter, grunnleggende nettsider starter fra 250 € + mva."
         },
         "commerce": {
             "title": "Handel – IT-utstyr & Programvare",
-            "description": "Få alt som trengs for kontordrift – datamaskiner, skjermer, skrivere, servere og programvarelisenser."
+            "description": "Alt du trenger for kontordrift og bedriftens IT-infrastruktur – datamaskiner, skjermer, skrivere, nettverksutstyr, servere, NAS-systemer og programvarelisenser. Komplett med rådgivning og installasjonstjenester."
         },
         "hosting": {
             "title": "Hosting & Skyløsninger",
-            "description": "Stabile, raske og sikre hostingløsninger for nettsider, e-post og backup. Webhotell, serverleie og sky-backup."
+            "description": "Stabile, raske og sikre hostingløsninger for nettsider, e-post, fildeling og databackup. Webhosting, dedikert serverleie, sky-basert backup og private cloud-tjenester med 99,9% tilgjengelighetsgaranti."
         },
         "repair": {
             "title": "Service & Reparasjon",
-            "description": "Rask og pålitelig reparasjon av datamaskiner, bærbare og servere on-site eller via post. Transparente tilbud og raske reparasjoner."
+            "description": "Rask og pålitelig reparasjon av datamaskiner, bærbare, servere og nettverksutstyr on-site i Székesfehérvár og omegn, eller via post. Transparente tilbud før reparasjon, datagjenoppretting og virusfjerning. Rask reparasjonstid med garanti."
         }
     },
     "customDevelopment": {
@@ -469,7 +469,7 @@
     },
     "servicesPage": {
         "title": "Våre Tjenester",
-        "subtitle": "Komplette IT-løsninger for å holde din bedrift sikker og effektiv. Fra vedlikehold til fast pris til skreddersydd utvikling – alt på ett sted.",
+        "subtitle": "Omfattende IT-løsninger som holder din bedrift sikker og effektiv. Fra fast månedlig vedlikehold og 24/7-overvåking til skreddersydd programvareutvikling og nettverksinfrastruktur – alt din SMB trenger på ett sted, med GDPR-kompatibel drift og transparent prissetting.",
         "cta": {
             "title": "Interessert i noen av våre tjenester?",
             "subtitle": "Bestill en gratis konsultasjon, og la oss finne den beste løsningen for din bedrift sammen.",
@@ -510,7 +510,7 @@
                 ]
             },
             "commerce": {
-                "description": "Du kan få alt som trengs for kontordrift fra oss – datamaskiner, skjermer, skrivere, servere, nettverksenheter og programvarelisenser. Vi jobber med pålitelige merker og hjelper deg med å velge det beste pris-ytelses-forholdet. Uansett om du har bruk for nytt utstyr eller oppgraderinger, tar vi oss av det.",
+                "description": "Alt du trenger for kontordrift og bedriftens IT-infrastruktur – datamaskiner, skjermer, skrivere, servere, nettverksutstyr, NAS-systemer og programvarelisenser. Vi jobber med pålitelige merker og hjelper deg med å velge det beste pris-ytelses-forholdet. Uansett om du har bruk for nytt utstyr, oppgraderinger eller utvidelse, tar vi oss av alt med rådgivning og installasjonstjenester inkludert.",
                 "features": [
                     "Datamaskiner, bærbare og servere",
                     "Nettverksenheter og periferiutstyr",
@@ -519,7 +519,7 @@
                 ]
             },
             "hosting": {
-                "description": "Vi tilbyr stabile, raske og sikre hostingløsninger for nettsider, e-post og databackup. Vi sikrer at dine data alltid er tilgjengelige og beskyttede gjennom vår egen serverpark eller pålitelige internasjonale partnere.",
+                "description": "Stabile, raske og sikre hostingløsninger for nettsider, e-post, fildeling og databackup. Gjennom vår egen serverinfrastruktur eller pålitelige internasjonale partnere sikrer vi at dine data alltid er tilgjengelige og beskyttede med 99,9% tilgjengelighetsgaranti. Webhotell, dedikert serverleie, skybasert backup og private cloud-tjenester.",
                 "features": [
                     "Webhotell og domeneregistrering",
                     "E-posthosting",
@@ -529,7 +529,7 @@
             },
             "repair": {
                 "title": "Service og Reparasjon – On-site eller via post",
-                "description": "Rask og pålitelig reparasjon av datamaskiner, bærbare, servere og nettverksenheter. On-site service i Székesfehérvár og omegn, eller postservice. Vi starter hver reparasjon med diagnostikk, og fortsetter kun etter din godkjenning av tilbudet. Vårt mål er å få ditt system opp å kjøre igjen så raskt som mulig.",
+                "description": "Rask og pålitelig reparasjon av datamaskiner, bærbare, servere og nettverksutstyr. On-site service i Székesfehérvár og omegn, eller postservice for din bekvemmelighet. Vi starter hver reparasjon med omfattende diagnostikk, og fortsetter kun etter din godkjenning av det transparente tilbudet. Datagjenoppretting og virusfjerning inkludert. Vårt mål er å få ditt system opp å kjøre igjen så raskt som mulig med garantidekning.",
                 "features": [
                     "Service on-site (Székesfehérvár og omegn)",
                     "Mulighet for postinnsending",
@@ -539,7 +539,7 @@
             },
             "training": {
                 "title": "IT-opplæring og Kunnskapsutvikling",
-                "description": "Utvikl ditt teams digitale ferdigheter! Vi tilbyr personlig IT-opplæring, sikkerhetsbevissthetstrening og systemnivå-kunnskapsutvikling, så medarbeidere trygt kan bruke moderne enheter og programvare. Sikker drift starter med informasjon.",
+                "description": "Utvikl ditt teams digitale ferdigheter og cybersikkerhetsbevissthet! Vi tilbyr personlig IT-opplæring, sikkerhetsbevissthetstrening og systemnivå-kunnskapsutvikling, så medarbeidere trygt kan bruke moderne enheter og programvare. Fra Microsoft 365 og Google Workspace til beste praksis for cybersikkerhet og GDPR-etterlevelse – sikker drift starter med riktig opplæring og informasjon.",
                 "features": [
                     "Personlig IT-opplæring",
                     "Sikkerhetsbevissthetstrening",

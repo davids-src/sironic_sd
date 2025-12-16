@@ -50,8 +50,8 @@
         "ogImage": "/og/home-en.jpg",
         "pages": {
             "services": {
-                "title": "Usługi IT - Administracja Systemami & Development",
-                "description": "Niezawodne usługi IT dla firm: administracja systemami, instalacja sieci, web development, hosting i serwis. Poproś o wycenę naszych ekspertów już dziś!",
+                "title": "Usługi IT - Administracja Systemami, Rozwój Sieci i Oprogramowanie Dedykowane | SIRONIC",
+                "description": "Profesjonalne usługi IT dla MŚP: 24/7 administracja systemami, infrastruktura sieciowa, web development (Next.js/React), hosting, cyberbezpieczeństwo i serwis IT. Wsparcie w całej UE. Poproś o bezpłatną konsultację!",
                 "keywords": [
                     "usługi IT",
                     "administracja systemami",
@@ -228,31 +228,31 @@
         "viewAll": "Wszystkie Usługi",
         "systemOperation": {
             "title": "Administracja Systemami i Utrzymanie IT",
-            "description": "Kompleksowa konserwacja systemów, ciągły monitoring i wsparcie dla MŚP, w pełni zgodne z UE."
+            "description": "Kompleksowa konserwacja systemów, ciągły monitoring 24/7 i proaktywne wsparcie dla MŚP. Pełna zgodność z UE i działanie zgodne z RODO z ustalonymi czasami odpowiedzi SLA i przejrzystymi cenami."
         },
         "networking": {
             "title": "Budowa i Rozwój Sieci",
-            "description": "Projektowanie, budowa i zarządzanie nowoczesną, bezpieczną infrastrukturą sieciową."
+            "description": "Profesjonalne projektowanie, wdrażanie i długoterminowe zarządzanie nowoczesną, bezpieczną infrastrukturą sieciową. Sprzęt UniFi i MikroTik, szybkie sieci WiFi, konfiguracja VPN i dostępu zdalnego."
         },
         "security": {
             "title": "Bezpieczeństwo IT i Prywatność",
-            "description": "Audyty bezpieczeństwa, kontrola dostępu i ochrona danych zgodnie z przepisami UE."
+            "description": "Kompleksowe audyty bezpieczeństwa, konfiguracja zapory ogniowej, zautomatyzowane zarządzanie dostępem i ochrona danych zgodnie z przepisami RODO UE. Nowoczesna ochrona antywirusowa, strategie kopii zapasowych i szkolenia z cyberbezpieczeństwa."
         },
         "development": {
             "title": "Tworzenie Stron i Systemów",
-            "description": "Szybkie i bezpieczne tworzenie stron firmowych i sklepów internetowych przy użyciu nowoczesnych technologii."
+            "description": "Szybkie, bezpieczne i zoptymalizowane pod kątem wyszukiwarek strony firmowe, platformy e-commerce i dedykowane systemy biznesowe opracowane w technologiach Next.js, React i TypeScript. Responsywny design, nowoczesny UX i optymalizacja wydajności. Pierwsza konsultacja jest bezpłatna dla projektów stron internetowych, podstawowe strony zaczynają się od 250 € + VAT."
         },
         "commerce": {
             "title": "Handel – Sprzęt IT i Oprogramowanie",
-            "description": "Zapewnij sobie wszystko, co potrzebne do prowadzenia biura – komputery, monitory, drukarki, serwery i licencje oprogramowania."
+            "description": "Wszystko, czego potrzebujesz do prowadzenia biura i infrastruktury IT firmy – komputery, monitory, drukarki, sprzęt sieciowy, serwery, systemy NAS i licencje oprogramowania. Kompletne z konsultacjami i usługami instalacji."
         },
         "hosting": {
             "title": "Hosting i Rozwiązania Chmurowe",
-            "description": "Stabilne, szybkie i bezpieczne rozwiązania hostingowe dla stron, e-maili i kopii zapasowych. Hosting www, wynajem serwerów i cloud backup."
+            "description": "Stabilne, szybkie i bezpieczne rozwiązania hostingowe dla stron internetowych, e-maili, udostępniania plików i kopii zapasowych danych. Hosting www, wynajem dedykowanych serwerów, kopie zapasowe w chmurze i prywatne usługi chmurowe z gwarancją dostępności 99,9%."
         },
         "repair": {
             "title": "Serwis i Naprawa",
-            "description": "Szybka i niezawodna naprawa komputerów, laptopów i serwerów na miejscu lub wysyłkowo. Przejrzyste wyceny i szybkie naprawy."
+            "description": "Szybka i niezawodna naprawa komputerów, laptopów, serwerów i sprzętu sieciowego na miejscu w Székesfehérvár i okolicach lub wysyłkowo. Przejrzyste wyceny przed naprawą, odzyskiwanie danych i usuwanie wirusów. Szybki czas naprawy z gwarancją."
         }
     },
     "customDevelopment": {
@@ -471,7 +471,7 @@
     },
     "servicesPage": {
         "title": "Nasze Usługi",
-        "subtitle": "Kompletne rozwiązania IT, by Twoja firma była bezpieczna i wydajna. Od konserwacji w stałej cenie po dedykowany development – wszystko w jednym miejscu.",
+        "subtitle": "Kompleksowe rozwiązania IT, które utrzymują Twoją firmę bezpieczną i wydajną. Od stałej miesięcznej konserwacji i monitoringu 24/7 po dedykowany rozwój oprogramowania i infrastrukturę sieciową – wszystko, czego Twoje MŚP potrzebuje w jednym miejscu, z działaniem zgodnym z RODO i przejrzystymi cenami.",
         "cta": {
             "title": "Zainteresowany którąś z naszych usług?",
             "subtitle": "Zarezerwuj darmową konsultację i znajdźmy wspólnie najlepsze rozwiązanie dla Twojej firmy.",
@@ -512,7 +512,7 @@
                 ]
             },
             "commerce": {
-                "description": "Możesz u nas nabyć wszystko, co potrzebne do prowadzenia biura – komputery, monitory, drukarki, serwery, urządzenia sieciowe i licencje oprogramowania. Współpracujemy z zaufanymi markami i pomagamy wybrać najlepszy stosunek jakości do ceny. Czy potrzebujesz nowego sprzętu czy modernizacji, zajmiemy się tym.",
+                "description": "Wszystko, czego potrzebujesz do prowadzenia biura i korporacyjnej infrastruktury IT – komputery, monitory, drukarki, serwery, sprzęt sieciowy, systemy NAS i licencje oprogramowania. Współpracujemy z zaufanymi markami i pomagamy wybrać najlepszy stosunek jakości do ceny. Czy potrzebujesz nowego sprzętu, modernizacji czy rozbudowy, zajmiemy się wszystkim z konsultacjami i usługami instalacji włączonymi.",
                 "features": [
                     "Komputery, laptopy i serwery",
                     "Urządzenia sieciowe i peryferyjne",
@@ -521,7 +521,7 @@
                 ]
             },
             "hosting": {
-                "description": "Oferujemy stabilne, szybkie i bezpieczne rozwiązania hostingowe dla stron, e-maili i kopii zapasowych danych. Zapewniamy, że Twoje dane są zawsze dostępne i chronione poprzez naszą własną flotę serwerów lub niezawodnych międzynarodowych partnerów.",
+                "description": "Stabilne, szybkie i bezpieczne rozwiązania hostingowe dla stron internetowych, e-maili, udostępniania plików i kopii zapasowych danych. Poprzez naszą własną infrastrukturę serwerów lub niezawodnych międzynarodowych partnerów zapewniamy, że Twoje dane są zawsze dostępne i chronione z gwarancją dostępności 99,9%. Hosting www, wynajem dedykowanych serwerów, kopie zapasowe w chmurze i prywatne usługi chmurowe.",
                 "features": [
                     "Hosting www i rejestracja domen",
                     "Hosting e-mail",
@@ -531,7 +531,7 @@
             },
             "repair": {
                 "title": "Serwis i Naprawa – Na miejscu lub wysyłkowo",
-                "description": "Szybka i niezawodna naprawa komputerów, laptopów, serwerów i urządzeń sieciowych. Serwis na miejscu w Székesfehérvár i okolicach lub usługa pocztowa. Każdą naprawę zaczynamy od diagnozy i kontynuujemy dopiero po Twojej akceptacji wyceny. Naszym celem jest jak najszybsze przywrócenie sprawności Twojego systemu.",
+                "description": "Szybka i niezawodna naprawa komputerów, laptopów, serwerów i sprzętu sieciowego. Serwis na miejscu w Székesfehérvár i okolicach lub usługa pocztowa dla Twojej wygody. Każdą naprawę zaczynamy od kompleksowej diagnostyki i kontynuujemy dopiero po Twojej akceptacji przejrzystej wyceny. Odzyskiwanie danych i usuwanie wirusów włączone. Naszym celem jest jak najszybsze przywrócenie sprawności Twojego systemu z pokryciem gwarancyjnym.",
                 "features": [
                     "Serwis na miejscu (Székesfehérvár i okolice)",
                     "Możliwość wysyłki pocztowej",
@@ -541,7 +541,7 @@
             },
             "training": {
                 "title": "Szkolenia IT i Rozwój Wiedzy",
-                "description": "Rozwijaj kompetencje cyfrowe swojego zespołu! Oferujemy spersonalizowane szkolenia IT, szkolenia ze świadomości bezpieczeństwa i rozwój wiedzy na poziomie systemowym, aby pracownicy mogli bezpiecznie korzystać z nowoczesnych urządzeń i oprogramowania. Bezpieczne działanie zaczyna się od informacji.",
+                "description": "Rozwijaj kompetencje cyfrowe i świadomość cyberbezpieczeństwa swojego zespołu! Oferujemy spersonalizowane szkolenia IT, szkolenia ze świadomości bezpieczeństwa i rozwój wiedzy na poziomie systemowym, aby pracownicy mogli bezpiecznie korzystać z nowoczesnych urządzeń i oprogramowania. Od Microsoft 365 i Google Workspace do najlepszych praktyk cyberbezpieczeństwa i zgodności z RODO – bezpieczne działanie zaczyna się od właściwego szkolenia i informacji.",
                 "features": [
                     "Spersonalizowane szkolenia IT",
                     "Szkolenie ze świadomości bezpieczeństwa",

@@ -97,6 +97,10 @@ export function LocalBusinessSchema({ locale }: LocalBusinessSchemaProps) {
                 name: 'Székesfehérvár',
             },
             {
+                '@type': 'City',
+                name: 'Budapest',
+            },
+            {
                 '@type': 'State',
                 name: 'Fejér megye',
             },
@@ -104,7 +108,26 @@ export function LocalBusinessSchema({ locale }: LocalBusinessSchemaProps) {
                 '@type': 'Country',
                 name: 'Hungary',
             },
+            {
+                '@type': 'Place',
+                name: 'European Union',
+            },
         ],
+        knowsAbout: [
+            'IT System Management',
+            'Network Infrastructure',
+            'Web Development',
+            'Cybersecurity',
+            'Cloud Hosting',
+            'IT Support for SMEs',
+            'GDPR Compliance',
+            'Network Security',
+            'Custom Software Development',
+            'Next.js Development',
+            'React Development',
+            'TypeScript Development'
+        ],
+        availableLanguage: ['hu', 'en', 'de', 'sk', 'ro', 'hr', 'sl', 'fr', 'it', 'es', 'sv', 'da', 'no', 'nl', 'pl', 'cs'],
     };
 
     return <SEO jsonLd={schema} />;

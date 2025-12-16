@@ -45,8 +45,8 @@
     "ogImage": "/og/home-it.jpg",
     "pages": {
       "services": {
-        "title": "Servizi IT - Amministrazione di Sistema & Sviluppo",
-        "description": "Servizi IT affidabili per le aziende: amministrazione di sistema, configurazione rete, sviluppo web, hosting e riparazioni. Richiedi un preventivo ai nostri esperti!",
+        "title": "Servizi IT - Gestione Sistemi, Sviluppo Reti e Software Personalizzato | SIRONIC",
+        "description": "Servizi IT professionali per PMI: gestione sistemi 24/7, infrastruttura rete, sviluppo web (Next.js/React), hosting, sicurezza informatica e riparazioni IT. Supporto in tutta l'UE. Richiedi una consulenza gratuita!",
         "keywords": [
           "Servizi IT",
           "gestione sistemi",
@@ -223,31 +223,31 @@
     "viewAll": "Vedi Tutti i Servizi",
     "systemOperation": {
       "title": "Gestione Sistemi & Manutenzione IT",
-      "description": "Operazioni stabili, sicure e veloci – monitoriamo continuamente i tuoi sistemi per prevenire i problemi. Meno tempi morti, maggiore efficienza."
+      "description": "Manutenzione completa dei sistemi, monitoraggio continuo 24/7 e supporto proattivo per PMI. Conformità completa UE e funzionamento compatibile GDPR con tempi di risposta SLA fissi e prezzi trasparenti."
     },
     "networking": {
       "title": "Progettazione & Sviluppo Reti",
-      "description": "Progettiamo, implementiamo e ottimizziamo l'infrastruttura di rete della tua azienda per garantire una connessione affidabile, veloce e sicura a ogni dispositivo."
+      "description": "Progettazione professionale, implementazione e gestione a lungo termine di infrastrutture di rete moderne e sicure. Attrezzature UniFi e MikroTik, reti WiFi veloci, configurazione VPN e accesso remoto."
     },
     "security": {
       "title": "Sicurezza IT & Protezione Dati",
-      "description": "Proteggi i tuoi dati aziendali! Firewall moderni, backup sicuri, controllo accessi – con noi, la sicurezza non è un optional, è lo standard."
+      "description": "Audit di sicurezza completi, configurazione firewall, gestione automatica degli accessi e protezione dei dati in conformità con le normative GDPR dell'UE. Protezione antivirus moderna, strategie di backup e formazione sulla sicurezza informatica."
     },
     "development": {
       "title": "Sviluppo Web & Software",
-      "description": "Creiamo siti web professionali e reattivi e soluzioni software personalizzate per far distinguere la tua azienda online."
+      "description": "Siti web aziendali veloci, sicuri e ottimizzati per i motori di ricerca, piattaforme e-commerce e sistemi aziendali personalizzati sviluppati con tecnologie Next.js, React e TypeScript. Design responsive, UX moderna e ottimizzazione delle prestazioni. La prima consulenza è gratuita per i progetti di siti web, i siti base partono da 250 € + IVA."
     },
     "commerce": {
       "title": "Fornitura Attrezzature & Software IT",
-      "description": "Tutto ciò di cui hai bisogno per l'ufficio – computer, monitor, stampanti, server e licenze software, tutto da un'unica fonte fidata."
+      "description": "Tutto ciò di cui hai bisogno per le operazioni d'ufficio e l'infrastruttura IT aziendale – computer, monitor, stampanti, attrezzature di rete, server, sistemi NAS e licenze software. Completo con consulenza e servizi di installazione."
     },
     "hosting": {
       "title": "Hosting & Soluzioni Cloud",
-      "description": "Hosting stabile, veloce e sicuro per siti web, email e backup dati. Web hosting, server dedicati e storage cloud."
+      "description": "Soluzioni di hosting stabili, veloci e sicure per siti web, email, condivisione file e backup dati. Web hosting, noleggio server dedicati, backup basato su cloud e servizi cloud privati con garanzia di disponibilità del 99,9%."
     },
     "repair": {
       "title": "Servizi di Riparazione & Manutenzione",
-      "description": "Riparazione veloce e affidabile di computer, laptop e server, sia in loco che tramite servizio postale. Preventivi trasparenti e tempi rapidi."
+      "description": "Riparazione veloce e affidabile di computer, laptop, server e attrezzature di rete in loco a Székesfehérvár e dintorni, o tramite servizio postale. Preventivi trasparenti prima della riparazione, recupero dati e rimozione virus. Tempi di riparazione rapidi con garanzia."
     }
   },
   "mindenCegnek": {
@@ -441,7 +441,7 @@
   },
   "servicesPage": {
     "title": "I Nostri Servizi",
-    "subtitle": "Soluzioni IT complete per mantenere la tua azienda sicura ed efficiente. Dalla manutenzione a canone fisso allo sviluppo personalizzato – tutto in un unico posto.",
+    "subtitle": "Soluzioni IT complete che mantengono la tua azienda sicura ed efficiente. Dalla manutenzione mensile fissa e monitoraggio 24/7 allo sviluppo software personalizzato e infrastruttura rete – tutto ciò di cui la tua PMI ha bisogno in un unico posto, con funzionamento compatibile GDPR e prezzi trasparenti.",
     "cta": {
       "title": "Interessato a uno dei nostri servizi?",
       "subtitle": "Richiedi una consulenza gratuita e troviamo insieme la soluzione migliore per la tua azienda.",
@@ -482,7 +482,7 @@
         ]
       },
       "commerce": {
-        "description": "Puoi ottenere tutto il necessario per le operazioni d'ufficio da noi – computer, monitor, stampanti, server, dispositivi di rete e licenze software. Lavoriamo con marchi affidabili e ti aiutiamo a scegliere il miglior rapporto qualità-prezzo. Che tu abbia bisogno di nuove attrezzature o aggiornamenti, ci pensiamo noi.",
+        "description": "Tutto ciò di cui hai bisogno per le operazioni d'ufficio e l'infrastruttura IT aziendale – computer, monitor, stampanti, server, attrezzature di rete, sistemi NAS e licenze software. Lavoriamo con marchi affidabili e ti aiutiamo a scegliere il miglior rapporto qualità-prezzo. Che tu abbia bisogno di nuove attrezzature, aggiornamenti o espansione, ci pensiamo noi con consulenza e servizi di installazione inclusi.",
         "features": [
           "Computer, laptop e server",
           "Dispositivi di rete e periferiche",
@@ -491,7 +491,7 @@
         ]
       },
       "hosting": {
-        "description": "Offriamo soluzioni di hosting stabili, veloci e sicure per siti web, email e backup dati. Garantiamo che i tuoi dati siano sempre accessibili e protetti attraverso il nostro parco server o partner internazionali affidabili.",
+        "description": "Soluzioni di hosting stabili, veloci e sicure per siti web, email, condivisione file e backup dati. Attraverso la nostra infrastruttura server o partner internazionali di fiducia, garantiamo che i tuoi dati siano sempre accessibili e protetti con garanzia di disponibilità del 99,9%. Web hosting, noleggio server dedicati, backup basato su cloud e servizi cloud privati.",
         "features": [
           "Web hosting e registrazione domini",
           "Hosting email",
@@ -501,7 +501,7 @@
       },
       "repair": {
         "title": "Assistenza e Riparazione – In loco o via Posta",
-        "description": "Riparazione veloce e affidabile di computer, laptop, server e dispositivi di rete. Servizio in loco a Székesfehérvár e dintorni, o servizio postale. Iniziamo ogni riparazione con la diagnostica, e procediamo solo dopo la tua approvazione del preventivo. Il nostro obiettivo è rimettere in funzione il tuo sistema il prima possibile.",
+        "description": "Riparazione veloce e affidabile di computer, laptop, server e attrezzature di rete. Servizio in loco a Székesfehérvár e dintorni, o servizio postale per la tua comodità. Iniziamo ogni riparazione con diagnostica completa, e procediamo solo dopo la tua approvazione del preventivo trasparente. Recupero dati e rimozione virus inclusi. Il nostro obiettivo è rimettere in funzione il tuo sistema il prima possibile con copertura garanzia.",
         "features": [
           "Servizio in loco (Székesfehérvár e dintorni)",
           "Opzione via posta",
@@ -511,7 +511,7 @@
       },
       "training": {
         "title": "Formazione IT e Sviluppo Conoscenze",
-        "description": "Sviluppa le competenze digitali del tuo team! Offriamo formazione IT personalizzata, sensibilizzazione alla sicurezza e sviluppo conoscenze di sistema affinché i dipendenti possano usare dispositivi e software moderni con sicurezza. La sicurezza operativa inizia dall'informazione.",
+        "description": "Sviluppa le competenze digitali e la sensibilizzazione alla sicurezza informatica del tuo team! Offriamo formazione IT personalizzata, sensibilizzazione alla sicurezza e sviluppo conoscenze di sistema affinché i dipendenti possano usare dispositivi e software moderni con sicurezza. Da Microsoft 365 e Google Workspace alle migliori pratiche di sicurezza informatica e conformità GDPR – la sicurezza operativa inizia con la formazione e l'informazione appropriate.",
         "features": [
           "Formazione IT personalizzata",
           "Sensibilizzazione alla sicurezza",

@@ -49,8 +49,8 @@
         "ogImage": "/og/home-en.jpg",
         "pages": {
             "services": {
-                "title": "IT-diensten - Systeembeheer & Ontwikkeling",
-                "description": "Betrouwbare IT-diensten voor bedrijven: systeembeheer, netwerkinstallatie, webontwikkeling, hosting en reparatie. Vraag vandaag nog een offerte aan bij onze experts!",
+                "title": "IT-diensten - Systeembeheer, Netwerkontwikkeling & Software op Maat | SIRONIC",
+                "description": "Professionele IT-diensten voor MKB: 24/7 systeembeheer, netwerkinfrastructuur, webontwikkeling (Next.js/React), hosting, cybersecurity en IT-reparatie. Ondersteuning in heel de EU. Vraag een gratis consultatie aan!",
                 "keywords": [
                     "IT-diensten",
                     "systeembeheer",
@@ -227,31 +227,31 @@
         "viewAll": "Alle Diensten",
         "systemOperation": {
             "title": "Systeembeheer & IT-onderhoud",
-            "description": "Uitgebreid systeemonderhoud, continue monitoring en support voor MKB, volledig EU-conform."
+            "description": "Uitgebreid systeemonderhoud, continue monitoring 24/7 en proactieve support voor MKB. Volledige EU-conformiteit en GDPR-compatibele werking met vaste SLA-responsietijden en transparante prijsstelling."
         },
         "networking": {
             "title": "Netwerkbouw & Ontwikkeling",
-            "description": "Ontwerp, aanleg en beheer van moderne, veilige netwerkinfrastructuren."
+            "description": "Professioneel ontwerp, implementatie en langetermijnbeheer van moderne, veilige netwerkinfrastructuren. UniFi- en MikroTik-apparatuur, snelle WiFi-netwerken, VPN- en remote access-configuratie."
         },
         "security": {
             "title": "IT-beveiliging & Privacy",
-            "description": "Beveiligingsaudits, toegangsbeheer en gegevensbescherming in overeenstemming met EU-regelgeving."
+            "description": "Uitgebreide beveiligingsaudits, firewallconfiguratie, geautomatiseerd toegangsbeheer en gegevensbescherming in overeenstemming met EU GDPR-regelgeving. Moderne antivirusbescherming, back-upstrategieën en cybersecuritytraining."
         },
         "development": {
             "title": "Website- & Systeemontwikkeling",
-            "description": "Snelle en veilige ontwikkeling van bedrijfswebsites en webwinkels met moderne technologieën."
+            "description": "Snelle, veilige en zoekmachinegeoptimaliseerde bedrijfswebsites, e-commerceplatforms en op maat gemaakte bedrijfssystemen ontwikkeld met Next.js, React en TypeScript-technologieën. Responsief ontwerp, moderne UX en prestatie-optimalisatie. Eerste consultatie is gratis voor websiteprojecten, basiswebsites beginnen vanaf €250 + btw."
         },
         "commerce": {
             "title": "Handel – IT-apparatuur & Software",
-            "description": "Verkrijg alles wat nodig is voor kantoorbeheer – computers, monitoren, printers, servers en softwarelicenties."
+            "description": "Alles wat u nodig heeft voor kantoorbeheer en bedrijfs-IT-infrastructuur – computers, monitoren, printers, netwerkapparatuur, servers, NAS-systemen en softwarelicenties. Compleet met advies en installatieservices."
         },
         "hosting": {
             "title": "Hosting & Cloudoplossingen",
-            "description": "Stabiele, snelle en veilige hostingoplossingen voor websites, e-mail en back-ups. Webhosting, serverhuur en cloud back-up."
+            "description": "Stabiele, snelle en veilige hostingoplossingen voor websites, e-mail, bestandsdeling en gegevensback-up. Webhosting, dedicated serverhuur, cloudgebaseerde back-up en private cloudservices met 99,9% beschikbaarheidsgarantie."
         },
         "repair": {
             "title": "Service & Reparatie",
-            "description": "Snelle en betrouwbare reparatie van computers, laptops en servers on-site of via post. Transparante offertes en snelle reparaties."
+            "description": "Snelle en betrouwbare reparatie van computers, laptops, servers en netwerkapparatuur on-site in Székesfehérvár en omgeving, of via post. Transparante offertes voor reparatie, gegevensherstel en virusverwijdering. Snelle reparatietijd met garantie."
         }
     },
     "customDevelopment": {
@@ -470,7 +470,7 @@
     },
     "servicesPage": {
         "title": "Onze Diensten",
-        "subtitle": "Complete IT-oplossingen om uw bedrijf veilig en efficiënt te houden. Van onderhoud tegen een vaste prijs tot ontwikkeling op maat – alles op één plek.",
+        "subtitle": "Uitgebreide IT-oplossingen die uw bedrijf veilig en efficiënt houden. Van vast maandelijks onderhoud en 24/7-monitoring tot softwareontwikkeling op maat en netwerkinfrastructuur – alles wat uw MKB nodig heeft op één plek, met GDPR-compatibele werking en transparante prijsstelling.",
         "cta": {
             "title": "Geïnteresseerd in een van onze diensten?",
             "subtitle": "Boek een gratis consultatie, en laten we samen de beste oplossing voor uw bedrijf vinden.",
@@ -511,7 +511,7 @@
                 ]
             },
             "commerce": {
-                "description": "U kunt alles wat nodig is voor kantoorbeheer bij ons verkrijgen – computers, monitoren, printers, servers, netwerkapparaten en softwarelicenties. We werken met betrouwbare merken en helpen u bij het kiezen van de beste prijs-kwaliteitverhouding. Of u nu nieuwe apparatuur nodig heeft of upgrades, wij zorgen ervoor.",
+                "description": "Alles wat u nodig heeft voor kantoorbeheer en bedrijfs-IT-infrastructuur – computers, monitoren, printers, servers, netwerkapparatuur, NAS-systemen en softwarelicenties. We werken met betrouwbare merken en helpen u bij het kiezen van de beste prijs-kwaliteitverhouding. Of u nu nieuwe apparatuur, upgrades of uitbreiding nodig heeft, wij zorgen voor alles met advies en installatieservices inbegrepen.",
                 "features": [
                     "Computers, laptops en servers",
                     "Netwerkapparaten en randapparatuur",
@@ -520,7 +520,7 @@
                 ]
             },
             "hosting": {
-                "description": "We bieden stabiele, snelle en veilige hostingoplossingen voor websites, e-mail en databack-up. We zorgen ervoor dat uw gegevens altijd beschikbaar en beschermd zijn via ons eigen serverpark of betrouwbare internationale partners.",
+                "description": "Stabiele, snelle en veilige hostingoplossingen voor websites, e-mail, bestandsdeling en gegevensback-up. Via onze eigen serverinfrastructuur of betrouwbare internationale partners zorgen we ervoor dat uw gegevens altijd beschikbaar en beschermd zijn met 99,9% beschikbaarheidsgarantie. Webhosting, dedicated serverhuur, cloudgebaseerde back-up en private cloudservices.",
                 "features": [
                     "Webhosting en domeinregistratie",
                     "E-mailhosting",
@@ -530,7 +530,7 @@
             },
             "repair": {
                 "title": "Service en Reparatie – On-site of via post",
-                "description": "Snelle en betrouwbare reparatie van computers, laptops, servers en netwerkapparaten. On-site service in Székesfehérvár en omgeving, of postservice. We starten elke reparatie met een diagnose, en gaan alleen verder na uw goedkeuring van de offerte. Ons doel is om uw systeem zo snel mogelijk weer draaiende te krijgen.",
+                "description": "Snelle en betrouwbare reparatie van computers, laptops, servers en netwerkapparatuur. On-site service in Székesfehérvár en omgeving, of postservice voor uw gemak. We starten elke reparatie met uitgebreide diagnostiek, en gaan alleen verder na uw goedkeuring van de transparante offerte. Gegevensherstel en virusverwijdering inbegrepen. Ons doel is om uw systeem zo snel mogelijk weer draaiende te krijgen met garantiedekking.",
                 "features": [
                     "Service on-site (Székesfehérvár en omgeving)",
                     "Mogelijkheid voor postinzending",
@@ -540,7 +540,7 @@
             },
             "training": {
                 "title": "IT-training en Kennisontwikkeling",
-                "description": "Ontwikkel de digitale vaardigheden van uw team! We bieden persoonlijke IT-training, bewustwordingstraining voor beveiliging en systeemniveau-kennisontwikkeling, zodat medewerkers veilig gebruik kunnen maken van moderne apparaten en software. Veilige werking begint bij informatie.",
+                "description": "Ontwikkel de digitale vaardigheden en cybersecuritybewustzijn van uw team! We bieden persoonlijke IT-training, bewustwordingstraining voor beveiliging en systeemniveau-kennisontwikkeling, zodat medewerkers veilig gebruik kunnen maken van moderne apparaten en software. Van Microsoft 365 en Google Workspace tot beste praktijken voor cybersecurity en GDPR-naleving – veilige werking begint bij de juiste training en informatie.",
                 "features": [
                     "Persoonlijke IT-training",
                     "Bewustwordingstraining beveiliging",
