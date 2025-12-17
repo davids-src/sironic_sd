@@ -32,6 +32,15 @@ export async function generateMetadata({ params }: { params: { locale: string } 
     description: messages.meta.siteDescription,
     keywords: messages.meta.keywords ?? [],
     authors: [{ name: messages.meta.companyName }],
+    icons: {
+      icon: [
+        { url: '/favicon.ico' },
+        { url: '/favicon.svg', type: 'image/svg+xml' },
+      ],
+      apple: [
+        { url: '/apple-touch-icon.png' },
+      ],
+    },
     robots: {
       index: true,
       follow: true,
@@ -115,7 +124,8 @@ export default async function RootLayout({
   return (
     <html lang={locale}>
       <head>
-        <link rel="icon" href="/favicon.ico" />
+        {/* Favicon links are handled by Next.js Metadata API, but keeping manual links for backwards compatibility */}
+        <link rel="icon" href="/favicon.ico" sizes="any" />
         <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
         <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
         <HreflangTags />
