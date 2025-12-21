@@ -22,7 +22,7 @@ export function OrganizationSchema({ locale }: OrganizationSchemaProps) {
         alternateName: 'SIRONIC IT Rendszerház',
         legalName: 'Skoda Dávid András Egyéni Vállalkozó',
         url: baseUrl,
-        logo: `${baseUrl}/logo.png`,
+        logo: `${baseUrl}/favicon.svg`,
         description: locale === 'hu'
             ? 'Teljes körű IT megoldások kis- és középvállalkozásoknak Székesfehérváron. Rendszerüzemeltetés, hálózatépítés, webfejlesztés, IT biztonság, hosting és szerviz szolgáltatások 24/7 támogatással.'
             : 'Comprehensive IT solutions for small and medium-sized businesses. System management, network development, web development, IT security, hosting, and repair services with 24/7 support.',

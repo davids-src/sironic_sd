@@ -113,7 +113,7 @@ export function LocalBusinessSchema({ locale }: LocalBusinessSchema) {
         alternateName: currentLocaleData.alternateName,
         description: currentLocaleData.description,
         url: `${baseUrl}/${locale}`,
-        logo: `${baseUrl}/logo.png`,
+        logo: `${baseUrl}/favicon.svg`,
         image: `${baseUrl}/og/home-${locale}.jpg`,
         telephone: '+36-30-123-4567',
         email: 'hello@sironic.hu',
@@ -295,7 +295,7 @@ export function OrganizationSchema() {
         name: 'SIRONIC IT Solutions',
         legalName: 'Skoda Dávid András Egyéni Vállalkozó',
         url: baseUrl,
-        logo: `${baseUrl}/logo.png`,
+        logo: `${baseUrl}/favicon.svg`,
         foundingDate: '2020',
         founders: [
             {

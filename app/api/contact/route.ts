@@ -79,7 +79,7 @@ async function sendDiscordNotification(data: {
       },
       body: JSON.stringify({
         username: 'SIRONIC Weboldal',
-        avatar_url: 'https://sironic.eu/logo_rgb.svg',
+        avatar_url: 'https://sironic.eu/favicon.svg',
         embeds: [embed],
       }),
     });
@@ -214,7 +214,7 @@ export async function GET(request: NextRequest) {
         },
         body: JSON.stringify({
           username: 'SIRONIC Weboldal',
-          avatar_url: 'https://sironic.eu/logo_rgb.svg',
+          avatar_url: 'https://sironic.eu/favicon.svg',
           embeds: [testEmbed],
         }),
       });

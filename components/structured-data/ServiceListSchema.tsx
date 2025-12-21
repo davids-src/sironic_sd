@@ -85,7 +85,7 @@ export function ServiceListSchema({ locale }: ServiceListSchemaProps) {
                     '@type': 'Organization',
                     '@id': `${baseUrl}/#organization`,
                     name: 'SIRONIC IT Solutions',
-                    logo: `${baseUrl}/logo.png`,
+                    logo: `${baseUrl}/favicon.svg`,
                     url: baseUrl
                 },
                 areaServed: [

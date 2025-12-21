@@ -32,7 +32,7 @@ export function Header() {
         <div className="flex lg:flex-1">
           <Link href={`/${locale}`} className="-m-1.5 p-1.5 flex items-center gap-2 button-press">
             <img
-              src="/logo_rgb.svg"
+              src="/favicon.svg"
               alt="SIRONIC"
               className="h-8 w-8 flex-shrink-0"
             />

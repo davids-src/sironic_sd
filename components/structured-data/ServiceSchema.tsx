@@ -47,7 +47,7 @@ export function ServiceSchema({
             '@id': `${baseUrl}/#organization`,
             name: 'SIRONIC IT Solutions',
             url: baseUrl,
-            logo: `${baseUrl}/logo.png`
+            logo: `${baseUrl}/favicon.svg`
         },
         areaServed: [
             {

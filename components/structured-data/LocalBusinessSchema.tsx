@@ -51,7 +51,7 @@ export function LocalBusinessSchema({ locale }: LocalBusinessSchemaProps) {
         name: 'SIRONIC IT Rendszerház',
         alternateName: currentAlternateNames,
         description: currentDescription,
-        image: `${baseUrl}/logo.png`,
+        image: `${baseUrl}/favicon.svg`,
         url: baseUrl,
         telephone: '+36702735532',
         email: 'hello@sironic.hu',

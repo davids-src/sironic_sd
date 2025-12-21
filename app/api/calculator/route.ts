@@ -66,7 +66,7 @@ async function sendDiscordNotification(data: CalculatorData & { ipAddress: strin
             headers: { 'Content-Type': 'application/json' },
             body: JSON.stringify({
                 username: 'SIRONIC Kalkulátor',
-                avatar_url: 'https://sironic.eu/logo_rgb.svg',
+                avatar_url: 'https://sironic.eu/favicon.svg',
                 embeds: [embed],
             }),
         });
