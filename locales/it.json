@@ -257,7 +257,7 @@
     "description": "Non hai bisogno di assumere uno specialista IT a tempo pieno per avere sistemi stabili, sicuri e veloci. L'abbonamento mensile SIRONIC funziona come se facessimo parte della tua azienda – ma paghi solo per ciò di cui hai realmente bisogno.",
     "features": {
       "costEffective": "Supporto IT conveniente e ottimizzato per l'infrastruttura – flessibile, affidabile e trasparente.",
-      "discount": "Valido fino al 1 febbraio 2026: ogni partner che richiede una consulenza riceve il 10% di sconto sui primi 3 mesi!"
+      "discount": "Valido fino al 31 marzo 2026: ogni partner che richiede una consulenza riceve il 10% di sconto sui primi 3 mesi!"
     },
     "cta": {
       "consultation": "Richiedi una Consulenza",
@@ -670,7 +670,7 @@
           "Gestione backup e aggiornamenti",
           "Supporto IT personale"
         ],
-        "badge": "🎁 Valido fino al 1 feb 2026: 10% di sconto sui primi 3 mesi per richieste di consulenza!",
+        "badge": "🎁 Valido fino al 31 mar 2026: 10% di sconto sui primi 3 mesi per richieste di consulenza!",
         "ctaText": "Richiedi Consulenza"
       },
       "systemOperation": {
@@ -802,7 +802,7 @@
       "subtitle": "Come avere il tuo specialista IT",
       "description": "Un servizio dove non hai bisogno di assumere uno specialista IT – invece, ottieni un team completo che mantiene tutto aggiornato in background, monitora, fa manutenzione e interviene solo quando necessario.",
       "cta": "Richiedi Consulenza",
-      "discount": "Valido fino al 1 feb 2026: 10% di sconto sui primi 3 mesi per richieste di consulenza!",
+      "discount": "Valido fino al 31 mar 2026: 10% di sconto sui primi 3 mesi per richieste di consulenza!",
       "scroll": "Scorri giù per info"
     },
     "whatYouGet": {

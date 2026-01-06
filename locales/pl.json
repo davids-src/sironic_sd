@@ -286,7 +286,7 @@
         "description": "Nie musisz zatrudniać informatyka, aby mieć stabilne, bezpieczne i szybkie systemy. Miesięczny abonament SIRONIC działa tak, jakbyś miał wewnętrzny zespół – ale płacisz tylko za to, czego naprawdę potrzebujesz.",
         "features": {
             "costEffective": "Efektywne kosztowo, zoptymalizowane pod infrastrukturę wsparcie IT – elastyczne, niezawodne, przejrzyste.",
-            "discount": "Ważne do 1 lutego 2026: 10% zniżki na pierwsze 3 miesiące dla partnerów, którzy zamówią konsultację!"
+            "discount": "Ważne do 31 marca 2026: 10% zniżki na pierwsze 3 miesiące dla partnerów, którzy zamówią konsultację!"
         },
         "cta": {
             "consultation": "Zarezerwuj darmową konsultację IT!",
@@ -700,7 +700,7 @@
                     "Zarządzanie backupem i aktualizacjami",
                     "Osobiste wsparcie IT w języku węgierskim"
                 ],
-                "badge": "🎁 Ważne do 1 lutego 2026: 10% zniżki na pierwsze 3 miesiące dla wniosków o konsultację!",
+                "badge": "🎁 Ważne do 31 marca 2026: 10% zniżki na pierwsze 3 miesiące dla wniosków o konsultację!",
                 "ctaText": "Zarezerwuj Konsultację"
             },
             "systemOperation": {
@@ -832,7 +832,7 @@
             "subtitle": "Jakbyś miał własnego specjalistę IT",
             "description": "Usługa, w której nie musisz zatrudniać specjalisty IT – zamiast tego otrzymujesz cały zespół, który utrzymuje wszystko aktualne w tle, monitoruje, konserwuje i interweniuje tylko wtedy, gdy to konieczne.",
             "cta": "Zarezerwuj Konsultację",
-            "discount": "Ważne do 1 lutego 2026: 10% zniżki na pierwsze 3 miesiące dla wniosków o konsultację!",
+            "discount": "Ważne do 31 marca 2026: 10% zniżki na pierwsze 3 miesiące dla wniosków o konsultację!",
             "scroll": "Przewiń w dół po więcej informacji"
         },
         "whatYouGet": {

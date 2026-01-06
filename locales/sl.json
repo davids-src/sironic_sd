@@ -257,7 +257,7 @@
         "description": "Ni vam treba zaposliti IT strokovnjaka za polni delovni čas, da bi imeli stabilne, varne in hitre sisteme. Mesečna naročnina SIRONIC deluje, kot da smo del vašega podjetja – vendar plačate le tisto, kar dejansko potrebujete.",
         "features": {
             "costEffective": "Stroškovno učinkovita, infrastrukturi prilagojena IT podpora – prilagodljiva, zanesljiva in transparentna.",
-            "discount": "Velja do 1. februarja 2026: vsak partner, ki zahteva posvet, prejme 10% popust na prve 3 mesece!"
+            "discount": "Velja do 31. marca 2026: vsak partner, ki zahteva posvet, prejme 10% popust na prve 3 mesece!"
         },
         "cta": {
             "consultation": "Zahtevaj posvet",
@@ -670,7 +670,7 @@
                     "Upravljanje varnostnih kopij in posodobitev",
                     "Osebna, slovensko govoreča IT podpora"
                 ],
-                "badge": "🎁 Velja do 1. feb 2026: 10% popust na prve 3 mesece za zahteve za posvet!",
+                "badge": "🎁 Velja do 31. mar 2026: 10% popust na prve 3 mesece za zahteve za posvet!",
                 "ctaText": "Zahtevaj posvet"
             },
             "systemOperation": {
@@ -802,7 +802,7 @@
             "subtitle": "Kot da bi imeli svojega IT strokovnjaka",
             "description": "Storitev, kjer vam ni treba zaposliti IT strokovnjaka – namesto tega dobite celotno ekipo, ki v ozadju skrbi, da je vse posodobljeno, spremlja, vzdržuje in posreduje le, ko je to potrebno.",
             "cta": "Zahtevaj posvet",
-            "discount": "Velja do 1. feb 2026: 10% popust na prve 3 mesece za zahteve za posvet!",
+            "discount": "Velja do 31. mar 2026: 10% popust na prve 3 mesece za zahteve za posvet!",
             "scroll": "Pomaknite se navzdol za več informacij"
         },
         "whatYouGet": {

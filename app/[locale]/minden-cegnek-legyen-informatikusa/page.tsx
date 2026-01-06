@@ -10,7 +10,10 @@ import {
   ArrowRight,
   CheckCircle,
   Sparkles,
-  ChevronDown
+  ChevronDown,
+  Users,
+  Shield,
+  Headphones
 } from 'lucide-react';
 import Link from 'next/link';
 import { useTranslation } from '@/hooks/useTranslation';
@@ -160,6 +163,37 @@ export default function MindenCegnekPage() {
                 <p className="text-gray-600 dark:text-gray-300 leading-relaxed">{t(`mindenCegnekPage.whatYouGet.features.${feature.key}.description`)}</p>
               </div>
             ))}
+          </div>
+        </div>
+      </section>
+
+      <section className="py-20 lg:py-32 bg-white dark:bg-gray-950">
+        <div className="mx-auto max-w-7xl px-4 lg:px-8">
+          <div className="text-center mb-16">
+            <h2 className="text-3xl font-bold tracking-tight sm:text-4xl mb-6">
+              {t('mindenCegnekPage.detailed.title')}
+            </h2>
+            <p className="text-lg text-gray-600 dark:text-gray-300 max-w-3xl mx-auto leading-relaxed">
+              {t('mindenCegnekPage.detailed.description')}
+            </p>
+          </div>
+
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-10">
+            {t('mindenCegnekPage.detailed.points', []).map((point: any, index: number) => {
+              const icons = [Users, Shield, Headphones];
+              const Icon = icons[index % icons.length];
+              return (
+                <div key={index} className="flex flex-col items-center text-center">
+                  <div className="mb-6 flex h-16 w-16 items-center justify-center rounded-2xl bg-red-50 text-brand-red dark:bg-red-900/20 dark:text-red-400">
+                    <Icon className="h-8 w-8" aria-hidden="true" />
+                  </div>
+                  <h3 className="text-xl font-bold mb-3 text-gray-900 dark:text-white">{point.title}</h3>
+                  <p className="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    {point.desc}
+                  </p>
+                </div>
+              );
+            })}
           </div>
         </div>
       </section>

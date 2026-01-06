@@ -284,7 +284,7 @@
         "description": "Du behøver ikke ansætte en IT-specialist for at have stabile, sikre og hurtige systemer. SIRONICs månedlige abonnement fungerer, som om du havde et internt team – men du betaler kun for det, du faktisk har brug for.",
         "features": {
             "costEffective": "Omkostningseffektiv, infrastrukturoptimeret IT-support – fleksibel, pålidelig, gennemskuelig.",
-            "discount": "Gælder indtil 1. feb. 2026: 10% rabat på de første 3 måneder for partnere, der bestiller konsultation!"
+            "discount": "Gælder indtil 31. mar. 2026: 10% rabat på de første 3 måneder for partnere, der bestiller konsultation!"
         },
         "cta": {
             "consultation": "Bestil gratis IT-konsultation!",
@@ -698,7 +698,7 @@
                     "Håndtering af backup og opdateringer",
                     "Personlig, ungarsktalende IT-support"
                 ],
-                "badge": "🎁 Gælder indtil 1. feb. 2026: 10% rabat på de første 3 måneder for konsultationsforespørgsler!",
+                "badge": "🎁 Gælder indtil 31. mar. 2026: 10% rabat på de første 3 måneder for konsultationsforespørgsler!",
                 "ctaText": "Bestil Konsultation"
             },
             "systemOperation": {
@@ -830,7 +830,7 @@
             "subtitle": "Som at have din egen IT-specialist",
             "description": "En tjeneste, hvor du ikke behøver at ansætte en IT-specialist – i stedet får du et helt team, der holder alt opdateret i baggrunden, overvåger, vedligeholder og kun griber ind hvis nødvendigt.",
             "cta": "Bestil Konsultation",
-            "discount": "Gælder indtil 1. feb. 2026: 10% rabat på de første 3 måneder for konsultationsforespørgsler!",
+            "discount": "Gælder indtil 31. mar. 2026: 10% rabat på de første 3 måneder for konsultationsforespørgsler!",
             "scroll": "Rul ned for mere info"
         },
         "whatYouGet": {

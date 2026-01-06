@@ -286,7 +286,7 @@
         "description": "Nemusíte zaměstnávat informatika, abyste měli stabilní, bezpečné a rychlé systémy. Měsíční paušál SIRONIC funguje tak, jako byste měli interní tým – ale platíte jen za to, co skutečně potřebujete.",
         "features": {
             "costEffective": "Nákladově efektivní, optimalizovaná IT podpora – flexibilní, spolehlivá, transparentní.",
-            "discount": "Platí do 1. února 2026: 10% sleva na první 3 měsíce pro partnery, kteří si objednají konzultaci!"
+            "discount": "Platí do 31. března 2026: 10% sleva na první 3 měsíce pro partnery, kteří si objednají konzultaci!"
         },
         "cta": {
             "consultation": "Rezervovat IT konzultaci zdarma!",
@@ -700,7 +700,7 @@
                     "Správa záloh a aktualizací",
                     "Osobní IT podpora v maďarštině"
                 ],
-                "badge": "🎁 Platí do 1. února 2026: 10% sleva na první 3 měsíce pro žádosti o konzultaci!",
+                "badge": "🎁 Platí do 31. března 2026: 10% sleva na první 3 měsíce pro žádosti o konzultaci!",
                 "ctaText": "Rezervovat Konzultaci"
             },
             "systemOperation": {
@@ -832,7 +832,7 @@
             "subtitle": "Jako byste měli vlastního IT specialistu",
             "description": "Služba, kde nemusíte najímat IT specialistu – místo toho získáte celý tým, který udržuje vše aktuální na pozadí, monitoruje, udržuje a zasahuje pouze v případě nutnosti.",
             "cta": "Rezervovat Konzultaci",
-            "discount": "Platí do 1. února 2026: 10% sleva na první 3 měsíce pro žádosti o konzultaci!",
+            "discount": "Platí do 31. března 2026: 10% sleva na první 3 měsíce pro žádosti o konzultaci!",
             "scroll": "Posuňte dolů pro více informací"
         },
         "whatYouGet": {

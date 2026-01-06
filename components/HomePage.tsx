@@ -105,12 +105,9 @@ export function HomePage() {
         <>
             <Hero />
 
-            <EuPresenceVisual />
+            <ProcessAndSLA />
 
-            <div className="space-y-0">
-                <PortfolioPreview />
-                <CaseStudiesPreview />
-            </div>
+            <EuPresenceVisual />
 
             <section id="szolgaltatasok" className="py-20 lg:py-32 bg-gray-50 dark:bg-gray-900/50">
                 <div className="container mx-auto px-4 md:px-6">
@@ -186,7 +183,10 @@ export function HomePage() {
                 </div>
             </section>
 
-            <ProcessAndSLA />
+            <div className="space-y-0">
+                <PortfolioPreview />
+                <CaseStudiesPreview />
+            </div>
 
             <FaqSection />
 

@@ -278,7 +278,7 @@
     "description": "You don't need to hire an IT specialist to have stable, secure, and fast systems. SIRONIC's monthly subscription works as if you had an in-house team – but you only pay for what you actually need.",
     "features": {
       "costEffective": "Cost-effective, infrastructure-optimized IT support – flexible, reliable, transparent.",
-      "discount": "Valid until Feb 1, 2026: 10% discount on first 3 months for partners requesting consultation!"
+      "discount": "Valid until Mar 31, 2026: 10% discount on first 3 months for partners requesting consultation!"
     },
     "cta": {
       "consultation": "Request Free IT Consultation!",
@@ -692,7 +692,7 @@
           "Backup and update management",
           "Personal, Hungarian-speaking IT support"
         ],
-        "badge": "🎁 Valid until Feb 1, 2026: 10% discount on first 3 months for consultation requests!",
+        "badge": "🎁 Valid until Mar 31, 2026: 10% discount on first 3 months for consultation requests!",
         "ctaText": "Request Consultation"
       },
       "systemOperation": {
@@ -824,7 +824,7 @@
       "subtitle": "Like having your own IT specialist",
       "description": "A service where you don't need to hire an IT specialist – instead, you get a full team that keeps everything up to date in the background, monitors, maintains, and only intervenes when necessary.",
       "cta": "Request Consultation",
-      "discount": "Valid until Feb 1, 2026: 10% discount on first 3 months for consultation requests!",
+      "discount": "Valid until Mar 31, 2026: 10% discount on first 3 months for consultation requests!",
       "scroll": "Scroll down for more info"
     },
     "whatYouGet": {
@@ -852,6 +852,24 @@
           "description": "We continuously update and maintain systems, and send a report at the end of each month on performance and system status."
         }
       }
+    },
+    "detailed": {
+      "title": "How does the service work?",
+      "description": "SIRONIC's monthly system administrator service provides comprehensive protection and support. You don't have to worry about technical details; we handle everything in the background. Our service aims to let you focus on your business while we ensure a stable technological background.",
+      "points": [
+        {
+          "title": "Dedicated Expert Team",
+          "desc": "You are not entrusting your company's IT security to just one person, but a complete team is at your disposal with specialists in various fields."
+        },
+        {
+          "title": "Proactive Error Prevention",
+          "desc": "We continuously monitor systems 24/7, so we fix errors even before they could stop a workstation or server."
+        },
+        {
+          "title": "Unlimited Remote Support",
+          "desc": "You can call us anytime if you get stuck. The monthly fee includes unlimited remote support during business hours."
+        }
+      ]
     },
     "benefits": {
       "title": "Why is this good for you?",

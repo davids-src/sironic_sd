@@ -349,7 +349,7 @@
     "description": "Nem kell saját informatikust alkalmaznod ahhoz, hogy stabil, biztonságos és gyors rendszereid legyenek. A SIRONIC havidíjas konstrukciója úgy működik, mintha a Te cégednél dolgozna – de csak annyit fizetsz, amennyire ténylegesen szükség van.",
     "features": {
       "costEffective": "Költséghatékony, infrastruktúrára optimalizált IT támogatás – rugalmasan, megbízhatóan, átláthatóan.",
-      "discount": "2026 Február 1-ig érvényes: minden előzetes konzultációt kérő partnerünknek 10% kedvezményt adunk az első 3 hónap havidíjából!"
+      "discount": "2026 Március 31-ig érvényes: minden előzetes konzultációt kérő partnerünknek 10% kedvezményt adunk az első 3 hónap havidíjából!"
     },
     "cta": {
       "consultation": "Kérj ingyenes IT konzultációt!",
@@ -757,7 +757,7 @@
           "Biztonsági mentések és frissítések kezelése",
           "Személyes, magyar nyelvű IT támogatás"
         ],
-        "badge": "🎁 2026 Február 1-ig érvényes 10% kedvezmény az első 3 hónap havidíjából előzetes konzultáció esetén!",
+        "badge": "🎁 2026 Március 31-ig érvényes 10% kedvezmény az első 3 hónap havidíjából előzetes konzultáció esetén!",
         "ctaText": "Kérj előzetes konzultációt"
       },
       "systemOperation": {
@@ -890,7 +890,7 @@
       "subtitle": "Mintha saját IT-sod lenne",
       "description": "Egy szolgáltatás, ahol nem alkalmaznod kell egy informatikust – hanem kapsz egy teljes csapatot, aki a háttérben mindent naprakészen tart, figyel, karbantart, és csak akkor avatkozik be, amikor kell.",
       "cta": "Kérj előzetes konzultációt",
-      "discount": "2026 Február 1-ig érvényes minden előzetes konzultációt kérő partnerünknek 10% kedvezményt adunk az első 3 hónap havidíjából!",
+      "discount": "2026 Március 31-ig érvényes minden előzetes konzultációt kérő partnerünknek 10% kedvezményt adunk az első 3 hónap havidíjából!",
       "scroll": "Görgess lejjebb a további információkhoz"
     },
     "whatYouGet": {
@@ -918,6 +918,24 @@
           "description": "A rendszereket folyamatosan frissítjük, karbantartjuk, és minden hónap végén jelentést küldünk a teljesítésről és a rendszer állapotáról."
         }
       }
+    },
+    "detailed": {
+      "title": "Hogyan működik a szolgáltatás?",
+      "description": "A SIRONIC havidíjas rendszergazda szolgáltatása teljes körű védelmet és támogatást nyújt. Nem kell aggódnia a technikai részletek miatt, mi mindent elintézünk a háttérben. Szolgáltatásunk célja, hogy Ön az üzletére koncentrálhasson, miközben mi biztosítjuk a stabil technológiai hátteret.",
+      "points": [
+        {
+          "title": "Dedikált szakértői csapat",
+          "desc": "Nem egy emberre bízza a cége IT biztonságát, hanem egy teljes csapat áll rendelkezésére, különböző szakterületek specialistáival."
+        },
+        {
+          "title": "Proaktív hibamegelőzés",
+          "desc": "Folyamatosan figyeljük a rendszereket 24/7-ben, így a hibákat még azelőtt elhárítjuk, hogy azok munkaállomást vagy szervert állítanának le."
+        },
+        {
+          "title": "Korlátlan távoli segítségnyújtás",
+          "desc": "Bármikor hívhat minket, ha elakad. A havidíj tartalmazza a korlátlan távoli segítségnyújtást munkaidőben."
+        }
+      ]
     },
     "benefits": {
       "title": "Miért jó ez Neked?",
