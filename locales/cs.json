@@ -335,6 +335,121 @@
             }
         ]
     },
+    "portfolio": {
+        "title": "Proven Solutions in Action",
+        "subtitle": "Real projects that deliver measurable business results",
+        "cards": [
+            {
+                "industry": "E-commerce / Retail",
+                "problem": "Legacy PHP webshop with slow performance and security vulnerabilities",
+                "solution": "Complete Next.js migration with Stripe integration and headless CMS",
+                "stack": "Next.js 13, TypeScript, Stripe, Sanity CMS, Vercel",
+                "outcome": "3x faster page loads, 45% conversion increase, zero downtime migration"
+            },
+            {
+                "industry": "Professional Services",
+                "problem": "Manual client onboarding process causing delays and errors",
+                "solution": "Custom CRM and client portal with automated workflows",
+                "stack": "React, Node.js, PostgreSQL, AWS",
+                "outcome": "80% reduction in onboarding time, 95% client satisfaction score"
+            },
+            {
+                "industry": "Manufacturing / SMB",
+                "problem": "Unstable office network with frequent WiFi dropouts and security gaps",
+                "solution": "Complete network redesign with UniFi infrastructure and firewall hardening",
+                "stack": "UniFi WiFi 6, MikroTik RB5009, VPN, VLAN segmentation",
+                "outcome": "99.9% uptime, 5x faster internal speeds, zero security incidents"
+            },
+            {
+                "industry": "SaaS Startup",
+                "problem": "MVP needed in 6 weeks to secure seed funding",
+                "solution": "Rapid MVP development with core features and payment integration",
+                "stack": "Next.js, Supabase, Stripe, Tailwind, Vercel",
+                "outcome": "Delivered in 5 weeks, €200K seed funding secured, 500+ beta users"
+            },
+            {
+                "industry": "Healthcare / Clinic",
+                "problem": "GDPR-compliant patient data management system needed",
+                "solution": "Secure patient portal with appointment scheduling and encrypted storage",
+                "stack": "Next.js, PostgreSQL, end-to-end encryption, Azure",
+                "outcome": "Full GDPR compliance, 70% reduction in admin workload"
+            },
+            {
+                "industry": "Event Management",
+                "problem": "On-site IT support needed for 3-day international conference (500+ attendees)",
+                "solution": "Dedicated on-site tech team, network setup, live-stream support",
+                "stack": "Enterprise WiFi, video streaming, multi-site coordination",
+                "outcome": "Zero technical incidents, 98% attendee satisfaction, client renewed for next year"
+            }
+        ],
+        "ctaPrimary": "Request a Scope Call",
+        "ctaSecondary": "View All Projects"
+    },
+    "caseStudies": {
+        "title": "How We Solve Real Business Challenges",
+        "subtitle": "Deep-dive case studies from our recent work",
+        "items": [
+            {
+                "title": "Complete IT Infrastructure Overhaul (Budapest Office, 40 users)",
+                "summary": "A growing professional services firm needed urgent stabilization of their chaotic IT environment. We took over full operations, cleaned up network mess, and modernized security in under 30 days.",
+                "bullets": [
+                    "Replaced unreliable consumer routers with enterprise MikroTik + UniFi stack",
+                    "Migrated all users to Microsoft 365 with 2FA and conditional access policies",
+                    "Implemented automated backup (NAS + cloud) and disaster recovery plan"
+                ]
+            },
+            {
+                "title": "Next.js E-commerce Platform for EU Market (Remote Delivery)",
+                "summary": "An Austrian retailer wanted to expand online but their WordPress/WooCommerce setup couldn't handle EU traffic and GDPR requirements. We built a modern, scalable solution.",
+                "bullets": [
+                    "Headless architecture (Next.js + Sanity CMS + Stripe) for maximum performance",
+                    "GDPR-compliant cookie consent and data processing workflows",
+                    "Multi-currency support (EUR, CHF) with localized checkout (DE/EN)"
+                ]
+            },
+            {
+                "title": "Custom SaaS MVP for Czech Fintech Startup (Remote Delivery)",
+                "summary": "A Prague-based startup needed a functional MVP in 6 weeks to demo to investors. We delivered on time with core features, payment integration, and scalable architecture.",
+                "bullets": [
+                    "Rapid development with Next.js 14 App Router and Supabase backend",
+                    "Integrated Stripe subscription billing and customer portal",
+                    "Deployed on Vercel with CI/CD pipeline for continuous updates"
+                ]
+            }
+        ],
+        "cta": "See How We Can Help Your Business"
+    },
+    "process": {
+        "title": "Our Proven 4-Step Process",
+        "steps": [
+            {
+                "title": "Discovery",
+                "description": "We listen to your challenges, assess your current setup, and understand your business goals. Free consultation, no obligations."
+            },
+            {
+                "title": "Proposal",
+                "description": "We provide a detailed proposal with clear scope, timeline, and transparent pricing. You know exactly what you're getting."
+            },
+            {
+                "title": "Delivery",
+                "description": "We execute with regular check-ins, incremental milestones, and continuous communication. No surprises, just results."
+            },
+            {
+                "title": "Support",
+                "description": "We don't disappear after launch. Ongoing maintenance, monitoring, and optimization ensure long-term success."
+            }
+        ]
+    },
+    "sla": {
+        "title": "Our Service Level Agreement",
+        "highlights": [
+            "Response SLA: Within 4 hours for standard issues, 1 hour for critical outages (contracted clients)",
+            "24/7 System Monitoring: Proactive alerts before users notice problems",
+            "Uptime Guarantee: 99.9% availability for managed infrastructure",
+            "Maintenance Windows: Scheduled updates during off-peak hours with advance notice",
+            "Escalation Path: Clear escalation process for unresolved issues"
+        ]
+    },
     "workProcess": {
         "title": "Jak pracujeme",
         "steps": [

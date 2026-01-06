@@ -14,6 +14,7 @@ export async function generateMetadata({ params }: { params: { locale: string } 
   return {
     title: messages.meta.siteTitle,
     description: messages.meta.siteDescription,
+    keywords: messages.meta.keywords,
     alternates: {
       canonical: `https://sironic.eu/${locale}`,
     },
