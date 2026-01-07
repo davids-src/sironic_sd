@@ -441,34 +441,34 @@
         "cta": "See How We Can Help Your Business"
     },
     "process": {
-        "title": "Our Proven 4-Step Process",
+        "title": "Ons Bewezen 4-Stappen Proces",
         "steps": [
             {
-                "title": "Discovery",
-                "description": "We listen to your challenges, assess your current setup, and understand your business goals. Free consultation, no obligations."
+                "title": "Analyse",
+                "description": "We luisteren naar uw uitdagingen, beoordelen uw huidige opzet en begrijpen uw bedrijfsdoelstellingen. Gratis consultatie, zonder verplichtingen."
             },
             {
-                "title": "Proposal",
-                "description": "We provide a detailed proposal with clear scope, timeline, and transparent pricing. You know exactly what you're getting."
+                "title": "Voorstel",
+                "description": "We bieden een gedetailleerd voorstel met duidelijke scope, tijdlijn en transparante prijzen. U weet precies wat u krijgt."
             },
             {
-                "title": "Delivery",
-                "description": "We execute with regular check-ins, incremental milestones, and continuous communication. No surprises, just results."
+                "title": "Realisatie",
+                "description": "We voeren uit met regelmatige check-ins, incrementele mijlpalen en continue communicatie. Geen verrassingen, alleen resultaten."
             },
             {
                 "title": "Support",
-                "description": "We don't disappear after launch. Ongoing maintenance, monitoring, and optimization ensure long-term success."
+                "description": "We verdwijnen niet na de lancering. Doorlopend onderhoud, monitoring en optimalisatie zorgen voor succes op de lange termijn."
             }
         ]
     },
     "sla": {
-        "title": "Our Service Level Agreement",
+        "title": "Onze Service Level Agreement (SLA)",
         "highlights": [
-            "Response SLA: Within 4 hours for standard issues, 1 hour for critical outages (contracted clients)",
-            "24/7 System Monitoring: Proactive alerts before users notice problems",
-            "Uptime Guarantee: 99.9% availability for managed infrastructure",
-            "Maintenance Windows: Scheduled updates during off-peak hours with advance notice",
-            "Escalation Path: Clear escalation process for unresolved issues"
+            "Response SLA: Binnen 4 uur voor standaard problemen, 1 uur voor kritieke storingen (contractanten)",
+            "24/7 Systeembewaking: Proactieve waarschuwingen voordat gebruikers problemen merken",
+            "Uptime Garantie: 99,9% beschikbaarheid voor beheerde infrastructuur",
+            "Onderhoudsvensters: Geplande updates buiten piekuren met voorafgaande kennisgeving",
+            "Escalatieroute: Duidelijk escalatieproces voor niet-opgeloste problemen"
         ]
     },
     "workProcess": {

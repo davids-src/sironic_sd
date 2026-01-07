@@ -442,34 +442,34 @@
         "cta": "See How We Can Help Your Business"
     },
     "process": {
-        "title": "Our Proven 4-Step Process",
+        "title": "Nasz sprawdzony 4-etapowy proces",
         "steps": [
             {
-                "title": "Discovery",
-                "description": "We listen to your challenges, assess your current setup, and understand your business goals. Free consultation, no obligations."
+                "title": "Analiza",
+                "description": "Słuchamy Twoich wyzwań, oceniamy obecną konfigurację i rozumiemy Twoje cele biznesowe. Darmowa konsultacja, bez zobowiązań."
             },
             {
-                "title": "Proposal",
-                "description": "We provide a detailed proposal with clear scope, timeline, and transparent pricing. You know exactly what you're getting."
+                "title": "Propozycja",
+                "description": "Przedstawiamy szczegółową propozycję z jasnym zakresem, harmonogramem i przejrzystą wyceną. Wiesz dokładnie, co otrzymujesz."
             },
             {
-                "title": "Delivery",
-                "description": "We execute with regular check-ins, incremental milestones, and continuous communication. No surprises, just results."
+                "title": "Realizacja",
+                "description": "Działamy z regularnymi raportami, kamieniami milowymi i ciągłą komunikacją. Żadnych niespodzianek, tylko wyniki."
             },
             {
-                "title": "Support",
-                "description": "We don't disappear after launch. Ongoing maintenance, monitoring, and optimization ensure long-term success."
+                "title": "Wsparcie",
+                "description": "Nie znikamy po zakończeniu wdrożenia. Bieżąca konserwacja, monitoring i optymalizacja zapewniają długoterminowy sukces."
             }
         ]
     },
     "sla": {
-        "title": "Our Service Level Agreement",
+        "title": "Nasza gwarancja poziomu usług (SLA)",
         "highlights": [
-            "Response SLA: Within 4 hours for standard issues, 1 hour for critical outages (contracted clients)",
-            "24/7 System Monitoring: Proactive alerts before users notice problems",
-            "Uptime Guarantee: 99.9% availability for managed infrastructure",
-            "Maintenance Windows: Scheduled updates during off-peak hours with advance notice",
-            "Escalation Path: Clear escalation process for unresolved issues"
+            "Czas reakcji (SLA): Do 4 godzin w przypadku standardowych problemów, 1 godzina przy krytycznych awariach (dla klientów kontraktowych)",
+            "Monitoring systemu 24/7: Proaktywne powiadomienia, zanim użytkownicy zauważą problemy",
+            "Gwarancja dostępności: 99,9% dostępności dla zarządzanej infrastruktury",
+            "Okna serwisowe: Zaplanowane aktualizacje poza godzinami szczytu z wcześniejszym powiadomieniem",
+            "Ścieżka eskalacji: Jasny proces eskalacji dla nierozwiązanych problemów"
         ]
     },
     "workProcess": {

@@ -440,34 +440,34 @@
     "cta": "See How We Can Help Your Business"
   },
   "process": {
-    "title": "Our Proven 4-Step Process",
+    "title": "Naš dokazani proces u 4 koraka",
     "steps": [
       {
-        "title": "Discovery",
-        "description": "We listen to your challenges, assess your current setup, and understand your business goals. Free consultation, no obligations."
+        "title": "Otkrivanje",
+        "description": "Slušamo vaše izazove, procjenjujemo vaše trenutno stanje i razumijemo vaše poslovne ciljeve. Besplatno savjetovanje, bez obaveza."
       },
       {
-        "title": "Proposal",
-        "description": "We provide a detailed proposal with clear scope, timeline, and transparent pricing. You know exactly what you're getting."
+        "title": "Prijedlog",
+        "description": "Dajemo detaljan prijedlog s jasnim opsegom, vremenskim okvirom i transparentnim cijenama. Točno znate što dobivate."
       },
       {
-        "title": "Delivery",
-        "description": "We execute with regular check-ins, incremental milestones, and continuous communication. No surprises, just results."
+        "title": "Isporuka",
+        "description": "Izvršavamo uz redovite provjere, postupne ciljeve i kontinuiranu komunikaciju. Bez iznenađenja, samo rezultati."
       },
       {
-        "title": "Support",
-        "description": "We don't disappear after launch. Ongoing maintenance, monitoring, and optimization ensure long-term success."
+        "title": "Podrška",
+        "description": "Ne nestajemo nakon lansiranja. Kontinuirano održavanje, praćenje i optimizacija osiguravaju dugoročni uspjeh."
       }
     ]
   },
   "sla": {
-    "title": "Our Service Level Agreement",
+    "title": "Naš ugovor o razini usluge (SLA)",
     "highlights": [
-      "Response SLA: Within 4 hours for standard issues, 1 hour for critical outages (contracted clients)",
-      "24/7 System Monitoring: Proactive alerts before users notice problems",
-      "Uptime Guarantee: 99.9% availability for managed infrastructure",
-      "Maintenance Windows: Scheduled updates during off-peak hours with advance notice",
-      "Escalation Path: Clear escalation process for unresolved issues"
+      "SLA odgovor: Unutar 4 sata za standardne probleme, 1 sat za kritične zastoje (ugovoreni klijenti)",
+      "24/7 nadzor sustava: Proaktivna upozorenja prije nego što korisnici primijete probleme",
+      "Jamstvo dostupnosti: 99,9% dostupnosti za upravljanu infrastrukturu",
+      "Termini održavanja: Zakazana ažuriranja izvan radnog vremena uz prethodnu najavu",
+      "Put eskalacije: Jasan proces eskalacije za neriješene probleme"
     ]
   },
   "workProcess": {

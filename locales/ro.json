@@ -406,34 +406,34 @@
     "cta": "See How We Can Help Your Business"
   },
   "process": {
-    "title": "Our Proven 4-Step Process",
+    "title": "Procesul nostru dovedit în 4 pași",
     "steps": [
       {
-        "title": "Discovery",
-        "description": "We listen to your challenges, assess your current setup, and understand your business goals. Free consultation, no obligations."
+        "title": "Descoperire",
+        "description": "Vă ascultăm provocările, evaluăm configurația actuală și înțelegem obiectivele afacerii dumneavoastră. Consultanță gratuită, fără obligații."
       },
       {
-        "title": "Proposal",
-        "description": "We provide a detailed proposal with clear scope, timeline, and transparent pricing. You know exactly what you're getting."
+        "title": "Propunere",
+        "description": "Oferim o propunere detaliată cu domeniu de aplicare clar, calendar și prețuri transparente. Știți exact ce primiți."
       },
       {
-        "title": "Delivery",
-        "description": "We execute with regular check-ins, incremental milestones, and continuous communication. No surprises, just results."
+        "title": "Livrare",
+        "description": "Executăm cu verificări regulate, etape intermediare și comunicare continuă. Fără surprize, doar rezultate."
       },
       {
-        "title": "Support",
-        "description": "We don't disappear after launch. Ongoing maintenance, monitoring, and optimization ensure long-term success."
+        "title": "Suport",
+        "description": "Nu dispărem după lansare. Întreținerea continuă, monitorizarea și optimizarea asigură succesul pe termen lung."
       }
     ]
   },
   "sla": {
-    "title": "Our Service Level Agreement",
+    "title": "Acordul nostru privind nivelul serviciilor (SLA)",
     "highlights": [
-      "Response SLA: Within 4 hours for standard issues, 1 hour for critical outages (contracted clients)",
-      "24/7 System Monitoring: Proactive alerts before users notice problems",
-      "Uptime Guarantee: 99.9% availability for managed infrastructure",
-      "Maintenance Windows: Scheduled updates during off-peak hours with advance notice",
-      "Escalation Path: Clear escalation process for unresolved issues"
+      "SLA de răspuns: În maximum 4 ore pentru probleme standard, 1 oră pentru întreruperi critice (clienți contractuali)",
+      "Monitorizare sistem 24/7: Alerte proactive înainte ca utilizatorii să observe problemele",
+      "Garanție de uptime: Disponibilitate de 99,9% pentru infrastructura gestionată",
+      "Ferestre de mentenanță: Actualizări programate în afara orelor de vârf, cu notificare prealabilă",
+      "Cale de escaladare: Proces clar de escaladare pentru problemele nerezolvate"
     ]
   },
   "workProcess": {

@@ -500,34 +500,34 @@
     "cta": "See How We Can Help Your Business"
   },
   "process": {
-    "title": "Our Proven 4-Step Process",
+    "title": "Kipróbált 4-lépéses folyamatunk",
     "steps": [
       {
-        "title": "Discovery",
-        "description": "We listen to your challenges, assess your current setup, and understand your business goals. Free consultation, no obligations."
+        "title": "Felfedezés",
+        "description": "Meghallgatjuk kihívásait, felmérjük jelenlegi rendszerét és megismerjük üzleti céljait. Ingyenes konzultáció, kötelezettségek nélkül."
       },
       {
-        "title": "Proposal",
-        "description": "We provide a detailed proposal with clear scope, timeline, and transparent pricing. You know exactly what you're getting."
+        "title": "Ajánlat",
+        "description": "Részletes ajánlatot adunk egyértelmű hatókörrel, ütemtervvel és átlátható árazással. Pontosan fogja tudni, mit kap."
       },
       {
-        "title": "Delivery",
-        "description": "We execute with regular check-ins, incremental milestones, and continuous communication. No surprises, just results."
+        "title": "Megvalósítás",
+        "description": "Rendszeres egyeztetésekkel, mérföldkövekkel és folyamatos kommunikációval dolgozunk. Nincsenek meglepetések, csak eredmények."
       },
       {
-        "title": "Support",
-        "description": "We don't disappear after launch. Ongoing maintenance, monitoring, and optimization ensure long-term success."
+        "title": "Támogatás",
+        "description": "Az átadás után sem tűnünk el. Folyamatos karbantartás, monitorozás és optimalizálás biztosítja a hosszú távú sikert."
       }
     ]
   },
   "sla": {
-    "title": "Our Service Level Agreement",
+    "title": "Szolgáltatási szintű megállapodásunk (SLA)",
     "highlights": [
-      "Response SLA: Within 4 hours for standard issues, 1 hour for critical outages (contracted clients)",
-      "24/7 System Monitoring: Proactive alerts before users notice problems",
-      "Uptime Guarantee: 99.9% availability for managed infrastructure",
-      "Maintenance Windows: Scheduled updates during off-peak hours with advance notice",
-      "Escalation Path: Clear escalation process for unresolved issues"
+      "Reakcióidő (SLA): 4 órán belül általános hibák esetén, 1 órán belül kritikus leállásoknál (szerződött partnereknek)",
+      "24/7 Rendszerfelügyelet: Proaktív riasztások, mielőtt a felhasználók észlelnék a problémát",
+      "Rendelkezésre állási garancia: 99,9%-os elérhetőség a menedzselt infrastruktúrára",
+      "Karbantartási ablakok: Tervezett frissítések csúcsidőn kívül, előzetes értesítéssel",
+      "Eszkalációs útvonal: Egyértelmű folyamat a meg nem oldott problémák kezelésére"
     ]
   },
   "workProcess": {

@@ -442,34 +442,34 @@
         "cta": "See How We Can Help Your Business"
     },
     "process": {
-        "title": "Our Proven 4-Step Process",
+        "title": "Náš osvědčený proces ve 4 krocích",
         "steps": [
             {
-                "title": "Discovery",
-                "description": "We listen to your challenges, assess your current setup, and understand your business goals. Free consultation, no obligations."
+                "title": "Analýza",
+                "description": "Nasloucháme vašim výzvám, posoudíme vaše aktuální nastavení a pochopíme vaše obchodní cíle. Bezplatná konzultace, nezávazně."
             },
             {
-                "title": "Proposal",
-                "description": "We provide a detailed proposal with clear scope, timeline, and transparent pricing. You know exactly what you're getting."
+                "title": "Nabídka",
+                "description": "Poskytneme podrobný návrh s jasným rozsahem, časovým plánem a transparentními cenami. Přesně víte, co dostáváte."
             },
             {
-                "title": "Delivery",
-                "description": "We execute with regular check-ins, incremental milestones, and continuous communication. No surprises, just results."
+                "title": "Realizace",
+                "description": "Projekt realizujeme s pravidelnými kontrolami, milníky a nepřetržitou komunikací. Žádná překvapení, jen výsledky."
             },
             {
-                "title": "Support",
-                "description": "We don't disappear after launch. Ongoing maintenance, monitoring, and optimization ensure long-term success."
+                "title": "Podpora",
+                "description": "Po spuštění nezmizíme. Průběžná údržba, monitorování a optimalizace zajišťují dlouhodobý úspěch."
             }
         ]
     },
     "sla": {
-        "title": "Our Service Level Agreement",
+        "title": "Naše smlouva o úrovni služeb (SLA)",
         "highlights": [
-            "Response SLA: Within 4 hours for standard issues, 1 hour for critical outages (contracted clients)",
-            "24/7 System Monitoring: Proactive alerts before users notice problems",
-            "Uptime Guarantee: 99.9% availability for managed infrastructure",
-            "Maintenance Windows: Scheduled updates during off-peak hours with advance notice",
-            "Escalation Path: Clear escalation process for unresolved issues"
+            "Reakční doba (SLA): Do 4 hodin u běžných problémů, 1 hodina u kritických výpadků (pro smluvní klienty)",
+            "24/7 Monitorování systému: Proaktivní upozornění dříve, než si uživatelé všimnou problémů",
+            "Garance dostupnosti: 99,9 % dostupnost pro spravovanou infrastrukturu",
+            "Údržbová okna: Plánované aktualizace mimo špičku s předstihem zaslaným oznámením",
+            "Eskalační proces: Jasný postup pro nevyřešené problémy"
         ]
     },
     "workProcess": {

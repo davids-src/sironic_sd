@@ -426,34 +426,34 @@
     "cta": "See How We Can Help Your Business"
   },
   "process": {
-    "title": "Our Proven 4-Step Process",
+    "title": "Il Nostro Processo Comprovato in 4 Fasi",
     "steps": [
       {
-        "title": "Discovery",
-        "description": "We listen to your challenges, assess your current setup, and understand your business goals. Free consultation, no obligations."
+        "title": "Analisi",
+        "description": "Ascoltiamo le vostre sfide, valutiamo la configurazione attuale e comprendiamo i vostri obiettivi di business. Consulenza gratuita, senza impegno."
       },
       {
-        "title": "Proposal",
-        "description": "We provide a detailed proposal with clear scope, timeline, and transparent pricing. You know exactly what you're getting."
+        "title": "Proposta",
+        "description": "Forniamo una proposta dettagliata con ambito chiaro, tempistiche e prezzi trasparenti. Saprete esattamente cosa aspettarvi."
       },
       {
-        "title": "Delivery",
-        "description": "We execute with regular check-ins, incremental milestones, and continuous communication. No surprises, just results."
+        "title": "Realizzazione",
+        "description": "Eseguiamo con check-in regolari, traguardi incrementali e comunicazione continua. Nessuna sorpresa, solo risultati."
       },
       {
-        "title": "Support",
-        "description": "We don't disappear after launch. Ongoing maintenance, monitoring, and optimization ensure long-term success."
+        "title": "Supporto",
+        "description": "Non spariamo dopo il lancio. Manutenzione continua, monitoraggio e ottimizzazione garantiscono il successo a lungo termine."
       }
     ]
   },
   "sla": {
-    "title": "Our Service Level Agreement",
+    "title": "Accordo sul Livello del Servizio (SLA)",
     "highlights": [
-      "Response SLA: Within 4 hours for standard issues, 1 hour for critical outages (contracted clients)",
-      "24/7 System Monitoring: Proactive alerts before users notice problems",
-      "Uptime Guarantee: 99.9% availability for managed infrastructure",
-      "Maintenance Windows: Scheduled updates during off-peak hours with advance notice",
-      "Escalation Path: Clear escalation process for unresolved issues"
+      "SLA di risposta: Entro 4 ore per problemi standard, 1 ora per interruzioni critiche (clienti contrattualizzati)",
+      "Monitoraggio sistema 24/7: Avvisi proattivi prima che gli utenti notino problemi",
+      "Garanzia di operatività: 99,9% di disponibilità per l'infrastruttura gestita",
+      "Finestre di manutenzione: Aggiornamenti pianificati fuori dagli orari di punta con preavviso",
+      "Percorso di escalation: Processo di escalation chiaro per problemi non risolti"
     ]
   },
   "workProcess": {

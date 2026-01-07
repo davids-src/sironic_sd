@@ -440,34 +440,34 @@
         "cta": "See How We Can Help Your Business"
     },
     "process": {
-        "title": "Our Proven 4-Step Process",
+        "title": "Vår Dokumenterte 4-Trinns Prosess",
         "steps": [
             {
-                "title": "Discovery",
-                "description": "We listen to your challenges, assess your current setup, and understand your business goals. Free consultation, no obligations."
+                "title": "Analyse",
+                "description": "Vi lytter til dine utfordringer, vurderer ditt nåværende oppsett og forstår dine forretningsmål. Gratis konsultasjon, ingen forpliktelser."
             },
             {
-                "title": "Proposal",
-                "description": "We provide a detailed proposal with clear scope, timeline, and transparent pricing. You know exactly what you're getting."
+                "title": "Forslag",
+                "description": "Vi gir et detaljert forslag med tydelig omfang, tidslinje og transparente priser. Du vet nøyaktig hva du får."
             },
             {
-                "title": "Delivery",
-                "description": "We execute with regular check-ins, incremental milestones, and continuous communication. No surprises, just results."
+                "title": "Gjennomføring",
+                "description": "Vi utfører med regelmessige sjekker, inkrementelle milepæler og kontinuerlig kommunikasjon. Ingen overraskelser, bare resultater."
             },
             {
                 "title": "Support",
-                "description": "We don't disappear after launch. Ongoing maintenance, monitoring, and optimization ensure long-term success."
+                "description": "Vi forsvinner ikke etter lansering. Pågående vedlikehold, overvåking og optimalisering sikrer langsiktig suksess."
             }
         ]
     },
     "sla": {
-        "title": "Our Service Level Agreement",
+        "title": "Vår Tjenestenivåavtale (SLA)",
         "highlights": [
-            "Response SLA: Within 4 hours for standard issues, 1 hour for critical outages (contracted clients)",
-            "24/7 System Monitoring: Proactive alerts before users notice problems",
-            "Uptime Guarantee: 99.9% availability for managed infrastructure",
-            "Maintenance Windows: Scheduled updates during off-peak hours with advance notice",
-            "Escalation Path: Clear escalation process for unresolved issues"
+            "Respons-SLA: Innen 4 timer for standardproblemer, 1 time for kritiske driftsavbrudd (kontraktsklienter)",
+            "24/7 Systemovervåking: Proaktive varsler før brukere merker problemer",
+            "Oppetidsgaranti: 99,9 % tilgjengelighet for administrert infrastruktur",
+            "Vedlikeholdsvinduer: Planlagte oppdateringer utenom rushtid med forhåndsvarsel",
+            "Eskaleringsvei: Tydelig eskaleringsprosess for uavklarte problemer"
         ]
     },
     "workProcess": {

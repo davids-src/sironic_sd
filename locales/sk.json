@@ -431,34 +431,34 @@
     "cta": "See How We Can Help Your Business"
   },
   "process": {
-    "title": "Our Proven 4-Step Process",
+    "title": "Náš overený 4-krokový proces",
     "steps": [
       {
-        "title": "Discovery",
-        "description": "We listen to your challenges, assess your current setup, and understand your business goals. Free consultation, no obligations."
+        "title": "Analýza",
+        "description": "Vypočujeme si vaše výzvy, posúdime vaše aktuálne nastavenie a pochopíme vaše obchodné ciele. Bezplatná konzultácia, nezáväzne."
       },
       {
-        "title": "Proposal",
-        "description": "We provide a detailed proposal with clear scope, timeline, and transparent pricing. You know exactly what you're getting."
+        "title": "Ponuka",
+        "description": "Poskytneme podrobný návrh s jasným rozsahom, časovým plánom a transparentnými cenami. Presne viete, čo dostávate."
       },
       {
-        "title": "Delivery",
-        "description": "We execute with regular check-ins, incremental milestones, and continuous communication. No surprises, just results."
+        "title": "Realizácia",
+        "description": "Projekt realizujeme s pravidelnými kontrolami, míľnikmi a nepretržitou komunikáciou. Žiadne prekvapenia, len výsledky."
       },
       {
-        "title": "Support",
-        "description": "We don't disappear after launch. Ongoing maintenance, monitoring, and optimization ensure long-term success."
+        "title": "Podpora",
+        "description": "Po spustení nezmizneme. Priebežná údržba, monitorovanie a optimalizácia zabezpečujú dlhodobý úspech."
       }
     ]
   },
   "sla": {
-    "title": "Our Service Level Agreement",
+    "title": "Naša zmluva o úrovni služieb (SLA)",
     "highlights": [
-      "Response SLA: Within 4 hours for standard issues, 1 hour for critical outages (contracted clients)",
-      "24/7 System Monitoring: Proactive alerts before users notice problems",
-      "Uptime Guarantee: 99.9% availability for managed infrastructure",
-      "Maintenance Windows: Scheduled updates during off-peak hours with advance notice",
-      "Escalation Path: Clear escalation process for unresolved issues"
+      "Reakčný čas (SLA): Do 4 hodín pri bežných problémoch, 1 hodina pri kritických výpadkoch (pre zmluvných klientov)",
+      "24/7 Monitorovanie systému: Proaktívne upozornenia skôr, ako si používatelia všimnú problémy",
+      "Garancia dostupnosti: 99,9 % dostupnosť pre spravovanú infraštruktúru",
+      "Údržbové okná: Plánované aktualizácie mimo špičky s vopred zaslaným oznámením",
+      "Eskalačný proces: Jasný postup pre nevyriešené problémy"
     ]
   },
   "workProcess": {
