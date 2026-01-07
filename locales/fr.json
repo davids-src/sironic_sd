@@ -183,7 +183,25 @@
           "IT événementiel",
           "technique conférence",
           "supervision IT"
-        ]
+        ],
+        "ogImage": "/og/onsite-presence-fr.jpg"
+      },
+      "nis2": {
+        "title": "Conformité NIS2 – Conception et Exploitation de Systèmes Conformes NIS2 | SIRONIC",
+        "description": "Conception professionnelle, mise en œuvre et exploitation de systèmes informatiques conformes à NIS2 dans toute l'Europe. Préparation à l'audit, documentation, soutien expert. Demandez un devis !",
+        "keywords": [
+          "conformité NIS2",
+          "préparation NIS2",
+          "mise en œuvre système NIS2",
+          "opérations NIS2",
+          "conformité sécurité information",
+          "support audit NIS2",
+          "cybersécurité Europe",
+          "conseil NIS2",
+          "directive UE cybersécurité",
+          "conformité NIS2 Europe"
+        ],
+        "ogImage": "/og/nis2-fr.jpg"
       }
     }
   },
@@ -248,6 +266,10 @@
     "repair": {
       "title": "Services de Réparation & Maintenance",
       "description": "Réparation rapide et fiable d'ordinateurs, laptops, serveurs et équipements réseau sur site à Székesfehérvár et environs, ou par service postal. Devis transparents avant réparation, récupération de données et suppression de virus. Délai de réparation rapide avec garantie."
+    },
+    "nis2": {
+      "title": "Système IT conforme NIS2",
+      "description": "Conception et exploitation d'infrastructures prêtes pour NIS2. Nous n'effectuons pas d'audits – nous guidons votre entreprise à travers le processus d'audit sur la base des recommandations des consultants, avec une documentation complète. Conformité totale avec la directive européenne sur la cybersécurité, gestion des accès, journalisation, stratégie de sauvegarde et gestion des incidents."
     }
   },
   "mindenCegnek": {
@@ -632,6 +654,16 @@
           "Sensibilisation à la sécurité",
           "Formation utilisation logiciels et appareils",
           "Programmes de développement des compétences"
+        ]
+      },
+      "nis2": {
+        "title": "Système IT conforme NIS2",
+        "description": "Conception et exploitation d'infrastructures prêtes pour NIS2. Conformité totale avec la directive européenne sur la cybersécurité.",
+        "features": [
+          "Conception et mise en œuvre de systèmes conformes NIS2",
+          "Surveillance 24/7 et gestion des incidents",
+          "Documentation et politiques",
+          "Préparation à l'audit et soutien expert"
         ]
       }
     }
@@ -2076,6 +2108,174 @@
       "compliance": {
         "title": "Conformité",
         "description": "Ce document est conforme aux exigences du RGPD de l'UE et convient à la publication sur le site web."
+      }
+    }
+  },
+  "nis2Block": {
+    "home": {
+      "title": "Infrastructure IT Conforme NIS2 – Construction, Exploitation, Préparation Audit",
+      "subtitle": "SIRONIC conçoit, met en œuvre et exploite des systèmes informatiques conformes à NIS2. Nous préparons votre organisation aux audits externes – nous n'effectuons pas d'audits nous-mêmes, mais nous assurons que vous êtes parfaitement préparés.",
+      "benefits": [
+        "Conception et mise en œuvre complètes d'infrastructures conformes NIS2",
+        "Surveillance 24/7, journalisation et gestion des incidents",
+        "Documentation, politiques et procédures pour la préparation à l'audit",
+        "Soutien expert tout au long du processus d'audit externe",
+        "Prestation de services au niveau de l'UE avec conformité RGPD"
+      ],
+      "cards": {
+        "implementation": {
+          "title": "Conception et Mise en Œuvre Système",
+          "description": "Nous concevons et construisons des infrastructures informatiques conformes à NIS2 à partir de zéro, en garantissant le respect de toutes les exigences techniques et organisationnelles."
+        },
+        "operation": {
+          "title": "Opérations et Surveillance",
+          "description": "Surveillance système 24/7, journalisation, gestion des sauvegardes et réponse aux incidents pour maintenir une conformité continue."
+        },
+        "auditSupport": {
+          "title": "Préparation et Support Audit",
+          "description": "Nous préparons toute la documentation, les politiques et les preuves nécessaires pour les audits externes. Nous vous guidons à travers le processus, mais les audits sont effectués par des auditeurs externes certifiés."
+        }
+      },
+      "cta": {
+        "primary": "Demander un Devis",
+        "secondary": "En Savoir Plus"
+      }
+    }
+  },
+  "nis2Page": {
+    "meta": {
+      "title": "Conformité NIS2 – Conception et Exploitation de Systèmes Conformes NIS2 | SIRONIC",
+      "description": "Conception professionnelle, mise en œuvre et exploitation de systèmes informatiques conformes à NIS2 dans toute l'Europe. Préparation à l'audit, documentation, soutien expert. Demandez un devis !",
+      "keywords": [
+        "conformité NIS2",
+        "préparation NIS2",
+        "mise en œuvre système NIS2",
+        "opérations NIS2",
+        "conformité sécurité information",
+        "support audit NIS2",
+        "cybersécurité Europe",
+        "conseil NIS2",
+        "directive UE cybersécurité",
+        "conformité NIS2 Europe"
+      ]
+    },
+    "hero": {
+      "badge": "Cybersécurité UE",
+      "title": "Systèmes IT Conformes NIS2 – Conception, Mise en Œuvre, Exploitation",
+      "subtitle": "SIRONIC construit et exploite des infrastructures conformes NIS2. Nous préparons votre organisation aux audits externes avec une documentation complète et des conseils d'experts.",
+      "cta": {
+        "primary": "Demander une Consultation Gratuite",
+        "secondary": "Contactez-nous"
+      }
+    },
+    "aiSummary": "SIRONIC offre des services complets de conformité NIS2 pour les entreprises européennes : nous concevons, mettons en œuvre et exploitons des infrastructures informatiques conformes à NIS2, préparons toute la documentation et les politiques nécessaires et guidons les organisations à travers des audits externes effectués par des auditeurs certifiés. Nos services incluent une surveillance 24/7, la gestion des incidents, des stratégies de sauvegarde, le contrôle d'accès et une conformité RGPD totale dans toute l'UE.",
+    "whatWeDo": {
+      "title": "Comment SIRONIC Vous Aide à Atteindre la Conformité NIS2",
+      "subtitle": "Nous nous occupons de la mise en œuvre technique et des opérations – vous vous concentrez sur votre activité",
+      "pillars": [
+        {
+          "title": "Construction d'Infrastructure Conforme NIS2",
+          "description": "Nous concevons et mettons en œuvre des systèmes informatiques répondant à toutes les exigences techniques NIS2 : segmentation réseau, contrôles d'accès, chiffrement, journalisation, surveillance et systèmes de sauvegarde."
+        },
+        {
+          "title": "Opérations et Surveillance 24/7",
+          "description": "Surveillance continue du système, détection et réponse aux incidents, gestion des journaux, vérification des sauvegardes et mises à jour de sécurité pour maintenir une conformité continue."
+        },
+        {
+          "title": "Préparation aux Audits Externes",
+          "description": "Nous créons toute la documentation, politiques, procédures et preuves nécessaires. Nous vous guidons à travers le processus d'audit, mais les audits sont effectués par des auditeurs externes certifiés."
+        }
+      ]
+    },
+    "whatWeDoNot": {
+      "title": "Important : Nous N'EFFECTUONS PAS d'Audits",
+      "description": "SIRONIC conçoit, construit et exploite des systèmes conformes à NIS2. Nous préparons votre organisation aux audits externes avec une documentation complète et un soutien expert. Cependant, nous n'effectuons pas les audits nous-mêmes – ceux-ci doivent être réalisés par des auditeurs indépendants et certifiés selon les réglementations NIS2."
+    },
+    "deliverables": {
+      "title": "Ce Que Vous Obtenez",
+      "subtitle": "Package complet de conformité NIS2",
+      "items": [
+        "Conception et mise en œuvre d'infrastructure IT conforme NIS2",
+        "Système de surveillance et de réponse aux incidents 24/7",
+        "Package complet de documentation (politiques, procédures, diagrammes)",
+        "Système de contrôle d'accès et gestion des identités",
+        "Journalisation centralisée et intégration SIEM",
+        "Solution de sauvegarde automatisée et reprise après sinistre",
+        "Formation de sensibilisation à la sécurité pour le personnel",
+        "Plan et procédures de réponse aux incidents",
+        "Liste de contrôle de préparation à l'audit et collecte de preuves",
+        "Support de conformité continu et mises à jour"
+      ]
+    },
+    "timeline": {
+      "title": "Calendrier de Mise en Œuvre",
+      "subtitle": "Phases typiques d'un projet de conformité NIS2",
+      "phases": [
+        {
+          "title": "Phase 1 : Évaluation et Planification",
+          "duration": "2-4 semaines",
+          "description": "Analyse des écarts, évaluation de la conformité, revue de l'infrastructure et plan de mise en œuvre détaillé avec calendrier et budget."
+        },
+        {
+          "title": "Phase 2 : Mise en Œuvre de l'Infrastructure",
+          "duration": "6-12 semaines",
+          "description": "Mise en œuvre des systèmes conformes NIS2 : surveillance, journalisation, contrôles d'accès, chiffrement, solutions de sauvegarde et segmentation réseau."
+        },
+        {
+          "title": "Phase 3 : Documentation et Formation",
+          "duration": "3-6 semaines",
+          "description": "Création de toutes les politiques, procédures et documentations nécessaires. Réalisation de la formation du personnel sur la sensibilisation à la sécurité et la réponse aux incidents."
+        },
+        {
+          "title": "Phase 4 : Préparation et Support Audit",
+          "duration": "2-4 semaines",
+          "description": "Vérification finale de la conformité, collecte de preuves, préparation à l'audit et soutien pendant le processus d'audit externe."
+        }
+      ]
+    },
+    "faq": {
+      "title": "Foire Aux Questions",
+      "items": [
+        {
+          "question": "Qu'est-ce que NIS2 et à qui cela s'applique-t-il ?",
+          "answer": "NIS2 (Directive sur la Sécurité des Réseaux et de l'Information 2) est une réglementation de cybersécurité de l'UE s'appliquant aux entités essentielles et importantes dans des secteurs critiques. Elle exige des mesures de sécurité spécifiques, le signalement des incidents et des audits réguliers."
+        },
+        {
+          "question": "SIRONIC effectue-t-il des audits NIS2 ?",
+          "answer": "Non. SIRONIC conçoit, construit et exploite des systèmes informatiques conformes à NIS2. Nous préparons votre organisation aux audits externes avec une documentation complète et des conseils d'experts. Cependant, les audits eux-mêmes doivent être effectués par des auditeurs indépendants et certifiés selon les réglementations NIS2."
+        },
+        {
+          "question": "Combien de temps prend la mise en œuvre NIS2 ?",
+          "answer": "Généralement 3-6 mois, selon votre infrastructure actuelle et les écarts de conformité. Après une évaluation initiale, nous fournissons un calendrier détaillé."
+        },
+        {
+          "question": "Que se passe-t-il si nous ne respectons pas NIS2 ?",
+          "answer": "La non-conformité peut entraîner des amendes importantes (jusqu'à 10 millions € ou 2% du chiffre d'affaires mondial), des restrictions opérationnelles et des dommages à la réputation. NIS2 est obligatoire pour les entités couvertes."
+        },
+        {
+          "question": "Pouvez-vous aider à la conformité continue après la mise en œuvre initiale ?",
+          "answer": "Absolument. Nous offrons un soutien continu à la conformité, incluant la surveillance 24/7, la réponse aux incidents, les mises à jour de sécurité régulières, les mises à jour de documentation et la préparation aux audits périodiques."
+        },
+        {
+          "question": "Travaillez-vous avec des entreprises hors de Hongrie ?",
+          "answer": "Oui. Nous fournissons des services de conformité NIS2 dans toute l'UE. Toutes nos solutions sont conçues pour un déploiement au niveau de l'UE avec conformité RGPD et support multilingue."
+        },
+        {
+          "question": "Qu'est-ce qui est inclus dans la préparation à l'audit ?",
+          "answer": "Nous créons toute la documentation nécessaire (politiques, procédures, diagrammes réseau), collectons les preuves de conformité, préparons le personnel aux entretiens et fournissons des conseils d'experts tout au long du processus d'audit externe."
+        },
+        {
+          "question": "Combien coûte la conformité NIS2 ?",
+          "answer": "Les coûts varient selon la taille et la complexité de votre infrastructure. Après une évaluation initiale gratuite, nous fournissons un devis détaillé. Les projets typiques vont de 15 000 € à 50 000 €+ pour la mise en œuvre initiale plus le support continu."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Prêt à Atteindre la Conformité NIS2 ?",
+      "subtitle": "Demandez une consultation gratuite et évaluons ensemble vos besoins de conformité.",
+      "cta": {
+        "primary": "Demander une Évaluation Gratuite",
+        "secondary": "Contactez-nous"
       }
     }
   }

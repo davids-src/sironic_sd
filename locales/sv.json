@@ -186,7 +186,25 @@
                     "event-IT",
                     "konferensteknik",
                     "IT-övervakning"
-                ]
+                ],
+                "ogImage": "/og/onsite-presence-sv.jpg"
+            },
+            "nis2": {
+                "title": "NIS2-efterlevnad – Design och drift av NIS2-kompatibla system | SIRONIC",
+                "description": "Professionell design, implementering och drift av NIS2-kompatibla IT-system i hela Europa. Revisionsförberedelser, dokumentation, expertstöd. Begär offert!",
+                "keywords": [
+                    "NIS2-efterlevnad",
+                    "NIS2-förberedelse",
+                    "NIS2-systemimplementering",
+                    "NIS2-drift",
+                    "informationssäkerhetsefterlevnad",
+                    "NIS2-revisionsstöd",
+                    "cybersäkerhet Europa",
+                    "NIS2-rådgivning",
+                    "EU-cybersäkerhetsdirektiv",
+                    "NIS2-efterlevnad Europa"
+                ],
+                "ogImage": "/og/nis2-sv.jpg"
             }
         }
     },
@@ -251,6 +269,10 @@
         "repair": {
             "title": "Service & Reparation",
             "description": "Snabb och pålitlig reparation av datorer, bärbara datorer, servrar och nätverksutrustning på plats i Székesfehérvár och omgivningar, eller via post. Transparenta offerter före reparation, dataåterställning och virusborttagning. Snabb reparations tid med garanti."
+        },
+        "nis2": {
+            "title": "NIS2-kompatibelt IT-system",
+            "description": "Design och drift av NIS2-redo infrastruktur. Vi utför inte revisioner – vi guidar ditt företag genom revisionsprocessen baserat på konsulters rekommendationer, med fullständig dokumentation. Full efterlevnad av EU:s cybersäkerhetsdirektiv, åtkomsthantering, loggning, backupstrategi och incidenthantering."
         }
     },
     "customDevelopment": {
@@ -532,7 +554,7 @@
             "submit": "Begär gratis IT-konsultation!",
             "submitting": "Skickar...",
             "required": "*",
-            "success": "Ditt meddelande har skickats framgångskt! Vi kontaktar dig strax.",
+            "success": "Ditt meddelande har skickats framgångsrikt! Vi kontaktar dig strax.",
             "error": "Ett fel uppstod när ditt meddelande skickades",
             "noscript": "Du kan också skicka ditt meddelande via e-post:",
             "options": {
@@ -660,6 +682,16 @@
                     "Säkerhetsmedvetenhetsträning",
                     "Användarutbildning för programvara och enheter",
                     "Företagskunskapsutvecklingsprogram"
+                ]
+            },
+            "nis2": {
+                "title": "NIS2-kompatibelt IT-system",
+                "description": "Design och drift av NIS2-redo infrastruktur. Full efterlevnad av EU:s cybersäkerhetsdirektiv.",
+                "features": [
+                    "Design och implementering av NIS2-kompatibla system",
+                    "24/7 övervakning och incidenthantering",
+                    "Dokumentation och policyer",
+                    "Revisionsförberedelse och expertstöd"
                 ]
             }
         }
@@ -2080,6 +2112,174 @@
             "compliance": {
                 "title": "Efterlevnad",
                 "description": "Detta dokument följer EU:s GDPR-krav och är lämpligt för publicering på webbplatsen."
+            }
+        }
+    },
+    "nis2Block": {
+        "home": {
+            "title": "NIS2-kompatibel IT-infrastruktur – Byggande, Drift, Revisionsförberedelse",
+            "subtitle": "SIRONIC designar, implementerar och driver NIS2-kompatibla IT-system. Vi förbereder din organisation för externa revisioner – vi utför inte revisioner själva, men vi ser till att du är perfekt förberedd.",
+            "benefits": [
+                "Komplett design och implementering av NIS2-kompatibel infrastruktur",
+                "24/7 övervakning, loggning och incidenthantering",
+                "Dokumentation, policyer och procedurer för revisionsförberedelser",
+                "Expertstöd under hela den externa revisionsprocessen",
+                "Tjänsteleverans på EU-nivå med GDPR-efterlevnad"
+            ],
+            "cards": {
+                "implementation": {
+                    "title": "Systemdesign och implementering",
+                    "description": "Vi designar och bygger NIS2-kompatibla IT-infrastrukturer från grunden, vilket garanterar att alla tekniska och organisatoriska krav uppfylls."
+                },
+                "operation": {
+                    "title": "Drift och övervakning",
+                    "description": "24/7 systemövervakning, loggning, backuphantering och incidentrespons för att upprätthålla kontinuerlig efterlevnad."
+                },
+                "auditSupport": {
+                    "title": "Revisionsförberedelse och stöd",
+                    "description": "Vi förbereder all nödvändig dokumentation, policyer och bevis för externa revisioner. Vi guidar dig genom processen, men revisioner utförs av certifierade externa revisorer."
+                }
+            },
+            "cta": {
+                "primary": "Begär offert",
+                "secondary": "Läs mer"
+            }
+        }
+    },
+    "nis2Page": {
+        "meta": {
+            "title": "NIS2-efterlevnad – Design och drift av NIS2-kompatibla system | SIRONIC",
+            "description": "Professionell design, implementering och drift av NIS2-kompatibla IT-system i hela Europa. Revisionsförberedelser, dokumentation, expertstöd. Begär offert!",
+            "keywords": [
+                "NIS2-efterlevnad",
+                "NIS2-förberedelse",
+                "NIS2-systemimplementering",
+                "NIS2-drift",
+                "informationssäkerhetsefterlevnad",
+                "NIS2-revisionsstöd",
+                "cybersäkerhet Europa",
+                "NIS2-rådgivning",
+                "EU-cybersäkerhetsdirektiv",
+                "NIS2-efterlevnad Europa"
+            ]
+        },
+        "hero": {
+            "badge": "EU Cybersäkerhet",
+            "title": "NIS2-kompatibla IT-system – Design, Implementering, Drift",
+            "subtitle": "SIRONIC bygger och driver NIS2-kompatibla infrastrukturer. Vi förbereder din organisation för externa revisioner med omfattande dokumentation och expertvägledning.",
+            "cta": {
+                "primary": "Begär gratis konsultation",
+                "secondary": "Kontakta oss"
+            }
+        },
+        "aiSummary": "SIRONIC erbjuder omfattande NIS2-efterlevnadstjänster för europeiska företag: vi designar, implementerar och driver NIS2-kompatibla IT-infrastrukturer, förbereder all nödvändig dokumentation och policyer, och guidar organisationer genom externa revisioner utförda av certifierade revisorer. Våra tjänster inkluderar 24/7 övervakning, incidenthantering, backupstrategier, åtkomstkontroll och full GDPR-efterlevnad i hela EU.",
+        "whatWeDo": {
+            "title": "Hur SIRONIC hjälper dig att uppnå NIS2-efterlevnad",
+            "subtitle": "Vi tar hand om teknisk implementering och drift – du fokuserar på din verksamhet",
+            "pillars": [
+                {
+                    "title": "Byggande av NIS2-kompatibel infrastruktur",
+                    "description": "Vi designar och implementerar IT-system som uppfyller alla tekniska NIS2-krav: nätverkssegmentering, åtkomstkontroller, kryptering, loggning, övervakning och backupsystem."
+                },
+                {
+                    "title": "24/7 Drift och övervakning",
+                    "description": "Kontinuerlig systemövervakning, incidentdetektering och respons, logghantering, backupverifiering och säkerhetsuppdateringar för att upprätthålla löpande efterlevnad."
+                },
+                {
+                    "title": "Förberedelse för externa revisioner",
+                    "description": "Vi skapar all nödvändig dokumentation, policyer, procedurer och bevis. Vi guidar dig genom revisionsprocessen, men revisioner utförs av certifierade externa revisorer."
+                }
+            ]
+        },
+        "whatWeDoNot": {
+            "title": "Viktigt: Vi utför INTE revisioner",
+            "description": "SIRONIC designar, bygger och driver NIS2-kompatibla system. Vi förbereder din organisation för externa revisioner med komplett dokumentation och expertstöd. Vi utför dock inte revisioner själva – dessa måste utföras av oberoende och certifierade revisorer enligt NIS2-reglerna."
+        },
+        "deliverables": {
+            "title": "Vad du får",
+            "subtitle": "Komplett NIS2-efterlevnadspaket",
+            "items": [
+                "Design och implementering av NIS2-kompatibel IT-infrastruktur",
+                "24/7 övervaknings- och incidentresponssystem",
+                "Komplett dokumentationspaket (policyer, procedurer, diagram)",
+                "Åtkomstkontroll och identitetshanteringssystem",
+                "Centraliserad loggning och SIEM-integration",
+                "Automatiserad backuplösning och katastrofåterställning",
+                "Säkerhetsmedvetenhetsutbildning för personal",
+                "Plan och procedurer för incidentrespons",
+                "Checklista för revisionsförberedelse och bevisinsamling",
+                "Löpande efterlevnadsstöd och uppdateringar"
+            ]
+        },
+        "timeline": {
+            "title": "Implementeringstidslinje",
+            "subtitle": "Typiska faser i ett NIS2-efterlevnadsprojekt",
+            "phases": [
+                {
+                    "title": "Fas 1: Utvärdering och Planering",
+                    "duration": "2-4 veckor",
+                    "description": "Gapanalys, efterlevnadsbedömning, infrastrukturöversyn och detaljerad implementeringsplan med tidslinje och budget."
+                },
+                {
+                    "title": "Fas 2: Infrastruktur-implementering",
+                    "duration": "6-12 veckor",
+                    "description": "Implementering av NIS2-kompatibla system: övervakning, loggning, åtkomstkontroller, kryptering, backuplösningar och nätverkssegmentering."
+                },
+                {
+                    "title": "Fas 3: Dokumentation och Utbildning",
+                    "duration": "3-6 veckor",
+                    "description": "Skapande av alla nödvändiga policyer, procedurer och dokumentation. Genomförande av personalsäkerhetsutbildning och incidentresponsövningar."
+                },
+                {
+                    "title": "Fas 4: Revisionsförberedelse och Stöd",
+                    "duration": "2-4 veckor",
+                    "description": "Slutlig efterlevnadskontroll, bevisinsamling, revisionsförberedelse och stöd under den externa revisionsprocessen."
+                }
+            ]
+        },
+        "faq": {
+            "title": "Vanliga frågor",
+            "items": [
+                {
+                    "question": "Vad är NIS2 och vem gäller det?",
+                    "answer": "NIS2 (Direktivet om nät- och informationssäkerhet 2) är en EU-förordning om cybersäkerhet som gäller för väsentliga och viktiga enheter inom kritiska sektorer. Det kräver specifika säkerhetsåtgärder, incidentrapportering och regelbundna revisioner."
+                },
+                {
+                    "question": "Utför SIRONIC NIS2-revisioner?",
+                    "answer": "Nej. SIRONIC designar, bygger och driver NIS2-kompatibla IT-system. Vi förbereder din organisation för externa revisioner med komplett dokumentation och expertvägledning. Själva revisionerna måste dock utföras av oberoende och certifierade revisorer enligt NIS2-reglerna."
+                },
+                {
+                    "question": "Hur lång tid tar NIS2-implementering?",
+                    "answer": "Vanligtvis 3-6 månader, beroende på din nuvarande infrastruktur och efterlevnadsgap. Efter en inledande utvärdering ger vi en detaljerad tidslinje."
+                },
+                {
+                    "question": "Vad händer om vi inte följer NIS2?",
+                    "answer": "Bristande efterlevnad kan leda till betydande böter (upp till 10 miljoner euro eller 2 % av den globala omsättningen), operativa begränsningar och ryktesskador. NIS2 är obligatoriskt för omfattade enheter."
+                },
+                {
+                    "question": "Kan ni hjälpa till med löpande efterlevnad efter initial implementering?",
+                    "answer": "Absolut. Vi erbjuder löpande efterlevnadsstöd, inklusive 24/7 övervakning, incidenthantering, regelbundna säkerhetsuppdateringar, dokumentationsuppdateringar och förberedelse för periodiska revisioner."
+                },
+                {
+                    "question": "Arbetar ni med företag utanför Ungern?",
+                    "answer": "Ja. Vi tillhandahåller NIS2-efterlevnadstjänster i hela EU. Alla våra lösningar är designade för implementering på EU-nivå med GDPR-efterlevnad och flerspråkigt stöd."
+                },
+                {
+                    "question": "Vad ingår i revisionsförberedelserna?",
+                    "answer": "Vi skapar all nödvändig dokumentation (policyer, procedurer, nätverksdiagram), samlar in bevis på efterlevnad, förbereder personal för intervjuer och ger expertvägledning under hela den externa revisionsprocessen."
+                },
+                {
+                    "question": "Hur mycket kostar NIS2-efterlevnad?",
+                    "answer": "Kostnaderna varierar beroende på storleken och komplexiteten hos din infrastruktur. Efter en inledande gratis utvärdering ger vi en detaljerad offert. Typiska projekt varierar från 15 000 € till 50 000 €+ för initial implementering plus löpande stöd."
+                }
+            ]
+        },
+        "finalCta": {
+            "title": "Redo att uppnå NIS2-efterlevnad?",
+            "subtitle": "Begär en gratis konsultation och låt oss utvärdera dina efterlevnadsbehov tillsammans.",
+            "cta": {
+                "primary": "Begär gratis utvärdering",
+                "secondary": "Kontakta oss"
             }
         }
     }

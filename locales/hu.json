@@ -196,6 +196,25 @@
           "event IT support Hungary"
         ],
         "ogImage": "/og/onsite-presence-hu.jpg"
+      },
+      "nis2": {
+        "title": "NIS2 Megfelelés – NIS2-kompatibilis Rendszer Kiépítés és Üzemeltetés | SIRONIC",
+        "description": "Professzionális NIS2-kompatibilis IT rendszer tervezés, kiépítés és üzemeltetés Magyarországon és EU-szerte. Audit-felkészítés, dokumentáció, szakértői támogatás. Kérj ajánlatot!",
+        "keywords": [
+          "NIS2 megfelelés",
+          "NIS2 felkészítés",
+          "NIS2 rendszer kiépítés",
+          "NIS2 üzemeltetés",
+          "információbiztonsági megfelelés",
+          "NIS2 audit támogatás",
+          "kiberbiztonság Magyarország",
+          "NIS2 tanácsadás",
+          "EU kiberbiztonsági irányelv",
+          "NIS2 compliance Hungary",
+          "Budapest",
+          "Magyarország"
+        ],
+        "ogImage": "/og/nis2-hu.jpg"
       }
     }
   },
@@ -312,6 +331,10 @@
     "hosting": {
       "title": "Hosting és felhőmegoldások",
       "description": "Stabil, gyors és biztonságos tárhelymegoldások weboldalakhoz, levelezéshez, fájlmegosztáshoz és adatmentéshez. Webtárhely, dedikált szerver bérlés, felhő alapú mentés és magánfelhő szolgáltatás 99,9%-os rendelkezésre állással."
+    },
+    "nis2": {
+      "title": "NIS2-kompatibilis IT rendszer",
+      "description": "NIS2-re felkészített infrastruktúra kiépítése és üzemeltetése. Nem auditálunk – végigvisszük a céget az auditon, tanácsadói ajánlások alapján, dokumentáltan. Teljes körű megfelelés az EU kiberbiztonsági irányelvnek, hozzáférés-kezelés, naplózás, mentési stratégia és incidenskezelés."
     },
     "repair": {
       "title": "Szerviz és javítás",
@@ -551,8 +574,8 @@
         "answer": "Természetesen. Egyedi, reszponzív weboldalakat fejlesztünk modern technológiákkal (Next.js, React, Tailwind), és gondoskodunk róla, hogy az oldal gyors, biztonságos és keresőoptimalizált legyen."
       },
       {
-        "question": "Mi az a CRM Pro, és hogyan segíti a vállalkozásomat?",
-        "answer": "A CRM Pro egy egyedi fejlesztésű ügyfélkezelő rendszer, amely átláthatóvá teszi az értékesítési folyamatokat, automatizálja az adminisztrációt és integrálható meglévő rendszerekkel. Kisebb cégek számára is elérhető árkategóriában."
+        "question": "Mi a NIS2, és hogyan segít a SIRONIC a megfelelésben?",
+        "answer": "A NIS2 az EU kiberbiztonsági irányelve, amely a szervezetek információbiztonsági követelményeit erősíti. Mi NIS2-kompatibilis rendszert tervezünk, kiépítünk és üzemeltetünk, majd a tanácsadói javaslatok alapján végigkísérjük a céget az audit-felkészítésen és az audit folyamatán – dokumentáltan, átláthatóan. Nem mi végezzük az auditot, hanem támogatjuk a szervezetet a külső auditorok által vezetett folyamatban."
       },
       {
         "question": "Milyen biztonsági intézkedéseket alkalmaznak?",
@@ -719,6 +742,16 @@
           "Biztonságtudatossági tréningek",
           "Szoftver- és eszközhasználati képzések",
           "Vállalati tudásfejlesztési programok"
+        ]
+      },
+      "nis2": {
+        "title": "NIS2-kompatibilis IT rendszer",
+        "description": "NIS2-re felkészített infrastruktúra kiépítése, üzemeltetése és audit-támogatás. Teljes körű megfelelés az EU kiberbiztonsági irányelvnek.",
+        "features": [
+          "NIS2-kompatibilis rendszer tervezés és kiépítés",
+          "24/7 monitoring és incidenskezelés",
+          "Dokumentáció és szabályzatok",
+          "Audit-felkészítés és szakértői támogatás"
         ]
       }
     }
@@ -2153,6 +2186,279 @@
         "title": "Megfelelőség",
         "description": "Jelen dokumentum megfelel az EU GDPR követelményeinek, és weboldalon történő közzétételre alkalmas."
       }
+    }
+  },
+  "nis2Block": {
+    "home": {
+      "title": "NIS2-kompatibilis IT rendszer – Biztonságos megfelelés az EU irányelvnek",
+      "subtitle": "A SIRONIC NIS2-re felkészített infrastruktúrát épít és üzemeltet, majd szakértői támogatással végigkíséri cégét a külső audit folyamatán. Nem mi auditálunk – mi biztosítjuk, hogy rendszerei megfeleljenek, és Ön magabiztosan álljon az ellenőrzés elé.",
+      "benefits": [
+        "Teljes körű NIS2-kompatibilis rendszer tervezése és kiépítése",
+        "Folyamatos üzemeltetés, monitoring és incidenskezelés",
+        "Dokumentált folyamatok és szabályzatok az audit-felkészítéshez",
+        "Szakértői támogatás a külső auditorokkal való együttműködésben",
+        "EU-szintű megfelelés és best practice alkalmazása"
+      ],
+      "cards": {
+        "implementation": {
+          "title": "Rendszer kiépítés",
+          "description": "NIS2-kompatibilis infrastruktúra tervezése és telepítése: hozzáférés-kezelés, titkosítás, mentési stratégia, hálózati szegmentálás."
+        },
+        "operation": {
+          "title": "Üzemeltetés és monitoring",
+          "description": "24/7 rendszerfelügyelet, automatikus riasztások, naplózás, biztonsági frissítések és proaktív karbantartás."
+        },
+        "auditSupport": {
+          "title": "Audit-támogatás",
+          "description": "Dokumentáció, szabályzatok, audit-felkészítés és szakértői kíséret a külső auditorok által vezetett folyamatban."
+        }
+      },
+      "cta": {
+        "primary": "Kérj ajánlatot",
+        "secondary": "További információk"
+      }
+    }
+  },
+  "nis2Page": {
+    "meta": {
+      "title": "NIS2 Megfelelés – NIS2-kompatibilis Rendszer Kiépítés és Üzemeltetés | SIRONIC",
+      "description": "Professzionális NIS2-kompatibilis IT rendszer tervezés, kiépítés és üzemeltetés Magyarországon és EU-szerte. Audit-felkészítés, dokumentáció, szakértői támogatás. Kérj ajánlatot!",
+      "keywords": [
+        "NIS2 megfelelés",
+        "NIS2 felkészítés",
+        "NIS2 rendszer kiépítés",
+        "NIS2 üzemeltetés",
+        "információbiztonsági megfelelés",
+        "NIS2 audit támogatás",
+        "kiberbiztonság Magyarország",
+        "NIS2 tanácsadás",
+        "EU kiberbiztonsági irányelv",
+        "NIS2 compliance Hungary"
+      ],
+      "ogImage": "/og/nis2-hu.jpg"
+    },
+    "hero": {
+      "badge": "EU Kiberbiztonsági Megfelelés",
+      "title": "NIS2-kompatibilis IT rendszer kiépítés és üzemeltetés",
+      "subtitle": "Professzionális NIS2-felkészítés: rendszertervezés, implementáció, üzemeltetés és audit-támogatás. Mi nem auditálunk – mi biztosítjuk, hogy rendszerei megfeleljenek, és Ön magabiztosan álljon az ellenőrzés elé.",
+      "cta": {
+        "primary": "Kérj ingyenes konzultációt",
+        "secondary": "Kapcsolatfelvétel"
+      }
+    },
+    "aiSummary": "A SIRONIC NIS2-kompatibilis IT infrastruktúrát tervez, épít és üzemeltet, majd szakértői támogatással végigkíséri a szervezetet a külső audit folyamatán. Szolgáltatásaink: rendszertervezés, hozzáférés-kezelés, naplózás, mentési stratégia, incidenskezelés, dokumentáció és audit-felkészítés.",
+    "whatWeDo": {
+      "title": "Mit csinálunk?",
+      "subtitle": "Három pillér: Építés, Üzemeltetés, Audit-támogatás",
+      "pillars": [
+        {
+          "title": "NIS2-kompatibilis rendszer kiépítése",
+          "description": "Megtervezzük és kiépítjük az Ön szervezetének NIS2-kompatibilis IT infrastruktúráját: hozzáférés-kezelés, titkosítás, hálózati szegmentálás, mentési stratégia, naplózás és monitoring rendszerek. Minden elem az EU best practice-ek szerint."
+        },
+        {
+          "title": "Folyamatos üzemeltetés és monitoring",
+          "description": "24/7 rendszerfelügyelet, automatikus riasztások, biztonsági frissítések, incidenskezelés és proaktív karbantartás. Biztosítjuk, hogy rendszerei mindig megfeleljenek a NIS2 követelményeinek."
+        },
+        {
+          "title": "Audit-felkészítés és szakértői támogatás",
+          "description": "Dokumentáljuk a folyamatokat, elkészítjük a szükséges szabályzatokat, és végigkísérjük Önt az audit folyamatán. Tanácsadói ajánlások alapján dolgozunk, és támogatjuk a külső auditorokkal való együttműködést."
+        }
+      ]
+    },
+    "whatWeDoNot": {
+      "title": "Mit NEM csinálunk?",
+      "description": "Fontos tisztázni: a SIRONIC **nem végez auditot**. Mi NIS2-kompatibilis rendszereket tervezünk, építünk és üzemeltetünk, valamint támogatjuk a szervezetet az audit-felkészítésben és a külső auditorokkal való együttműködésben. Az audit maga külső, független auditorok vagy tanácsadó cégek feladata."
+    },
+    "deliverables": {
+      "title": "Mit kap?",
+      "subtitle": "Teljes körű NIS2-felkészítés, dokumentáltan",
+      "items": [
+        "NIS2-kompatibilis IT infrastruktúra tervezése és kiépítése",
+        "Hozzáférés-kezelési rendszer (role-based access control)",
+        "Automatikus naplózás és monitoring (SIEM integráció lehetőséggel)",
+        "Mentési és disaster recovery stratégia",
+        "Hálózati szegmentálás és tűzfal konfiguráció",
+        "Incidenskezelési folyamat és dokumentáció",
+        "Biztonsági szabályzatok (Information Security Policy, Incident Response Plan)",
+        "Audit-felkészítő dokumentáció és checklist",
+        "Szakértői támogatás az audit folyamatában",
+        "Folyamatos üzemeltetés és karbantartás"
+      ]
+    },
+    "timeline": {
+      "title": "Hogyan zajlik a projekt?",
+      "subtitle": "Négy fázis a teljes NIS2-felkészítéshez",
+      "phases": [
+        {
+          "title": "1. Felmérés (Discovery)",
+          "duration": "1-2 hét",
+          "description": "Jelenlegi IT infrastruktúra felmérése, gap analysis, követelmények tisztázása, projekt terv elkészítése."
+        },
+        {
+          "title": "2. Implementáció",
+          "duration": "4-8 hét",
+          "description": "NIS2-kompatibilis rendszer kiépítése: hozzáférés-kezelés, naplózás, mentés, hálózati szegmentálás, monitoring, dokumentáció."
+        },
+        {
+          "title": "3. Stabilizáció és tesztelés",
+          "duration": "2-4 hét",
+          "description": "Rendszer finomhangolása, tesztelés, munkatársak képzése, folyamatok begyakorlása, dokumentáció véglegesítése."
+        },
+        {
+          "title": "4. Audit-támogatás",
+          "duration": "Folyamatos",
+          "description": "Audit-felkészítés, dokumentáció átadása, szakértői támogatás a külső auditorokkal való együttműködésben, folyamatos üzemeltetés."
+        }
+      ]
+    },
+    "faq": {
+      "title": "Gyakran ismételt kérdések",
+      "items": [
+        {
+          "question": "Mi a NIS2, és kire vonatkozik?",
+          "answer": "A NIS2 (Network and Information Security Directive 2) az EU kiberbiztonsági irányelve, amely 2024-től kötelező a kritikus infrastruktúrát üzemeltető és bizonyos méretű szervezetek számára. Célja az információbiztonsági követelmények egységesítése és erősítése az EU-ban."
+        },
+        {
+          "question": "Hogyan segít a SIRONIC a NIS2-megfelelésben?",
+          "answer": "Mi NIS2-kompatibilis IT rendszert tervezünk, kiépítünk és üzemeltetünk, majd szakértői támogatással végigkísérjük a szervezetet az audit-felkészítésen és a külső auditorokkal való együttműködésben. Nem mi végezzük az auditot, hanem biztosítjuk, hogy rendszerei megfeleljenek."
+        },
+        {
+          "question": "Mennyi időbe telik a NIS2-felkészítés?",
+          "answer": "Általában 8-14 hét a teljes implementáció (felmérés, kiépítés, stabilizáció). Az audit-támogatás folyamatos, és a külső audit időpontjától függ."
+        },
+        {
+          "question": "Milyen dokumentációt kapok?",
+          "answer": "Teljes körű dokumentációt: Information Security Policy, Incident Response Plan, Access Control Policy, Backup Strategy, Network Diagram, Audit Checklist és minden szükséges szabályzatot az audit-felkészítéshez."
+        },
+        {
+          "question": "Ki végzi az auditot?",
+          "answer": "Az auditot külső, független auditorok vagy tanácsadó cégek végzik. Mi nem auditálunk, hanem felkészítjük a rendszert és támogatjuk Önt az audit folyamatában."
+        },
+        {
+          "question": "Mennyibe kerül a NIS2-felkészítés?",
+          "answer": "Az ár a szervezet méretétől, jelenlegi infrastruktúrától és követelményektől függ. Általában €3,000-€15,000 az implementáció, és €500-€2,000/hó az üzemeltetés. Kérjen ingyenes konzultációt pontos árajánlatért!"
+        },
+        {
+          "question": "Működik ez távoli szervezeteknél is?",
+          "answer": "Igen! A legtöbb munkát távolról végezzük, de szükség esetén helyszíni kiszállást is vállalunk Magyarországon és az EU-ban."
+        },
+        {
+          "question": "Mi történik az audit után?",
+          "answer": "Folyamatos üzemeltetés és monitoring biztosítja, hogy rendszerei mindig megfeleljenek. Ha az auditorok javaslatokat tesznek, azokat beépítjük és dokumentáljuk."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Készen áll a NIS2-megfelelésre?",
+      "subtitle": "Kérjen ingyenes konzultációt, és tervezze meg velünk a NIS2-felkészítést!",
+      "cta": {
+        "primary": "Ingyenes konzultáció",
+        "secondary": "Kapcsolatfelvétel"
+      }
+    }
+  },
+  "globalBlocks": {
+    "process": {
+      "title": "Bevált 4 lépéses folyamatunk",
+      "steps": [
+        {
+          "title": "Felmérés",
+          "description": "Meghallgatjuk a kihívásait, felmérjük a jelenlegi rendszert, és megértjük az üzleti céljait. Ingyenes konzultáció, kötelezettségek nélkül."
+        },
+        {
+          "title": "Ajánlat",
+          "description": "Részletes ajánlatot adunk világos hatókörrel, határidővel és átlátható árazással. Pontosan tudja, mit kap."
+        },
+        {
+          "title": "Megvalósítás",
+          "description": "Rendszeres egyeztetésekkel, fokozatos mérföldkövekkel és folyamatos kommunikációval dolgozunk. Nincsenek meglepetések, csak eredmények."
+        },
+        {
+          "title": "Támogatás",
+          "description": "Nem tűnünk el az indulás után. Folyamatos karbantartás, monitoring és optimalizálás biztosítja a hosszú távú sikert."
+        }
+      ]
+    },
+    "challenges": {
+      "title": "Hogyan oldjuk meg a valós üzleti kihívásokat",
+      "subtitle": "Mélyreható esettanulmányok a legutóbbi munkáinkból",
+      "items": [
+        {
+          "title": "Teljes IT infrastruktúra felújítás (Budapest, 40 fő)",
+          "summary": "Egy növekvő szolgáltató cégnek sürgős stabilizálásra volt szüksége a kaotikus IT környezetében. Átvettük a teljes üzemeltetést, rendet raktunk a hálózatban, és modernizáltuk a biztonságot 30 napon belül.",
+          "bullets": [
+            "Megbízhatatlan fogyasztói routerek cseréje vállalati MikroTik + UniFi stackre",
+            "Összes felhasználó migrálása Microsoft 365-re 2FA-val és feltételes hozzáférési szabályokkal",
+            "Automatikus mentés (NAS + felhő) és disaster recovery terv implementálása"
+          ]
+        },
+        {
+          "title": "Next.js E-commerce platform EU piacra (Távoli kiszolgálás)",
+          "summary": "Egy osztrák kiskereskedő online terjeszkedést tervezett, de WordPress/WooCommerce rendszere nem bírta az EU forgalmat és GDPR követelményeket. Modern, skálázható megoldást építettünk.",
+          "bullets": [
+            "Headless architektúra (Next.js + Sanity CMS + Stripe) maximális teljesítményért",
+            "GDPR-kompatibilis cookie consent és adatfeldolgozási folyamatok",
+            "Többvalutás támogatás (EUR, CHF) lokalizált fizetéssel (DE/EN)"
+          ]
+        },
+        {
+          "title": "Egyedi SaaS MVP cseh fintech startupnak (Távoli kiszolgálás)",
+          "summary": "Egy prágai startup működő MVP-t akart 6 héten belül befektetőknek bemutatni. Időben szállítottunk alapfunkciókkal, fizetési integrációval és skálázható architektúrával.",
+          "bullets": [
+            "Gyors fejlesztés Next.js 14 App Routerrel és Supabase backenddel",
+            "Stripe előfizetéses számlázás és ügyfélportál integrálása",
+            "Vercel deployment CI/CD pipeline-nal folyamatos frissítésekhez"
+          ]
+        }
+      ]
+    },
+    "solutions": {
+      "title": "Bevált megoldások a gyakorlatban",
+      "subtitle": "Valós projektek, amelyek mérhető üzleti eredményeket hoznak",
+      "cards": [
+        {
+          "industry": "E-commerce / Kiskereskedelem",
+          "problem": "Örökölt PHP webshop lassú teljesítménnyel és biztonsági résekkel",
+          "solution": "Teljes Next.js migráció Stripe integrációval és headless CMS-sel",
+          "stack": "Next.js 13, TypeScript, Stripe, Sanity CMS, Vercel",
+          "outcome": "3x gyorsabb oldalbetöltés, 45% konverziónövekedés, zéró leállás a migrációnál"
+        },
+        {
+          "industry": "Professzionális szolgáltatások",
+          "problem": "Manuális ügyfél-bevezetési folyamat késéseket és hibákat okozott",
+          "solution": "Egyedi CRM és ügyfélportál automatizált munkafolyamatokkal",
+          "stack": "React, Node.js, PostgreSQL, AWS",
+          "outcome": "80% csökkenés a bevezetési időben, 95% ügyfél-elégedettségi pontszám"
+        },
+        {
+          "industry": "Gyártás / KKV",
+          "problem": "Instabil irodai hálózat gyakori WiFi kiesésekkel és biztonsági résekkel",
+          "solution": "Teljes hálózat újratervezés UniFi infrastruktúrával és tűzfal megerősítéssel",
+          "stack": "UniFi WiFi 6, MikroTik RB5009, VPN, VLAN szegmentálás",
+          "outcome": "99.9% rendelkezésre állás, 5x gyorsabb belső sebesség, zéró biztonsági incidens"
+        },
+        {
+          "industry": "SaaS Startup",
+          "problem": "MVP kellett 6 héten belül seed finanszírozás biztosításához",
+          "solution": "Gyors MVP fejlesztés alapfunkciókkal és fizetési integrációval",
+          "stack": "Next.js, Supabase, Stripe, Tailwind, Vercel",
+          "outcome": "5 hét alatt szállítva, €200K seed finanszírozás biztosítva, 500+ béta felhasználó"
+        },
+        {
+          "industry": "Egészségügy / Klinika",
+          "problem": "GDPR-kompatibilis betegadat-kezelő rendszer szükséges",
+          "solution": "Biztonságos betegportál időpontfoglalással és titkosított tárolással",
+          "stack": "Next.js, PostgreSQL, end-to-end titkosítás, Azure",
+          "outcome": "Teljes GDPR megfelelés, 70% csökkenés az adminisztrációs munkában"
+        },
+        {
+          "industry": "Rendezvényszervezés",
+          "problem": "Helyszíni IT támogatás kellett 3 napos nemzetközi konferenciához (500+ résztvevő)",
+          "solution": "Dedikált helyszíni tech csapat, hálózat kiépítés, live-stream támogatás",
+          "stack": "Vállalati WiFi, video streaming, több helyszínes koordináció",
+          "outcome": "Zéró technikai incidens, 98% résztvevői elégedettség, ügyfél megújította a következő évre"
+        }
+      ]
     }
   }
 }

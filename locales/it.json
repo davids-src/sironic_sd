@@ -183,7 +183,25 @@
           "IT eventi",
           "tecnica conferenze",
           "supervisione IT"
-        ]
+        ],
+        "ogImage": "/og/onsite-presence-it.jpg"
+      },
+      "nis2": {
+        "title": "Conformità NIS2 – Progettazione e Gestione Sistemi Conformi a NIS2 | SIRONIC",
+        "description": "Progettazione professionale, implementazione e gestione di sistemi IT conformi a NIS2 in tutta Europa. Preparazione all'audit, documentazione, supporto esperto. Richiedi un preventivo!",
+        "keywords": [
+          "conformità NIS2",
+          "preparazione NIS2",
+          "implementazione sistema NIS2",
+          "operazioni NIS2",
+          "conformità sicurezza informazioni",
+          "supporto audit NIS2",
+          "cybersicurezza Europa",
+          "consulenza NIS2",
+          "direttiva UE cybersicurezza",
+          "conformità NIS2 Europa"
+        ],
+        "ogImage": "/og/nis2-it.jpg"
       }
     }
   },
@@ -248,7 +266,24 @@
     "repair": {
       "title": "Servizi di Riparazione & Manutenzione",
       "description": "Riparazione veloce e affidabile di computer, laptop, server e attrezzature di rete in loco a Székesfehérvár e dintorni, o tramite servizio postale. Preventivi trasparenti prima della riparazione, recupero dati e rimozione virus. Tempi di riparazione rapidi con garanzia."
+    },
+    "nis2": {
+      "title": "Sistema IT conforme a NIS2",
+      "description": "Progettazione e gestione di infrastrutture pronte per NIS2. Non effettuiamo audit – guidiamo la tua azienda attraverso il processo di audit sulla base delle raccomandazioni dei consulenti, con documentazione completa. Piena conformità alla direttiva UE sulla cybersicurezza, gestione degli accessi, logging, strategia di backup e gestione degli incidenti."
     }
+  },
+  "nis2": {
+    "title": "Conformità NIS2 – Proteggi la tua azienda con SIRONIC",
+    "subtitle": "La direttiva NIS2 dell'UE è qui. Siamo il tuo partner per la conformità.",
+    "description": "La direttiva NIS2 dell'UE stabilisce nuovi standard per la cybersicurezza e la resilienza operativa per un'ampia gamma di aziende. SIRONIC ti aiuta a navigare in questo complesso panorama, garantendo che la tua infrastruttura IT non solo sia conforme, ma sia anche robusta contro le minacce informatiche in evoluzione.",
+    "points": [
+      "Valutazione completa della conformità NIS2 e analisi delle lacune.",
+      "Implementazione di misure di sicurezza tecniche e organizzative.",
+      "Sviluppo di piani di gestione degli incidenti e di continuità aziendale.",
+      "Formazione del personale e sensibilizzazione alla cybersicurezza.",
+      "Supporto continuo e monitoraggio per mantenere la conformità."
+    ],
+    "cta": "Richiedi una Valutazione NIS2 Gratuita"
   },
   "mindenCegnek": {
     "badge": "Supporto IT Mensile",
@@ -632,6 +667,16 @@
           "Sensibilizzazione alla sicurezza",
           "Formazione uso software e dispositivi",
           "Programmi di sviluppo competenze aziendali"
+        ]
+      },
+      "nis2": {
+        "title": "Sistema IT conforme a NIS2",
+        "description": "Progettazione e gestione di infrastrutture pronte per NIS2. Piena conformità alla direttiva UE sulla cybersicurezza.",
+        "features": [
+          "Progettazione e implementazione di sistemi conformi a NIS2",
+          "Monitoraggio 24/7 e gestione degli incidenti",
+          "Documentazione e politiche",
+          "Preparazione all'audit e supporto esperto"
         ]
       }
     }

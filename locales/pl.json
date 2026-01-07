@@ -188,7 +188,25 @@
                     "event IT",
                     "technika konferencyjna",
                     "nadzór IT"
-                ]
+                ],
+                "ogImage": "/og/onsite-presence-pl.jpg"
+            },
+            "nis2": {
+                "title": "Zgodność z NIS2 – Projektowanie i Obsługa Systemów Zgodnych z NIS2 | SIRONIC",
+                "description": "Profesjonalne projektowanie, wdrażanie i obsługa systemów IT zgodnych z NIS2 w całej Europie. Przygotowanie do audytu, dokumentacja, wsparcie ekspertów. Zamów wycenę!",
+                "keywords": [
+                    "zgodność z NIS2",
+                    "przygotowanie do NIS2",
+                    "wdrażanie systemów NIS2",
+                    "obsługa NIS2",
+                    "zgodność bezpieczeństwa informacji",
+                    "wsparcie audytu NIS2",
+                    "cyberbezpieczeństwo Europa",
+                    "doradztwo NIS2",
+                    "dyrektywa cyberbezpieczeństwa UE",
+                    "zgodność NIS2 Europa"
+                ],
+                "ogImage": "/og/nis2-pl.jpg"
             }
         }
     },
@@ -253,6 +271,10 @@
         "repair": {
             "title": "Serwis i Naprawa",
             "description": "Szybka i niezawodna naprawa komputerów, laptopów, serwerów i sprzętu sieciowego na miejscu w Székesfehérvár i okolicach lub wysyłkowo. Przejrzyste wyceny przed naprawą, odzyskiwanie danych i usuwanie wirusów. Szybki czas naprawy z gwarancją."
+        },
+        "nis2": {
+            "title": "System IT zgodny z NIS2",
+            "description": "Projektowanie i obsługa infrastruktury gotowej na NIS2. Nie przeprowadzamy audytów – prowadzimy Twoją firmę przez proces audytu na podstawie rekomendacji doradców, z pełną dokumentacją. Pełna zgodność z dyrektywą UE dotyczącą cyberbezpieczeństwa, zarządzanie dostępem, logowanie, strategia backupu i zarządzanie incydentami."
         }
     },
     "customDevelopment": {
@@ -494,8 +516,8 @@
                 "answer": "Oczywiście. Tworzymy unikalne, responsywne strony z użyciem nowoczesnych technologii (Next.js, React, Tailwind), zapewniając szybkość, bezpieczeństwo i optymalizację pod wyszukiwarki."
             },
             {
-                "question": "Czym jest CRM Pro i jak pomaga mojej firmie?",
-                "answer": "CRM Pro to dedykowany system zarządzania klientami, który czyni procesy sprzedażowe przejrzystymi, automatyzuje administrację i integruje się z istniejącymi systemami. Dostępny w cenie przystępnej nawet dla mniejszych firm."
+                "question": "Czym jest NIS2 i kogo dotyczy?",
+                "answer": "NIS2 (Dyrektywa w sprawie bezpieczeństwa sieci i informacji 2) to rozporządzenie UE dotyczące cyberbezpieczeństwa, które dotyczy kluczowych i ważnych podmiotów w sektorach krytycznych. Wymaga określonych środków bezpieczeństwa, zgłaszania incydentów i regularnych audytów."
             },
             {
                 "question": "Jakie środki bezpieczeństwa stosujecie?",
@@ -662,6 +684,16 @@
                     "Szkolenie ze świadomości bezpieczeństwa",
                     "Szkolenie użytkowników z oprogramowania i urządzeń",
                     "Programy rozwoju wiedzy firmowej"
+                ]
+            },
+            "nis2": {
+                "title": "System IT zgodny z NIS2",
+                "description": "Projektowanie i obsługa infrastruktury gotowej na NIS2. Pełna zgodność z dyrektywą UE dotyczącą cyberbezpieczeństwa.",
+                "features": [
+                    "Projektowanie i wdrażanie systemów zgodnych z NIS2",
+                    "Monitoring 24/7 i zarządzanie incydentami",
+                    "Dokumentacja i polityki",
+                    "Przygotowanie do audytu i wsparcie ekspertów"
                 ]
             }
         }
@@ -2082,6 +2114,174 @@
             "compliance": {
                 "title": "Zgodność",
                 "description": "Niniejszy dokument jest zgodny z wymogami RODO UE i nadaje się do publikacji na stronie internetowej."
+            }
+        }
+    },
+    "nis2Block": {
+        "home": {
+            "title": "Infrastruktura IT zgodna z NIS2 – Budowa, Obsługa, Przygotowanie do Audytu",
+            "subtitle": "SIRONIC projektuje, wdraża i obsługuje systemy IT zgodne z NIS2. Przygotowujemy Twoją organizację do zewnętrznych audytów – sami nie przeprowadzamy audytów, ale gwarantujemy, że będziesz perfekcyjnie przygotowany.",
+            "benefits": [
+                "Kompletne projektowanie i wdrażanie infrastruktury zgodnej z NIS2",
+                "Monitoring 24/7, logowanie i zarządzanie incydentami",
+                "Dokumentacja, polityki i procedury do przygotowania audytu",
+                "Wsparcie ekspertów w trakcie całego procesu audytu zewnętrznego",
+                "Świadczenie usług na poziomie UE zgodne z RODO"
+            ],
+            "cards": {
+                "implementation": {
+                    "title": "Projektowanie systemu i wdrożenie",
+                    "description": "Projektujemy i budujemy infrastrukturę IT zgodną z NIS2 od podstaw, zapewniając spełnienie wszystkich wymogów technicznych i organizacyjnych."
+                },
+                "operation": {
+                    "title": "Obsługa i monitoring",
+                    "description": "Całodobowy monitoring systemu, logowanie, zarządzanie kopiami zapasowymi i reagowanie na incydenty w celu utrzymania ciągłej zgodności."
+                },
+                "auditSupport": {
+                    "title": "Przygotowanie do audytu i wsparcie",
+                    "description": "Przygotowujemy wszelką niezbędną dokumentację, polityki i dowody dla zewnętrznych audytów. Prowadzimy Cię przez proces, ale audyty są wykonywane przez certyfikowanych audytorów zewnętrznych."
+                }
+            },
+            "cta": {
+                "primary": "Poproś o wycenę",
+                "secondary": "Czytaj więcej"
+            }
+        }
+    },
+    "nis2Page": {
+        "meta": {
+            "title": "Zgodność z NIS2 – Projektowanie i Obsługa Systemów Zgodnych z NIS2 | SIRONIC",
+            "description": "Profesjonalne projektowanie, wdrażanie i obsługa systemów IT zgodnych z NIS2 w całej Europie. Przygotowanie do audytu, dokumentacja, wsparcie ekspertów. Zamów wycenę!",
+            "keywords": [
+                "zgodność z NIS2",
+                "przygotowanie do NIS2",
+                "wdrażanie systemów NIS2",
+                "obsługa NIS2",
+                "zgodność bezpieczeństwa informacji",
+                "wsparcie audytu NIS2",
+                "cyberbezpieczeństwo Europa",
+                "doradztwo NIS2",
+                "dyrektywa cyberbezpieczeństwa UE",
+                "zgodność NIS2 Europa"
+            ]
+        },
+        "hero": {
+            "badge": "Cyberbezpieczeństwo UE",
+            "title": "Systemy IT zgodne z NIS2 – Projektowanie, Wdrażanie, Obsługa",
+            "subtitle": "SIRONIC buduje i obsługuje infrastruktury zgodne z NIS2. Przygotowujemy Twoją organizację do zewnętrznych audytów dzięki kompleksowej dokumentacji i wskazówkom ekspertów.",
+            "cta": {
+                "primary": "Zarezerwuj darmową konsultację",
+                "secondary": "Skontaktuj się"
+            }
+        },
+        "aiSummary": "SIRONIC oferuje kompleksowe usługi zgodności z NIS2 dla firm europejskich: projektujemy, wdrażamy i obsługujemy infrastruktury IT zgodne z NIS2, przygotowujemy wszelką niezbędną dokumentację i polityki oraz prowadzimy organizacje przez zewnętrzne audyty wykonywane przez certyfikowanych audytorów. Nasze usługi obejmują monitoring 24/7, zarządzanie incydentami, strategie backupu, kontrolę dostępu i pełną zgodność z RODO w całej UE.",
+        "whatWeDo": {
+            "title": "Jak SIRONIC pomaga osiągnąć zgodność z NIS2",
+            "subtitle": "Zajmujemy się technicznym wdrożeniem i obsługą – Ty skupiasz się na swoim biznesie",
+            "pillars": [
+                {
+                    "title": "Budowa infrastruktury zgodnej z NIS2",
+                    "description": "Projektujemy i wdrażamy systemy IT, które spełniają wszystkie techniczne wymogi NIS2: segmentacja sieci, kontrole dostępu, szyfrowanie, logowanie, monitoring i systemy backupu."
+                },
+                {
+                    "title": "24/7 Obsługa i monitoring",
+                    "description": "Ciągły monitoring systemu, wykrywanie incydentów i reagowanie, zarządzanie logami, weryfikacja backupów i aktualizacje bezpieczeństwa w celu utrzymania ciągłej zgodności."
+                },
+                {
+                    "title": "Przygotowanie do zewnętrznych audytów",
+                    "description": "Tworzymy wszelką niezbędną dokumentację, polityki, procedury i dowody. Prowadzimy Cię przez proces audytu, ale audyty są wykonywane przez certyfikowanych audytorów zewnętrznych."
+                }
+            ]
+        },
+        "whatWeDoNot": {
+            "title": "Ważne: NIE przeprowadzamy audytów",
+            "description": "SIRONIC projektuje, buduje i obsługuje systemy zgodne z NIS2. Przygotowujemy Twoją organizację do zewnętrznych audytów z pełną dokumentacją i wsparciem ekspertów. Jednak sami nie przeprowadzamy audytów – muszą one być wykonywane przez niezależnych i certyfikowanych audytorów zgodnie z zasadami NIS2."
+        },
+        "deliverables": {
+            "title": "Co otrzymujesz",
+            "subtitle": "Kompletny pakiet zgodności z NIS2",
+            "items": [
+                "Projektowanie i wdrożenie infrastruktury IT zgodnej z NIS2",
+                "System monitoringu 24/7 i reagowania na incydenty",
+                "Kompletny pakiet dokumentacji (polityki, procedury, schematy)",
+                "System kontroli dostępu i zarządzania tożsamością",
+                "Scentralizowane logowanie i integracja z SIEM",
+                "Zautomatyzowane rozwiązanie backupu i odtwarzania awaryjnego",
+                "Szkolenie ze świadomości bezpieczeństwa dla personelu",
+                "Plan i procedury reagowania na incydenty",
+                "Lista kontrolna przygotowania do audytu i gromadzenia dowodów",
+                "Ciągłe wsparcie zgodności i aktualizacje"
+            ]
+        },
+        "timeline": {
+            "title": "Oś czasu wdrożenia",
+            "subtitle": "Typowe fazy projektu zgodności z NIS2",
+            "phases": [
+                {
+                    "title": "Faza 1: Ocena i Planowanie",
+                    "duration": "2-4 tygodnie",
+                    "description": "Analiza luk, ocena zgodności, przegląd infrastruktury i szczegółowy plan wdrożenia z osią czasu i budżetem."
+                },
+                {
+                    "title": "Faza 2: Wdrożenie infrastruktury",
+                    "duration": "6-12 tygodni",
+                    "description": "Wdrażanie systemów zgodnych z NIS2: monitoring, logowanie, kontrole dostępu, szyfrowanie, rozwiązania backupu i segmentacja sieci."
+                },
+                {
+                    "title": "Faza 3: Dokumentacja i Szkolenie",
+                    "duration": "3-6 tygodni",
+                    "description": "Tworzenie wszystkich niezbędnych polityk, procedur i dokumentacji. Przeprowadzanie szkoleń z bezpieczeństwa personelu i ćwiczeń reagowania na incydenty."
+                },
+                {
+                    "title": "Faza 4: Przygotowanie do Audytu i Wsparcie",
+                    "duration": "2-4 tygodnie",
+                    "description": "Ostateczna kontrola zgodności, gromadzenie dowodów, przygotowanie do audytu i wsparcie podczas procesu zewnętrznego audytu."
+                }
+            ]
+        },
+        "faq": {
+            "title": "Często Zadawane Pytania",
+            "items": [
+                {
+                    "question": "Czym jest NIS2 i kogo dotyczy?",
+                    "answer": "NIS2 (Dyrektywa w sprawie bezpieczeństwa sieci i informacji 2) to rozporządzenie UE dotyczące cyberbezpieczeństwa, które dotyczy kluczowych i ważnych podmiotów w sektorach krytycznych. Wymaga określonych środków bezpieczeństwa, zgłaszania incydentów i regularnych audytów."
+                },
+                {
+                    "question": "Czy SIRONIC przeprowadza audyty NIS2?",
+                    "answer": "Nie. SIRONIC projektuje, buduje i obsługuje systemy IT zgodne z NIS2. Przygotowujemy Twoją organizację do zewnętrznych audytów z pełną dokumentacją i wskazówkami ekspertów. Same audyty muszą być jednak wykonywane przez niezależnych i certyfikowanych audytorów zgodnie z zasadami NIS2."
+                },
+                {
+                    "question": "Ile trwa wdrożenie NIS2?",
+                    "answer": "Zazwyczaj 3-6 miesięcy, w zależności od obecnej infrastruktury i luki w zgodności. Po wstępnej ocenie przedstawiamy szczegółową oś czasu."
+                },
+                {
+                    "question": "Co się stanie, jeśli nie będziemy zgodni z NIS2?",
+                    "answer": "Brak zgodności może prowadzić do znacznych kar finansowych (do 10 milionów euro lub 2% globalnego obrotu), ograniczeń operacyjnych i utraty reputacji. NIS2 jest obowiązkowe dla objętych nim podmiotów."
+                },
+                {
+                    "question": "Czy możecie pomóc w utrzymaniu zgodności po początkowym wdrożeniu?",
+                    "answer": "Oczywiście. Oferujemy ciągłe wsparcie zgodności, w tym monitoring 24/7, zarządzanie incydentami, regularne aktualizacje bezpieczeństwa, aktualizacje dokumentacji i przygotowanie do okresowych audytów."
+                },
+                {
+                    "question": "Czy pracujecie z firmami spoza Węgier?",
+                    "answer": "Tak. Świadczymy usługi zgodności z NIS2 w całej UE. Wszystkie nasze rozwiązania są zaprojektowane do wdrożenia na poziomie UE, z zachowaniem zgodności z RODO i wsparciem wielojęzycznym."
+                },
+                {
+                    "question": "Co zawiera przygotowanie do audytu?",
+                    "answer": "Tworzymy wszelką niezbędną dokumentację (polityki, procedury, schematy sieci), gromadzimy dowody zgodności, przygotowujemy personel do rozmów i zapewniamy wsparcie ekspertów przez cały proces zewnętrznego audytu."
+                },
+                {
+                    "question": "Ile kosztuje zgodność z NIS2?",
+                    "answer": "Koszty różnią się w zależności od wielkości i złożoności infrastruktury. Po darmowej wstępnej ocenie przedstawiamy szczegółową ofertę. Typowe projekty wynoszą od 15 000 € do 50 000 €+ za początkowe wdrożenie plus ciągłe wsparcie."
+                }
+            ]
+        },
+        "finalCta": {
+            "title": "Gotowy na osiągnięcie zgodności z NIS2?",
+            "subtitle": "Zarezerwuj darmową konsultację i wspólnie oceńmy Twoje potrzeby w zakresie zgodności.",
+            "cta": {
+                "primary": "Zarezerwuj darmową ocenę",
+                "secondary": "Skontaktuj się"
             }
         }
     }

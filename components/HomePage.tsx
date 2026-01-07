@@ -9,7 +9,7 @@ import { LocalBusinessSchema } from '@/components/structured-data/LocalBusinessS
 import { Button } from '@/components/ui/button';
 import { CTAButton } from '@/components/CTAButton';
 import { SectionTitle } from '@/components/SectionTitle';
-import { Server, Network, Shield, Code, CheckCircle, ShoppingCart, Cloud, Wrench, ArrowRight } from 'lucide-react';
+import { Server, Network, Shield, Code, CheckCircle, ShoppingCart, ShieldCheck, Wrench, ArrowRight } from 'lucide-react';
 import Link from 'next/link';
 import { useTranslation } from '@/hooks/useTranslation';
 import { getLocalizedPath } from '@/lib/routes';
@@ -35,6 +35,9 @@ const ItTrainingSection = dynamic(() => import('@/components/ItTrainingSection')
 });
 const OnsitePresenceSection = dynamic(() => import('@/components/OnsitePresenceSection').then(mod => ({ default: mod.OnsitePresenceSection })), {
     loading: () => <div className="h-96 bg-white dark:bg-gray-950 animate-pulse" />
+});
+const Nis2HomeBlock = dynamic(() => import('@/components/Nis2HomeBlock').then(mod => ({ default: mod.Nis2HomeBlock })), {
+    loading: () => <div className="h-96 bg-gradient-to-br from-gray-50 to-white dark:from-gray-900/50 dark:to-gray-950 animate-pulse" />
 });
 
 // Wave Starter Pack - New lead generation components
@@ -87,9 +90,9 @@ export function HomePage() {
             icon: ShoppingCart,
         },
         {
-            title: t('services.hosting.title'),
-            description: t('services.hosting.description'),
-            icon: Cloud,
+            title: t('services.nis2.title'),
+            description: t('services.nis2.description'),
+            icon: ShieldCheck,
         },
         {
             title: t('services.repair.title'),
@@ -135,6 +138,8 @@ export function HomePage() {
                     </div>
                 </div>
             </section>
+
+            <Nis2HomeBlock />
 
             <QuickQuoteCalculator />
 

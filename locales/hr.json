@@ -186,7 +186,25 @@
           "IT za događaje",
           "konferencijska tehnika",
           "IT nadzor"
-        ]
+        ],
+        "ogImage": "/og/onsite-presence-hr.jpg"
+      },
+      "nis2": {
+        "title": "NIS2 Usklađenost – Dizajn i Operacije NIS2-kompatibilnih Sustava | SIRONIC",
+        "description": "Profesionalni dizajn, implementacija i operacije IT sustava u skladu s NIS2 diljem Europe. Priprema za reviziju, dokumentacija, stručna podrška. Zatražite ponudu!",
+        "keywords": [
+          "NIS2 usklađenost",
+          "NIS2 priprema",
+          "implementacija NIS2 sustava",
+          "NIS2 operacije",
+          "usklađenost informacijske sigurnosti",
+          "podrška za NIS2 audit",
+          "kibernetička sigurnost Europa",
+          "NIS2 savjetovanje",
+          "EU direktiva o kibernetičkoj sigurnosti",
+          "NIS2 usklađenost Europa"
+        ],
+        "ogImage": "/og/nis2-hr.jpg"
       }
     }
   },
@@ -251,6 +269,10 @@
     "repair": {
       "title": "Servis i popravak",
       "description": "Brz i pouzdan popravak računala, laptopa, servera i mrežne opreme na licu mjesta u Székesfehérváru i okolici ili slanjem poštom. Transparentne ponude prije popravka, oporavak podataka i uklanjanje virusa. Brzo vrijeme popravka s jamstvom."
+    },
+    "nis2": {
+      "title": "IT Sustav u Skladu s NIS2",
+      "description": "Dizajn i operacije infrastrukture spremne za NIS2. Ne provodimo revizije – vodimo vašu tvrtku kroz proces revizije na temelju preporuka konzultanata, s potpunom dokumentacijom. Potpuna usklađenost s EU direktivom o kibernetičkoj sigurnosti, upravljanje pristupom, bilježenje, strategija sigurnosnog kopiranja i upravljanje incidentima."
     }
   },
   "customDevelopment": {
@@ -659,6 +681,16 @@
           "Treninzi sigurnosne svijesti",
           "Obuke za korištenje softvera i uređaja",
           "Korporativni programi razvoja znanja"
+        ]
+      },
+      "nis2": {
+        "title": "IT Sustav u Skladu s NIS2",
+        "description": "Dizajn i operacije infrastrukture spremne za NIS2. Potpuna usklađenost s EU direktivom o kibernetičkoj sigurnosti.",
+        "features": [
+          "Dizajn i implementacija sustava u skladu s NIS2",
+          "24/7 nadzor i upravljanje incidentima",
+          "Dokumentacija i politike",
+          "Priprema za reviziju i stručna podrška"
         ]
       }
     }
@@ -2065,6 +2097,174 @@
       "compliance": {
         "title": "Usklađenost",
         "description": "Ovaj dokument je u skladu sa zahtjevima GDPR-a EU-a i prikladan je za objavu na web stranici."
+      }
+    }
+  },
+  "nis2Block": {
+    "home": {
+      "title": "IT Infrastruktura u Skladu s NIS2 – Izgradnja, Operacije, Spremnost za Audit",
+      "subtitle": "SIRONIC dizajnira, implementira i upravlja IT sustavima u skladu s NIS2. Pripremamo vašu organizaciju za vanjske revizije – sami ne provodimo audit, ali osiguravamo ste potpuno spremni.",
+      "benefits": [
+        "Potpun dizajn i implementacija infrastrukture u skladu s NIS2",
+        "24/7 nadzor, bilježenje i upravljanje incidentima",
+        "Dokumentacija, politike i procedure za pripremu audita",
+        "Stručna podrška tijekom cijelog procesa vanjske revizije",
+        "Isporuka usluga na razini EU uz GDPR usklađenost"
+      ],
+      "cards": {
+        "implementation": {
+          "title": "Dizajn i Implementacija Sustava",
+          "description": "Dizajniramo i gradimo IT infrastrukturu u skladu s NIS2 od temelja, osiguravajući ispunjavanje svih tehničkih i organizacijskih zahtjeva."
+        },
+        "operation": {
+          "title": "Operacije i Nadzor",
+          "description": "24/7 nadzor sustava, bilježenje, upravljanje sigurnosnim kopijama i odgovor na incidente za održavanje kontinuirane usklađenosti."
+        },
+        "auditSupport": {
+          "title": "Priprema i Podrška za Audit",
+          "description": "Pripremamo svu potrebnu dokumentaciju, politike i dokaze za vanjske revizije. Vodimo vas kroz proces, ali revizije provode certificirani vanjski revizori."
+        }
+      },
+      "cta": {
+        "primary": "Zatraži Ponudu",
+        "secondary": "Saznaj Više"
+      }
+    }
+  },
+  "nis2Page": {
+    "meta": {
+      "title": "NIS2 Usklađenost – Dizajn i Operacije NIS2-kompatibilnih Sustava | SIRONIC",
+      "description": "Profesionalni dizajn, implementacija i operacije IT sustava u skladu s NIS2 diljem Europe. Priprema za reviziju, dokumentacija, stručna podrška. Zatražite ponudu!",
+      "keywords": [
+        "NIS2 usklađenost",
+        "NIS2 priprema",
+        "implementacija NIS2 sustava",
+        "NIS2 operacije",
+        "usklađenost informacijske sigurnosti",
+        "podrška za NIS2 audit",
+        "kibernetička sigurnost Europa",
+        "NIS2 savjetovanje",
+        "EU direktiva o kibernetičkoj sigurnosti",
+        "NIS2 usklađenost Europa"
+      ]
+    },
+    "hero": {
+      "badge": "EU Kibernetička Sigurnost",
+      "title": "IT Sustavi u Skladu s NIS2 – Dizajn, Implementacija, Operacije",
+      "subtitle": "SIRONIC gradi i upravlja infrastrukturom u skladu s NIS2. Pripremamo vašu organizaciju za vanjske revizije uz kompletnu dokumentaciju i stručno vodstvo.",
+      "cta": {
+        "primary": "Zatraži Besplatno Savjetovanje",
+        "secondary": "Kontaktirajte Nas"
+      }
+    },
+    "aiSummary": "SIRONIC pruža sveobuhvatne usluge usklađenosti s NIS2 za europska poduzeća: dizajniramo, implementiramo i upravljamo IT infrastrukturom u skladu s NIS2, pripremamo svu potrebnu dokumentaciju i politike te vodimo organizacije kroz vanjske revizije koje provode certificirani revizori. Naše usluge uključuju 24/7 nadzor, upravljanje incidentima, strategije sigurnosnog kopiranja, kontrolu pristupa i potpunu usklađenost s GDPR-om diljem EU.",
+    "whatWeDo": {
+      "title": "Kako Vam SIRONIC Pomaže Postići NIS2 Usklađenost",
+      "subtitle": "Mi brinemo o tehničkoj implementaciji i operacijama – vi se fokusirajte na poslovanje",
+      "pillars": [
+        {
+          "title": "Izgradnja NIS2-kompatibilne Infrastrukture",
+          "description": "Dizajniramo i implementiramo IT sustave koji ispunjavaju sve tehničke zahtjeve NIS2: segmentacija mreže, kontrole pristupa, enkripcija, bilježenje, nadzor i sustavi sigurnosnog kopiranja."
+        },
+        {
+          "title": "24/7 Operacije i Nadzor",
+          "description": "Kontinuirani nadzor sustava, otkrivanje i odgovor na incidente, upravljanje logovima, verifikacija sigurnosnih kopija i sigurnosna ažuriranja za održavanje trajne usklađenosti."
+        },
+        {
+          "title": "Priprema za Vanjske Revizije",
+          "description": "Izrađujemo svu potrebnu dokumentaciju, politike, procedure i dokaze. Vodimo vas kroz proces revizije, ali audit provode certificirani vanjski revizori."
+        }
+      ]
+    },
+    "whatWeDoNot": {
+      "title": "Važno: Mi NE PROVODIMO Revizije",
+      "description": "SIRONIC dizajnira, gradi i upravlja sustavima u skladu s NIS2. Pripremamo vašu organizaciju za vanjske revizije uz kompletnu dokumentaciju i stručnu podršku. Međutim, same revizije ne provodimo mi – to moraju obaviti neovisni, certificirani revizori prema NIS2 propisima."
+    },
+    "deliverables": {
+      "title": "Što Dobivate",
+      "subtitle": "Kompletan paket NIS2 usklađenosti",
+      "items": [
+        "Dizajn i implementacija IT infrastrukture u skladu s NIS2",
+        "24/7 nadzor i sustav odgovora na incidente",
+        "Kompletan paket dokumentacije (politike, procedure, dijagrami)",
+        "Sustav kontrole pristupa i upravljanja identitetom",
+        "Centralizirano bilježenje i SIEM integracija",
+        "Automatizirano sigurnosno kopiranje i rješenje za oporavak od katastrofe",
+        "Edukacija o sigurnosnoj svijesti za zaposlenike",
+        "Plan i procedure odgovora na incidente",
+        "Kontrolna lista pripreme za reviziju i prikupljanje dokaza",
+        "Trajna podrška za usklađenost i ažuriranja"
+      ]
+    },
+    "timeline": {
+      "title": "Raspored Implementacije",
+      "subtitle": "Tipične faze projekta NIS2 usklađenosti",
+      "phases": [
+        {
+          "title": "Faza 1: Procjena i Planiranje",
+          "duration": "2-4 tjedna",
+          "description": "Analiza nedostataka, procjena usklađenosti, pregled infrastrukture i detaljan plan implementacije s rasporedom i proračunom."
+        },
+        {
+          "title": "Faza 2: Implementacija Infrastrukture",
+          "duration": "6-12 tjedana",
+          "description": "Implementacija sustava u skladu s NIS2: nadzor, bilježenje, kontrole pristupa, enkripcija, rješenja sigurnosnog kopiranja i segmentacija mreže."
+        },
+        {
+          "title": "Faza 3: Dokumentacija i Edukacija",
+          "duration": "3-6 tjedana",
+          "description": "Izrada svih potrebnih politika, procedura i dokumentacije. Provođenje edukacije zaposlenika o sigurnosnoj svijesti i odgovoru na incidente."
+        },
+        {
+          "title": "Faza 4: Priprema i Podrška za Audit",
+          "duration": "2-4 tjedna",
+          "description": "Završna provjera usklađenosti, prikupljanje dokaza, priprema za reviziju i podrška tijekom procesa vanjske revizije."
+        }
+      ]
+    },
+    "faq": {
+      "title": "Često Postavljana Pitanja",
+      "items": [
+        {
+          "question": "Što je NIS2 i na koga se odnosi?",
+          "answer": "NIS2 (Direktiva o mrežnoj i informacijskoj sigurnosti 2) je uredba EU o kibernetičkoj sigurnosti koja se odnosi na bitne i važne subjekte u kritičnim sektorima. Zahtijeva specifične sigurnosne mjere, prijavljivanje incidenata i redovite revizije."
+        },
+        {
+          "question": "Provodi li SIRONIC NIS2 revizije?",
+          "answer": "Ne. SIRONIC dizajnira, gradi i upravlja IT sustavima u skladu s NIS2. Pripremamo vašu organizaciju za vanjske revizije uz kompletnu dokumentaciju i stručno vodstvo. Međutim, same revizije moraju provesti neovisni, certificirani revizori prema NIS2 propisima."
+        },
+        {
+          "question": "Koliko traje NIS2 implementacija?",
+          "answer": "Tipično 3-6 mjeseci, ovisno o vašoj trenutnoj infrastrukturi i nedostacima u usklađenosti. Nakon početne procjene dostavljamo detaljan raspored."
+        },
+        {
+          "question": "Što se događa ako ne poštujemo NIS2?",
+          "answer": "Neusklađenost može rezultirati značajnim novčanim kaznama (do 10 milijuna € ili 2% globalnog prometa), operativnim ograničenjima i reputacijskom štetom. NIS2 je obvezan za obuhvaćene subjekte."
+        },
+        {
+          "question": "Možete li pomoći s trajnom usklađenošću nakon početne implementacije?",
+          "answer": "Apsolutno. Nudimo trajnu podršku za usklađenost, uključujući 24/7 nadzor, odgovor na incidente, redovita sigurnosna ažuriranja, ažuriranja dokumentacije i pripremu za periodične revizije."
+        },
+        {
+          "question": "Radite li s tvrtkama izvan Mađarske?",
+          "answer": "Da. Pružamo usluge NIS2 usklađenosti diljem EU-a. Sva naša rješenja dizajnirana su za implementaciju na razini EU uz GDPR usklađenost i višejezičnu podršku."
+        },
+        {
+          "question": "Što je uključeno u pripremu za audit?",
+          "answer": "Izrađujemo svu potrebnu dokumentaciju (politike, procedure, mrežni dijagrami), prikupljamo dokaze o usklađenosti, pripremamo osoblje za intervjue i pružamo stručno vodstvo tijekom cijelog procesa vanjske revizije."
+        },
+        {
+          "question": "Koliko košta NIS2 usklađenost?",
+          "answer": "Troškovi variraju ovisno o veličini i složenosti vaše infrastrukture. Nakon besplatne početne procjene dostavljamo detaljnu ponudu. Tipični projekti kreću se od 15.000 € do 50.000 €+ za početnu implementaciju plus trajna podrška."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Jeste Li Spremni Postići NIS2 Usklađenost?",
+      "subtitle": "Zatražite besplatno savjetovanje i zajedno procijenimo vaše potrebe za usklađenošću.",
+      "cta": {
+        "primary": "Zatraži Besplatnu Procjenu",
+        "secondary": "Kontaktirajte Nas"
       }
     }
   }

@@ -186,7 +186,25 @@
                     "event-IT",
                     "konferanseteknikk",
                     "IT-overvåking"
-                ]
+                ],
+                "ogImage": "/og/onsite-presence-no.jpg"
+            },
+            "nis2": {
+                "title": "NIS2-overholdelse – Design og drift av NIS2-kompatible systemer | SIRONIC",
+                "description": "Profesjonell design, implementering og drift av NIS2-kompatible IT-systemer i hele Europa. Revisjonsforberedelse, dokumentasjon, ekspertstøtte. Be om tilbud!",
+                "keywords": [
+                    "NIS2-overholdelse",
+                    "NIS2-forberedelse",
+                    "NIS2-systemimplementering",
+                    "NIS2-drift",
+                    "informasjonssikkerhetsoverholdelse",
+                    "NIS2-revisjonsstøtte",
+                    "cybersikkerhet Europa",
+                    "NIS2-rådgivning",
+                    "EU-cybersikkerhetsdirektiv",
+                    "NIS2-overholdelse Europa"
+                ],
+                "ogImage": "/og/nis2-no.jpg"
             }
         }
     },
@@ -251,6 +269,10 @@
         "repair": {
             "title": "Service & Reparasjon",
             "description": "Rask og pålitelig reparasjon av datamaskiner, bærbare, servere og nettverksutstyr on-site i Székesfehérvár og omegn, eller via post. Transparente tilbud før reparasjon, datagjenoppretting og virusfjerning. Rask reparasjonstid med garanti."
+        },
+        "nis2": {
+            "title": "NIS2-kompatibelt IT-system",
+            "description": "Design og drift av NIS2-klar infrastruktur. Vi utfører ikke revisjoner – vi veileder din bedrift gjennom revisjonsprosessen basert på konsulentanbefalinger, med full dokumentasjon. Full overholdelse av EUs cybersikkerhetsdirektiv, tilgangsstyring, logging, backupstrategi og hendelseshåndtering."
         }
     },
     "customDevelopment": {
@@ -492,8 +514,8 @@
                 "answer": "Selvfølgelig. Vi utvikler unike, responsive nettsider med moderne teknologier (Next.js, React, Tailwind), og sikrer at siden er rask, sikker og søkemotoroptimalisert."
             },
             {
-                "question": "Hva er CRM Pro, og hvordan hjelper det min bedrift?",
-                "answer": "CRM Pro er et skreddersydd kundestyringssystem, som gjør salgsprosesser transparente, automatiserer administrasjon og kan integreres med eksisterende systemer. Tilgjengelig i et prissjikt som også er overkommelig for mindre bedrifter."
+                "question": "Hva er NIS2, og hvem gjelder det for?",
+                "answer": "NIS2 (Direktiv om nett- og informasjonssikkerhet 2) er en EU-forordning om cybersikkerhet som gjelder for vesentlige og viktige enheter i kritiske sektorer. Det krever spesifikke sikkerhetstiltak, hendelsesrapportering og regelmessige revisjoner."
             },
             {
                 "question": "Hvilke sikkerhetstiltak bruker dere?",
@@ -660,6 +682,16 @@
                     "Sikkerhetsbevissthetstrening",
                     "Brukeropplæring i programvare og enheter",
                     "Bedriftskunnskapsutviklingsprogrammer"
+                ]
+            },
+            "nis2": {
+                "title": "NIS2-kompatibelt IT-system",
+                "description": "Design og drift av NIS2-klar infrastruktur. Full overholdelse av EUs cybersikkerhetsdirektiv.",
+                "features": [
+                    "Design og implementering av NIS2-kompatible systemer",
+                    "24/7 overvåking og hendelseshåndtering",
+                    "Dokumentasjon og poliser",
+                    "Revisjonsforberedelse og ekspertstøtte"
                 ]
             }
         }
@@ -2080,6 +2112,174 @@
             "compliance": {
                 "title": "Overholdelse",
                 "description": "Dette dokumentet overholder EUs GDPR-krav og er egnet for publisering på nettstedet."
+            }
+        }
+    },
+    "nis2Block": {
+        "home": {
+            "title": "NIS2-kompatibel IT-infrastruktur – Bygging, Drift, Revisjonsforberedelse",
+            "subtitle": "SIRONIC designer, implementerer og driver NIS2-kompatible IT-systemer. Vi forbereder din organisasjon for eksterne revisjoner – vi utfører ikke revisjoner selv, men vi sikrer at du er perfekt forberedt.",
+            "benefits": [
+                "Komplett design og implementering av NIS2-kompatibel infrastruktur",
+                "24/7 overvåking, logging og hendelseshåndtering",
+                "Dokumentasjon, poliser og prosedyrer for revisjonsforberedelse",
+                "Ekspertstøtte gjennom hele den eksterne revisjonsprosessen",
+                "Tjenestelevering på EU-nivå med GDPR-etterlevelse"
+            ],
+            "cards": {
+                "implementation": {
+                    "title": "Systemdesign og implementering",
+                    "description": "Vi designer og bygger NIS2-kompatible IT-infrastrukturer fra bunnen av, og sikrer at alle tekniske og organisatoriske krav er oppfylt."
+                },
+                "operation": {
+                    "title": "Drift og overvåking",
+                    "description": "24/7 systemovervåking, logging, backupstyring og hendelsesrespons for å opprettholde løpende overholdelse."
+                },
+                "auditSupport": {
+                    "title": "Revisjonsforberedelse og støtte",
+                    "description": "Vi utarbeider all nødvendig dokumentasjon, poliser og bevis for eksterne revisjoner. Vi veileder deg gjennom prosessen, men revisjoner utføres av sertifiserte eksterne revisorer."
+                }
+            },
+            "cta": {
+                "primary": "Be om tilbud",
+                "secondary": "Les mer"
+            }
+        }
+    },
+    "nis2Page": {
+        "meta": {
+            "title": "NIS2-overholdelse – Design og drift av NIS2-kompatible systemer | SIRONIC",
+            "description": "Profesjonell design, implementering og drift av NIS2-kompatible IT-systemer i hele Europa. Revisjonsforberedelse, dokumentasjon, ekspertstøtte. Be om tilbud!",
+            "keywords": [
+                "NIS2-overholdelse",
+                "NIS2-forberedelse",
+                "NIS2-systemimplementering",
+                "NIS2-drift",
+                "informasjonssikkerhetsoverholdelse",
+                "NIS2-revisjonsstøtte",
+                "cybersikkerhet Europa",
+                "NIS2-rådgivning",
+                "EU-cybersikkerhetsdirektiv",
+                "NIS2-overholdelse Europa"
+            ]
+        },
+        "hero": {
+            "badge": "EU Cybersikkerhet",
+            "title": "NIS2-kompatible IT-systemer – Design, Implementering, Drift",
+            "subtitle": "SIRONIC bygger og driver NIS2-kompatible infrastrukturer. Vi forbereder din organisasjon for eksterne revisjoner med omfattende dokumentasjon og ekspertveiledning.",
+            "cta": {
+                "primary": "Bestill gratis konsultasjon",
+                "secondary": "Kontakt oss"
+            }
+        },
+        "aiSummary": "SIRONIC tilbyr omfattende NIS2-overholdelsestjenester for europeiske bedrifter: vi designer, implementerer og driver NIS2-kompatible IT-infrastrukturer, forbereder all nødvendig dokumentasjon og poliser, og veileder organisasjoner gjennom eksterne revisjoner utført av sertifiserte revisorer. Våre tjenester inkluderer 24/7 overvåking, hendelseshåndtering, backupstrategier, tilgangskontroll og full GDPR-etterlevelse i hele EU.",
+        "whatWeDo": {
+            "title": "Hvordan SIRONIC hjelper deg å oppnå NIS2-overholdelse",
+            "subtitle": "Vi tar oss av teknisk implementering og drift – du fokuserer på din virksomhet",
+            "pillars": [
+                {
+                    "title": "Bygging av NIS2-kompatibel infrastruktur",
+                    "description": "Vi designer og implementerer IT-systemer som oppfyller alle tekniske NIS2-krav: nettverkssegmentering, tilgangskontroller, kryptering, logging, overvåking og backupsystemer."
+                },
+                {
+                    "title": "24/7 Drift og overvåking",
+                    "description": "Kontinuerlig systemovervåking, hendelsesdeteksjon og respons, loggstyring, backupverifikasjon og sikkerhetsoppdateringer for å opprettholde løpende overholdelse."
+                },
+                {
+                    "title": "Forberedelse for eksterne revisjoner",
+                    "description": "Vi skaper all nødvendig dokumentasjon, poliser, prosedyrer og bevis. Vi veileder deg gjennom revisjonsprosessen, men revisjoner utføres av sertifiserte eksterne revisorer."
+                }
+            ]
+        },
+        "whatWeDoNot": {
+            "title": "Viktig: Vi utfører IKKE revisjoner",
+            "description": "SIRONIC designer, bygger og driver NIS2-kompatible systemer. Vi forbereder din organisasjon for eksterne revisjoner med komplett dokumentasjon og ekspertstøtte. Vi utfører imidlertid ikke revisjoner selv – disse må utføres av uavhengige og sertifiserte revisorer i henhold til NIS2-reglene."
+        },
+        "deliverables": {
+            "title": "Hva du får",
+            "subtitle": "Komplett NIS2-overholdelsespakke",
+            "items": [
+                "Design og implementering av NIS2-kompatibel IT-infrastruktur",
+                "24/7 overvåkings- og hendelsesresponssystem",
+                "Komplett dokumentasjonspakke (poliser, prosedyrer, diagrammer)",
+                "Tilgangskontroll og identitetsstyringssystem",
+                "Sentralisert logging og SIEM-integrasjon",
+                "Automatisert backupløsning og katastrofegjenoppretting",
+                "Sikkerhetsbevissthetstrening for personale",
+                "Plan og prosedyrer for hendelsesrespons",
+                "Sjekkliste for revisjonsforberedelse og bevisinnsamling",
+                "Løpende overholdelsesstøtte og oppdateringer"
+            ]
+        },
+        "timeline": {
+            "title": "Implementeringstidslinje",
+            "subtitle": "Typiske faser i et NIS2-overholdelsesprosjekt",
+            "phases": [
+                {
+                    "title": "Fase 1: Vurdering og Planlegging",
+                    "duration": "2-4 uker",
+                    "description": "Gapanalyse, overholdelsesvurdering, infrastrukturgjennomgang og detaljert implementeringsplan med tidslinje og budsjett."
+                },
+                {
+                    "title": "Fase 2: Infrastruktur-implementering",
+                    "duration": "6-12 uker",
+                    "description": "Implementering av NIS2-kompatible systemer: overvåking, logging, tilgangskontroller, kryptering, backupløsninger og nettverkssegmentering."
+                },
+                {
+                    "title": "Fase 3: Dokumentasjon og Opplæring",
+                    "duration": "3-6 uker",
+                    "description": "Skaping av alle nødvendige poliser, prosedyrer og dokumentasjon. Gjennomføring av personalsikkerhetstrening og hendelsesresponsøvelser."
+                },
+                {
+                    "title": "Fase 4: Revisjonsforberedelse og Støtte",
+                    "duration": "2-4 uker",
+                    "description": "Endelig overholdelsessjekk, bevisinnsamling, revisjonsforberedelse og støtte under den eksterne revisjonsprosessen."
+                }
+            ]
+        },
+        "faq": {
+            "title": "Ofte Stilte Spørsmål",
+            "items": [
+                {
+                    "question": "Hva er NIS2, og hvem gjelder det for?",
+                    "answer": "NIS2 (Direktiv om nett- og informasjonssikkerhet 2) er en EU-forordning om cybersikkerhet som gjelder for vesentlige og viktige enheter i kritiske sektorer. Det krever spesifikke sikkerhetstiltak, hendelsesrapportering og regelmessige revisjoner."
+                },
+                {
+                    "question": "Utfører SIRONIC NIS2-revisjoner?",
+                    "answer": "Nei. SIRONIC designer, bygger og driver NIS2-kompatible IT-systemer. Vi forbereder din organisasjon for eksterne revisjoner med komplett dokumentation og ekspertveiledning. Selve revisjonene må imidlertid utføres av uavhengige og sertifiserte revisorer i henhold til NIS2-reglene."
+                },
+                {
+                    "question": "Hvor lang tid tar NIS2-implementering?",
+                    "answer": "Typisk 3-6 måneder, avhengig av din nåværende infrastruktur og overholdelsesgap. Etter en innledende vurdering gir vi en detaljert tidslinje."
+                },
+                {
+                    "question": "Hva skjer hvis vi ikke følger NIS2?",
+                    "answer": "Manglende etterlevelse kan føre til betydelige bøter (opp til 10 millioner euro eller 2 % av den globale omsetningen), driftsbegrensninger og omdømmeskade. NIS2 er obligatorisk for omfattede enheter."
+                },
+                {
+                    "question": "Kan dere hjelpe med løpende overholdelse etter den innledende implementeringen?",
+                    "answer": "Absolutt. Vi tilbyr løpende overholdelsesstøtte, inkludert 24/7 overvåking, hendelseshåndtering, regelmessige sikkerhetsoppdateringer, dokumentasjonsoppdateringer og forberedelse til periodiske revisjoner."
+                },
+                {
+                    "question": "Jobber dere med bedrifter utenfor Ungarn?",
+                    "answer": "Ja. Vi leverer NIS2-overholdelsestjenester i hele EU. Alle våre løsninger er designet for implementering på EU-nivå med GDPR-etterlevelse og flerspråklig støtte."
+                },
+                {
+                    "question": "Hva inngår i revisjonsforberedelsen?",
+                    "answer": "Vi skaper all nødvendig dokumentasjon (poliser, prosedyrer, nettverksdiagrammer), samler inn bevis for overholdelse, forbereder personale til intervjuer og gir ekspertveiledning gjennom hele den eksterne revisjonsprosessen."
+                },
+                {
+                    "question": "Hvor mye koster NIS2-overholdelse?",
+                    "answer": "Kostnadene varierer avhengig av størrelsen og kompleksiteten av din infrastruktur. Etter en gratis innledende vurdering gir vi et detaljert tilbud. Typiske prosjekter ligger fra 15.000 € til 50.000 €+ for innledende implementering pluss løpende støtte."
+                }
+            ]
+        },
+        "finalCta": {
+            "title": "Klar for å oppnå NIS2-overholdelse?",
+            "subtitle": "Bestill en gratis konsultasjon, og la oss vurdere dine overholdelsesbehov sammen.",
+            "cta": {
+                "primary": "Bestill gratis vurdering",
+                "secondary": "Kontakt oss"
             }
         }
     }

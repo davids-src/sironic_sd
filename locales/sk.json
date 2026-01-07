@@ -179,6 +179,23 @@
           "konferenčná technika",
           "IT podpora"
         ]
+      },
+      "nis2": {
+        "title": "NIS2 Súlad – Návrh a Prevádzka NIS2-kompatibilných Systémov | SIRONIC",
+        "description": "Profesionálny návrh, nasadenie a prevádzka IT systémov v súlade s NIS2 v celej Európe. Príprava na audit, dokumentácia, odborná podpora. Požiadajte o ponuku!",
+        "keywords": [
+          "NIS2 súlad",
+          "NIS2 príprava",
+          "NIS2 nasadenie systému",
+          "NIS2 prevádzka",
+          "súlad informačnej bezpečnosti",
+          "NIS2 podpora auditu",
+          "kybernetická bezpečnosť Európa",
+          "NIS2 poradenstvo",
+          "smernica EÚ o kybernetickej bezpečnosti",
+          "NIS2 súlad Európa"
+        ],
+        "ogImage": "/og/nis2-sk.jpg"
       }
     }
   },
@@ -243,6 +260,10 @@
     "repair": {
       "title": "Servis a oprava",
       "description": "Rýchla a spoľahlivá oprava počítačov, notebookov, serverov a sieťových zariadení na mieste v Székesfehérváre a okolí alebo zaslaním poštou. Transparentné ponuky pred opravou, obnova údajov a odstránenie vírusov. Rýchla doba opravy so zárukou."
+    },
+    "nis2": {
+      "title": "NIS2-kompatibilný IT Systém",
+      "description": "Návrh a prevádzka infraštruktúry pripravenej na NIS2. Nevykonávame audity – sprevádzame Vašu spoločnosť procesom auditu na základe odporúčaní konzultantov, s úplnou dokumentáciou. Úplný súlad so smernicou EÚ o kybernetickej bezpečnosti, správa prístupov, protokolovanie, stratégia zálohovania a riešenie incidentov."
     }
   },
   "customDevelopment": {
@@ -652,6 +673,16 @@
           "Školenia o bezpečnostnom povedomí",
           "Školenia o používaní softvéru a zariadení",
           "Firemné programy rozvoja vedomostí"
+        ]
+      },
+      "nis2": {
+        "title": "NIS2-kompatibilný IT Systém",
+        "description": "Návrh a prevádzka infraštruktúry pripravenej na NIS2. Úplný súlad so smernicou EÚ o kybernetickej bezpečnosti.",
+        "features": [
+          "Návrh a nasadenie systému v súlade s NIS2",
+          "24/7 monitorovanie a správa incidentov",
+          "Dokumentácia a politiky",
+          "Príprava na audit a odborná podpora"
         ]
       }
     }
@@ -2072,6 +2103,174 @@
       "compliance": {
         "title": "Súlad",
         "description": "Tento dokument je v súlade s požiadavkami GDPR EÚ a je vhodný na zverejnenie na webovej stránke."
+      }
+    }
+  },
+  "nis2Block": {
+    "home": {
+      "title": "NIS2-kompatibilná IT Infraštruktúra – Budovanie, Prevádzka, Pripravenosť na Audit",
+      "subtitle": "SIRONIC navrhuje, nasadzuje a prevádzkuje IT systémy v súlade s NIS2. Pripravíme Vašu organizáciu na externé audity – sami audity nevykonávame, ale zabezpečíme, aby ste boli plne pripravení.",
+      "benefits": [
+        "Kompletný návrh a nasadenie infraštruktúry v súlade s NIS2",
+        "24/7 monitorovanie, protokolovanie a správa incidentov",
+        "Dokumentácia, politiky a postupy pre pripravenosť na audit",
+        "Odborná podpora počas celého procesu externého auditu",
+        "Poskytovanie služieb v celej EÚ s dodržiavaním GDPR"
+      ],
+      "cards": {
+        "implementation": {
+          "title": "Návrh a Nasadenie Systému",
+          "description": "Navrhujeme a budujeme IT infraštruktúru v súlade s NIS2 od základov, pričom zabezpečujeme splnenie všetkých technických a organizačných požiadaviek."
+        },
+        "operation": {
+          "title": "Prevádzka a Monitorovanie",
+          "description": "24/7 monitorovanie systému, protokolovanie, správa záloh a reakcia na incidenty na udržanie nepretržitého súladu."
+        },
+        "auditSupport": {
+          "title": "Príprava a Podpora Auditu",
+          "description": "Pripravíme všetku potrebnú dokumentáciu, politiky a dôkazy pre externé audity. Sprevádzame Vás procesom, ale audity vykonávajú certifikovaní externí audítori."
+        }
+      },
+      "cta": {
+        "primary": "Požiadať o Ponuku",
+        "secondary": "Zistiť Viac"
+      }
+    }
+  },
+  "nis2Page": {
+    "meta": {
+      "title": "NIS2 Súlad – Návrh a Prevádzka NIS2-kompatibilných Systémov | SIRONIC",
+      "description": "Profesionálny návrh, nasadenie a prevádzka IT systémov v súlade s NIS2 v celej Európe. Príprava na audit, dokumentácia, odborná podpora. Požiadajte o ponuku!",
+      "keywords": [
+        "NIS2 súlad",
+        "NIS2 príprava",
+        "NIS2 nasadenie systému",
+        "NIS2 prevádzka",
+        "súlad informačnej bezpečnosti",
+        "NIS2 podpora auditu",
+        "kybernetická bezpečnosť Európa",
+        "NIS2 poradenstvo",
+        "smernica EÚ o kybernetickej bezpečnosti",
+        "NIS2 súlad Európa"
+      ]
+    },
+    "hero": {
+      "badge": "Súlad s Kybernetickou Bezpečnosťou EÚ",
+      "title": "NIS2-kompatibilné IT Systémy – Návrh, Nasadenie, Prevádzka",
+      "subtitle": "SIRONIC buduje a prevádzkuje infraštruktúru v súlade s NIS2. Pripravíme Vašu organizáciu na externé audity s kompletnou dokumentáciou a odborným vedením.",
+      "cta": {
+        "primary": "Požiadať o Bezplatnú Konzultáciu",
+        "secondary": "Kontaktujte Nás"
+      }
+    },
+    "aiSummary": "SIRONIC poskytuje komplexné služby v oblasti NIS2 compliance pre európske podniky: navrhujeme, nasadzujeme a prevádzkujeme IT infraštruktúru v súlade s NIS2, pripravujeme všetku potrebnú dokumentáciu a politiky a sprevádzame organizácie externými auditmi vykonávanými certifikovanými audítormi. Naše služby zahŕňajú 24/7 monitorovanie, správu incidentov, stratégie zálohovania, kontrolu prístupov a úplný súlad s GDPR v celej EÚ.",
+    "whatWeDo": {
+      "title": "Ako Vám SIRONIC Pomáha Dosiahnuť Súlad s NIS2",
+      "subtitle": "My sa postaráme o technickú implementáciu a prevádzku – Vy sa sústreďte na svoje podnikanie",
+      "pillars": [
+        {
+          "title": "Budovanie Infraštruktúry v Súlade s NIS2",
+          "description": "Navrhujeme a nasadzujeme IT systémy, ktoré spĺňajú všetky technické požiadavky NIS2: segmentácia siete, kontroly prístupov, šifrovanie, protokolovanie, monitorovanie a zálohovacie systémy."
+        },
+        {
+          "title": "Prevádzka a Monitorovanie 24/7",
+          "description": "Nepretržité monitorovanie systému, detekcia a reakcia na incidenty, správa logov, overovanie záloh a bezpečnostné aktualizácie na udržanie trvalého súladu."
+        },
+        {
+          "title": "Príprava na Externé Audity",
+          "description": "Vytvárame všetku potrebnú dokumentáciu, politiky, postupy a dôkazy. Sprevádzame Vás procesom auditu, ale audity vykonávajú certifikovaní externí audítori."
+        }
+      ]
+    },
+    "whatWeDoNot": {
+      "title": "Dôležité: My NEVYKONÁVAME Audity",
+      "description": "SIRONIC navrhuje, buduje a prevádzkuje systémy v súlade s NIS2. Pripravíme Vašu organizáciu na externé audity s kompletnou dokumentáciou a odbornou podporou. Avšak samotné audity nevykonávame – tie musia vykonať nezávislí, certifikovaní audítori podľa požiadaviek NIS2."
+    },
+    "deliverables": {
+      "title": "Čo Získate",
+      "subtitle": "Kompletný balík NIS2 súladu",
+      "items": [
+        "Návrh a nasadenie IT infraštruktúry v súlade s NIS2",
+        "24/7 monitorovanie a systém reakcie na incidenty",
+        "Kompletný balík dokumentácie (politiky, postupy, diagramy)",
+        "Systém kontroly prístupu a správy identít",
+        "Centralizované protokolovanie a integrácia SIEM",
+        "Automatizované zálohovanie a riešenie obnovy po havárii",
+        "Školenie o bezpečnostnom povedomí pre zamestnancov",
+        "Plán a postupy reakcie na incidenty",
+        "Kontrolný zoznam prípravy na audit a zber dôkazov",
+        "Trvalá podpora súladu a aktualizácie"
+      ]
+    },
+    "timeline": {
+      "title": "Harmonogram Implementácie",
+      "subtitle": "Typické fázy projektu NIS2 compliance",
+      "phases": [
+        {
+          "title": "Fáza 1: Hodnotenie a Plánovanie",
+          "duration": "2-4 týždne",
+          "description": "Analýza nedostatkov, hodnotenie súladu, revízia infraštruktúry a podrobný plán implementácie s harmonogramom a rozpočtom."
+        },
+        {
+          "title": "Fáza 2: Nasadenie Infraštruktúry",
+          "duration": "6-12 týždňov",
+          "description": "Nasadenie systémov v súlade s NIS2: monitorovanie, protokolovanie, kontroly prístupov, šifrovanie, zálohovacie riešenia a segmentácia siete."
+        },
+        {
+          "title": "Fáza 3: Dokumentácia a Školenie",
+          "duration": "3-6 týždňov",
+          "description": "Vytvorenie všetkých potrebných politík, postupov a dokumentácie. Vedenie školení zamestnancov o bezpečnostnom povedomí a reakcii na incidenty."
+        },
+        {
+          "title": "Fáza 4: Príprava a Podpora Auditu",
+          "duration": "2-4 týždne",
+          "description": "Záverečné overenie súladu, zber dôkazov, príprava na audit a podpora počas procesu externého auditu."
+        }
+      ]
+    },
+    "faq": {
+      "title": "Často Kladené Otázky",
+      "items": [
+        {
+          "question": "Čo je NIS2 a na koho sa vzťahuje?",
+          "answer": "NIS2 (Smernica o sieťovej a informačnej bezpečnosti 2) je nariadenie EÚ o kybernetickej bezpečnosti, ktoré sa vzťahuje na dôležité a kľúčové subjekty v kritických sektoroch. Vyžaduje špecifické bezpečnostné opatrenia, hlásenie incidentov a pravidelné audity."
+        },
+        {
+          "question": "Vykonáva SIRONIC audity NIS2?",
+          "answer": "Nie. SIRONIC navrhuje, buduje a prevádzkuje IT systémy v súlade s NIS2. Pripravíme Vašu organizáciu na externé audity s kompletnou dokumentáciou a odborným vedením. Avšak samotné audity musia vykonať nezávislí, certifikovaní audítori podľa požiadaviek NIS2."
+        },
+        {
+          "question": "Ako dlho trvá implementácia NIS2?",
+          "answer": "Typicky 3-6 mesiacov v závislosti od Vašej aktuálnej infraštruktúry a nedostatkov v súlade. Po úvodnom hodnotení poskytneme podrobný harmonogram."
+        },
+        {
+          "question": "Čo sa stane, ak nebudeme spĺňať NIS2?",
+          "answer": "Nesúlad môže mať za následok značné pokuty (do 10 miliónov € alebo 2 % z celosvetového obratu), prevádzkové obmedzenia a poškodenie dobrého mena. NIS2 je pre dotknuté subjekty povinná."
+        },
+        {
+          "question": "Môžete pomôcť s trvalým súladom po počiatočnej implementácii?",
+          "answer": "Absolútne. Ponúkame trvalú podporu súladu vrátane 24/7 monitorovania, reakcie na incidenty, pravidelných bezpečnostných aktualizácií, aktualizácií dokumentácie a prípravy na periodické audity."
+        },
+        {
+          "question": "Pracujete s firmami mimo Maďarska?",
+          "answer": "Áno. Poskytujeme služby súladu s NIS2 v celej EÚ. Všetky naše riešenia sú navrhnuté pre nasadenie v celej EÚ so súladom s GDPR a viacjazyčnou podporou."
+        },
+        {
+          "question": "Čo je súčasťou prípravy na audit?",
+          "answer": "Vytvárame všetku potrebnú dokumentáciu (politiky, postupy, sieťové diagramy), zbierame dôkazy o súlade, pripravujeme zamestnancov na rozhovory a poskytujeme odborné vedenie počas celého procesu externého auditu."
+        },
+        {
+          "question": "Koľko stojí súlad s NIS2?",
+          "answer": "Náklady sa líšia v závislosti od veľkosti a zložitosti Vašej infraštruktúry. Po bezplatnom úvodnom hodnotení poskytneme podrobnú cenovú ponuku. Typické projekty sa pohybujú od 15 000 € do 50 000 €+ za počiatočnú implementáciu plus trvalá podpora."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Pripravení na Dosiahnutie Súladu s NIS2?",
+      "subtitle": "Požiadajte o bezplatnú konzultáciu a spoločne posúdime Vaše potreby v oblasti súladu.",
+      "cta": {
+        "primary": "Požiadať o Bezplatné Hodnotenie",
+        "secondary": "Kontaktujte Nás"
       }
     }
   }

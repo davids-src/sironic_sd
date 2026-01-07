@@ -175,9 +175,26 @@
         "keywords": [
           "IT on-site",
           "IT evenimente",
-          "tehnică conferințe",
-          "suport IT"
-        ]
+          "tehnică conferințe"
+        ],
+        "ogImage": "/og/onsite-presence-ro.jpg"
+      },
+      "nis2": {
+        "title": "Conformitate NIS2 – Proiectare și Operare Sisteme Conforme NIS2 | SIRONIC",
+        "description": "Proiectare, implementare și operare profesională a sistemelor IT conforme NIS2 în întreaga Europă. Pregătire audit, documentație, suport experți. Solicitați o ofertă!",
+        "keywords": [
+          "conformitate NIS2",
+          "pregătire NIS2",
+          "implementare sistem NIS2",
+          "operațiuni NIS2",
+          "conformitate securitate informații",
+          "suport audit NIS2",
+          "securitate cibernetică Europa",
+          "consultanță NIS2",
+          "directiva UE securitate cibernetică",
+          "conformitate NIS2 Europa"
+        ],
+        "ogImage": "/og/nis2-ro.jpg"
       }
     }
   },
@@ -242,6 +259,10 @@
     "repair": {
       "title": "Servicii de reparații & Întreținere",
       "description": "Repararea rapidă și fiabilă a calculatoarelor, laptopurilor, serverelor și echipamentelor de rețea la fața locului în Székesfehérvár și împrejurimi, sau prin expediere poștală. Oferte transparente înainte de reparație, recuperare date și eliminare viruși. Timp rapid de reparație cu garanție."
+    },
+    "nis2": {
+      "title": "Sistem IT Conform NIS2",
+      "description": "Proiectare și operare infrastructură pregătită pentru NIS2. Nu efectuăm audituri – ghidăm compania dumneavoastră prin procesul de audit pe baza recomandărilor consultanților, cu documentație completă. Conformitate completă cu directiva UE privind securitatea cibernetică, gestionarea accesului, jurnalizare, strategie de backup și gestionarea incidentelor."
     }
   },
   "mindenCegnek": {
@@ -626,6 +647,16 @@
           "Instruire privind conștientizarea securității",
           "Instruire utilizare software și dispozitive",
           "Programe corporative de dezvoltare a cunoștințelor"
+        ]
+      },
+      "nis2": {
+        "title": "Sistem IT Conform NIS2",
+        "description": "Proiectare și operare infrastructură pregătită pentru NIS2. Conformitate completă cu directiva UE privind securitatea cibernetică.",
+        "features": [
+          "Proiectare și implementare sistem conform NIS2",
+          "Monitorizare 24/7 și gestionare incidente",
+          "Documentație și politici",
+          "Pregătire audit și suport experți"
         ]
       }
     }
@@ -2070,6 +2101,174 @@
       "compliance": {
         "title": "Conformitate",
         "description": "Acest document este în conformitate cu cerințele GDPR UE și este potrivit pentru publicare pe site."
+      }
+    }
+  },
+  "nis2Block": {
+    "home": {
+      "title": "Infrastructură IT Conformă NIS2 – Construire, Operare, Pregătire Audit",
+      "subtitle": "SIRONIC proiectează, implementează și operează sisteme IT conforme NIS2. Pregătim organizația dumneavoastră pentru audituri externe – nu efectuăm audituri noi înșine, dar ne asigurăm că sunteți complet pregătiți.",
+      "benefits": [
+        "Proiectare și implementare completă a infrastructurii conforme NIS2",
+        "Monitorizare 24/7, jurnalizare și gestionare incidente",
+        "Documentație, politici și proceduri pentru pregătirea auditului",
+        "Suport experți pe parcursul procesului de audit extern",
+        "Livrare servicii la nivelul UE cu conformitate GDPR"
+      ],
+      "cards": {
+        "implementation": {
+          "title": "Proiectare și Implementare Sistem",
+          "description": "Proiectăm și construim infrastructură IT conformă NIS2 de la zero, asigurând îndeplinirea tuturor cerințelor tehnice și organizaționale."
+        },
+        "operation": {
+          "title": "Operațiuni și Monitorizare",
+          "description": "Monitorizare sistem 24/7, jurnalizare, gestionare backup și răspuns la incidente pentru menținerea conformității continue."
+        },
+        "auditSupport": {
+          "title": "Pregătire și Suport Audit",
+          "description": "Pregătim toată documentația, politicile și dovezile necesare pentru auditurile externe. Vă ghidăm prin proces, dar auditurile sunt efectuate de auditori externi certificați."
+        }
+      },
+      "cta": {
+        "primary": "Solicitați o Ofertă",
+        "secondary": "Aflați Mai Multe"
+      }
+    }
+  },
+  "nis2Page": {
+    "meta": {
+      "title": "Conformitate NIS2 – Proiectare și Operare Sisteme Conforme NIS2 | SIRONIC",
+      "description": "Proiectare, implementare și operare profesională a sistemelor IT conforme NIS2 în întreaga Europă. Pregătire audit, documentație, suport experți. Solicitați o ofertă!",
+      "keywords": [
+        "conformitate NIS2",
+        "pregătire NIS2",
+        "implementare sistem NIS2",
+        "operațiuni NIS2",
+        "conformitate securitate informații",
+        "suport audit NIS2",
+        "securitate cibernetică Europa",
+        "consultanță NIS2",
+        "directiva UE securitate cibernetică",
+        "conformitate NIS2 Europa"
+      ]
+    },
+    "hero": {
+      "badge": "Conformitate Securitate Cibernetică UE",
+      "title": "Sisteme IT Conforme NIS2 – Proiectare, Implementare, Operare",
+      "subtitle": "SIRONIC construiește și operează infrastructură conformă NIS2. Pregătim organizația dumneavoastră pentru audituri externe cu documentație completă și ghidare experți.",
+      "cta": {
+        "primary": "Solicitați Consultație Gratuită",
+        "secondary": "Contactați-ne"
+      }
+    },
+    "aiSummary": "SIRONIC oferă servicii complete de conformitate NIS2 pentru companiile europene: proiectăm, implementăm și operăm infrastructură IT conformă NIS2, pregătim toată documentația și politicile necesare și ghidăm organizațiile prin audituri externe efectuate de auditori certificați. Serviciile noastre includ monitorizare 24/7, gestionare incidente, strategii de backup, control acces și conformitate GDPR completă în întreaga UE.",
+    "whatWeDo": {
+      "title": "Cum Vă Ajută SIRONIC Să Obțineți Conformitatea NIS2",
+      "subtitle": "Noi ne ocupăm de implementarea tehnică și operațiuni – dumneavoastră vă concentrați pe afacere",
+      "pillars": [
+        {
+          "title": "Construire Infrastructură Conformă NIS2",
+          "description": "Proiectăm și implementăm sisteme IT care îndeplinesc toate cerințele tehnice NIS2: segmentare rețea, controale acces, criptare, jurnalizare, monitorizare și sisteme backup."
+        },
+        {
+          "title": "Operare și Monitorizare 24/7",
+          "description": "Monitorizare continuă a sistemului, detectare și răspuns la incidente, gestionare loguri, verificare backup și actualizări de securitate pentru menținerea conformității continue."
+        },
+        {
+          "title": "Pregătire pentru Audituri Externe",
+          "description": "Creăm toată documentația, politicile, procedurile și dovezile necesare. Vă ghidăm prin procesul de audit, dar auditurile sunt efectuate de auditori externi certificați."
+        }
+      ]
+    },
+    "whatWeDoNot": {
+      "title": "Important: Noi NU Efectuăm Audituri",
+      "description": "SIRONIC proiectează, construiește și operează sisteme conforme NIS2. Pregătim organizația dumneavoastră pentru audituri externe cu documentație completă și suport experți. Cu toate acestea, nu efectuăm auditurile noi înșine – acestea trebuie efectuate de auditori independenți, certificați, conform reglementărilor NIS2."
+    },
+    "deliverables": {
+      "title": "Ce Primiți",
+      "subtitle": "Pachet complet conformitate NIS2",
+      "items": [
+        "Proiectare și implementare infrastructură IT conformă NIS2",
+        "Sistem de monitorizare 24/7 și răspuns la incidente",
+        "Pachet complet documentație (politici, proceduri, diagrame)",
+        "Sistem control acces și management identitate",
+        "Jurnalizare centralizată și integrare SIEM",
+        "Soluție backup automat și recuperare în caz de dezastru",
+        "Instruire conștientizare securitate pentru personal",
+        "Plan și proceduri răspuns la incidente",
+        "Listă verificare pregătire audit și colectare dovezi",
+        "Suport conformitate continuu și actualizări"
+      ]
+    },
+    "timeline": {
+      "title": "Calendar Implementare",
+      "subtitle": "Faze tipice proiect conformitate NIS2",
+      "phases": [
+        {
+          "title": "Faza 1: Evaluare și Planificare",
+          "duration": "2-4 săptămâni",
+          "description": "Analiză decalaje, evaluare conformitate, revizuire infrastructură și plan detaliat implementare cu calendar și buget."
+        },
+        {
+          "title": "Faza 2: Implementare Infrastructură",
+          "duration": "6-12 săptămâni",
+          "description": "Implementare sisteme conforme NIS2: monitorizare, jurnalizare, controale acces, criptare, soluții backup și segmentare rețea."
+        },
+        {
+          "title": "Faza 3: Documentație și Instruire",
+          "duration": "3-6 săptămâni",
+          "description": "Creare toate politicile, procedurile și documentația necesară. Desfășurare instruire personal privind conștientizarea securității și răspuns la incidente."
+        },
+        {
+          "title": "Faza 4: Pregătire și Suport Audit",
+          "duration": "2-4 săptămâni",
+          "description": "Verificare finală conformitate, colectare dovezi, pregătire audit și suport pe parcursul procesului de audit extern."
+        }
+      ]
+    },
+    "faq": {
+      "title": "Întrebări Frecvente",
+      "items": [
+        {
+          "question": "Ce este NIS2 și cui se aplică?",
+          "answer": "NIS2 (Directiva privind Securitatea Rețelelor și Informațiilor 2) este o reglementare UE de securitate cibernetică care se aplică entităților esențiale și importante din sectoarele critice. Aceasta impune măsuri specifice de securitate, raportarea incidentelor și audituri regulate."
+        },
+        {
+          "question": "Efectuează SIRONIC audituri NIS2?",
+          "answer": "Nu. SIRONIC proiectează, construiește și operează sisteme IT conforme NIS2. Pregătim organizația dumneavoastră pentru audituri externe cu documentație completă și ghidare experți. Cu toate acestea, auditurile în sine trebuie efectuate de auditori independenți, certificați, conform reglementărilor NIS2."
+        },
+        {
+          "question": "Cât durează implementarea NIS2?",
+          "answer": "În mod tipic 3-6 luni, în funcție de infrastructura actuală și decalajele de conformitate. Oferim un calendar detaliat după evaluarea inițială."
+        },
+        {
+          "question": "Ce se întâmplă dacă nu respectăm NIS2?",
+          "answer": "Neconformitatea poate duce la amenzi semnificative (până la 10 milioane € sau 2% din cifra de afaceri globală), restricții operaționale și daune reputaționale. NIS2 este obligatorie pentru entitățile vizate."
+        },
+        {
+          "question": "Puteți ajuta cu conformitatea continuă după implementarea inițială?",
+          "answer": "Absolut. Oferim suport continuu pentru conformitate, inclusiv monitorizare 24/7, răspuns la incidente, actualizări regulate de securitate, actualizări documentație și pregătire pentru audituri periodice."
+        },
+        {
+          "question": "Lucrați cu companii din afara Ungariei?",
+          "answer": "Da. Oferim servicii de conformitate NIS2 în întreaga UE. Toate soluțiile noastre sunt concepute pentru implementare la nivelul UE cu conformitate GDPR și suport multilingv."
+        },
+        {
+          "question": "Ce este inclus în pregătirea pentru audit?",
+          "answer": "Creăm toată documentația necesară (politici, proceduri, diagrame rețea), colectăm dovezi de conformitate, pregătim personalul pentru interviuri și oferim ghidare experți pe tot parcursul procesului de audit extern."
+        },
+        {
+          "question": "Cât costă conformitatea NIS2?",
+          "answer": "Costurile variază în funcție de dimensiunea și complexitatea infrastructurii dumneavoastră. După o evaluare inițială gratuită, oferim o ofertă detaliată. Proiectele tipice variază de la 15.000 € la 50.000 €+ pentru implementarea inițială, plus suport continuu."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Sunteți Gata Să Obțineți Conformitatea NIS2?",
+      "subtitle": "Solicitați o consultație gratuită și să evaluăm împreună nevoile dumneavoastră de conformitate.",
+      "cta": {
+        "primary": "Solicitați Evaluare Gratuită",
+        "secondary": "Contactați-ne"
       }
     }
   }

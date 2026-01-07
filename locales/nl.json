@@ -187,7 +187,25 @@
                     "event IT",
                     "conferentietechniek",
                     "IT-toezicht"
-                ]
+                ],
+                "ogImage": "/og/onsite-presence-nl.jpg"
+            },
+            "nis2": {
+                "title": "NIS2 Naleving – Ontwerp en Beheer van NIS2-conforme Systemen | SIRONIC",
+                "description": "Professioneel ontwerp, implementatie en beheer van NIS2-conforme IT-systemen in heel Europa. Auditvoorbereiding, documentatie, deskundige ondersteuning. Vraag offerte aan!",
+                "keywords": [
+                    "NIS2-naleving",
+                    "NIS2-voorbereiding",
+                    "NIS2-systeemimplementatie",
+                    "NIS2-beheer",
+                    "informatiebeveiligingsnaleving",
+                    "NIS2-auditondersteuning",
+                    "cybersecurity Europa",
+                    "NIS2-advies",
+                    "EU-cyberbeveiligingsrichtlijn",
+                    "NIS2-naleving Europa"
+                ],
+                "ogImage": "/og/nis2-nl.jpg"
             }
         }
     },
@@ -252,6 +270,10 @@
         "repair": {
             "title": "Service & Reparatie",
             "description": "Snelle en betrouwbare reparatie van computers, laptops, servers en netwerkapparatuur on-site in Székesfehérvár en omgeving, of via post. Transparante offertes voor reparatie, gegevensherstel en virusverwijdering. Snelle reparatietijd met garantie."
+        },
+        "nis2": {
+            "title": "NIS2-conform IT-systeem",
+            "description": "Ontwerp en beheer van NIS2-gereed infrastructuur. Wij voeren geen audits uit – wij begeleiden uw bedrijf door het auditproces op basis van aanbevelingen van adviseurs, met volledige documentatie. Volledige naleving van de EU-cyberbeveiligingsrichtlijn, toegangsbeheer, logging, back-upstrategie en incidentbeheer."
         }
     },
     "customDevelopment": {
@@ -493,8 +515,8 @@
                 "answer": "Natuurlijk. We ontwikkelen unieke, responsieve websites met moderne technologieën (Next.js, React, Tailwind), en zorgen ervoor dat de site snel, veilig en zoekmachine-geoptimaliseerd is."
             },
             {
-                "question": "Wat is CRM Pro, en hoe helpt het mijn bedrijf?",
-                "answer": "CRM Pro is een klantbeheersysteem op maat, dat verkoopprocessen transparant maakt, administratie automatiseert en geïntegreerd kan worden met bestaande systemen. Beschikbaar in een prijscategorie die ook betaalbaar is voor kleinere bedrijven."
+                "question": "Wat is NIS2, en voor wie geldt het?",
+                "answer": "NIS2 (Netwerk- en Informatiebeveiligingsrichtlijn 2) is een EU-verordening over cyberbeveiliging die geldt voor essentiële en belangrijke entiteiten in kritieke sectoren. Het vereist specifieke beveiligingsmaatregelen, incidentrapportage en regelmatige audits."
             },
             {
                 "question": "Welke veiligheidsmaatregelen gebruiken jullie?",
@@ -661,6 +683,16 @@
                     "Bewustwordingstraining beveiliging",
                     "Gebruikerstraining software en apparaten",
                     "Bedrijfskennisontwikkelingsprogramma's"
+                ]
+            },
+            "nis2": {
+                "title": "NIS2-conform IT-systeem",
+                "description": "Ontwerp en beheer van NIS2-gereed infrastructuur. Volledige naleving van de EU-cyberbeveiligingsrichtlijn.",
+                "features": [
+                    "Ontwerp en implementatie van NIS2-conforme systemen",
+                    "24/7 monitoring en incidentbeheer",
+                    "Documentatie en beleid",
+                    "Auditvoorbereiding en deskundige ondersteuning"
                 ]
             }
         }
@@ -2081,6 +2113,174 @@
             "compliance": {
                 "title": "Naleving",
                 "description": "Dit document voldoet aan de EU-GDPR-vereisten en is geschikt voor publicatie op de website."
+            }
+        }
+    },
+    "nis2Block": {
+        "home": {
+            "title": "NIS2-conforme IT-infrastructuur – Bouw, Beheer, Auditvoorbereiding",
+            "subtitle": "SIRONIC ontwerpt, implementeert en beheert NIS2-conforme IT-systemen. Wij bereiden uw organisatie voor op externe audits – wij voeren zelf geen audits uit, maar zorgen ervoor dat u perfect voorbereid bent.",
+            "benefits": [
+                "Compleet ontwerp en implementatie van NIS2-conforme infrastructuur",
+                "24/7 monitoring, logging en incidentbeheer",
+                "Documentatie, beleid en procedures voor auditvoorbereiding",
+                "Deskundige ondersteuning tijdens het gehele externe auditproces",
+                "Servicelevering op EU-niveau met GDPR-naleving"
+            ],
+            "cards": {
+                "implementation": {
+                    "title": "Systeemontwerp en implementatie",
+                    "description": "Wij ontwerpen en bouwen NIS2-conforme IT-infrastructuren vanaf nul, en zorgen ervoor dat aan alle technische en organisatorische eisen wordt voldaan."
+                },
+                "operation": {
+                    "title": "Beheer en monitoring",
+                    "description": "24/7 systeembewaking, logging, back-upbeheer en incidentrespons om voortdurende naleving te handhaven."
+                },
+                "auditSupport": {
+                    "title": "Auditvoorbereiding en ondersteuning",
+                    "description": "Wij stellen alle noodzakelijke documentatie, beleid en bewijsmateriaal op voor externe audits. Wij begeleiden u door het proces, maar audits worden uitgevoerd door gecertificeerde externe auditors."
+                }
+            },
+            "cta": {
+                "primary": "Vraag offerte aan",
+                "secondary": "Lees meer"
+            }
+        }
+    },
+    "nis2Page": {
+        "meta": {
+            "title": "NIS2 Naleving – Ontwerp en Beheer van NIS2-conforme Systemen | SIRONIC",
+            "description": "Professioneel ontwerp, implementatie en beheer van NIS2-conforme IT-systemen in heel Europa. Auditvoorbereiding, documentatie, deskundige ondersteuning. Vraag offerte aan!",
+            "keywords": [
+                "NIS2-naleving",
+                "NIS2-voorbereiding",
+                "NIS2-systeemimplementatie",
+                "NIS2-beheer",
+                "informatiebeveiligingsnaleving",
+                "NIS2-auditondersteuning",
+                "cybersecurity Europa",
+                "NIS2-advies",
+                "EU-cyberbeveiligingsrichtlijn",
+                "NIS2-naleving Europa"
+            ]
+        },
+        "hero": {
+            "badge": "EU Cyberbeveiliging",
+            "title": "NIS2-conforme IT-systemen – Ontwerp, Implementatie, Beheer",
+            "subtitle": "SIRONIC bouwt en beheert NIS2-conforme infrastructuren. Wij bereiden uw organisatie voor op externe audits met uitgebreide documentatie en deskundige begeleiding.",
+            "cta": {
+                "primary": "Boek gratis consultatie",
+                "secondary": "Neem contact op"
+            }
+        },
+        "aiSummary": "SIRONIC biedt uitgebreide NIS2-nalevingsdiensten voor Europese bedrijven: wij ontwerpen, implementeren en beheren NIS2-conforme IT-infrastructuren, bereiden alle noodzakelijke documentatie en beleid voor, en begeleiden organisaties door externe audits uitgevoerd door gecertificeerde auditors. Onze diensten omvatten 24/7 monitoring, incidentbeheer, back-upstrategieën, toegangscontrole en volledige GDPR-naleving in de hele EU.",
+        "whatWeDo": {
+            "title": "Hoe SIRONIC u helpt NIS2-naleving te bereiken",
+            "subtitle": "Wij zorgen voor technische implementatie en beheer – u richt zich op uw bedrijf",
+            "pillars": [
+                {
+                    "title": "Bouw van NIS2-conforme infrastructuur",
+                    "description": "Wij ontwerpen en implementeren IT-systemen die voldoen aan alle technische NIS2-vereisten: netwerksegmentatie, toegangscontroles, encryptie, logging, monitoring en back-upsystemen."
+                },
+                {
+                    "title": "24/7 Beheer en monitoring",
+                    "description": "Continue systeembewaking, incidentdetectie en respons, logbeheer, back-upverificatie en beveiligingsupdates om voortdurende naleving te handhaven."
+                },
+                {
+                    "title": "Voorbereiding op externe audits",
+                    "description": "Wij creëren alle noodzakelijke documentatie, beleid, procedures en bewijsmateriaal. Wij begeleiden u door het auditproces, maar audits worden uitgevoerd door gecertificeerde externe auditors."
+                }
+            ]
+        },
+        "whatWeDoNot": {
+            "title": "Belangrijk: Wij voeren GEEN audits uit",
+            "description": "SIRONIC ontwerpt, bouwt en beheert NIS2-conforme systemen. Wij bereiden uw organisatie voor op externe audits met volledige documentatie en deskundige ondersteuning. Wij voeren echter zelf geen audits uit – deze moeten worden uitgevoerd door onafhankelijke en gecertificeerde auditors in overeenstemming met de NIS2-regels."
+        },
+        "deliverables": {
+            "title": "Wat u krijgt",
+            "subtitle": "Compleet NIS2-nalevingspakket",
+            "items": [
+                "Ontwerp en implementatie van NIS2-conforme IT-infrastructuur",
+                "24/7 monitoring- en incidentresponssysteem",
+                "Compleet documentatiepakket (beleid, procedures, diagrammen)",
+                "Toegangscontrole en identiteitsbeheersysteem",
+                "Gecentraliseerde logging en SIEM-integratie",
+                "Geautomatiseerde back-upoplossing en rampherstel",
+                "Beveiligingsbewustwordingstraining voor personeel",
+                "Plan en procedures voor incidentrespons",
+                "Checklist voor auditvoorbereiding en bewijsverzameling",
+                "Doorlopende nalevingsondersteuning en updates"
+            ]
+        },
+        "timeline": {
+            "title": "Implementatietijdlijn",
+            "subtitle": "Typische fasen in een NIS2-nalevingsproject",
+            "phases": [
+                {
+                    "title": "Fase 1: Beoordeling en Planning",
+                    "duration": "2-4 weken",
+                    "description": "Gapanalyse, nalevingsbeoordeling, infrastructuurbeoordeling en gedetailleerd implementatieplan met tijdlijn en budget."
+                },
+                {
+                    "title": "Fase 2: Infrastructuurimplementatie",
+                    "duration": "6-12 weken",
+                    "description": "Implementatie van NIS2-conforme systemen: monitoring, logging, toegangscontroles, encryptie, back-upoplossingen en netwerksegmentatie."
+                },
+                {
+                    "title": "Fase 3: Documentatie en Training",
+                    "duration": "3-6 weken",
+                    "description": "Creatie van alle noodzakelijke beleidsregels, procedures en documentatie. Uitvoeren van personeelsbeveiligingstraining en incidentresponsoefeningen."
+                },
+                {
+                    "title": "Fase 4: Auditvoorbereiding en Ondersteuning",
+                    "duration": "2-4 weken",
+                    "description": "Laatste nalevingscontrole, bewijsverzameling, auditvoorbereiding en ondersteuning tijdens het externe auditproces."
+                }
+            ]
+        },
+        "faq": {
+            "title": "Veelgestelde Vragen",
+            "items": [
+                {
+                    "question": "Wat is NIS2, en voor wie geldt het?",
+                    "answer": "NIS2 (Netwerk- en Informatiebeveiligingsrichtlijn 2) is een EU-verordening over cyberbeveiliging die geldt voor essentiële en belangrijke entiteiten in kritieke sectoren. Het vereist specifieke beveiligingsmaatregelen, incidentrapportage en regelmatige audits."
+                },
+                {
+                    "question": "Voert SIRONIC NIS2-audits uit?",
+                    "answer": "Nee. SIRONIC ontwerpt, bouwt en beheert NIS2-conforme IT-systemen. Wij bereiden uw organisatie voor op externe audits met volledige documentatie en deskundige begeleiding. De audits zelf moeten echter worden uitgevoerd door onafhankelijke en gecertificeerde auditors in overeenstemming met de NIS2-regels."
+                },
+                {
+                    "question": "Hoe lang duurt NIS2-implementatie?",
+                    "answer": "Typisch 3-6 maanden, afhankelijk van uw huidige infrastructuur en nalevingskloof. Na een eerste beoordeling geven we een gedetailleerde tijdlijn."
+                },
+                {
+                    "question": "Wat gebeurt er als we niet voldoen aan NIS2?",
+                    "answer": "Niet-naleving kan leiden tot aanzienlijke boetes (tot 10 miljoen euro of 2% van de wereldwijde omzet), operationele beperkingen en reputatieschade. NIS2 is verplicht voor gedekte entiteiten."
+                },
+                {
+                    "question": "Kunnen jullie helpen met doorlopende naleving na de initiële implementatie?",
+                    "answer": "Absoluut. We bieden doorlopende nalevingsondersteuning, inclusief 24/7 monitoring, incidentbeheer, regelmatige beveiligingsupdates, documentatie-updates en voorbereiding op periodieke audits."
+                },
+                {
+                    "question": "Werken jullie met bedrijven buiten Hongarije?",
+                    "answer": "Ja. We leveren NIS2-nalevingsdiensten in de hele EU. Al onze oplossingen zijn ontworpen voor implementatie op EU-niveau met GDPR-naleving en meertalige ondersteuning."
+                },
+                {
+                    "question": "Wat is inbegrepen in de auditvoorbereiding?",
+                    "answer": "We creëren alle noodzakelijke documentatie (beleid, procedures, netwerkdiagrammen), verzamelen bewijs van naleving, bereiden personeel voor op interviews en bieden deskundige begeleiding gedurende het gehele externe auditproces."
+                },
+                {
+                    "question": "Hoeveel kost NIS2-naleving?",
+                    "answer": "De kosten variëren afhankelijk van de grootte en complexiteit van uw infrastructuur. Na een gratis eerste beoordeling geven we een gedetailleerde offerte. Typische projecten variëren van €15.000 tot €50.000+ voor initiële implementatie plus doorlopende ondersteuning."
+                }
+            ]
+        },
+        "finalCta": {
+            "title": "Klaar om NIS2-naleving te bereiken?",
+            "subtitle": "Boek een gratis consultatie, en laten we samen uw nalevingsbehoeften beoordelen.",
+            "cta": {
+                "primary": "Boek gratis beoordeling",
+                "secondary": "Neem contact op"
             }
         }
     }

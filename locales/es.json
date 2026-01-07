@@ -183,7 +183,25 @@
           "TI eventos",
           "tecnología conferencias",
           "supervisión TI"
-        ]
+        ],
+        "ogImage": "/og/onsite-presence-es.jpg"
+      },
+      "nis2": {
+        "title": "Cumplimiento NIS2 – Diseño y Operación de Sistemas Conformes a NIS2 | SIRONIC",
+        "description": "Diseño profesional, implementación y operación de sistemas TI conformes a NIS2 en toda Europa. Preparación para auditoría, documentación, soporte experto. ¡Solicite un presupuesto!",
+        "keywords": [
+          "cumplimiento NIS2",
+          "preparación NIS2",
+          "implementación sistema NIS2",
+          "operaciones NIS2",
+          "cumplimiento seguridad información",
+          "soporte auditoría NIS2",
+          "ciberseguridad Europa",
+          "consultoría NIS2",
+          "directiva UE ciberseguridad",
+          "cumplimiento NIS2 Europa"
+        ],
+        "ogImage": "/og/nis2-es.jpg"
       }
     }
   },
@@ -248,6 +266,10 @@
     "repair": {
       "title": "Servicios de Reparación y Mantenimiento",
       "description": "Reparación rápida y fiable de ordenadores, portátiles, servidores y equipos de red in situ en Székesfehérvár y alrededores, o por servicio postal. Presupuestos transparentes antes de la reparación, recuperación de datos y eliminación de virus. Tiempo de reparación rápido con garantía."
+    },
+    "nis2": {
+      "title": "Sistema TI conforme a NIS2",
+      "description": "Diseño y operación de infraestructura lista para NIS2. No realizamos auditorías – guiamos a su empresa a través del proceso de auditoría basándonos en recomendaciones de consultores, con documentación completa. Pleno cumplimiento de la directiva de ciberseguridad de la UE, gestión de accesos, registro, estrategia de copias de seguridad y gestión de incidentes."
     }
   },
   "mindenCegnek": {
@@ -632,6 +654,16 @@
           "Formación en concienciación de seguridad",
           "Formación en uso de software y dispositivos",
           "Programas de desarrollo de conocimientos corporativos"
+        ]
+      },
+      "nis2": {
+        "title": "Sistema TI conforme a NIS2",
+        "description": "Diseño y operación de infraestructura lista para NIS2. Pleno cumplimiento de la directiva de ciberseguridad de la UE.",
+        "features": [
+          "Diseño e implementación de sistemas conformes a NIS2",
+          "Monitorización 24/7 y gestión de incidentes",
+          "Documentación y políticas",
+          "Preparación para auditoría y soporte experto"
         ]
       }
     }

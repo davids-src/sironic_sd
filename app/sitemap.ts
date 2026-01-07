@@ -262,6 +262,11 @@ export default function sitemap(): MetadataRoute.Sitemap {
       { path: 'ochrana-soukromi', changeFreq: 'monthly', priority: 0.6, allowedLocales: ['cs'] },
 
       // ============================================
+      // NIS2 COMPLIANCE SERVICE (All Languages)
+      // ============================================
+      { path: 'nis2', changeFreq: 'monthly', priority: 0.9 },
+
+      // ============================================
       // WAVE STARTER PACK - LEAD GEN
       // ============================================
       { path: 'book', changeFreq: 'monthly', priority: 0.8 },
