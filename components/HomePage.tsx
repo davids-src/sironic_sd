@@ -9,7 +9,7 @@ import { LocalBusinessSchema } from '@/components/structured-data/LocalBusinessS
 import { Button } from '@/components/ui/button';
 import { CTAButton } from '@/components/CTAButton';
 import { SectionTitle } from '@/components/SectionTitle';
-import { Server, Network, Shield, Code, CheckCircle, ShoppingCart, ShieldCheck, Wrench, ArrowRight } from 'lucide-react';
+import { Server, Network, Shield, Code, CheckCircle, ShoppingCart, Wrench, ArrowRight } from 'lucide-react';
 import Link from 'next/link';
 import { useTranslation } from '@/hooks/useTranslation';
 import { getLocalizedPath } from '@/lib/routes';
@@ -92,7 +92,7 @@ export function HomePage() {
         {
             title: t('services.nis2.title'),
             description: t('services.nis2.description'),
-            icon: ShieldCheck,
+            icon: Shield,
         },
         {
             title: t('services.repair.title'),

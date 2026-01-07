@@ -5,7 +5,7 @@ import { useParams } from 'next/navigation';
 import Link from 'next/link';
 import { CTAButton } from '@/components/CTAButton';
 import { SectionTitle } from '@/components/SectionTitle';
-import { Shield, Network, CheckCircle, FileText, Clock, ArrowRight, AlertCircle } from 'lucide-react';
+import { Shield, Network, CheckCircle, Clock, ArrowRight } from 'lucide-react';
 import { Locale } from '@/i18n';
 import { Nis2Schema } from '@/components/structured-data/Nis2Schema';
 
@@ -108,7 +108,7 @@ export function Nis2Page() {
                         <div className="p-8 rounded-2xl bg-amber-50 dark:bg-amber-950/20 border-2 border-amber-200 dark:border-amber-900">
                             <div className="flex items-start gap-4">
                                 <div className="shrink-0">
-                                    <AlertCircle className="h-8 w-8 text-amber-600 dark:text-amber-500" />
+                                    <Shield className="h-8 w-8 text-amber-600 dark:text-amber-500" />
                                 </div>
                                 <div>
                                     <h2 className="text-2xl font-bold mb-4">{t('nis2Page.whatWeDoNot.title')}</h2>

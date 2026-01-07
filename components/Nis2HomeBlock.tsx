@@ -5,7 +5,7 @@ import { useParams } from 'next/navigation';
 import Link from 'next/link';
 import { CTAButton } from '@/components/CTAButton';
 import { SectionTitle } from '@/components/SectionTitle';
-import { Shield, CheckCircle, Network, ShieldCheck, ArrowRight } from 'lucide-react';
+import { Shield, CheckCircle, Network, ArrowRight } from 'lucide-react';
 import { Locale } from '@/i18n';
 
 export function Nis2HomeBlock() {
@@ -41,7 +41,7 @@ export function Nis2HomeBlock() {
                 {/* Header */}
                 <div className="max-w-4xl mx-auto text-center mb-16">
                     <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-brand-red/10 text-brand-red mb-6">
-                        <ShieldCheck className="h-4 w-4" />
+                        <Shield className="h-4 w-4" />
                         <span className="text-sm font-semibold">EU Kiberbiztonsági Megfelelés</span>
                     </div>
                     <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold tracking-tight mb-6">
