@@ -215,6 +215,28 @@
           "Magyarország"
         ],
         "ogImage": "/og/nis2-hu.jpg"
+      },
+      "partners": {
+        "title": "IT Partnerek – Technológiai együttműködés | SIRONIC IT Solutions",
+        "description": "Ismerjék meg a SIRONIC megbízható IT technológiai partnereit. Hardver, szoftver, felhő és kiberbiztonsági cégek az egész Európában.",
+        "keywords": [
+          "IT partnerek",
+          "technológiai partnerek",
+          "IT együttműködés",
+          "EU technológiai partnerek"
+        ],
+        "ogImage": "/og/partners-hu.jpg"
+      },
+      "references": {
+        "title": "IT Referenciák & Projektek – Valódi eredmények | SIRONIC IT Solutions",
+        "description": "Böngésszen a SIRONIC IT projekt referenciái és esettanulmányai között. Hálózati telepítések, egyedi szoftverek, felhőmigrációk kkv-k számára.",
+        "keywords": [
+          "IT referenciák",
+          "IT projektek",
+          "esettanulmányok",
+          "digitális transzformáció"
+        ],
+        "ogImage": "/og/references-hu.jpg"
       }
     }
   },
@@ -222,6 +244,8 @@
     "home": "Főoldal",
     "services": "Szolgáltatások",
     "products": "Termékeink",
+    "partners": "Partnereink",
+    "references": "Referenciáink",
     "pricing": "Árak",
     "about": "Rólunk",
     "blog": "Blog",
@@ -2460,5 +2484,68 @@
         }
       ]
     }
+  },
+  "partnersPage": {
+    "badge": "Ügyfeleink",
+    "heroTitle": "Akiket Kiszolgálunk",
+    "heroSubtitle": "Büszkék vagyunk ügyfeleinkre – kis- és középvállalkozások, akiknek megbízhattuk magukat az IT rendszereikkel.",
+    "intro": "A SIRONIC elsősorban kis- és középvállalkozásokat szolgál ki szerte Európában. Ügyfeleink különböző iparágakból érkeznek – az egészségügytől a kereskedelemen át az oktatásig. Minden partnerkapcsolatot hosszú távú együttműködésnek tekintünk.",
+    "gridTitle": "Partnercégeink",
+    "gridSubtitle": "Cégek, akik megbíznak bennünk IT rendszereik üzemeltetésével és fejlesztésével.",
+    "visitWebsite": "Weboldal megtekintése",
+    "whyTitle": "Miért bíznak bennünk ügyfeleink?",
+    "why": {
+      "reach": {
+        "title": "Gyors reakcióidő",
+        "description": "Szerződéses partnereinknek garantált SLA reakcióidőt biztosítunk – standard esetben 4 órán belül, kritikus esetben 1 órán belül."
+      },
+      "trust": {
+        "title": "Személyes kapcsolat",
+        "description": "Nincs ticketrendszer-labirintus. Partnereinket személyesen ismerjük, és közvetlenül elérhetők vagyunk."
+      },
+      "innovation": {
+        "title": "Hosszú távú gondolkodás",
+        "description": "Nem csak megoldjuk a problémát – megelőzzük a következőt. Proaktív megközelítéssel dolgozunk minden ügyfél esetén."
+      }
+    },
+    "cta": {
+      "title": "Legyen Ön is partnerünk!",
+      "subtitle": "Kérjen ingyenes konzultációt és nézzük meg, hogyan tudunk segíteni az Ön vállalkozásának.",
+      "button": "Ingyenes konzultáció kérése"
+    },
+    "partners": []
+  },
+  "referencesPage": {
+    "badge": "Referenciáink",
+    "heroTitle": "Projektek és Referenciáink",
+    "heroSubtitle": "Valódi IT projektek mérhető eredményekkel. Hálózati infrastruktúrától egyedi szoftverfejlesztésig – lássa, hogyan teremt értéket a SIRONIC ügyfelei számára Európa-szerte.",
+    "intro": "5+ év működés alatt több száz IT projektet végeztünk el kis- és középvállalkozások számára szerte Európában. Referenciáink teljes hálózati megújításoktól és egyedi webfejlesztéstől a felhőmigrációig és kiberbiztonsági megvalósításokig terjednek.",
+    "gridTitle": "Kiválasztott projektek",
+    "gridSubtitle": "Befejezett IT projektek válogatása – képességeink szélességét és mélységét bemutatva.",
+    "outcomeLabel": "Eredmény",
+    "stats": [
+      {
+        "value": "100+",
+        "label": "Befejezett projekt"
+      },
+      {
+        "value": "5+",
+        "label": "Év tapasztalat"
+      },
+      {
+        "value": "16",
+        "label": "Kiszolgált ország"
+      },
+      {
+        "value": "99.9%",
+        "label": "Ügyfél-elégedettség"
+      }
+    ],
+    "cta": {
+      "title": "Készen áll a projektjére?",
+      "subtitle": "Vegye fel velünk a kapcsolatot ingyenes konzultációért és mutassuk meg, mit tudunk elérni az Ön vállalkozása számára.",
+      "button": "Ingyenes konzultáció kérése"
+    },
+    "references": []
   }
 }

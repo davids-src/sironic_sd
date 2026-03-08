@@ -205,6 +205,29 @@
           "Germany"
         ],
         "ogImage": "/og/nis2-en.jpg"
+      },
+      "partners": {
+        "title": "IT Partners – Technology & Collaboration | SIRONIC IT Solutions",
+        "description": "Discover SIRONIC's trusted IT technology partners. Hardware, software, cloud and cybersecurity companies delivering top IT solutions across Europe.",
+        "keywords": [
+          "IT partners",
+          "technology partners",
+          "IT collaboration",
+          "EU technology partners"
+        ],
+        "ogImage": "/og/partners-en.jpg"
+      },
+      "references": {
+        "title": "IT References & Projects – Real Results | SIRONIC IT Solutions",
+        "description": "Browse SIRONIC's IT project references and case studies. Network deployments, custom software, cloud migrations and cybersecurity projects for European SMBs.",
+        "keywords": [
+          "IT references",
+          "IT projects",
+          "case studies",
+          "digital transformation",
+          "SMB IT projects"
+        ],
+        "ogImage": "/og/references-en.jpg"
       }
     }
   },
@@ -212,6 +235,8 @@
     "home": "Home",
     "services": "Services",
     "products": "Products",
+    "partners": "Partners",
+    "references": "References",
     "pricing": "Pricing",
     "about": "About Us",
     "blog": "Blog",
@@ -2606,5 +2631,95 @@
       "title": "Need Help with This?",
       "button": "Request Consultation"
     }
+  },
+  "partnersPage": {
+    "badge": "Our Clients",
+    "heroTitle": "Who We Serve",
+    "heroSubtitle": "We're proud of our clients – small and medium-sized businesses who trust us with their IT systems.",
+    "intro": "SIRONIC primarily serves small and medium-sized businesses across Europe. Our clients come from diverse industries – healthcare, retail, education, and more. We see every client relationship as a long-term partnership.",
+    "gridTitle": "Our Partner Companies",
+    "gridSubtitle": "Companies that trust us with their IT operations and development.",
+    "visitWebsite": "Visit website",
+    "whyTitle": "Why do our clients trust us?",
+    "why": {
+      "reach": {
+        "title": "Fast Response Time",
+        "description": "We provide guaranteed SLA response times for contracted partners – within 4 hours for standard issues, 1 hour for critical failures."
+      },
+      "trust": {
+        "title": "Personal Relationship",
+        "description": "No ticket-system labyrinths. We know our partners personally and are directly reachable."
+      },
+      "innovation": {
+        "title": "Long-Term Thinking",
+        "description": "We don't just fix the problem – we prevent the next one. We work proactively for every client."
+      }
+    },
+    "cta": {
+      "title": "Become Our Partner!",
+      "subtitle": "Request a free consultation and let's see how we can help your business.",
+      "button": "Request Free Consultation"
+    },
+    "meta": {
+      "title": "Our IT Partners – Technology & Collaboration | SIRONIC IT Solutions",
+      "description": "Discover SIRONIC's trusted IT technology partners. We collaborate with leading hardware, software, cloud, and cybersecurity companies to deliver top-quality IT solutions across Europe.",
+      "keywords": [
+        "IT partners",
+        "technology partners",
+        "SIRONIC partners",
+        "IT collaboration",
+        "EU technology partners",
+        "cybersecurity partners",
+        "cloud partners"
+      ]
+    },
+    "partners": []
+  },
+  "referencesPage": {
+    "badge": "Our References",
+    "heroTitle": "Projects & References",
+    "heroSubtitle": "Real IT projects with measurable results. From network infrastructure to custom software — see how SIRONIC delivers value for business clients across Europe.",
+    "intro": "Over 5 years of operation, we have completed hundreds of IT projects for small and medium-sized businesses across Europe. Our references range from complete network overhauls and custom web development to cloud migrations and cybersecurity implementations. Every project is built on transparency, expertise, and a commitment to long-term results.",
+    "gridTitle": "Selected Projects",
+    "gridSubtitle": "A curated selection of completed IT projects — showcasing the breadth and depth of our capabilities.",
+    "outcomeLabel": "Result",
+    "stats": [
+      {
+        "value": "100+",
+        "label": "Completed Projects"
+      },
+      {
+        "value": "5+",
+        "label": "Years Experience"
+      },
+      {
+        "value": "16",
+        "label": "Countries Served"
+      },
+      {
+        "value": "99.9%",
+        "label": "Client Satisfaction"
+      }
+    ],
+    "cta": {
+      "title": "Ready to Start Your Project?",
+      "subtitle": "Contact us for a free consultation and let us show you what we can achieve for your business.",
+      "button": "Request Free Consultation"
+    },
+    "meta": {
+      "title": "IT References & Projects – Real Results | SIRONIC IT Solutions",
+      "description": "Browse SIRONIC's IT project references and case studies. Network deployments, custom software, cloud migrations, and cybersecurity projects for European SMBs.",
+      "keywords": [
+        "IT references",
+        "IT projects",
+        "network deployment",
+        "custom software",
+        "IT case studies",
+        "digital transformation",
+        "SMB IT projects",
+        "European IT company"
+      ]
+    },
+    "references": []
   }
 }

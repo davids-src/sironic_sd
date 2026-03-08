@@ -14,7 +14,8 @@ export function Footer() {
 
   const footerLinks = [
     { name: t('nav.services'), href: `/${locale}/${getLocalizedPath('services', currentLocale)}` },
-    { name: t('nav.products'), href: `/${locale}/${getLocalizedPath('products', currentLocale)}` },
+    { name: t('nav.partners'), href: `/${locale}/${getLocalizedPath('partners', currentLocale)}` },
+    { name: t('nav.references'), href: `/${locale}/${getLocalizedPath('references', currentLocale)}` },
     { name: t('nav.pricing'), href: `/${locale}/${getLocalizedPath('pricing', currentLocale)}` },
     { name: t('nav.about'), href: `/${locale}/${getLocalizedPath('about', currentLocale)}` },
     { name: t('nav.blog'), href: `/${locale}/${getLocalizedPath('blog', currentLocale)}` },

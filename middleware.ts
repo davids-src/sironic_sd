@@ -198,6 +198,40 @@ export function middleware(request: NextRequest) {
       '/sl/zasebnost': '/sl/adatvedelem',
       '/fr/politique-de-confidentialite': '/fr/adatvedelem',
       '/it/privacy': '/it/adatvedelem',
+
+      // Partners page for all locales
+      '/en/partners': '/en/partnereink',
+      '/de/partner': '/de/partnereink',
+      '/sk/partneri': '/sk/partnereink',
+      '/ro/parteneri': '/ro/partnereink',
+      '/hr/partneri': '/hr/partnereink',
+      '/sl/partnerji': '/sl/partnereink',
+      '/fr/partenaires': '/fr/partnereink',
+      '/it/partner': '/it/partnereink',
+      '/es/socios': '/es/partnereink',
+      '/sv/partners': '/sv/partnereink',
+      '/da/partnere': '/da/partnereink',
+      '/no/partnere': '/no/partnereink',
+      '/nl/partners': '/nl/partnereink',
+      '/pl/partnerzy': '/pl/partnereink',
+      '/cs/partneri': '/cs/partnereink',
+
+      // References page for all locales
+      '/en/references': '/en/referenciank',
+      '/de/referenzen': '/de/referenciank',
+      '/sk/referencie': '/sk/referenciank',
+      '/ro/referinte': '/ro/referenciank',
+      '/hr/reference': '/hr/referenciank',
+      '/sl/reference': '/sl/referenciank',
+      '/fr/references': '/fr/referenciank',
+      '/it/referenze': '/it/referenciank',
+      '/es/referencias': '/es/referenciank',
+      '/sv/referenser': '/sv/referenciank',
+      '/da/referencer': '/da/referenciank',
+      '/no/referanser': '/no/referenciank',
+      '/nl/referenties': '/nl/referenciank',
+      '/pl/referencje': '/pl/referenciank',
+      '/cs/reference': '/cs/referenciank',
     };
 
     // Check if this URL needs to be rewritten

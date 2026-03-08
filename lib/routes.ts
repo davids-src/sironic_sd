@@ -21,7 +21,9 @@ export type PageKey =
     | 'custom-development'
     | 'minden-cegnek'
     | 'onsite-presence'
-    | 'privacy';
+    | 'privacy'
+    | 'partners'
+    | 'references';
 
 /**
  * Route configuration mapping logical page names to locale-specific URL slugs.
@@ -279,7 +281,43 @@ export const routes: Record<PageKey, Record<Locale, string>> = {
         nl: 'privacybeleid',
         pl: 'polityka-prywatnosci',
         cs: 'ochrana-soukromi',
-    }
+    },
+    partners: {
+        hu: 'partnereink',
+        en: 'partners',
+        de: 'partner',
+        sk: 'partneri',
+        ro: 'parteneri',
+        hr: 'partneri',
+        sl: 'partnerji',
+        fr: 'partenaires',
+        it: 'partner',
+        es: 'socios',
+        sv: 'partners',
+        da: 'partnere',
+        no: 'partnere',
+        nl: 'partners',
+        pl: 'partnerzy',
+        cs: 'partneri',
+    },
+    references: {
+        hu: 'referenciank',
+        en: 'references',
+        de: 'referenzen',
+        sk: 'referencie',
+        ro: 'referinte',
+        hr: 'reference',
+        sl: 'reference',
+        fr: 'references',
+        it: 'referenze',
+        es: 'referencias',
+        sv: 'referenser',
+        da: 'referencer',
+        no: 'referanser',
+        nl: 'referenties',
+        pl: 'referencje',
+        cs: 'reference',
+    },
 };
 
 /**

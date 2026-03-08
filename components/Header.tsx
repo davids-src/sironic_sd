@@ -19,7 +19,8 @@ export function Header() {
   const navigation = [
     { name: t('nav.home'), href: `/${locale}` },
     { name: t('nav.services'), href: `/${locale}/${getLocalizedPath('services', currentLocale)}` },
-    { name: t('nav.products'), href: `/${locale}/${getLocalizedPath('products', currentLocale)}` },
+    { name: t('nav.partners'), href: `/${locale}/${getLocalizedPath('partners', currentLocale)}` },
+    { name: t('nav.references'), href: `/${locale}/${getLocalizedPath('references', currentLocale)}` },
     { name: t('nav.pricing'), href: `/${locale}/${getLocalizedPath('pricing', currentLocale)}` },
     { name: t('nav.about'), href: `/${locale}/${getLocalizedPath('about', currentLocale)}` },
     { name: t('nav.blog'), href: `/${locale}/${getLocalizedPath('blog', currentLocale)}` },
@@ -68,7 +69,7 @@ export function Header() {
           <LanguageSwitcher />
           <ThemeToggle />
           <Button asChild className="bg-brand-red hover:bg-brand-red/90 button-press glow-red-hover shadow-md">
-            <Link 
+            <Link
               href={`/${locale}/${getLocalizedPath('contact', currentLocale)}`}
               onClick={() => trackButtonClick('header_cta', 'desktop')}
             >
@@ -95,8 +96,8 @@ export function Header() {
             ))}
             <div className="pt-2 w-full max-w-xs">
               <Button asChild className="w-full bg-brand-red hover:bg-brand-red/90 button-press shadow-lg">
-                <Link 
-                  href={`/${locale}/${getLocalizedPath('contact', currentLocale)}`} 
+                <Link
+                  href={`/${locale}/${getLocalizedPath('contact', currentLocale)}`}
                   onClick={() => {
                     setMobileMenuOpen(false);
                     trackButtonClick('header_cta', 'mobile');

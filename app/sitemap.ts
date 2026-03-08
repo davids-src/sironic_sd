@@ -161,6 +161,46 @@ export default function sitemap(): MetadataRoute.Sitemap {
       { path: 'it-podpora-firem', changeFreq: 'monthly', priority: 0.9, allowedLocales: ['cs'] },
 
       // ============================================
+      // PARTNERS PAGE (All Languages - Fully Localized)
+      // ============================================
+      { path: 'partnereink', changeFreq: 'monthly', priority: 0.8, allowedLocales: ['hu'] },
+      { path: 'partners', changeFreq: 'monthly', priority: 0.8, allowedLocales: ['en'] },
+      { path: 'partner', changeFreq: 'monthly', priority: 0.8, allowedLocales: ['de'] },
+      { path: 'partneri', changeFreq: 'monthly', priority: 0.8, allowedLocales: ['sk'] },
+      { path: 'parteneri', changeFreq: 'monthly', priority: 0.8, allowedLocales: ['ro'] },
+      { path: 'partneri', changeFreq: 'monthly', priority: 0.8, allowedLocales: ['hr'] },
+      { path: 'partnerji', changeFreq: 'monthly', priority: 0.8, allowedLocales: ['sl'] },
+      { path: 'partenaires', changeFreq: 'monthly', priority: 0.8, allowedLocales: ['fr'] },
+      { path: 'partner', changeFreq: 'monthly', priority: 0.8, allowedLocales: ['it'] },
+      { path: 'socios', changeFreq: 'monthly', priority: 0.8, allowedLocales: ['es'] },
+      { path: 'partners', changeFreq: 'monthly', priority: 0.8, allowedLocales: ['sv'] },
+      { path: 'partnere', changeFreq: 'monthly', priority: 0.8, allowedLocales: ['da'] },
+      { path: 'partnere', changeFreq: 'monthly', priority: 0.8, allowedLocales: ['no'] },
+      { path: 'partners', changeFreq: 'monthly', priority: 0.8, allowedLocales: ['nl'] },
+      { path: 'partnerzy', changeFreq: 'monthly', priority: 0.8, allowedLocales: ['pl'] },
+      { path: 'partneri', changeFreq: 'monthly', priority: 0.8, allowedLocales: ['cs'] },
+
+      // ============================================
+      // REFERENCES PAGE (All Languages - Fully Localized)
+      // ============================================
+      { path: 'referenciank', changeFreq: 'monthly', priority: 0.8, allowedLocales: ['hu'] },
+      { path: 'references', changeFreq: 'monthly', priority: 0.8, allowedLocales: ['en'] },
+      { path: 'referenzen', changeFreq: 'monthly', priority: 0.8, allowedLocales: ['de'] },
+      { path: 'referencie', changeFreq: 'monthly', priority: 0.8, allowedLocales: ['sk'] },
+      { path: 'referinte', changeFreq: 'monthly', priority: 0.8, allowedLocales: ['ro'] },
+      { path: 'reference', changeFreq: 'monthly', priority: 0.8, allowedLocales: ['hr'] },
+      { path: 'reference', changeFreq: 'monthly', priority: 0.8, allowedLocales: ['sl'] },
+      { path: 'references', changeFreq: 'monthly', priority: 0.8, allowedLocales: ['fr'] },
+      { path: 'referenze', changeFreq: 'monthly', priority: 0.8, allowedLocales: ['it'] },
+      { path: 'referencias', changeFreq: 'monthly', priority: 0.8, allowedLocales: ['es'] },
+      { path: 'referenser', changeFreq: 'monthly', priority: 0.8, allowedLocales: ['sv'] },
+      { path: 'referencer', changeFreq: 'monthly', priority: 0.8, allowedLocales: ['da'] },
+      { path: 'referanser', changeFreq: 'monthly', priority: 0.8, allowedLocales: ['no'] },
+      { path: 'referenties', changeFreq: 'monthly', priority: 0.8, allowedLocales: ['nl'] },
+      { path: 'referencje', changeFreq: 'monthly', priority: 0.8, allowedLocales: ['pl'] },
+      { path: 'reference', changeFreq: 'monthly', priority: 0.8, allowedLocales: ['cs'] },
+
+      // ============================================
       // PRODUCTS PAGE (All Languages - Fully Localized)
       // ============================================
       { path: 'termekeink', changeFreq: 'weekly', priority: 0.7, allowedLocales: ['hu', 'en', 'de', 'sk', 'ro'] },

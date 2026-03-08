@@ -200,6 +200,27 @@
           "Deutschland"
         ],
         "ogImage": "/og/nis2-de.jpg"
+      },
+      "partners": {
+        "title": "IT-Partner – Technologie & Zusammenarbeit | SIRONIC IT-Systemhaus",
+        "description": "Entdecken Sie die vertrauenswürdigen IT-Technologiepartner von SIRONIC. Hardware, Software, Cloud und Cybersicherheit für ganz Europa.",
+        "keywords": [
+          "IT-Partner",
+          "Technologiepartner",
+          "IT-Zusammenarbeit"
+        ],
+        "ogImage": "/og/partners-de.jpg"
+      },
+      "references": {
+        "title": "IT-Referenzen & Projekte – Echte Ergebnisse | SIRONIC IT-Systemhaus",
+        "description": "Entdecken Sie SIRONIC IT-Projektreferenzen und Fallstudien. Netzwerkprojekte, individuelle Software und Cloud-Migrationen für europäische KMU.",
+        "keywords": [
+          "IT-Referenzen",
+          "IT-Projekte",
+          "Fallstudien",
+          "digitale Transformation"
+        ],
+        "ogImage": "/og/references-de.jpg"
       }
     }
   },
@@ -207,6 +228,8 @@
     "home": "Startseite",
     "services": "Dienstleistungen",
     "products": "Produkte",
+    "partners": "Partner",
+    "references": "Referenzen",
     "pricing": "Preise",
     "about": "Über uns",
     "blog": "Blog",
@@ -2277,5 +2300,68 @@
         "secondary": "Kontakt aufnehmen"
       }
     }
+  },
+  "partnersPage": {
+    "badge": "Unsere Kunden",
+    "heroTitle": "Wen wir betreuen",
+    "heroSubtitle": "Wir sind stolz auf unsere Kunden – kleine und mittelständische Unternehmen, die uns ihr IT-System anvertrauen.",
+    "intro": "SIRONIC betreut hauptsächlich KMU in ganz Europa aus verschiedenen Branchen – von Gesundheit über Handel bis zum Bildungswesen.",
+    "gridTitle": "Unsere Partnerunternehmen",
+    "gridSubtitle": "Unternehmen, die uns ihren IT-Betrieb und ihre Entwicklung anvertrauen.",
+    "visitWebsite": "Website besuchen",
+    "whyTitle": "Warum vertrauen uns unsere Kunden?",
+    "why": {
+      "reach": {
+        "title": "Schnelle Reaktionszeit",
+        "description": "Garantierte SLA-Reaktionszeiten für Vertragspartner – 4 Stunden für Standardfälle, 1 Stunde für kritische Ausfälle."
+      },
+      "trust": {
+        "title": "Persönliche Beziehung",
+        "description": "Kein Ticket-System-Labyrinth. Wir kennen unsere Partner persönlich und sind direkt erreichbar."
+      },
+      "innovation": {
+        "title": "Langfristiges Denken",
+        "description": "Wir lösen nicht nur das Problem – wir verhindern das nächste. Proaktiver Ansatz für jeden Kunden."
+      }
+    },
+    "cta": {
+      "title": "Werden Sie unser Partner!",
+      "subtitle": "Fordern Sie eine kostenlose Beratung an und sehen wir, wie wir Ihrem Unternehmen helfen können.",
+      "button": "Kostenlose Beratung anfragen"
+    },
+    "partners": []
+  },
+  "referencesPage": {
+    "badge": "Referenzen",
+    "heroTitle": "Projekte & Referenzen",
+    "heroSubtitle": "Echte IT-Projekte mit messbaren Ergebnissen. Von Netzwerkinfrastruktur bis individuelle Software – sehen Sie, wie SIRONIC Mehrwert schafft.",
+    "intro": "In über 5 Jahren haben wir hunderte IT-Projekte für kleine und mittlere Unternehmen in ganz Europa abgeschlossen.",
+    "gridTitle": "Ausgewählte Projekte",
+    "gridSubtitle": "Eine Auswahl abgeschlossener IT-Projekte – die Bandbreite unserer Kompetenzen.",
+    "outcomeLabel": "Ergebnis",
+    "stats": [
+      {
+        "value": "100+",
+        "label": "Abgeschlossene Projekte"
+      },
+      {
+        "value": "5+",
+        "label": "Jahre Erfahrung"
+      },
+      {
+        "value": "16",
+        "label": "Bediente Länder"
+      },
+      {
+        "value": "99.9%",
+        "label": "Kundenzufriedenheit"
+      }
+    ],
+    "cta": {
+      "title": "Bereit für Ihr Projekt?",
+      "subtitle": "Kontaktieren Sie uns für eine kostenlose Beratung.",
+      "button": "Kostenlose Beratung anfragen"
+    },
+    "references": []
   }
 }
