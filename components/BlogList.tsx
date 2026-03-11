@@ -2,41 +2,11 @@
 
 import { BlogCard } from '@/components/BlogCard';
 import { useTranslation } from '@/hooks/useTranslation';
+import { blogPosts } from '@/lib/blog-data';
 
 export function BlogList() {
     const { t } = useTranslation();
 
-    // In a real app, these would come from a CMS or be translated in the JSON
-    // For now, we'll use the hardcoded ones but wrapped in t() if we had keys, 
-    // or just leave them as is but allow the UI around them to be translated.
-    // Ideally, blog posts should be fetched based on locale.
-
-    const blogPosts = [
-        {
-            title: 'Hogyan védd meg céged adatait?',
-            excerpt:
-                'Az adatbiztonság minden vállalkozás számára kritikus. Ebben a cikkben bemutatjuk a legfontosabb lépéseket, amelyekkel megvédheted céged adatait a kibertámadásoktól.',
-            slug: 'hogyan-vedd-meg-ceged-adatait',
-            date: '2024. március 15.',
-            readTime: '5 perc olvasás',
-        },
-        {
-            title: 'Mikor érdemes IT karbantartási szerződést kötni?',
-            excerpt:
-                'Sokan csak akkor gondolnak az IT karbantartásra, amikor már probléma van. Megmutatjuk, miért éri meg proaktívan gondoskodni a rendszerekről.',
-            slug: 'mikor-erdemes-it-karbantartasi-szerzodest-kotni',
-            date: '2024. március 8.',
-            readTime: '4 perc olvasás',
-        },
-        {
-            title: '5 tipp a gyorsabb és biztonságosabb hálózatért',
-            excerpt:
-                'Lassú internet és instabil kapcsolat? Ezekkel az egyszerű lépésekkel jelentősen javíthatod céged hálózatának teljesítményét és biztonságát.',
-            slug: '5-tipp-a-gyorsabb-es-biztonsagosabb-halozatert',
-            date: '2024. március 1.',
-            readTime: '6 perc olvasás',
-        },
-    ];
 
     return (
         <>

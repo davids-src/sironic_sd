@@ -24,6 +24,17 @@ export function Hero() {
 
       <div className="container mx-auto px-4 lg:px-8 relative">
         <div className="mx-auto max-w-4xl text-center animate-fade-in">
+          {/* Trust stats strip */}
+          <div className="flex flex-wrap justify-center gap-x-6 gap-y-2 mb-8">
+            {(t('hero.trustStats', []) as Array<{ value: string; label: string }>).map((stat, index) => (
+              <span key={index} className="text-sm font-medium text-muted-foreground flex items-center gap-1.5">
+                <span className="text-brand-red">✓</span>
+                <span className="font-semibold text-foreground">{stat.value}</span>
+                {stat.label}
+              </span>
+            ))}
+          </div>
+
           <h1 className="text-4xl font-bold tracking-tight sm:text-5xl lg:text-7xl mb-8 leading-tight">
             <span className="gradient-text">
               {t('hero.title')}
@@ -49,7 +60,7 @@ export function Hero() {
               variant="outline"
               className="w-full sm:w-auto text-lg px-8 py-6 h-auto border-gray-200 hover:bg-gray-50 dark:border-gray-700 dark:hover:bg-gray-800"
             >
-              <Link href={`/${locale}/szolgaltatasok`}>{t('hero.learnMore')}</Link>
+              <Link href={`/${locale}/${getLocalizedPath('contact', locale as Locale)}`}>{t('hero.learnMore')}</Link>
             </Button>
           </div>
         </div>

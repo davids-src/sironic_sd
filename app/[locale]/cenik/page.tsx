@@ -8,6 +8,7 @@ import Link from 'next/link';
 import { useTranslation } from '@/hooks/useTranslation';
 import { useParams } from 'next/navigation';
 import { Breadcrumbs } from '@/components/Breadcrumbs';
+import { ProcessAndSLA } from '@/components/ProcessAndSLA';
 
 export default function ArakPage() {
   const { t } = useTranslation();
@@ -206,6 +207,8 @@ export default function ArakPage() {
           </div>
         </div>
       </section>
+
+      <ProcessAndSLA />
 
       <section className="py-16 lg:py-24 bg-background">
         <div className="mx-auto max-w-7xl px-4 lg:px-8">

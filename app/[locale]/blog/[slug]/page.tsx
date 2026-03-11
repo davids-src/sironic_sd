@@ -3,110 +3,7 @@ import { Calendar, Clock, ArrowLeft } from 'lucide-react';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import type { Metadata } from 'next';
-
-const blogPosts: { [key: string]: any } = {
-  'hogyan-vedd-meg-ceged-adatait': {
-    title: 'Hogyan védd meg céged adatait?',
-    date: '2024. március 15.',
-    readTime: '5 perc olvasás',
-    content: `
-      <p>Az adatbiztonság minden vállalkozás számára kritikus fontosságú. Ebben a cikkben bemutatjuk a legfontosabb lépéseket, amelyekkel megvédheted céged adatait a kibertámadásoktól.</p>
-
-      <h2>Miért fontos az adatbiztonság?</h2>
-      <p>Az adatszivárgások és kibertámadások komoly károkat okozhatnak: pénzügyi veszteségek, hírnévkárosodás, ügyféladatok elvesztése. A kis- és középvállalkozások gyakran könnyebb célpontok, mert kevesebb védelmi réteggel rendelkeznek.</p>
-
-      <h2>5 alapvető lépés az adatbiztonsághoz</h2>
-      <ol>
-        <li><strong>Rendszeres biztonsági mentések:</strong> Automatizált backup rendszer beállítása, amely naponta menti az adatokat külön helyre.</li>
-        <li><strong>Erős jelszavak és többfaktoros hitelesítés:</strong> Minden felhasználó számára kötelező a biztonságos jelszó és 2FA használata.</li>
-        <li><strong>Naprakész szoftverek:</strong> Az operációs rendszer és alkalmazások rendszeres frissítése csökkenti a biztonsági réseket.</li>
-        <li><strong>Tűzfal és vírusvédelem:</strong> Professzionális megoldások telepítése és karbantartása.</li>
-        <li><strong>Alkalmazotti képzés:</strong> A legnagyobb biztonsági kockázat az emberi tényező - rendszeres tréningek szükségesek.</li>
-      </ol>
-
-      <h2>Hogyan segíthetünk?</h2>
-      <p>A SIRONIC Rendszerház komplett adatbiztonsági megoldásokat kínál: tűzfal konfigurálás, automatikus mentések beállítása, vírusvédelem, hozzáférés-kezelés és rendszeres biztonsági auditok.</p>
-    `,
-  },
-  'mikor-erdemes-it-karbantartasi-szerzodest-kotni': {
-    title: 'Mikor érdemes IT karbantartási szerződést kötni?',
-    date: '2024. március 8.',
-    readTime: '4 perc olvasás',
-    content: `
-      <p>Sokan csak akkor gondolnak az IT karbantartásra, amikor már probléma van. Megmutatjuk, miért éri meg proaktívan gondoskodni a rendszerekről.</p>
-
-      <h2>Reaktív vs. proaktív megközelítés</h2>
-      <p>A reaktív megközelítés azt jelenti, hogy csak akkor hívunk szakembert, amikor már gond van. Ez drágább, időigényesebb és több leállást okoz. A proaktív karbantartás megelőzi a problémákat.</p>
-
-      <h2>Mikor van szükséged karbantartási szerződésre?</h2>
-      <ul>
-        <li>Ha 5+ számítógéped van</li>
-        <li>Ha szervert üzemeltetsz</li>
-        <li>Ha kritikus az üzemfolytonosság</li>
-        <li>Ha nincs dedikált IT szakembered</li>
-        <li>Ha gyakran vannak kisebb-nagyobb informatikai problémák</li>
-      </ul>
-
-      <h2>Mit tartalmaz egy jó karbantartási csomag?</h2>
-      <p>Proaktív monitoring, rendszeres frissítések, gyors hibaelhárítás, teljesítmény-optimalizálás, biztonsági auditok és folyamatos support.</p>
-
-      <h2>Mennyi pénzt takarít meg?</h2>
-      <p>A tapasztalatok szerint a proaktív karbantartás 60-80%-kal csökkenti a váratlan IT költségeket és a rendszer leállás miatti termeléskiesést.</p>
-    `,
-  },
-  '5-tipp-a-gyorsabb-es-biztonsagosabb-halozatert': {
-    title: '5 tipp a gyorsabb és biztonságosabb hálózatért',
-    date: '2024. március 1.',
-    readTime: '6 perc olvasás',
-    content: `
-      <p>Lassú internet és instabil kapcsolat? Ezekkel az egyszerű lépésekkel jelentősen javíthatod céged hálózatának teljesítményét és biztonságát.</p>
-
-      <h2>1. Korszerű router és kapcsolók</h2>
-      <p>A régi routerek nem támogatják a modern sebességeket és biztonsági protokollokat. Egy üzleti szintű router jelentős teljesítménynövekedést hozhat.</p>
-
-      <h2>2. WiFi optimalizálás</h2>
-      <p>Megfelelő WiFi lefedettség, több hozzáférési pont nagyobb irodában, 5GHz frekvencia használata ahol lehet, és a vendég WiFi szeparálása a munkahelyi hálózattól.</p>
-
-      <h2>3. Hálózatszegmentálás</h2>
-      <p>Különítsd el a különböző funkciójú eszközöket: például külön hálózat a szervereknek, a munkaállomásoknak és az IoT eszközöknek. Ez növeli a biztonságot és a teljesítményt.</p>
-
-      <h2>4. QoS (Quality of Service) beállítása</h2>
-      <p>Prioritizáld a kritikus forgalmat: videokonferenciák, VoIP, üzleti alkalmazások előnyt kapnak a streaming vagy letöltések ellenében.</p>
-
-      <h2>5. Rendszeres monitoring és karbantartás</h2>
-      <p>Folyamatosan figyeld a hálózati forgalmat, azonosítsd a szűk keresztmetszeteket és a gyanús aktivitásokat. Rendszeres firmware frissítések és konfigurációs auditok.</p>
-
-      <h2>Professzionális segítség</h2>
-      <p>A SIRONIC Rendszerház átfogó hálózati auditot végez, megtervezi és kiépíti a megfelelő infrastruktúrát, és folyamatos támogatást nyújt.</p>
-    `,
-  },
-  'miert-elonyos-a-nextjs-es-typescript-alapu-fejlesztes-a-modern-kkv-k-szamara': {
-    title: 'Miért előnyös a Next.js és TypeScript alapú fejlesztés a modern KKV-k számára?',
-    date: '2024. március 20.',
-    readTime: '7 perc olvasás',
-    content: `
-      <p>A modern webfejlesztés világában a technológiai választás kritikus fontosságú. Ebben a cikkben bemutatjuk, miért a Next.js és a TypeScript a legjobb választás a kis- és középvállalkozások (KKV-k) számára.</p>
-
-      <h2>1. Keresőoptimalizálás (SEO) felsőfokon</h2>
-      <p>A Next.js szerveroldali renderelése (SSR) és statikus oldalgenerálása (SSG) biztosítja, hogy a Google és más keresőmotorok tökéletesen lássák és indexeljék az oldal tartalmát. Ez jobb helyezést jelent a találati listákon, ami több ügyfelet hoz.</p>
-
-      <h2>2. Villámgyors betöltési sebesség</h2>
-      <p>A felhasználók nem szeretnek várni. A Next.js automatikus kódoptimalizálása és képtömörítése révén az oldalak azonnal betöltődnek. A gyorsabb oldal jobb felhasználói élményt és magasabb konverziós arányt eredményez.</p>
-
-      <h2>3. Biztonság és Stabilitás (TypeScript)</h2>
-      <p>A TypeScript használata drasztikusan csökkenti a programozási hibák számát. A szigorú típusrendszer már fejlesztés közben kiszűri a potenciális bugokat, így a végeredmény egy stabilabb, megbízhatóbb weboldal vagy alkalmazás.</p>
-
-      <h2>4. Jövőbiztos technológia</h2>
-      <p>A Next.js a React keretrendszerre épül, amelyet a Facebook (Meta) fejleszt, és a világ legnagyobb cégei használnak. Ez garantálja, hogy a weboldalad évek múlva is modern és karbantartható marad.</p>
-
-      <h2>5. Költséghatékony üzemeltetés</h2>
-      <p>A modern architektúra (Vercel, Netlify) lehetővé teszi a skálázható és költséghatékony hosting megoldásokat. Nem kell drága szerverparkot fenntartani, csak azért fizetsz, amit használsz.</p>
-
-      <h2>Összegzés</h2>
-      <p>A SIRONIC Rendszerháznál hiszünk abban, hogy a KKV-k is megérdemlik a nagyvállalati szintű technológiát. Ezért fejlesztünk Next.js és TypeScript alapokon, hogy ügyfeleink a legjobb minőséget kapják.</p>
-    `,
-  },
-};
+import { blogPosts, getBlogPost } from '@/lib/blog-data';
 
 interface PageProps {
   params: {
@@ -115,7 +12,7 @@ interface PageProps {
 }
 
 export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
-  const post = blogPosts[params.slug];
+  const post = getBlogPost(params.slug);
 
   if (!post) {
     return {
@@ -130,7 +27,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
 }
 
 export default function BlogPostPage({ params }: PageProps) {
-  const post = blogPosts[params.slug];
+  const post = getBlogPost(params.slug);
 
   if (!post) {
     notFound();
@@ -193,7 +90,7 @@ export default function BlogPostPage({ params }: PageProps) {
 }
 
 export async function generateStaticParams() {
-  return Object.keys(blogPosts).map((slug) => ({
-    slug,
+  return blogPosts.map((post) => ({
+    slug: post.slug,
   }));
 }

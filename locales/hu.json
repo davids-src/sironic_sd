@@ -1,7 +1,7 @@
 {
   "meta": {
     "siteTitle": "SIRONIC Rendszerház: Teljes körű IT Megoldások KKV-knak – Üzemeltetés, Fejlesztés, Biztonság",
-    "siteDescription": "Professzionális IT üzemeltetés, webfejlesztés (Next.js/TS), hálózatépítés és IT biztonság. Menedzselt IT szolgáltatások, felhőhosting, kiberbiztonsági erősítés, 24/7 monitorozás és GDPR-kompatibilis távtámogatás Európa-szerte. Saját informatikus támogatás KKV-knak. Kérjen ingyenes konzultációt!",
+    "siteDescription": "Megbízható IT üzemeltetés európai KKV-knak — hálózati infrastruktúra, kiberbiztonság, egyedi szoftverfejlesztés és 24/7 felügyelet. 100+ ügyfél, 16 EU ország. Kérj ingyenes konzultációt!",
     "companyName": "SIRONIC Rendszerház",
     "keywords": [
       "IT szolgáltatás",
@@ -250,24 +250,44 @@
     "about": "Rólunk",
     "blog": "Blog",
     "contact": "Kapcsolat",
-    "ctaButton": "Kérj ajánlatot"
+    "itTraining": "IT Oktatás",
+    "onsitePresence": "Helyszíni IT",
+    "ctaButton": "Book My Free IT Audit"
   },
   "hero": {
-    "badge": "Új szolgáltatás",
-    "title": "Professzionális IT szolgáltatás kis- és középvállalkozásoknak Európa-szerte",
-    "subtitle": "Stabil, biztonságos és skálázható IT megoldások modern technológiákkal. Rendszerüzemeltetés, hálózatépítés, adatbiztonság és egyedi szoftverfejlesztés – garantált rendelkezésre állással és proaktív támogatással. Az informatika, amely tényleg működik.",
-    "cta": "Ingyenes konzultáció",
-    "learnMore": "Kapcsolatfelvétel"
+    "badge": "100+ elégedett ügyfél",
+    "title": "The IT Department You Wish You Had — Without the Overhead.",
+    "subtitle": "We act as your dedicated IT team, managing everything from backups to NIS2 compliance so you can focus on work.",
+    "cta": "Book My Free IT Audit",
+    "learnMore": "15 perces hívás foglalása →",
+    "trustStats": [
+      {
+        "value": "5+",
+        "label": "Év tapasztalat"
+      },
+      {
+        "value": "100+",
+        "label": "Ügyfél"
+      },
+      {
+        "value": "16",
+        "label": "EU ország"
+      },
+      {
+        "value": "99,9%",
+        "label": "Rendelkezésre állás"
+      }
+    ]
   },
   "euPresence": {
-    "title": "EU-szintű IT szolgáltatás – Bárhol ott vagyunk, ahol szükség van ránk",
-    "subtitle": "A SIRONIC európai jelenléttel, távoli és helyszíni IT támogatással segíti a vállalkozásokat – határok nélkül. 16 országban szolgálunk ki, Magyar és Angol nyelven kommunikálunk, és tapasztalattal rendelkezünk több EU-s piacon. Modern projektmenedzsment eszközeinkkel a távolság nem akadály.",
+    "title": "Magyarországon székhellyel, Európa-szerte.",
+    "subtitle": "A Sironic 16 EU-s országban támogat vállalkozásokat távolról — és helyszínen, ha szükséges. A távolság sosem akadályozott bennünket a gyors, megbízható IT-támogatásban.",
     "points": [
-      "Gyors reagálás Európa bármely pontján távoli vagy helyszíni támogatással",
-      "Professzionális IT infrastruktúra építés és üzemeltetés GDPR-kompatibilisen",
-      "Zökkenőmentes határokon átnyúló IT üzemeltetés és megfelelés"
+      "Távoli első megközelítés — ügyfeleket szolgálunk Ausztriában, Németországban, Szlovákiában, Csehországban, Romániában és másutt",
+      "Támogatás 16 nyelven — nincs nyelvi akadály, nincs közvetítő",
+      "GDPR-kompatibilis működés — minden szolgáltatás az EU-s szabályozási követelményeknek megfelelően tervezve"
     ],
-    "cta": "Tudjon meg többet"
+    "cta": "Több országban működsz? Beszéljük meg"
   },
   "calculator": {
     "title": "Gyors IT Költségkalkulátor",
@@ -328,25 +348,38 @@
   "euBlock": {
     "alt": "Absztrakt térkép, amely a Sironic EU-szintű IT szolgáltatási lefedettségét mutatja."
   },
+  "problemSection": {
+    "title": "IT problémák, amikkel nem kellene foglalkoznod",
+    "items": [
+      "A Wi-Fi folyamatosan megszakad fontos hívások közben",
+      "Nem vagy biztos benne, hogy az adataid mentve vannak",
+      "Leáll egy szerver és senki nem tudja, miért",
+      "Órákat töltesz IT-vel a tényleges munkád helyett",
+      "Elment az informatikusod és nincs átadás",
+      "Aggódsz a GDPR-megfelelés miatt, de nem tudod, hol állsz"
+    ],
+    "transition": "Ha bármelyik ismerősen hangzik, nem vagy egyedül. A legtöbb KKV-nak nem saját IT-részlegre van szüksége — hanem egy megbízható partnerre.",
+    "cta": "Fix My IT Headaches"
+  },
   "services": {
-    "title": "Szolgáltatásaink",
-    "subtitle": "Teljes körű IT megoldások vállalkozásod növekedéséhez",
-    "viewAll": "Minden szolgáltatásunk",
+    "title": "Minden, amire vállalkozásodnak IT téren szüksége van — egy helyen.",
+    "subtitle": "Hálózat stabilizálástól az egyedi alkalmazásig, a teljes IT üzemeltetésig — a Sironic intézi. Nincs közvetítő, nincs ticket-portál, nincs körbejárás.",
+    "viewAll": "Összes szolgáltatás",
     "systemOperation": {
       "title": "Rendszerüzemeltetés és IT karbantartás",
-      "description": "Átfogó rendszerkarbantartás, 24/7 folyamatos monitorozás és proaktív támogatás KKV-k számára. Teljes EU-megfelelés és GDPR-kompatibilis működés, fix SLA szerinti reakcióidővel és átlátható árazással."
+      "description": "Folyamatos rendszerfelügyelet, 24/7 monitoring és gyors hibaelhárítás — a problémák megoldódnak, mielőtt észrevennéd."
     },
     "networking": {
       "title": "Hálózatépítés és fejlesztés",
-      "description": "Modern, biztonságos hálózati infrastruktúrák professzionális tervezése, kiépítése és hosszú távú üzemeltetése. UniFi és MikroTik eszközök, gyors WiFi hálózatok, VPN és távoli hozzáférés kialakítása."
+      "description": "Gyors, biztonságos és megbízható Wi-Fi és hálózat az irodádhoz. MikroTik és Ubiquiti/UniFi eszközök, megfelelően konfigurálva."
     },
     "security": {
       "title": "IT biztonság és adatvédelem",
-      "description": "Átfogó biztonsági auditok, tűzfal konfiguráció, automatikus hozzáférés-kezelés és adatvédelem az EU-s GDPR előírásokkal összhangban. Modern vírusvédelem, mentési stratégiák és adatbiztonsági tréningek."
+      "description": "Védd meg adataidat és felelj meg az EU kiberbiztonsági követelményeknek. Tűzfalak, biztonsági mentések, GDPR és NIS2 útmutató."
     },
     "development": {
       "title": "Weboldal- és rendszerfejlesztés",
-      "description": "Gyors, biztonságos és keresőoptimalizált vállalati weboldalak, webshopok és egyedi üzleti rendszerek fejlesztése Next.js, React és TypeScript technológiákkal. Reszponzív design, modern UX és teljesítmény-optimalizálás. Weboldal készítésnél az első konzultáció ingyenes, az alap weboldalak már 100.000 Ft + áfa-tól indulnak."
+      "description": "Webalkalmazások, mobilalkalmazások és egyedi szoftverek, vállalkozásodra szabva React, Next.js és TypeScript technológiákkal. 250 €-tól."
     },
     "commerce": {
       "title": "Kereskedelem – IT eszközök és szoftverek",
@@ -354,15 +387,15 @@
     },
     "hosting": {
       "title": "Hosting és felhőmegoldások",
-      "description": "Stabil, gyors és biztonságos tárhelymegoldások weboldalakhoz, levelezéshez, fájlmegosztáshoz és adatmentéshez. Webtárhely, dedikált szerver bérlés, felhő alapú mentés és magánfelhő szolgáltatás 99,9%-os rendelkezésre állással."
+      "description": "Kezelt hosting 15 €/hótól, 99,9% rendelkezésre állással és EU-s adattárolással. Web, e-mail és felhő alapú biztonsági mentés."
     },
     "nis2": {
       "title": "NIS2-kompatibilis IT rendszer",
-      "description": "NIS2-re felkészített infrastruktúra kiépítése és üzemeltetése. Nem auditálunk – végigvisszük a céget az auditon, tanácsadói ajánlások alapján, dokumentáltan. Teljes körű megfelelés az EU kiberbiztonsági irányelvnek, hozzáférés-kezelés, naplózás, mentési stratégia és incidenskezelés."
+      "description": "NIS2-kész infrastruktúra tervezés és üzemeltetés. Végigvezetünk a megfelelésen — teljes dokumentációval, audit-pánik nélkül."
     },
     "repair": {
       "title": "Szerviz és javítás",
-      "description": "Számítógépek, laptopok, szerverek és hálózati eszközök gyors és megbízható javítása helyszínen Székesfehérváron és környékén, vagy postai beküldéssel. Átlátható árajánlat javítás előtt, adatmentés és vírusirtás. Gyors javítási idő garanciával."
+      "description": "Gyors laptop, PC és szerver javítás — helyszínen Székesfehérváron vagy postán. Átlátható árajánlat a kezdés előtt."
     }
   },
   "customDevelopment": {
@@ -385,41 +418,38 @@
       }
     },
     "cta": {
-      "main": "Kérj ajánlatot egyedi fejlesztésre",
+      "main": "Ingyenes projektkonsultáció kérése",
       "learnMore": "Tudj meg többet"
     }
   },
   "mindenCegnek": {
-    "badge": "Havidíjas IT támogatás",
-    "title": "Minden cégnek legyen informatikusa",
-    "subtitle": "IT megoldás, mintha saját IT-sod lenne",
-    "description": "Nem kell saját informatikust alkalmaznod ahhoz, hogy stabil, biztonságos és gyors rendszereid legyenek. A SIRONIC havidíjas konstrukciója úgy működik, mintha a Te cégednél dolgozna – de csak annyit fizetsz, amennyire ténylegesen szükség van.",
+    "badge": "Legnépszerűbb",
+    "title": "A saját IT-osztályod — felvétel, HR és rezsi nélkül.",
+    "subtitle": "Professzionális IT üzemeltetés. Fix havi díj. Valódi emberek.",
+    "description": "150 €/hótól kapsz egy dedikált csapatot, amely felügyeli rendszereidet, karbantartja hálózatodat, kezeli biztonsági mentéseidet — és készen áll, ha valami elromlik, még mielőtt te észrevennéd.",
     "features": {
-      "costEffective": "Költséghatékony, infrastruktúrára optimalizált IT támogatás – rugalmasan, megbízhatóan, átláthatóan.",
-      "discount": "2026 Március 31-ig érvényes: minden előzetes konzultációt kérő partnerünknek 10% kedvezményt adunk az első 3 hónap havidíjából!"
+      "costEffective": "24/7 rendszerfelügyelet — mi figyeljük az infrastruktúrádat, hogy neked ne kelljen.",
+      "discount": "🎁 2026. március 31-ig: 10% kedvezmény az első 3 hónap havidíjából új konzultációs kérelmekre.",
+      "costEffectiveDetail": "Professzionális IT szolgáltatás havidíjas konstrukcióban, rejtett költségek nélkül.",
+      "discountDetail": "Kezdje velünk a közös munkát kedvezményes feltételekkel és extra szolgáltatásokkal."
     },
     "cta": {
-      "consultation": "Kérj ingyenes IT konzultációt!",
-      "learnMore": "Tudj meg többet"
+      "consultation": "Ingyenes konzultáció kérése",
+      "learnMore": "Részletek megtekintése →"
     }
   },
   "whyChooseUs": {
-    "title": "Miért válassz minket?",
+    "title": "Mi különböztet meg minket.",
     "reasons": [
-      "Garantált reakcióidő: Szerződött partnereinknek fix SLA szerinti gyors beavatkozást biztosítunk, általános esetben 1-4 órán belül, sürgős esetekben akár azonnal.",
-      "Folyamatos rendszerfelügyelet: 24/7 monitoring szolgáltatás a hibák megelőzésére, automatikus riasztásokkal és proaktív karbantartással.",
-      "Proaktív működés: Mi előre gondolkodunk és megelőzzük a problémákat, nem akkor lépünk, amikor már leállt a rendszer.",
-      "Megbízható tapasztalat: 5+ év tapasztalat IT rendszerek tervezésében, kiépítésében és hosszú távú üzemeltetésében KKV-k és nagyvállalatok számára.",
-      "Átlátható költségek: Nincsenek rejtett díjak, fix havidíjas karbantartás vagy eseti megoldások – minden árajánlat előre egyeztetett és részletes.",
-      "Valódi emberi kommunikáció: Nálunk nincs \\\"ticket-dzsungel\\\" vagy automatizált válaszrendszer – mindig elérsz minket és emberekkel beszélsz, akik értik a problémádat.",
-      "Korszerű IT biztonság: GDPR-kompatibilis adatvédelem és hálózati biztonság modern tűzfalakkal, titkosított mentési megoldásokkal és szerepalapú hozzáférés-kezeléssel – az adatbiztonság nálunk alap.",
-      "Webfejlesztés és digitális jelenlét: Professzionális, SEO-optimalizált és reszponzív weboldalak Next.js és React technológiákkal, amelyek növelik céged online láthatóságát.",
-      "Európai lefedettség: Többnyelvű támogatás 16 nyelven, tapasztalat határon átnyúló projektekkel és távoli IT szolgáltatás az EU teljes területén.",
-      "Egyedi fejlesztések: Személyre szabott szoftverek, CRM rendszerek és automatizációk, amelyek pontosan az üzleti folyamataidhoz igazodnak."
+      "Garantált reakcióidő: Fix SLA szerinti gyors beavatkozás — általánosan 1–4 órán belül.",
+      "24/7 rendszerfelügyelet: Elkapjuk a problémákat, mielőtt te észrevennéd.",
+      "Átlátható költségek: Nincsenek rejtett díjak. Fix havidíjas vagy egyszeri árajánlatok.",
+      "Emberi kommunikáció: Nincs ticket-dzsungel — valódi emberekkel beszélsz, akik értik a problémádat.",
+      "Modern IT biztonság: GDPR-kompatibilis adatvédelem, tűzfalak, mentések és hozzáférés-kezelés alapból."
     ]
   },
   "testimonials": {
-    "title": "Mit mondanak ügyfeleink?",
+    "title": "Mit mondanak ügyfeleink.",
     "items": [
       {
         "quote": "A SIRONIC csapatával végre nyugodtan alszunk: az informatikai rendszereink stabilan, gyorsan és biztonságosan működnek. Ha probléma merül fel, azonnal reagálnak, és mindent elmagyaráznak érthetően – nem IT-nyelven. Ritka az ilyen megbízható partner az informatika világában.",
@@ -524,53 +554,52 @@
     "cta": "See How We Can Help Your Business"
   },
   "process": {
-    "title": "Kipróbált 4-lépéses folyamatunk",
+    "title": "Egyszerű az első naptól.",
     "steps": [
       {
-        "title": "Felfedezés",
-        "description": "Meghallgatjuk kihívásait, felmérjük jelenlegi rendszerét és megismerjük üzleti céljait. Ingyenes konzultáció, kötelezettségek nélkül."
+        "title": "Ingyenes konzultáció",
+        "description": "Egy valódi beszélgetéssel kezdünk — formulár és forgatókönyv nélkül. Mesélj arról, mi nem működik, mi lassú, vagy mi aggaszt. Meghallgatjuk."
       },
       {
-        "title": "Ajánlat",
-        "description": "Részletes ajánlatot adunk egyértelmű hatókörrel, ütemtervvel és átlátható árazással. Pontosan fogja tudni, mit kap."
+        "title": "Átlátható ajánlat",
+        "description": "Írásos ajánlatot kapsz pontos hatókörrel, határidővel és árral. Nincs homályos becslés, nincs rejtett díj."
       },
       {
-        "title": "Megvalósítás",
-        "description": "Rendszeres egyeztetésekkel, mérföldkövekkel és folyamatos kommunikációval dolgozunk. Nincsenek meglepetések, csak eredmények."
+        "title": "Kézzelfogható megvalósítás",
+        "description": "Elvégezzük a munkát — rendszeres ellenőrzőpontokkal és egyértelmű mérföldkövekkel. Soha nem leszel tanácstalan, hogy mi történik."
       },
       {
-        "title": "Támogatás",
-        "description": "Az átadás után sem tűnünk el. Folyamatos karbantartás, monitorozás és optimalizálás biztosítja a hosszú távú sikert."
+        "title": "Folyamatos partnerség",
+        "description": "Nem tűnünk el az átadás után. A monitoring, karbantartás és támogatás hosszú távon folytatódik."
       }
     ]
   },
   "sla": {
-    "title": "Szolgáltatási szintű megállapodásunk (SLA)",
+    "title": "SLA vállalásaink",
     "highlights": [
-      "Reakcióidő (SLA): 4 órán belül általános hibák esetén, 1 órán belül kritikus leállásoknál (szerződött partnereknek)",
-      "24/7 Rendszerfelügyelet: Proaktív riasztások, mielőtt a felhasználók észlelnék a problémát",
-      "Rendelkezésre állási garancia: 99,9%-os elérhetőség a menedzselt infrastruktúrára",
-      "Karbantartási ablakok: Tervezett frissítések csúcsidőn kívül, előzetes értesítéssel",
-      "Eszkalációs útvonal: Egyértelmű folyamat a meg nem oldott problémák kezelésére"
+      "Általános hiba esetén: reakcióidő 1–4 üzleti órán belül, szerződéses partnereinknek",
+      "Kritikus incidenseknél (szerver leállás, biztonsági sértés): azonnali reagálás, éjjel-nappal, az év 365 napján",
+      "99,9% rendelkezésre állási garancia kezelt infrastruktúrán",
+      "Havi státuszjelentés: mit figyeltünk, mit javítottunk, mit ajánlunk következő lépésnek"
     ]
   },
   "workProcess": {
-    "title": "Hogyan dolgozunk?",
+    "title": "Egyszerű. Átlátható. Megbízható.",
     "steps": [
       {
         "step": "1",
-        "title": "Kapcsolatfelvétel",
-        "description": "Küldj üzenetet vagy kérj ingyenes konzultációt."
+        "title": "Ingyenes konzultáció",
+        "description": "Meghallgatjuk az igényeidet. Nincs forgatókönyv — csak egy valódi beszélgetés a helyzetedről."
       },
       {
         "step": "2",
-        "title": "IT állapotfelmérés",
-        "description": "Megnézzük, miben tudunk segíteni, és javaslatot adunk."
+        "title": "Átlátható ajánlat",
+        "description": "Írásos hatókör pontos árral, mielőtt bármit tennénk. Nincs rejtett díj, nincs homályos becslés."
       },
       {
         "step": "3",
-        "title": "Egyedi ajánlat",
-        "description": "Személyre szabott megoldást készítünk céged igényeihez."
+        "title": "Folyamatos partnerség",
+        "description": "Nem tűnünk el az átadás után. Figyeljük, karbantartjuk és hosszú távon támogatjuk rendszereidet."
       }
     ]
   },
@@ -620,13 +649,13 @@
     ]
   },
   "finalCta": {
-    "title": "Készen állsz a gondtalan IT-re?",
-    "description": "Kérj ingyenes konzultációt, és találjuk meg együtt a legjobb megoldást vállalkozásod számára.",
-    "button": "Kérj ajánlatot most"
+    "title": "Készen állsz az IT-re, ami egyszerűen működik?",
+    "description": "Kérj ingyenes konzultációt. Felmérjük az igényeidet, javaslatot teszünk, és átlátható árajánlatot adunk — kötelezettség nélkül.",
+    "button": "Ingyenes konzultáció kérése"
   },
   "contact": {
     "title": "Kapcsolat",
-    "subtitle": "Van kérdésed vagy szeretnél ingyenes konzultációt? Vedd fel velünk a kapcsolatot, és hamarosan válaszolunk!",
+    "subtitle": "Kérdésed van vagy ingyenes konzultációt szeretnél? Vedd fel velünk a kapcsolatot — munkanapkon 24 órán belül válaszolunk.",
     "form": {
       "title": "Küldj üzenetet",
       "name": "Név",
@@ -635,7 +664,7 @@
       "service": "Melyik szolgáltatás iránt érdeklődsz?",
       "servicePlaceholder": "Kérlek válassz...",
       "message": "Üzenet",
-      "submit": "Kérj ingyenes IT konzultációt!",
+      "submit": "Üzenet elküldése",
       "submitting": "Küldés...",
       "required": "*",
       "success": "Üzeneted sikeresen elküldve! Hamarosan felvesszük veled a kapcsolatot.",
@@ -670,7 +699,7 @@
   },
   "footer": {
     "companyName": "SIRONIC Rendszerház",
-    "tagline": "Teljes körű IT megoldások kis- és középvállalkozásoknak",
+    "tagline": "Megbízható IT üzemeltetés európai KKV-knak — hálózati infrastruktúrától az egyedi szoftverfejlesztésig.",
     "legalName": "Skoda Dávid András Egyéni Vállalkozó",
     "address": "8000 Székesfehérvár, Lövölde utca 24 4/15",
     "taxNumber": "Adószám: 45755754-2-27",
@@ -693,8 +722,8 @@
     "subtitle": "Komplett IT megoldások, amelyekkel vállalkozásod biztonságban és hatékonyan működhet. Fix havidíjas karbantartástól az egyedi fejlesztésekig – minden egy helyen.",
     "cta": {
       "title": "Érdekel valamelyik szolgáltatásunk?",
-      "subtitle": "Kérj ingyenes konzultációt, és találjuk meg együtt a legjobb megoldást vállalkozásod számára.",
-      "requestQuote": "Kérj ajánlatot most",
+      "subtitle": "Kérj ingyenes konzultációt, és találjuk meg a vállalkozásodnak megfelelő megoldást.",
+      "requestQuote": "Ingyenes konzultáció kérése",
       "reportService": "Szervizigény bejelentése"
     },
     "details": {
@@ -819,9 +848,9 @@
   "aboutPage": {
     "title": "Rólunk",
     "intro": [
-      "A SIRONIC Rendszerház a COVID-időszakban indult, amikor minden vállalkozásnak újra kellett gondolnia az informatikai működését. Azóta folyamatosan fejlődünk, és naprakészen követjük az IT világ gyors változásait – mert hisszük, hogy a technológia nem teher, hanem előny lehet minden cég számára.",
-      "Célunk, hogy a kis- és középvállalkozásoknak ne kelljen az informatikai problémákkal küzdeniük. Mi nemcsak rendszereket tartunk karban – stabilitást, biztonságot és nyugalmat adunk a működéshez.",
-      "Legyen szó rendszerüzemeltetésről, hálózatépítésről, adatbiztonságról vagy webfejlesztésről, nálunk minden IT-megoldás egy kézben van – gyorsan, átláthatóan, emberi nyelven."
+      "A Sironic a COVID-időszak alatt jött létre, amikor a vállalkozásoknak egyik napról a másikra kellett átgondolniuk IT működésüket. Azóta folyamatosan növekszünk — nem pitcheléssel, hanem azzal, hogy olyan IT-partner vagyunk, akit az ügyfelek megtartanak.",
+      "Székesfehérváron székelünk, és 16 EU-s ország vállalkozásaival dolgozunk együtt — távolról és helyszínen. Nem call center, nem franchise, nem ticket-rendszer vagyunk. Egy kis csapat, amely felveszi a telefont.",
+      "Rendszerüzemeltetéstől a hálózati infrastruktúrán és adatbiztonságon át az egyedi szoftverfejlesztésig — minden IT megoldást ugyanaz a csapat intéz, közérthető nyelven."
     ],
     "stats": [
       {
@@ -881,19 +910,19 @@
       ]
     },
     "values": {
-      "title": "Miért dolgozz velünk?",
+      "title": "Hogyan dolgozunk.",
       "items": [
         {
-          "title": "Proaktív hozzáállás",
-          "description": "Nem akkor lépünk, amikor már baj van. Folyamatosan monitorozzuk rendszereidet, hogy megelőzzük a problémákat."
+          "title": "Proaktív, nem reaktív",
+          "description": "Elkapjuk a problémákat, mielőtt észrevennéd. A legtöbb hiba a háttérben oldódik meg — akkor hallasz tőlünk, amikor szükséges."
         },
         {
-          "title": "Emberi kommunikáció",
-          "description": "Nálunk nincs \"ticket-dzsungel\". Igazi emberekkel beszélsz, akik értik a problémádat és gyorsan segítenek."
+          "title": "Egyértelmű, emberi kommunikáció",
+          "description": "Nincs szakzsargon, nincs késedelem. Olyan emberrel beszélsz, aki ismeri a beállításaidat és egyenes választ ad."
         },
         {
-          "title": "Átláthatóság",
-          "description": "Fix havidíjas karbantartás vagy eseti megoldások – nincsenek rejtett díjak, mindig tudod, mire számíthatsz."
+          "title": "EU-natív működés",
+          "description": "Alapból GDPR-kompatibilis, 16 nyelven elérhető, és tapasztalatunk van határokon átnyúló EU-s vállalkozások támogatásában."
         }
       ]
     },
@@ -907,21 +936,21 @@
       ]
     },
     "finalCta": {
-      "title": "Légy te is partnereink között!",
-      "subtitle": "Kérj ingyenes konzultációt, és találjuk meg együtt a legjobb IT megoldást vállalkozásod számára.",
-      "button": "Vegyük fel a kapcsolatot"
+      "title": "Ismerkedjünk meg.",
+      "subtitle": "Kérj ingyenes konzultációt. Meghallgatjuk, felmérjük a helyzetet és egyértelmű javaslatot adunk — kötelezettség nélkül.",
+      "button": "Ingyenes konzultáció kérése"
     }
   },
   "pricingPage": {
     "title": "Áraink",
     "subtitle": "Egyedi ajánlatokat készítünk vállalkozásod igényei szerint. Nincs két egyforma cég – ezért a díjainkat is mindig a Te infrastruktúrádhoz és igényeidhez igazítjuk.",
-    "heroTitle": "Átlátható árak – tisztán, érthetően",
-    "heroDescription": "Nálunk nincsenek rejtett költségek. Szolgáltatásainkat úgy alakítottuk ki, hogy minden vállalkozás megtalálja a számára megfelelő megoldást – legyen szó karbantartásról, fejlesztésről vagy szervizről.",
+    "heroTitle": "Őszinte árazás. Nincs meglepetés.",
+    "heroDescription": "Nincs rejtett díj. Minden projekt egy egyértelmű, írásos árajánlattal kezdődik. Mindig tudod, mennyit fizetsz, mielőtt elkezdenénk.",
     "packages": {
       "mindenCegnek": {
         "title": "Minden cégnek legyen informatikusa",
         "price": "39.000 Ft/hó-tól",
-        "description": "Teljes körű IT üzemeltetés havidíjas konstrukcióban – mintha saját informatikusod lenne.",
+        "description": "5–80 alkalmazottas cégeknek, akik professzionális IT menedzsmentet szeretnének belső felvétel nélkül. 24/7 monitoring, proaktív karbantartás, biztonsági mentés kezelés és személyes közvetlen támogatás.",
         "features": [
           "Folyamatos rendszermonitorozás és karbantartás",
           "Gyors beavatkozás hiba esetén",
@@ -930,7 +959,7 @@
           "Személyes, magyar nyelvű IT támogatás"
         ],
         "badge": "🎁 2026 Március 31-ig érvényes 10% kedvezmény az első 3 hónap havidíjából előzetes konzultáció esetén!",
-        "ctaText": "Kérj előzetes konzultációt"
+        "ctaText": "Konzultáció kérése"
       },
       "systemOperation": {
         "title": "Rendszerüzemeltetés és IT karbantartás",
@@ -942,7 +971,7 @@
           "Szerver- és hálózatfelügyelet",
           "Proaktív működés és biztonsági frissítések"
         ],
-        "ctaText": "Kérj ajánlatot"
+        "ctaText": "Konzultáció kérése"
       },
       "networking": {
         "title": "Hálózatépítés és fejlesztés",
@@ -954,7 +983,7 @@
           "Hálózati optimalizálás és karbantartás",
           "Gyors, stabil és biztonságos adatkapcsolat"
         ],
-        "ctaText": "Kérj ajánlatot"
+        "ctaText": "Konzultáció kérése"
       },
       "security": {
         "title": "IT biztonság és adatvédelem",
@@ -966,7 +995,7 @@
           "Hozzáférés-kezelés, titkosítás",
           "GDPR-kompatibilis adatvédelem"
         ],
-        "ctaText": "Kérj ajánlatot"
+        "ctaText": "Konzultáció kérése"
       },
       "development": {
         "title": "Weboldal- és rendszerfejlesztés",
@@ -979,7 +1008,7 @@
           "Folyamatos támogatás és karbantartás",
           "Ingyenes első konzultáció weboldal készítéshez"
         ],
-        "ctaText": "Kérj ajánlatot"
+        "ctaText": "Konzultáció kérése"
       },
       "commerce": {
         "title": "Kereskedelem – IT eszközök és szoftverek",
@@ -991,7 +1020,7 @@
           "Szoftverlicencek és előfizetések",
           "Komplett irodai infrastruktúra"
         ],
-        "ctaText": "Kérj ajánlatot"
+        "ctaText": "Konzultáció kérése"
       },
       "hosting": {
         "title": "Hosting és felhőmegoldások",
@@ -1003,7 +1032,7 @@
           "Magánfelhő szolgáltatás",
           "Folyamatos rendelkezésre állás (99,9%)"
         ],
-        "ctaText": "Kérj ajánlatot"
+        "ctaText": "Konzultáció kérése"
       },
       "crm": {
         "title": "Egyedi CRM fejlesztés",
@@ -1015,13 +1044,13 @@
           "Automatizált riportok és analitika",
           "Felhasználóbarát kezelőfelület"
         ],
-        "ctaText": "Kérj ajánlatot"
+        "ctaText": "Konzultáció kérése"
       }
     },
     "customQuote": {
       "title": "Egyedi igényeid vannak?",
       "description": "Az árak irányárak, a pontos ajánlat minden esetben az igények alapján készül.\nKérj ingyenes konzultációt, és segítünk megtalálni a legjobb megoldást.",
-      "button": "Kérj ingyenes IT konzultációt"
+      "button": "Ingyenes konzultáció kérése"
     },
     "whyChoose": {
       "title": "Miért választják a SIRONIC-ot?",
@@ -1139,9 +1168,9 @@
       "note": "Az árképzés függ a szerződés hosszától és a feladatok típusától. Kérj személyre szabott ajánlatot!"
     },
     "finalCta": {
-      "title": "Nem kell saját IT-s, csak egy megbízható partner",
-      "description": "Mi biztosítjuk a szakértelmet, a gyors reagálást és a stabil működést – Te pedig a cégedre koncentrálhatsz.",
-      "button": "Kérem az ajánlatot"
+      "title": "Nem kell saját IT-st felvenned — megbízható partner kell.",
+      "description": "Kérj ingyenes konzultációt. Felmérjük a környezetedet és írásos árajánlatot adunk.",
+      "button": "Ingyenes konzultáció kérése"
     }
   },
   "trust": {
@@ -2547,5 +2576,373 @@
       "button": "Ingyenes konzultáció kérése"
     },
     "references": []
+  },
+  "managedItPage": {
+    "hero": {
+      "badge": "Managed IT Services",
+      "title": "Your IT — Managed, Monitored, and Always On.",
+      "subtitle": "For companies that need reliable IT without the cost, risk, and overhead of a full in-house team.",
+      "cta": "Request Free Consultation",
+      "secondaryCta": "See Pricing"
+    },
+    "pain": {
+      "title": "Does any of this sound familiar?",
+      "subtitle": "These are not edge cases. They cost real money, real time, and real trust.",
+      "items": [
+        "Your server goes down and nobody notices until a client calls.",
+        "You have one IT person — and when they're sick, everything stops.",
+        "You're paying for IT support only when something breaks.",
+        "Nobody on your team actually owns your software licenses, backups, or security.",
+        "You don't know what's running on your network.",
+        "IT issues are handled reactively — never proactively."
+      ],
+      "transition": "Companies like yours shouldn't have to manage infrastructure. That's our job."
+    },
+    "solution": {
+      "title": "Everything your IT department should be doing — already running.",
+      "subtitle": "Sironic acts as your dedicated IT team, proactively managing your infrastructure so you never have to scramble.",
+      "items": [
+        {
+          "title": "24/7 Server & Endpoint Monitoring",
+          "description": "Not just alerts — we act on them. Critical incidents trigger automatic escalation and engineer response."
+        },
+        {
+          "title": "Proactive Maintenance",
+          "description": "Patching, updates, and license renewals handled before they become problems."
+        },
+        {
+          "title": "Remote Helpdesk Support",
+          "description": "Response within 4 business hours for routine issues. Critical incidents escalated immediately."
+        },
+        {
+          "title": "Backup Verification",
+          "description": "Your backups are tested monthly — not just scheduled. You'll know they work before you need them."
+        },
+        {
+          "title": "Monthly IT Status Report",
+          "description": "A clear summary of what happened, what was fixed, and what's coming. No jargon."
+        },
+        {
+          "title": "Single Point of Contact",
+          "description": "One engineer who knows your setup. No ticket queues, no explaining your problem to someone new every time."
+        }
+      ]
+    },
+    "process": {
+      "title": "How we get started",
+      "subtitle": "A structured onboarding so nothing is missed and nothing changes without your approval.",
+      "steps": [
+        {
+          "title": "Free Consultation",
+          "description": "We understand your current setup, pain points, and goals."
+        },
+        {
+          "title": "Infrastructure Audit",
+          "description": "We document every device, account, and dependency before touching anything."
+        },
+        {
+          "title": "Handover & Onboarding",
+          "description": "Your team learns how to submit requests. We take over monitoring and maintenance."
+        },
+        {
+          "title": "Ongoing Partnership",
+          "description": "Monthly reports, proactive maintenance, and a team that picks up the phone."
+        }
+      ]
+    },
+    "trust": {
+      "title": "You're not just buying a service. You're buying peace of mind.",
+      "subtitle": "What makes Sironic different from a typical IT support company.",
+      "points": [
+        {
+          "title": "5+ Years Serving EU SMBs",
+          "description": "100+ active clients across 16 EU countries. We understand the scale, compliance needs, and business realities of European SMBs."
+        },
+        {
+          "title": "99.9% Monitored Uptime",
+          "description": "We monitor 24/7 and act before outages occur. Our track record speaks for itself."
+        },
+        {
+          "title": "Human Communication",
+          "description": "Our engineers explain issues in plain language. No jargon, no ticket IDs, no waiting until Monday."
+        }
+      ],
+      "sla": {
+        "label": "Our SLA commitment:",
+        "text": "We respond to critical incidents within 4 hours. We document every change. You stay in control."
+      }
+    },
+    "pricing": {
+      "title": "Honest pricing. No surprises.",
+      "subtitle": "Per-company or per-user pricing with no hidden fees. You know exactly what IT costs.",
+      "description": "Our managed IT packages are tailored to company size. Whether you have 5 or 100 employees, we design a package that covers everything — monitoring, helpdesk, maintenance, and reporting.",
+      "cta": "Get a Custom Quote"
+    },
+    "faq": {
+      "title": "Frequently asked questions",
+      "items": [
+        {
+          "question": "Do we need to sign a long-term contract?",
+          "answer": "No. We offer monthly and annual arrangements. We prefer clients who stay because the service works, not because they're locked in."
+        },
+        {
+          "question": "What happens if something breaks outside of business hours?",
+          "answer": "Our monitoring systems are active 24/7. Critical incidents trigger automatic escalation. You won't be waiting until Monday."
+        },
+        {
+          "question": "We already have someone handling IT. Can you work alongside them?",
+          "answer": "Absolutely. We often act as a senior-level support layer for companies with an internal IT coordinator who needs backup."
+        },
+        {
+          "question": "What's your typical onboarding process?",
+          "answer": "We start with a full infrastructure audit — documenting every device, account, and dependency. No changes happen until we fully understand your environment."
+        },
+        {
+          "question": "Is there a setup fee?",
+          "answer": "The onboarding audit is included in your first month. No hidden setup costs."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Ready to stop worrying about IT?",
+      "subtitle": "Book a free 30-minute consultation. We'll walk through your current setup and tell you exactly where you stand — no obligation.",
+      "cta": "Request Free Consultation"
+    }
+  },
+  "cloudPage": {
+    "hero": {
+      "badge": "Cloud & Infrastructure",
+      "title": "Reliable Infrastructure. Built Right. Maintained by Experts.",
+      "subtitle": "Cloud hosting, on-premise servers, and hybrid environments — designed, deployed, and monitored by our infrastructure team.",
+      "cta": "Request Free Infrastructure Review",
+      "secondaryCta": "See Hosting Plans"
+    },
+    "pain": {
+      "title": "Most infrastructure problems are invisible — until they aren't.",
+      "subtitle": "If any of these sound familiar, your infrastructure deserves better management.",
+      "items": [
+        "Your hosting provider goes down and you're calling support for 6 hours.",
+        "Your cloud costs spike every month and nobody knows why.",
+        "Your backup system is \"set up\" but has never been tested.",
+        "You're on shared hosting that can't handle traffic spikes.",
+        "Nobody has reviewed your server configuration since it was installed.",
+        "Your server room is held together by improvised fixes."
+      ]
+    },
+    "solution": {
+      "title": "Infrastructure that behaves like it's managed by someone who cares.",
+      "subtitle": "Three service pillars — matched to your actual setup and requirements.",
+      "pillars": [
+        {
+          "title": "Managed Hosting",
+          "description": "European data centres, GDPR-compliant infrastructure, dedicated or VPS environments tailored to your workload. Uptime SLA in writing."
+        },
+        {
+          "title": "Cloud Infrastructure",
+          "description": "Cloud migrations (AWS, Azure, or private cloud), cost optimisation, and architecture review. We don't just move things to the cloud — we make them run leaner."
+        },
+        {
+          "title": "Hybrid & On-Premise",
+          "description": "Not everything belongs in the cloud. We design hybrid environments that keep sensitive data local while leveraging cloud elasticity where appropriate."
+        }
+      ],
+      "includedTitle": "What every managed environment includes",
+      "included": [
+        "Continuous monitoring with incident response",
+        "Automated backups with monthly restoration testing",
+        "Security hardening and patch management",
+        "EU data residency — GDPR-compliant by default",
+        "Transparent monthly performance and cost report",
+        "Version-controlled configuration documentation"
+      ]
+    },
+    "trust": {
+      "title": "Infrastructure you can measure, not just trust.",
+      "subtitle": "What sets our infrastructure work apart.",
+      "points": [
+        {
+          "title": "Enterprise-Grade Hardware",
+          "description": "All hosted infrastructure uses commercial-grade hardware and EU-based data centres. No consumer shortcuts."
+        },
+        {
+          "title": "Tested Backups",
+          "description": "Backup restoration tested monthly — not just scheduled. You'll know your data is recoverable before you need it."
+        },
+        {
+          "title": "Documented Everything",
+          "description": "Every environment is fully documented. You're never dependent on us to explain how your own infrastructure works."
+        }
+      ]
+    },
+    "pricing": {
+      "title": "Your infrastructure deserves engineers who actually manage it.",
+      "subtitle": "Hosting and infrastructure packages priced transparently — no surprise bills.",
+      "description": "We offer managed hosting and infrastructure packages from entry-level VPS to multi-server environments. Pricing is clear and per-month — no usage spikes, no hidden compute fees.",
+      "cta": "Get a Free Infrastructure Review"
+    },
+    "faq": {
+      "title": "Frequently asked questions",
+      "items": [
+        {
+          "question": "Do you offer managed hosting or do we need our own servers?",
+          "answer": "Both. We can host your services on our managed infrastructure or take over management of your existing environment."
+        },
+        {
+          "question": "Is my data stored in the EU?",
+          "answer": "Yes. All Sironic-managed hosting uses EU-based data centres, fully compliant with GDPR."
+        },
+        {
+          "question": "Can you migrate our existing setup without downtime?",
+          "answer": "In most cases, yes. We plan all migrations during low-traffic windows and run parallel environments during the transition."
+        },
+        {
+          "question": "We're on a budget. Can we start small?",
+          "answer": "Yes. We offer entry-level managed hosting packages and scale as your business grows."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Your infrastructure deserves proper engineering.",
+      "subtitle": "Get a free infrastructure review. We'll identify the gaps and show you what a well-managed environment looks like.",
+      "cta": "Request Free Infrastructure Review"
+    }
+  },
+  "cybersecurityPage": {
+    "hero": {
+      "badge": "Cybersecurity",
+      "title": "Protect Your Business. Not Just Your Servers.",
+      "subtitle": "Practical cybersecurity for European SMBs — endpoint protection, network hardening, NIS2 readiness, and incident response.",
+      "cta": "Request Free Security Assessment",
+      "secondaryCta": "Download IT Checklist"
+    },
+    "riskBanner": "The average cost of a data breach for a European SMB exceeds €200,000. Most incidents involve employees, not sophisticated hackers.",
+    "pain": {
+      "title": "Most SMBs are one mistake away from a serious incident.",
+      "subtitle": "These vulnerabilities are more common than you think — and most are preventable.",
+      "items": [
+        "An employee clicks a phishing link and nobody notices for 3 weeks.",
+        "Your firewall ruleset hasn't been reviewed since it was installed.",
+        "Remote workers are connecting from personal, unmanaged laptops.",
+        "You're not sure what data you hold or where it lives.",
+        "Your company falls under NIS2 — but nobody owns the compliance process.",
+        "Former employees still have active accounts in your systems."
+      ]
+    },
+    "solution": {
+      "title": "Security that's actually appropriate for your business size and risk level.",
+      "subtitle": "We don't sell enterprise theatre. We implement the controls that matter.",
+      "services": [
+        {
+          "title": "Security Audit & Risk Assessment",
+          "description": "We map your current posture: devices, access controls, firewall, email security, and backup integrity. You receive a prioritised remediation roadmap."
+        },
+        {
+          "title": "Endpoint Protection",
+          "description": "EDR (Endpoint Detection & Response) deployment, anti-malware, patch management, and mobile device policies across all managed endpoints."
+        },
+        {
+          "title": "Identity & Access Management",
+          "description": "MFA rollout, privileged access review, Active Directory hardening, and proper offboarding procedures. We close the doors attackers use most."
+        },
+        {
+          "title": "Network Security Hardening",
+          "description": "Firewall rules review, network segmentation, intrusion detection, and encrypted remote access built on our network engineering expertise."
+        },
+        {
+          "title": "NIS2 Compliance Support",
+          "description": "We help companies understand and implement the technical controls required by the EU NIS2 directive. Not legal advice — practical IT implementation."
+        },
+        {
+          "title": "Security Awareness Training",
+          "description": "Simulated phishing campaigns and staff training. The human layer is your most important security control."
+        }
+      ]
+    },
+    "nis2Block": {
+      "title": "Do you fall under NIS2?",
+      "description": "The NIS2 directive expanded to cover more EU sectors and supply chains. Fines can reach €10M or 2% of global annual turnover. We've guided companies through NIS2 readiness across 5+ EU countries.",
+      "link": "See our dedicated NIS2 compliance service →"
+    },
+    "trust": {
+      "title": "Security built by engineers, not a checkbox vendor.",
+      "subtitle": "What makes Sironic's security approach different.",
+      "points": [
+        {
+          "title": "Engineering-Led, Not Sales-Led",
+          "description": "All security work is led by our engineers — not product resellers. We recommend what's right for you, not what earns us margin."
+        },
+        {
+          "title": "EU-Native Compliance",
+          "description": "We've guided companies through NIS2 readiness across multiple EU countries. GDPR and EU regulations are part of every security recommendation."
+        },
+        {
+          "title": "No Lock-In",
+          "description": "We don't lock you into proprietary tools you can't manage without us. Everything we deploy is documented and transferable."
+        }
+      ],
+      "disclaimer": "We will always tell you if a security problem is outside our specialisation. We are IT engineers who take security seriously — not a CISO consultancy."
+    },
+    "pricing": {
+      "title": "Find out where your gaps are — before someone else does.",
+      "subtitle": "Start with a free security assessment call. No jargon. No pressure.",
+      "cta": "Request Free Security Assessment"
+    },
+    "faq": {
+      "title": "Frequently asked questions",
+      "items": [
+        {
+          "question": "We're a 20-person company. Do we actually need this?",
+          "answer": "If you process client data, accept online payments, or fall under any EU sector regulation — yes. Attackers target small businesses specifically because defenses are weaker."
+        },
+        {
+          "question": "What does NIS2 actually require from us?",
+          "answer": "It depends on your sector and size. We start with a scoping session to determine if and how NIS2 applies to your business, then help you build a compliant security posture from the ground up."
+        },
+        {
+          "question": "Can you respond to an active security incident?",
+          "answer": "We have incident response capabilities for managed clients. For new clients, we conduct an emergency assessment and implement immediate containment steps."
+        },
+        {
+          "question": "Do you sell security products?",
+          "answer": "We recommend and deploy solutions based on your needs — we don't earn commissions that influence our recommendations. We're engineers, not resellers."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Tudja meg hol vannak a biztonsági rései — mielőtt valaki más teszi meg.",
+      "subtitle": "Kérjen egy ingyenes 30 perces biztonsági konzultációt. Szakzsargon mentesen. Kötelezettségek nélkül. Csak egy őszinte beszélgetés a kitettségéről.",
+      "cta": "Ingyenes Biztonsági Felmérés Kérése",
+      "secondaryCta": "IT Ellenőrzőlista Letöltése"
+    },
+    "process": {
+      "title": "Hogyan dolgozunk?",
+      "steps": [
+        {
+          "title": "Kapcsolatfelvétel & Konzultáció",
+          "description": "Megbeszéljük az igényeit, és felmérjük a jelenlegi IT helyzetet."
+        },
+        {
+          "title": "Audit & Tervezés",
+          "description": "Célzott IT felmérést készítünk, majd személyre szabott megoldási tervet kínálunk."
+        },
+        {
+          "title": "Kivitelezés / Bevezetés",
+          "description": "Zökkenőmentesen és az üzletmenet megszakítása nélkül bevezetjük a megbeszélt megoldást."
+        },
+        {
+          "title": "Proaktív Üzemeltetés",
+          "description": "Folyamatosan felügyeljük és karbantartjuk rendszereit a stabil háttér érdekében."
+        }
+      ]
+    },
+    "sla": {
+      "title": "Szerződéses Garanciáink (SLA)",
+      "highlights": [
+        "Szigorú válaszidő: Kritikus hiba esetén 1 órán belül megkezdjük a munkát.",
+        "Proaktív monitorozás: A problémák 80%-át azelőtt észleljük és elhárítjuk, mielőtt Ön észrevenné.",
+        "Számíthatóság heti 7 napján: 24/7 ügyelet az üzletkritikus rendszerekhez.",
+        "Teljes transzparencia: Részletes havi riportok az elvégzett munkákról és a rendszer állapotáról."
+      ]
+    }
   }
 }

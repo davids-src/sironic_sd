@@ -4,6 +4,7 @@ import { Hero } from '@/components/Hero';
 import { ServiceCard } from '@/components/ServiceCard';
 import { Testimonial } from '@/components/Testimonial';
 import { FaqSection } from '@/components/FaqSection';
+import { ProblemSection } from '@/components/ProblemSection';
 import { OrganizationSchema } from '@/components/structured-data/OrganizationSchema';
 import { LocalBusinessSchema } from '@/components/structured-data/LocalBusinessSchema';
 import { Button } from '@/components/ui/button';
@@ -56,6 +57,9 @@ const QuickQuoteCalculator = dynamic(() => import('@/components/QuickQuoteCalcul
 const EuPresenceVisual = dynamic(() => import('@/components/EuPresenceVisual').then(mod => ({ default: mod.EuPresenceVisual })), {
     loading: () => <div className="h-96 bg-gray-900 animate-pulse" />
 });
+const TechPartnersBlock = dynamic(() => import('@/components/TechPartnersBlock').then(mod => ({ default: mod.TechPartnersBlock })), {
+    loading: () => <div className="h-32 bg-white dark:bg-gray-950 border-y border-gray-100 dark:border-gray-900 animate-pulse" />
+});
 
 
 export function HomePage() {
@@ -107,6 +111,10 @@ export function HomePage() {
     return (
         <>
             <Hero />
+
+            <TechPartnersBlock />
+
+            <ProblemSection />
 
             <ProcessAndSLA />
 

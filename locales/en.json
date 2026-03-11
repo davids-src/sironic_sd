@@ -1,7 +1,7 @@
 {
   "meta": {
     "siteTitle": "SIRONIC IT Solutions: Comprehensive IT Solutions for SMBs – Operations, Development, Security",
-    "siteDescription": "Professional IT operations, web development (Next.js/TS), network building, and IT security. Managed IT services, cloud hosting, cybersecurity hardening, 24/7 monitoring and GDPR-compliant remote support across Europe. Dedicated IT support for SMBs. Request a free consultation!",
+    "siteDescription": "Reliable IT operations for European SMBs — network infrastructure, cybersecurity, custom software, and 24/7 monitoring. 100+ clients across 16 EU countries. Request a free consultation.",
     "companyName": "SIRONIC IT Solutions",
     "keywords": [
       "IT services",
@@ -241,44 +241,77 @@
     "about": "About Us",
     "blog": "Blog",
     "contact": "Contact",
-    "ctaButton": "Request a Quote"
+    "itTraining": "IT Training",
+    "onsitePresence": "On-Site IT",
+    "ctaButton": "Book My Free IT Audit"
   },
   "hero": {
-    "badge": "New Service",
-    "title": "Professional IT Operations & Network Building with EU-Level Security",
-    "subtitle": "Stable and secure IT solutions for SMBs with guaranteed availability.",
-    "cta": "Free Consultation",
-    "learnMore": "Contact Us"
+    "badge": "Trusted by 100+ Businesses",
+    "title": "The IT Department You Wish You Had — Without the Overhead.",
+    "subtitle": "We act as your dedicated IT team, managing everything from backups to NIS2 compliance so you can focus on work.",
+    "cta": "Book My Free IT Audit",
+    "learnMore": "Book a 15-Min Call →",
+    "trustStats": [
+      {
+        "value": "5+",
+        "label": "Years"
+      },
+      {
+        "value": "100+",
+        "label": "Clients"
+      },
+      {
+        "value": "16",
+        "label": "EU Countries"
+      },
+      {
+        "value": "99.9%",
+        "label": "Uptime"
+      }
+    ]
   },
   "euPresence": {
-    "title": "EU-Level IT Service – We Are Wherever You Need Us",
-    "subtitle": "Serving 16 countries, communicating in English and Hungarian. SIRONIC supports businesses with European presence – without borders.",
+    "title": "Based in Hungary. Working across the EU.",
+    "subtitle": "Sironic supports businesses in 16 EU countries remotely — and on-site when needed. Distance has never stopped us from delivering fast, reliable IT support.",
     "points": [
-      "Rapid response anywhere in Europe",
-      "Professional IT support remotely or on-site",
-      "Seamless cross-border IT operations and compliance"
+      "Remote-first operations — serving clients in Austria, Germany, Slovakia, Czech Republic, Romania, and more",
+      "Support in 16 languages — no language barrier, no third-party intermediary",
+      "GDPR-compliant operations — all services designed for EU regulatory requirements from day one"
     ],
-    "cta": "Learn More"
+    "cta": "Working in multiple countries? Let's talk"
+  },
+  "problemSection": {
+    "title": "IT problems you shouldn't have to deal with",
+    "items": [
+      "Your Wi-Fi drops during important calls",
+      "You're not sure if your data is backed up",
+      "A server goes down and nobody knows why",
+      "You're spending hours on IT instead of your actual work",
+      "Your IT person left and there's no handover",
+      "You worry about GDPR compliance but don't know where you stand"
+    ],
+    "transition": "If any of these sound familiar, you're not alone. Most SMBs don't need a full-time IT department — they need a reliable partner.",
+    "cta": "Fix My IT Headaches"
   },
   "services": {
-    "title": "Our Services",
-    "subtitle": "Comprehensive IT solutions for your business growth",
-    "viewAll": "All Services",
+    "title": "Everything your business needs from IT — in one place.",
+    "subtitle": "Whether you need your network stabilised, a custom app built, or full IT operations managed, Sironic handles it. No middlemen, no ticket portals, no runaround.",
+    "viewAll": "View all services",
     "systemOperation": {
       "title": "System Management & IT Maintenance",
-      "description": "Comprehensive system maintenance, 24/7 continuous monitoring, and proactive support for SMEs. Full EU compliance and GDPR-compatible operations with fixed SLA response times and transparent pricing."
+      "description": "Continuous system management, 24/7 monitoring, and rapid issue response — so problems are solved before you notice them."
     },
     "networking": {
       "title": "Network Building & Development",
-      "description": "Professional design, deployment, and long-term management of modern, secure network infrastructures. UniFi and MikroTik equipment, high-speed WiFi networks, VPN and remote access setup."
+      "description": "Fast, secure, and reliable Wi-Fi and networking for your office or site. MikroTik and Ubiquiti/UniFi hardware, properly configured."
     },
     "security": {
       "title": "IT Security & Data Protection",
-      "description": "Comprehensive security audits, firewall configuration, automated access management, and data protection aligned with EU GDPR regulations. Modern antivirus protection, backup strategies, and cybersecurity training."
+      "description": "Protect your data and meet EU cybersecurity requirements. Firewalls, backups, GDPR compliance, and NIS2 guidance."
     },
     "development": {
       "title": "Website & System Development",
-      "description": "Fast, secure, and search-optimized corporate websites, e-commerce platforms, and custom business systems developed with Next.js, React, and TypeScript technologies. Responsive design, modern UX, and performance optimization. First consultation is free for website projects, basic websites start from €250 + VAT."
+      "description": "Web apps, mobile apps, and custom software built around your business with React, Next.js, and TypeScript. Starting from €250."
     },
     "commerce": {
       "title": "Commerce – IT Equipment & Software",
@@ -286,15 +319,15 @@
     },
     "hosting": {
       "title": "Hosting & Cloud Solutions",
-      "description": "Stable, fast, and secure hosting solutions for websites, email, file sharing, and data backup. Web hosting, dedicated server rental, cloud-based backup, and private cloud services with 99.9% uptime guarantee."
+      "description": "Managed hosting from €15/month with 99.9% uptime guarantee and EU data residency. Web, email, and cloud backup."
     },
     "repair": {
       "title": "Service & Repair",
-      "description": "Fast and reliable repair of computers, laptops, servers, and network equipment on-site in Székesfehérvár and surrounding areas, or via mail-in service. Transparent quotes before repair, data recovery and virus removal. Quick turnaround time with warranty."
+      "description": "Fast laptop, PC, and server repair — on-site in Székesfehérvár or via post. Transparent quote before we start."
     },
     "nis2": {
       "title": "NIS2-Compliant IT System",
-      "description": "NIS2-ready infrastructure design and operations. We don't perform audits – we guide your company through the audit process based on consultant recommendations, with full documentation. Complete compliance with EU cybersecurity directive, access management, logging, backup strategy, and incident handling."
+      "description": "NIS2-ready infrastructure design and operations. We guide your company through compliance — with full documentation and no audit panic."
     }
   },
   "customDevelopment": {
@@ -317,35 +350,34 @@
       }
     },
     "cta": {
-      "main": "Request a Quote for Custom Development",
+      "main": "Get a Free Project Estimate",
       "learnMore": "Learn More"
     }
   },
   "mindenCegnek": {
-    "badge": "Monthly IT Support",
-    "title": "Every Company Deserves an IT Department",
-    "subtitle": "IT solution, like having your own IT specialist",
-    "description": "You don't need to hire an IT specialist to have stable, secure, and fast systems. SIRONIC's monthly subscription works as if you had an in-house team – but you only pay for what you actually need.",
+    "badge": "Most popular",
+    "title": "Your IT department — without the hiring, HR, or overhead.",
+    "subtitle": "Professional IT operations. Fixed monthly cost. Real people.",
+    "description": "From €150/month, you get a dedicated team that monitors your systems, maintains your network, handles your backups, and is ready when something breaks — before you even notice it.",
     "features": {
-      "costEffective": "Cost-effective, infrastructure-optimized IT support – flexible, reliable, transparent.",
-      "discount": "Valid until Mar 31, 2026: 10% discount on first 3 months for partners requesting consultation!"
+      "costEffective": "24/7 system monitoring — we watch your infrastructure so you don't have to.",
+      "discount": "🎁 Valid until Mar 31, 2026: 10% off the first 3 months for new consultation requests.",
+      "costEffectiveDetail": "Professional IT services on a fixed monthly plan — no hidden costs, no surprises.",
+      "discountDetail": "Start your partnership with us under discounted terms with extra services included."
     },
     "cta": {
-      "consultation": "Request Free IT Consultation!",
-      "learnMore": "Learn More"
+      "consultation": "Request Free Consultation",
+      "learnMore": "See full details →"
     }
   },
   "whyChooseUs": {
-    "title": "Why Choose Us?",
+    "title": "What makes Sironic different.",
     "reasons": [
-      "Guaranteed response time: We provide rapid intervention with fixed SLAs for our contracted partners.",
-      "Continuous system monitoring: 24/7 monitoring service to prevent errors.",
-      "Proactive maintenance: We think ahead, we act before there is trouble.",
-      "Reliability: 5+ years of experience in designing and operating systems.",
-      "Transparent costs: No hidden fees, fixed monthly maintenance or ad-hoc solutions.",
-      "Genuine human communication: No 'ticket jungle' – you can always reach us.",
-      "Modern IT security: Data protection and network security with modern firewalls, backups, and access management – security is standard, not extra.",
-      "Web development & digital presence: Professional, responsive websites and custom systems that increase your online visibility and attract customers."
+      "Guaranteed response time: Rapid intervention with fixed SLAs — typically within 1–4 hours.",
+      "24/7 system monitoring: We catch problems before you notice them.",
+      "Transparent costs: No hidden fees. Fixed monthly plans or one-time quotes.",
+      "Human communication: No ticket maze — you talk to real people who understand your problem.",
+      "Modern IT security: GDPR-compliant data protection, firewalls, backups, and access management built in."
     ]
   },
   "trust": {
@@ -357,7 +389,7 @@
     }
   },
   "testimonials": {
-    "title": "What Our Clients Say",
+    "title": "What our clients say.",
     "items": [
       {
         "quote": "With the SIRONIC team, we finally sleep soundly: our IT systems run stably, quickly and securely. When issues arise, they respond immediately and explain everything in plain language – no tech jargon. It's rare to find such a reliable partner in the IT world.",
@@ -378,22 +410,22 @@
     ]
   },
   "workProcess": {
-    "title": "How We Work",
+    "title": "Simple. Clear. Reliable.",
     "steps": [
       {
         "step": "1",
-        "title": "Initial Contact",
-        "description": "Send us a message or request a free consultation."
+        "title": "Free Consultation",
+        "description": "We listen to your needs. No forms, no scripts — just a real conversation about your situation."
       },
       {
         "step": "2",
-        "title": "IT Assessment",
-        "description": "We review your needs and provide expert recommendations."
+        "title": "Clear Proposal",
+        "description": "A written scope with exact pricing before we do anything. No hidden fees, no vague estimates."
       },
       {
         "step": "3",
-        "title": "Custom Proposal",
-        "description": "We create a tailored solution designed for your business."
+        "title": "Ongoing Partnership",
+        "description": "We don't disappear after delivery. We monitor, maintain, and support your systems long-term."
       }
     ]
   },
@@ -402,15 +434,15 @@
     "items": [
       {
         "question": "What businesses do you serve?",
-        "answer": "SIRONIC specializes in small and medium-sized enterprises, but we also offer solutions for larger companies based on unique needs. Whether it's system administration support, network building, or web development – we find the ideal IT solution for every business."
+        "answer": "SIRONIC primarily serves small and medium-sized businesses with 5–100 employees, operating in Hungary or across the EU. We also handle larger projects — just ask."
       },
       {
         "question": "How is SIRONIC different from other IT providers?",
-        "answer": "We are not just 'fixers' – we proactively monitor systems, prevent problems, and communicate in human language. We don't let IT be an obstacle, but rather forge a competitive advantage from it."
+        "answer": "Most IT providers fix things after they break. We monitor proactively, so most issues are resolved before you notice them. You also get the same person every time — someone who actually knows your setup."
       },
       {
         "question": "How fast do you react to an error report?",
-        "answer": "Generally, we react within 1–4 hours, in urgent cases even immediately. For our subscription partners, we provide guaranteed response times."
+        "answer": "For contracted partners: within 1–4 hours on standard issues. Critical incidents (server down, security breach): immediate response, 24/7."
       },
       {
         "question": "Do you undertake on-site visits or only provide remote support?",
@@ -418,7 +450,7 @@
       },
       {
         "question": "Do you create websites completely from scratch?",
-        "answer": "Naturally. We develop unique, responsive websites with modern technologies (Next.js, React, Tailwind), and ensure the site is fast, secure, and search engine optimized."
+        "answer": "Yes — from scratch, with custom design using Next.js, React, and TypeScript. No templates, no page builders. Starting from €250 + VAT."
       },
       {
         "question": "What is CRM Pro and how does it help my business?",
@@ -443,13 +475,13 @@
     ]
   },
   "finalCta": {
-    "title": "Ready for Worry-Free IT?",
-    "description": "Request a free consultation and let's find the best solution for your business together.",
-    "button": "Request a Quote Now"
+    "title": "Ready for IT that just works?",
+    "description": "Request a free consultation. We'll assess your needs, recommend the best approach, and give you a transparent quote — no obligations.",
+    "button": "Request Free Consultation"
   },
   "contact": {
     "title": "Contact Us",
-    "subtitle": "Have questions or want a free consultation? Get in touch with us, and we'll respond promptly!",
+    "subtitle": "Have questions or want a free consultation? Get in touch — we respond within 24 hours on business days.",
     "form": {
       "title": "Send a Message",
       "name": "Name",
@@ -458,7 +490,7 @@
       "service": "Which service are you interested in?",
       "servicePlaceholder": "Please select...",
       "message": "Message",
-      "submit": "Request Free IT Consultation!",
+      "submit": "Send My Message",
       "submitting": "Sending...",
       "required": "*",
       "success": "Your message has been sent successfully! We'll contact you shortly.",
@@ -493,7 +525,7 @@
   },
   "footer": {
     "companyName": "SIRONIC IT Solutions",
-    "tagline": "Comprehensive IT solutions for small and medium-sized businesses",
+    "tagline": "Reliable IT operations for European SMBs — from network infrastructure to custom software.",
     "legalName": "Skoda Dávid András Sole Proprietorship",
     "address": "8000 Székesfehérvár, Lövölde utca 24 4/15",
     "taxNumber": "Tax ID: 45755754-2-27",
@@ -516,8 +548,8 @@
     "subtitle": "Comprehensive IT solutions that keep your business secure and efficient. From fixed monthly maintenance and 24/7 monitoring to custom software development and network infrastructure – everything your SME needs in one place, with GDPR-compliant operations and transparent pricing.",
     "cta": {
       "title": "Interested in any of our services?",
-      "subtitle": "Request a free consultation and let's find the best solution for your business together.",
-      "requestQuote": "Request a Quote Now",
+      "subtitle": "Request a free consultation and let's find the right solution for your business.",
+      "requestQuote": "Request Free Consultation",
       "reportService": "Report Service Issue"
     },
     "details": {
@@ -642,9 +674,9 @@
   "aboutPage": {
     "title": "About Us",
     "intro": [
-      "SIRONIC IT Solutions started during the COVID period when every business had to rethink its IT operations. Since then, we have been continuously evolving and keeping up with the rapid changes in the IT world – because we believe technology can be an advantage, not a burden, for every company.",
-      "Our goal is that small and medium-sized businesses shouldn't have to struggle with IT problems. We don't just maintain systems – we provide stability, security, and peace of mind for operations.",
-      "Whether it's system management, network building, data security, or web development, with us, every IT solution is in one hand – fast, transparent, and in human language."
+      "Sironic was founded during the COVID period, when businesses had to rethink IT overnight. Since then we've grown steadily — not by pitching, but by being the kind of IT partner that clients keep.",
+      "We're based in Székesfehérvár, Hungary, and work with businesses across 16 EU countries — remotely and on-site. We're not a call centre, a franchise, or a ticket system. We're a small team that picks up the phone.",
+      "Whether it's system management, network infrastructure, data security, or custom software — every IT solution is handled by the same team, in plain language."
     ],
     "stats": [
       {
@@ -704,19 +736,19 @@
       ]
     },
     "values": {
-      "title": "Why Work With Us?",
+      "title": "How we work.",
       "items": [
         {
-          "title": "Proactive Attitude",
-          "description": "We don't just act when there's trouble. We continuously monitor your systems to prevent problems."
+          "title": "Proactive, not reactive",
+          "description": "We catch issues before you notice them. Most problems are resolved in the background — you hear from us when you need to, not just when things break."
         },
         {
-          "title": "Human Communication",
-          "description": "No 'ticket jungle' here. You talk to real people who understand your problem and help quickly."
+          "title": "Clear, human communication",
+          "description": "No jargon, no delays, no blame-shifting. You talk to a person who knows your setup and gives you a straight answer."
         },
         {
-          "title": "Transparency",
-          "description": "Fixed monthly maintenance or one-time solutions – no hidden fees, you always know what to expect."
+          "title": "EU-native operations",
+          "description": "GDPR-compliant from day one, available in 16 languages, with experience supporting cross-border EU businesses."
         }
       ]
     },
@@ -730,21 +762,21 @@
       ]
     },
     "finalCta": {
-      "title": "Become One of Our Partners!",
-      "subtitle": "Request a free consultation, and let's find the best IT solution for your business together.",
-      "button": "Let's Get in Touch"
+      "title": "Let's get to know each other.",
+      "subtitle": "Request a free consultation. We'll listen, assess your situation, and give you a clear recommendation — no obligation.",
+      "button": "Request Free Consultation"
     }
   },
   "pricingPage": {
     "title": "Pricing",
     "subtitle": "We create custom offers based on your business needs. No two companies are alike – so we always tailor our fees to your infrastructure and requirements.",
-    "heroTitle": "Transparent Pricing – Clear and Simple",
-    "heroDescription": "No hidden costs. We've designed our services so every business can find the right solution – whether it's maintenance, development, or repair.",
+    "heroTitle": "Honest pricing. No surprises.",
+    "heroDescription": "No hidden fees. Every project starts with a clear, written quote. You always know what you'll pay before we start.",
     "packages": {
       "mindenCegnek": {
         "title": "Every Company Deserves an IT Department",
         "price": "from 150 €/month",
-        "description": "Full IT operations in a monthly subscription – like having your own IT specialist.",
+        "description": "For companies with 5–80 employees that want professional IT management without hiring internally. 24/7 monitoring, proactive maintenance, backup management, and direct personal support.",
         "features": [
           "Continuous system monitoring and maintenance",
           "Rapid intervention in case of error",
@@ -765,7 +797,7 @@
           "Server and network supervision",
           "Proactive operation and security updates"
         ],
-        "ctaText": "Request Quote"
+        "ctaText": "Request Consultation"
       },
       "networking": {
         "title": "Network Building & Development",
@@ -777,7 +809,7 @@
           "Network optimization and maintenance",
           "Fast, stable, and secure data connection"
         ],
-        "ctaText": "Request Quote"
+        "ctaText": "Request Consultation"
       },
       "security": {
         "title": "IT Security & Data Protection",
@@ -789,7 +821,7 @@
           "Access management, encryption",
           "GDPR-compliant data protection"
         ],
-        "ctaText": "Request Quote"
+        "ctaText": "Request Consultation"
       },
       "development": {
         "title": "Website & System Development",
@@ -801,7 +833,7 @@
           "SEO and UX optimization",
           "Continuous support and maintenance"
         ],
-        "ctaText": "Request Quote"
+        "ctaText": "Request Consultation"
       },
       "commerce": {
         "title": "Commerce – IT Equipment & Software",
@@ -813,7 +845,7 @@
           "Software licenses and subscriptions",
           "Complete office infrastructure"
         ],
-        "ctaText": "Request Quote"
+        "ctaText": "Request Consultation"
       },
       "hosting": {
         "title": "Hosting & Cloud Solutions",
@@ -825,7 +857,7 @@
           "Private cloud service",
           "Continuous availability (99.9%)"
         ],
-        "ctaText": "Request Quote"
+        "ctaText": "Request Consultation"
       },
       "crm": {
         "title": "Custom CRM Development",
@@ -837,13 +869,13 @@
           "Automated reports and analytics",
           "User-friendly interface"
         ],
-        "ctaText": "Request Quote"
+        "ctaText": "Request Consultation"
       }
     },
     "customQuote": {
       "title": "Have unique needs?",
       "description": "Prices are indicative; exact quotes are always based on requirements.\nRequest a free consultation, and we'll help you find the best solution.",
-      "button": "Request Free IT Consultation"
+      "button": "Request Free Consultation"
     },
     "whyChoose": {
       "title": "Why Choose SIRONIC?",
@@ -961,9 +993,9 @@
       "note": "Pricing depends on contract length and task types. Request a custom quote!"
     },
     "finalCta": {
-      "title": "You don't need your own IT specialist, just a reliable partner",
-      "description": "We provide the expertise, fast response, and stable operation – you can focus on your company.",
-      "button": "Request Quote"
+      "title": "You don't need to hire — you need a reliable partner.",
+      "description": "Request a free consultation. We'll assess your environment and give you a written quote.",
+      "button": "Request Free Consultation"
     }
   },
   "customDevelopmentPage": {
@@ -2293,34 +2325,33 @@
     "cta": "See How We Can Help Your Business"
   },
   "process": {
-    "title": "Our Proven 4-Step Process",
+    "title": "Simple from day one.",
     "steps": [
       {
-        "title": "Discovery",
-        "description": "We listen to your challenges, assess your current setup, and understand your business goals. Free consultation, no obligations."
+        "title": "Free Consultation",
+        "description": "We start with a conversation — no forms, no scripts. Tell us what's broken, what's slow, or what you're worried about. We listen."
       },
       {
-        "title": "Proposal",
-        "description": "We provide a detailed proposal with clear scope, timeline, and transparent pricing. You know exactly what you're getting."
+        "title": "Clear Proposal",
+        "description": "You receive a written proposal with exact scope, timeline, and pricing. No vague estimates, no hidden fees."
       },
       {
-        "title": "Delivery",
-        "description": "We execute with regular check-ins, incremental milestones, and continuous communication. No surprises, just results."
+        "title": "Hands-On Delivery",
+        "description": "We do the work — with regular check-ins and clear milestones. You're never left wondering what's happening."
       },
       {
-        "title": "Support",
-        "description": "We don't disappear after launch. Ongoing maintenance, monitoring, and optimization ensure long-term success."
+        "title": "Ongoing Partnership",
+        "description": "We don't disappear after go-live. Monitoring, maintenance, and support continue — long term."
       }
     ]
   },
   "sla": {
-    "title": "Our Service Level Agreement",
+    "title": "Our SLA Commitments",
     "highlights": [
-      "Response SLA: Within 4 hours for standard issues, 1 hour for critical outages (contracted clients)",
-      "24/7 System Monitoring: Proactive alerts before users notice problems",
-      "Uptime Guarantee: 99.9% availability for managed infrastructure",
-      "Maintenance Windows: Scheduled updates during off-peak hours with advance notice",
-      "Escalation Path: Clear escalation process for unresolved issues"
+      "Standard issue response: within 1–4 business hours for contracted partners",
+      "Critical incident response: immediate, around the clock, 365 days/year",
+      "99.9% uptime guarantee on managed infrastructure",
+      "Monthly status report: what we monitored, what we fixed, what we recommend next"
     ]
   },
   "leadMagnet": {
@@ -2721,5 +2752,352 @@
       ]
     },
     "references": []
+  },
+  "managedItPage": {
+    "hero": {
+      "badge": "Managed IT Services",
+      "title": "Your IT — Managed, Monitored, and Always On.",
+      "subtitle": "For companies that need reliable IT without the cost, risk, and overhead of a full in-house team.",
+      "cta": "Request Free Consultation",
+      "secondaryCta": "See Pricing"
+    },
+    "pain": {
+      "title": "Does any of this sound familiar?",
+      "subtitle": "These are not edge cases. They cost real money, real time, and real trust.",
+      "items": [
+        "Your server goes down and nobody notices until a client calls.",
+        "You have one IT person — and when they're sick, everything stops.",
+        "You're paying for IT support only when something breaks.",
+        "Nobody on your team actually owns your software licenses, backups, or security.",
+        "You don't know what's running on your network.",
+        "IT issues are handled reactively — never proactively."
+      ],
+      "transition": "Companies like yours shouldn't have to manage infrastructure. That's our job."
+    },
+    "solution": {
+      "title": "Everything your IT department should be doing — already running.",
+      "subtitle": "Sironic acts as your dedicated IT team, proactively managing your infrastructure so you never have to scramble.",
+      "items": [
+        {
+          "title": "24/7 Server & Endpoint Monitoring",
+          "description": "Not just alerts — we act on them. Critical incidents trigger automatic escalation and engineer response."
+        },
+        {
+          "title": "Proactive Maintenance",
+          "description": "Patching, updates, and license renewals handled before they become problems."
+        },
+        {
+          "title": "Remote Helpdesk Support",
+          "description": "Response within 4 business hours for routine issues. Critical incidents escalated immediately."
+        },
+        {
+          "title": "Backup Verification",
+          "description": "Your backups are tested monthly — not just scheduled. You'll know they work before you need them."
+        },
+        {
+          "title": "Monthly IT Status Report",
+          "description": "A clear summary of what happened, what was fixed, and what's coming. No jargon."
+        },
+        {
+          "title": "Single Point of Contact",
+          "description": "One engineer who knows your setup. No ticket queues, no explaining your problem to someone new every time."
+        }
+      ]
+    },
+    "process": {
+      "title": "How we get started",
+      "subtitle": "A structured onboarding so nothing is missed and nothing changes without your approval.",
+      "steps": [
+        {
+          "title": "Free Consultation",
+          "description": "We understand your current setup, pain points, and goals."
+        },
+        {
+          "title": "Infrastructure Audit",
+          "description": "We document every device, account, and dependency before touching anything."
+        },
+        {
+          "title": "Handover & Onboarding",
+          "description": "Your team learns how to submit requests. We take over monitoring and maintenance."
+        },
+        {
+          "title": "Ongoing Partnership",
+          "description": "Monthly reports, proactive maintenance, and a team that picks up the phone."
+        }
+      ]
+    },
+    "sla": {
+      "title": "Contractual Guarantees (SLA)",
+      "highlights": [
+        "Strict response time: Critical issues tackled within 1 hour.",
+        "Proactive monitoring: 80% of issues are resolved before you even notice them.",
+        "Reliability 7 days a week: 24/7 on-call for business-critical systems.",
+        "Full transparency: Detailed monthly reports on work done and system health."
+      ]
+    },
+    "trust": {
+      "title": "You're not just buying a service. You're buying peace of mind.",
+      "subtitle": "What makes Sironic different from a typical IT support company.",
+      "points": [
+        {
+          "title": "5+ Years Serving EU SMBs",
+          "description": "100+ active clients across 16 EU countries. We understand the scale, compliance needs, and business realities of European SMBs."
+        },
+        {
+          "title": "99.9% Monitored Uptime",
+          "description": "We monitor 24/7 and act before outages occur. Our track record speaks for itself."
+        },
+        {
+          "title": "Human Communication",
+          "description": "Our engineers explain issues in plain language. No jargon, no ticket IDs, no waiting until Monday."
+        }
+      ],
+      "sla": {
+        "label": "Our SLA commitment:",
+        "text": "We respond to critical incidents within 4 hours. We document every change. You stay in control."
+      }
+    },
+    "pricing": {
+      "title": "Honest pricing. No surprises.",
+      "subtitle": "Per-company or per-user pricing with no hidden fees. You know exactly what IT costs.",
+      "description": "Our managed IT packages are tailored to company size. Whether you have 5 or 100 employees, we design a package that covers everything — monitoring, helpdesk, maintenance, and reporting.",
+      "cta": "Get a Custom Quote"
+    },
+    "faq": {
+      "title": "Frequently asked questions",
+      "items": [
+        {
+          "question": "Do we need to sign a long-term contract?",
+          "answer": "No. We offer monthly and annual arrangements. We prefer clients who stay because the service works, not because they're locked in."
+        },
+        {
+          "question": "What happens if something breaks outside of business hours?",
+          "answer": "Our monitoring systems are active 24/7. Critical incidents trigger automatic escalation. You won't be waiting until Monday."
+        },
+        {
+          "question": "We already have someone handling IT. Can you work alongside them?",
+          "answer": "Absolutely. We often act as a senior-level support layer for companies with an internal IT coordinator who needs backup."
+        },
+        {
+          "question": "What's your typical onboarding process?",
+          "answer": "We start with a full infrastructure audit — documenting every device, account, and dependency. No changes happen until we fully understand your environment."
+        },
+        {
+          "question": "Is there a setup fee?",
+          "answer": "The onboarding audit is included in your first month. No hidden setup costs."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Ready to stop worrying about IT?",
+      "subtitle": "Book a free 30-minute consultation. We'll walk through your current setup and tell you exactly where you stand — no obligation.",
+      "cta": "Request Free Consultation"
+    }
+  },
+  "cloudPage": {
+    "hero": {
+      "badge": "Cloud & Infrastructure",
+      "title": "Reliable Infrastructure. Built Right. Maintained by Experts.",
+      "subtitle": "Cloud hosting, on-premise servers, and hybrid environments — designed, deployed, and monitored by our infrastructure team.",
+      "cta": "Request Free Infrastructure Review",
+      "secondaryCta": "See Hosting Plans"
+    },
+    "pain": {
+      "title": "Most infrastructure problems are invisible — until they aren't.",
+      "subtitle": "If any of these sound familiar, your infrastructure deserves better management.",
+      "items": [
+        "Your hosting provider goes down and you're calling support for 6 hours.",
+        "Your cloud costs spike every month and nobody knows why.",
+        "Your backup system is \"set up\" but has never been tested.",
+        "You're on shared hosting that can't handle traffic spikes.",
+        "Nobody has reviewed your server configuration since it was installed.",
+        "Your server room is held together by improvised fixes."
+      ]
+    },
+    "solution": {
+      "title": "Infrastructure that behaves like it's managed by someone who cares.",
+      "subtitle": "Three service pillars — matched to your actual setup and requirements.",
+      "pillars": [
+        {
+          "title": "Managed Hosting",
+          "description": "European data centres, GDPR-compliant infrastructure, dedicated or VPS environments tailored to your workload. Uptime SLA in writing."
+        },
+        {
+          "title": "Cloud Infrastructure",
+          "description": "Cloud migrations (AWS, Azure, or private cloud), cost optimisation, and architecture review. We don't just move things to the cloud — we make them run leaner."
+        },
+        {
+          "title": "Hybrid & On-Premise",
+          "description": "Not everything belongs in the cloud. We design hybrid environments that keep sensitive data local while leveraging cloud elasticity where appropriate."
+        }
+      ],
+      "includedTitle": "What every managed environment includes",
+      "included": [
+        "Continuous monitoring with incident response",
+        "Automated backups with monthly restoration testing",
+        "Security hardening and patch management",
+        "EU data residency — GDPR-compliant by default",
+        "Transparent monthly performance and cost report",
+        "Version-controlled configuration documentation"
+      ]
+    },
+    "trust": {
+      "title": "Infrastructure you can measure, not just trust.",
+      "subtitle": "What sets our infrastructure work apart.",
+      "points": [
+        {
+          "title": "Enterprise-Grade Hardware",
+          "description": "All hosted infrastructure uses commercial-grade hardware and EU-based data centres. No consumer shortcuts."
+        },
+        {
+          "title": "Tested Backups",
+          "description": "Backup restoration tested monthly — not just scheduled. You'll know your data is recoverable before you need it."
+        },
+        {
+          "title": "Documented Everything",
+          "description": "Every environment is fully documented. You're never dependent on us to explain how your own infrastructure works."
+        }
+      ]
+    },
+    "pricing": {
+      "title": "Your infrastructure deserves engineers who actually manage it.",
+      "subtitle": "Hosting and infrastructure packages priced transparently — no surprise bills.",
+      "description": "We offer managed hosting and infrastructure packages from entry-level VPS to multi-server environments. Pricing is clear and per-month — no usage spikes, no hidden compute fees.",
+      "cta": "Get a Free Infrastructure Review"
+    },
+    "faq": {
+      "title": "Frequently asked questions",
+      "items": [
+        {
+          "question": "Do you offer managed hosting or do we need our own servers?",
+          "answer": "Both. We can host your services on our managed infrastructure or take over management of your existing environment."
+        },
+        {
+          "question": "Is my data stored in the EU?",
+          "answer": "Yes. All Sironic-managed hosting uses EU-based data centres, fully compliant with GDPR."
+        },
+        {
+          "question": "Can you migrate our existing setup without downtime?",
+          "answer": "In most cases, yes. We plan all migrations during low-traffic windows and run parallel environments during the transition."
+        },
+        {
+          "question": "We're on a budget. Can we start small?",
+          "answer": "Yes. We offer entry-level managed hosting packages and scale as your business grows."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Your infrastructure deserves proper engineering.",
+      "subtitle": "Get a free infrastructure review. We'll identify the gaps and show you what a well-managed environment looks like.",
+      "cta": "Request Free Infrastructure Review"
+    }
+  },
+  "cybersecurityPage": {
+    "hero": {
+      "badge": "Cybersecurity",
+      "title": "Protect Your Business. Not Just Your Servers.",
+      "subtitle": "Practical cybersecurity for European SMBs — endpoint protection, network hardening, NIS2 readiness, and incident response.",
+      "cta": "Request Free Security Assessment",
+      "secondaryCta": "Download IT Checklist"
+    },
+    "riskBanner": "The average cost of a data breach for a European SMB exceeds €200,000. Most incidents involve employees, not sophisticated hackers.",
+    "pain": {
+      "title": "Most SMBs are one mistake away from a serious incident.",
+      "subtitle": "These vulnerabilities are more common than you think — and most are preventable.",
+      "items": [
+        "An employee clicks a phishing link and nobody notices for 3 weeks.",
+        "Your firewall ruleset hasn't been reviewed since it was installed.",
+        "Remote workers are connecting from personal, unmanaged laptops.",
+        "You're not sure what data you hold or where it lives.",
+        "Your company falls under NIS2 — but nobody owns the compliance process.",
+        "Former employees still have active accounts in your systems."
+      ]
+    },
+    "solution": {
+      "title": "Security that's actually appropriate for your business size and risk level.",
+      "subtitle": "We don't sell enterprise theatre. We implement the controls that matter.",
+      "services": [
+        {
+          "title": "Security Audit & Risk Assessment",
+          "description": "We map your current posture: devices, access controls, firewall, email security, and backup integrity. You receive a prioritised remediation roadmap."
+        },
+        {
+          "title": "Endpoint Protection",
+          "description": "EDR (Endpoint Detection & Response) deployment, anti-malware, patch management, and mobile device policies across all managed endpoints."
+        },
+        {
+          "title": "Identity & Access Management",
+          "description": "MFA rollout, privileged access review, Active Directory hardening, and proper offboarding procedures. We close the doors attackers use most."
+        },
+        {
+          "title": "Network Security Hardening",
+          "description": "Firewall rules review, network segmentation, intrusion detection, and encrypted remote access built on our network engineering expertise."
+        },
+        {
+          "title": "NIS2 Compliance Support",
+          "description": "We help companies understand and implement the technical controls required by the EU NIS2 directive. Not legal advice — practical IT implementation."
+        },
+        {
+          "title": "Security Awareness Training",
+          "description": "Simulated phishing campaigns and staff training. The human layer is your most important security control."
+        }
+      ]
+    },
+    "nis2Block": {
+      "title": "Do you fall under NIS2?",
+      "description": "The NIS2 directive expanded to cover more EU sectors and supply chains. Fines can reach €10M or 2% of global annual turnover. We've guided companies through NIS2 readiness across 5+ EU countries.",
+      "link": "See our dedicated NIS2 compliance service →"
+    },
+    "trust": {
+      "title": "Security built by engineers, not a checkbox vendor.",
+      "subtitle": "What makes Sironic's security approach different.",
+      "points": [
+        {
+          "title": "Engineering-Led, Not Sales-Led",
+          "description": "All security work is led by our engineers — not product resellers. We recommend what's right for you, not what earns us margin."
+        },
+        {
+          "title": "EU-Native Compliance",
+          "description": "We've guided companies through NIS2 readiness across multiple EU countries. GDPR and EU regulations are part of every security recommendation."
+        },
+        {
+          "title": "No Lock-In",
+          "description": "We don't lock you into proprietary tools you can't manage without us. Everything we deploy is documented and transferable."
+        }
+      ],
+      "disclaimer": "We will always tell you if a security problem is outside our specialisation. We are IT engineers who take security seriously — not a CISO consultancy."
+    },
+    "pricing": {
+      "title": "Find out where your gaps are — before someone else does.",
+      "subtitle": "Start with a free security assessment call. No jargon. No pressure.",
+      "cta": "Request Free Security Assessment"
+    },
+    "faq": {
+      "title": "Frequently asked questions",
+      "items": [
+        {
+          "question": "We're a 20-person company. Do we actually need this?",
+          "answer": "If you process client data, accept online payments, or fall under any EU sector regulation — yes. Attackers target small businesses specifically because defenses are weaker."
+        },
+        {
+          "question": "What does NIS2 actually require from us?",
+          "answer": "It depends on your sector and size. We start with a scoping session to determine if and how NIS2 applies to your business, then help you build a compliant security posture from the ground up."
+        },
+        {
+          "question": "Can you respond to an active security incident?",
+          "answer": "We have incident response capabilities for managed clients. For new clients, we conduct an emergency assessment and implement immediate containment steps."
+        },
+        {
+          "question": "Do you sell security products?",
+          "answer": "We recommend and deploy solutions based on your needs — we don't earn commissions that influence our recommendations. We're engineers, not resellers."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Find out where your security gaps are — before someone else does.",
+      "subtitle": "Book a free 30-minute security assessment call. No jargon. No pressure. Just an honest conversation about your exposure.",
+      "cta": "Request Free Security Assessment",
+      "secondaryCta": "Download IT Checklist"
+    }
   }
 }

@@ -46,7 +46,7 @@ export function MindenCegnekSection() {
                 <div>
                   <h3 className="text-xl font-bold mb-2">{t('mindenCegnek.features.costEffective')}</h3>
                   <p className="text-muted-foreground">
-                    Professzionális IT szolgáltatás havidíjas konstrukcióban, rejtett költségek nélkül.
+                    {t('mindenCegnek.features.costEffectiveDetail')}
                   </p>
                 </div>
               </div>
@@ -60,7 +60,7 @@ export function MindenCegnekSection() {
                 <div>
                   <h3 className="text-xl font-bold mb-2">{t('mindenCegnek.features.discount')}</h3>
                   <p className="text-muted-foreground">
-                    Kezdje velünk a közös munkát kedvezményes feltételekkel és extra szolgáltatásokkal.
+                    {t('mindenCegnek.features.discountDetail')}
                   </p>
                 </div>
               </div>

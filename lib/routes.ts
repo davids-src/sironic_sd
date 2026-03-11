@@ -23,7 +23,12 @@ export type PageKey =
     | 'onsite-presence'
     | 'privacy'
     | 'partners'
-    | 'references';
+    | 'references'
+    | 'checklist'
+    | 'locations'
+    | 'managed-it'
+    | 'cloud-infrastructure'
+    | 'cybersecurity';
 
 /**
  * Route configuration mapping logical page names to locale-specific URL slugs.
@@ -317,6 +322,96 @@ export const routes: Record<PageKey, Record<Locale, string>> = {
         nl: 'referenties',
         pl: 'referencje',
         cs: 'reference',
+    },
+    checklist: {
+        hu: 'checklist',
+        en: 'checklist',
+        de: 'checklist',
+        sk: 'checklist',
+        ro: 'checklist',
+        hr: 'checklist',
+        sl: 'checklist',
+        fr: 'checklist',
+        it: 'checklist',
+        es: 'checklist',
+        sv: 'checklist',
+        da: 'checklist',
+        no: 'checklist',
+        nl: 'checklist',
+        pl: 'checklist',
+        cs: 'checklist',
+    },
+    locations: {
+        hu: 'helyszinek',
+        en: 'locations',
+        de: 'standorte',
+        sk: 'lokality',
+        ro: 'locatii',
+        hr: 'lokacije',
+        sl: 'lokacije',
+        fr: 'emplacements',
+        it: 'sedi',
+        es: 'ubicaciones',
+        sv: 'platser',
+        da: 'placeringer',
+        no: 'steder',
+        nl: 'locaties',
+        pl: 'lokalizacje',
+        cs: 'lokality',
+    },
+    'managed-it': {
+        hu: 'managed-it',
+        en: 'managed-it',
+        de: 'managed-it',
+        sk: 'managed-it',
+        ro: 'managed-it',
+        hr: 'managed-it',
+        sl: 'managed-it',
+        fr: 'managed-it',
+        it: 'managed-it',
+        es: 'managed-it',
+        sv: 'managed-it',
+        da: 'managed-it',
+        no: 'managed-it',
+        nl: 'managed-it',
+        pl: 'managed-it',
+        cs: 'managed-it',
+    },
+    'cloud-infrastructure': {
+        hu: 'cloud-infrastructure',
+        en: 'cloud-infrastructure',
+        de: 'cloud-infrastructure',
+        sk: 'cloud-infrastructure',
+        ro: 'cloud-infrastructure',
+        hr: 'cloud-infrastructure',
+        sl: 'cloud-infrastructure',
+        fr: 'cloud-infrastructure',
+        it: 'cloud-infrastructure',
+        es: 'cloud-infrastructure',
+        sv: 'cloud-infrastructure',
+        da: 'cloud-infrastructure',
+        no: 'cloud-infrastructure',
+        nl: 'cloud-infrastructure',
+        pl: 'cloud-infrastructure',
+        cs: 'cloud-infrastructure',
+    },
+    'cybersecurity': {
+        hu: 'cybersecurity',
+        en: 'cybersecurity',
+        de: 'cybersecurity',
+        sk: 'cybersecurity',
+        ro: 'cybersecurity',
+        hr: 'cybersecurity',
+        sl: 'cybersecurity',
+        fr: 'cybersecurity',
+        it: 'cybersecurity',
+        es: 'cybersecurity',
+        sv: 'cybersecurity',
+        da: 'cybersecurity',
+        no: 'cybersecurity',
+        nl: 'cybersecurity',
+        pl: 'cybersecurity',
+        cs: 'cybersecurity',
     },
 };
 
